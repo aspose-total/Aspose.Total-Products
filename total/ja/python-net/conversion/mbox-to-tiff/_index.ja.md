@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOXからTIFFへの変換は、メールボックスの内容を文書イメージング、アーカイブ保存、詳細なビジュアル保存に適した高品質のタグ付き画像ファイルに変換します。これは、マルチページイメージングや高忠実度、安定した文書キャプチャが重要なワークフローで価値があります。
+
+Python API を使用すると、MBOX から TIFF への変換をスキャン形式のアーカイブ、コンプライアンスリポジトリ、そして大量のメールレコードを管理するエンタープライズイメージングパイプライン向けに自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **アーカイブ画像保存**
+  メールコンテンツを TIFF ファイルに変換し、信頼できる長期ビジュアル保存を実現します。
+
+* **文書イメージングワークフロー**
+  スキャンまたはキャプチャされたレコード用に設計されたシステムで、メールボックス由来の画像を使用します。
+
+* **高忠実度メッセージエクスポート**
+  品質重視の画像形式でメールの外観を保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ TIFF レンダリング**
+  メールボックスエントリを自動的に TIFF 画像に変換し、アーカイブ用の出力を作成します。
+
+* **コンプライアンスイメージングパイプライン**
+  変換されたメール画像をレコード管理および文書キャプチャシステムにルーティングします。
+
+* **スケーラブルなビジュアル保存**
+  Python の自動化を使用して、大規模なメールアーカイブを詳細な画像ファイルに処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

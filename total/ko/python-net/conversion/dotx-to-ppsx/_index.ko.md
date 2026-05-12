@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 PPSX로의 변환은 Word 템플릿 콘텐츠를 직접 재생 가능한 최신 슬라이드쇼 형식으로 변환합니다. 이는 문서 기반 자료를 현대적인 프레젠테이션 구조에서 바로 볼 수 있는 슬라이드 콘텐츠로 제공하고자 하는 조직에 유용합니다.
+
+이 변환은 Python API를 통해 자동화를 지원하여 브리핑, 출판 및 커뮤니케이션 워크플로우에 맞춰 대규모로 프레젠테이션 준비된 슬라이드쇼 출력을 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대적인 슬라이드쇼 출력**
+  문서 콘텐츠를 직접 재생 가능한 슬라이드 프레젠테이션으로 전환하여 빠르게 배포합니다.
+
+* **프레젠테이션 준비 전달**
+  슬라이드 파일을 직접 생성함으로써 추가 편집 단계를 없앱니다.
+
+* **템플릿 기반 커뮤니케이션**
+  Word 템플릿을 시각적 프레젠테이션 자산으로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 렌더링**
+  예정된 프레젠테이션 워크플로우에서 DOTX 파일을 PPSX 출력으로 변환합니다.
+
+* **대량 프레젠테이션 게시**
+  반복되는 문서 템플릿에서 슬라이드쇼 준비 자산을 생성합니다.
+
+* **시각 콘텐츠 배포 파이프라인**
+  자동화된 보고 및 커뮤니케이션 시스템에서 직접 재생 출력물을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

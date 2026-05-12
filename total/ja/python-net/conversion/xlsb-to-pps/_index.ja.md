@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から PPS への変換は、バイナリのスプレッドシート コンテンツを直接表示用に設計されたプレゼンテーション スライドショー ファイルに変換し、閲覧のみの配信やプレゼンテーション再生シナリオに適しています。スプレッドシート主導のコンテンツを実行可能なプレゼンテーションとして配布する必要がある場合に便利です。
+
+自動化システム向けに、XLSB から PPS への変換は、キオスク、ブリーフィング、定期的なコミュニケーション向けのプレゼンテーション出力を効率的に生成でき、手作業の準備を削減しつつ、構造化データを一貫して提示できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スライドショー配布**  
+  スプレッドシート データを直接閲覧可能なプレゼンテーション ファイルに変換します。
+
+* **ミーティング再生**  
+  プレゼンテーションやブリーフィング用の表示準備が整ったコンテンツの作成をサポートします。
+
+* **閲覧のみの配信**  
+  スプレッドシート由来の情報を制御されたスライドショー形式で共有するのに役立ちます。
+
+* **運用ブリーフィング**  
+  構造化データを表示指向のワークフローで迅速に提示できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー出力**  
+  XLSB ファイルを直接プレゼンテーションで使用できる PPS ファイルに変換できます。
+
+* **スケジュールされたブリーフィング生成**  
+  システムは定期的なスプレッドシート入力からスライドショー用の出力を作成できます。
+
+* **バッチ表示準備**  
+  複数のスプレッドシート ファイルを再生準備が整ったスライドショーに変換できます。
+
+* **プレゼンテーション配信パイプライン**  
+  自動化されたワークフローは閲覧のみのプレゼンテーション コンテンツを効率的に公開できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から OFT への変換は、ワードプロセッシング文書を、繰り返し可能なコミュニケーションワークフローで使用されるメールテンプレートファイルに変換します。このプロセスにより、文書ベースのコンテンツを構造化されたテンプレートとして再利用し、一貫したアウトバウンドメッセージングが可能になります。
+
+Python API により、DOCX から OFT への変換は、メール自動生成システム、通知プラットフォーム、テンプレート駆動のコミュニケーションパイプラインに適しています。コンテンツを標準化し再利用する必要があるスケーラブルなメッセージング操作をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なメールテンプレートの作成**  
+  DOCX コンテンツを、繰り返し行われるコミュニケーションタスク用のテンプレートファイルに変換します。
+
+* **標準化されたメッセージングワークフロー**  
+  チームやシステム全体で一貫したフォーマットとメッセージングを維持するのに役立ちます。
+
+* **文書ベースのテンプレート管理**  
+  正式な文書をコミュニケーションテンプレートの基礎として使用できるようにします。
+
+* **自動通知の準備**  
+  スケジュールされたメールやイベント駆動型メール用の再利用可能なテンプレート作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  システムは DOCX ファイルを自動的に OFT テンプレートに変換し、コミュニケーションワークフローに利用できます。
+
+* **バッチテンプレート生成**  
+  Python スクリプトを使用して複数の文書を再利用可能なメールテンプレートに変換できます。
+
+* **エンタープライズメッセージング自動化**  
+  文書コンテンツを動的に OFT ファイルに変換し、標準化されたアウトリーチに利用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から Excel への変換により、文書の内容を計算、分析、構造化されたレビューのためのブック形式に転送できるようになります。これは、物語的または半構造化された文書に記録された情報を、運用または分析目的でシートに整理する必要がある場合に特に有用です。
+
+自動化の観点から、この変換は文書データをスプレッドシートのワークフローに移行するプロセスを効率化し、スケーラブルな処理、検証、レポートや意思決定支援システムとの統合を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **構造化データの準備**
+  Wordベースのコンテンツを、ソート、フィルタリング、分析に適したブックレイアウトに変換します。
+
+* **運用レポーティング**
+  文書情報をスプレッドシートに移し、レビュー、追跡、指標生成を行います。
+
+* **データクリーンアップと正規化**
+  非構造化または半構造化コンテンツを、利用可能なスプレッドシート構造に再フォーマットするのに役立ちます。
+
+* **ビジネスワークフローの有効化**
+  計算に適した形式で文書由来の情報が必要なチームを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書からブックへのパイプライン**
+  定期的に使用される Word ファイルを自動的に Excel 互換の出力に変換し、ビジネスで活用します。
+
+* **バッチ抽出ジョブ**
+  大量の文書をスプレッドシートに変換し、集中分析に利用します。
+
+* **検証と照合**
+  変換されたブックデータを自動チェック、比較、監査手順で使用します。
+
+* **分析統合**
+  スプレッドシートの出力をダッシュボード、スクリプト、下流の処理システムに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -114,7 +154,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -53,7 +53,41 @@ Kami menggunakan API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi Dokumen ke Gambar mengubah halaman Word menjadi berkas gambar untuk pratinjau, berbagi, penerbitan, dan pengarsipan visual. Ini berguna ketika rendering tata letak tetap, tampilan mudah, atau distribusi berbasis gambar diperlukan di lingkungan web dan seluler.
+
+API Python membuat konversi DOC ke Gambar menjadi efisien untuk pipeline rendering yang dapat diskalakan, pembuatan thumbnail, sistem pratinjau dokumen, dan alur kerja penerbitan otomatis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan Pratinjau Halaman**
+  Ubah halaman dokumen menjadi gambar untuk pratinjau cepat di portal dan aplikasi.
+
+* **Pengarsipan Visual**
+  Pertahankan tampilan dokumen sebagai gambar statis untuk peninjauan dan referensi.
+
+* **Dukungan Penerbitan Web**
+  Gunakan output gambar ketika konten dokumen harus disematkan secara visual secara daring.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipeline Pembuatan Thumbnail**
+  Secara otomatis render berkas DOC menjadi gambar halaman untuk antarmuka pencarian dan pratinjau.
+
+* **Alur Kerja Pengiriman Konten**
+  Hasilkan gambar dokumen untuk situs web, dasbor, atau sistem pesan.
+
+* **Pekerjaan Rendering Batch**
+  Secara programatik ubah koleksi dokumen besar menjadi gambar secara skala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

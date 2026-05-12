@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de TIFF para PST usando APIs Python permite que organizações convertam documentos baseados em imagens em formatos de arquivo de caixa de correio portátil usados para armazenamento, transferência e gerenciamento de comunicação a longo prazo. Isso é especialmente útil para preservar registros derivados de TIFF dentro de contêineres de arquivo estruturados que podem escalar em fluxos de trabalho corporativos.
+
+Em sistemas de automação, a conversão de TIFF para PST melhora a consistência de arquivamento, reduz o trabalho manual de consolidação e suporta o movimento confiável de registros visuais para armazenamentos de e‑mail transportáveis. É uma solução forte para cenários de migração, conformidade e manutenção histórica de registros.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Arquivo Portátil**
+  Converte o conteúdo TIFF em arquivos compatíveis com PST para armazenamento de caixa de correio transportável.
+
+* **Retenção de Registros a Longo Prazo**
+  Ajuda a preservar ativos de comunicação derivados de imagens em contêineres de arquivamento estruturados.
+
+* **Suporte ao Fluxo de Trabalho de Migração**
+  Permite que registros de documentos sejam preparados para transferência para ambientes de e‑mail baseados em arquivo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Arquivo em Escala**
+  Automatiza a conversão de lotes de TIFF em saídas PST para fluxos de trabalho de retenção empresarial.
+
+* **Pipelines de Preservação de Conformidade**
+  Suporta arquivamento estruturado de documentos digitalizados em formatos de caixa de correio portátil.
+
+* **Processamento de Migração e Backup**
+  Permite o empacotamento programático de registros derivados de TIFF para fluxos de trabalho de backup e transição de sistemas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

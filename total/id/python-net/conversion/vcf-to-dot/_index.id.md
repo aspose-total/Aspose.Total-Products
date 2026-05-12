@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi VCF ke DO
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to DOT conversion changes contact card information into word template files that can serve as reusable foundations for standardized document generation. This is valuable when contact data must be inserted into repeatable layouts for administrative or operational use.
+
+In automation workflows, VCF to DOT conversion enables Python-driven systems to prepare contact-based templates that support consistency, faster document creation, and scalable formatting across multiple output scenarios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Templat Kontak yang Dapat Digunakan Kembali**  
+  Ubah data VCF menjadi file DOT untuk pembuatan dokumen yang berulang.
+
+* **Pemformatan Standar**  
+  Pertahankan tata letak yang konsisten untuk dokumen berbasis kontak di seluruh tim.
+
+* **Persiapan Alur Kerja**  
+  Gunakan output templat sebagai titik awal untuk penyuntingan lebih lanjut atau pengisian otomatis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipeline Pembuatan Templat**  
+  Secara otomatis buat templat DOT dari catatan kontak untuk penggunaan kembali di kemudian hari.
+
+* **Produksi Dokumen Konsisten**  
+  Masukkan templat yang dihasilkan ke dalam sistem yang lebih besar yang memerlukan pemformatan kontak yang seragam.
+
+* **Struktur Konten Programatik**  
+  Gunakan API Python untuk membuat templat kontak yang dapat diulang secara skala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

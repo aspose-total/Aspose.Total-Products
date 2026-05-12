@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to FODS conversion converts macro-enabled documents into flat open spreadsheet files, enabling structured document data to be reused in open and XML-based spreadsheet workflows. It is useful where transparency, portability, and standardized data representation are important.
+
+**Italian translation:**
+La conversione da DOCM a FODS converte i documenti abilitati alle macro in file di foglio di calcolo aperti e piatti, consentendo ai dati strutturati del documento di essere riutilizzati in flussi di lavoro di fogli di calcolo aperti e basati su XML. È utile quando la trasparenza, la portabilità e la rappresentazione standardizzata dei dati sono importanti.
+
+In automated systems, DOCM to FODS conversion supports repeatable data extraction and integration into open document pipelines that favor readable, structured spreadsheet formats.
+
+**Italian translation:**
+Nei sistemi automatizzati, la conversione da DOCM a FODS supporta l'estrazione ripetibile dei dati e l'integrazione in pipeline di documenti aperti che favoriscono formati di foglio di calcolo leggibili e strutturati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Chiave" %}}
+
+* **Conversione in Foglio di Calcolo Aperto**
+  Sposta i dati del documento in un formato di foglio di calcolo piatto adatto agli ecosistemi aperti.
+
+* **Portabilità dei Dati Basata su XML**
+  Aiuta a preservare i contenuti strutturati in un formato facile da ispezionare e scambiare.
+
+* **Standardizzazione del Flusso di Lavoro**
+  Supporta le organizzazioni che utilizzano standard di documenti aperti per le operazioni sui fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Esportazioni Automatiche in Formato Aperto**
+  Converte i file DOCM in output FODS per l'elaborazione standardizzata.
+
+* **Integrazione con Pipeline XML**
+  Consente ai dati del documento di fluire verso sistemi che lavorano con fogli di calcolo basati su markup strutturato.
+
+* **Attività di Standardizzazione di Massa**
+  Normalizza le tabelle dei documenti in file di foglio di calcolo piatti su grandi lotti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

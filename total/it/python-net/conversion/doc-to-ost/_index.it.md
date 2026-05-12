@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a OST prepara contenuti derivati da documenti per flussi di lavoro associati a dati di casella di posta offline e ambienti di posta sincronizzati. È utile in scenari in cui le informazioni dei documenti devono allinearsi alle strutture di archiviazione della messaggistica aziendale.
+
+L'utilizzo delle API Python per l'elaborazione orientata da DOC a OST migliora la prontezza all'automazione, supporta la gestione standardizzata e riduce il lavoro manuale nelle operazioni aziendali legate alla posta.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dei dati della casella di posta**
+  Converti contenuti basati su documenti per flussi di lavoro che interagiscono con l'archiviazione della posta offline.
+
+* **Supporto alla comunicazione aziendale**
+  Allinea gli output dei documenti con gli ambienti di messaggistica utilizzati nei sistemi di posta sincronizzati.
+
+* **Integrazione del flusso di lavoro di conservazione**
+  Conserva o elabora contenuti derivati da documenti all'interno di operazioni orientate alla casella di posta.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione dell'archiviazione della posta**
+  Prepara programmaticamente i contenuti dei documenti per flussi di lavoro aziendali relativi a OST.
+
+* **Lavori di conversione su larga scala**
+  Automatizza la gestione dei documenti dove è richiesto un processamento compatibile con la casella di posta.
+
+* **Pipeline di conformità e conservazione**
+  Utilizza passaggi di conversione scriptati per supportare ambienti di dati di messaggi controllati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TIFF a VCF tramite le API Python consente di trasformare documenti basati su immagini contenenti informazioni di contatto in formati di schede di contatto strutturate per rubriche digitali e sistemi di comunicazione. Questo è utile quando biglietti da visita scansionati, moduli o registri di contatto visivi devono diventare voci di contatto ricercabili e riutilizzabili.
+
+Da un punto di vista dell'automazione, la conversione da TIFF a VCF migliora l'efficienza della cattura dei contatti, riduce l'inserimento manuale dei dati e supporta l'integrazione scalabile tra i flussi di lavoro di imaging dei documenti e la gestione dei contatti. Aiuta a convertire dati di contatto visivi statici in informazioni aziendali operative.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Digitalizzazione di biglietti da visita**
+  Converte le immagini TIFF di schede di contatto in record digitali di contatto compatibili VCF.
+
+* **Estrazione di contatti basata su moduli**
+  Aiuta a trasformare documenti di registrazione o di accettazione scansionati in voci di contatto riutilizzabili.
+
+* **Popolamento della rubrica**
+  Supporta il trasferimento dei dati di contatto visivi in sistemi di gestione dei contatti strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Ingestione automatica dei contatti**
+  Converte i documenti di contatto basati su TIFF in output VCF per l'importazione immediata nel sistema.
+
+* **Flussi di lavoro per la cattura di lead**
+  Supporta la trasformazione automatica di materiali di contatto scansionati in record strutturati di potenziali clienti.
+
+* **Processi di sincronizzazione della directory**
+  Consente la creazione programmatica di schede di contatto digitali da file sorgente basati su immagini.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

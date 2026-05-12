@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX からメールへの変換は、ドキュメントの内容をメールメッセージやメールベースのコミュニケーションシステムに埋め込めるメール対応フォーマットに変換します。このプロセスにより、DOCX ファイルからのテキスト、書式設定、構造化情報をメールワークフローに統合できます。
+
+Python API を使用すると、DOCX からメールへの変換をコミュニケーションプラットフォーム、ドキュメント配布システム、そして自動通知サービス内で自動化できます。これにより、手動での書式設定やコピーなしで、メールチャネルを通じた動的なドキュメント配信が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **ドキュメントベースのメール生成**  
+  DOCX ドキュメントを自動メールメッセージに適したコンテンツに変換します。
+
+* **自動レポート配布**  
+  DOCX 形式で作成されたレポートをメールワークフローで配布できるようにします。
+
+* **テンプレートベースのメール作成**  
+  ドキュメントテンプレートをフォーマットされたメールコンテンツに変換できます。
+
+* **コミュニケーションシステム間でのコンテンツ再利用**  
+  自動メールコミュニケーションパイプラインでドキュメントコンテンツの再利用を促進します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メール通知システム**  
+  DOCX ファイルは自動的にメールコンテンツに変換され、プログラムで受信者に送信できます。
+
+* **ドキュメントからメールへのワークフロー自動化**  
+  Python 自動化パイプラインは生成されたドキュメントをメール対応フォーマットに変換できます。
+
+* **動的コンテンツ配信プラットフォーム**  
+  システムは DOCX ドキュメントをメールメッセージに変換し、自動コミュニケーションプロセスに利用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

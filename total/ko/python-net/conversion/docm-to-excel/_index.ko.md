@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 Excel로의 변환은 매크로가 포함된 문서를 스프레드시트 준비가 된 워크북으로 변환하여 표, 목록 및 레코드와 같은 문서 내용을 보다 효율적으로 분석, 편집 및 재사용할 수 있게 합니다. DOCM 형식으로 캡처된 비즈니스 데이터를 계산에 친화적인 환경으로 이동해야 할 때 유용합니다.
+
+자동화와 확장성을 위해, DOCM에서 Excel로의 워크플로는 구조화된 추출, 보고 파이프라인 및 문서 내용을 운영 스프레드시트로 반복적으로 변환하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 기반 분석**
+  문서 데이터를 워크북 형태로 이동시켜 정렬, 필터링 및 검토를 가능하게 합니다.
+
+* **운영 보고**
+  구조화된 콘텐츠를 반복적인 보고 프로세스에 사용되는 스프레드시트로 변환합니다.
+
+* **데이터 재사용성**
+  문서에 포함된 정보를 팀 간에 편집하고 통합하기 쉽게 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 워크북 생성**
+  여러 DOCM 파일을 자동으로 스프레드시트 출력으로 변환하여 대규모 처리에 활용합니다.
+
+* **분석 준비**
+  문서에서 파생된 데이터를 자동화된 스프레드시트 및 보고 워크플로에 공급합니다.
+
+* **구조화된 데이터 교환**
+  문서 시스템과 스프레드시트 기반 도구 간의 프로그래밍 방식 핸드오프를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

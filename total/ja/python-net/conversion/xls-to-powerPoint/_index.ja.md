@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から PowerPoint への変換は、スプレッドシートのデータをプレゼンテーション用のコンテンツに変換し、視覚的なレポート作成、コミュニケーション、ステークホルダーへの更新を支援します。構造化された数値データや表形式の情報を、会議や意思決定に適した形式に変換する必要がある場合に有用です。
+
+Python API を使用すると、XLS から PowerPoint への変換は繰り返し可能なプロセスとなり、生産性を向上させ、レポートの自動化を支援し、スプレッドシートからのスライド生成をスケーラブルに実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **プレゼンテーションレポート**
+  XLS データをプレゼンテーション形式に変換し、ビジネスレビュー、プロジェクト更新、エグゼクティブサマリーに活用します。
+
+* **視覚的データコミュニケーション**
+  スプレッドシートの情報をスライドに適したコンテンツに再構成し、提示しやすくします。
+
+* **ステークホルダー向けブリーフィング資料**
+  スプレッドシートベースの入力を使用して、コミュニケーションワークフロー向けのプレゼンテーション資産を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドデック作成**
+  XLS 入力からプレゼンテーションファイルを生成し、定期的なレポートや更新に活用します。
+
+* **データからプレゼンテーションへのパイプライン**
+  Python API を使用して、スプレッドシートの出力を直接プレゼンテーション成果物に変換します。
+
+* **動的レポートワークフロー**
+  元のスプレッドシートデータが変更されるたびに、プレゼンテーションコンテンツを自動的に更新します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

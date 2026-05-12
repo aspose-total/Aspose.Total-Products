@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para PS transforma arquivos de caixa de correio em arquivos PostScript, suportando fluxos de trabalho orientados à impressão e de descrição de página onde a renderização estruturada de página é necessária. Isso é valioso em ambientes técnicos e de produção que dependem de um manuseio preciso de documentos para impressão.
+
+Usando APIs Python, as organizações podem automatizar a conversão de PS a partir de dados MBOX para suportar pipelines de impressão, sistemas legados de saída e processos escaláveis de renderização de e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Descrição de Página**
+  Converta o conteúdo do e‑mail em arquivos PS para fluxos de trabalho controlados de impressão e renderização.
+
+* **Suporte a Saída Legada**
+  Preserve os dados da caixa de correio em um formato compatível com ambientes de impressão estabelecidos.
+
+* **Preparação Estruturada para Impressão**
+  Habilite a saída de e‑mail com precisão de página para sistemas de documentação técnica.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivos de Impressão**
+  Converta o conteúdo da caixa de correio em saídas PostScript por meio de processos Python repetíveis.
+
+* **Integração ao Fluxo de Trabalho de Produção**
+  Direcione arquivos PS para sistemas corporativos de impressão e renderização.
+
+* **Compatibilidade Legada Escalável**
+  Processe grandes arquivos de e‑mail em saídas prontas para impressão em ambientes especializados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

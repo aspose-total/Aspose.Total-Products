@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から ODS への変換は、ワードプロセッシングテンプレートを構造化データ処理とオープンワークフローの互換性のための OpenDocument スプレッドシートに変換します。これは、文書の内容を分析、追跡、またはレポートをサポートするスプレッドシート形式に移行する必要がある場合に重要です。
+
+Python API を使用すると、DOT から ODS への変換を自動化できるため、チームは文書をオープンなスプレッドシート資産に迅速かつ一貫して変換できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープンスプレッドシート生成**
+  DOT ファイルを ODS に変換し、データ中心のレビューと操作を可能にします。
+
+* **テンプレートデータ構造化**
+  再利用可能な文書コンテンツをスプレッドシート形式に移し、運用で使用できるようにします。
+
+* **クロスプラットフォーム交換**
+  抽出された情報を多様な環境に適したオープン形式で共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化スプレッドシートワークフロー**
+  Python スクリプトは、スケジュールされたパイプラインで DOT テンプレートを ODS ファイルに変換できます。
+
+* **オープンデータ統合**
+  変換は、処理にオープンなスプレッドシート形式を使用するシステムをサポートします。
+
+* **大量文書変換**
+  プログラムによる自動化により、多数のテンプレートから ODS 出力を効率的に生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

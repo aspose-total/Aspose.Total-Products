@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to XLT conversion trasforma il contenuto dei modelli Word in un formato di modello di foglio di calcolo legacy per la creazione di cartelle di lavoro riutilizzabili. È utile quando le strutture tabulari derivate da documenti devono diventare basi di fogli di calcolo ripetibili in ambienti più vecchi.
+
+Questa conversione supporta l'automazione aiutando le API Python a generare risorse di fogli di calcolo orientate ai modelli per una reportistica coerente e flussi di lavoro operativi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Modelli di foglio di calcolo legacy**
+  Converti il contenuto dei documenti in modelli di cartelle di lavoro riutilizzabili per sistemi consolidati.
+
+* **Basi di report coerenti**
+  Standardizza la generazione ripetuta di fogli di calcolo a partire da strutture di documento approvate.
+
+* **Flussi di lavoro basati su modelli**
+  Riutilizza contenuti guidati da modelli in file di avvio per fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Output di modello automatizzato**
+  Genera file XLT da modelli DOTX per la creazione ripetibile di fogli di calcolo.
+
+* **Pipeline di reportistica standardizzate**
+  Utilizza i modelli convertiti per produrre cartelle di lavoro coerenti tra i team.
+
+* **Catene di modelli documento‑a‑cartella di lavoro**
+  Collega programmaticamente documenti strutturati a basi di fogli di calcolo riutilizzabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

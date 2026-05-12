@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による Excel から DOT への変換は、スプレッドシートの内容をワードプロセッシング用テンプレートファイルに変換し、再利用可能な文書の基盤として活用できるようにします。スプレッドシートデータを構造化されたテンプレートに変換して、繰り返し文書を生成する必要がある場合に便利です。
+
+この変換は、Excel のデータがスケーラブルで再利用可能な文書作成システムの一部となる、テンプレート中心のワークフローを可能にすることで自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **テンプレートの準備**  
+  スプレッドシートデータを DOT ファイルに変換し、再利用可能なワードプロセッシングテンプレートとして使用します。
+
+* **標準化された文書レイアウト**  
+  テンプレートベースの出力を作成し、繰り返し生成される文書全体で一貫性を保ちます。
+
+* **ワークフローの初期化**  
+  変換されたファイルを、類似の文書を頻繁に生成するチームの出発点として使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な文書生成**  
+  Excel から DOT への変換を自動化し、テンプレート駆動のレポートや文書作成を支援します。
+
+* **テンプレート配布パイプライン**  
+  構造化されたスプレッドシートコンテンツからプログラム的に文書テンプレートを作成します。
+
+* **再利用可能なコンテンツフレームワーク**  
+  大規模に標準化されたテンプレート資産を準備するシステムに変換プロセスを統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

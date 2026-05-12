@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 ODT를 PST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to PST 변환은 문서 내용을 번들된 커뮤니케이션 및 보관 시나리오에 사용되는 메일박스 지향 저장 형식으로 변환합니다. 이는 소스 텍스트를 마이그레이션, 저장 또는 기록 관리용 메시지 관련 컨테이너로 재사용해야 할 때 도움이 됩니다.
+
+Python API를 사용하면 ODT to PST 변환을 자동화된 보관 및 콘텐츠 패키징 워크플로에 통합할 수 있습니다. 이는 커뮤니케이션 중심 저장소를 위한 문서 기반 자산의 반복 가능한 준비를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **아카이브 컨테이너 준비**  
+  메일박스 스타일 보관 워크플로에서 사용하기 위해 문서 내용을 변환합니다.
+
+* **콘텐츠 마이그레이션 지원**  
+  문서 기반 자료를 메시지 지향 저장 환경으로 이동하는 데 도움을 줍니다.
+
+* **레코드 통합**  
+  변환된 콘텐츠를 구조화된 보관 컨테이너로 결합하는 것을 지원합니다.
+
+* **보존 워크플로 활성화**  
+  장기 보존 프로세스에 적합한 출력물을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 아카이브 패키징**  
+  Python 작업은 ODT 파일을 저장 워크플로를 위한 PST 지향 출력으로 변환할 수 있습니다.
+
+* **보존을 위한 대량 변환**  
+  대규모 문서 라이브러리를 자동으로 보관 준비를 위해 처리할 수 있습니다.
+
+* **마이그레이션 파이프라인 통합**  
+  변환된 출력은 보다 넓은 커뮤니케이션 시스템 전환의 일부로 생성될 수 있습니다.
+
+* **프로그래밍 방식 레코드 처리**  
+  문서 기반 콘텐츠는 대규모로 반복 가능한 보관 프로세스를 통해 이동할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

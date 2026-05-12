@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi MSG ke TE
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi MSG ke TEKS mengekstrak konten pesan email menjadi teks biasa untuk penyimpanan, pencarian, dan pemrosesan yang sederhana. Ini berharga ketika akses konten bersih lebih penting daripada format dan ketika output ringan diperlukan untuk pengindeksan atau analisis.
+
+Untuk otomatisasi, alur kerja MSG ke TEKS mendukung penambangan teks, pipeline pencarian, dan ingestasi konten yang ternormalisasi. Mereka membantu mengubah data komunikasi menjadi format minimal yang ramah mesin, cocok untuk pemrosesan yang dapat diskalakan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Ekstraksi Teks Biasa**  
+  Isolasi konten email untuk pembacaan mudah, penyimpanan, atau analisis lanjutan.
+
+* **Dukungan Pencarian dan Pengindeksan**  
+  Siapkan teks pesan untuk alur kerja katalogisasi dan pengambilan.
+
+* **Pemrosesan Data Ringan**  
+  Gunakan output yang disederhanakan dalam pipeline yang tidak memerlukan retensi format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipeline Ingestasi Konten**  
+  Konversi file MSG menjadi teks biasa untuk sistem pengindeksan dan klasifikasi.
+
+* **Alur Kerja Analitik Teks**  
+  Masukkan konten pesan yang diekstrak ke dalam proses analisis atau pemantauan otomatis.
+
+* **Pembuatan Arsip Ternormalisasi**  
+  Simpan catatan komunikasi dalam bentuk teks kompak untuk retensi yang dapat diskalakan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

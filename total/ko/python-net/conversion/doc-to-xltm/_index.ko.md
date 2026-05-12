@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to XLTM conversion transforms Word content into macro-enabled spreadsheet templates suited for reusable workbook creation with advanced automation behavior. It is valuable in process-heavy environments where templates must support more than static structure.
+
+Python APIs help automate DOC to XLTM conversion, enabling scalable template management, workflow consistency, and advanced spreadsheet operations.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 템플릿 생성**
+  Convert document content into reusable spreadsheet templates with automation support.
+
+* **프로세스 표준화**
+  Use XLTM output where recurring workbooks need both structure and advanced capability.
+
+* **운영 템플릿 재사용**
+  Repurpose formal documents into repeatable spreadsheet frameworks.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 제작**
+  Generate XLTM files from DOC sources for advanced spreadsheet workflows.
+
+* **재사용 가능한 워크북 파이프라인**
+  Programmatically transform document structures into macro-enabled templates.
+
+* **엔터프라이즈 스프레드시트 거버넌스**
+  Standardize template creation across teams through scripted conversion.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

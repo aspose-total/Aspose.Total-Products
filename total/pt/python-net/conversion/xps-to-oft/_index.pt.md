@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XPS para OFT com APIs Python permite que o conteúdo de documentos de layout fixo seja transformado em arquivos de modelo de e‑mail reutilizáveis. Isso é útil quando as organizações desejam converter saídas de documentos estruturados em modelos de mensagens repetíveis para notificações, campanhas, aprovações ou correspondência padronizada.
+
+Em fluxos de trabalho de automação, essa conversão melhora a consistência, reduz a autoria repetitiva e suporta a geração escalável de comunicações modeladas a partir de sistemas centrados em documentos e regras de negócios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Modelo de E‑mail Reutilizável**  
+  Converte o conteúdo XPS em modelos OFT que podem ser reutilizados em cenários de comunicação recorrentes.
+
+* **Fluxos de Trabalho de Correspondência Padronizada**  
+  Ajuda a manter estrutura e mensagens consistentes em processos de e‑mail orientados por documentos.
+
+* **Sistemas de Notificação Baseados em Modelo**  
+  Suporta a conversão de saídas de documentos em modelos de e‑mail repetíveis para mensagens operacionais.
+
+* **Design de Comunicação Orientado por Processos**  
+  Permite que o conteúdo de documentos estruturados alimente diretamente fluxos de trabalho de divulgação modelados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Dinâmica de Modelos**  
+  Os sistemas podem converter documentos XPS em modelos OFT para futura população automática de mensagens.
+
+* **Pipelines de Comunicação Baseados em Regras**  
+  Fluxos de trabalho automatizados podem selecionar e gerar modelos com base no tipo de documento ou estágio do fluxo.
+
+* **Preparação de Modelos em Alta Volumetria**  
+  Jobs em lote podem criar múltiplos arquivos OFT a partir de entradas XPS padronizadas para operações de comunicação escaláveis.
+
+* **Automação Integrada de Notificações**  
+  Modelos convertidos podem ser usados em sistemas que mesclam dados programaticamente para mensagens de saída personalizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

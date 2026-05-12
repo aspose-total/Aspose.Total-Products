@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOT do OST w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOT do OST przekształca szablony dokumentów w format offline ukierunkowany na skrzynkę pocztową, przeznaczony do przepływów pracy wiadomości i przygotowania archiwizacji. Jest to istotne w scenariuszach, w których treść pochodząca z szablonów jest włączana do procesów przechowywania komunikacji offline.
+
+Za pomocą interfejsów API Pythona, tę konwersję można włączyć do zautomatyzowanych systemów przygotowujących zasoby komunikacyjne oparte na dokumentach do synchronizacji skrzynek pocztowych lub obsługi archiwizacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Przygotowanie poczty offline**
+  Konwertuj treść opartą na DOT do przepływów pracy zgodnych z OST, przeznaczonych do przetwarzania związanego ze skrzynką pocztową.
+
+* **Wsparcie archiwizacji i synchronizacji**
+  Używaj danych komunikacyjnych pochodzących z szablonów w środowiskach wymagających struktur przechowywania offline.
+
+* **Pakowanie przepływu wiadomości**
+  Przygotuj ustrukturyzowane wyniki z szablonów dokumentów do operacji skoncentrowanych na skrzynce pocztowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane przygotowanie przechowywania poczty**
+  Skrypty Pythona mogą wspierać cykliczną konwersję plików DOT dla przepływów pracy poczty offline.
+
+* **Integracja poczty napędzana dokumentami**
+  Konwersja pomaga połączyć repozytoria szablonów z zsynchronizowanymi procesami komunikacyjnymi.
+
+* **Obsługa masowych zasobów poczty**
+  Programowe potoki usprawniają przygotowanie dużej ilości wyników ukierunkowanych na skrzynkę pocztową.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

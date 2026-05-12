@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から Email への変換は、文書コンテンツをメール送信可能な出力に変換し、レポート、通知、要約、または書式設定されたテキストをメッセージングワークフローで共有しやすくします。正式な文書を直接コミュニケーション用に再利用する必要がある場合に便利です。
+
+Python API を使用すると、ODT から Email への変換を自動通知システム、承認フロー、文書駆動型コミュニケーションパイプラインに統合できます。静的ファイルを実行可能な送信コンテンツに変換することで効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **文書ベースの通知**  
+  書かれたコンテンツをメールに適したコミュニケーションに変換します。
+
+* **レポート配布**  
+  ソース文書から要約、更新、または告知を迅速に共有できるようにします。
+
+* **ワークフローコミュニケーション**  
+  承認、アラート、ステータスメッセージングのシナリオをサポートします。
+
+* **コンテンツの再利用**  
+  文書テキストを外部または内部の通信に再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **トリガーされたメール生成**  
+  新しい文書が到着した際に、システムが ODT ファイルを自動的にメールコンテンツに変換できます。
+
+* **承認ワークフローメッセージング**  
+  Python の自動化により、文書の要約をレビュアーやステークホルダー向けのメッセージに変換できます。
+
+* **大量アウトリーチの準備**  
+  複数の文書をスケールで送信可能なメールコンテンツに変換できます。
+
+* **イベント駆動型通知**  
+  文書リポジトリの変更が自動変換と配信をトリガーできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

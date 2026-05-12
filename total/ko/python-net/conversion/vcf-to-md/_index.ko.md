@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 VCF를 MD로 변환 기
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to MD 변환은 연락처 카드 데이터를 읽기 쉽고, 편집하기 쉬우며 텍스트 기반 지식 시스템에 통합하기 쉬운 Markdown 문서로 변환합니다. 이는 휴대성, 단순성 및 버전 친화적인 콘텐츠를 중시하는 문서 환경에 특히 유용합니다.
+
+자동화 워크플로우에서 VCF to MD 변환은 Python API가 경량 연락처 문서를 생성하도록 하여 콘텐츠 저장소, 정적 사이트 및 구조화된 노트 생성 파이프라인에 자연스럽게 맞도록 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **읽기 쉬운 텍스트 문서화**  
+  VCF 레코드를 Markdown으로 변환하여 깔끔하고 휴대 가능한 문서를 만듭니다.
+
+* **지식 베이스 통합**  
+  연락처 정보를 텍스트 중심 시스템에 적합한 형식으로 저장합니다.
+
+* **버전 친화적인 콘텐츠 관리**  
+  연락처 데이터를 추적하기 쉬운 구조화된 평문 형식으로 관리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 Markdown 생성**  
+  정리된 문서를 위해 다수의 연락처 카드를 배치로 MD 파일을 생성합니다.
+
+* **정적 콘텐츠 파이프라인**  
+  변환된 연락처 파일을 자동 게시 및 저장소 워크플로우에 공급합니다.
+
+* **확장 가능한 텍스트 변환**  
+  Python API를 사용하여 경량 마크업 형식으로 연락처 데이터를 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

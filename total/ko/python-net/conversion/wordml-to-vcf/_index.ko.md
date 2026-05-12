@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 VCF로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 VCF로 변환하면 문서 기반 연락처 정보를 vCard 파일로 변환하여 연락처 관리 시스템에 가져올 수 있습니다. 문서에 저장된 이름, 전화번호, 주소 또는 관련 세부 정보를 표준화된 연락처 레코드로 변환해야 할 때 유용합니다.
+
+Python API를 사용하면 WordML을 VCF로 변환하는 작업을 자동화하여 관련 연락처 필드를 추출하고 CRM, 디렉터리 및 동기화 워크플로에 사용할 수 있는 휴대용 vCard 출력을 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 레코드 추출**
+  WordML 문서의 연락처 세부 정보를 가져올 수 있는 VCF 파일로 변환합니다.
+
+* **디렉터리 및 CRM 지원**
+  문서 기반 연락처 데이터를 구조화된 연락처 시스템으로 이동하는 데 도움을 줍니다.
+
+* **휴대용 연락처 공유**
+  플랫폼 간에 표준화된 연락처 정보를 교환할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 연락처 생성**
+  WordML에 저장된 디렉터리, 양식 또는 연락처 목록에서 VCF 생성을 자동화합니다.
+
+* **CRM 데이터 준비**
+  표준화된 연락처 레코드를 자동화된 비즈니스 시스템에 수집하는 것을 지원합니다.
+
+* **동기화 워크플로 활성화**
+  문서에 보관된 연락처 세부 정보를 반복적인 동기화를 위한 휴대용 파일로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST vers TIFF dans les API Python convertit le contenu des boîtes aux lettres en un format d'image de haute qualité couramment utilisé pour les flux de travail d'archivage et de numérisation. Elle est utile lorsque les enregistrements d'e‑mails doivent être conservés sous forme de fichiers visuels détaillés adaptés au stockage à long terme et à la révision contrôlée.
+
+Dans les scénarios d'automatisation, la conversion PST vers TIFF prend en charge les systèmes d'imagerie documentaire, les archives de conformité et la gestion structurée des enregistrements visuels. Elle aide les organisations à générer des sorties d'images durables à partir des données de boîtes aux lettres à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Imagerie de niveau archivage**  
+  Convertit le contenu PST en TIFF pour une préservation visuelle durable et détaillée.
+
+* **Flux de travail d'imagerie documentaire**  
+  Facilite l'intégration des enregistrements de boîtes aux lettres avec les systèmes de numérisation et d'archivage.
+
+* **Stockage des enregistrements de conformité**  
+  Prend en charge la rétention visuelle fixe des données de communication dans des environnements centrés sur l'image.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines d'imagerie automatisés**  
+  Les systèmes peuvent générer des fichiers TIFF à partir d'archives PST pour les dépôts d'archivage.
+
+* **Préservation visuelle haute fidélité**  
+  La sortie TIFF prend en charge les flux de travail qui nécessitent des enregistrements d'images stables et détaillés.
+
+* **Traitement archivistique évolutif**  
+  La conversion programmatique aide à gérer de grands volumes de tâches d'imagerie de boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

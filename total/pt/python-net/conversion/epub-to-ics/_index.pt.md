@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de EPUB para ICS em Python possibilita extrair ou reutilizar o conteúdo de publicações em arquivos compatíveis com calendários para agendamento e fluxos de trabalho baseados em eventos. Isso é especialmente útil quando o conteúdo do documento contém informações orientadas por datas, agendas, cronogramas ou detalhes de eventos que precisam de saída estruturada para calendário.
+
+Em cenários modernos de automação, a conversão de EPUB para ICS ajuda organizações a conectar documentos a sistemas de agendamento, melhorar a coordenação baseada em tempo e habilitar fluxos de trabalho alimentados por Python que geram entradas de calendário automaticamente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Agenda de Eventos**  
+  Converta o conteúdo EPUB que contém agendas ou cronogramas em arquivos ICS para uso em calendários.
+
+* **Distribuição de Agenda**  
+  Transforme informações de eventos baseadas em publicações em entradas de calendário mais fáceis de compartilhar e gerenciar.
+
+* **Suporte ao Fluxo de Trabalho de Planejamento**  
+  Use a saída ICS para conectar o conteúdo do documento com processos de planejamento e coordenação.
+
+* **Gerenciamento Estruturado de Datas**  
+  Transforme material de publicação focado em datas em um formato adequado para aplicativos de calendário e ferramentas de agendamento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automática de Calendário**  
+  Fluxos de trabalho em Python podem gerar arquivos ICS a partir de documentos EPUB que incluem eventos, sessões ou marcos.
+
+* **Pipelines de Conteúdo para Agenda**  
+  Sistemas automatizados podem converter dados de publicação em saídas de agendamento utilizáveis sem entrada manual.
+
+* **Publicação de Eventos Recorrentes**  
+  Atualizações repetidas de documentos podem acionar a geração de novos arquivos ICS para fluxos de trabalho de calendário sincronizados.
+
+* **Conversão em Lote de Eventos**  
+  Grandes coleções de arquivos EPUB baseados em agendas podem ser convertidas programaticamente para uma população de calendário eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

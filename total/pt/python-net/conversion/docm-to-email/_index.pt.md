@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de DOCM para EMAIL prepara o conteúdo de documentos habilitados para macro para uso em fluxos de trabalho orientados a e‑mail, facilitando a transformação das informações do documento em saída pronta para mensagem. Isso é útil para notificações, resumos, aprovações ou processos de comunicação impulsionados pelo conteúdo do documento.
+
+Em sistemas automatizados modernos, a conversão de DOCM para EMAIL ajuda a conectar documentos criados com pipelines de comunicação, permitindo distribuição escalável, mensagens modeladas e correspondência acionada por fluxos de trabalho.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Notificações Baseadas em Documentos**
+  Converte o conteúdo do documento em material pronto para e‑mail para comunicação operacional.
+
+* **Fluxos de Aprovação**
+  Suporta o compartilhamento de resumos derivados de documentos com revisores e partes interessadas.
+
+* **Reuso de Conteúdo em Mensagens**
+  Facilita a reutilização de texto formal de documentos dentro de canais de comunicação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Mensagens Disparada**
+  Cria automaticamente o conteúdo de e‑mail quando novos arquivos DOCM entram em um fluxo de trabalho.
+
+* **Pipelines de Documento para Comunicação**
+  Conecta o conteúdo criado com sistemas automatizados de envio de mensagens.
+
+* **Processos de Distribuição Escaláveis**
+  Permite a criação em lote de saídas prontas para mensagem a partir de muitos documentos de uma só vez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

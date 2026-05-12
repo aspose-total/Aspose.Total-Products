@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers PST convertit le contenu des modèles Word en un format de table de stockage personnel associé aux flux de travail d'archivage des boîtes aux lettres et des messages. Elle est utile lorsque le contenu de communication généré doit être empaqueté dans des structures de stockage de courrier portable.
+
+En utilisant les API Python, cette conversion prend en charge l'automatisation de l'archivage des e‑mails, de l'organisation des messages et de la rétention à grande échelle des communications dérivées de modèles de documents structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Archivage de courrier portable**
+  Emballer la communication dérivée de documents dans un format de stockage de courrier structuré.
+
+* **Flux de travail de rétention des messages**
+  Conserver les communications générées pour l'examen et la conformité.
+
+* **Emballage de la communication**
+  Consolider les messages réutilisables basés sur des documents en sorties orientées archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée d'archives de courrier**
+  Créer des sorties PST à partir du contenu de communication basé sur DOTX dans les pipelines de rétention.
+
+* **Stockage de messages en masse**
+  Gérer de grands volumes de correspondance générée via des archives structurées.
+
+* **Automatisation document‑vers‑archive**
+  Convertir les sorties récurrentes de modèles en actifs de boîte aux lettres portables de manière programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

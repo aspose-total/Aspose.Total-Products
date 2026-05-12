@@ -53,7 +53,41 @@ OTT から MHTML (Web アーカイブ形式) への変換機能または HtmlFix
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API の OTT から MHTML への変換は、OpenDocument テキストテンプレートを、コンテンツを単一のポータブルなページ形式にまとめた Web アーカイブファイルに変換します。これは、ドキュメントの出力をブラウザで表示する必要がある場合や、自己完結型の Web コンテンツとして保存する必要がある場合に有用です。
+
+この変換により、テンプレートから共有可能で軽量な Web 対応アーティファクトを一貫して生成できるようになり、保存、転送、またはより広範なデジタルワークフローに組み込むことが可能となり、オートメーションが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **Web アーカイブ生成**  
+  ドキュメントテンプレートから自己完結型ページ出力を作成します。
+
+* **ポータブル閲覧**  
+  コンテンツをブラウザ対応環境で簡単に開けるようにします。
+
+* **単一ファイル保存**  
+  フォーマットされたドキュメント出力を1つの転送可能なファイルにパッケージ化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Web スナップショット作成**  
+  OTT ファイルを大量にアーカイブされた Web ドキュメントに変換します。
+
+* **ブラウザベースの配布**  
+  テンプレート出力を Web で閲覧可能なファイルとして共有するワークフローをサポートします。
+
+* **コンテンツ保存パイプライン**  
+  フォーマットされたドキュメント状態をコンパクトなポータブル形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

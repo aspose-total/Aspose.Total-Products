@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS를 DOCX로 변환하면 평면 OpenDocument 스프레드시트 콘텐츠를 널리 사용되는 최신 워드 프로세싱 형식으로 접근할 수 있게 하여, 조직이 구조화된 데이터를 깔끔하고 편집 가능한 문서로 변환하도록 돕습니다. 이는 스프레드시트 정보를 서식이 지정된 텍스트 콘텐츠, 요약, 또는 비즈니스에 바로 사용할 수 있는 문서 형태로 공유해야 할 때 유용합니다.
+
+자동화 사용 사례에서는 FODS를 DOCX로 변환함으로써 확장 가능한 문서 생성, 원활한 데이터 변환, 효율적인 워크플로 통합을 지원합니다. Python API를 통해 팀은 반복적인 변환 작업을 자동화하고, 문서 출력을 표준화하며, 변환 단계를 최신 처리 파이프라인에 삽입할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **전문 문서 작성**  
+  스프레드시트 데이터를 DOCX 파일로 변환하여 깔끔하고 편집 가능한 비즈니스 문서를 만듭니다.
+
+* **이해관계자 커뮤니케이션**  
+  구조화된 정보를 보다 넓은 청중이 쉽게 활용할 수 있는 문서 형식으로 공유합니다.
+
+* **콘텐츠 재패키징**  
+  표 형식의 원본 데이터를 요약 및 프레젠테이션에 적합한 서술형 문서로 변환합니다.
+
+* **부서 간 협업**  
+  스프레드시트 애플리케이션보다 문서 편집기에 의존하는 팀을 위해 DOCX 출력을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 보고 파이프라인**  
+  Python 스크립트를 사용하면 수동 개입 없이 FODS 데이터 세트를 DOCX 보고서로 변환할 수 있습니다.
+
+* **배치 문서 생성**  
+  여러 스프레드시트 파일을 프로그래밍 방식으로 변환하여 일관된 문서 출력을 만들 수 있습니다.
+
+* **워크플로 통합**  
+  DOCX 생성은 더 큰 데이터 처리, 승인 또는 출판 시스템에 삽입될 수 있습니다.
+
+* **확장 가능한 문서 전달**  
+  자동 변환을 통해 운영에 사용할 편집 가능한 문서를 빠르고 반복적으로 준비할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

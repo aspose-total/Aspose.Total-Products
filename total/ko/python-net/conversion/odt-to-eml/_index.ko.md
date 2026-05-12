@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 ODT를 EML로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 EML로 변환은 OpenDocument Text 파일을 표준 이메일 메시지 형식으로 변환하여 저장, 전송 또는 보관 목적을 위해 메시지 구조를 유지합니다. 이는 문서 내용을 커뮤니케이션이나 기록 관리용 이메일 아티팩트로 패키징해야 할 때 유용합니다.
+
+자동화 환경에서 ODT에서 EML로 변환은 문서-메시지 워크플로, 이메일 보관 프로세스 및 대량 콘텐츠 변환을 지원합니다. Python API를 사용하면 이러한 작업을 프로그래밍 방식으로 일관되게 대규모 문서 집합에 대해 실행할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이메일 메시지 생성**  
+  문서 내용을 휴대 가능한 이메일 메시지 형식으로 변환합니다.
+
+* **보관 패키징**  
+  표준화된 구조로 커뮤니케이션 준비된 콘텐츠를 보존하는 데 도움이 됩니다.
+
+* **워크플로 인계**  
+  메시지 기반 교환을 사용하는 시스템을 위해 문서를 준비합니다.
+
+* **콘텐츠 배포 준비**  
+  하위 전달 또는 검토를 이메일 객체로 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 메시지 패키징**  
+  Python 워크플로를 통해 문서를 저장 또는 전송용 EML 파일로 변환할 수 있습니다.
+
+* **보관 파이프라인**  
+  ODT 콘텐츠를 장기 커뮤니케이션 기록을 위해 자동으로 변환할 수 있습니다.
+
+* **대량 이메일 아티팩트 생성**  
+  대규모 문서 컬렉션을 배치 작업으로 EML 형식으로 처리할 수 있습니다.
+
+* **시스템 간 교환**  
+  자동화 프로세스가 메시징 중심 통합에서 EML 출력을 사용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

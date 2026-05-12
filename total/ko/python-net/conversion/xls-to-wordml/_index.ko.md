@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS에서 WordML로의 변환은 스프레드시트 콘텐츠를 구조화된 문서 표현 및 상호 운용성을 지원하는 XML 기반 워드 프로세싱 형식으로 변환합니다. 이는 조직이 XML 기반 시스템이나 아카이브 워크플로와 일치하는 문서 출력을 필요로 할 때 유용합니다.
+
+Python API는 스프레드시트 입력으로부터 구조화된 문서 파일을 반복 가능하고 시스템 친화적인 방식으로 프로그래밍적으로 생성할 수 있게 하여 XLS에서 WordML로의 변환을 자동화에 실용적으로 만듭니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 출력**
+  구조화되고 시스템이 읽을 수 있는 문서 워크플로를 위해 XLS 데이터를 WordML 파일로 변환합니다.
+
+* **상호 운용 가능한 콘텐츠 교환**
+  문서 콘텐츠가 XML 인식 시스템과 통합되어야 할 때 WordML을 사용합니다.
+
+* **구조화된 아카이브 준비**
+  스프레드시트 정보를 제어된 문서 저장 및 변환에 적합한 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **프로그래밍 방식 XML 문서 생성**
+  Python API를 사용하여 스프레드시트 소스에서 WordML 파일을 자동으로 생성합니다.
+
+* **시스템 통합 파이프라인**
+  구조화된 문서 교환이 필요한 워크플로에 XLS에서 WordML로의 변환을 추가합니다.
+
+* **확장 가능한 형식 변환**
+  XML 기반 일관성이 중요한 대규모 문서 세트에 대한 변환을 자동화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

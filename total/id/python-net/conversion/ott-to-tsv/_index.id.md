@@ -65,7 +65,41 @@ Ini terutama dalam dua langkah. Pertama gunakan API [Aspose.Words for Python via
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi OTT ke TSV dalam API Python mengubah templat teks OpenDocument menjadi nilai yang dipisahkan tab untuk pertukaran data yang bersih, ringan, dan terstruktur. Ini berguna ketika konten berbasis templat harus dipindahkan ke sistem yang lebih menyukai output tabel berbasis teks yang sederhana.
+
+Konversi ini meningkatkan otomatisasi dengan memungkinkan parsing, transformasi, dan pemuatan yang mudah ke dalam alur kerja yang menghargai overhead minimal, portabilitas, dan struktur berbasis delimiter yang dapat diandalkan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Ekspor Data Terbatas**  
+  Mengubah konten dokumen menjadi output terstruktur yang dipisahkan tab.
+
+* **Pemformatan Ramah Pipeline**  
+  Mendukung sistem yang memproses tabel berbasis teks yang ringan.
+
+* **Persiapan Data**  
+  Mempermudah konten yang diekstrak untuk diimpor ke dalam alat analitis atau operasional.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Konversi Tabel Batch**  
+  Menghasilkan file TSV dari templat OTT secara skala besar.
+
+* **Pemberian Alur Kerja ETL**  
+  Mengirim data yang dihasilkan dokumen ke dalam pipeline parsing dan transformasi.
+
+* **Ekspor Terstruktur Terjadwal**  
+  Mendukung pembuatan berulang dataset yang dapat dibaca mesin secara sederhana.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

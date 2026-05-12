@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to SXC 변환은 워드 프로세싱 문서를 오래된 오픈오피스 스프레드시트 환경과 호환되는 스프레드시트 파일로 변환합니다. 이 프로세스는 구조화된 또는 표 형식의 문서 내용을 재사용 가능한 데이터 중심 형식으로 변환하는 데 도움이 됩니다.
+
+Python API를 사용하면 DOCX-to-SXC 변환을 레거시 시스템 지원 워크플로, 문서 마이그레이션 파이프라인 및 자동 보고 시스템에 통합할 수 있습니다. 오래된 스프레드시트 표준이 여전히 중요한 경우 상호 운용성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 내보내기**  
+  DOCX 콘텐츠를 오래된 사무 환경용 스프레드시트 파일로 변환합니다.
+
+* **구조화된 데이터 마이그레이션**  
+  문서 기반 표와 정리된 정보를 데이터 중심 형식으로 이동하는 데 도움이 됩니다.
+
+* **오래된 시스템과의 호환성**  
+  레거시 스프레드시트 표준에 의존하는 워크플로를 지원합니다.
+
+* **문서-스프레드시트 재사용**  
+  구조화된 텍스트를 분석 또는 보관 용도로 변환할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 레거시 포맷 변환**  
+  시스템은 호환성 워크플로를 위해 DOCX 파일을 SXC 스프레드시트로 변환할 수 있습니다.
+
+* **배치 스프레드시트 내보내기 파이프라인**  
+  Python 스크립트는 대규모 문서 컬렉션을 레거시 스프레드시트 출력으로 변환할 수 있습니다.
+
+* **마이그레이션 및 상호 운용성 자동화**  
+  문서 데이터는 오래된 플랫폼용 SXC 형식으로 프로그래밍 방식으로 변환될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG to MSG 変換は、画像ベースのコンテンツを構造化されたメールメッセージファイルに変換し、メッセージングワークフローで保存、レビュー、または交換できるようにします。通知、スクリーンショット、ビジュアルアップデートなどの PNG ファイルを、運用またはアーカイブ用途の個別メッセージレコードにする必要がある場合に便利です。
+
+Python API は、このプロセスを強化し、MSG の生成を繰り返し可能かつスケーラブルにし、アプリケーションがメッセージ作成を自動化し、手作業を削減し、ビジュアル入力をエンタープライズのコミュニケーションおよびストレージシステムと接続できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メッセージファイル作成**  
+  PNG 入力を MSG ファイルに変換し、構造化されたメール形式のレコードを生成します。
+
+* **ビジュアルコミュニケーションのアーカイブ**  
+  画像ベースの更新を単独のメッセージファイルとして保存し、後で取得できるようにします。
+
+* **運用レコードのパッケージ化**  
+  画像コンテンツをメッセージ指向の形式で表現する必要があるワークフローをサポートします。
+
+* **システム相互運用性のサポート**  
+  PNG 由来のコンテンツが、構造化されたメッセージファイルに依存する環境に適合できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された MSG 生成**  
+  Python API は、メッセージ処理パイプラインの一部として、受信した PNG アセットから MSG ファイルを作成できます。
+
+* **バッチ変換ワークフロー**  
+  大量の PNG ファイルをプログラムで MSG 出力に変換し、運用効率を向上させることができます。
+
+* **ケースおよびチケットの文書化**  
+  システムは、サポート、監査、または文書化ワークフローのために、ビジュアルレコードを MSG ファイルにパッケージ化できます。
+
+* **ルールベースのメッセージ作成**  
+  アプリケーションは、トリガー、カテゴリ、またはソースイベントに基づいて PNG コンテンツから動的に MSG ファイルを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

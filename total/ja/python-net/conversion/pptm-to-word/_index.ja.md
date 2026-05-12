@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PPTM から Word への変換は、マクロ対応プレゼンテーションのコンテンツを、文書化、レビュー、共同編集に適したワードプロセッシング形式に変換します。スライドベースの情報をレポート、手順、要約、または正式な文書コミュニケーションの一部にする必要がある場合に有益です。
+
+この変換は、手作業での書き直しを減らし、プレゼンテーション資料を文書中心のワークフローにより一貫して流入させることで、オートメーションを向上させます。プレゼンテーションソースから文書出力が必要とされる場面で、スケーラブルなコンテンツ変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スライドからのレポート作成**
+  プレゼンテーション資料を正式なレポート作成のための文書コンテンツに変換します。
+
+* **共同編集ワークフロー**
+  スライド情報をテキストベースの環境でレビューおよび洗練しやすくします。
+
+* **ドキュメントの再利用**
+  ポリシー、要約、ナレッジ資料におけるプレゼンテーション資産の再利用をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書変換**
+  PPTM ファイルを繰り返し可能なバッチワークフローでワードプロセッシング出力に変換します。
+
+* **コンテンツレビュー自動化**
+  変換された資料を編集および承認プロセスにより効率的に移行します。
+
+* **ナレッジマネジメント統合**
+  プレゼンテーション由来のコンテンツを検索可能な文書リポジトリに供給できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

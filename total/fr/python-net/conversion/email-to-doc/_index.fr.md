@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e-mails en DOC avec Python permet de transformer le contenu des messages en documents Word compatibles, modifiables, pour la révision, la mise en forme et la réutilisation. Cela est précieux lorsque les communications par e‑mail doivent être intégrées à des rapports, des propositions ou de la documentation opérationnelle.
+
+Le processus améliore l'automatisation en transformant les données de la boîte de réception en documents structurés qui peuvent être édités, versionnés et acheminés à grande échelle via des systèmes de gestion de contenu ou d'approbation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Enregistrements de communication modifiables**  
+  Convertir les e‑mails en fichiers DOC afin que les équipes puissent réviser et réutiliser le contenu des messages.
+
+* **Préparation de documentation d'entreprise**  
+  Insérer le contenu des e‑mails dans des documents officiels à des fins de projet, juridiques ou administratives.
+
+* **Capture de connaissances**  
+  Conserver les discussions importantes par e‑mail dans un format adapté aux dépôts de documents.
+
+* **Édition collaborative**  
+  Permettre aux équipes d'annoter et de mettre à jour le contenu des e‑mails convertis dans des environnements de traitement de texte familiers.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de boîte de réception vers document**  
+  Convertir automatiquement les e‑mails sélectionnés en fichiers DOC pour les flux de travail d'édition en aval.
+
+* **Assemblage de dossiers de cas**  
+  Fusionner les documents e‑mail convertis dans des ensembles de documentation de cas ou de projet plus larges.
+
+* **Automatisation de la réutilisation de contenu**  
+  Extraire et réutiliser les récits d'e‑mails dans des modèles, des résumés ou des dossiers internes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

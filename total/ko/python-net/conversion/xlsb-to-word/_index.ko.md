@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB를 Word로 변환하면 이진 스프레드시트 데이터를 워드 프로세싱 문서로 바꾸어 스프레드시트 기반 정보를 문서 중심 환경에서 더 쉽게 읽고, 편집하고, 배포할 수 있게 합니다. 구조화된 데이터를 서술형이나 프레젠테이션용 콘텐츠로 변환해야 할 때 유용합니다.
+
+자동화 시스템에서는 XLSB를 Word로 변환함으로써 스프레드시트 소스에서 효율적인 문서 생성을 지원하고, 조직이 보고를 확장하고, 수동 포맷팅 작업을 줄이며, 데이터 처리와 문서화 워크플로를 연결하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **읽기 쉬운 문서 출력**  
+  스프레드시트 내용을 워드 프로세싱 파일로 변환하여 검토 및 공유를 더 쉽게 합니다.
+
+* **비즈니스 커뮤니케이션**  
+  구조화된 데이터를 보다 넓은 청중을 위한 문서 친화적 형식으로 변환하는 데 도움을 줍니다.
+
+* **콘텐츠 재포맷**  
+  스프레드시트 정보를 편집 가능한 텍스트 문서로 재활용하는 것을 지원합니다.
+
+* **워크플로 문서화**  
+  스프레드시트에서 파생된 콘텐츠가 표준 문서 프로세스에 맞도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 Word 문서 생성**  
+  시스템이 보고 파이프라인의 일환으로 XLSB 파일을 Word 문서로 변환할 수 있습니다.
+
+* **대량 변환 프로세스**  
+  여러 스프레드시트 소스를 효율적으로 편집 가능한 문서 출력으로 변환할 수 있습니다.
+
+* **통합 보고 워크플로**  
+  스프레드시트 데이터가 정기적인 비즈니스 요구에 맞는 자동 문서 생성에 활용될 수 있습니다.
+
+* **일관된 콘텐츠 제공**  
+  자동 변환은 스프레드시트 데이터가 최종 문서에 표시되는 방식을 표준화하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

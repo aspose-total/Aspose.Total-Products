@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 DOCX로 변환하면 프레젠테이션 기반 자료를 풍부한 텍스트, 구조화된 레이아웃 및 광범위한 호환성을 지원하는 최신 편집 가능한 문서 형식으로 전환합니다. 슬라이드 내용을 보고서, 제안서, 문서 또는 협업용 서면 자산으로 확장해야 할 때 유용합니다.
+
+Python API를 사용한 PPTX를 DOCX로 자동 변환은 콘텐츠 재사용을 향상하고 확장 가능한 문서 워크플로를 지원합니다. 이를 통해 조직은 시각적 프레젠테이션을 편집, 검토, 색인 및 현대 디지털 환경 전반에 배포할 수 있는 구조화된 문서로 변환할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 보고서 작성**
+  슬라이드 덱을 편집 가능한 보고서로 변환하여 공식 커뮤니케이션 및 기록 보관에 활용합니다.
+
+* **협업 편집**
+  프레젠테이션 콘텐츠를 팀 수정에 더 적합한 문서 형식으로 이동합니다.
+
+* **제안서 개발**
+  프레젠테이션 자료를 고객용 서면 문서의 기반으로 재사용합니다.
+
+* **콘텐츠 아카이빙**
+  프레젠테이션 정보를 널리 지원되고 검색 가능한 문서 형식으로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서 생성 파이프라인**
+  프레젠테이션 자산을 자동으로 DOCX 파일로 변환하여 후속 검토에 활용합니다.
+
+* **대규모 콘텐츠 재활용**
+  대규모 저장소에서 여러 슬라이드 덱을 일괄 변환하여 편집 가능한 문서로 만듭니다.
+
+* **워크플로 통합**
+  변환된 DOCX 파일을 승인, 출판 또는 컴플라이언스 시스템에 연동합니다.
+
+* **구조화된 지식 캡처**
+  프레젠테이션 콘텐츠를 프로그래밍 방식으로 검색 가능하고 재사용 가능한 문서로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から XLTM への変換は、テキスト文書の内容を再利用可能で自動化が豊富なワークブック作成を目的とした、マクロ対応スプレッドシートテンプレート形式に変換します。標準化されたワークブックの生成に高度なスプレッドシート機能が必要な場合に有用です。
+
+Python API を使用すると、ODT から XLTM への変換がスケーラブルなレポーティング、テンプレートの標準化、そして高度な業務フローに効果的になります。文書由来の構造を再利用可能で自動化に適したスプレッドシートテンプレートに繰り返し変換できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **マクロ対応テンプレート作成**  
+  文書の内容を高度なサポート付きの再利用可能なワークブックテンプレートに変換します。
+
+* **標準化された高度なレポーティング**  
+  繰り返し発生するタスク向けに、再利用可能なワークブック構造の準備を支援します。
+
+* **再利用可能なスプレッドシート自動化資産**  
+  共通テンプレートからワークブック出力を繰り返し生成することをサポートします。
+
+* **構造化コンテンツの再利用**  
+  文書由来のデータを拡張可能なスプレッドシートフレームワークに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **高度なテンプレートパイプライン**  
+  Python ワークフローは、構造化された ODT コンテンツから XLTM テンプレートを生成できます。
+
+* **バッチワークブックフレームワークの準備**  
+  複数の文書を再利用可能なマクロ対応テンプレートに処理できます。
+
+* **継続的なスプレッドシート自動化**  
+  変換されたテンプレートは、継続的な業務レポートプロセスをサポートできます。
+
+* **文書主導のスプレッドシート標準化**  
+  システムは、一貫した高度なワークブックフレームワークを自動的に生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

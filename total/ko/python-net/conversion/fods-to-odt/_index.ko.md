@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS에서 ODT로의 변환은 평면 OpenDocument 스프레드시트 데이터를 편집 가능한 OpenDocument 텍스트 파일로 변환하여, 구조화된 정보를 문서 중심 형식으로 보다 쉽게 제시하면서도 개방형 표준을 유지합니다. 이는 호환성, 접근성 및 개방형 문서 워크플로를 우선시하는 조직에 유용합니다.
+
+자동화 및 통합 시나리오에서는 FODS에서 ODT로의 변환이 표준화된 문서 생성, 워크플로 이식성 및 개방형 생태계 전반에 걸친 효율적인 처리를 지원합니다. Python API는 이러한 변환을 자동화하고 반복 작업을 줄이며 구조화된 입력으로부터 확장 가능한 문서 생성을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 문서 보고**  
+  스프레드시트 내용을 편집 가능한 ODT 문서로 변환하여 개방형 표준 보고 워크플로에 활용합니다.
+
+* **문서 준비**  
+  구조화된 데이터를 내부 또는 외부 사용을 위한 읽기 쉬운 텍스트 문서로 변환합니다.
+
+* **상호 운용 가능한 콘텐츠 공유**  
+  문서 교환에 개방형 문서 시스템과의 광범위한 호환성이 필요할 때 ODT 출력을 사용합니다.
+
+* **구조화된 데이터 프레젠테이션**  
+  평면 스프레드시트 정보를 서술적이고 설명적인 콘텐츠에 더 적합한 형식으로 제시합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 표준 워크플로 자동화**  
+  Python API는 자동화된 문서 파이프라인의 일환으로 FODS 파일을 ODT로 변환할 수 있습니다.
+
+* **배치 문서 처리**  
+  대량의 파일을 프로그래밍 방식으로 변환하여 확장 가능한 작업을 지원할 수 있습니다.
+
+* **통합 보고 시스템**  
+  ODT 출력은 보고, 출판 또는 검토 작업을 위해 자동으로 생성될 수 있습니다.
+
+* **휴대용 문서 생성**  
+  자동 변환은 개방형 포맷을 사용하여 플랫폼 간 일관된 문서 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -44,7 +44,47 @@ Python 개발자의 경우 응용 프로그램 내에서 MHTML 및 HtmlFixed를 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MHTML을 DOTM으로 변환하면 보관된 웹 콘텐츠를 매크로 사용이 가능한 Word 템플릿으로 변환하여 재사용 가능한 구조와 내장 자동화를 모두 지원합니다. 이는 템플릿이 사전 정의된 작업이나 동적 서식 지정 단계를 실행해야 하는 문서 환경에서 유용합니다.
+
+이 형식은 템플릿 일관성과 프로그래밍 가능한 동작을 결합하기 때문에 확장 가능한 자동화에 특히 적합합니다. 웹에서 유래한 콘텐츠가 반복 가능하고 자동화된 비즈니스 프로세스의 일부가 되는 고급 문서 워크플로를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿 생성**  
+  재사용 가능한 레이아웃과 문서 자동화가 모두 필요할 때 MHTML 파일을 DOTM 템플릿으로 변환합니다.
+
+* **자동 양식 준비**  
+  스크립트 검증 또는 서식 지정 단계가 포함된 템플릿에서 변환된 웹 콘텐츠를 사용합니다.
+
+* **동적 비즈니스 문서**  
+  고정된 구조와 자동화된 작업이 모두 필요한 반복 문서를 지원합니다.
+
+* **프로세스 제어 문서 출력**  
+  구조화되고 반복 가능한 운영 요구 사항이 있는 환경에 적합한 템플릿 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화 템플릿 라이브러리**  
+  표준화된 프로세스를 가진 부서 전반에서 사용할 수 있도록 MHTML 소스에서 DOTM 템플릿을 생성합니다.
+
+* **매크로 기반 문서 워크플로**  
+  문서 생성 중 자동 작업을 트리거하는 템플릿으로 웹 아카이브를 변환합니다.
+
+* **배치 템플릿 제공**  
+  캡처된 웹 콘텐츠에서 대규모로 매크로 사용 템플릿 자산을 만들기 위해 Python API를 사용합니다.
+
+* **엔터프라이즈 문서 관리**  
+  반복 가능하고 자동화된 문서 준비에 의존하는 시스템에 변환된 DOTM 템플릿을 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

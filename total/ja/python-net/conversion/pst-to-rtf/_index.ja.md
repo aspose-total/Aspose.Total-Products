@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における PST から RTF への変換は、メールボックスのコンテンツをリッチテキスト形式に変換し、編集可能でポータブルな文書ワークフローを実現します。メール由来のテキストが基本的な書式を保持しつつ、多くのワードプロセッシング環境と広く互換性を保つ必要がある場合に有用です。
+
+自動化環境において、PST から RTF への変換は軽量な文書交換と、メールボックスアーカイブを効率的に編集可能な出力へ変換することを支援します。これにより、さまざまなシステム間でフォーマットされたコミュニケーションコンテンツをスケーラブルに再利用できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **フォーマットされたテキストのエクスポート**
+  PST のコンテンツを RTF に変換し、基本的な文書スタイルを保持します。
+
+* **広範な互換性ワークフロー**
+  メールボックス由来のファイルをさまざまな編集環境で利用できるようにします。
+
+* **編集可能なアーカイブの準備**
+  コミュニケーション記録を再編集可能な文書形式に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テキスト変換パイプライン**
+  システムは PST コンテンツを RTF にエクスポートし、下流の編集や再利用に利用できます。
+
+* **ポータブル文書ワークフロー**
+  変換されたファイルはオフィスアプリケーションとアーカイブシステム間で簡単に移動できます。
+
+* **スケーラブルなコンテンツ再フォーマット**
+  プログラムによる変換は、メールボックステキストを大量に編集可能なファイルへ変換する作業を簡素化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

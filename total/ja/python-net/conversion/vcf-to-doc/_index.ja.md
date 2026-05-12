@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から DOC への変換は、構造化された連絡先情報を、ビジネス記録、書式化されたリスト、管理文書に適した編集可能なワードプロセッシング文書に変換します。これにより、チームは注釈や手動レビューをサポートする読みやすいレイアウトで連絡先データを提示できます。
+
+Python API の自動化により、VCF から DOC への変換は、連絡先エントリをレポート作成、コミュニケーション準備、内部記録処理のための再利用可能なファイルに変換することで、文書生成ワークフローを効率化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **編集可能な連絡先ドキュメント**  
+  連絡先カードをレビューや更新が可能な DOC ファイルに変換します。
+
+* **管理記録保持**  
+  連絡先詳細を標準文書形式で保存し、オフィスのワークフローに活用します。
+
+* **フォーマットされた配布**  
+  チームやステークホルダーに適した読みやすいレイアウトで連絡先情報を共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量ドキュメント生成**  
+  複数の VCF レコードから DOC ファイルを自動的に作成し、整理された保存を実現します。
+
+* **ワークフローベースのレポート**  
+  変換された連絡先文書を自動レポートや承認システムに組み込んで活用します。
+
+* **テンプレート駆動出力**  
+  スケーラブルな Python プロセスを通じて、連絡先データを構造化された DOC 文書に挿入します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

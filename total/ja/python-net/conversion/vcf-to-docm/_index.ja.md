@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCFからDOCMへの変換は、連絡先カードデータをマクロ対応のワードプロセッシング文書に変換し、高度な文書動作が必要な場合に構造化されたコンテンツ配信を可能にします。これは、動的な文書ワークフローと編集可能な出力を扱う組織にとって有用です。
+
+自動化重視のシステムでは、VCFからDOCMへの変換により、Python API が連絡先ベースの文書を生成でき、文書ロジック、繰り返し可能なフォーマット、統合されたアクションが業務の一部となる大規模なプログラム可能プロセスに組み込むことができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **動的連絡先文書**  
+  VCFレコードを編集可能なDOCMファイルに変換し、高度な文書ワークフローに対応させます。
+
+* **構造化された内部処理**  
+  マクロ対応文書で連絡先情報を準備し、管理されたビジネス利用に活用します。
+
+* **プログラム可能な文書化**  
+  自動化と編集可能なコンテンツが共存する文書環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたDOCM作成**  
+  連絡先ファイルからバッチ操作でマクロ対応文書を生成します。
+
+* **ルールベースの文書ワークフロー**  
+  変換されたDOCMファイルを一貫したフォーマットで自動化ビジネスプロセスにルーティングします。
+
+* **スケーラブルな連絡先パッケージング**  
+  プログラム的に連絡先データを再利用可能なDOCM出力にパッケージし、エンタープライズワークフローに活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

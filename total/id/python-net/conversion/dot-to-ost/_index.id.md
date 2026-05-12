@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOT ke OS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi DOT ke OST mengubah templat dokumen menjadi format berorientasi kotak surat offline untuk alur kerja pesan dan persiapan arsip. Ini relevan dalam skenario di mana konten yang dihasilkan dari templat dimasukkan ke dalam proses penyimpanan komunikasi offline.
+
+Dengan API Python, konversi ini dapat dimasukkan ke dalam sistem otomatis yang menyiapkan aset komunikasi berbasis dokumen untuk sinkronisasi kotak surat atau penanganan arsip.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Persiapan Surat Offline**
+  Ubah konten berbasis DOT menjadi alur kerja yang kompatibel dengan OST untuk pemrosesan terkait kotak surat.
+
+* **Dukungan Arsip dan Sinkronisasi**
+  Gunakan data komunikasi yang dihasilkan dari templat dalam lingkungan yang memerlukan struktur penyimpanan offline.
+
+* **Pengemasan Alur Kerja Pesan**
+  Siapkan output terstruktur dari templat dokumen untuk operasi yang berfokus pada kotak surat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Persiapan Penyimpanan Surat Otomatis**
+  Skrip Python dapat mendukung konversi berulang file DOT untuk alur kerja surat offline.
+
+* **Integrasi Surat Berbasis Dokumen**
+  Konversi membantu menghubungkan repositori templat dengan proses komunikasi yang disinkronkan.
+
+* **Penanganan Aset Surat Massal**
+  Pipeline programatik menyederhanakan persiapan volume tinggi output berorientasi kotak surat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX to DOTM 変換は、プレゼンテーション コンテンツを、繰り返し可能で自動化された文書作成に適したマクロ有効ドキュメント テンプレート形式に変換します。テンプレート ロジック、オートメーション、または高度な処理動作に依存する制御されたワークフロー内でプレゼンテーション資料を再利用する必要がある場合に有用です。
+
+Python API を使用して処理する場合、PPTX から DOTM への変換は、再利用可能な構造とマクロ有効機能を組み合わせることで、スケーラブルなテンプレート オートメーションをサポートします。これにより、組織はフォーム、レポート、プロセス駆動型コミュニケーション向けの効率的な文書生成システムを構築できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ有効テンプレート作成**
+  プレゼンテーションを再利用可能なテンプレートに変換し、自動化された文書アクションをサポートします。
+
+* **標準化されたプロセス文書**
+  繰り返し発生する運用またはレポートのニーズに対して構造化されたテンプレートを構築します。
+
+* **ワークフロー駆動型フォーム設計**
+  高度な文書自動化を目的としたテンプレートでスライド コンテンツを再利用します。
+
+* **繰り返し可能なコンテンツ配信**
+  一貫した文書出力生成のために、プレゼンテーションベースのテンプレートを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート展開**
+  再利用可能な自動テンプレートに依存するシステム向けに、プレゼンテーションから DOTM ファイルを生成します。
+
+* **バッチフォームテンプレート処理**
+  PPTX ファイルのコレクションをプログラムでマクロ有効テンプレートに変換します。
+
+* **ルールベース文書生成**
+  変換された DOTM テンプレートを、ロジック駆動の出力作成を行うワークフローに組み込みます。
+
+* **エンタープライズ文書標準化**
+  Python API を使用して、複雑な文書環境全体でテンプレート生産をスケールさせます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

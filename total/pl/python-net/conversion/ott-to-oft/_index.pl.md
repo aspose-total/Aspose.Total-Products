@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OTT do OFT w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do OFT w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w pliki szablonów e‑mail, które mogą być ponownie wykorzystywane w standaryzowanej komunikacji. Jest to cenne, gdy treść dokumentu musi służyć jako powtarzalna podstawa do tworzenia wiadomości i zapewnienia spójności komunikacji.
+
+Konwersja jest szczególnie przydatna w automatyzacji, ponieważ wspiera wielokrotne wykorzystanie przepływów komunikacji, dynamiczne wstawianie treści oraz efektywne generowanie szablonowych zasobów wiadomości w dużej skali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie wielokrotnego użytku szablonów e‑mail**  
+  Przekształca treść dokumentu w szablony wiadomości gotowe do użycia.
+
+* **Standaryzowana komunikacja**  
+  Pomaga utrzymać spójny język i formatowanie we wszystkich wiadomościach.
+
+* **Wielokrotne wykorzystanie treści**  
+  Umożliwia jednemu szablonowi źródłowemu obsługę wielu przepływów komunikacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczna produkcja szablonów roboczych**  
+  Tworzy pliki OFT z powtarzających się źródeł treści OTT.
+
+* **Personalizacja wiadomości oparta na przepływie pracy**  
+  Łączy szablony z dynamicznymi polami w procesach wychodzących.
+
+* **Skalowalna komunikacja wewnętrzna**  
+  Wspiera spójne przygotowywanie e‑maili w całych działach lub systemach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

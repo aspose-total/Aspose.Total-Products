@@ -53,7 +53,44 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から画像への変換は、ワードプロセッシング文書を画像形式に変換し、文書ページの視覚的レイアウトと書式設定を保持します。このプロセスにより、文書の内容を静的なビジュアルファイルとして共有またはアーカイブできます。
+
+Python API を使用すると、DOCX から画像への変換を文書プレビューシステム、コンテンツ出版プラットフォーム、アーカイブプロセス向けに自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **文書プレビュー生成**  
+  DOCX ページを画像に変換し、迅速なプレビューを提供します。
+
+* **文書の視覚的アーカイブ**  
+  文書の外観を画像形式で保持します。
+
+* **コンテンツ出版ワークフロー**  
+  文書の内容を画像として埋め込むことが可能です。
+
+* **ページスナップショット作成**  
+  文書ページの視覚的表現を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された文書サムネイル生成**  
+  システムは DOCX ファイルを画像プレビューに変換できます。
+
+* **バッチ画像エクスポートパイプライン**  
+  Python スクリプトは大量の文書コレクションから画像を生成できます。
+
+* **コンテンツ配信プラットフォーム**  
+  文書は出版や共有のワークフロー向けに画像に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

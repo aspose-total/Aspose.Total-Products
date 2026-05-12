@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から OFT への変換は、文書テンプレートを繰り返し使用できるメッセージングワークフローで使用されるメールテンプレートファイルに変換します。これは、組織が書面のテンプレートを再利用可能なコミュニケーション資産に変えたいときに有用です。
+
+Python API を使用して、DOT から OFT への変換は、メッセージテンプレートの自動生成をサポートし、一貫性の向上、反復作業の削減、コミュニケーション準備の効率化を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なメールテンプレート作成**
+  DOT ファイルを OFT に変換し、標準化されたメッセージ作成を行います。
+
+* **コミュニケーションの標準化**
+  文書レイアウトをチームやシステム向けの繰り返し使用できるメールテンプレートとして再利用します。
+
+* **ワークフロー対応のメッセージ資産**
+  繰り返し行われる業務で再利用できる構造化されたコミュニケーションテンプレートを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**
+  Python ワークフローは、メッセージ準備システム向けに DOT 文書から OFT ファイルを作成できます。
+
+* **繰り返し可能なコミュニケーションパイプライン**
+  変換により、中央の文書ソースから一貫したメールテンプレート出力が可能になります。
+
+* **スケーラブルなテンプレート展開**
+  プログラム的なプロセスで多数の再利用可能なメールテンプレートを生成・管理できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

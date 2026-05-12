@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da email a OTT in Python converte i messaggi in modelli di documento aperto che possono essere riutilizzati per la creazione di contenuti standardizzati. Questo è utile quando le strutture ricorrenti delle email devono diventare risorse modello all'interno di ambienti di documenti aperti.
+
+Migliora l'automazione trasformando i modelli di comunicazione in file modello riutilizzabili che semplificano la generazione di documenti e riducono il lavoro di formattazione ripetitiva.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli Aperti**
+  Converti le email in file OTT per una generazione di documenti basata su modelli ripetibili.
+
+* **Standardizzazione di Layout Riutilizzabili**
+  Cattura strutture email coerenti come modelli di documento aperto.
+
+* **Preparazione di Moduli di Workflow**
+  Crea modelli di partenza dal contenuto dei messaggi per processi aziendali ricorrenti.
+
+* **Supporto a Modelli Multi-Piattaforma**
+  Utilizza modelli aperti in ecosistemi di documenti collaborativi senza dipendenza da soluzioni proprietarie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione della Libreria di Modelli**
+  Crea modelli OTT da email strutturate per il riutilizzo a livello dipartimentale.
+
+* **Generazione di Output Standardizzato**
+  Applica i modelli derivati dalle email per automatizzare la creazione ricorrente di documenti aperti.
+
+* **Ottimizzazione dei Processi**
+  Riduci la formattazione manuale incorporando la logica dei modelli nei flussi di lavoro dei documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

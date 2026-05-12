@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PPTM から RTF への変換は、マクロ対応プレゼンテーションのコンテンツを、ポータビリティと基本的なテキストスタイリングのサポートを両立させたリッチテキスト形式に変換します。システム間の広範な互換性が必要で、かつ可読性のある文書構造を保持したいワークフローに有用です。
+
+この変換は、スライドのコンテンツを軽量なテキストドキュメントに再利用できるようにし、共有、アーカイブ、プログラムによる処理が容易になることで自動化を支援します。フォーマットの複雑さを最小限に抑えた相互運用可能な出力を求める組織にとって実用的な選択肢です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **クロスプラットフォーム文書共有**
+  プレゼンテーションのコンテンツを、多くの文書エディタでサポートされるテキスト形式に変換します。
+
+* **可読コンテンツのアーカイブ**
+  スライド情報を、長期保存に適した軽量フォーマットで保持します。
+
+* **基本的なスタイル付きテキスト変換**
+  重要な書式を保持しつつ、文書のポータビリティを簡素化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テキストエクスポートワークフロー**
+  スケーラブルな変換パイプラインの一部として、プレゼンテーションから RTF ファイルを生成します。
+
+* **文書相互運用性処理**
+  異なる編集環境を持つシステム間で変換されたコンテンツのルーティングを支援します。
+
+* **アーカイブ自動化**
+  プレゼンテーション資産からポータブルなテキストレコードをプログラム的に生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

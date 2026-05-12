@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から OST への変換は、文書ベースのコンテンツをオフラインのメールボックスデータワークフローやメールストレージエコシステムで使用できる形式へ変換することをサポートします。これは、文書情報がメールボックス指向のコンテンツ処理の一部となる、特化した移行やアーカイブシナリオで関連性があります。
+
+Python API は、WordML から OST に関連する自動化のためのコンテンツを準備・構造化するのに役立ち、エンタープライズメッセージングや移行プロセスにおける再現性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールボックスデータの準備**
+  文書コンテンツをオフラインメールストレージおよび移行ワークフローの入力として使用します。
+
+* **エンタープライズアーカイブ支援**
+  文書由来のコミュニケーションをメールボックス中心の保持プロセスと整合させるのに役立ちます。
+
+* **構造化コンテンツのパッケージ化**
+  承認されたテキストをメッセージ指向のストレージコンテキストへ変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **移行支援パイプライン**
+  オフラインメールボックス処理ワークフロー向けに WordML コンテンツの準備を自動化します。
+
+* **アーカイブ統合タスク**
+  文書由来のレコードをより広範なメールアーカイブ操作に統合します。
+
+* **エンタープライズコンテンツ構造化**
+  スケールでメッセージ準備済みの文書コンテンツを繰り返し処理できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

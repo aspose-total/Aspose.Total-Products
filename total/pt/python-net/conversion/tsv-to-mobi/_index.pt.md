@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de TSV para MOBI transforma dados tabulares estruturados em um formato pronto para eBook que suporta leitura digital e distribuição portátil de conteúdo. Isso é útil quando informações baseadas em TSV precisam ser reutilizadas em conteúdo longo e legível para entrega de conhecimento ou empacotamento de documentação.
+
+Usando APIs Python, a conversão de TSV para MOBI pode ser automatizada para simplificar fluxos de trabalho de publicação digital, facilitando a transformação de dados brutos em experiências de leitura portáteis em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Publicação de Conhecimento Portátil**  
+  Converte dados estruturados em conteúdo compatível com eBook para distribuição.
+
+* **Materiais de Referência Legíveis**  
+  Ajuda a apresentar informações tabulares em um formato de leitura mais acessível.
+
+* **Empacotamento de Conteúdo Digital**  
+  Suporta a reutilização de dados TSV em ativos de documentação baixáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de eBook**  
+  APIs Python podem converter entradas TSV recorrentes em arquivos MOBI para entrega digital.
+
+* **Pipelines de Reutilização de Conteúdo**  
+  A automação ajuda a transformar dados de backend em resultados de publicação amigáveis ao leitor.
+
+* **Fluxos de Trabalho de Publicação em Massa**  
+  Vários conjuntos de dados TSV podem ser convertidos programaticamente para o formato MOBI de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

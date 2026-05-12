@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 OST를 WORDML로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST를 WordML로 변환하면 메일함 콘텐츠를 XML 기반 워드 프로세싱 마크업으로 변환하여 이메일에서 파생된 문서를 구조화되고 기계가 읽을 수 있는 형태로 표현합니다. 이는 투명한 문서 구조와 마크업 수준의 상호 운용성을 필요로 하는 시스템에 유용합니다.
+
+Python API를 사용하면 OST를 WordML로 변환하는 작업을 자동화하여 변환, 검증 및 XML 중심 시스템과의 통합과 같은 고급 처리 시나리오를 구현할 수 있습니다. 이는 구조화된 문서 워크플로우에서 유연성과 제어성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 문서 마크업**  
+  메일함 데이터를 WordML로 변환하여 XML 기반 문서 표현을 제공합니다.
+
+* **기계가 읽을 수 있는 콘텐츠 처리**  
+  검사 가능하고 변환 가능한 문서 마크업을 필요로 하는 워크플로우를 지원합니다.
+
+* **상호 운용 가능한 처리**  
+  이메일에서 파생된 콘텐츠를 구조화된 콘텐츠 시스템 및 도구와 통합하는 데 도움을 줍니다.
+
+* **고급 문서 변환**  
+  마크업 기반 환경에서 변환된 콘텐츠에 대한 세부적인 제어를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **XML 워크플로 자동화**  
+  Python 스크립트가 OST 아카이브를 WordML로 변환하여 구조화된 처리 파이프라인을 구축합니다.
+
+* **콘텐츠 변환 프로세스**  
+  자동화된 시스템이 메일함에서 파생된 마크업을 조작하여 통합 및 재사용을 수행합니다.
+
+* **검증 및 교환 파이프라인**  
+  프로그래밍 방식 변환은 대규모 구조화된 문서 교환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

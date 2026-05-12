@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST vers TEXT dans les API Python extrait le contenu des boîtes aux lettres en texte brut pour l'indexation, l'analyse et une utilisation d'archivage légère. Elle est précieuse lorsque l'accent est mis sur le contenu lisible plutôt que sur le formatage, notamment dans les systèmes qui privilégient la recherchabilité et l'efficacité du traitement.
+
+Pour l'automatisation, la conversion PST vers TEXT prend en charge le text mining, l'extraction de contenu et l'intégration avec des pipelines qui fonctionnent le mieux avec des entrées structurées simples. Elle facilite la parsing, la transformation et l'analyse à grande échelle des archives de boîtes aux lettres.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de texte brut**
+  Convertit le contenu PST en texte pour un accès propre et sans format aux données des messages.
+
+* **Support de recherche et d'indexation**
+  Aide à préparer les archives de boîtes aux lettres pour les flux de travail de récupération et de découverte de contenu.
+
+* **Sortie prête pour l'analyse**
+  Prend en charge le traitement en aval où le texte simple est préféré aux documents formatés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de traitement de texte**
+  Les systèmes automatisés peuvent alimenter le texte dérivé du PST dans des flux de travail d'indexation ou d'analyse.
+
+* **Flux de travail d'extraction de données**
+  La sortie en texte brut aide à simplifier les tâches de parsing, de filtrage et de transformation.
+
+* **Extraction de contenu évolutive**
+  La conversion programmatique permet d'analyser plus efficacement de grandes archives de boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

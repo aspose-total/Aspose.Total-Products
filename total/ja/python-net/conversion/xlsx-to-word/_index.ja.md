@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から Word への変換により、スプレッドシートの内容をレポート作成、コラボレーション、正式な文書化のための Word で読み取れるドキュメントに変換できます。これは、生の表形式データを、より読みやすく文書中心の形式に再構築する必要がある場合に有用です。
+
+自動化された業務システムにおいて、XLSX から Word への変換は、手動でのコピーを削減し、出力の一貫性を向上させ、スケールでのデータ駆動型文書生成を可能にすることで、効率性と拡張性を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **読みやすいデータ文書化**  
+  スプレッドシートの情報を文書形式に変換し、レビューやコミュニケーションを容易にします。
+
+* **正式なビジネスコミュニケーション**  
+  構造化データから Word で読み取れるファイルを作成し、業務や管理用途に活用できるよう支援します。
+
+* **コンテンツの再利用**  
+  スプレッドシートのコンテンツを、手動で書式を再構築することなく、文書ベースのワークフローで再利用できるようサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動データから文書へのワークフロー**  
+  システムはスプレッドシートの更新から直接 Word 互換ファイルを生成できます。
+
+* **定期レポートの自動化**  
+  変換は、スプレッドシートデータを文書として公開するスケジュールされたプロセスに組み込むことができます。
+
+* **スケールでの一貫した文書出力**  
+  プログラム的なワークフローにより、大量の Word ファイルが再現可能な構造と品質で生成されます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de OST a MD convierte los datos del buzón en formato Markdown, creando contenido de texto ligero, legible y portátil, adecuado para documentación y flujos de trabajo de conocimiento. Es valioso para equipos que desean contenido derivado de correos electrónicos en un formato de texto plano estructurado que funciona bien en todas las plataformas.
+
+Los beneficios de la automatización son fuertes porque la conversión de OST a MD encaja de forma natural en pipelines de contenido, flujos de trabajo de desarrolladores y sistemas de documentación. Las API de Python permiten una transformación rápida y escalable de archivos de buzón en archivos Markdown para indexación, publicación y reutilización.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Documentación Ligera**  
+  Convierte el contenido del correo electrónico en Markdown para registros simples y estructurados basados en texto.
+
+* **Preparación de Base de Conocimientos**  
+  Ayuda a reutilizar información importante del buzón en sistemas internos de documentación.
+
+* **Exportación de Contenido Amigable para Desarrolladores**  
+  Soporta flujos de trabajo donde se prefieren formatos de texto plano portátiles.
+
+* **Registros Controlados por Versiones**  
+  Hace que el contenido derivado de correos sea más fácil de rastrear y gestionar en entornos orientados al texto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Automatización del Pipeline de Documentación**  
+  Scripts de Python convierten el contenido de OST en Markdown para flujos de trabajo de publicación e indexación.
+
+* **Flujos de Trabajo de Extracción de Contenido**  
+  Sistemas automatizados preparan el texto del buzón para repositorios buscables y notas estructuradas.
+
+* **Generación de Archivos de Archivo Portátiles**  
+  La conversión programática crea activos de texto reutilizables a partir de datos de correo almacenados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

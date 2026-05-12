@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversión de MBOX a MD transforma archivos de buzón en archivos Markdown, facilitando la lectura, el versionado y la reutilización del contenido de correo en sistemas de documentación ligera basados en texto. Este formato es ideal para la portabilidad de contenido, los flujos de trabajo de desarrolladores y los entornos de gestión del conocimiento.
+
+Con APIs de Python, la conversión de MBOX a Markdown puede automatizarse para soportar extracción de contenido escalable, publicación estática e integración eficiente con pipelines de documentación modernos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Documentación de Texto Ligera**
+  Convertir correos electrónicos a Markdown para una documentación limpia, legible y portátil.
+
+* **Integración con Base de Conocimientos**
+  Reutilizar el contenido del buzón en wikis, repositorios o flujos de trabajo de contenido estático.
+
+* **Archivado Amigable con Versiones**
+  Almacenar el contenido del correo convertido en un formato adecuado para el seguimiento y las actualizaciones.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Generación de Contenido Estático**
+  Convertir automáticamente los datos del buzón a Markdown para publicación o indexación.
+
+* **Flujos de Trabajo Basados en Repositorios**
+  Usar Python para mover archivos de correo a sistemas de gestión de contenido centrados en texto.
+
+* **Canales de Documentación Escalables**
+  Transformar por lotes archivos MBOX en recursos Markdown estructurados para reutilización.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

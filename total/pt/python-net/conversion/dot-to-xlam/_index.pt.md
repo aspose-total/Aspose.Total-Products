@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para XLAM converte modelos de documentos em arquivos de planilha orientados a complementos, usados para estender fluxos de trabalho de planilhas. Isso é relevante quando o conteúdo orientado por modelos contribui para funcionalidades reutilizáveis de planilhas ou lógica empacotada em ambientes suportados.
+
+Com APIs Python, a conversão de DOT para XLAM pode ser incorporada em sistemas automatizados que padronizam a criação avançada de ativos de planilhas a partir de fontes baseadas em documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Ativos de Complemento de Planilha**
+  Converta o conteúdo DOT em saídas orientadas a XLAM para extensões de planilha reutilizáveis.
+
+* **Empacotamento Reutilizável de Fluxos de Trabalho**
+  Suporte a cenários onde estruturas definidas por documentos alimentam soluções avançadas de planilha.
+
+* **Ativos Funcionais Orientados por Modelo**
+  Reaproveite o conteúdo de documentos em recursos de planilha empacotados para uso repetido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Preparação Automatizada de Complementos**
+  Fluxos de trabalho em Python podem transformar modelos DOT em saídas compatíveis com XLAM onde necessário.
+
+* **Suporte Avançado ao Pipeline de Planilhas**
+  A conversão ajuda repositórios de documentos a contribuir para ativos reutilizáveis de planilha.
+
+* **Geração Escalável de Saídas Funcionais**
+  Sistemas programáticos simplificam a criação em grande volume de arquivos avançados de pacotes de planilha.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

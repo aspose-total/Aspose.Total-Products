@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de ICS para DOCM usando APIs Python transforma dados de eventos de calendário em documentos Word com macros habilitadas. Isso permite que informações de agendamento sejam incorporadas em documentos que suportam automação avançada por meio de macros incorporadas.
+
+Automatizar essa conversão com Python ajuda as organizações a integrar dados de calendário em fluxos de trabalho impulsionados por macros, permitindo que agendas de eventos acionem automação de documentos ou processos de geração de relatórios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Modelos de Documentos Automatizados**  
+  Incorpore dados de calendário em documentos com macros habilitadas para relatórios automatizados.
+
+* **Integração de Fluxo de Trabalho**  
+  Use informações de eventos em documentos que acionam processos automatizados.
+
+* **Relatórios Avançados**  
+  Combine agendas de calendário com análise ou formatação impulsionada por macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Sistemas de Relatórios Baseados em Macros**  
+  Gere arquivos DOCM automaticamente a partir de agendas ICS.
+
+* **Pipelines de Automação de Documentos**  
+  Integre dados de eventos com fluxos de trabalho de macros para atualizações automatizadas de documentos.
+
+* **Ferramentas Corporativas de Agendamento**  
+  Converta dados de calendário em relatórios com macros habilitadas em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

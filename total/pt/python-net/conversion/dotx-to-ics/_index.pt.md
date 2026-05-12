@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de DOTX para ICS transforma o conteúdo de modelos Word em dados compatíveis com calendários para agendamento de eventos e fluxos de trabalho baseados em tempo. É valiosa quando o conteúdo estruturado de documentos contém informações de reunião, prazo ou agenda que precisam ser reutilizadas em sistemas de calendário.
+
+Usando APIs Python, essa conversão permite a geração automatizada de entradas de calendário a partir de modelos, ajudando as equipes a otimizar agendamento, lembretes e distribuição de eventos em sistemas integrados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Eventos**
+  Converta o conteúdo de documentos relacionados a agendas em arquivos prontos para calendário.
+
+* **Distribuição de Reuniões**
+  Transforme modelos estruturados em itens de calendário reutilizáveis para os participantes.
+
+* **Gestão de Prazos**
+  Reformate datas importantes dos documentos em ativos de agendamento rastreáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Calendário**
+  Produza arquivos ICS a partir de modelos DOTX em fluxos de trabalho orientados a eventos.
+
+* **Pipelines de Lembretes e Agendamento**
+  Use a saída convertida para preencher sistemas automatizados de planejamento e alerta.
+
+* **Publicação de Eventos Baseada em Modelo**
+  Crie arquivos de calendário consistentes a partir de formatos de documentos recorrentes em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

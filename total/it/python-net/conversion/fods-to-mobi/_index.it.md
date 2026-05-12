@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da FODS a MOBI consente di riutilizzare il contenuto di fogli di calcolo OpenDocument piatti in un formato adatto agli ebook, idoneo per la lettura portatile e la distribuzione digitale. Questo è utile quando le informazioni strutturate devono essere condivise come materiale di riferimento accessibile, guide o pubblicazioni focalizzate sul testo su diversi dispositivi di lettura.
+
+All'interno dei flussi di lavoro automatizzati, la conversione da FODS a MOBI supporta la trasformazione di contenuti su larga scala, le pipeline di pubblicazione digitale e una distribuzione efficiente in più formati. Le API Python consentono processi di generazione di ebook ripetibili, riducendo lo sforzo manuale necessario per riformattare i dati strutturati per le piattaforme di lettura.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione di riferimenti digitali**  
+  Converti le informazioni basate su fogli di calcolo in file MOBI per la lettura portatile e l'uso come riferimento.
+
+* **Distribuzione della conoscenza**  
+  Condividi dati aziendali o tecnici strutturati in un formato ebook adatto a una più ampia accessibilità.
+
+* **Riutilizzo dei contenuti**  
+  Trasforma file sorgente ricchi di dati in documenti digitali leggibili a lungo.
+
+* **Documentazione ottimizzata per dispositivi mobili**  
+  Fornisci i contenuti convertiti in un formato comodo per ambienti di lettura basati su dispositivi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di ebook**  
+  I flussi di lavoro Python possono convertire i file FODS in output MOBI per la consegna di contenuti digitali.
+
+* **Pipeline di pubblicazione batch**  
+  Molteplici file strutturati possono essere trasformati in formato ebook su larga scala.
+
+* **Sistemi di distribuzione cross‑format**  
+  I processi automatizzati possono generare MOBI insieme ad altri formati di output per una più ampia diffusione.
+
+* **Automazione della pubblicazione di contenuti**  
+  La conversione programmatica supporta una preparazione più rapida di materiali di lettura digitali a partire dai dati sorgente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

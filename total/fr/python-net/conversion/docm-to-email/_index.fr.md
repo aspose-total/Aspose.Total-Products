@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers EMAIL prépare le contenu de documents activés par des macros pour une utilisation dans des flux de travail orientés courriel, facilitant la transformation des informations du document en sortie prête à être envoyée. Cela est utile pour les notifications, les résumés, les approbations ou les processus de communication basés sur le contenu du document.
+
+Dans les systèmes automatisés modernes, la conversion DOCM vers EMAIL aide à faire le lien entre les documents rédigés et les pipelines de communication, permettant une distribution évolutive, des messages basés sur des modèles et une correspondance déclenchée par les flux de travail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Notifications basées sur les documents**  
+  Convertit le contenu du document en matériel prêt à être envoyé par courriel pour la communication opérationnelle.
+
+* **Flux de travail d'approbation**  
+  Permet le partage de résumés dérivés du document avec les examinateurs et les parties prenantes.
+
+* **Réutilisation du contenu dans les messages**  
+  Facilite la réutilisation du texte formel du document dans les canaux de communication.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de messages déclenchée**  
+  Crée automatiquement le contenu d'un courriel lorsque de nouveaux fichiers DOCM entrent dans un flux de travail.
+
+* **Pipelines document-vers-communication**  
+  Connecte le contenu rédigé aux systèmes de messagerie sortante automatisés.
+
+* **Processus de distribution évolutifs**  
+  Permet la création en lot de sorties prêtes à être envoyées à partir de nombreux documents simultanément.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

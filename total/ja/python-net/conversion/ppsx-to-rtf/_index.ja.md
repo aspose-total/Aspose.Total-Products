@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX から RTF への変換は、プレゼンテーションのコンテンツを可読性、移植性、基本的な書式保持のバランスが取れたリッチテキスト形式に変換します。プレゼンテーション資料を編集、アーカイブ、またはクロスプラットフォームで共有できる広くサポートされたテキスト形式に変換する必要がある場合に便利です。
+
+自動化主導の環境では、PPSX から RTF への変換は軽量な文書交換をサポートし、互換性重視のワークフローを簡素化し、Python API パイプラインがフォーマットされたテキスト出力を効率的に提供できるよう支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ポータブルテキスト変換**  
+  プレゼンテーションのコンテンツを広くサポートされたリッチテキスト文書形式に変換します。
+
+* **クロスプラットフォーム共有**  
+  スライド由来の情報を異なるシステム間での交換を容易にします。
+
+* **基本書式の保持**  
+  コアテキストのスタイルを保持しつつ、文書の取り扱いをシンプルにします。
+
+* **可読性のあるアーカイブ作成**  
+  プレゼンテーションコンテンツをアクセスしやすいテキスト形式で長期保存することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **互換性重視のファイル処理**  
+  Python API は、広範な文書サポートが必要な環境向けに RTF 出力を生成できます。
+
+* **自動コンテンツアーカイブ**  
+  プレゼンテーションファイルは、プログラムでテキストフレンドリーなアーカイブ形式に変換できます。
+
+* **大量フォーマット正規化**  
+  自動化により、複数の PPSX ファイルを RTF に標準化し、下流での利用を容易にできます。
+
+* **文書交換パイプライン**  
+  変換された RTF ファイルは、共有、レビュー、またはインポートのワークフローに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

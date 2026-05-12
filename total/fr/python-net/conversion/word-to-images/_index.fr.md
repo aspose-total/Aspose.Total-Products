@@ -53,7 +53,47 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Word en images à l'aide des API Python transforme les pages de documents en fichiers image pour la prévisualisation, le partage, la publication et l'archivage visuel. Cela est utile lorsque le contenu du document doit être affiché de manière cohérente sur toutes les plateformes sans nécessiter de logiciel d'édition de documents.
+
+Pour l'automatisation et l'évolutivité, cette conversion prend en charge les pipelines de rendu de documents qui génèrent des vignettes, des aperçus, des ressources web et des enregistrements basés sur des images pour les systèmes de gestion et de distribution de contenu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Génération d'aperçus de documents**  
+  Convertit les pages en images pour une visualisation rapide dans les portails, les applications et les dépôts.
+
+* **Archivage visuel**  
+  Préserve l'apparence du contenu sous forme d'images statiques pour la référence et la conservation.
+
+* **Publication web et mobile**  
+  Facilite l'affichage des pages de documents dans des environnements optimisés pour les images.
+
+* **Partage de présentations et de révisions**  
+  Simplifie la distribution lorsque les destinataires n'ont besoin que de visualiser, pas de modifier, le contenu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Pipelines de création de vignettes**  
+  Rend automatiquement les pages de documents en images d'aperçu pour les interfaces de recherche et de navigation.
+
+* **Rendu de pages en lot**  
+  Convertit de gros volumes de fichiers Word en ensembles d'images pour les flux de travail d'archivage ou de publication.
+
+* **Instantanés du flux d'approbation**  
+  Génère des versions visuelles fixes des documents pour les points de contrôle de révision et les enregistrements de conformité.
+
+* **Optimisation de la diffusion de contenu**  
+  Utilise les sorties d'images dans les services web et les pipelines d'automatisation qui nécessitent un accès visuel rapide.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

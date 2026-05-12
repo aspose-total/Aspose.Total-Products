@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 OST를 DOCM로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST를 DOCM으로 변환하면 메일함 데이터를 매크로 사용 문서 형식으로 변환하여, 편집 가능한 콘텐츠와 내장 자동화 기능이 필요한 고급 문서 워크플로를 지원합니다. 변환된 이메일 콘텐츠가 구조화되거나 스크립트화된 문서 프로세스에 참여해야 할 때 유용합니다.
+
+자동화 중심 환경에서는 OST를 DOCM으로 변환하여 메일함 콘텐츠를 프로그래밍 가능한 문서 생태계로 직접 이동시킬 수 있습니다. Python API를 사용하면 조직이 대규모로 변환을 자동화하여 일관성, 운영 속도 및 문서 중심 비즈니스 프로세스와의 통합을 향상시킬 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 문서화**  
+  이메일 콘텐츠를 DOCM 파일로 변환하여 내장 문서 자동화에 의존하는 워크플로에 사용합니다.
+
+* **프로세스 기반 보고**  
+  변환된 메일함 데이터가 자동화된 문서 로직과 함께 작동해야 하는 보고 시스템을 지원합니다.
+
+* **템플릿 기반 운영**  
+  이메일에서 파생된 콘텐츠를 재사용 가능한 매크로 사용 비즈니스 템플릿에 통합하는 데 도움을 줍니다.
+
+* **구조화된 콘텐츠 재사용**  
+  메일함 정보를 동적 문서 워크플로에 더 쉽게 통합할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **프로그래밍 방식 보고서 조립**  
+  Python 자동화를 통해 OST 데이터를 DOCM으로 변환하여 스크립트 기반 보고 파이프라인에 사용합니다.
+
+* **동적 문서 워크플로**  
+  자동화 시스템은 매크로 사용 문서를 활용해 변환된 이메일 콘텐츠를 처리하고 관리합니다.
+
+* **엔터프라이즈 템플릿 채우기**  
+  변환 루틴은 메일함 데이터를 내장 자동화 동작이 포함된 문서 템플릿에 공급합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PPTX en TSV extrait le contenu des présentations dans un format à valeurs séparées par des tabulations, utile pour un échange de données textuel propre et un traitement structuré. Elle est précieuse lorsque le contenu des diapositives, en particulier les tableaux ou les éléments de texte répétés, doit être exporté dans un format simple pour l'analyse, la migration ou la création de rapports.
+
+L'automatisation de la conversion PPTX en TSV avec les API Python prend en charge des flux de données légers, une analyse fiable et un traitement par lots efficace. Cela facilite l'intégration des données issues des présentations dans les systèmes d'automatisation, les scripts et les pipelines de transformation de données.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de texte structuré**
+  Convertir les données de la présentation en un format délimité adapté à la manipulation scriptée.
+
+* **Extraction du contenu des tableaux**
+  Extraire les tableaux des diapositives dans une structure propre pour un traitement ultérieur.
+
+* **Échange de données entre systèmes**
+  Utiliser le TSV comme format intermédiaire pour transférer les données issues des présentations entre différents outils.
+
+* **Tâches d'analyse et de validation**
+  Simplifier l'inspection automatisée du contenu des diapositives grâce à une structure textuelle prévisible.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Traitement de données léger**
+  Convertir automatiquement les fichiers PPTX en TSV pour des flux de travail adaptés aux scripts.
+
+* **Pipelines d'extraction par lots**
+  Traiter de grands ensembles de présentations en sorties textuelles structurées à grande échelle.
+
+* **Support des flux de travail ETL**
+  Alimenter les pipelines de transformation et de chargement avec les données de présentation extraites.
+
+* **Audit automatisé du contenu**
+  Utiliser les sorties TSV pour la validation, les contrôles de qualité et l'inspection basée sur des règles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

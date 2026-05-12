@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から PPT への変換は、マクロ対応の Excel テンプレートを視覚的なレポートやコミュニケーション用のプレゼンテーションファイルに変換できます。この変換は、スプレッドシート形式のコンテンツをスライドベースの説明と配信に適した形式で共有する必要がある場合に有用です。
+
+自動化の観点から、XLTM から PPT への変換はプレゼンテーションの生成を効率化し、定期的なレポートプロセスを支援し、コミュニケーションワークフロー全体でテンプレートベースのデータ再利用を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **スライドデッキ作成**  
+  ワークブックテンプレートのコンテンツをレポートやプレゼンテーション用のプレゼンテーションファイルに変換します。
+
+* **データプレゼンテーション支援**  
+  構造化されたスプレッドシート情報を、視覚的な説明により適した形式に変換するのに役立ちます。
+
+* **再利用可能なレポート資産**  
+  テンプレート駆動のスプレッドシートソースからプレゼンテーションを繰り返し生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なプレゼンテーション自動化**  
+  定例のレポートやコミュニケーションタスクのために、XLTM テンプレートから PPT ファイルを生成します。
+
+* **テンプレートベースのスライドワークフロー**  
+  スプレッドシートテンプレートとプレゼンテーション生成プロセスを結び付け、手作業の負担を削減します。
+
+* **バッチプレゼンテーション変換**  
+  1 つのワークフローで複数のワークブックテンプレートからプレゼンテーションファイルをスケーラブルに作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

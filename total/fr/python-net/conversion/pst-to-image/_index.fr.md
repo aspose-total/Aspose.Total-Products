@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PST en image dans les API Python offre une méthode flexible pour rendre le contenu d’une boîte aux lettres sous des formats visuels destinés à la révision, au stockage et à la présentation. Elle est utile lorsque les messages électroniques ou les éléments extraits doivent devenir des sorties basées sur des images faciles à afficher sur toutes les plateformes.
+
+Pour l’automatisation, la conversion de PST en image prend en charge la génération d’aperçus, les flux de travail d’archivage et l’intégration avec des systèmes qui reposent sur des actifs visuels statiques. Elle améliore l’évolutivité en permettant un rendu cohérent des données de la boîte aux lettres sous forme d’images prêtes à l’emploi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rendu visuel universel**
+  Convertit le contenu de la boîte aux lettres en images pour une visualisation et un partage faciles.
+
+* **Visualisation d'archive**
+  Aide à préserver le contenu des messages sous forme d’enregistrements visuels statiques.
+
+* **Affichage multiplateforme**
+  Prend en charge la présentation simple des informations dérivées de PST dans les systèmes capables d’afficher des images.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation d'images automatisée**
+  Les systèmes peuvent traiter les archives PST et générer des fichiers image sans intervention manuelle.
+
+* **Flux de travail d'aperçu des actifs**
+  Les visuels convertis peuvent soutenir les tableaux de bord, les archives et les portails de révision.
+
+* **Distribution évolutive de contenu statique**
+  La conversion programmatique aide à distribuer le contenu de la boîte aux lettres sous forme prête à l’affichage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

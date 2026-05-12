@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para XPS em Python transforma o conteúdo da mensagem em documentos XPS de layout fixo para visualização confiável, arquivamento e apresentação no estilo de impressão. É útil quando as organizações precisam de renderização de página estável e portabilidade de documentos estruturados além de formatos editáveis.
+
+Essa conversão auxilia a automação ao produzir saídas de layout fixo consistentes que podem ser armazenadas, distribuídas ou processadas em sistemas centrados em documentos com aparência previsível.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preservação de Mensagens em Layout Fixo**
+  Converta e‑mails em arquivos XPS para manter uma estrutura visual consistente.
+
+* **Entrega de Documentos no Estilo de Impressão**
+  Use XPS quando o conteúdo da mensagem deve aparecer da mesma forma em visualizadores suportados.
+
+* **Fluxos de Trabalho de Arquivamento e Distribuição**
+  Preserve e compartilhe o conteúdo do e‑mail em uma representação de documento estável.
+
+* **Saída de Apresentação Estruturada**
+  Prepare mensagens para ambientes que priorizam a fidelidade da página em vez da editabilidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação Automatizada de Layout Fixo**
+  Converta e‑mails selecionados em documentos XPS para fluxos de trabalho de retenção e compartilhamento.
+
+* **Pipelines de Renderização Estável**
+  Direcione as saídas XPS através de sistemas que exigem aparência de documento previsível.
+
+* **Empacotamento Programático de Registros**
+  Inclua arquivos de e‑mail em layout fixo em pacotes gerados de casos, auditorias ou operações.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to RTF conversion converts mailbox archives into rich text documents, preserving formatted email content in an editable and widely readable format. This is useful when organizations need a balance between styling retention, portability, and document flexibility.
+
+With Python APIs, MBOX to RTF conversion can be automated to simplify content reuse, support reporting workflows, and create accessible document outputs from archived email data.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préservation des e‑mails formatés**
+  Convertir les messages en fichiers RTF tout en conservant une structure texte enrichi lisible.
+
+* **Exportation de documents éditables**
+  Faciliter la révision, l'annotation ou la réutilisation du contenu de la boîte aux lettres dans les flux de travail documentaires.
+
+* **Partage de texte portable**
+  Utiliser un format largement supporté pour échanger le contenu d'e‑mail converti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Sortie texte enrichi automatisée**
+  Transformer les fichiers MBOX en documents RTF dans des pipelines batch.
+
+* **Flux de travail de réutilisation du contenu**
+  Alimenter les fichiers texte enrichi convertis dans les processus de reporting, éditoriaux ou de révision.
+
+* **Pipelines de formatage programmatiques**
+  Utiliser Python pour mettre à l'échelle efficacement la conversion structurée d'e‑mail en document.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

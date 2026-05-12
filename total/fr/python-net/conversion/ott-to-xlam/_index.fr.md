@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversion d'OTT en XLAM dans les API Python convertit les modèles de texte OpenDocument en sorties de classeur orientées add‑in utilisées pour étendre les fonctionnalités du classeur. Ceci est utile dans des flux de travail spécialisés où le contenu converti contribue à des actifs d’automatisation réutilisables basés sur des feuilles de calcul.
+
+La conversion prend en charge l’automatisation en alignant la logique ou le contenu structuré provenant du document avec les flux de travail d’extension de feuilles de calcul, aidant à standardiser les opérations répétables dans des environnements de classeur avancés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Support d’extension de feuille de calcul**  
+  Connecte le contenu du document aux flux de travail de feuilles de calcul orientés add‑in.
+
+* **Préparation d’actifs d’automatisation réutilisables**  
+  Aide à empaqueter le contenu structuré pour une utilisation répétée du classeur.
+
+* **Intégration de flux de travail avancés**  
+  Relie les modèles de texte et les scénarios de fonctionnalité de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Préparation automatisée de contenu d’add‑in**  
+  Génère des sorties liées à XLAM à partir de modèles OTT de manière programmatique.
+
+* **Pipelines d’amélioration de classeur**  
+  Prend en charge les flux de travail qui combinent la conversion de contenu avec l’automatisation de feuilles de calcul.
+
+* **Distribution de logique métier réutilisable**  
+  Aide à déployer des solutions de feuilles de calcul structurées à l’échelle des équipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

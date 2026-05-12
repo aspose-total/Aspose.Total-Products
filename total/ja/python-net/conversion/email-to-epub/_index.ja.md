@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python の Email から EPUB への変換は、メッセージ内容を再流動的なデジタル出版物に変換し、読書デバイスや長文コンテンツシステムでより簡単に閲覧できるようにします。メールコレクション、ニュースレター、または連載コミュニケーションを携帯可能な読書資料にする必要がある場合に価値があります。
+
+この変換は、メッセージベースのコンテンツをパッケージ化、配布、再利用できるようにし、スケーラブルなデジタル出版ワークフローでの自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ニュースレターのパッケージ化**
+  メールシリーズを EPUB ファイルに変換し、構造化されたデジタル読書を実現します。
+
+* **携帯可能な知識配布**
+  選別されたメールコンテンツを携帯可能な出版物に変換し、社内外のオーディエンス向けに提供します。
+
+* **長文コンテンツの保存**
+  重要なコミュニケーションを参照用に読者に優しい形式で保存します。
+
+* **コンテンツの再利用**
+  メッセージアーカイブを eBook 形式のリソースとして再利用し、トレーニングやドキュメントに活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動出版組み立て**
+  選択されたメールを EPUB 出力に結合し、スケジュールされたコンテンツ配信を実現します。
+
+* **ナレッジベースのパッケージ化**
+  メールスレッドを自動化パイプラインを通じて読みやすいデジタルハンドブックに変換します。
+
+* **クロスプラットフォームコンテンツ配信**
+  メッセージフィードから EPUB ファイルを生成し、デバイス間でスケーラブルに共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

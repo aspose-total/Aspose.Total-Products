@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een RTF naar VCF-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF-naar-VCF-conversie zet rich‑text‑documenten om in contactkaartbestanden die namen, telefoonnummers, adressen en gerelateerde contactinformatie in een draagbaar formaat kunnen opslaan. Dit is handig wanneer contactgegevens in documenten zijn ingebed en gestructureerde, deelbare records moeten worden.
+
+In geautomatiseerde werkstromen ondersteunt RTF-naar-VCF efficiënte contactextractie, synchronisatie en distributie door tekstgebaseerde directories of lijsten om te zetten in gestandaardiseerde contactactiva voor systemen en teams.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Contactrecordcreatie**  
+  Converteert documentgebaseerde contactgegevens naar draagbare digitale contactkaarten.
+
+* **Directorymodernisering**  
+  Helpt geschreven contactlijsten om te zetten in gestructureerde records die geschikt zijn voor import en delen.
+
+* **Draagbare contactuitwisseling**  
+  Ondersteunt het verplaatsen van contactinformatie tussen systemen en apparaten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactextractiepijplijnen**  
+  Systemen kunnen RTF‑documenten analyseren en VCF‑bestanden genereren uit geïdentificeerde contactgegevens.
+
+* **Voorbereiding van bulkadresboek**  
+  Programmeerbare conversie ondersteunt grootschalige creatie van contactrecords uit tekstuele bronbestanden.
+
+* **CRM- en directory‑integratie**  
+  Dynamische werkstromen kunnen documentopgeslagen contactinformatie omzetten in herbruikbare contactactiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

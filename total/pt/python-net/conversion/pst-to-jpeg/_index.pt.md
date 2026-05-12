@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para JPEG nas APIs Python transforma o conteúdo da caixa de correio em um formato de imagem comprimida amplamente suportado, adequado para armazenamento, compartilhamento e uso de visualização. É valiosa quando são necessárias representações visuais de e‑mails com um equilíbrio entre qualidade e eficiência de tamanho de arquivo.
+
+Em ambientes de automação, a conversão de PST para JPEG suporta a geração escalável de imagens a partir de arquivos de caixa de correio e se encaixa bem em fluxos de trabalho de documentos, relatórios e entrega de conteúdo. Ela permite o manuseio eficiente de saídas visuais em sistemas modernos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Arquivo Visual Compactado**
+  Converte o conteúdo da caixa de correio em arquivos JPEG para armazenamento e compartilhamento eficientes.
+
+* **Distribuição de Pré‑visualização de E‑mail**
+  Ajuda a criar versões visuais fáceis de abrir de mensagens e registros.
+
+* **Captura Operacional de Conteúdo**
+  Suporta fluxos de trabalho que precisam de capturas de tela baseadas em imagens dos dados da caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Conversão de Imagens em Alto Volume**
+  Pipelines automatizados podem gerar saídas JPEG a partir de muitos itens PST de forma eficiente.
+
+* **Sistemas de Entrega de Pré‑visualização**
+  Arquivos JPEG podem ser usados em aplicações que requerem recursos visuais leves.
+
+* **Suporte à Publicação de Conteúdo**
+  A renderização programática permite que os visuais da caixa de correio alimentem fluxos de trabalho de relatórios e apresentações.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

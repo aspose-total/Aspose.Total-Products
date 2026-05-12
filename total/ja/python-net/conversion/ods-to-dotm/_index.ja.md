@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS から DOTM への変換により、スプレッドシートファイルをマクロ対応のドキュメントテンプレートに変換できます。これらのテンプレートは、埋め込みマクロによって駆動される高度なドキュメント自動化と再利用可能なドキュメント構造を可能にします。
+
+Python API を使用することで、開発者はスプレッドシートデータセットをマクロ対応テンプレートに自動変換できます。これにより、スプレッドシート主導のデータに基づく動的ドキュメントを生成するスケーラブルな自動化システムが実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応テンプレート作成**  
+  スプレッドシートのデータ構造を自動化マクロをサポートするテンプレートに変換します。
+
+* **自動化ドキュメントフレームワーク**  
+  スプレッドシート入力を使用して、マクロ駆動のドキュメントテンプレートを構築します。
+
+* **動的テンプレート生成**  
+  構造化されたスプレッドシートコンテンツから再利用可能なテンプレートを生成します。
+
+* **ドキュメント自動化システム**  
+  マクロ対応テンプレートを通じて高度な自動化ドキュメントワークフローを実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**  
+  Python ワークフローはスプレッドシート入力からマクロ対応テンプレートを生成します。
+
+* **バッチテンプレート変換**  
+  システムは複数の ODS ファイルを処理してマクロ対応テンプレートを作成します。
+
+* **エンタープライズドキュメント自動化**  
+  スプレッドシートから派生したテンプレートにより、スケーラブルな自動化ドキュメント生成が可能になります。
+
+* **動的ドキュメント組み立て**  
+  マクロ対応テンプレートはプログラムによるコンテンツ作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

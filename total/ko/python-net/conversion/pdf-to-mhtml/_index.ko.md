@@ -53,7 +53,47 @@ PDF를 MHTML(웹 아카이브 형식)로 변환 기능 또는 HtmlFixed에 추�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PDF에서 MHTML로의 변환은 문서 내용을 마크업과 포함된 리소스를 하나의 파일로 결합한 웹 아카이브 형식으로 변환하는 데 도움이 됩니다. 이를 통해 PDF 정보를 브라우저 호환 환경에서 보다 쉽게 보존, 표시 또는 배포할 수 있습니다.
+
+자동화는 정적 문서에서 확장 가능한 휴대용 웹 준비 파일을 생성할 수 있게 함으로써 이 변환의 가치를 높입니다. 이는 콘텐츠 게시, 아카이빙 및 자체 포함된 웹 문서 출력을 필요로 하는 시스템과의 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **웹 아카이브 생성**  
+  PDF 파일을 MHTML로 변환하여 브라우저 기반 저장 및 보기용으로 사용합니다.
+
+* **휴대용 문서 게시**  
+  문서 내용을 자체 포함된 웹 친화적 형식으로 공유합니다.
+
+* **콘텐츠 보존**  
+  웹 워크플로에 적합한 아카이브에 시각 및 텍스트 정보를 보존합니다.
+
+* **시스템 상호 운용성**  
+  문서 교환이 브라우저 호환 표준에 맞춰야 할 경우 MHTML 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 웹 변환 파이프라인**  
+  Python 스크립트는 PDF를 MHTML 파일로 변환하여 디지털 게시 시스템에 활용할 수 있습니다.
+
+* **아카이브 배포 워크플로**  
+  변환된 출력물은 웹 아카이브 콘텐츠를 관리하는 저장소에 전달될 수 있습니다.
+
+* **배치 문서 게시**  
+  대량의 PDF를 수동 개입 없이 휴대용 웹 파일로 변환할 수 있습니다.
+
+* **동적 콘텐츠 내보내기**  
+  시스템은 공유 또는 검토를 위해 필요에 따라 문서의 MHTML 버전을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

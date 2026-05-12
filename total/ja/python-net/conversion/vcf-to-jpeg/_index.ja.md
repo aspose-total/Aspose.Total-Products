@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から JPEG への変換は、連絡先カードデータを圧縮画像として出力し、共有、プレビュー、軽量な保存に実用的です。連絡先情報を視覚的に表現しつつ、Web 配信や一般的な配布に効率的である必要がある場合に役立ちます。
+
+Python API の自動化により、VCF から JPEG への変換は、連絡先レコードを標準化された画像アセットに大量にレンダリングし、スケーラブルなコンテンツおよび文書ワークフローとスムーズに統合できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **圧縮連絡先画像**  
+  VCF レコードを JPEG ファイルに変換し、効率的な視覚的共有を実現します。
+
+* **Web フレンドリーなプレビュー**  
+  オンラインまたは社内インターフェースで軽量に表示できるよう JPEG 出力を使用します。
+
+* **ストレージ効率の高いアーカイブ**  
+  一般的にサポートされている圧縮形式で視覚的な連絡先レコードを保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ JPEG レンダリング**  
+  複数の VCF ファイルを自動的に JPEG プレビューに変換します。
+
+* **コンテンツ配信ワークフロー**  
+  連絡先画像を自動化されたポータル、メール、レポートシステムに挿入します。
+
+* **スケーラブルなビジュアルエクスポート**  
+  Python API を使用して、大規模な連絡先データセット向けに効率的な画像出力を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

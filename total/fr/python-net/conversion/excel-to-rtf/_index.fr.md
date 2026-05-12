@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'Excel en RTF avec Python transforme le contenu des feuilles de calcul en documents texte enrichi qui équilibrent portabilité et formatage éditable. Elle est utile lorsque les données de la feuille de calcul doivent être réutilisées dans un format axé sur le texte qui préserve la structure et la lisibilité.
+
+Cette conversion prend en charge l'automatisation en permettant des flux de travail de génération de documents légers qui transforment les données de la feuille de calcul en sorties de texte formaté partageables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de texte formaté**  
+  Convertissez les données Excel en documents RTF pour une distribution de texte lisible et éditable.
+
+* **Compatibilité multi-éditeurs**  
+  Utilisez le RTF lorsque les sorties de documents nécessitent une large prise en charge dans différents environnements de traitement de texte.
+
+* **Partage de contenu structuré**  
+  Transformez les informations de la feuille de calcul en un format de document plus simple, adapté à la révision et à la réutilisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de documents texte**  
+  Utilisez les API Python pour créer des fichiers RTF à partir d'entrées Excel dans le cadre de flux de travail de reporting ou d'archivage.
+
+* **Pipelines de documents légers**  
+  Prenez en charge les systèmes qui nécessitent des sorties de texte formaté sans la complexité d'un document complet.
+
+* **Transformation de contenu par lots**  
+  Convertissez des collections de feuilles de calcul en fichiers RTF de manière programmatique pour une livraison plus rapide.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

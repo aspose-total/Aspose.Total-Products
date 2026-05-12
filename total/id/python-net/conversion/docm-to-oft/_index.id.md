@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOCM ke O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM ke OFT mengubah dokumen yang mendukung makro menjadi file templat email yang dapat digunakan kembali, memudahkan standarisasi konten berbasis dokumen untuk tugas komunikasi berulang. Ini berguna ketika pesan yang konsisten harus dihasilkan dari sumber dokumen yang ditulis.
+
+Dalam alur kerja otomatisasi, konversi DOCM ke OFT memungkinkan penyebaran berbasis templat, komunikasi yang dipandu proses, dan penggunaan kembali konten dokumen secara skalabel di berbagai skenario pesan berulang.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pesan Berbasis Templat**
+  Mengubah konten dokumen menjadi templat email yang dapat digunakan kembali untuk komunikasi yang terstandarisasi.
+
+* **Konsistensi Proses**
+  Membantu tim mempertahankan struktur seragam di seluruh pesan keluar yang berulang.
+
+* **Pemanfaatan Ulang Konten**
+  Menggunakan kembali teks dokumen formal dalam templat komunikasi tanpa perlu pemformatan manual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomasi" %}}
+
+* **Pembuatan Templat Otomatis**
+  Menghasilkan file OFT dari dokumen DOCM untuk alur kerja pesan yang dapat diulang.
+
+* **Komunikasi Dipicu Alur Kerja**
+  Menggunakan templat yang dikonversi dalam proses persetujuan, notifikasi, atau dukungan.
+
+* **Persiapan Pesan Skalabel**
+  Memungkinkan pengisian dinamis dan distribusi konten berbasis templat secara skala besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

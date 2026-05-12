@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOT naar EML-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT-naar-EML-conversie zet tekstverwerkingssjablonen om in een standaard e‑mailberichtbestandsformaat dat veel wordt gebruikt voor e‑mailopslag, -overdracht en -archivering. Het is handig wanneer documentgebaseerde inhoud moet worden bewaard of gedeeld als een volledig e‑mailartefact.
+
+Met Python‑API's kan deze conversie worden ingebouwd in geautomatiseerde systemen die draagbare e‑mailbestanden genereren vanuit herbruikbare sjablonen, terwijl consistentie wordt behouden en de handmatige voorbereidingstijd wordt verminderd.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **E‑mailbestandcreatie**
+  Zet DOT‑sjablonen om in EML‑bestanden voor opslag, beoordeling of distributie.
+
+* **Communicatiearchivering**
+  Bewaar sjabloongebaseerde correspondentie als zelfstandige e‑mailberichtbestanden.
+
+* **Cross‑systeemoverdracht**
+  Genereer draagbare e‑mailuitvoer die kan worden verplaatst tussen compatibele mailomgevingen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde e‑mailverpakking**
+  Python‑workflows kunnen DOT‑documenten omzetten naar EML voor systeemgegenereerde communicatie.
+
+* **Archiveringsworkflows**
+  Conversie ondersteunt automatische bewaring van documentgebaseerde berichten in e‑mailbestandvorm.
+
+* **Bulkberichtenvoorbereiding**
+  Programmerende verwerking maakt grootschalige sjabloon‑naar‑EML‑conversie mogelijk voor schaalbare operaties.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

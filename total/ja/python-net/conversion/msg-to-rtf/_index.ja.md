@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to RTF 変換は、メールメッセージをリッチテキスト形式に変換し、編集可能で幅広い互換性を持つテキストドキュメントの取り扱いを可能にします。メールの内容が基本的な書式を保持しつつ、多くの文書環境で簡単に開ける必要がある場合に便利です。
+
+自動化ワークフローにおいて、MSG から RTF への変換は、コンテンツ抽出、編集可能なアーカイブ作成、レガシーシステムと最新システム間のシンプルな相互運用性をサポートします。構造、アクセシビリティ、柔軟性のバランスを取り、スケーラブルな文書プロセスを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **書式テキストの保持**  
+  メッセージの書式を編集可能なテキストドキュメント形式で保持します。
+
+* **広範な文書互換性**  
+  変換されたメールコンテンツを多数のテキスト処理環境で共有します。
+
+* **レガシーワークフローのサポート**  
+  軽量な書式付きドキュメントが必要なシステムでリッチテキスト出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **編集可能なアーカイブ生成**  
+  MSG ファイルを RTF に変換し、検索可能で改訂可能な文書ストレージを実現します。
+
+* **クロスシステムテキストワークフロー**  
+  柔軟な互換性が必要な混在環境で変換ファイルを移動します。
+
+* **自動化コンテンツ再利用**  
+  下流の文書作成やレポート作業で書式化されたメールテキストを再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

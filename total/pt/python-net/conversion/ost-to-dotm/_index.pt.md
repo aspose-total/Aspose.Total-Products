@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para DOTM transforma os dados da caixa de correio em formato de modelo habilitado para macros, combinando estrutura reutilizável com comportamento de documento pronto para automação. Isso é valioso para organizações que precisam de conteúdo derivado de e‑mail dentro de modelos padronizados que também suportam ações automatizadas de documentos.
+
+APIs Python tornam a conversão de OST para DOTM prática para operações em larga escala, permitindo a produção consistente e scriptável de modelos habilitados para macros a partir de arquivos de caixa de correio. Isso melhora a eficiência na automação de documentos, orquestração de fluxos de trabalho empresariais e geração controlada de conteúdo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Modelo Habilitado para Macro**  
+  Converte os dados da caixa de correio em arquivos DOTM para modelos reutilizáveis com suporte a automação incorporada.
+
+* **Estruturas de Documentos Automatizados**  
+  Ajuda equipes a construir processos orientados por modelos em torno de conteúdo de e‑mail arquivado.
+
+* **Documentos de Fluxo de Trabalho Estruturado**  
+  Suporta a criação repetível de saídas onde a lógica e o layout do documento devem ser preservados.
+
+* **Padronização Operacional**  
+  Permite o tratamento consistente de conteúdo derivado de caixas de correio em ambientes de documentos automatizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Automação de Modelos**  
+  Scripts Python criam modelos DOTM a partir do conteúdo OST para fluxos de trabalho de documentos escaláveis.
+
+* **Processamento de Conteúdo Dirigido por Macro**  
+  Sistemas automatizados preenchem e gerenciam arquivos de modelo gerados a partir dos dados da caixa de correio.
+
+* **Fluxos de Documentos Empresariais Repetíveis**  
+  A conversão programática melhora a consistência nas operações empresariais baseadas em modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

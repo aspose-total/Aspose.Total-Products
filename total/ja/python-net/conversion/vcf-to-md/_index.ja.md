@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から MD への変換は、連絡先カードデータを読みやすく、編集しやすく、テキストベースのナレッジシステムに統合しやすい Markdown ドキュメントに変換します。これは、可搬性、シンプルさ、バージョンに優しいコンテンツを重視するドキュメンテーション環境で特に有用です。
+
+自動化ワークフローにおいて、VCF から MD への変換は、Python API が軽量な連絡先ドキュメントを生成できるようにし、コンテンツリポジトリ、静的サイト、構造化されたノート生成パイプラインに自然に組み込むことができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **読みやすいテキストドキュメント**  
+  VCF レコードを Markdown に変換し、クリーンで可搬性のあるドキュメントを作成します。
+
+* **ナレッジベース統合**  
+  テキスト中心のシステムに適した形式で連絡先情報を保存します。
+
+* **バージョンに優しいコンテンツ管理**  
+  追跡しやすい構造化されたプレーンテキスト形式で連絡先データを管理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Markdown 生成**  
+  連絡先カードのバッチから MD ファイルを作成し、体系的なドキュメントを実現します。
+
+* **静的コンテンツパイプライン**  
+  変換された連絡先ファイルを自動出版およびリポジトリワークフローに流し込みます。
+
+* **スケーラブルなテキスト変換**  
+  Python API を使用して、軽量マークアップ形式で連絡先データを標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

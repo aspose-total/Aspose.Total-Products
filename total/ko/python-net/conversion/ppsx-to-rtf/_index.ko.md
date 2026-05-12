@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX를 RTF로 변환하면 프레젠테이션 콘텐츠를 가독성, 휴대성 및 기본 서식 보존을 균형 있게 유지하는 리치 텍스트 형식으로 바꿉니다. 프레젠테이션 자료를 편집, 보관 또는 크로스 플랫폼 공유를 위해 널리 지원되는 텍스트 형식으로 변환해야 할 때 유용합니다.
+
+자동화 중심 환경에서 PPSX를 RTF로 변환하면 가벼운 문서 교환을 지원하고, 호환성 중심 워크플로를 단순화하며, Python API 파이프라인이 형식이 지정된 텍스트 출력을 효율적으로 제공하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대용 텍스트 변환**  
+  프레젠테이션 콘텐츠를 널리 지원되는 리치 텍스트 문서 형식으로 변환합니다.
+
+* **크로스 플랫폼 공유**  
+  슬라이드에서 파생된 정보를 다양한 시스템 간에 더 쉽게 교환할 수 있게 합니다.
+
+* **기본 서식 보존**  
+  핵심 텍스트 스타일을 유지하면서 문서 처리를 더 간단하게 합니다.
+
+* **가독성 있는 아카이브 생성**  
+  프레젠테이션 콘텐츠를 접근 가능한 텍스트 형태로 장기 보관을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **호환성 중심 파일 처리**  
+  Python API는 광범위한 문서 지원이 필요한 환경을 위해 RTF 출력을 생성할 수 있습니다.
+
+* **자동화된 콘텐츠 보관**  
+  프레젠테이션 파일을 프로그래밍 방식으로 텍스트 친화적인 보관 형식으로 변환할 수 있습니다.
+
+* **대량 형식 정규화**  
+  자동화를 통해 여러 PPSX 파일을 RTF로 표준화하여 하위 단계 사용을 용이하게 할 수 있습니다.
+
+* **문서 교환 파이프라인**  
+  변환된 RTF 파일을 공유, 검토 또는 가져오기 워크플로에 전달할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

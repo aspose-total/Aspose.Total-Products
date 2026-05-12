@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS에서 DOCM으로의 변환은 평면 OpenDocument 스프레드시트 파일을 매크로 지원 Word 문서로 변환하여, 편집 가능한 콘텐츠와 고급 문서 동작을 결합해야 하는 워크플로에 유용합니다. 이 변환은 스프레드시트 기반 원본 데이터를 동적 또는 프로그래밍 가능한 요소가 포함된 구조화된 문서에 통합해야 하는 환경을 지원합니다.
+
+자동화 관점에서 FODS에서 DOCM으로의 변환은 데이터 변환과 매크로 지원 처리를 결합한 지능형 문서 워크플로를 구축하는 데 도움이 됩니다. Python API를 사용하면 대규모 변환을 자동화하고, 문서 생성을 엔터프라이즈 시스템과 연결하며, 반복 가능한 콘텐츠 전달 프로세스를 지원하기가 쉬워집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 보고서**  
+  스프레드시트 데이터를 고급 문서 자동화 로직을 지원할 수 있는 DOCM 문서로 변환합니다.
+
+* **프로세스 문서화**  
+  구조화된 FODS 콘텐츠를 가이드된 워크플로와 절차적 콘텐츠에 적합한 편집 가능한 파일로 전환합니다.
+
+* **템플릿 기반 출력**  
+  변환된 데이터가 내장된 자동화 기능이 있는 문서 템플릿에 맞춰야 할 때 DOCM 파일을 사용합니다.
+
+* **운영 문서 배포**  
+  제어된 편집 및 내부 프로세스 처리가 가능한 형식으로 데이터 기반 문서를 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 문서 조립**  
+  Python API를 사용하면 문서 생성 파이프라인의 일부로 FODS 파일을 DOCM 출력으로 변환할 수 있습니다.
+
+* **규칙 기반 워크플로 지원**  
+  자동화 시스템은 확장된 문서 작업이 필요한 환경을 위해 매크로 지원 문서를 준비할 수 있습니다.
+
+* **기업 운영을 위한 대량 변환**  
+  대규모 FODS 파일 그룹을 일관성과 확장성을 위해 프로그래밍 방식으로 DOCM 형식으로 변환할 수 있습니다.
+
+* **동적 출력 준비**  
+  변환 워크플로는 추가 자동 편집 또는 구조화된 처리를 위해 준비된 DOCM 문서를 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

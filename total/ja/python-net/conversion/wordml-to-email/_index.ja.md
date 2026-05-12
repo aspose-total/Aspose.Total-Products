@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から Email への変換は、文書コンテンツをメール配信可能な出力に変換し、コミュニケーションワークフロー、テンプレートメッセージング、コンテンツの再利用に利用できます。文書テキストを手動で書き直すことなく、配布可能なメールコンテンツにする必要がある場合に価値があります。
+
+Python API を使用すると、WordML から Email への変換を自動化でき、本文テキストを抽出し、必要に応じて構造を保持し、通知、キャンペーン、運用コミュニケーションのための文書からメッセージへのワークフローを効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **コンテンツ再利用**
+  文書テキストをコミュニケーションユースケース向けのメール配信可能なコンテンツに変換します。
+
+* **テンプレート生成**
+  WordML 文書を一貫したアウトバウンドメッセージングのソース素材として使用します。
+
+* **運用メッセージング**
+  内部または生成された文書を構造化されたメールコミュニケーションに変換するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書からメッセージへのパイプライン**
+  WordML ファイルを自動的にアウトバウンドシステム向けのメールコンテンツに変換します。
+
+* **通知ワークフローサポート**
+  標準化された文書ソースからメール本文を動的に生成できるようにします。
+
+* **大量コミュニケーション自動化**
+  定期的なレポート、更新、または文書駆動のアラートのためにメッセージ作成をスケールします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

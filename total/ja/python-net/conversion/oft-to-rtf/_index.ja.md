@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から RTF への変換は、Outlook のメールテンプレートを書式サポートと広範な互換性のバランスが取れたリッチテキスト文書に変換します。これは、コンテンツを編集可能なままに保ちつつ、さまざまな文書ツールでコアスタイルを保持する必要がある場合に有用です。
+
+自動化の観点から見ると、OFT から RTF への変換は、柔軟なコンテンツ再利用、システム間のやり取りの簡素化、効率的な文書作成をサポートします。相互運用性とテキスト中心のワークフローに実用的な選択肢です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **編集可能な書式付きコンテンツ**  
+  OFT テンプレートを RTF ファイルに変換し、編集可能な文書形式で書式を保持します。
+
+* **広範な互換性の共有**  
+  多くの文書エディタでのサポートが必要なワークフローに RTF 出力を使用します。
+
+* **テンプレートコンテンツの再利用**  
+  メールメッセージをリッチテキストファイルに転用し、レポート、記録、または文書化に利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テキスト文書パイプライン**  
+  OFT ファイルを RTF に自動変換し、下流の編集や配布プロセスに活用します。
+
+* **クロスプラットフォームコンテンツ交換**  
+  文書サポート要件が異なるシステム間で RTF 出力をやり取りします。
+
+* **スケーラブルな書式保持**  
+  Python API を使用して、大規模なテンプレート変換バッチでも構造化テキスト出力を維持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

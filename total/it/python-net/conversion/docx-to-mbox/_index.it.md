@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCX a MBOX consente la trasformazione del contenuto dei documenti in file di archivio mailbox utilizzati per memorizzare collezioni di messaggi email. Questo processo permette di integrare le informazioni dei documenti nelle strutture di archivio email.
+
+Le API Python consentono la generazione automatizzata di file mailbox dal contenuto dei documenti, supportando archivi di comunicazione e flussi di lavoro di messaggistica automatizzata.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso chiave" %}}
+
+* **Creazione di archivi email**  
+  Converte il contenuto DOCX in file di archivio mailbox.
+
+* **Registri di comunicazione dei documenti**  
+  Memorizza i messaggi basati su documenti all'interno degli archivi mailbox.
+
+* **Flussi di lavoro per la migrazione email**  
+  Consente di includere il contenuto dei documenti nelle esportazioni mailbox.
+
+* **Integrazione del sistema di messaggistica**  
+  Permette di confezionare le informazioni dei documenti all'interno degli archivi email.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di mailbox**  
+  I sistemi possono convertire i documenti in file di archivio MBOX.
+
+* **Elaborazione batch di archivi email**  
+  Gli script Python possono generare archivi mailbox da collezioni di documenti.
+
+* **Pipeline di messaggistica aziendale**  
+  I dati dei documenti possono essere trasformati automaticamente in formati mailbox.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

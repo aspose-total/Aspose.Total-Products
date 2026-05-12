@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to XLSX 변환은 OpenDocument Text 콘텐츠를 데이터 검토, 보고 및 협업에 널리 사용되는 최신 스프레드시트 형식으로 변환합니다. 문서 내용에 편집 및 분석이 가능한 표, 레코드 또는 구조화된 목록이 포함된 경우에 이상적입니다.
+
+자동화 워크플로우에서 ODT to XLSX 변환은 문서 기반 데이터를 다목적 스프레드시트 형식으로 효율적으로 추출할 수 있게 합니다. Python API는 현대 데이터 중심 시스템 전반에 걸쳐 확장 가능한 변환, 검증 및 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 스프레드시트 내보내기**  
+  문서 내용을 널리 사용되는 워크북 형식으로 변환합니다.
+
+* **데이터 분석 준비**  
+  추출된 정보를 정렬, 필터링 및 처리하기 쉽게 만듭니다.
+
+* **협업 검토**  
+  팀 기반 편집 및 변환된 데이터의 구조화된 검토를 지원합니다.
+
+* **워크플로우 상호 운용성**  
+  문서 저장소를 스프레드시트 기반 프로세스와 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 표-워크북 변환**  
+  Python 워크플로우는 문서 표를 추출하고 XLSX 파일로 내보낼 수 있습니다.
+
+* **배치 보고 파이프라인**  
+  여러 ODT 파일을 스프레드시트로 변환하여 반복 분석에 사용할 수 있습니다.
+
+* **데이터 정리 및 구조화**  
+  자동화 규칙을 사용해 워크북 생성 전에 추출된 값을 준비할 수 있습니다.
+
+* **시스템 간 통합**  
+  변환된 XLSX 출력은 저장소, 보고 또는 비즈니스 프로세스 도구로 전달될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

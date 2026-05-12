@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da Excel a DOCM in Python consente di esportare il contenuto dei fogli di calcolo in documenti di elaborazione testi abilitati alle macro per flussi di lavoro avanzati. È utile quando i file convertiti devono rimanere modificabili supportando al contempo azioni basate su macro negli ambienti documentali.
+
+Questa conversione è rilevante per l'automazione perché collega i dati dei fogli di calcolo al comportamento programmabile dei documenti, consentendo la generazione scalabile di file interattivi e consapevoli dei processi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Report con macro**  
+  Converti i file Excel in documenti DOCM che possono supportare azioni automatizzate nei flussi di lavoro di elaborazione testi.
+
+* **Documenti di processo**  
+  Prepara file modificabili che combinano dati strutturati con capacità di automazione dei documenti incorporate.
+
+* **Modelli operativi**  
+  Utilizza i dati dei fogli di calcolo per popolare documenti progettati per attività ripetibili guidate da macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Assemblaggio automatico di documenti**  
+  Converti gli input Excel in output DOCM per flussi di lavoro che richiedono documenti modificabili e pronti per gli script.
+
+* **Automazione dei processi interni**  
+  Supporta i dipartimenti che si affidano a file abilitati alle macro per formattazione, convalida o completamento guidato.
+
+* **Pipeline dati‑a‑documento**  
+  Utilizza le API Python per generare file DOCM in modo programmatico a partire da dati sorgente basati su fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

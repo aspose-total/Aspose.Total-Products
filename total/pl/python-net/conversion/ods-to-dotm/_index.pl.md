@@ -65,7 +65,47 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja ODS do DOTM umożliwia konwertowanie plików arkuszy kalkulacyjnych na szablony dokumentów z obsługą makr. Te szablony pozwalają na zaawansowaną automatyzację dokumentów oraz wielokrotnego użytku struktury dokumentów sterowane wbudowanymi makrami.
+
+Korzystając z interfejsów API Pythona, programiści mogą automatyzować przekształcanie zestawów danych z arkuszy kalkulacyjnych w szablony z obsługą makr. Umożliwia to skalowalne systemy automatyzacji, które generują dynamiczne dokumenty na podstawie danych pochodzących z arkuszy kalkulacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie szablonów z obsługą makr**  
+  Konwertuj struktury danych arkusza kalkulacyjnego na szablony wspierające makra automatyzacji.
+
+* **Zautomatyzowane ramy dokumentów**  
+  Użyj danych wejściowych z arkusza kalkulacyjnego do budowy szablonów sterowanych makrami.
+
+* **Dynamiczne generowanie szablonów**  
+  Generuj wielokrotnego użytku szablony z ustrukturyzowanej zawartości arkusza kalkulacyjnego.
+
+* **Systemy automatyzacji dokumentów**  
+  Umożliwiaj zaawansowane, zautomatyzowane przepływy pracy dokumentów poprzez szablony z obsługą makr.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczna produkcja szablonów**  
+  Przepływy pracy w Pythonie generują szablony z obsługą makr z danych wejściowych arkusza kalkulacyjnego.
+
+* **Masowa konwersja szablonów**  
+  Systemy przetwarzają wiele plików ODS, aby tworzyć szablony z obsługą makr.
+
+* **Automatyzacja dokumentów w przedsiębiorstwie**  
+  Szablony pochodzące z arkuszy kalkulacyjnych umożliwiają skalowalne, zautomatyzowane generowanie dokumentów.
+
+* **Dynamiczny montaż dokumentów**  
+  Szablony z obsługą makr wspierają programowe tworzenie treści.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

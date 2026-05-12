@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTM vers OST transforme les modèles Word contenant des macros en données de boîte aux lettres adaptées aux scénarios de stockage de courrier hors ligne et aux flux de travail de messagerie. Elle est pertinente lorsque du contenu basé sur des documents est intégré dans des environnements orientés courrier qui reposent sur des magasins de données locaux synchronisés.
+
+L'utilisation des API Python pour la conversion DOTM vers OST permet d'automatiser la préparation structurée des données de courrier à partir de modèles de documents. Elle prend en charge un traitement évolutif, réduit les efforts de conversion manuelle et améliore l'intégration entre les systèmes de documents et les flux de travail de messagerie d'entreprise.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation de données de messagerie hors ligne**
+  Convertir le contenu basé sur des documents en un format aligné avec les flux de travail de stockage de messagerie hors ligne.
+
+* **Archivage de communication basé sur les modèles**
+  Conserver le contenu réutilisable des modèles au sein d'environnements de traitement orientés courrier.
+
+* **Intégration de messagerie d'entreprise**
+  Faire le lien entre les flux de travail de documents et les systèmes qui gèrent les données de boîtes aux lettres synchronisées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de stockage de courrier**
+  Les flux de travail peuvent transformer le contenu DOTM en processus de gestion de données compatibles OST.
+
+* **Intégration du système de messagerie**
+  La conversion prend en charge la préparation automatisée des communications dérivées de documents pour les scénarios d'accès hors ligne.
+
+* **Traitement d'entreprise par lots**
+  Les tâches programmées permettent la gestion à grande échelle des modèles DOTM pour les flux de travail de données de courrier.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

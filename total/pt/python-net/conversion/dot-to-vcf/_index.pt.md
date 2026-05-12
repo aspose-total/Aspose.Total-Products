@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para VCF transforma modelos de documentos em arquivos de cartão de contato que podem ser usados para importação em agenda de endereços e compartilhamento de contatos. Isso é útil quando registros baseados em documentos contêm detalhes de pessoa ou organização que precisam ser inseridos em sistemas de comunicação.
+
+APIs Python permitem que a conversão de DOT para VCF seja automatizada, melhorando a portabilidade dos dados de contato e reduzindo a entrada manual repetitiva em fluxos de trabalho empresariais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Registro de Contato**
+  Converta informações baseadas em DOT em arquivos VCF para uso em agenda de endereços.
+
+* **Compartilhamento Portátil de Contatos**
+  Compartilhe dados de contato estruturados extraídos de modelos em um formato padronizado.
+
+* **Suporte à Entrada de Dados de Comunicação**
+  Reduza a entrada manual transformando o conteúdo do modelo em cartões de contato prontos para importação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação Automatizada de Contatos**
+  Fluxos de trabalho Python podem gerar arquivos VCF a partir de modelos DOT que contêm informações de contato.
+
+* **Integração com CRM e Diretórios**
+  A conversão suporta a movimentação de dados de contato baseados em documentos para sistemas de comunicação.
+
+* **Criação em Massa de Arquivos de Contato**
+  O processamento programático permite a geração escalável de saídas VCF a partir de muitos modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

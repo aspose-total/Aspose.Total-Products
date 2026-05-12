@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to XLS 変換は、ワードプロセッシングテンプレートを構造化されたレビュー、データ入力、レポートに適したスプレッドシートブックに変換します。テンプレートの内容を慣れ親しんだワークシート環境に移す必要がある場合に便利です。
+
+Python API を使用すると、DOT から XLS への変換を自動化でき、一貫性の向上、ドキュメント変換の高速化、そして大規模なスプレッドシート作成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシートレポート**
+  DOT ファイルを XLS ブックに変換し、整理された分析と運用レビューを実現します。
+
+* **データ構造化**
+  ドキュメントの内容を、ソートや追跡をサポートするワークシートレイアウトに移行します。
+
+* **レガシー ワークブック互換性**
+  抽出された情報を、多くの既存システムで使用されているスプレッドシート形式で共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ワークブック生成**
+  Python スクリプトで DOT テンプレートを XLS ファイルに変換し、定期的なレポートニーズに対応できます。
+
+* **データ処理パイプライン**
+  変換により、ドキュメント由来のコンテンツをスプレッドシート中心のワークフローに供給できます。
+
+* **大量スプレッドシート出力**
+  プログラムによる自動化で、多数のテンプレートから XLS ファイルをスケーラブルに作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

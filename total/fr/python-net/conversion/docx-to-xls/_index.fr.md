@@ -65,7 +65,44 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers XLS transforme les documents de traitement de texte en fichiers de feuille de calcul utilisés pour l'analyse tabulaire, le reporting et la gestion structurée des données. Ce processus permet aux tableaux et aux informations organisées provenant des documents d'être réutilisés dans des flux de travail basés sur des feuilles de calcul.
+
+Les API Python permettent d'automatiser la conversion DOCX‑to‑XLS dans les systèmes de reporting, les projets de migration et les pipelines de données d'entreprise. Elles assurent une extraction cohérente du contenu structuré des documents vers des environnements de feuille de calcul hérités.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de données de feuille de calcul**  
+  Convertit les tableaux DOCX et le texte structuré en feuilles de calcul prêtes à l'emploi.
+
+* **Support de rapports hérités**  
+  Permet aux données basées sur des documents d'être réutilisées dans des flux de travail de feuille de calcul établis.
+
+* **Migration de données depuis les documents**  
+  Aide à transférer les informations structurées vers des environnements de feuille de calcul pour l'analyse.
+
+* **Traitement opérationnel des données**  
+  Prend en charge l'utilisation du contenu des documents dans les systèmes d'examen tabulaire et de reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation automatisée de feuille de calcul**  
+  Les systèmes peuvent convertir les fichiers DOCX en format XLS pour les flux de travail métier en aval.
+
+* **Conversion par lots de feuilles de calcul héritées**  
+  Les scripts Python peuvent traiter des collections de documents en sorties de feuille de calcul de manière programmatique.
+
+* **Transformation de données d'entreprise**  
+  Le contenu des documents peut être exporté en fichiers XLS pour les systèmes de reporting et d'archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

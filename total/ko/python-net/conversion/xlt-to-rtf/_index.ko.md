@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLT를 RTF로 변환하면 Excel 템플릿 파일을 다양한 문서 환경에서 널리 호환되고 쉽게 교환할 수 있는 리치 텍스트 문서로 변환할 수 있습니다. 이는 스프레드시트 기반 콘텐츠를 기본 서식을 유지하면서도 매우 휴대성이 높은 경량 텍스트 형식으로 변환해야 할 때 유용합니다.
+
+자동화 사용 사례에서는 XLT를 RTF로 변환함으로써 효율적인 문서 생성과 광범위한 상호 운용성을 지원합니다. 이는 Python 기반 시스템이 구조화된 스프레드시트 템플릿을 공유, 보관 또는 다양한 다운스트림 애플리케이션에서 처리할 수 있는 서식이 적용된 텍스트 출력물로 전환하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대 가능한 서식 문서 생성**  
+  XLT 템플릿을 RTF 파일로 변환하여 쉽게 공유하고 기본 서식을 보존합니다.
+
+* **경량 콘텐츠 교환**  
+  여러 문서 도구 간 호환성이 중요할 때 RTF 출력을 사용합니다.
+
+* **구조화된 정보 변환**  
+  스프레드시트 템플릿 콘텐츠를 운영용으로 읽기 쉬운 리치 텍스트 문서로 변환합니다.
+
+* **보관 및 검토 지원**  
+  검토, 저장 및 문서 교환에 적합한 서식이 적용된 텍스트 파일을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 형식 정규화**  
+  Python API를 사용하여 XLT 파일을 RTF로 변환하고 표준화된 다운스트림 처리를 수행합니다.
+
+* **시스템 간 문서 전달**  
+  다양한 소프트웨어 환경을 가로질러 문서를 이동하는 워크플로에 대해 RTF 출력을 생성합니다.
+
+* **배치 변환 작업**  
+  여러 XLT 템플릿을 수동 서식 작업 없이 리치 텍스트 파일로 처리합니다.
+
+* **문서 교환 파이프라인**  
+  검토, 내보내기 또는 보관 처리를 위해 자동화 시스템에 RTF 변환을 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

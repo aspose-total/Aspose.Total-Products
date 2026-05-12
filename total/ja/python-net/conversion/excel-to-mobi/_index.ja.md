@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による Excel から MOBI への変換により、スプレッドシートの内容をデジタル読書環境に適した eBook フレンドリーな形式に変換することが可能になります。構造化データを配布や参照用の携帯可能で読みやすい文書に再利用する必要がある場合に便利です。
+
+この変換は、手動での再フォーマットを行うことなく、Python ワークフローがスプレッドシートの内容をモバイルフレンドリーな出版資産に変換できるようにし、自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **デジタル出版**  
+  Excel ベースのコンテンツを MOBI ファイルに変換し、携帯での閲覧や参照に利用できます。
+
+* **参照資料作成**  
+  構造化されたスプレッドシート情報を読みやすい eBook スタイルのドキュメントに変換します。
+
+* **コンテンツの再利用**  
+  ビジネスや教育用のスプレッドシートコンテンツを長文のデジタル配布形式で再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化 eBook 生成**  
+  Python API を使用して、出版パイプライン内で Excel データから MOBI ファイルを生成します。
+
+* **コンテンツ配布ワークフロー**  
+  スプレッドシート主導の資料をモバイルで読める文書に変換し、広範なアクセスを可能にします。
+
+* **スケーラブルな形式変換**  
+  プログラム的に構造化データをデジタル読書プラットフォームやアーカイブ向けに再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

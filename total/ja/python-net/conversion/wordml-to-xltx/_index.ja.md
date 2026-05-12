@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から XLTX への変換は、構造化された文書コンテンツを最新のスプレッドシートテンプレートファイルに変換し、再利用可能なワークブックの作成を可能にします。文書ベースのレイアウト、フォーム、またはレポート構造を標準化されたスプレッドシートテンプレートにする必要がある場合に便利です。
+
+Python API を使用すると、構造をプログラムで抽出し、スケーラブルなビジネスワークフロー向けにテンプレート準備済みのスプレッドシート出力を生成することで、WordML から XLTX への変換を効率的に行えます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **モダンなスプレッドシートテンプレート作成**
+  WordML コンテンツを XLTX ファイルに変換し、再利用可能なワークブック設計を実現します。
+
+* **繰り返しデータレイアウトの標準化**
+  繰り返しのプロセス全体で一貫したスプレッドシート構造を維持するのに役立ちます。
+
+* **再利用可能なレポート基盤**
+  文書レイアウトを信頼できるスプレッドシートテンプレートに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートベースのワークブック自動化**
+  構造化された WordML ドキュメントから XLTX テンプレートを自動的に生成します。
+
+* **運用標準化ワークフロー**
+  承認されたソースレイアウトから繰り返し可能なスプレッドシート作成をサポートします。
+
+* **ドキュメントからテンプレートへのパイプライン**
+  文書構造を最新のワークブックテンプレートにスケーラブルに変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

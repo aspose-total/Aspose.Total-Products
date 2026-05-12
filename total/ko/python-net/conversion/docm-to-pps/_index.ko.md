@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to PPS 변환은 매크로가 포함된 문서를 직접 표시를 위해 설계된 프레젠테이션 슬라이드쇼 파일로 변환합니다. 문서 내용을 즉시 실행 가능한 시각적 프레젠테이션으로 제공해야 할 때 유용합니다.
+
+자동화된 시스템에서 DOCM to PPS 변환은 프레젠테이션 전달을 간소화하여 키오스크, 데모 및 예약된 커뮤니케이션 워크플로우에 대한 보기 중심 출력물을 쉽게 생성할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **직접 슬라이드쇼 전달**
+  문서 내용을 즉시 재생을 목표로 하는 프레젠테이션으로 변환합니다.
+
+* **회의 및 이벤트 표시**
+  문서 인사이트를 편집 단계 없이 시각적으로 제공해야 하는 시나리오를 지원합니다.
+
+* **제어된 프레젠테이션 출력**
+  프레젠테이션 콘텐츠를 보다 보기 중심의 형식으로 배포하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 게시**
+  DOCM 소스에서 PPS 파일을 생성하여 바로 프레젠테이션 배포가 가능하도록 합니다.
+
+* **디스플레이 워크플로 통합**
+  프레젠테이션 화면이나 예약된 세션으로 자동 전달을 지원합니다.
+
+* **배치 시각 출력 생성**
+  문서 컬렉션을 재생 준비가 된 슬라이드쇼 자산으로 효율적으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

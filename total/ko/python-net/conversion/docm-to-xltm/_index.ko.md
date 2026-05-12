@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 XLTM으로의 변환은 매크로 사용 문서를 매크로 사용 스프레드시트 템플릿으로 변환하여 재사용 가능한 워크북 구조와 고급 자동화 동작을 결합합니다. 이는 템플릿에서 일관성과 내장된 스프레드시트 로직을 모두 필요로 하는 조직에 유용합니다.
+
+자동화와 확장을 위해, DOCM에서 XLTM으로의 변환은 복잡한 스프레드시트 워크플로에 필요한 동적 기능을 유지하면서 반복 가능한 템플릿 기반 워크북 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿 생성**
+  자동화 준비가 된 동작을 포함하는 재사용 가능한 스프레드시트 템플릿을 생성합니다.
+
+* **고급 재사용 가능한 워크플로**
+  내장 로직 또는 스크립트된 작업을 사용한 반복적인 워크북 생성을 지원합니다.
+
+* **유연성을 갖춘 표준화**
+  고급 스프레드시트 기능을 잃지 않으면서 일관된 템플릿을 유지하도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 파이프라인 지원**
+  반복적인 워크북 생성을 위해 DOCM 파일을 XLTM 출력으로 변환합니다.
+
+* **내장 로직 재사용**
+  하위 워크플로가 고급 동작을 갖춘 일관된 템플릿을 사용할 수 있도록 합니다.
+
+* **확장 가능한 스프레드시트 제공**
+  운영 전반에 걸쳐 매크로 사용 템플릿을 대규모로 배포하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

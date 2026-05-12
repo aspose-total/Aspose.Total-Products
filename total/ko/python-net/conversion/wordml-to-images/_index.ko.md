@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to Images 변환은 문서 내용을 이미지 형식으로 렌더링하여 미리보기, 공유, 출판 및 시각적 보관을 가능하게 합니다. 편집 가능한 문서 소프트웨어 없이도 다양한 플랫폼에서 문서 페이지를 일관되게 표시해야 할 때 유용합니다.
+
+Python API는 페이지를 프로그래밍 방식으로 렌더링하여 WordML to Images 변환을 간소화하고, 대규모 썸네일 생성, 페이지 미리보기 및 시각적 문서 배포 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 미리보기 생성**
+  WordML 페이지를 이미지로 변환하여 빠른 보기와 색인을 가능하게 합니다.
+
+* **시각적 공유**
+  문서 내용을 이미지 친화적인 채널 및 인터페이스에서 더 쉽게 배포할 수 있게 합니다.
+
+* **불변 프레젠테이션**
+  검토, 출판 또는 참고 목적을 위해 페이지 모양을 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 생성 파이프라인**
+  WordML 문서 배치에서 미리보기 이미지를 자동으로 생성합니다.
+
+* **출판 워크플로우 지원**
+  웹사이트, 지식 시스템 또는 검토 도구용으로 페이지를 이미지로 변환합니다.
+
+* **아카이브 시각화**
+  원본 파일 형식을 열지 않고도 저장된 문서에 이미지 기반 접근을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-naar-FODS-conversie in Python-API's transformeert OpenDocument-teksttemplates naar platte XML-spreadsheetdocumenten die leesbaar, gestructureerd en geschikt zijn voor systeemniveauverwerking. Dit is nuttig voor workflows die de voorkeur geven aan open, tekstgebaseerde spreadsheetrepresentaties.
+
+De conversie ondersteunt automatisering door documentinhoud gemakkelijker te versioneren, te inspecteren en te integreren in XML‑vriendelijke processen waar transparantie, structuur en interoperabiliteit belangrijk zijn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Open Spreadsheet Generatie**  
+  Converteert teksttemplates naar gestructureerde platte spreadsheetdocumenten.
+
+* **Leesbare gegevensserialisatie**  
+  Produceert tekstgebaseerde spreadsheetinhoud die gemakkelijk programmatisch te inspecteren is.
+
+* **Workflow-interoperabiliteit**  
+  Past bij systemen die afhankelijk zijn van open documentstandaarden en XML‑verwerking.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **XML-gebaseerde datapijplijnen**  
+  Stuurt template‑afgeleide inhoud naar platte gestructureerde spreadsheetworkflows.
+
+* **Versiebeheer‑vriendelijke exporten**  
+  Ondersteunt geautomatiseerde generatie van diff‑vriendelijke spreadsheetdocumenten.
+
+* **Op standaarden gebaseerde verwerking**  
+  Maakt herhaalbare transformaties mogelijk in omgevingen met open formaten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

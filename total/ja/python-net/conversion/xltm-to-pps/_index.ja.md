@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から PPS への変換は、マクロ対応 Excel テンプレートを直接表示用のプレゼンテーション スライドショー ファイルに変換することをサポートします。これは、スプレッドシートベースのコンテンツを、迅速な閲覧と配信に最適化されたプレゼンテーション出力に変換する必要がある場合に有益です。
+
+自動化された環境では、XLTM から PPS への変換によりプレゼンテーションの公開が強化され、スライド配布が効率化され、表示準備が整ったファイルの生成が容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **スライドショー配信出力**  
+  構造化されたスプレッドシート テンプレートを直接再生できるプレゼンテーション ファイルに変換します。
+
+* **会議対応コンテンツの準備**  
+  ワークブックベースのソース素材から表示重視のプレゼンテーションを作成するのに役立ちます。
+
+* **高速プレゼンテーション配布**  
+  社内外のコミュニケーション向けに、事前にフォーマットされたスライドショー コンテンツの配信をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動スライドショー公開**  
+  XLTM テンプレートから PPS ファイルを生成し、定期的なプレゼンテーション配布ワークフローを実現します。
+
+* **プレゼンテーション配信パイプライン**  
+  スプレッドシート テンプレート データと、すぐに表示できるスライドショー出力を接続します。
+
+* **大量会議資料の生成**  
+  構造化されたソーステンプレートから、表示準備が整ったプレゼンテーションをスケーラブルに生産できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

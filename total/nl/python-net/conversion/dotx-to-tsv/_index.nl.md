@@ -65,7 +65,41 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX‑naar‑TSV-conversie zet Word‑sjablooninhoud om in door tabs gescheiden waarden voor gestructureerde gegevensdeling en vereenvoudigde import in spreadsheet‑ of verwerkingshulpmiddelen. Het is nuttig wanneer tabulaire documentinhoud moet worden geëxporteerd in een schoon tekstgebaseerd formaat.
+
+Met Python‑API’s verbetert deze conversie automatisering door betrouwbare tekstgebaseerde gegevensuitwisseling, lichtgewicht verwerking en grootschalige transformatie van sjabloon‑gedreven inhoud mogelijk te maken.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Platte‑tekstgegevensexport**
+  Converteer gestructureerde documentinhoud naar een lichtgewicht tabelformaat.
+
+* **Werkstromen voor spreadsheetimport**
+  Bereid op sjabloon gebaseerde informatie voor snelle import in data‑tools.
+
+* **Systeemvriendelijke gegevensuitwisseling**
+  Ondersteun de overdracht van gestructureerde inhoud tussen automatiseringspijplijnen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geplande gegevensextractie**
+  Converteer DOTX‑sjablonen automatisch naar TSV‑bestanden voor terugkerende werkstromen.
+
+* **ETL‑voorbereiding**
+  Gebruik TSV‑output als een invoerlaag voor geautomatiseerde transformatiepijplijnen.
+
+* **Hoge‑volume tekstgebaseerde conversie**
+  Verwerk grote batches sjablonen naar compacte gestructureerde uitvoer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

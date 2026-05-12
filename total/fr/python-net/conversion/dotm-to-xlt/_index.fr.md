@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTM vers XLT transforme les modèles Word activés par des macros en fichiers de modèle Excel classiques pour la création de feuilles de calcul réutilisables et des flux de travail compatibles avec les anciens systèmes. Elle est utile lorsque le contenu d'un document doit devenir une base de classeur réutilisable plutôt qu'une sortie de feuille de calcul ponctuelle.
+
+L'utilisation des API Python pour la conversion DOTM vers XLT aide à automatiser la création de modèles de feuilles de calcul réutilisables à partir de sources de documents structurés. Cela améliore la standardisation, accélère la génération récurrente de feuilles de calcul et prend en charge la compatibilité avec les environnements bureautiques plus anciens.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles de feuilles de calcul hérités réutilisables**
+  Convertir le contenu DOTM en XLT pour une création de classeur réutilisable dans les flux de travail Excel plus anciens.
+
+* **Réutilisation du document en modèle**
+  Transformer le contenu écrit structuré en bases de feuilles de calcul pour une utilisation répétée.
+
+* **Actifs de saisie de données standardisés**
+  Produire des fichiers de modèle cohérents à partir de structures de documents approuvées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de fichiers de modèle**
+  Les systèmes peuvent créer des fichiers XLT à partir de modèles DOTM pour des flux de travail de feuilles de calcul réutilisables.
+
+* **Standardisation des formats hérités**
+  La conversion prend en charge la production automatisée de formats de modèles plus anciens où la compatibilité est importante.
+
+* **Traitement par lots d'actifs réutilisables**
+  Les tâches programmatiques permettent une transformation évolutive des fichiers DOTM en modèles XLT.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

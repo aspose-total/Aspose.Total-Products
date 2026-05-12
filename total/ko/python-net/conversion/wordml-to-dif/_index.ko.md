@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 DIF 변환은 구조화된 문서 데이터를 데이터 교환 형식(Data Interchange Format)으로 내보내어 레거시 스프레드시트 및 데이터 처리 시스템과의 호환성을 제공합니다. 이는 조직이 오래된 하지만 여전히 지원되는 교환 형식으로 구조화된 콘텐츠를 보존해야 할 때 유용합니다.
+
+Python API는 테이블을 추출하고 논리적 데이터 관계를 보존하며 문서 변환을 자동화함으로써 WordML에서 DIF 변환을 효율적으로 수행하여 마이그레이션 및 상호 운용성 프로젝트를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 교환**
+  WordML 테이블 콘텐츠를 DIF로 변환하여 오래된 스프레드시트 환경과의 호환성을 제공합니다.
+
+* **데이터 마이그레이션 프로젝트**
+  문서에서 구조화된 정보를 상호 운용 가능한 보관 또는 전송 형식으로 이동하는 데 도움을 줍니다.
+
+* **구조화된 레코드 보존**
+  데이터 교환을 위해 설계된 형식으로 표 형식 콘텐츠를 장기 보존하도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 레거시 내보내기**
+  대규모 역사적 데이터 세트를 위해 문서 기반 테이블을 DIF로 변환하는 작업을 자동화합니다.
+
+* **마이그레이션 워크플로 지원**
+  오래된 교환 형식이 필요한 자동화된 현대화 프로젝트와 통합됩니다.
+
+* **데이터 표준화 작업**
+  레포지토리 전반에 걸쳐 구조화된 콘텐츠 정규화를 위한 반복 가능한 변환 루틴을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

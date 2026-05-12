@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para DOCX usando APIs Python converte modelos de e‑mail do Outlook em documentos de processamento de texto editáveis modernos, amplamente suportados em diversas plataformas. Isso facilita a reutilização do conteúdo de e‑mail em documentação estruturada, colaboração e fluxos de trabalho de publicação.
+
+Do ponto de vista da automação, a conversão de OFT para DOCX melhora a portabilidade de conteúdo e suporta pipelines escaláveis de geração de documentos. Ela ajuda sistemas modernos a unificar o conteúdo de mensagens com processos centrados em documentos, proporcionando um tratamento mais rápido e melhor interoperabilidade.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Edição de Documentos Modernos**  
+  Converta arquivos OFT em documentos DOCX para fácil revisão e formatação nos fluxos de trabalho de escritório atuais.
+
+* **Reuso de Conteúdo entre Sistemas**  
+  Reaproveite modelos de e‑mail como documentos editáveis para relatórios, propostas ou registros internos.
+
+* **Saída de Arquivamento Padronizada**  
+  Armazene o conteúdo dos modelos de e‑mail em um formato de documento amplamente compatível para acesso de longo prazo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Conversão de Modelos em Escala**  
+  Transforme automaticamente bibliotecas OFT em arquivos DOCX para repositórios de documentos corporativos.
+
+* **Publicação de Conteúdo Baseada em Fluxo de Trabalho**  
+  Envie as saídas DOCX convertidas para sistemas de aprovação, edição ou publicação sem intervenção manual.
+
+* **Montagem Dinâmica de Documentos**  
+  Use APIs Python para integrar arquivos DOCX derivados de OFT em processos maiores de geração automática de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

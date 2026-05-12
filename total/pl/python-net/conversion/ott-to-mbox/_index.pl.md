@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OTT do MBOX w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do MBOX w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w format archiwum skrzynki pocztowej służący do przechowywania kolekcji wiadomości w stylu e‑mail. Jest to przydatne, gdy wygenerowane komunikaty muszą być grupowane, przenoszone lub przechowywane w strukturze zgodnej ze skrzynką pocztową.
+
+Konwersja wspiera automatyzację, umożliwiając generowanie wiadomości na bazie dokumentów, które bezpośrednio trafiają do potoków archiwizacji i migracji opartych na przechowywaniu w stylu skrzynki pocztowej, zapewniając skalowalność i organizację.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Przygotowanie archiwum skrzynki pocztowej**  
+  Tworzy treść wiadomości odpowiednią do grupowego przechowywania e‑maili.
+
+* **Rejestrowanie komunikacji**  
+  Zachowuje wygenerowaną treść w przenośnym formacie skrzynki pocztowej.
+
+* **Pakowanie wiadomości hurtowych**  
+  Pomaga zorganizować wiele wygenerowanych wiadomości do transferu lub importu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie archiwum poczty**  
+  Konwertuje komunikację opartą na szablonach do kontenerów MBOX.
+
+* **Wsparcie przepływu pracy migracji**  
+  Przygotowuje wiadomości pochodzące z dokumentów do procesów importu skrzynki pocztowej.
+
+* **Potoki retencji wsadowej**  
+  Przechowuje powtarzające się wygenerowane wiadomości w celu zapewnienia zgodności lub audytu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

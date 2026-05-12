@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OFT en DOT à l'aide des API Python permet de convertir les modèles d’e‑mail Outlook en fichiers de modèles Word hérités pour la création de documents standardisés. Ceci est utile lorsque les organisations s’appuient sur des structures de documents réutilisables et ont besoin de transformer le contenu des messages en formats pilotés par des modèles.
+
+Dans les environnements axés sur l’automatisation, la conversion OFT en DOT aide à aligner le contenu provenant des e‑mails avec des processus de création de documents répétables. Elle améliore la cohérence, soutient la gouvernance des modèles et simplifie les tâches de génération en aval.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles de documents réutilisables**  
+  Convertir le contenu OFT en fichiers DOT pour la génération répétée de documents basée sur une structure fixe.
+
+* **Compatibilité avec les flux de travail hérités**  
+  Prendre en charge les systèmes qui dépendent encore d’anciens formats de modèles Word pour les opérations commerciales.
+
+* **Distribution de contenu standardisée**  
+  Fournir des fichiers prêts à être utilisés comme modèles qui conservent un formatage cohérent à travers les documents générés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Bibliothèques de modèles automatisées**  
+  Construire et maintenir des référentiels de modèles de documents à partir du contenu OFT en utilisant les API Python.
+
+* **Génération de formulaires cohérente**  
+  Utiliser les fichiers DOT convertis dans des systèmes automatisés qui créent des rapports ou des formulaires récurrents.
+
+* **Transformation de contenu structuré**  
+  Convertir les modèles d’e‑mail en modèles de documents réutilisables pour des flux de travail opérationnels évolutifs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

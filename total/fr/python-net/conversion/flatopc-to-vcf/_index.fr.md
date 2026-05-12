@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de FlatOPC en VCF à l'aide des API Python permet de transformer le contenu structuré des documents en fichiers de cartes de contact numériques qui prennent en charge le partage, l'importation et la synchronisation des contacts. Cela est particulièrement utile lorsque les documents sources contiennent des informations sur des personnes ou des organisations qui doivent être réutilisées dans les systèmes de gestion des contacts et de communication.
+
+Cette conversion est très pertinente pour l'automatisation car elle permet aux systèmes d'extraire et de standardiser les données de contact de manière programmatique, améliorant la cohérence des données, réduisant la saisie manuelle et soutenant des flux de travail CRM et annuaire évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération de cartes de contact**  
+  Convertir le contenu FlatOPC en fichiers VCF pour un partage de contacts portable et standardisé.
+
+* **Extraction de données d'annuaire**  
+  Utiliser la conversion pour transformer les détails de contact basés sur des documents en enregistrements numériques réutilisables.
+
+* **Flux de travail d'importation de contacts**  
+  Préparer la sortie VCF pour une ingestion facile dans les carnets d'adresses, les annuaires et les plateformes de communication.
+
+* **Gestion d'identité structurée**  
+  Conserver les informations sur les personnes et les organisations provenant des documents sources dans un format conçu pour la gestion des contacts.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création de contacts automatisée**  
+  L'automatisation améliore ce scénario en extrayant les détails de contact des documents FlatOPC et en générant des fichiers VCF.
+
+* **Synchronisation CRM et annuaire**  
+  Le sujet améliore les flux de travail automatisés en alimentant les cartes de contact standardisées dans les systèmes de données clients ou employés.
+
+* **Exportation massive de contacts**  
+  Les processus programmatiques peuvent générer de nombreux fichiers VCF à partir de dépôts de documents avec un effort manuel minimal.
+
+* **Pipelines d'intégration dynamiques**  
+  Les systèmes automatisés peuvent créer et distribuer des fichiers de contact dans le cadre des processus d'intégration, d'événement ou de configuration client.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

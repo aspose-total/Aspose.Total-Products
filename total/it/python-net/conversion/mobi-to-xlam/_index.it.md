@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MOBI a XLAM in Python consente di preparare contenuti derivati da ebook per ambienti di fogli di calcolo che si basano su funzionalità basate su componenti aggiuntivi. Questo può essere utile in flussi di lavoro specializzati in cui i dati estratti devono essere forniti insieme a un’automazione avanzata dei fogli di calcolo o a una logica di business riutilizzabile.
+
+Per la rilevanza dell’automazione, la conversione da MOBI a XLAM supporta la consegna di contenuti strutturati negli ecosistemi di componenti aggiuntivi abilitati alle macro, consentendo di impacchettare e riutilizzare attività ripetitive dei fogli di calcolo. Collega l’estrazione dei contenuti a strategie di automazione dei fogli di calcolo estensibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Integrazione Componenti Aggiuntivi per Fogli di Calcolo**
+  Prepara i contenuti MOBI estratti per i flussi di lavoro che utilizzano estensioni per fogli di calcolo basate su componenti aggiuntivi.
+
+* **Consegna di Automazione Riutilizzabile**
+  Supporta ambienti in cui i dati elaborati interagiscono con logiche di automazione dei fogli di calcolo predefinite.
+
+* **Cartelle di Lavoro Operative Avanzate**
+  Abilita output strutturati per i team che utilizzano strumenti di fogli di calcolo specializzati e livelli di automazione personalizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Catene di Elaborazione Guidate da Macro**
+  Converti i contenuti MOBI per l’uso negli ecosistemi di fogli di calcolo che automatizzano le attività tramite componenti aggiuntivi.
+
+* **Pacchetti di Automazione Dati Riutilizzabili**
+  Supporta flussi di lavoro ricorrenti in cui i contenuti estratti devono essere consumati da estensioni di fogli di calcolo standardizzate.
+
+* **Integrazione di Fogli di Calcolo Enterprise**
+  Utilizza passaggi di conversione basati su Python per collegare l’estrazione dei documenti a processi avanzati di automazione d’ufficio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

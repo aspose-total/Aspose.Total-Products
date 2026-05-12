@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から PPSX への変換は、マクロ対応の Excel テンプレートを直接表示および共有できる最新のスライドショー プレゼンテーション ファイルに変換します。構造化されたブック内容をスライドショーモードで開くプレゼンテーション資料として配布する必要がある場合に有用です。
+
+自動化されたワークフローにおいて、XLTM から PPSX への変換は配信速度を向上させ、最新のプレゼンテーション互換性をサポートし、スプレッドシート テンプレートからプレゼンテーション出力をスケーラブルに作成できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **モダン スライドショー出力**  
+  スプレッドシート テンプレートの内容を直接スライドショー表示に最適化されたプレゼンテーション ファイルに変換します。
+
+* **プレゼンテーション配布の準備**  
+  手動でスライドを設定することなく、構造化されたコンテンツを即座にプレゼンテーション配信できるようにします。
+
+* **再利用可能なコミュニケーション資産**  
+  標準化されたブック テンプレートからスライドショー資料を繰り返し生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動表示準備済みプレゼンテーション作成**  
+  会議、トレーニング、レポートなどのユースケース向けに、XLTM テンプレートから PPSX ファイルを生成します。
+
+* **スケーラブルなスライド配布ワークフロー**  
+  チームやシステム全体でスライドショー出力を大規模に公開することを支援します。
+
+* **スプレッドシートからプレゼンテーションへの自動化**  
+  テンプレートベースのブック コンテンツを最新のスライドショー生成パイプラインに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XLAM から OTT への変換は、Excel アドインのコンテンツをオープンドキュメントのテキストテンプレートに変換し、繰り返し可能な文書生成をサポートします。これは、オープン標準フォーマットで再利用可能な文書構造を求め、文書作成ワークフロー全体での一貫性を保ちたい組織にとって有用です。
+
+自動化システム内では、XLAM から OTT への変換は、テンプレート駆動型プロセスの構築を支援し、標準化された文書を効率的かつ大規模に生成します。オープンフォーマットの操作をサポートし、手動での書式設定作業を削減し、文書化パイプライン全体の保守性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンテンプレート作成**  
+  XLAM コンテンツを OTT テンプレートに変換し、オープンフォーマット環境で再利用可能な文書生成を実現します。
+
+* **標準化された文書設計**  
+  チームが定期的なレポートやフォーム向けに、一貫したオープンドキュメントテンプレートを作成できるよう支援します。
+
+* **再利用可能なコンテンツフレームワーク**  
+  構造化されたスプレッドシート由来のコンテンツを、繰り返し使用できる文書設計図に変換します。
+
+* **テンプレートベースの出版**  
+  一貫性が求められる文書化ワークフロー向けに、オープンフォーマットのテンプレート作成を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化ワークフロー**  
+  Python API が XLAM ソースから OTT テンプレートを生成し、標準化された文書作成を実現します。
+
+* **オープンエコシステム統合**  
+  自動変換は、オープンドキュメント標準を使用するプラットフォーム間でのテンプレート駆動型操作を支援します。
+
+* **スケーラブルなフォーム・レポート作成**  
+  生成された OTT テンプレートは、大量の文書生成プロセスの基盤として活用できます。
+
+* **コンテンツ構造化パイプライン**  
+  プログラムによる変換は、スプレッドシート由来のコンテンツを再利用可能なオープンフォーマットテンプレートに整理するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

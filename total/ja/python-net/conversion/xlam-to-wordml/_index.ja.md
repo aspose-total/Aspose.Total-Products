@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XLAM から WordML への変換は、Excel アドインのコンテンツを XML ベースの Word 文書表現に変換し、構造化処理、変換、統合に役立ちます。この形式は、文書コンテンツが機械可読で、ポータブルで、システムレベルの操作に適している必要がある場合に有益です。
+
+自動化が重視される環境では、XLAM から WordML への変換は、コンテンツの解析、検証、変換、プログラムによる生成を容易にすることで、先進的な文書ワークフローを支援します。構造化文書の交換や XML ベースの処理に依存するスケーラブルなシステムに特に有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **構造化文書交換**  
+  XML ベースの文書処理を必要とするワークフロー向けに、XLAM コンテンツを WordML に変換します。
+
+* **機械可読コンテンツ処理**  
+  文書データをプログラムで解析または変換する必要があるシナリオをサポートします。
+
+* **XML パイプラインとの統合**  
+  スプレッドシート由来のコンテンツを、構造化マークアップワークフローを中心に構築されたシステムと整合させるのに役立ちます。
+
+* **文書変換ワークフロー**  
+  ルールベースまたはスキーマ認識システムを使用した、柔軟な下流処理を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML ベースの文書自動化**  
+  Python API を使用して、XLAM ファイルを構造化文書の生成および処理用の WordML に変換できます。
+
+* **変換および検証パイプライン**  
+  生成された WordML 出力は、より大規模な自動化フロー内で自動的に検証、修正、再公開できます。
+
+* **システム統合ワークフロー**  
+  変換は、スプレッドシート起源のコンテンツを XML 対応のエンタープライズプラットフォームへ移行することを支援します。
+
+* **動的コンテンツオーケストレーション**  
+  プログラムによるプロセスは、XLAM ソースからスケールで WordML 文書を組み立て、強化し、変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

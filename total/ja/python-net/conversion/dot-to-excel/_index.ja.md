@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から Excel への変換は、再利用可能な文書テンプレートを計算、レポート作成、構造化されたレビューに適したスプレッドシート形式のブックに変換します。テキストベースのテンプレートコンテンツをグリッドベースのビジネス形式で分析または再利用する必要がある場合に価値があります。
+
+Python API は、DOT コンテンツを自動的に抽出・変換して Excel 互換の出力にすることで、このプロセスを効率化し、スケーラブルで再現可能なデータワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レポート作成準備**
+  DOT ファイルを Excel ブックに変換し、レビュー、計算、構造化されたレポート作成に利用します。
+
+* **データ再編成**
+  文書コンテンツを、フィルタリングや分析が容易なスプレッドシートレイアウトに移行します。
+
+* **運用引き継ぎ**
+  テンプレート由来の情報を、ビジネスチームやシステムにとって馴染みのある形式で共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書からブックへの自動化**
+  Python スクリプトは、DOT テンプレートを Excel 出力に変換し、スケジュールされたデータ配信に利用できます。
+
+* **パイプラインベースのレポート作成**
+  自動化されたワークフローは、文書コンテンツをビジネスインテリジェンスプロセス用のブックに変換できます。
+
+* **大量スプレッドシート生成**
+  プログラムによる変換は、多数のソースファイルにわたって一貫した Excel 出力の作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

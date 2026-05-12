@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX를 RTF로 변환하면 스프레드시트 내용을 서식이 유지된 리치 텍스트 문서로 변환하여 문서 편집기 전반에서 널리 호환됩니다. 이는 스프레드시트 데이터를 유연하고 텍스트 중심의 형식으로 공유해야 할 때 유용합니다.
+
+XLSX를 RTF로 자동 변환하면 일관된 서식을 가능하게 하고, 콘텐츠 교환을 단순화하며, 스프레드시트 데이터를 휴대 가능한 텍스트 문서로 확장 가능하게 변환함으로써 문서 워크플로를 효율화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **서식 텍스트 보고**  
+  스프레드시트 데이터를 구조와 기본 스타일을 유지하는 읽기 가능한 문서로 변환합니다.
+
+* **편집기 간 호환성**  
+  스프레드시트에서 파생된 콘텐츠를 다양한 텍스트 처리 도구에서 더 쉽게 열 수 있게 합니다.
+
+* **경량 문서 출력**  
+  공유, 검토 및 보관을 위한 텍스트 중심 파일 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 텍스트 문서 생성**  
+  시스템은 반복적인 보고 프로세스를 위해 스프레드시트 파일을 RTF 출력으로 변환할 수 있습니다.
+
+* **휴대용 콘텐츠 워크플로**  
+  변환은 널리 호환되는 리치 텍스트 문서 전달이 필요한 워크플로를 지원합니다.
+
+* **배치 변환 파이프라인**  
+  프로그래밍 방식 변환을 통해 스프레드시트 입력으로부터 대량의 서식 텍스트 파일을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

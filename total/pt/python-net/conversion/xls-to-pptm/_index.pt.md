@@ -64,7 +64,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLS para PPTM permite que o conteúdo de planilhas seja convertido em arquivos de apresentação com macros habilitadas, para fluxos de trabalho de slides editáveis e avançados. É útil quando a saída de apresentação baseada em planilhas precisa estar alinhada com ambientes que suportam arquivos com macros.
+
+APIs Python ajudam a automatizar a conversão de XLS para PPTM, suportando a geração repetível de ativos de apresentação editáveis, ao mesmo tempo que melhoram a velocidade e a consistência nos processos de comunicação empresarial.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Apresentação com Macros Habilitadas**
+  Converta dados XLS em arquivos PPTM para requisitos avançados de apresentação.
+
+* **Slides de Relatórios Editáveis**
+  Crie arquivos de apresentação a partir de entradas de planilhas que permanecem abertos para personalizações adicionais.
+
+* **Fluxos de Trabalho de Apresentação Estruturados**
+  Use o conteúdo da planilha para gerar saídas de apresentação para necessidades operacionais e de relatório.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Saída Automatizada de Deck Avançado**
+  Gere apresentações PPTM a partir de arquivos XLS em sistemas que exigem saída editável e especializada.
+
+* **Pipelines de Slides Sensíveis a Modelos**
+  Use APIs Python para produzir arquivos de apresentação consistentes, capazes de macros, a partir de fontes de dados.
+
+* **Automação de Relatórios em Lote**
+  Converta um grande número de arquivos de planilha em ativos de apresentação com esforço manual mínimo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

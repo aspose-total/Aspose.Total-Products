@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から PPSM への変換は、マクロ対応ドキュメントをマクロ対応スライドショーファイルに変換し、埋め込まれた自動化動作とともに直接プレゼンテーション配信を可能にします。これは、プレゼンテーションが即時再生と高度なスクリプト機能の両方を必要とする場合に有用です。
+
+自動化重視のワークフローにおいて、DOCM から PPSM への変換は、繰り返し可能なスライドショー生成をサポートし、制御されたプレゼンテーション体験を向上させる自動化アクションを保持します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **再生準備済みマクロスライドショー**
+  高度なインタラクティブまたは自動化動作を含めることができるスライドショー出力を作成します。
+
+* **自動化されたプレゼンテーション配信**
+  構造化されたドキュメントコンテンツから生成された、直接使用できるプレゼンテーションをサポートします。
+
+* **制御された表示体験**
+  再生動作が重要な環境向けにスライド資産の準備を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラム的スライドショー生成**
+  繰り返し行われるビジュアルワークフローの一部として、DOCM ファイルを PPSM 出力に変換します。
+
+* **埋め込み自動化の保持**
+  ガイド付きまたはスクリプト化されたスライド配信に必要なプレゼンテーション動作を維持します。
+
+* **スケーラブルなプレゼンテーション配布**
+  実行準備ができたマクロ対応スライドショーファイルの大量作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 TIFF로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 TIFF로 변환은 메일함 내용을 문서 이미지화, 아카이브 저장 및 상세 시각 보존에 적합한 고품질 태그 이미지 파일로 변환합니다. 이는 다중 페이지 이미지화, 높은 충실도 및 안정적인 문서 캡처가 중요한 워크플로에서 유용합니다.
+
+Python API를 사용하면 MBOX에서 TIFF로 변환을 스캔 방식 아카이브, 규정 준수 저장소 및 대량 이메일 레코드를 관리하는 엔터프라이즈 이미지 파이프라인에 자동화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **아카이브 이미지 보존**
+  이메일 내용을 신뢰할 수 있는 장기 시각 저장을 위해 TIFF 파일로 변환합니다.
+
+* **문서 이미지 워크플로**
+  스캔 또는 캡처된 레코드를 위해 설계된 시스템에서 메일함에서 파생된 이미지를 사용합니다.
+
+* **고충실도 메시지 내보내기**
+  품질 중심 이미지 형식으로 이메일 외관을 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 TIFF 렌더링**
+  메일함 항목을 자동으로 TIFF 이미지로 변환하여 아카이브 준비 출력으로 제공합니다.
+
+* **규정 준수 이미지 파이프라인**
+  변환된 이메일 이미지를 레코드 관리 및 문서 캡처 시스템으로 라우팅합니다.
+
+* **확장 가능한 시각 보존**
+  Python 자동화를 사용하여 대규모 메일 아카이브를 상세 이미지 파일로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

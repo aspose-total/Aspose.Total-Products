@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji TEXT do ICS w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja tekstu do formatu ICS przy użyciu interfejsów API Pythona umożliwia przekształcenie informacji w postaci zwykłego tekstu w pliki zdarzeń kompatybilne z kalendarzem. Jest to szczególnie istotne dla systemów planowania, generowania spotkań oraz przepływów pracy, które muszą zamienić tekstowe szczegóły wydarzeń na udostępnialne wpisy kalendarzowe.
+
+Ta konwersja usprawnia automatyzację, umożliwiając aplikacjom generowanie zaproszeń na spotkania, przypomnień i harmonogramów wydarzeń bezpośrednio z danych tekstowych, wspierając efektywną koordynację i integrację w systemach planowania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie wydarzeń kalendarza**  
+  Konwertuje szczegóły wydarzenia w formie tekstowej na pliki ICS do planowania i udostępniania.
+
+* **Generowanie zaproszeń na spotkania**  
+  Umożliwia tworzenie standardowych zaproszeń kalendarzowych z treści w zwykłym tekście.
+
+* **Planowanie przypomnień**  
+  Wspiera przekształcanie przypomnień opartych na tekście w pliki zdarzeń kompatybilne z kalendarzem.
+
+* **Integracja przepływu pracy z terminami**  
+  Umożliwia systemom biznesowym automatyczne generowanie zasobów wydarzeń, które można rezerwować lub śledzić.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatycznie planowane spotkania**  
+  Tekst wprowadzany w formularzach lub systemach może być konwertowany na pliki ICS do natychmiastowego użycia w kalendarzu.
+
+* **Przepływy dystrybucji wydarzeń**  
+  Automatyzacja może generować i wysyłać pliki kalendarza na podstawie harmonogramów określonych w tekście.
+
+* **Powtarzalne pipeline'y planowania**  
+  Procesy programistyczne mogą konwertować ustrukturyzowany tekst na wydarzenia kalendarzowe w dużej skali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

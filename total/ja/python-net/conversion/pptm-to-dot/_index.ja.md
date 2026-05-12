@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM から DOT への変換は、Python API を使用してマクロ対応のプレゼンテーションコンテンツを、標準化されたテキストベース出力に使用される文書テンプレート形式に変換します。プレゼンテーション資料を、繰り返し行われるビジネスや業務プロセス向けの再利用可能な文書構造の種として活用する必要がある場合に便利です。
+
+この種の変換は、プレゼンテーション由来のコンテンツから繰り返し可能な文書ワークフローを構築できるようにすることで、業務の自動化を支援します。作業の重複を削減し、変換された情報のフォーマットと再利用方法をチーム全体で標準化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **テンプレートベースのコンテンツ再利用**
+  スライドコンテンツを再利用可能なテンプレートの基盤に変換し、文書の繰り返し作成に利用します。
+
+* **標準化された文書作成**
+  プレゼンテーション資料から生成される文書の一貫性を支援します。
+
+* **運用コンテンツの構造化**
+  変換されたコンテンツを内部ワークフロー用の事前定義されたレイアウトに整理するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**
+  プレゼンテーション資産からDOTテンプレートの作成を自動化します。
+
+* **繰り返し文書ワークフロー**
+  標準化された変換テンプレートを使用した文書の繰り返し生成を支援します。
+
+* **フォーマット制御の自動化**
+  変換された出力全体でレイアウトの一貫性をプログラム的に強制します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

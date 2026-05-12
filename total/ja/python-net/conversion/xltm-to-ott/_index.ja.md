@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から OTT への変換は、マクロ対応の Excel テンプレートを再利用可能で標準ベースの文書作成のためのオープンドキュメントテキストテンプレートに変換することをサポートします。これは、スプレッドシート駆動のテンプレート構造を、繰り返しの文書作成タスク向けにオープンフォーマットのテンプレートに変換する必要がある場合に有用です。
+
+自動化システムにおいて、XLTM から OTT への変換は再利用可能な資産の作成を支援し、オープンスタンダードを促進し、スケーラブルなテンプレート管理ワークフローを強化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンテンプレート作成**  
+  スプレッドシートテンプレートを再利用可能なオープンドキュメントテキストテンプレートに変換し、標準化された出力を実現します。
+
+* **システム間でのテンプレート再利用**  
+  オープンで編集可能なテンプレート形式を使用した繰り返しの文書生成をサポートします。
+
+* **フォーマットに依存しないワークフローサポート**  
+  単一のファイルエコシステムに縛られない柔軟なテンプレート戦略の採用を組織が支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートライブラリの自動化**  
+  XLTM ファイルから OTT テンプレートを生成し、繰り返し可能な文書化プロセスで使用します。
+
+* **オープンスタンダードワークフロー統合**  
+  オープンドキュメント形式を基盤としたシステム間でのテンプレート自動配布をサポートします。
+
+* **大量テンプレート生成**  
+  スプレッドシートテンプレートを再利用可能なテキストテンプレート資産にスケーラブルに変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

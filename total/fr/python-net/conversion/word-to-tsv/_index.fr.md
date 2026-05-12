@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Word en TSV à l'aide des API Python convertit le contenu de traitement de texte en valeurs séparées par des tabulations pour un échange de données textuel structuré. Cela est utile lorsque des informations dérivées de documents doivent être exportées dans un format simple et portable qui préserve la séparation sans recourir aux virgules.
+
+Dans les scénarios d'automatisation, la conversion TSV prend en charge la gestion de données évolutive, notamment lorsque les sorties à tabulation sont préférées pour les importations, le scripting ou l'interopérabilité avec des systèmes qui traitent du texte brut structuré.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Exportation de texte structuré**
+  Convertit le contenu du document en sortie à tabulation pour un échange de données propre.
+
+* **Préparation de l'importation de données**
+  Facilite le chargement des informations extraites dans les outils qui prennent en charge l'entrée TSV.
+
+* **Traitement convivial pour les scripts**
+  Prend en charge des flux de travail légers basés sur du texte pour l'analyse et la transformation.
+
+* **Alternative à la délimitation par virgules**
+  Aide à préserver la clarté lorsque les valeurs exportées peuvent contenir des virgules.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée de fichiers délimités**
+  Génère des sorties TSV à partir de fichiers Word pour des tâches d'importation et de traitement routinières.
+
+* **Extraction de données en lot**
+  Convertit des collections de documents en fichiers tabulés structurés à grande échelle.
+
+* **Échange convivial pour les pipelines**
+  Utilise les sorties TSV dans les scripts, les routines de validation et l'automatisation en aval.
+
+* **Flux de travail de modernisation des archives**
+  Transforme le contenu des documents hérités en texte structuré accessible pour une réutilisation plus large.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

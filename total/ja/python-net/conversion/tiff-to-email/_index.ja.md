@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した TIFF からメールへの変換により、チームは高解像度の画像ドキュメントをレビュー、共有、または通信ワークフロー内でアーカイブできるメール対応コンテンツに変換できます。これは、スキャンしたフォームやビジュアルレポート、ドキュメント画像を手動で再作成することなく、アクセス可能なメッセージ形式に移行する必要がある組織にとって有益です。
+
+自動化環境において、TIFF からメールへの変換は、ドキュメント配布の高速化、通信処理の効率化、ワークフローの継続性向上を支援します。画像ベースの記録を通知システム、承認プロセス、デジタル通信パイプラインと結びつけるのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **スキャンドキュメント共有**
+  TIFF ベースのスキャンをメール対応の出力に変換し、内部または外部への迅速な配布を可能にします。
+
+* **ワークフロー通知**
+  ステータス更新やアラートに使用されるメッセージングワークフローに、視覚的な文書コンテンツを添付または埋め込むのに役立ちます。
+
+* **運用記録配信**
+  トレーサビリティと通信の一貫性を確保するため、標準化されたメールチャネルを通じて画像由来の文書を送信することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書配信自動化**
+  受信した TIFF ファイルを自動的にメール対応形式に変換し、チームやステークホルダーへルーティングします。
+
+* **承認ワークフロー統合**
+  スキャンしたフォームや視覚的記録を、直接自動化されたレビューおよび承認メールプロセスに組み込むことができます。
+
+* **イベント駆動メッセージング**
+  ビジネスイベントが発生した際に、TIFF 文書からメール出力を生成するプログラム的トリガーをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

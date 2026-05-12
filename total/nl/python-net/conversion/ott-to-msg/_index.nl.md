@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OTT naar MSG-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-naar-MSG-conversie in Python-API's transformeert OpenDocument-teksttemplates naar berichtbestanden die worden gebruikt in desktop-e-mailecosystemen voor opslag en uitwisseling. Dit is nuttig wanneer gestructureerde documentinhoud een herbruikbaar e-mailartefact moet worden in plaats van een gewoon document.
+
+Deze conversie ondersteunt automatisering door teams te helpen berichtbestanden programmatisch te genereren vanuit templates voor beoordeling, archivering of integratie in communicatieworkflows op schaal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Berichtbestandcreatie**  
+  Converteert documenttemplates naar gestructureerde e-mailberichtbestanden.
+
+* **Ondersteuning van communicatieworkflows**  
+  Stelt hergebruik van documentinhoud mogelijk in e-mailgerichte omgevingen.
+
+* **Draagbare berichtopslag**  
+  Produceert berichtuitvoer die gemakkelijk kan worden opgeslagen en overgedragen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Bulkberichtgeneratie**  
+  Produceert veel MSG-bestanden vanuit gestandaardiseerde OTT-templates.
+
+* **Op goedkeuring gebaseerde e-mailworkflows**  
+  Creëert te beoordelen berichtbestanden vóór levering of archivering.
+
+* **Systeemintegratie**  
+  Verbindt documentgeneratie-pijplijnen met berichtverwerkingsprocessen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から DOTX への変換は、マクロ対応のスプレッドシート データを、一貫した文書作成を目的とした最新の Word テンプレート形式に変換します。スプレッドシートの情報をレポート、レター、または構造化されたコミュニケーション用の再利用可能な文書フレームワークに変換する必要がある場合に便利です。
+
+自動化された環境では、DOTX は手動のテンプレート設定に依存せずに、スケーラブルな文書標準化と繰り返し可能なコンテンツ生成をサポートします。Python API を使用すると、企業の文書化やワークフロー自動化のために、XLSM ソースからテンプレートベースの資産を効率的に生成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **最新のテンプレート生成**
+  スプレッドシートの内容を、標準化された出力用の再利用可能な文書テンプレートに変換します。
+
+* **文書の一貫性**
+  繰り返し使用される文書タイプ全体で、統一された書式とレイアウトを維持するのに役立ちます。
+
+* **構造化されたコンテンツ配信**
+  スプレッドシート主導の情報を正式なテンプレート形式にパッケージ化する必要があるチームをサポートします。
+
+* **ワークフローの再利用性**
+  共通のスプレッドシートソースから繰り返し可能な文書作成を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**
+  Python API は、定型的な文書化ワークフローのために、XLSM ファイルから DOTX テンプレートを作成できます。
+
+* **スケーラブルなコンテンツ標準化**
+  変換は自動化でき、部門やプロジェクト間でテンプレートの一貫性を保つことができます。
+
+* **バッチテンプレート処理**
+  大量の XLSM ファイルをプログラムで DOTX 資産に変換できます。
+
+* **文書ワークフロー統合**
+  DOTX の出力は、再利用可能なテンプレート構造から最終文書を生成するシステムに供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

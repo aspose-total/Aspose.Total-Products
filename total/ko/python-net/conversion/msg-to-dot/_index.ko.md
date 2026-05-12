@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MSG를 DOT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to DOT 변환은 이메일 메시지를 워드 프로세싱 템플릿 파일로 변환하여 재사용 가능한 문서 기반으로 활용할 수 있게 합니다. 이는 이메일에서 파생된 구조나 레이아웃을 반복 가능한 문서 패턴으로 전환해야 할 때 유용합니다.
+
+자동화 사용 사례에서 MSG to DOT 변환은 템플릿 기반 문서 생성 및 표준화된 보고 프로세스를 지원합니다. 이를 통해 조직은 반복되는 이메일 콘텐츠 소스로부터 반복 가능한 결과물을 구축할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이메일 콘텐츠에서 템플릿 생성**  
+  변환된 메시지를 반복 가능한 문서 구조의 기반으로 사용합니다.
+
+* **표준화된 문서**  
+  반복되는 운영 또는 관리 용도에 대해 일관된 템플릿을 생성합니다.
+
+* **재사용 가능한 콘텐츠 프레임워크**  
+  향후 문서 생성을 위해 메시지 레이아웃과 콘텐츠 패턴을 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**  
+  반복적인 문서 생성 작업을 위해 MSG 파일을 DOT 템플릿으로 변환합니다.
+
+* **반복 가능한 보고 워크플로**  
+  자동화된 보고 또는 사례 문서 시스템에서 이메일 기반 템플릿을 사용합니다.
+
+* **형식 표준화**  
+  수신된 커뮤니케이션 콘텐츠에서 제어된 문서 구조를 구축합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

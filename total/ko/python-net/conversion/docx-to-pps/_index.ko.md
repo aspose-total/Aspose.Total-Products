@@ -64,7 +64,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to PPS 변환은 워드 프로세싱 문서를 직접 표시하도록 설계된 프레젠테이션 슬라이드쇼 파일로 변환합니다. 이 프로세스는 작성된 콘텐츠를 회의, 키오스크 또는 안내 프레젠테이션을 위한 즉시 실행 가능한 시각 자료로 전환하는 데 도움이 됩니다.
+
+Python API를 사용하면 DOCX-to-PPS 변환을 프레젠테이션 전달 시스템, 이벤트 디스플레이 워크플로, 기업 커뮤니케이션 플랫폼에서 자동화할 수 있습니다. 문서 콘텐츠를 즉시 재생에 최적화된 프레젠테이션 출력으로 전환해야 하는 경우 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **직접 슬라이드쇼 생성**  
+  DOCX 콘텐츠를 즉시 표시하도록 설계된 프레젠테이션 파일로 변환합니다.
+
+* **회의 및 이벤트 프레젠테이션 자료**  
+  문서에서 읽기 전용 또는 재생 중심의 시각 콘텐츠를 준비하는 데 도움이 됩니다.
+
+* **문서-디스플레이 워크플로**  
+  슬라이드쇼 환경에서 텍스트 정보를 재사용할 수 있도록 지원합니다.
+
+* **교육 세션 준비**  
+  구조화된 문서를 안내 세션을 위한 프레젠테이션 자산으로 전환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드쇼 내보내기**  
+  시스템은 DOCX 파일을 즉시 프레젠테이션에 사용할 수 있는 PPS 슬라이드쇼로 변환할 수 있습니다.
+
+* **배치 재생 파일 생성**  
+  Python 스크립트는 문서 컬렉션을 슬라이드쇼 준비 출력으로 처리할 수 있습니다.
+
+* **프레젠테이션 전달 자동화**  
+  기업 워크플로는 문서를 자동 디스플레이 시스템용 PPS 파일로 전환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

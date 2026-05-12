@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OTT naar EML-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT naar EML-conversie in Python‑API’s zet OpenDocument‑teksttemplates om in standaard e‑mailberichtbestanden die de berichtstructuur behouden voor opslag, overdracht en verdere verwerking. Dit is nuttig wanneer documentinhoud draagbare e‑mailartefacten moet worden.
+
+De conversie ondersteunt automatisering door documentgestuurde generatie van e‑mailbestanden mogelijk te maken die kunnen worden gearchiveerd, beoordeeld, geïmporteerd of verwerkt door e‑mailcompatibele systemen in herhaalbare workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **E‑mailbestandgeneratie**  
+  Produceert standaard berichtbestanden vanuit herbruikbare documenttemplates.
+
+* **Archiveringsvoorbereiding**  
+  Creëert e‑mailartefacten die geschikt zijn voor archivering en overdracht.
+
+* **Systeemoverdracht**  
+  Ondersteunt workflows die berichtbestanden vereisen in plaats van directe e‑mailverzending.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Batch‑e‑mailconceptcreatie**  
+  Zet vele OTT‑templates om in EML‑bestanden voor beoordeling of leveringspijplijnen.
+
+* **Geautomatiseerde recordgeneratie**  
+  Slaat communicatieklare uitvoer op als standaard e‑mailbestanden.
+
+* **Integratie met e‑mailverwerkende systemen**  
+  Voert gegenereerde EML‑bestanden in in inname‑, archiverings‑ of compliance‑workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

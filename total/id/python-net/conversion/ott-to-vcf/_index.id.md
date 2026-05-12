@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OTT ke VC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi OTT ke VCF dalam API Python mengubah templat teks OpenDocument menjadi file kartu kontak yang digunakan untuk berbagi detail orang dan organisasi. Ini berharga ketika konten templat berisi informasi kontak terstruktur yang harus menjadi portabel dan siap diimpor.
+
+Konversi ini mendukung otomatisasi dengan mengubah detail kontak yang dikelola dokumen menjadi file pertukaran standar, mengurangi entri manual dan meningkatkan sinkronisasi di seluruh alur kerja komunikasi dan direktori.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan File Kontak**  
+  Mengubah konten kontak terstruktur menjadi file kartu yang dapat diimpor.
+
+* **Berbagi Data Direktori**  
+  Mempermudah pertukaran informasi kontak antar sistem.
+
+* **Manajemen Kontak Berbasis Templat**  
+  Menggunakan kembali templat dokumen untuk output kontak standar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Ekspor Kontak Otomatis**  
+  Membuat file VCF dari templat OTT yang berisi data orang atau organisasi.
+
+* **Integrasi CRM atau Direktori**  
+  Menyuplai file kontak yang dihasilkan ke sistem informasi hilir.
+
+* **Pengemasan Kontak Massal**  
+  Menghasilkan output kontak standar untuk kumpulan kontak besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

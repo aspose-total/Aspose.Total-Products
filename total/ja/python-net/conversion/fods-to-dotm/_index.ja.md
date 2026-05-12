@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS から DOTM への変換は、フラットな OpenDocument スプレッドシート ファイルをマクロ対応の Word テンプレートに変換し、先進的な自動化機能をサポートした再利用可能な文書構造を実現します。この形式は、テンプレートベースの文書生成に拡張スクリプト動作や動的な文書アクションを許可する必要がある場合に有用です。
+
+自動化主導の環境では、FODS から DOTM への変換は構造化データ処理とテンプレートの再利用性、プログラム可能な文書ワークフローを組み合わせます。Python API は組織がテンプレートの準備を自動化し、一貫性を向上させ、スケールでの複雑な文書生成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**  
+  FODS データを DOTM テンプレートに変換し、先進的な文書ロジックを備えた再利用可能な文書を作成します。
+
+* **標準化された業務用フォーム**  
+  一貫した書式と拡張機能が必要なビジネス文書向けに、繰り返し使用できるテンプレートを準備します。
+
+* **動的文書構造**  
+  構造化データが自動文書処理用に設計されたテンプレートに供給される必要がある場合に、DOTM 出力を使用します。
+
+* **エンタープライズ ワークフロー テンプレート**  
+  管理された内部プロセスでテンプレート駆動の文書生成が必要なチームを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート準備**  
+  Python API は、文書ワークフロー自動化の一環として FODS ソースから DOTM テンプレートを生成できます。
+
+* **再利用可能な文書フレームワーク**  
+  自動化システムは、定期的な業務やレポート作成タスク向けにテンプレート資産を作成できます。
+
+* **バッチテンプレート変換**  
+  大量の FODS ファイルをプログラムでマクロ対応テンプレート形式に変換できます。
+
+* **高度なワークフロー有効化**  
+  変換パイプラインは、構造化自動化機能に依存する環境向けに文書を準備できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

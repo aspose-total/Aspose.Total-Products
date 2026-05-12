@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から SXC への変換は、ワードプロセッシングテンプレートを、古い OpenOffice ワークフローでの構造化データ処理に適したスプレッドシートファイルに変換します。レガシーなスプレッドシート環境との互換性が依然として必要とされる場合に有用です。
+
+Python API を使用すれば、チームは DOT から SXC への変換を自動化でき、手動での再フォーマットを削減し、レガシー互換のデータ交換を効率的かつ再現可能に保つことができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **レガシー スプレッドシート 互換性**
+  古いスプレッドシート標準に依存する環境向けに、DOT ファイルを SXC に変換します。
+
+* **構造化データ エクスポート**
+  文書の内容を追跡と分析のためのグリッドベース形式に移行します。
+
+* **システム移行サポート**
+  最新の文書テンプレートと古いスプレッドシートベースのワークフローを橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたレガシーフォーマット生成**
+  Python ワークフローは、繰り返しのニーズに対して DOT テンプレートから SXC 出力を作成できます。
+
+* **下位互換データパイプライン**
+  変換は、依然としてレガシーなスプレッドシートファイルのやり取りを必要とするシステムをサポートします。
+
+* **大量レガシーエクスポート処理**
+  プログラムによる自動化により、ソース文書から多数の SXC ファイルを一貫して生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

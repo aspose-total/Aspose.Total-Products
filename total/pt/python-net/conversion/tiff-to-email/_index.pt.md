@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de TIFF para Email usando APIs Python permite que as equipes transformem documentos de imagem de alta resolução em conteúdo pronto para email que pode ser revisado, compartilhado ou arquivado dentro de fluxos de trabalho de comunicação. Isso é valioso para organizações que precisam mover formulários digitalizados, relatórios visuais ou imagens de documentos para formatos de mensagem acessíveis sem recriação manual.
+
+Em ambientes de automação, a conversão de TIFF para Email suporta distribuição de documentos mais rápida, tratamento de comunicação simplificado e melhor continuidade de fluxos de trabalho. Ela ajuda a conectar registros baseados em imagens com sistemas de notificação, processos de aprovação e pipelines de correspondência digital.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Compartilhamento de Documentos Digitalizados**
+  Converte digitalizações baseadas em TIFF em saída compatível com email para distribuição rápida interna ou externa.
+
+* **Notificações de Fluxo de Trabalho**
+  Ajuda a anexar ou incorporar conteúdo visual de documentos em fluxos de trabalho de mensagens usados para atualizações de status ou alertas.
+
+* **Entrega de Registros Operacionais**
+  Suporta o envio de documentos derivados de imagens através de canais de email padronizados para rastreabilidade e consistência na comunicação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Envio de Documentos**
+  Converte automaticamente arquivos TIFF recebidos em formatos prontos para email para encaminhamento a equipes ou partes interessadas.
+
+* **Integração de Fluxo de Aprovação**
+  Permite que formulários digitalizados e registros visuais sejam enviados diretamente para processos automatizados de revisão e aprovação por email.
+
+* **Mensagens Baseadas em Eventos**
+  Suporta gatilhos programáticos que geram saídas de email a partir de documentos TIFF quando ocorrem eventos de negócios.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

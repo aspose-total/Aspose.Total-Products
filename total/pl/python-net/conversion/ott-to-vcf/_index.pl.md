@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OTT do VCF w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do VCF w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w pliki kart kontaktowych używane do udostępniania danych osób i organizacji. Jest to przydatne, gdy zawartość szablonu zawiera ustrukturyzowane informacje kontaktowe, które muszą stać się przenośne i gotowe do importu.
+
+Konwersja wspiera automatyzację, przekształcając zarządzane w dokumencie dane kontaktowe w ustandaryzowane pliki wymiany, redukując ręczne wprowadzanie danych i poprawiając synchronizację w przepływach komunikacji i katalogów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie plików kontaktowych**  
+  Konwertuje ustrukturyzowaną zawartość kontaktową na importowalne pliki kart.
+
+* **Udostępnianie danych katalogowych**  
+  Ułatwia wymianę informacji kontaktowych między systemami.
+
+* **Zarządzanie kontaktami oparte na szablonach**  
+  Ponownie wykorzystuje szablony dokumentów do standaryzowanego wyjścia kontaktowego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczny eksport kontaktów**  
+  Tworzy pliki VCF z szablonów OTT zawierających dane osób lub organizacji.
+
+* **Integracja z CRM lub katalogiem**  
+  Wprowadza wygenerowane pliki kontaktowe do systemów informacyjnych downstream.
+
+* **Masowe pakowanie kontaktów**  
+  Tworzy standaryzowane wyjścia kontaktowe dla dużych zestawów kontaktów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

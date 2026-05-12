@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a WordML in Python consente ai file modello Excel di essere convertiti in documenti Word basati su XML, utili per l'elaborazione strutturata, l'interoperabilità e la gestione dei documenti a livello di sistema. Questo è particolarmente prezioso quando i risultati dei documenti devono rimanere leggibili dalle macchine e al contempo adattabili a flussi di lavoro basati su testo.
+
+Nei contesti di automazione, la conversione da XLT a WordML supporta trasformazioni documentali scalabili e programmabili. Aiuta i sistemi a generare contenuti strutturati compatibili con Word che possono essere convalidati, modificati o integrati in pipeline di elaborazione consapevoli di XML, con maggiore controllo e flessibilità.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output di documento strutturato**  
+  Converti i modelli XLT in file WordML per flussi di lavoro documentali che beneficiano della struttura XML.
+
+* **Supporto all'integrazione di sistema**  
+  Utilizza gli output WordML in ambienti che richiedono rappresentazioni di documenti leggibili dalle macchine.
+
+* **Serializzazione del contenuto del modello**  
+  Trasforma i layout basati su fogli di calcolo in markup di documento strutturato per un'elaborazione controllata.
+
+* **Progettazione di flusso di lavoro interoperabile**  
+  Consenti scenari di scambio di documenti in cui la formattazione basata su XML migliora la coerenza e la gestione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di conversione consapevoli di XML**  
+  Usa le API Python per generare file WordML dai modelli XLT per flussi di lavoro di automazione strutturata.
+
+* **Manipolazione programmatica dei documenti**  
+  Inserisci gli output WordML nei sistemi che ispezionano, trasformano o arricchiscono dinamicamente il contenuto dei documenti.
+
+* **Pubblicazione strutturata scalabile**  
+  Converti i modelli di foglio di calcolo in documenti Word basati su XML per sistemi di pubblicazione o distribuzione automatizzati.
+
+* **Flussi di lavoro di convalida dei contenuti**  
+  Utilizza gli output WordML strutturati nelle pipeline che richiedono formattazione coerente e elaborazione a livello di macchina.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

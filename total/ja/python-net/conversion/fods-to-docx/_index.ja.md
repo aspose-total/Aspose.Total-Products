@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODSからDOCXへの変換は、フラットなOpenDocumentスプレッドシートの内容を、広く使用されている最新のワードプロセッシング形式で利用可能にし、組織が構造化データを洗練された編集可能な文書に変換するのに役立ちます。スプレッドシート情報を書式付きテキストコンテンツ、要約、またはビジネス向け文書として共有する必要がある場合に価値があります。
+
+自動化ユースケースでは、FODSからDOCXへの変換は、スケーラブルな文書生成、シームレスなデータ変換、効率的なワークフロー統合をサポートします。Python APIを使用すると、チームは繰り返しの変換を自動化し、文書出力を標準化し、変換ステップを最新の処理パイプラインに組み込むことができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **プロフェッショナル文書作成**  
+  スプレッドシートデータをDOCXファイルに変換し、クリーンで編集可能なビジネス文書を作成します。
+
+* **ステークホルダーコミュニケーション**  
+  構造化された情報を、幅広い受け手が利用しやすい文書形式で共有します。
+
+* **コンテンツ再パッケージング**  
+  表形式のソースデータを、要約やプレゼンテーションに適したストーリーテリング文書に変換します。
+
+* **部門横断コラボレーション**  
+  スプレッドシートアプリケーションではなく文書エディタに依存するチーム向けにDOCX出力を提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化レポートパイプライン**  
+  Pythonスクリプトは、手動介入なしでFODSデータセットをDOCXレポートに変換できます。
+
+* **バッチ文書生成**  
+  複数のスプレッドシートファイルをプログラムで一貫した文書出力に変換できます。
+
+* **ワークフロー統合**  
+  DOCX生成は、より大規模なデータ処理、承認、または出版システムに組み込むことができます。
+
+* **スケーラブルな文書配信**  
+  自動変換により、運用で使用する編集可能な文書を迅速かつ繰り返し作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

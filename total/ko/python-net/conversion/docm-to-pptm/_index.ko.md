@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 PPTM으로 변환하면 매크로 사용 문서를 매크로 사용 프레젠테이션 파일로 변환하여 슬라이드 기반 커뮤니케이션과 고급 자동화 동작을 결합합니다. 이는 프레젠테이션 출력이 변환된 콘텐츠와 함께 인터랙티브하거나 스크립트된 요소를 유지해야 할 때 유용합니다.
+
+자동화 중심 워크플로에서 DOCM에서 PPTM으로 변환은 재사용 가능하고 편집 가능한 프레젠테이션을 지원하여 보다 동적인 보고 및 전달 파이프라인에 참여할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 프레젠테이션 생성**
+  문서 내용을 고급 자동화 지원이 포함된 편집 가능한 프레젠테이션으로 변환합니다.
+
+* **인터랙티브 보고 자산**
+  내장 로직이나 자동화 작업이 필요한 슬라이드 출력을 지원합니다.
+
+* **재사용 가능한 프레젠테이션 워크플로**
+  정식 문서 소스에서 동적인 프레젠테이션 자료를 구축하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 동적 슬라이드 생성**
+  고급 프레젠테이션 프로세스를 위해 DOCM 입력으로부터 PPTM 파일을 생성합니다.
+
+* **내장 로직 보존**
+  변환된 출력에서 자동화 지향 슬라이드 기능을 유지합니다.
+
+* **확장 가능한 보고 파이프라인**
+  대량 변환을 통해 매크로 사용 프레젠테이션 자산을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

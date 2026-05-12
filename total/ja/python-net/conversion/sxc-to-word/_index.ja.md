@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から Word への変換は、スプレッドシートベースのコンテンツを、読みやすい文書化、レポート作成、正式なコミュニケーションに適したワードプロセッシング形式に変換します。構造化されたスプレッドシートデータを、レビューや配布が容易なテキスト中心の文書に適応する必要がある場合に価値があります。
+
+自動化重視のシステムでは、Python API を使用した SXC から Word への変換が、コンテンツ変換の効率化、出力の一貫性向上、スプレッドシートソースとより広範な文書管理ワークフローの接続に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **ビジネス文書作成**  
+  スプレッドシートデータをレポート、要約、正式なコミュニケーション用のワードプロセッシング文書に変換します。
+
+* **読みやすいコンテンツ配信**  
+  構造化データを、非技術的な読者が文書形式で容易に利用できるようにします。
+
+* **ワークフロー互換性**  
+  コラボレーションやレビューのためにワードプロセッシング形式に依存する文書中心の環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化レポートパイプライン**  
+  Python API を使用して、定期的またはイベント駆動で SXC データから Word 文書を作成します。
+
+* **文書管理統合**  
+  変換された出力を、手作業の再作業なしでレビュー、承認、またはアーカイブシステムに供給します。
+
+* **スケーラブルなコンテンツ変換**  
+  スプレッドシート入力から大量の Word 互換文書をプログラム的に生成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

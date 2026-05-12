@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para PNG converte o conteúdo da caixa de correio em um formato de imagem raster de alta qualidade, adequado para capturas de tela, registros visuais e saída compatível com a web. É útil quando os dados de e‑mail precisam ser preservados como imagens estáticas e nítidas.
+
+APIs Python ajudam a automatizar a conversão de OST para PNG para arquivamento visual escalável e entrega de conteúdo. Isso melhora a eficiência operacional em fluxos de trabalho que exigem informações da caixa de correio como ativos de imagem para relatórios, conformidade ou sistemas de revisão.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Registros Visuais de Alta Qualidade**  
+  Converte o conteúdo da caixa de correio em PNG para preservação baseada em imagem, clara e detalhada.
+
+* **Compatibilidade com Web e Portais**  
+  Suporta o uso de visualizações de e‑mail renderizadas em painéis internos e interfaces.
+
+* **Instantâneos de Auditoria e Evidência**  
+  Ajuda a manter registros de comunicação em forma de imagem estática e amigável para revisão.
+
+* **Fluxos de Trabalho de Compartilhamento de Conteúdo**  
+  Facilita a distribuição de visualizações de mensagens sem a necessidade de acesso à caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Exportação de Imagens**  
+  Scripts Python convertem itens OST em PNG para fluxos de trabalho de renderização escaláveis.
+
+* **Geração de Instantâneos de Conformidade**  
+  Processos automatizados criam evidências de imagem claras a partir de arquivos de caixa de correio.
+
+* **Pipelines de Entrega Visual**  
+  A conversão programática suporta o uso de imagens de e‑mail em operações digitais e relatórios.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

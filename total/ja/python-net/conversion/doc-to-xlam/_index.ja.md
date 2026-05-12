@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to XLAM 変換は、Word のコンテンツをアドイン関連のスプレッドシート出力に変換し、高度な Excel ベースの機能や再利用可能な自動化コンポーネントを含むシナリオに対応します。文書由来のロジックや構造化されたコンテンツがスプレッドシート拡張機能をサポートする必要がある場合に有用です。
+
+Python API を使用すると、DOC から XLAM への変換ワークフローを効率化でき、組織が文書変換を高度なスプレッドシート自動化環境に統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スプレッドシート アドイン サポート**
+  Excel アドインの展開に関連するワークフロー向けに、関連する文書コンテンツを変換します。
+
+* **高度な自動化パッケージング**
+  文書コンテンツが再利用可能なスプレッドシート機能に供給される構造化プロセスをサポートします。
+
+* **プロセス標準化**
+  正式な文書を高度なスプレッドシートワークフローに合わせた資産に再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化指向の変換**
+  制御されたワークフロー内で、DOC ソースから XLAM 関連の出力をプログラム的に準備します。
+
+* **再利用可能なスプレッドシートロジックパイプライン**
+  文書ベースの資産を高度な Excel 操作に適した形式に変換します。
+
+* **エンタープライズ ワークフロー統合**
+  スプレッドシート拡張機能を大規模に使用するチーム向けに、文書変換を自動化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

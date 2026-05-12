@@ -46,9 +46,43 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en fichiers ICS transforme les détails d'événements dérivés de documents en fichiers de calendrier pouvant être importés dans des systèmes de planification et des agendas numériques. Elle est précieuse pour les flux de travail où les informations de réunion, d'échéance ou de rendez‑vous proviennent de documents Word.
+
+L’utilisation d’API Python pour automatiser la conversion DOC → ICS améliore l’efficacité de la planification, réduit les erreurs de saisie manuelle et favorise une intégration fluide entre les dépôts de documents et les flux de travail basés sur le calendrier.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Planification d'événements**  
+  Extraire les dates et les détails d'événements des documents et les convertir en entrées de calendrier.
+
+* **Distribution de réunions**  
+  Transformer les documents d’ordre du jour ou d’invitation en fichiers ICS importables pour les participants.
+
+* **Gestion des échéances**  
+  Convertir le contenu des documents liés aux plannings en éléments de calendrier pour le suivi et les rappels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de fichiers calendrier**  
+  Créer automatiquement des fichiers ICS à partir de plannings, avis ou plans basés sur des documents DOC.
+
+* **Automatisation des rappels de flux de travail**  
+  Convertir les échéances des documents en événements de calendrier pour la coordination d’équipe et le suivi.
+
+* **Intégration système‑vers‑calendrier**  
+  Acheminer programmatiquement les dates extraites des documents vers les écosystèmes de planification.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

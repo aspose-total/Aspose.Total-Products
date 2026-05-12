@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から XLAM への変換は、ドキュメントテンプレートをスプレッドシートのワークフローを拡張するために使用されるアドイン指向のスプレッドシートファイルに変換します。これは、テンプレート駆動のコンテンツが再利用可能なスプレッドシート機能や、サポートされている環境でのパッケージ化されたロジックに貢献する場合に関連します。
+
+Python API を使用すると、DOT から XLAM への変換を、ドキュメントベースのソースから高度なスプレッドシート資産の作成を標準化する自動化システムに組み込むことができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スプレッドシート アドイン資産の準備**
+  DOT コンテンツを再利用可能なスプレッドシート拡張機能向けの XLAM 指向出力に変換します。
+
+* **再利用可能なワークフローのパッケージ化**
+  ドキュメントで定義された構造が高度なスプレッドシートソリューションに供給されるシナリオをサポートします。
+
+* **テンプレート駆動の機能資産**
+  ドキュメントコンテンツを再利用のためにパッケージ化されたスプレッドシートリソースに再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたアドインの準備**
+  Python ワークフローは、必要に応じて DOT テンプレートを XLAM 互換の出力に変換できます。
+
+* **高度なスプレッドシートパイプラインのサポート**
+  変換は、ドキュメントリポジトリが再利用可能なスプレッドシート資産に貢献するのに役立ちます。
+
+* **スケーラブルな機能出力生成**
+  プログラム的なシステムは、高度なスプレッドシートパッケージファイルの大量作成を効率化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

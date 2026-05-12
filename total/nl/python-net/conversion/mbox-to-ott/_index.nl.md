@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een MBOX naar OTT-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX-naar-OTT-conversie zet mailboxarchieven om in open documenttemplates, waardoor e‑mailafgeleide inhoudsstructuren kunnen worden hergebruikt in gestandaardiseerde documentcreatie‑workflows. Dit is nuttig wanneer organisaties herhaalbare inhoudsformaten willen bouwen op basis van gearchiveerde communicatie.
+
+Python‑API's maken het mogelijk om OTT‑generatie vanuit MBOX‑bestanden te automatiseren, waardoor consistentie verbetert, handmatige configuratie wordt verminderd en schaalbare, templategerichte operaties worden ondersteund.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Toepassingsgevallen" %}}
+
+* **Open Template Generatie**
+  Zet mailboxinhoud om in herbruikbare OTT‑sjablonen voor consistente documentcreatie.
+
+* **Gestandaardiseerde Inhoudslayouts**
+  Behoud e‑mailgebaseerde structuur in een formaat dat is ontworpen voor herhaalbare opmaak.
+
+* **Sjabloon‑gedreven Documentatie**
+  Gebruik geconverteerde mailboxinhoud om toekomstige open document‑workflows te ondersteunen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde Sjabloonopbouw**
+  Genereer OTT‑bestanden uit geselecteerde e‑mails als onderdeel van herhaalbare inhoudspijplijnen.
+
+* **Open Workflow Standaardisatie**
+  Gebruik Python‑automatisering om consistente sjabloonstructuren uit mailboxarchieven te behouden.
+
+* **Schaalbare Documentvoorbereiding**
+  Integreer geconverteerde sjablonen in bredere documentgeneratiesystemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja dokumentu do formatu XLT zmienia zawartość Worda w pliki szablonów arkuszy kalkulacyjnych, które wspierają powtarzalne tworzenie skoroszytów i standaryzację. Jest przydatna, gdy struktury pochodzące z dokumentów muszą stać się wielokrotnego użytku podstawami arkuszy kalkulacyjnych.
+
+Dzięki interfejsom API Pythona, konwersję DOC do XLT można zautomatyzować w celu spójnego generowania szablonów, operacyjnego ponownego wykorzystania oraz usprawnionej produkcji arkuszy kalkulacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie szablonów arkuszy kalkulacyjnych**
+  Konwertuj ustrukturyzowaną zawartość dokumentu na wielokrotnego użytku szablony arkuszy kalkulacyjnych.
+
+* **Standardowy projekt skoroszytu**
+  Użyj wyjścia XLT, aby utrzymać spójne układy i struktury danych.
+
+* **Formularze biznesowe do ponownego użycia**
+  Przekształć dokumenty w szablony skoroszytów do wielokrotnego użycia.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja biblioteki szablonów**
+  Automatycznie generuj pliki XLT z materiałów źródłowych opartych na DOC.
+
+* **Powtarzalna konfiguracja arkusza kalkulacyjnego**
+  Programowo twórz szablony skoroszytów ze standardowych dokumentów.
+
+* **Operacyjne ponowne wykorzystanie treści**
+  Konwertuj powtarzające się formularze i raporty na zasoby arkuszy kalkulacyjnych oparte na szablonach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

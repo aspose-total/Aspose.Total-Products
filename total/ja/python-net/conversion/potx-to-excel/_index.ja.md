@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した POTX から Excel への変換は、PowerPoint テンプレートのコンテンツを分析、追跡、構造化データ処理に適したスプレッドシート形式に変換するのに役立ちます。プレゼンテーションベースの情報を行や列、ブックに適した構造に整理する必要がある場合に便利です。
+
+自動化主導のシステムにおいて、POTX から Excel への変換はテンプレートコンテンツのプログラムによる処理を容易にし、運用効率を向上させます。レポート作成、データ抽出、分析およびスプレッドシートワークフローとのスケーラブルな統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化データ変換**
+  プレゼンテーションテンプレートのコンテンツをスプレッドシートに適したレイアウトに移行し、整理しやすくします。
+
+* **運用レポート**
+  テンプレートから派生した情報をスプレッドシートベースのレポートプロセスで活用できるようにサポートします。
+
+* **チーム間でのデータ再利用**
+  プレゼンテーションコンテンツを、計画や分析で一般的に使用される形式で共有しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スプレッドシート生成**
+  POTX ファイルを定期的なワークフローの一部として Excel 互換の出力に変換します。
+
+* **分析パイプライン支援**
+  抽出されたコンテンツをスプレッドシートベースのデータ形式に依存するシステムへ供給します。
+
+* **バッチ処理操作**
+  プレゼンテーションテンプレートを大量に変換し、ブック準備済みファイルにすることを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から DOC への変換は、マクロ対応の Excel テンプレート ファイルを、レポート作成、文書化、コンテンツ再利用のための編集可能な Word ドキュメントへ変換できるようにします。これにより、チームは構造化されたスプレッドシートベースの情報を、レビュー・共有・アーカイブが容易なテキストフレンドリーな形式に変換できます。
+
+自動化された環境では、XLTM から DOC への変換がスケーラブルな文書生成を支援し、手動での書式設定作業を削減し、スプレッドシート主導のプロセスと文書ベースのワークフロー間の相互運用性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レポート草稿作成**  
+  テンプレートベースのスプレッドシート コンテンツを、ビジネスおよび業務レポート用の編集可能な Word 草稿に変換します。
+
+* **コンテンツ再利用**  
+  構造化された Excel テンプレート データを、より広範なコミュニケーション ニーズ向けの記述文書形式で再利用できるよう支援します。
+
+* **ドキュメント作成ワークフロー**  
+  スプレッドシート主導のレコードや書式設定されたテンプレート コンテンツから参照文書の作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なドキュメント生成**  
+  内部レポート サイクルで使用される定期的な XLTM テンプレートから DOC ファイルの生成を自動化します。
+
+* **テンプレートからドキュメントへのパイプライン**  
+  スプレッドシート テンプレートと文書ワークフローを接続し、マルチフォーマットの出版プロセスを効率化します。
+
+* **バッチファイル処理**  
+  アーカイブ、レビュー、または下流の編集のために、XLTM ファイルを大量に DOC 形式へ変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to ODS 변환은 매크로가 포함된 문서를 오픈 스프레드시트 파일로 변환하여, 문서의 구조화된 데이터를 스프레드시트 기반 워크플로에서 더 쉽게 분석하고, 편집하고, 공유할 수 있게 합니다. 이는 DOCM 파일 내부의 표나 반복 레코드가 보다 넓은 운영 용도로 필요할 때 유용합니다.
+
+자동화 및 상호 운용성을 위해, DOCM to ODS 변환은 오픈 데이터 파이프라인, 정기적인 내보내기, 그리고 문서 내용을 스프레드시트 준비 자산으로 확장 가능한 변환을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 분석**
+  문서 표를 필터링, 검토 및 업데이트를 위해 스프레드시트 형태로 이동합니다.
+
+* **데이터 이식성**
+  오픈 스프레드시트 표준을 사용하여 구조화된 콘텐츠 교환을 지원합니다.
+
+* **운영 재사용**
+  문서에 포함된 데이터를 계획 및 보고 작업에 더 쉽게 접근할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기적인 스프레드시트 내보내기**
+  예약된 워크플로를 위해 DOCM 파일을 ODS로 변환하는 작업을 자동화합니다.
+
+* **오픈 포맷 데이터 파이프라인**
+  오픈 표준을 기반으로 구축된 시스템으로 문서 데이터를 라우팅하는 데 도움을 줍니다.
+
+* **대량 변환**
+  대규모 문서 세트를 프로그래밍 방식으로 재사용 가능한 스프레드시트 파일로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

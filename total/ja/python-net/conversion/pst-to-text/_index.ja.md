@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における PST から TEXT への変換は、メールボックスの内容をインデックス作成、分析、軽量なアーカイブ用途のためにプレーンテキストに抽出します。フォーマットよりも可読コンテンツに重点を置く場合、特に検索性と処理効率を重視するシステムで有用です。
+
+自動化のために、PST から TEXT への変換はテキストマイニング、コンテンツ抽出、そしてシンプルな構造化入力で最適に動作するパイプラインとの統合をサポートします。これにより、メールボックスアーカイブを大規模に解析しやすく、パース、変換、分析が容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **プレーンテキスト抽出**
+  PST のコンテンツをテキストに変換し、メッセージデータへのクリーンでフォーマットフリーなアクセスを提供します。
+
+* **検索およびインデックスサポート**
+  メールボックスアーカイブを検索やコンテンツ発見のワークフロー向けに準備するのに役立ちます。
+
+* **分析対応出力**
+  フォーマットされた文書よりもシンプルなテキストが好まれる下流処理をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テキスト処理パイプライン**
+  自動化システムは PST 由来のテキストをインデックス作成や分析ワークフローに供給できます。
+
+* **データ抽出ワークフロー**
+  プレーンテキスト出力は、パース、フィルタリング、変換タスクを簡素化するのに役立ちます。
+
+* **スケーラブルなコンテンツマイニング**
+  プログラムによる変換により、大規模なメールボックスアーカイブをより効率的に分析できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

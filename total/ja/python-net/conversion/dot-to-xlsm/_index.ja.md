@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から XLSM への変換は、文書テンプレートをマクロ対応のスプレッドシート ワークブックに変換し、構造化データの処理と高度なスプレッドシート機能を実現します。スプレッドシートの出力がデータの整理と機能強化の両方をサポートする必要がある場合に有用です。
+
+Python API を使用すると、DOT から XLSM への変換を自動化でき、再利用可能な文書テンプレートから繰り返し利用できる高度なワークブック出力を作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応ワークブック生成**
+  高度なスプレッドシート ワークフローのために DOT ファイルを XLSM に変換します。
+
+* **文書からワークブックへの再利用**
+  テンプレートの内容を編集可能で機能豊富なスプレッドシート出力に変換します。
+
+* **運用自動化サポート**
+  より高度なスプレッドシートベースの業務プロセスに適したワークブック ファイルを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された高度なワークブック作成**
+  Python スクリプトは、繰り返し使用されるケースのために DOT テンプレートを XLSM ファイルに変換できます。
+
+* **スプレッドシート ワークフロー統合**
+  変換は、文書リポジトリと強化されたワークブック処理パイプラインを接続します。
+
+* **スケーラブルなマクロ対応出力生成**
+  プログラム化されたシステムは、高度なスプレッドシート資産の一貫した作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

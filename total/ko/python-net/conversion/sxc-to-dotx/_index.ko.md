@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 DOTX로의 변환은 스프레드시트 기반 정보를 표준화되고 재사용 가능한 문서 작성을 위해 사용되는 최신 문서 템플릿 형식으로 변환합니다. 이는 스프레드시트 데이터가 일관된 서식, 제어된 브랜딩 및 반복 가능한 문서 출력을 지원하는 템플릿에 공급되어야 할 때 유용합니다.
+
+Python API를 사용하면 SXC에서 DOTX로의 변환이 반복적인 설정 작업을 줄이고 구조화된 워크플로 전반에 걸쳐 확장 가능한 문서 생성을 지원함으로써 효율적인 템플릿 자동화를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 템플릿 생성**  
+  스프레드시트 콘텐츠를 템플릿으로 변환하여 일관된 문서를 반복적으로 생성할 수 있습니다.
+
+* **구조화된 문서 디자인**  
+  보고서, 요약 및 내부 커뮤니케이션 자료에 대한 고정 레이아웃을 정의하는 데 도움이 됩니다.
+
+* **프로세스 일관성**  
+  팀 및 자동화 시스템 전반에 걸쳐 일관된 문서화 관행을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 문서 파이프라인**  
+  Python API를 사용하여 SXC 파일을 DOTX 템플릿으로 변환하고 반복적인 출력 생성을 수행합니다.
+
+* **자동 레이아웃 표준화**  
+  생성된 모든 문서가 일관되고 제어된 템플릿 기반에서 시작하도록 보장합니다.
+
+* **확장 가능한 콘텐츠 운영**  
+  재사용 가능한 구조가 효율성과 정확성을 향상시키는 대량 문서 생성 작업을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

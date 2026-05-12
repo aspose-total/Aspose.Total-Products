@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TXT を PowerPoint に変換する Python API は、プレーンテキストのコンテンツを、提示・レビュー・配布が容易なプレゼンテーションファイルに変換できます。スクリプト、ノート、要約、または生成されたコンテンツを、ビジネスや技術的なワークフロー向けのスライドベースのコミュニケーション資産に変換するのに役立ちます。
+
+この変換は自動化に非常に関連性が高く、テキスト駆動の入力を最小限の手作業でスケーラブルなプレゼンテーション出力に変換します。繰り返し可能なコンテンツ生成、レポートパイプラインとの統合、そして最新システム全体でのプレゼンテーション対応資料の効率的な作成をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **テキストからスライドへの生成**  
+  プレーンテキストをプレゼンテーションファイルに変換し、より迅速なコミュニケーションとレビューを実現します。
+
+* **自動化レポートプレゼンテーション**  
+  物語形式のレポートや要約を構造化されたスライドデッキに変換します。
+
+* **会議・研修資料の作成**  
+  TXT 形式で用意された文書コンテンツからプレゼンテーション資産を構築します。
+
+* **プレゼンテーションパイプラインの有効化**  
+  テキストソースを入力として使用し、一貫性と繰り返し可能なスライド作成を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期レポート自動化**  
+  ビジネスシステムが生成するスケジュールされたテキスト出力から PowerPoint プレゼンテーションを作成します。
+
+* **コンテンツワークフロー統合**  
+  Python API とテキスト生成ツールを接続し、エンドツーエンドのスライド作成を自動化します。
+
+* **大量スライドデッキの作成**  
+  多数の TXT ファイルを高ボリュームのワークフローでプレゼンテーション出力に変換します。
+
+* **動的プレゼンテーション組み立て**  
+  テキストセクションをプログラム的にスライドに整理し、スケーラブルなコンテンツ配信を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

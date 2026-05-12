@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から MBOX への変換は、書式設定されたテキスト文書を、単一ファイル内にメール形式のメッセージコレクションを格納できるメールボックスアーカイブ構造に変換します。これは、文書の内容を大量のメールアーカイブや移行ワークフローで保存または再利用する必要がある場合に便利です。
+
+自動化のために、RTF から MBOX への変換は、構造化された文書からメールボックス対応コンテンツをスケーラブルに生成でき、アーカイブ、移行、コミュニケーション保存プロセスを大規模データセット全体でサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **大量メッセージのアーカイブ**  
+  文書由来のコンテンツを、グループ化された保存に適したメールボックスファイルに変換します。
+
+* **メールシステム移行サポート**  
+  テキストベースのコミュニケーションを、アーカイブ指向のメール形式への転送のために準備するのに役立ちます。
+
+* **集中レコード保存**  
+  複数のメッセージ類似文書を単一のアーカイブファイルに統合することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メールアーカイブ作成**  
+  変換プロセスは、RTF 由来のコミュニケーションをスケールで MBOX ファイルにパッケージ化できます。
+
+* **コンプライアンス保持ワークフロー**  
+  プログラムによる変換は、監査やガバナンスのためのメッセージコンテンツの長期保存をサポートします。
+
+* **移行パイプライン統合**  
+  動的変換は、文書ベースのコミュニケーションデータをアーカイブ互換のメール環境へ移行するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

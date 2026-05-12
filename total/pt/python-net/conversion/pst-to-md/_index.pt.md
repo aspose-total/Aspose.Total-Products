@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para MD nas APIs Python converte o conteúdo da caixa de correio em Markdown, facilitando a estruturação, publicação e reutilização da comunicação arquivada em fluxos de trabalho centrados em texto. É útil quando os registros de e‑mail precisam ser transformados em conteúdo leve e legível para documentação ou compartilhamento de conhecimento.
+
+Em cenários de automação, a conversão de PST para MD suporta pipelines de conteúdo, repositórios amigáveis a desenvolvedores e sistemas de publicação estática. Ela ajuda os dados da caixa de correio a serem mais fáceis de versionar, transformar e integrar com operações de conteúdo modernas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Conteúdo Leve**
+  Converte o conteúdo PST em Markdown para fluxos de trabalho de texto legíveis e portáteis.
+
+* **Preparação de Base de Conhecimento**
+  Ajuda a reutilizar material derivado de e‑mail em documentação estruturada.
+
+* **Arquivamento Amigável a Versões**
+  Suporta o armazenamento do conteúdo da caixa de correio em formatos de texto adequados ao rastreamento de alterações.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Conteúdo Estático**
+  Sistemas automatizados podem transformar os dados da caixa de correio em Markdown para publicação ou indexação.
+
+* **Documentação Baseada em Repositório**
+  O conteúdo convertido pode fluir para ambientes centrados em texto para colaboração e reutilização.
+
+* **Transformação Programática de Conteúdo**
+  A saída em Markdown facilita o processamento, a modelagem e a distribuição de e‑mails arquivados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

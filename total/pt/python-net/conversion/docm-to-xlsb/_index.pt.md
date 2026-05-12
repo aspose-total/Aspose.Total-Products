@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para XLSB converte documentos habilitados para macro em arquivos de planilha binários projetados para armazenamento eficiente e manipulação de dados da pasta de trabalho. É útil quando o conteúdo derivado de documentos precisa ser transferido para saídas de planilha compactas em fluxos de trabalho sensíveis ao desempenho.
+
+Em ambientes de automação, a conversão de DOCM para XLSB suporta a geração de planilhas em larga escala, empacotamento eficiente de dados e movimentação simplificada de conteúdo de documentos estruturados para pipelines de pastas de trabalho.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Saída de Planilha Compacta**
+  Converte os dados do documento em arquivos de planilha binários otimizados para eficiência de armazenamento.
+
+* **Manipulação de Dados em Alto Volume**
+  Suporta cenários em que grandes saídas estruturadas se beneficiam de formatos de planilha compactos.
+
+* **Reuso Operacional de Planilhas**
+  Ajuda a levar tabelas de documentos para ambientes de planilha de alto desempenho.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Eficiente de Planilhas em Lote**
+  Produz arquivos XLSB a partir de fontes DOCM para processamento escalável.
+
+* **Otimização de Pipeline de Dados**
+  Suporta fluxos de trabalho que priorizam armazenamento e transferência de planilhas compactas.
+
+* **Exportação Estruturada Automatizada**
+  Converte conteúdo recorrente de documentos em saídas de planilha binárias programaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

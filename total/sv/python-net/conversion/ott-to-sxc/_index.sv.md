@@ -65,7 +65,41 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT till SXC-omvandling i Python-API:er omvandlar OpenDocument‑textmallar till kalkylbladsfiler som är anpassade för äldre OpenOffice‑kalkylarbetsflöden. Detta är användbart när dokumentinnehåll måste konverteras till ett strukturerat, redigerbart tabellformat för miljöer som är kompatibla med äldre system.
+
+Omvandlingen stödjer automatisering genom att möjliggöra standardiserad extraktion av dokumentinformation till kalkylarbetsflöden som fortsatt är beroende av etablerade OpenOffice‑format.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+* **Stöd för äldre kalkylblad**  
+  Skapar kalkylbladsutdata som är kompatibla med äldre OpenOffice‑arbetsflöden.
+
+* **Strukturering av dokumentdata**  
+  Omvandlar textbaserat mallinnehåll till redigerbara tabeller.
+
+* **Operativ kompatibilitet**  
+  Hjälper till att integrera genererade data med etablerade kalkylblads‑ekosystem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* **Automatiserad export av äldre format**  
+  Producerar SXC‑filer från OTT‑källor för arbetsflöden som drivs av kompatibilitet.
+
+* **Batch-datatransformation**  
+  Omvandlar många mallfiler till tabellbaserade äldre utdata på ett effektivt sätt.
+
+* **Integration för systemkontinuitet**  
+  Stöder miljöer som behåller äldre kalkylbladsbearbetningskedjor.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 OTT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 OTT로의 변환은 Outlook 이메일 템플릿을 재사용 가능하고 표준 기반 문서 생성을 위한 오픈 문서 텍스트 템플릿으로 변환합니다. 이는 조직이 커뮤니케이션 콘텐츠를 오픈 생태계에서 반복 가능한 템플릿 자산으로 전환하고자 할 때 유용합니다.
+
+OFT에서 OTT로의 변환을 자동화함으로써 팀은 확장 가능한 템플릿 생성을 지원하고, 상호 운용성을 촉진하며, 문서 표준화를 간소화할 수 있습니다. 이는 오픈 및 자동화된 문서 워크플로 전반에 걸쳐 콘텐츠 재사용을 강화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**  
+  OFT 콘텐츠를 OTT 파일로 변환하여 오픈 문서 워크플로에서 재사용 가능한 문서 템플릿을 만듭니다.
+
+* **템플릿 기반 콘텐츠 표준화**  
+  이메일에서 유래한 템플릿 자료를 사용해 일관된 문서 구조를 구축합니다.
+
+* **상호 운용 가능한 문서 준비**  
+  표준 친화적인 오피스 시스템 간에 공유할 수 있는 재사용 가능한 템플릿을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 생성**  
+  OFT 파일에서 OTT 템플릿을 생성하여 반복 가능한 문서 생성 프로세스를 지원합니다.
+
+* **오픈 워크플로 통합**  
+  변환된 템플릿 파일을 오픈 문서 표준을 기반으로 하는 시스템에 삽입합니다.
+
+* **확장 가능한 재사용 콘텐츠 파이프라인**  
+  프로그래밍 방식으로 템플릿 자산을 팀 및 프로젝트 전반에 걸쳐 관리하고 배포합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

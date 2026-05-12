@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC para OTT converte conteúdo baseado em planilhas em um formato de modelo de documento aberto projetado para criação de documentos de texto repetíveis e estruturados. Isso é útil quando informações de planilhas precisam preencher modelos reutilizáveis para relatórios, avisos, resumos ou documentos internos padronizados.
+
+Com APIs Python, a conversão SXC para OTT oferece automação eficiente ao possibilitar fluxos de trabalho centrados em modelos que melhoram a consistência, reduzem a formatação manual e simplificam a geração de documentos em larga escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Modelo Aberto**  
+  Converte dados de planilha em modelos reutilizáveis para geração futura de documentos.
+
+* **Layouts de Documentos Consistentes**  
+  Ajuda a manter formatação uniforme em tarefas repetidas de documentação empresarial.
+
+* **Ativos de Processo Reutilizáveis**  
+  Suporta a criação de arquivos de modelo que agilizam a preparação operacional de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Automação de Modelos**  
+  Gera modelos OTT a partir de arquivos SXC por meio de fluxos de conversão baseados em Python.
+
+* **Geração Padronizada de Saídas**  
+  Permite a criação repetida de documentos a partir de um único modelo de formato aberto reutilizável.
+
+* **Melhoria da Eficiência de Processos**  
+  Reduz o tempo de configuração manual ao preparar modelos estruturados programaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

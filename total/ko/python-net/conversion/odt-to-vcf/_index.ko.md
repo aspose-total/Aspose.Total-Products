@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 ODT를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT를 VCF로 변환하면 문서 기반 연락처 또는 프로필 정보를 주소록 및 연락처 관리 시스템에 적합한 표준 연락처 카드 형식으로 변환합니다. 이는 문서에 구조화된 개인 또는 조직 연락처 세부 정보가 포함된 경우에 유용합니다.
+
+Python API를 사용하면 자동화된 연락처 추출, 마이그레이션 및 동기화 워크플로우에서 ODT를 VCF로 변환할 수 있습니다. 이를 통해 조직은 정적인 텍스트 레코드를 보다 빠르고 정확하게 재사용 가능한 연락처 데이터로 전환할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 정보 추출**  
+  문서에서 이름, 전화번호 및 주소를 추출하여 연락처 카드로 변환합니다.
+
+* **디렉터리 마이그레이션 지원**  
+  텍스트 문서의 연락처 데이터를 구조화된 주소록으로 이동하는 데 도움을 줍니다.
+
+* **프로필 표준화**  
+  비공식적인 연락처 목록을 재사용 가능한 디지털 연락처 레코드로 전환합니다.
+
+* **CRM 준비**  
+  연락처 데이터를 비즈니스 시스템에 보다 깔끔하게 수집할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 파싱**  
+  Python 스크립트를 사용하여 ODT 파일에서 연락처 필드를 식별하고 VCF 출력을 생성할 수 있습니다.
+
+* **대량 디렉터리 변환**  
+  대규모 연락처 목록을 배치 작업에서 재사용 가능한 카드로 변환할 수 있습니다.
+
+* **동기화 워크플로우**  
+  변환된 연락처는 주소록 및 관련 시스템을 위한 가져오기 파이프라인에 공급될 수 있습니다.
+
+* **데이터 강화 준비**  
+  구조화된 VCF 출력은 하위 검증 및 통합 프로세스를 지원할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

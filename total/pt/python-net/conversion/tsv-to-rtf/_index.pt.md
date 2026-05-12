@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de TSV para RTF transforma conteúdo tabular estruturado em documentos de texto rico que equilibram portabilidade, legibilidade e formatação editável. É útil quando os dados TSV precisam ser compartilhados em um formato de documento de texto leve que ainda preserva a estrutura do documento e o valor de apresentação.
+
+Usando APIs Python, a conversão de TSV para RTF pode ser automatizada para suportar relatórios baseados em texto eficientes, fluxos de exportação escaláveis e a movimentação fluida de dados estruturados para sistemas centrados em documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Exportação de Documentos Leve**  
+  Converte dados TSV em documentos de texto formatados que são fáceis de compartilhar e editar.
+
+* **Conteúdo Estruturado Legível**  
+  Ajuda a apresentar registros tabulares brutos em uma forma de documento mais amigável ao usuário.
+
+* **Compatibilidade entre Ambientes**  
+  Suporta fluxos de trabalho de documentos que se beneficiam de formatos de texto amplamente suportados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Relatórios de Texto**  
+  APIs Python podem criar arquivos RTF a partir de entradas TSV para tarefas recorrentes de documentação.
+
+* **Transformação de Dados para Documento**  
+  A automação ajuda a transformar exportações estruturadas brutas em saídas textuais formatadas.
+
+* **Operações de Conversão em Lote**  
+  Arquivos TSV de alto volume podem ser convertidos para o formato RTF de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

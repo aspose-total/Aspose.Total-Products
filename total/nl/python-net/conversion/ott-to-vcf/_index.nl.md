@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OTT naar VCF-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT‑naar‑VCF‑conversie in Python‑API’s transformeert OpenDocument‑tekstsjablonen naar contactkaartbestanden die worden gebruikt voor het delen van personen‑ en organisatiedetails. Dit is waardevol wanneer sjabloonin­houd gestructureerde contactinformatie bevat die draagbaar en import‑klaar moet worden.
+
+De conversie ondersteunt automatisering door document‑beheerde contactgegevens om te zetten in gestandaardiseerde uitwisselingsbestanden, waardoor handmatige invoer wordt verminderd en de synchronisatie tussen communicatie‑ en directory‑workflows verbetert.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Contactbestandgeneratie**  
+  Converteert gestructureerde contactinhoud naar importeerbare kaartbestanden.
+
+* **Delen van directorygegevens**  
+  Maakt het uitwisselen van contactinformatie tussen systemen eenvoudiger.
+
+* **Sjabloongebaseerd contactbeheer**  
+  Hergebruikt documentsjablonen voor gestandaardiseerde contactoutput.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactexport**  
+  Maakt VCF‑bestanden aan vanuit OTT‑sjablonen met personen‑ of organisatiedata.
+
+* **CRM‑ of directory‑integratie**  
+  Voert gegenereerde contactbestanden in downstream informatiesystemen.
+
+* **Bulkcontactverpakking**  
+  Produceert gestandaardiseerde contactoutput voor grote contactsets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

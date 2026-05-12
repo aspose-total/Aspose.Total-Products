@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCM do MBOX w a
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCM do MBOX przekształca dokumenty z włączonymi makrami w wyjście w stylu skrzynki pocztowej, ułatwiając grupowanie, archiwizowanie lub migrację komunikacji opartej na dokumentach w systemach zorientowanych na pocztę. Jest to przydatne, gdy treść dokumentu musi być zachowana w zintegrowanych repozytoriach wiadomości.
+
+Dla automatyzacji i skalowalności, przepływy pracy DOCM do MBOX wspierają archiwizację wsadową, pakowanie komunikacji oraz przenoszenie treści pochodzących z dokumentów do systemów retencji skoncentrowanych na skrzynkach pocztowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Archiwizacja skrzynki pocztowej**
+  Zachowuje treść pochodzącą z dokumentów wewnątrz plików kontenerów skrzynki pocztowej w celu długoterminowego przechowywania.
+
+* **Pakowanie zbioru wiadomości**
+  Umożliwia grupowanie powiązanych skonwertowanych komunikacji w jeden skonsolidowany plik.
+
+* **Wsparcie migracji**
+  Pomaga przenieść treść komunikacji opartej na dokumentach do środowisk archiwum e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie archiwum**
+  Konwertuje pliki DOCM do wyjść MBOX w ramach zaplanowanych przepływów retencji.
+
+* **Przygotowanie masowego repozytorium poczty**
+  Pakietuje treść pochodzącą z dokumentów do plików skrzynki pocztowej w dużych zestawach danych.
+
+* **Programowe potoki przechowywania**
+  Integruje konwersję dokumentów z systemami archiwizacji i zgodności.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

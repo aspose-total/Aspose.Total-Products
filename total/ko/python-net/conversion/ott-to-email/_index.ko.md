@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 EMAIL로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 이메일로 변환하면 OpenDocument 텍스트 템플릿을 메시지 생성, 알림 워크플로, 커뮤니케이션 자동화에 적합한 이메일 준비 콘텐츠로 변환합니다. 이는 조직이 문서 콘텐츠를 구조화된 발신 메시지로 재사용하도록 돕습니다.
+
+이 변환은 자동화와 매우 관련이 깊으며, 템플릿에서 이메일 본문을 동적으로 생성할 수 있게 하여 커뮤니케이션 일관성, 확장성 및 트랜잭션 또는 이벤트 기반 시스템과의 통합을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 기반 메시징**  
+  문서 템플릿을 아웃리치 또는 업데이트를 위한 재사용 가능한 이메일 콘텐츠로 전환합니다.
+
+* **알림 생성**  
+  형식이 지정된 텍스트를 알림 및 확인을 위한 이메일 준비 메시지로 변환합니다.
+
+* **콘텐츠 재사용**  
+  동일한 원본 문서가 문서화와 커뮤니케이션 요구 모두를 지원하도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 고객 업데이트**  
+  워크플로 트리거를 기반으로 OTT 템플릿에서 이메일을 생성합니다.
+
+* **거래 메시징 파이프라인**  
+  확인 또는 알림을 보내는 시스템에서 문서 콘텐츠를 사용합니다.
+
+* **동적 개인화**  
+  대규모 수신자 그룹을 위해 템플릿 기반 이메일 콘텐츠를 프로그래밍 방식으로 채웁니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

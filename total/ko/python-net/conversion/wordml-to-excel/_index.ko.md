@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 Excel로 변환하면 WordprocessingML 문서의 구조화된 콘텐츠를 분석, 보고 및 운영 추적에 적합한 스프레드시트 형식으로 이동합니다. 특히 문서에 표나 반구조화된 정보가 포함되어 있어 편집 가능한 워크북 데이터로 변환해야 할 때 유용합니다.
+
+Python API를 사용하면 문서 표를 추출하고 워크시트 콘텐츠를 정리하며 변환 작업을 자동화된 비즈니스 및 데이터 운영에 통합함으로써 WordML을 Excel로 변환하는 작업을 확장할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 생성**
+  문서 표를 편집 및 검토를 위한 워크북 기반 형식으로 변환합니다.
+
+* **보고 활성화**
+  구조화된 문서 콘텐츠를 수식, 차트 및 스프레드시트 분석에 사용할 수 있게 합니다.
+
+* **비즈니스 데이터 전송**
+  문서에서 스프레드시트 기반 시스템으로 운영 데이터를 이동하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 워크북 생성**
+  WordML 문서 배치를 수동 복사 없이 Excel 호환 파일로 생성합니다.
+
+* **보고 파이프라인 통합**
+  변환된 스프레드시트 출력을 대시보드, 감사 또는 계획 워크플로에 전달합니다.
+
+* **구조화된 데이터 정규화**
+  문서 콘텐츠를 워크시트 레이아웃으로 표준화하여 반복 가능한 하위 사용에 활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

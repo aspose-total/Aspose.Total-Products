@@ -46,7 +46,44 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de correo electrónico a MD en Python transforma el contenido del mensaje en Markdown para una documentación de texto ligera, portátil y amigable con el control de versiones. Es especialmente valiosa cuando la información del correo debe reutilizarse en documentación, bases de conocimiento, flujos de trabajo de desarrolladores o sistemas de publicación.
+
+Esta conversión mejora la automatización al facilitar el análisis, almacenamiento, transformación y publicación del contenido del correo electrónico a lo largo de canalizaciones centradas en texto, con una sobrecarga de formato mínima.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Publicación de Base de Conocimientos**
+  Convertir correos electrónicos a Markdown para portales de documentación y wikis internos.
+
+* **Archivos Controlados por Versiones**
+  Conservar comunicaciones importantes en un formato de texto adecuado para el seguimiento en repositorios.
+
+* **Simplificación de Contenido**
+  Reducir el formato complejo de los correos a un marcado limpio y portátil para su reutilización.
+
+* **Flujos de Trabajo Centrados en Desarrolladores**
+  Utilizar salidas en Markdown donde los equipos técnicos gestionan contenido en sistemas basados en texto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Automatización de Bandeja a Wiki**
+  Transformar correos seleccionados en páginas Markdown para plataformas de conocimiento buscables.
+
+* **Actualizaciones de Documentación Basadas en Repositorios**
+  Confirmar el contenido del mensaje convertido en canalizaciones de contenido versionado automáticamente.
+
+* **Flujos de Trabajo de Publicación Estática**
+  Alimentar las salidas de correos en Markdown a generadores y sistemas de automatización de contenido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

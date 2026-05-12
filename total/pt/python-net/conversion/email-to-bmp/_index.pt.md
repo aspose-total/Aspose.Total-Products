@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para BMP em Python permite que equipes transformem o conteúdo de mensagens em imagens bitmap estáticas para arquivamento, geração de pré‑visualizações e distribuição visual. É útil quando layouts de e‑mail, estilos incorporados e instantâneos de mensagens precisam ser preservados em um formato de imagem simples para fluxos de trabalho operacionais ou orientados por conformidade.
+
+Esta conversão suporta automação ao transformar conteúdo de e‑mail dinâmico em ativos visuais reutilizáveis que podem ser indexados, armazenados, compartilhados ou incorporados em pipelines de documentos e sistemas de relatórios com o mínimo de manipulação manual.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Arquivamento de Instantâneos de E‑mail**
+  Converta e‑mails em imagens BMP para preservar registros visuais das mensagens para armazenamento e revisão.
+
+* **Captura de Evidências de Conformidade**
+  Use saídas bitmap quando as organizações precisam de cópias visuais fixas do conteúdo das mensagens para fins de auditoria.
+
+* **Fluxos de Trabalho de Revisão Interna**
+  Compartilhe capturas de tela de e‑mail como arquivos de imagem padronizados para aprovações, rastreamento de incidentes ou análise de suporte.
+
+* **Compatibilidade com Sistemas Legados**
+  Exporte e‑mails para BMP onde sistemas mais antigos aceitam formatos de imagem não comprimidos de forma mais confiável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Renderização em Lote de Mensagens**
+  Converta automaticamente exportações de caixa de entrada em imagens BMP para indexação visual e retenção.
+
+* **Documentação de Casos de Suporte**
+  Adicione imagens de e‑mail renderizadas aos fluxos de trabalho de tickets para compartilhamento mais rápido do contexto de incidentes.
+
+* **Pipelines de Monitoramento e Relatórios**
+  Gere registros baseados em imagens a partir de fluxos de e‑mail automatizados para painéis e logs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

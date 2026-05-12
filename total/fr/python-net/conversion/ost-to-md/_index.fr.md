@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OST vers MD transforme les données de boîte aux lettres en format Markdown, créant un contenu texte léger, lisible et portable, adapté à la documentation et aux flux de travail de connaissance. Elle est précieuse pour les équipes qui souhaitent du contenu dérivé d’e‑mails dans un format texte brut structuré qui fonctionne bien sur toutes les plateformes.
+
+Les avantages de l’automatisation sont importants car la conversion OST vers MD s’intègre naturellement aux pipelines de contenu, aux flux de travail des développeurs et aux systèmes de documentation. Les API Python permettent une transformation rapide et évolutive des archives de boîtes aux lettres en fichiers Markdown pour l’indexation, la publication et la réutilisation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Documentation légère**  
+  Convertit le contenu des e‑mails en Markdown pour des enregistrements simples et structurés basés sur du texte.
+
+* **Préparation de la base de connaissances**  
+  Facilite la réutilisation des informations importantes de la boîte aux lettres dans les systèmes de documentation interne.
+
+* **Export de contenu convivial pour les développeurs**  
+  Prend en charge les flux de travail où les formats texte portable sont privilégiés.
+
+* **Enregistrements sous contrôle de version**  
+  Rend le contenu dérivé d’e‑mails plus facile à suivre et à gérer dans des environnements axés sur le texte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation du pipeline de documentation**  
+  Des scripts Python convertissent le contenu OST en Markdown pour les flux de travail de publication et d’indexation.
+
+* **Flux de travail d'extraction de contenu**  
+  Les systèmes automatisés préparent le texte de la boîte aux lettres pour des dépôts consultables et des notes structurées.
+
+* **Génération d'archives portables**  
+  La conversion programmatique crée des actifs texte réutilisables à partir des données d’e‑mails stockées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

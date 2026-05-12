@@ -44,7 +44,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonction de conversion MHT
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MHTML vers OTT en Python transforme le contenu web archivé en modèles de texte OpenDocument pour une création de documents répétable et standardisée. C’est un choix pratique lorsque les organisations souhaitent des fichiers de modèle réutilisables basés sur du contenu capturé sur le web tout en conservant la compatibilité avec les standards de documents ouverts.
+
+Pour l’automatisation, OTT prend en charge des flux de travail basés sur des modèles évolutifs qui réduisent les configurations répétitives et améliorent la cohérence. Il aide à transformer les archives web statiques en ressources réutilisables pour la génération récurrente de documents au sein d’écosystèmes ouverts.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles ouverts**  
+  Convertir les fichiers MHTML en modèles OTT pour une création de documents répétée avec une structure cohérente.
+
+* **Mises en page de contenu réutilisables**  
+  Construire des cadres de modèles standardisés à partir de pages web préservées pour la production future de documents.
+
+* **Flux de travail à norme ouverte**  
+  Prendre en charge les environnements qui nécessitent la réutilisation de modèles sans dépendre de formats de documents fermés.
+
+* **Distribution de contenu structuré**  
+  Préparer des ressources basées sur des modèles pour les départements produisant des documents à format ouvert récurrents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Pipelines d’approvisionnement de modèles**  
+  Générer automatiquement des modèles OTT à partir de sources MHTML pour une utilisation répétée dans les systèmes de documentation.
+
+* **Création de documents ouverts évolutive**  
+  Utiliser les modèles convertis pour rationaliser la génération récurrente de documents à travers des outils neutres vis-à-vis des plateformes.
+
+* **Structuration de contenu par lots**  
+  Transformer plusieurs fichiers web archivés en modèles ouverts réutilisables grâce à l’automatisation Python.
+
+* **Flux de travail de publication cohérents**  
+  Intégrer les sorties OTT dans les systèmes qui nécessitent des mises en page standardisées pour la livraison automatisée de documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

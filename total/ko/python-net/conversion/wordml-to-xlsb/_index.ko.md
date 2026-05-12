@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 XLSB로의 변환은 문서 기반 구조화된 콘텐츠를 효율적인 저장 및 대용량 워크북 처리를 위해 최적화된 이진 스프레드시트 파일로 변환합니다. 변환된 데이터에 스프레드시트 기능이 필요하고 성능 특성이 향상된 경우에 유용합니다.
+
+Python API는 문서 테이블을 추출하고 정리하여 확장 가능한 데이터 워크플로에 적합한 이진 워크북 출력물로 변환함으로써 WordML에서 XLSB로의 변환을 자동화하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **효율적인 워크북 저장**
+  WordML 콘텐츠를 XLSB 파일로 변환하여 컴팩트한 스프레드시트 처리를 가능하게 합니다.
+
+* **대용량 데이터 워크플로 지원**
+  스프레드시트 호환 형식으로 변환된 대규모 데이터 세트를 관리하는 데 도움을 줍니다.
+
+* **구조화된 테이블 변환**
+  문서 데이터를 성능 중심 워크북 환경에서 활용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대용량 스프레드시트 변환**
+  대규모 WordML 문서 집합에서 XLSB 생성을 자동화합니다.
+
+* **성능 중심 데이터 파이프라인**
+  이진 스프레드시트 출력의 이점을 활용하는 워크플로를 지원합니다.
+
+* **확장 가능한 보고서 준비**
+  문서 테이블을 효율적인 워크북 자산으로 반복 변환할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

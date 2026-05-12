@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から DOCM への変換は、マクロ対応のスプレッドシート コンテンツを、拡張された文書動作や組み込みオートメーションが必要な場合に、マクロ対応のワードプロセッシング文書形式へエクスポートできるようにします。これは、編集可能な文書出力に依存しつつ、オートメーション駆動の文書環境との互換性を維持したい組織に有用です。
+
+オートメーションの観点から、XLSM から DOCM への変換は、スプレッドシートのロジックと文書ワークフローを橋渡しし、Python ベースのシステムが再利用可能でマクロ対応の文書を生成できるようにします。これにより、スケーラブルな処理、文書生成、そして自動化されたエンタープライズ コンテンツ パイプラインへの統合がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応ドキュメント**
+  スプレッドシート主導のコンテンツを、拡張されたスクリプト動作をサポートする文書ファイルに変換します。
+
+* **プロセス主導のレポーティング**
+  文書オートメーション機能が重要な環境向けに、編集可能なレポートの生成を支援します。
+
+* **テンプレートベースのワークフロー**
+  構造化された操作において、スプレッドシート入力から再利用可能な文書資産の作成をサポートします。
+
+* **高度な内部フォーム**
+  スプレッドシートデータを、管理された内部プロセスに適した文書形式に提供できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="オートメーションシナリオ" %}}
+
+* **自動文書組み立て**
+  Python API は、動的な文書生成ワークフローのために XLSM ファイルを DOCM 出力に変換できます。
+
+* **マクロ互換配布**
+  自動化システムは、インタラクティブまたはスクリプト化された文書動作に依存するチーム向けに DOCM ファイルを準備できます。
+
+* **バッチ変換パイプライン**
+  複数の XLSM スプレッドシートを、プログラムでスケールに合わせて DOCM ファイルに変換できます。
+
+* **ワークフロー統合**
+  変換は、スプレッドシートから自動化された文書ステージへデータを移行するエンタープライズシステムに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

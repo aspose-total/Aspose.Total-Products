@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLT를 DOT로 변환하면 Excel 템플릿 파일을 Word 템플릿 문서로 변환할 수 있으며, 이는 향후 문서 생성에 재사용 가능한 시작점으로 활용될 수 있습니다. 특히 스프레드시트 템플릿에 구조화된 정보가 포함되어 있어 이를 반복 사용을 위해 문서 템플릿으로 재패키징해야 할 때 유용합니다.
+
+자동화 중심 환경에서 XLT를 DOT로 변환하면 템플릿 통합 및 확장 가능한 문서 생성을 지원합니다. 이는 Python 기반 시스템이 스프레드시트 레이아웃을 재사용 가능한 Word 템플릿 자산으로 변환하여 여러 비즈니스 프로세스에서 프로그래밍 방식으로 채울 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 문서 템플릿 생성**  
+  표준화된 문서 생산을 위해 XLT 파일을 DOT 템플릿으로 변환합니다.
+
+* **프로세스 템플릿 정렬**  
+  스프레드시트 기반 구조를 문서 워크플로우 전반에 사용되는 Word 템플릿 형식으로 전환합니다.
+
+* **운영 콘텐츠 재사용성**  
+  보고서, 양식 또는 내부 문서에 반복적으로 적용할 수 있는 기본 템플릿을 생성합니다.
+
+* **레거시 템플릿 변환**  
+  오래된 스프레드시트 템플릿을 재사용 가능한 Word 템플릿 리소스로 전환하여 현대화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**  
+  반복 가능한 문서 워크플로우를 위해 XLT 파일을 DOT 템플릿으로 자동 변환합니다.
+
+* **프로그래밍 방식 문서 부트스트래핑**  
+  스프레드시트 콘텐츠에서 기본 Word 템플릿을 생성하고 이후에 채우기 위해 Python API를 사용합니다.
+
+* **표준화된 출력 시스템**  
+  일관된 문서 시작점을 필요로 하는 엔터프라이즈 시스템에 변환된 DOT 파일을 제공합니다.
+
+* **대량 템플릿 마이그레이션**  
+  레거시 XLT 자산을 대규모로 Word 템플릿 라이브러리로 변환하는 작업을 자동화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

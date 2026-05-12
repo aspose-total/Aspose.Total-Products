@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para PPTM converte documentos habilitados para macro em arquivos de apresentação habilitados para macro, combinando comunicação baseada em slides com comportamentos automatizados avançados. Isso é útil quando as saídas de apresentação precisam preservar elementos interativos ou scriptados juntamente com o conteúdo convertido.
+
+Em fluxos de trabalho focados em automação, a conversão de DOCM para PPTM suporta apresentações reutilizáveis e editáveis que podem participar de pipelines de relatórios e entrega mais dinâmicos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Apresentação Habilitada para Macro**
+  Converte o conteúdo do documento em apresentações editáveis com suporte avançado à automação.
+
+* **Recursos de Relatórios Interativos**
+  Suporta saídas de slides que requerem lógica incorporada ou ações automatizadas.
+
+* **Fluxos de Trabalho de Apresentação Reutilizáveis**
+  Ajuda a criar materiais de apresentação dinâmicos a partir de fontes de documentos formais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Slides Dinâmicos**
+  Produz arquivos PPTM a partir de entradas DOCM para processos avançados de apresentação.
+
+* **Preservação da Lógica Incorporada**
+  Mantém as capacidades de slides orientadas à automação nos resultados convertidos.
+
+* **Pipelines de Relatórios Escaláveis**
+  Suporta conversão em grande volume para ativos de apresentação habilitados para macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

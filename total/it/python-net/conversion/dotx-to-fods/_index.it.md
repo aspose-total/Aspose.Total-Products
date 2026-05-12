@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTX a FODS converte il contenuto dei modelli Word in un formato di foglio di calcolo OpenDocument piatto, progettato per lo scambio di dati aperto e strutturato. È utile per i flussi di lavoro che privilegiano standard aperti e una memorizzazione di fogli di calcolo basata su XML leggibile.
+
+Con le API Python, questa conversione supporta l'automazione producendo documenti di foglio di calcolo interoperabili che possono essere generati, convalidati e integrati in sistemi di elaborazione dati scalabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di foglio di calcolo aperto**
+  Converti il contenuto del documento in un formato di foglio di calcolo aperto per una maggiore compatibilità.
+
+* **Flussi di lavoro XML strutturati**
+  Conserva le informazioni tabulari in un formato adatto a una gestione trasparente dei dati.
+
+* **Scambio basato su standard**
+  Consenti il trasferimento del contenuto del modello tra sistemi che supportano formati di documenti aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Reportistica automatizzata in formato aperto**
+  Genera file FODS da modelli DOTX in lavori di reportistica ricorrenti.
+
+* **Pipeline di dati interoperabili**
+  Alimenta gli output di fogli di calcolo aperti in sistemi che si basano su scambi basati su standard.
+
+* **Normalizzazione dei modelli su larga scala**
+  Trasforma strutture di documento ripetute in risorse di foglio di calcolo aperto in modo programmatico.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

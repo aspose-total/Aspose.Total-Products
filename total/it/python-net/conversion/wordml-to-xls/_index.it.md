@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a XLS trasforma contenuti strutturati basati su documenti in file di foglio di calcolo adatti per la modifica, la creazione di report e i flussi di lavoro legacy dei workbook. È utile quando le tabelle dei documenti devono essere riutilizzate in strumenti di foglio di calcolo con ampia compatibilità.
+
+Le API Python consentono la conversione da WordML a XLS estraendo i contenuti tabulari e automatizzando il loro inserimento nelle strutture dei workbook per una elaborazione scalabile.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di workbook legacy**
+  Converte le tabelle WordML in file XLS per flussi di lavoro di foglio di calcolo consolidati.
+
+* **Riutilizzo di dati strutturati**
+  Rende i dati delle tabelle contenute nei documenti modificabili e analizzabili in forma di workbook.
+
+* **Supporto alla reportistica operativa**
+  Aiuta a trasferire il contenuto dei documenti nei processi di revisione basati su fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione automatizzata di workbook**
+  Genera file XLS da lotti di documenti WordML in lavori ripetibili.
+
+* **Integrazione con sistemi legacy**
+  Supporta ambienti che dipendono ancora dalla compatibilità con fogli di calcolo più vecchi.
+
+* **Pipeline documento‑a‑foglio di calcolo**
+  Converte contenuti strutturati in output di workbook per operazioni a valle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

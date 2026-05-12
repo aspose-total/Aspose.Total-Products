@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から PPTM への変換は、ワードプロセッシング文書をマクロ対応のプレゼンテーションファイルに変換し、高度なスライドワークフローを実現します。これは、テキストコンテンツを編集可能なプレゼンテーションデッキに変換し、プログラム可能な動作や組み込みオートメーションもサポートする必要がある場合に有用です。
+
+スケーラブルなオートメーション環境において、この変換により組織は文書駆動のコンテンツ生成と、より高度なプレゼンテーションロジックや再利用可能なワークフローパターンを組み合わせることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応デッキ作成**
+  文書を編集可能なプレゼンテーションに変換し、先進的なオートメーション機能をサポートします。
+
+* **動的レポーティングワークフロー**
+  再利用のためにプログラム可能な動作を含めることができるスライドデッキの生成を支援します。
+
+* **複雑なプレゼンテーション作成**
+  標準的なスライドでは運用上の要件を満たせないシナリオをサポートします。
+
+* **高度なコンテンツ再利用**
+  テキストのソース素材を、専門的なワークフロー向けのリッチなプレゼンテーション資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="オートメーションシナリオ" %}}
+
+* **自動化された高度デッキ生成**
+  繰り返し可能なコンテンツパイプラインで、Word ファイルから PPTM プレゼンテーションを生成します。
+
+* **ロジック駆動プレゼンテーションワークフロー**
+  自動化されたスライド動作がプロセスの一部となるマクロ対応デッキを使用します。
+
+* **定期的なビジネスレポーティング**
+  定期的な文書を高度なプレゼンテーション出力に変換し、一貫した提供を実現します。
+
+* **スケーラブルな文書再利用**
+  Word から PPTM への変換をエンタープライズコンテンツオートメーションシステムに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

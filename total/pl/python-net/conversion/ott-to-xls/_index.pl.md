@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do XLS w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w pliki arkuszy kalkulacyjnych przeznaczone do ustrukturyzowanego przeglądu, obliczeń i udostępniania. Jest to przydatne, gdy materiały źródłowe w formie tekstowej muszą zostać przekształcone do formatu skoroszytu w celach biznesowych lub operacyjnych.
+
+Konwersja zwiększa automatyzację, umożliwiając bezpośrednie przepływanie treści dokumentu do procesów opartych na arkuszach kalkulacyjnych, w których analiza, weryfikacja i raportowanie mogą być powtarzane efektywnie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie skoroszytu**  
+  Przekształca szablony dokumentów w edytowalne pliki arkuszy kalkulacyjnych.
+
+* **Organizacja danych**  
+  Strukturyzuje treść tekstową w wiersze i kolumny, ułatwiając obsługę.
+
+* **Wsparcie raportowania**  
+  Przygotowuje informacje źródłowe do podsumowań opartych na arkuszach kalkulacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane eksporty arkuszy**  
+  Tworzy pliki XLS z powtarzającej się zawartości OTT.
+
+* **Operacyjne przetwarzanie danych**  
+  Przenosi informacje pochodzące z szablonów do przepływów pracy w skoroszytach.
+
+* **Zaplanowane potoki raportowania**  
+  Generuje wyniki w arkuszach kalkulacyjnych dla regularnych przeglądów biznesowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

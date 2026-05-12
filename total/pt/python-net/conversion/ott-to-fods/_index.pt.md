@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão OTT para FODS em APIs Python transforma modelos de texto OpenDocument em documentos de planilha XML planos que são legíveis, estruturados e adequados para processamento em nível de sistema. Isso é útil para fluxos de trabalho que preferem representações de planilha abertas e baseadas em texto.
+
+A conversão suporta automação ao tornar o conteúdo do documento mais fácil de versionar, inspecionar e integrar em processos compatíveis com XML, onde transparência, estrutura e interoperabilidade são importantes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Planilha Aberta**  
+  Converte modelos de texto em documentos de planilha estruturados e planos.
+
+* **Serialização de Dados Legíveis**  
+  Produz conteúdo de planilha baseado em texto que é fácil de inspecionar programaticamente.
+
+* **Interoperabilidade de Fluxo de Trabalho**  
+  Adequa-se a sistemas que dependem de padrões de documentos abertos e processamento XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Dados Baseados em XML**  
+  Empurra o conteúdo derivado de modelos para fluxos de trabalho de planilhas estruturadas e planas.
+
+* **Exportações Amigáveis ao Controle de Versão**  
+  Suporta a geração automatizada de documentos de planilha amigáveis a diffs.
+
+* **Processamento Baseado em Padrões**  
+  Permite transformações repetíveis em ambientes de formato aberto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

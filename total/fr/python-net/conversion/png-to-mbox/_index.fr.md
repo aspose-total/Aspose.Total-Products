@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PNG vers MBOX permet d'intégrer du contenu basé sur des images dans des fichiers d'archive de boîte aux lettres, facilitant la consolidation des enregistrements de communication visuelle dans un format largement utilisé pour le stockage et la migration d'e‑mails. Cela est utile pour les organisations qui doivent préserver ou transférer des messages dérivés d'images dans des archives d'e‑mail en masse.
+
+En utilisant les API Python, les équipes peuvent automatiser la génération de MBOX à partir d'entrées PNG, améliorant la cohérence, supportant le traitement à haut volume et simplifiant l'intégration avec les flux de travail d'archivage, de migration et de rétention des données.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d'archive de boîte aux lettres**  
+  Convertit le contenu de communication basé sur des PNG en archives MBOX pour un stockage à long terme.
+
+* **Regroupement de données d'e‑mail en masse**  
+  Aide à regrouper les messages dérivés d'images dans un seul fichier de boîte aux lettres pour la portabilité et la révision.
+
+* **Support du flux de travail de migration**  
+  Prend en charge les projets de migration d'e‑mail qui nécessitent des sorties de boîtes aux lettres archivées générées à partir de contenu visuel.
+
+* **Conservation centralisée des messages**  
+  Permet de conserver les enregistrements de communication visuelle dans des conteneurs de boîtes aux lettres consolidés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'archives par lots**  
+  Les API Python peuvent automatiser la création de fichiers MBOX à partir de gros volumes de contenu PNG.
+
+* **Flux de travail de politique de rétention**  
+  Les systèmes peuvent convertir les enregistrements basés sur des images en archives de boîtes aux lettres pour des processus de rétention structurés et de conformité.
+
+* **Préparation de l'importation de boîte aux lettres**  
+  Les pipelines automatisés peuvent préparer les sorties MBOX pour l'ingestion par les systèmes de messagerie en aval.
+
+* **Processus de consolidation de contenu**  
+  Les organisations peuvent combiner dynamiquement les messages dérivés de PNG en archives MBOX unifiées grâce à des flux de travail programmatiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

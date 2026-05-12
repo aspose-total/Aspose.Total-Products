@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een ICS naar DOC-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS-naar-DOC-conversie met behulp van Python‑API’s maakt het mogelijk kalendergebeurtenisgegevens te transformeren naar gestructureerde Word‑documenten voor documentatie‑ en rapportagedoeleinden. Deze conversie stelt schema’s en gebeurtenisdetails beschikbaar in een leesbaar formaat dat geschikt is voor professionele communicatie of archivering.
+
+Via geautomatiseerde Python‑workflows kunnen ICS‑bestanden worden geparseerd en omgezet naar DOC‑documenten zonder handmatige opmaak. Dit ondersteunt schaalbare documentgeneratie voor organisaties die grote hoeveelheden kalendergegevens beheren.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Vergaderdocumentatie**  
+  Converteer kalendergebeurtenissen naar opgemaakte documenten voor vergaderingssamenvattingen of -verslagen.
+
+* **Schema‑rapportage**  
+  Genereer leesbare Word‑documenten met gebeurtenistijdlijnen of planningsschema’s.
+
+* **Administratieve archivering**  
+  Sla gebeurtenisgegevens op in documentformaat voor langdurige referentie of naleving.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde rapportgeneratie**  
+  Genereer DOC‑bestanden uit ICS‑kalenders binnen geautomatiseerde rapportagepijplijnen.
+
+* **Verwerking van gebeurtenisgegevens**  
+  Converteer planningsgegevens naar documenten voor integratie met bedrijfsystemen.
+
+* **Bulkkalenderconversie**  
+  Verwerk grote batches van ICS‑bestanden naar Word‑documenten via een programma.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

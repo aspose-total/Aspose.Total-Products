@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から XLAM への変換は、文書由来の構造化ロジックやデータを、再利用可能な機能やパッケージ化されたリソースが必要とされるアドイン関連のスプレッドシートワークフローに変換します。モジュール拡張と繰り返し可能な自動化資産に依存する高度なスプレッドシートエコシステムで価値があります。
+
+Python API は、WordML から XLAM に関連するワークフローを支援し、Automation 指向のスプレッドシートソリューションとスケーラブルな文書駆動型処理のために構造化コンテンツを準備します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スプレッドシート アドインの準備**
+  文書コンテンツを再利用可能なスプレッドシート拡張ワークフローの入力として使用します。
+
+* **高度な自動化サポート**
+  機能駆動型スプレッドシート環境向けに、文書由来の資産を構造化するのに役立ちます。
+
+* **再利用可能なロジックのパッケージ化**
+  繰り返し使用されるコンテンツをアドインに合わせたリソースへ変換することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化資産の生成**
+  WordML 由来のコンテンツをアドイン準備パイプラインに統合します。
+
+* **再利用可能なワークフローのパッケージ化**
+  構造化されたスプレッドシート自動化コンポーネントの繰り返し変換プロセスを支援します。
+
+* **エンタープライズ スプレッドシートの有効化**
+  文書リポジトリを高度なスプレッドシート拡張ワークフローと接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

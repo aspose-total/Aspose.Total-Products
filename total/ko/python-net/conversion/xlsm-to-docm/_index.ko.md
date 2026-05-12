@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM에서 DOCM으로의 변환은 매크로가 포함된 스프레드시트 콘텐츠를 고급 문서 동작이나 내장 자동화가 필요할 때 매크로가 포함된 워드 프로세싱 문서 형식으로 내보낼 수 있게 합니다. 이는 편집 가능한 문서 출력을 필요로 하면서 자동화 기반 문서 환경과의 호환성을 유지하는 조직에 유용합니다.
+
+자동화 관점에서 XLSM에서 DOCM으로의 변환은 스프레드시트 로직과 문서 워크플로를 연결하는 데 도움이 되며, Python 기반 시스템이 재사용 가능한 매크로 지원 문서를 생성하도록 합니다. 이는 확장 가능한 처리, 문서 생성 및 자동화된 기업 콘텐츠 파이프라인으로의 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 문서화**
+  스프레드시트 기반 콘텐츠를 고급 스크립트 동작을 지원하는 문서 파일로 변환합니다.
+
+* **프로세스 기반 보고**
+  문서 자동화 기능이 중요한 환경을 위해 편집 가능한 보고서를 생성하는 데 도움이 됩니다.
+
+* **템플릿 기반 워크플로**
+  구조화된 작업에서 스프레드시트 입력을 사용해 재사용 가능한 문서 자산을 만드는 것을 지원합니다.
+
+* **고급 내부 양식**
+  스프레드시트 데이터를 제어된 내부 프로세스에 적합한 문서 형식으로 전달할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 문서 조립**
+  Python API를 사용해 XLSM 파일을 DOCM 출력으로 변환하여 동적 문서 생성 워크플로에 활용할 수 있습니다.
+
+* **매크로 호환 배포**
+  자동화 시스템은 인터랙티브하거나 스크립트된 문서 동작에 의존하는 팀을 위해 DOCM 파일을 준비할 수 있습니다.
+
+* **배치 변환 파이프라인**
+  여러 XLSM 스프레드시트를 프로그래밍 방식으로 대규모로 DOCM 파일로 변환할 수 있습니다.
+
+* **워크플로 통합**
+  변환은 스프레드시트 데이터를 자동화된 문서 단계로 이동시키는 기업 시스템에 내장될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

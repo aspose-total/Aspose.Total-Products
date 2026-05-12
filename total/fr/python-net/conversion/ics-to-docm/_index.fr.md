@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversion d'ICS en DOCM à l'aide des API Python transforme les données d'événements de calendrier en documents Word à macros activées. Cela permet d'incorporer les informations de planification dans des documents qui prennent en charge l'automatisation avancée grâce aux macros intégrées.
+
+Automatiser cette conversion avec Python aide les organisations à intégrer les données de calendrier dans des flux de travail pilotés par des macros, permettant aux plannings d'événements de déclencher l'automatisation ou les processus de génération de rapports de documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles de documents automatisés**  
+  Intégrer les données du calendrier dans des documents à macros activées pour des rapports automatisés.
+
+* **Intégration du flux de travail**  
+  Utiliser les informations d'événement dans des documents qui déclenchent des processus automatisés.
+
+* **Rapports avancés**  
+  Combiner les plannings du calendrier avec une analyse ou un formatage pilotés par des macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Systèmes de rapports pilotés par des macros**  
+  Générer automatiquement des fichiers DOCM à partir des plannings ICS.
+
+* **Pipelines d'automatisation de documents**  
+  Intégrer les données d'événement aux flux de travail macro pour des mises à jour de documents automatisées.
+
+* **Outils de planification d'entreprise**  
+  Convertir les données du calendrier en rapports à macros activées à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

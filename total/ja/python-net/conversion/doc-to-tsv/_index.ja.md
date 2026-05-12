@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文書からTSVへの変換は、Word コンテンツをタブ区切り値に変換し、クリーンなテキストベースのデータ交換やインポートワークフローに最適なシンプルな構造化フォーマットを提供します。文書のテーブルや繰り返しフィールドを軽量な構造化出力として必要とする場合に便利です。
+
+Python API は、DOC から TSV への変換を自動化し、スケーラブルな抽出、データ準備、統合タスクを支援します。プレーンテキストの表形式が好まれる場面で活用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **軽量データエクスポート**
+  文書のテーブルを TSV に変換し、シンプルな構造化交換を実現します。
+
+* **インポートに適した出力**
+  区切りテキストを受け入れるツールやシステム向けに、Word 由来のデータを準備します。
+
+* **データクレンジングワークフロー**
+  前処理、検証、パイプラインへの取り込みに TSV 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量データ抽出**
+  DOC ファイルを自動的に TSV に変換し、下流処理に利用します。
+
+* **パイプライン対応テキストエクスポート**
+  ETL やインポートワークフローの一部として、文書から区切りファイルを生成します。
+
+* **スケジュールされた変換ジョブ**
+  プログラムで文書ベースのレコードを定期的に TSV に標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

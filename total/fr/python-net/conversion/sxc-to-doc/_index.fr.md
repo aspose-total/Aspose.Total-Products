@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion SXC vers DOC transforme le contenu basé sur des feuilles de calcul en un format de document classique, plus facile à examiner, partager et archiver dans des flux de travail centrés sur le texte. Elle est utile lorsque des informations tabulaires structurées doivent être présentées sous forme de documentation métier lisible, de résumés ou de rapports pour une accessibilité plus large.
+
+Dans les environnements d'automatisation, la conversion SXC vers DOC aide à standardiser la génération de sorties, à réduire la préparation manuelle de documents et à soutenir les processus de publication, d'approbation ou de conformité en aval grâce aux API Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération de rapports**  
+  Convertit le contenu des feuilles de calcul en documents lisibles pour les rapports formels et la communication avec les parties prenantes.
+
+* **Distribution de contenu**  
+  Facilite le partage de contenu basé sur les données avec les utilisateurs qui préfèrent les formats basés sur des documents plutôt que les feuilles de calcul.
+
+* **Préparation d'archives**  
+  Aide à préserver les dossiers d'entreprise dans un format couramment utilisé pour les flux de travail de documentation à long terme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création de documents en lot**  
+  Automatise la conversion de plusieurs fichiers SXC en documents DOC pour des pipelines de rapports récurrents.
+
+* **Publication de données vers documents**  
+  Permet aux flux de travail Python de transformer les données de feuilles de calcul en documents conviviaux pour la publication ou la révision.
+
+* **Intégration du flux de travail**  
+  Prend en charge la génération de documents au sein de systèmes plus vastes tels que l'approbation, la conservation des enregistrements et les pipelines de diffusion de contenu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

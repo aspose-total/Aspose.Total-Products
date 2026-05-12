@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM から DOCM への Python 変換は、マクロ対応の Excel テンプレートをマクロ対応の Word 文書に変換し、高度な文書処理や再利用可能なコンテンツのパッケージ化を可能にします。スプレッドシートベースのソース素材を、拡張された自動化ロジックをサポートする文書形式で提供する必要がある場合に便利です。
+
+最新の自動化ワークフローにおいて、XLTM から DOCM への変換はオフィスファイルタイプ間のプロセス継続性を向上させ、プログラム可能な文書生成をサポートし、効率的なマルチステップコンテンツ操作の維持に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応ドキュメント出力**  
+  スプレッドシートテンプレートを、マクロ対応ドキュメントエコシステムで使用できる Word 文書に変換します。
+
+* **構造化コンテンツ転送**  
+  整理されたテンプレートデータを、正式な編集とレビューに適した文書形式に移行します。
+
+* **プロセス駆動型ドキュメンテーション**  
+  部門間で自動化されたオフィス文書変換に依存するチームを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ワークフロー統合変換**  
+  エンタープライズコンテンツパイプライン内で XLTM テンプレートから DOCM ファイルの作成を自動化します。
+
+* **文書組み立てシステム**  
+  変換されたファイルを、構造化ドキュメントを生成、検証、配布する大規模システムに供給します。
+
+* **クロスフォーマット自動化チェーン**  
+  スプレッドシートベースの入力とマクロ対応 Word 出力を結びつけ、運用の一貫性を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

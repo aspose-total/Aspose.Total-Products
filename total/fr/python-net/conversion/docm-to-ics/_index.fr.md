@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers ICS transforme le contenu de documents activés par des macros en données compatibles avec les calendriers, permettant de réutiliser les plannings, les détails d’événements ou le contenu basé sur les dates dans les flux de travail de planification. Cela est particulièrement utile lorsque les documents contiennent des informations d’événements structurées qui nécessitent une accessibilité plus large.
+
+Du point de vue de l’automatisation, la conversion DOCM vers ICS relie les plannings créés aux systèmes de calendrier, permettant la génération automatique d’événements, la synchronisation et la coordination des flux de travail basés sur le temps.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction d’emploi du temps**  
+  Convertit le contenu de documents lié aux événements en données prêtes pour le calendrier à des fins de planification.
+
+* **Publication de réunions et d’échéances**  
+  Facilite la diffusion des chronologies définies dans les documents via des fichiers de calendrier standardisés.
+
+* **Planification multiplateforme**  
+  Prend en charge la portabilité des informations basées sur les dates vers des outils de calendrier compatibles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée d’événements**  
+  Génère des fichiers ICS à partir du contenu DOCM contenant des détails de réunions ou d’échéances.
+
+* **Flux de travail de synchronisation de calendrier**  
+  Prend en charge l’importation automatisée des plannings dérivés de documents dans les systèmes de planification.
+
+* **Planification récurrente par lots**  
+  Convertit de multiples documents de planification en sorties de calendrier standardisées à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

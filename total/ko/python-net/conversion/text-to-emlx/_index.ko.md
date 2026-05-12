@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 TEXT를 EMLX로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 텍스트를 EMLX로 변환하면 일반 텍스트를 EMLX 스타일 저장소를 사용하는 환경을 위해 설계된 이메일 메시지 파일로 변환합니다. 이는 메시지 보존, 애플리케이션별 이메일 워크플로, 텍스트 기반 서신의 구조화된 처리에 유용합니다.
+
+이 변환은 자동화를 지원하여 텍스트 콘텐츠를 프로그래밍 방식으로 특수 이메일 저장, 마이그레이션 작업 및 일관성과 효율성을 요구하는 시스템 기반 메시지 생성 프로세스를 위해 준비할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 이메일 저장**  
+  텍스트를 조직적인 보관 및 검색을 위해 EMLX 호환 메시지 파일로 변환합니다.
+
+* **메일함 마이그레이션 지원**  
+  EMLX 스타일 형식에 의존하는 시스템을 위해 텍스트 기반 메시지 콘텐츠를 준비하는 데 도움을 줍니다.
+
+* **자동 메시지 패키징**  
+  일반 텍스트 콘텐츠를 사용 가능한 이메일 파일 구조로 포장할 수 있게 합니다.
+
+* **워크플로 기록 생성**  
+  생성된 텍스트 커뮤니케이션을 메시지 지향 파일 형식으로 보존하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **마이그레이션 준비**  
+  자동화를 통해 대량의 텍스트 콘텐츠를 전환 워크플로를 위한 EMLX 파일로 변환할 수 있습니다.
+
+* **애플리케이션 기반 메시지 생성**  
+  시스템은 동적 텍스트 소스에서 직접 EMLX 호환 출력을 생성할 수 있습니다.
+
+* **아카이브 처리 파이프라인**  
+  텍스트 기반 레코드를 자동 보존 프로세스를 위한 구조화된 메시지 파일로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

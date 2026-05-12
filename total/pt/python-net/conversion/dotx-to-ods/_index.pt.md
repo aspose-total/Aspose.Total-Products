@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para ODS transforma o conteúdo de modelos Word em um formato de planilha OpenDocument para manipulação estruturada de dados e fluxos de trabalho com padrões abertos. É útil quando as informações do documento precisam ser representadas em forma de planilha editável sem depender de formatos proprietários.
+
+Essa conversão melhora a automação ao permitir a produção baseada em Python de arquivos de planilha abertos que podem ser integrados a sistemas de relatórios, revisões e processamento de dados em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Fluxos de Trabalho com Planilhas Abertas**
+  Converta o conteúdo do documento em arquivos de planilha editáveis usando padrões abertos.
+
+* **Reuso de Dados**
+  Transfira informações estruturadas de modelos para processos empresariais tabulares.
+
+* **Relatórios Interoperáveis**
+  Suporte à colaboração entre sistemas que utilizam formatos de planilha abertos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportações Recorrentes de Planilhas**
+  Gere arquivos ODS automaticamente a partir de modelos DOTX para ciclos de relatórios.
+
+* **Pipelines de Dados Abertos**
+  Direcione a saída da planilha convertida para sistemas construídos em torno de formatos baseados em padrões.
+
+* **Automação de Documento para Tabela**
+  Escalone a transformação de conteúdo de modelo repetido em ativos de planilha.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

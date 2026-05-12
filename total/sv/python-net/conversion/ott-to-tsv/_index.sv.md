@@ -65,7 +65,41 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT till TSV‑konvertering i Python‑API:er omvandlar OpenDocument‑textmallar till tab‑separerade värden för ren, lättviktig, strukturerad datautbyte. Detta är användbart när mallbaserat innehåll måste flyttas till system som föredrar enkel, textbaserad tabellutdata.
+
+Konverteringen förbättrar automatiseringen genom att möjliggöra enkel parsning, transformation och inläsning i arbetsflöden som värdesätter minimal overhead, portabilitet och pålitlig avgränsarbaserad struktur.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+* **Export av avgränsad data**  
+  Omvandlar dokumentinnehåll till strukturerad tab‑separerad utdata.
+
+* **Pipeline‑vänlig formatering**  
+  Stöder system som bearbetar lättviktiga textbaserade tabeller.
+
+* **Dataförberedelse**  
+  Gör extraherat innehåll enklare att importera till analytiska eller operativa verktyg.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* **Masskonvertering av tabeller**  
+  Genererar TSV‑filer från OTT‑mallar i stor skala.
+
+* **ETL‑arbetsflödesmatning**  
+  Skickar dokumentbaserad data till parsning‑ och transformationspipeline.
+
+* **Schemalagda strukturerade exporter**  
+  Stöder återkommande generering av enkla maskinläsbara dataset.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 XLSM으로 변환하면 Word 템플릿 콘텐츠를 고급 워크북 워크플로에 적합한 매크로 사용 스프레드시트 형식으로 변환합니다. 구조화된 문서 데이터를 자동화 인식 동작을 지원하는 스프레드시트에서 재사용해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환을 통해 보다 복잡한 엔터프라이즈 및 운영 프로세스에 맞는 스프레드시트 출력물을 확장 가능하게 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 스프레드시트 생성**
+  문서 콘텐츠를 고급 워크플로에 적합한 워크북 형식으로 변환합니다.
+
+* **운영 데이터 재사용**
+  템플릿에서 파생된 정보를 구조화된 스프레드시트 환경으로 이동합니다.
+
+* **복잡한 보고 지원**
+  보다 풍부한 처리 시나리오를 위해 스프레드시트 출력을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 워크북 생성**
+  반복 보고 시스템에서 DOTX 템플릿으로부터 XLSM 파일을 생성합니다.
+
+* **고급 스프레드시트 파이프라인**
+  자동화 가능한 워크북 형식을 필요로 하는 워크플로에서 변환된 출력을 사용합니다.
+
+* **확장 가능한 데이터 변환**
+  프로그램적으로 반복되는 문서 구조를 풍부한 스프레드시트 자산으로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

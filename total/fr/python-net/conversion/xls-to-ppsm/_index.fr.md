@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLS vers PPSM convertit les informations de feuilles de calcul en fichiers de présentation diaporama à macros activées pour une utilisation directe en présentation. Ce format est utile lorsque les flux de travail de diffusion de présentations nécessitent un comportement de diaporama ainsi qu’une compatibilité avec des environnements à macros activées.
+
+L’utilisation des API Python pour la conversion XLS vers PPSM aide à automatiser la génération de présentations spécialisées et prend en charge la transformation évolutive d’informations basées sur des feuilles de calcul en actifs prêts à être affichés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Diaporamas à macros activées**
+  Convertir les données XLS en fichiers PPSM pour des flux de travail de présentation avancés.
+
+* **Sortie de présentation directe**
+  Préparer des fichiers dérivés de feuilles de calcul prêts à être ouverts en mode diaporama.
+
+* **Matériaux de livraison structurés**
+  Utiliser le contenu des feuilles de calcul pour créer des sorties visuelles guidées répondant aux besoins opérationnels ou de reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Préparation automatisée de diaporama**
+  Générer des fichiers PPSM à partir d’entrées de feuilles de calcul dans des systèmes qui nécessitent une sortie de présentation répétable.
+
+* **Pipelines de présentation avancés**
+  Utiliser les API Python pour prendre en charge la génération de diaporamas compatibles avec les macros à grande échelle.
+
+* **Systèmes de reporting orientés affichage**
+  Convertir les fichiers XLS en actifs de présentation en vue directe pour une communication simplifiée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

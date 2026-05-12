@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion RTF vers ICS transforme les documents texte formatés en fichiers compatibles avec les calendriers, capables de représenter des événements, des plannings, des rappels ou des données de rendez‑vous. Cela est particulièrement utile lorsque le contenu lié aux dates et aux heures stocké dans les documents doit devenir exploitable au sein des systèmes de calendrier.
+
+Du point de vue de l’automatisation, la conversion RTF vers ICS permet la génération d’événements, les flux de travail de planification et la distribution simplifiée d’informations prêtes pour le calendrier au sein des équipes, des systèmes et des processus opérationnels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d'événements à partir de documents**  
+  Convertit les notes de réunion ou les plannings en fichiers de calendrier pouvant être importés et partagés.
+
+* **Distribution de rappels**  
+  Aide à transformer le contenu de documents basé sur des dates en entrées de calendrier exploitables.
+
+* **Standardisation des plannings**  
+  Soutient un formatage cohérent des rendez‑vous et des chronologies pour une réutilisation plus large.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de rendez‑vous**  
+  Les systèmes peuvent extraire les données de planification des fichiers RTF et créer des entrées ICS sans configuration manuelle.
+
+* **Publication de calendrier basée sur les flux de travail**  
+  La conversion programmatique permet aux plans, avis ou plannings d’être distribués sous forme de fichiers de calendrier.
+
+* **Pipelines de planification récurrents**  
+  Les processus dynamiques peuvent créer des sorties de calendrier à partir de flux de documents récurrents pour les équipes et les parties prenantes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

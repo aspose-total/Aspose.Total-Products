@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a XLS trasforma il contenuto di Word in un formato di foglio di calcolo utilizzato per revisioni strutturate, calcoli e report operativi. È utile quando tabelle e registri basati su documenti devono diventare dati di foglio di calcolo modificabili.
+
+L'uso delle API Python per la conversione da DOC a XLS migliora l'efficienza, supporta l'estrazione ripetibile e aiuta a integrare il contenuto dei documenti nei flussi di lavoro aziendali incentrati sui fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Conversione dati in foglio di calcolo**
+  Trasforma le tabelle dei documenti in file XLS per la modifica e l'analisi.
+
+* **Report e revisione**
+  Prepara il contenuto derivato dai documenti per attività di reporting basate su fogli di calcolo.
+
+* **Compatibilità con fogli di calcolo legacy**
+  Utilizza l'output XLS dove sono ancora in uso ambienti di fogli di calcolo più vecchi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazioni automatizzate di fogli di calcolo**
+  Converti i file DOC in XLS come parte di flussi di lavoro operativi ricorrenti.
+
+* **Preparazione dati batch**
+  Estrai programmaticamente dati strutturati dai documenti in forma di foglio di calcolo.
+
+* **Pipeline di integrazione di sistema**
+  Fornisci output compatibili con fogli di calcolo a sistemi di analisi, finanza o pianificazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

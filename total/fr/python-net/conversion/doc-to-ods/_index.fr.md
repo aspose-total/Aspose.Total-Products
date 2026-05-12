@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en ODS transforme le contenu Word en fichiers de feuille de calcul OpenDocument, facilitant la révision, le calcul et le partage de données structurées dans les flux de travail OpenOffice. Elle est utile lorsque les tableaux ou les enregistrements de documents nécessitent des fonctionnalités de feuille de calcul dans un format ouvert.
+
+Avec les API Python, la conversion DOC vers ODS devient plus rapide et plus fiable, permettant une extraction de données répétable et une intégration dans les systèmes de reporting, d’analyse et opérationnels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Conversion de feuille de calcul ouverte**
+  Déplacez les tableaux du document vers ODS pour les trier, les calculer et les examiner de manière structurée.
+
+* **Partage de données interopérable**
+  Utilisez la sortie ODS lorsque l’échange de feuilles de calcul au format ouvert est privilégié.
+
+* **Extraction de données opérationnelles**
+  Convertissez le contenu récurrent des documents en actifs de feuille de calcul réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Exportations de données automatisées**
+  Générez des fichiers ODS à partir d’entrées DOC pour les pipelines de reporting OpenOffice.
+
+* **Traitement en masse de feuilles de calcul**
+  Convertissez des enregistrements basés sur des documents en sorties de feuille de calcul à grande échelle.
+
+* **Flux de travail d’intégration système**
+  Connectez programmatiquement l’extraction de documents à la gestion de données au format ouvert.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

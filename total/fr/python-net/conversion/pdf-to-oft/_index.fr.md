@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PDF vers OFT à l'aide des API Python permet de convertir des documents PDF en fichiers de modèle d'e‑mail qui peuvent être réutilisés pour des scénarios de communication répétés. C’est particulièrement précieux lorsque le contenu du document sert de base à des messages sortants standardisés.
+
+L'automatisation renforce ce cas d'usage en permettant la génération de modèles à partir de documents sources à grande échelle. Elle prend en charge des flux de travail répétables, améliore la cohérence du formatage et aide les organisations à créer des actifs de communication réutilisables à partir de documents PDF existants.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles d'e‑mail réutilisables**  
+  Convertir le contenu PDF en modèles OFT pour des besoins de communication récurrents.
+
+* **Messagerie standardisée**  
+  Construire des structures de messages cohérentes à partir de matériel source basé sur des documents.
+
+* **Support de communication opérationnelle**  
+  Utiliser les modèles convertis pour des avis, des réponses ou des actions de sensibilisation axées sur le service.
+
+* **Développement de bibliothèque de modèles**  
+  Créer et maintenir des actifs de communication réutilisables à partir de documents PDF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles**  
+  Les flux de travail Python peuvent transformer automatiquement des PDF standardisés en fichiers OFT réutilisables.
+
+* **Préparation de communication en masse**  
+  Les systèmes peuvent créer des sorties prêtes à être utilisées comme modèles pour les équipes gérant des tâches d'e‑mail répétitives.
+
+* **Pipelines de messagerie pilotés par les documents**  
+  Les fichiers PDF sources peuvent alimenter les processus de création de modèles sans reconstruction manuelle.
+
+* **Flux de travail d'outreach évolutifs**  
+  La conversion automatisée aide à maintenir une messagerie cohérente à travers de grandes opérations.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

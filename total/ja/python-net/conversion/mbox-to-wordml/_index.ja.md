@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から WordML への変換は、メールボックスアーカイブを XML ベースの Word 文書マークアップに変換し、構造化された表現と機械可読な処理を可能にします。これは、ワークフローが透明性、カスタマイズ、または文書構造とのプログラム的なやり取りを必要とする場合に有用です。
+
+Python API は、自動変換、XML レベルの処理、構造化文書データを扱うシステムとの統合をサポートすることで、スケールでの WordML 変換を実用的にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **XMLベースのWord文書エクスポート**
+  メールを WordML に変換し、構造化され機械可読な文書処理を実現します。
+
+* **カスタム文書処理**
+  マークアップベースのワークフローを使用して、メール由来のコンテンツを低レベルで操作できるようにします。
+
+* **相互運用データ交換**
+  構造化文書システムに適した形式でメールボックスデータを保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動XML変換**
+  MBOX アーカイブから WordML 出力を生成し、文書認識処理パイプラインに活用します。
+
+* **構造化データワークフロー**
+  Python を使用して、変換されたメールボックス文書をプログラム的に検査、変更、または検証します。
+
+* **スケーラブルなシステム統合**
+  メール由来の XML 文書をエンタープライズコンテンツおよび変換システムに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

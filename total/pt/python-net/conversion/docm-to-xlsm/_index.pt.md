@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para XLSM transforma documentos com macros em arquivos de planilha com macros, possibilitando a preservação da automação avançada de planilhas juntamente com dados estruturados do documento. É valiosa quando o conteúdo convertido deve permanecer utilizável em fluxos de trabalho dinâmicos de pastas de trabalho.
+
+Para sistemas modernos de automação, a conversão de DOCM para XLSM suporta processos de planilha reutilizáveis, lógica incorporada e conversão escalável do conteúdo do documento em ativos de pastas de trabalho acionáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Pasta de Trabalho com Macros**
+  Converte o conteúdo do documento em planilhas que suportam comportamento automatizado avançado.
+
+* **Processamento Dinâmico de Dados**
+  Suporta fluxos de trabalho onde a lógica da planilha e o conteúdo estruturado precisam trabalhar juntos.
+
+* **Ativos Operacionais Reutilizáveis**
+  Ajuda a transformar documentos em planilhas adequadas para processos de negócios recorrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Pastas de Trabalho Avançadas**
+  Produz arquivos XLSM a partir de entradas DOCM para fluxos de trabalho de planilhas orientados por lógica.
+
+* **Preservação de Processos Incorporados**
+  Suporta a manutenção da capacidade de automação em resultados baseados em planilhas.
+
+* **Pipelines Escaláveis de Relatórios e Cálculos**
+  Permite a transformação em grande volume de documentos em pastas de trabalho com macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

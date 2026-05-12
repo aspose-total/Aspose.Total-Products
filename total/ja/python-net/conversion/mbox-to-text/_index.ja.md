@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から TEXT への変換は、メールボックスアーカイブをプレーンテキストファイルに変換し、メールコンテンツを軽量で検索可能、かつ多くのシステムで処理しやすくします。これは、生のコンテンツ抽出、インデックス作成、またはシンプルな長期保存に焦点を当てたワークフローに最適です。
+
+Python API を使用することで、組織は MBOX ファイルからのテキスト変換を自動化し、分析、検索パイプライン、そして大規模なコンテンツ正規化プロセスを支援できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレーンコンテンツ抽出**
+  メールをテキストファイルに変換し、シンプルな閲覧や下流処理に利用します。
+
+* **検索およびインデックス準備**
+  メールボックスデータをインデックス作成、パース、テキスト分析ワークフロー向けに準備します。
+
+* **軽量アーカイブ**
+  メッセージコンテンツを最小限の形式で保存し、保管や転送が容易です。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テキスト正規化**
+  メールボックスアーカイブをプレーンテキストに変換し、一貫したデータ処理を実現します。
+
+* **検索パイプライン統合**
+  変換されたテキストファイルをインデックス作成、検索、または分類システムに供給します。
+
+* **大量コンテンツ抽出**
+  Python を使用して大規模な MBOX コレクションを構造化テキスト出力に処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

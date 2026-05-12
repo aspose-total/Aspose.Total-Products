@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PPSX en XLTX transforme le contenu d'une présentation en un format de modèle de feuille de calcul conçu pour une génération de classeurs cohérente, réutilisable et structurée. Cette conversion est précieuse lorsque les informations issues d'une présentation doivent être transformées en modèles de feuilles de calcul standard pour une utilisation répétée en entreprise ou à des fins d'analyse.
+
+Dans les environnements automatisés, la conversion de PPSX en XLTX prend en charge les flux de travail de feuilles de calcul basés sur des modèles, améliore la cohérence et permet une préparation évolutive des classeurs grâce aux API Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles de feuilles de calcul réutilisables**  
+  Convertit le contenu des diapositives en modèles pour la création répétée de feuilles de calcul.
+
+* **Structure de classeur standardisée**  
+  Aide à maintenir une mise en page et une organisation cohérentes dans les fichiers générés.
+
+* **Réutilisation des données de présentation**  
+  Rend le contenu extrait disponible pour des tâches récurrentes basées sur des feuilles de calcul.
+
+* **Configuration efficace des feuilles de calcul**  
+  Réduit l'effort manuel lors de la création de sorties de classeurs structurés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de classeur basée sur des modèles**  
+  Les API Python peuvent convertir les fichiers PPSX en modèles XLTX pour une utilisation récurrente.
+
+* **Sortie multi-fichiers cohérente**  
+  L'automatisation aide à créer des modèles de feuilles de calcul standardisés à partir de nombreuses présentations.
+
+* **Cadres de reporting évolutifs**  
+  Les modèles convertis peuvent prendre en charge des flux de travail de reporting et d'analyse répétés.
+
+* **Préparation programmatique de feuilles de calcul**  
+  Le contenu de la présentation peut être transformé automatiquement en modèles de classeurs réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

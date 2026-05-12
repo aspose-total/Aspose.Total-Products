@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MOBI vers TSV en Python transforme le contenu d’un ebook en une structure à séparateur de tabulation simple, compacte et bien adaptée au traitement automatisé. Ce format est précieux lorsque le contenu doit être échangé proprement entre des systèmes qui attendent du texte structuré avec un minimum de surcharge de formatage.
+
+Dans les flux de travail automatisés, la sortie TSV aide à rationaliser les tâches d’ingestion, d’analyse et de transformation en masse. Convertir MOBI en TSV prend en charge des pipelines évolutifs où la rapidité, la portabilité et la manipulation simple des données sont importantes pour l’intégration et l’efficacité opérationnelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de texte structuré**
+  Convertir le contenu MOBI en TSV pour une analyse simple et un stockage structuré léger.
+
+* **Transfert de données adapté aux pipelines**
+  Utiliser le TSV lors du transfert d’informations extraites vers des scripts, des outils d’importation ou des moteurs de traitement.
+
+* **Gestion de contenu à grande échelle**
+  Produire des sorties compactes qui fonctionnent bien pour le traitement par lots et les flux de travail de transformation en masse.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Préparation du pipeline d’ingestion**
+  Convertir automatiquement les fichiers MOBI en TSV avant de charger les données dans les systèmes de traitement internes.
+
+* **Automatisation de l’analyse en masse**
+  Alimenter les sorties TSV dans des scripts planifiés pour des tâches de validation, d’enrichissement ou de transformation.
+
+* **Échange de données à faible surcharge**
+  Utiliser l’automatisation Python pour générer des sorties tabulaires propres pour des intégrations en aval légères.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da Excel a OTT in Python converte il contenuto dei fogli di calcolo in modelli di testo Open Document che possono essere riutilizzati per una generazione coerente di documenti. È utile quando sono necessari dati di foglio di calcolo strutturati come base per modelli standardizzati in formato aperto.
+
+Questa conversione rafforza l'automazione consentendo flussi di lavoro orientati ai modelli che trasformano i dati dei fogli di calcolo in risorse riutilizzabili per processi di documentazione ripetibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli Aperti**  
+  Converti i dati di Excel in file OTT per modelli di documenti di testo riutilizzabili.
+
+* **Flussi di Lavoro Aperti Standardizzati**  
+  Crea risorse modello che supportano una documentazione coerente tra team e sistemi.
+
+* **Preparazione del Framework Documentale**  
+  Crea punti di partenza strutturati per documenti ricorrenti in formato aperto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Generazione Automatizzata di Modelli**  
+  Utilizza le API Python per produrre modelli OTT direttamente dalle fonti Excel.
+
+* **Flussi di Lavoro Documentali Ripetibili**  
+  Inserisci i modelli convertiti nei sistemi che creano documenti su larga scala.
+
+* **Integrazione di Standard Aperto**  
+  Supporta ambienti di automazione che si basano su formati di modello aperti per portabilità e riutilizzo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

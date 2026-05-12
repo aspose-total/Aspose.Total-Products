@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers TSV transforme le contenu structuré des documents en fichiers texte à valeurs séparées par des tabulations, simples, portables et faciles à intégrer dans les flux de données. Elle est précieuse lorsqu’une séparation nette des colonnes est requise sans le formatage propre aux feuilles de calcul.
+
+Les API Python rendent la conversion WordML vers TSV efficace en extrayant les structures de tableau et en les convertissant en sorties légères, adaptées à l’automatisation, pour le traitement et l’échange de données.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Exportation de données délimitées**
+  Convertit les tables WordML en fichiers TSV pour un échange de données textuel propre.
+
+* **Sortie adaptée aux pipelines**
+  Produit des fichiers structurés simples adaptés aux tâches d’analyse et de validation.
+
+* **Extraction de tables de documents**
+  Facilite le traitement programmatique du contenu tabulaire des documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Conversion de tables en lot**
+  Convertit automatiquement les tables de documents en fichiers TSV pour les flux de travail en aval.
+
+* **Support des flux de travail ETL**
+  Alimente les sorties TSV dans les pipelines d’ingestion, de mappage et de transformation.
+
+* **Jobs de synchronisation de données**
+  Permet l’exportation répétable des données de documents mises à jour vers des fichiers structurés basés sur du texte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

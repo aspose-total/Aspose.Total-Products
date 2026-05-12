@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から XLTM への変換は、マクロ対応の Word テンプレートをマクロ対応の Excel テンプレートファイルに変換し、再利用可能で自動化に適したスプレッドシートワークフローを実現します。これは、文書ベースのソースから生成される繰り返し使用されるスプレッドシートテンプレートに高度な機能が必要な場合に有用です。
+
+DOTM から XLTM への変換に Python API を使用すると、構造化された文書テンプレートを高度なスプレッドシート動作を備えた再利用可能なブックテンプレートに変換することで、スケーラブルな自動化をサポートします。これにより、操作の標準化と繰り返し行われるスプレッドシート生成の効率化が促進されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スプレッドシートテンプレート**
+  DOTM ファイルを XLTM に変換し、拡張機能を備えた再利用可能なワークブックテンプレートを作成します。
+
+* **繰り返し可能な高度なワークブック設計**
+  文書構造を再利用し、繰り返しの操作に適したスプレッドシートテンプレートに変換します。
+
+* **標準化された自動化資産**
+  承認された文書テンプレートから一貫した再利用可能なワークブックの基盤を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された高度なテンプレート生成**
+  ワークフローは DOTM テンプレートから XLTM ファイルを生成し、繰り返しのスプレッドシート作成を実現します。
+
+* **再利用可能なスプレッドシート自動化パイプライン**
+  この変換は、文書から高度なワークブックテンプレートをスケーラブルに生成することをサポートします。
+
+* **バッチテンプレート生成**
+  プログラムによる処理により、多数の DOTM ファイルを XLTM 出力に効率的に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

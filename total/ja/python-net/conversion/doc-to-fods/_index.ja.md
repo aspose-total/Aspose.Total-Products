@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DocumentからFODSへの変換は、WordコンテンツをフラットなXML OpenDocumentスプレッドシート形式に変換し、オープンなワークフロー、相互運用性、透明なデータ保存に適しています。XMLベースのスプレッドシート交換を重視する組織に有用です。
+
+DOCからFODSへの変換のためのPython API自動化は、スケーラブルなオープンフォーマットパイプラインをサポートし、手動処理への依存を減らし、文書を構造化データエコシステムに統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **オープン スプレッドシート ワークフロー**
+  標準ベースのスプレッドシート処理のために、文書コンテンツをFODSに変換します。
+
+* **XMLベースのデータ交換**
+  抽出されたテーブルを読みやすいフラットXMLスプレッドシート構造で保持します。
+
+* **相互運用可能なレポーティング**
+  オープンフォーマットが好まれる環境で、文書からスプレッドシートへの変換をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンフォーマット自動化**
+  相互運用可能なデータワークフローのために、DOCファイルを自動的にFODSに変換します。
+
+* **スキーマフレンドリーなエクスポート**
+  プログラムによる変換を使用して、文書コンテンツからフラットXMLスプレッドシートを生成します。
+
+* **バッチレポートパイプライン**
+  定期的な文書レポートをFODSに変換し、統合と保存の自動化を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

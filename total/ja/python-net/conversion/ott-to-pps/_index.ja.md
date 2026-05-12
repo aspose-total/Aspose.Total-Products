@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から PPS への変換は、OpenDocument のテキストテンプレートを直接表示・配信用に設計されたプレゼンテーションショーファイルに変換します。これは、標準的な編集可能なプレゼンテーションではなく、すぐに実行できるスライドショーとしてコンテンツを共有する必要がある場合に有用です。
+
+この変換は、即時再生と一貫したフォーマットが重要なキオスク、ブリーフィング、配布シナリオ向けに、文書駆動型のプレゼンテーションショー作成を可能にすることで、オートメーションをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スライドショー配信**  
+  テキストテンプレートからショー用に準備されたプレゼンテーションファイルを生成します。
+
+* **制御されたプレゼンテーション出力**  
+  完全な編集ワークフローではなく、直接再生をサポートします。
+
+* **ビジュアルコミュニケーションのパッケージ化**  
+  文書コンテンツをプレゼンテーションショー用の資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー公開**  
+  定期的なプレゼンテーションや告知用に PPS ファイルを生成します。
+
+* **ディスプレイワークフロー統合**  
+  無人または直接起動型のプレゼンテーション環境をサポートします。
+
+* **大量ブリーフィング作成**  
+  複数の OTT ファイルを効率的にショー用出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

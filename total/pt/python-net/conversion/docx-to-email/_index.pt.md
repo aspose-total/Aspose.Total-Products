@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCX para Email transforma o conteúdo de documentos em um formato pronto para email que pode ser incorporado em mensagens de email ou em sistemas de comunicação baseados em email. Esse processo permite que texto, formatação e informações estruturadas de arquivos DOCX sejam integrados aos fluxos de trabalho de email.
+
+Usando APIs Python, a conversão de DOCX‑para‑Email pode ser automatizada em plataformas de comunicação, sistemas de distribuição de documentos e serviços de notificação automatizados. Isso possibilita a entrega dinâmica de documentos por canais de email sem formatação ou cópia manual.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Geração de Email Baseada em Documento**  
+  Converte documentos DOCX em conteúdo adequado para mensagens de email automatizadas.
+
+* **Distribuição Automatizada de Relatórios**  
+  Permite que relatórios criados em formato DOCX sejam distribuídos por fluxos de trabalho de email.
+
+* **Criação de Email Baseada em Modelo**  
+  Permite que modelos de documentos sejam convertidos em conteúdo de email formatado.
+
+* **Reuso de Conteúdo em Sistemas de Comunicação**  
+  Facilita o reuso do conteúdo de documentos em pipelines de comunicação de email automatizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Sistemas Automatizados de Notificação por Email**  
+  Arquivos DOCX podem ser convertidos automaticamente em conteúdo de email e enviados aos destinatários programaticamente.
+
+* **Automação de Fluxo de Trabalho Documento‑para‑Email**  
+  Pipelines de automação em Python podem transformar documentos gerados em formatos prontos para email.
+
+* **Plataformas Dinâmicas de Entrega de Conteúdo**  
+  Sistemas podem converter documentos DOCX em mensagens de email para processos de comunicação automatizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a SXC trasforma il contenuto di OpenDocument Text in un formato orientato ai fogli di calcolo, utilizzato per la gestione di dati strutturati. È utile quando tabelle, elenchi o record basati su documenti devono essere riadattati in layout basati su celle per la revisione e l'elaborazione.
+
+Negli ambienti di automazione, la conversione da ODT a SXC supporta l'estrazione di dati da documenti, l'interoperabilità con fogli di calcolo legacy e la strutturazione scalabile dei contenuti. Le API Python aiutano ad automatizzare queste trasformazioni in modo affidabile su più file.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione di dati orientata ai fogli di calcolo**  
+  Converte il contenuto strutturato del documento in layout basati su celle.
+
+* **Supporto a formati legacy**  
+  Aiuta a mantenere la compatibilità con flussi di lavoro di fogli di calcolo più vecchi.
+
+* **Migrazione di tabelle e record**  
+  Sposta le informazioni del documento in una struttura più analizzabile.
+
+* **Riutilizzo operativo dei dati**  
+  Rende il contenuto estratto più facile da revisionare e processare.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di conversione di fogli di calcolo legacy**  
+  L'automazione Python può trasformare le tabelle ODT in output SXC automaticamente.
+
+* **Estrazione batch di record**  
+  Più documenti possono essere elaborati in formati di foglio di calcolo su larga scala.
+
+* **Validazione ed esportazione dei dati**  
+  Il contenuto estratto può essere normalizzato prima della conversione in SXC.
+
+* **Supporto all'interoperabilità dei workflow**  
+  Gli output convertiti possono alimentare sistemi che dipendono ancora da strutture di fogli di calcolo più vecchie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における EPUB から MBOX への変換は、デジタル出版コンテンツをメッセージのコレクションを保存するために使用されるメールボックス形式のアーカイブに変換することを可能にします。これは、組織が変換されたコンテンツをアーカイブ、移行、またはコミュニケーション指向のストレージワークフローのためにグループ化する必要がある場合に有用です。
+
+自動化主導の操作において、EPUB から MBOX への変換は、複数のコンテンツ項目を構造化されたメールアーカイブにパッケージ化する効率的な方法を提供し、Python アプリケーションがスケーラブルな文書保存および転送プロセスにおいてより効果的になるよう支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールボックスアーカイブ作成**  
+  EPUB コンテンツを MBOX 形式に変換し、メールアーカイブシステムやリポジトリに保存します。
+
+* **大量コンテンツのパッケージ化**  
+  出版物由来のコンテンツを統合されたアーカイブ構造にまとめ、管理を容易にします。
+
+* **移行サポート**  
+  メールボックス形式のアーカイブデータを受け入れるシステムへコンテンツを移行する際に MBOX 出力を使用します。
+
+* **保持ワークフローの有効化**  
+  監査や参照目的で、アーカイブに適したメッセージコレクションに変換された出版コンテンツを保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **アーカイブ生成パイプライン**  
+  Python アプリケーションは、取り込みワークフロー中に EPUB ソースから自動的に MBOX ファイルを生成できます。
+
+* **バッチ変換プロセス**  
+  自動化ジョブは、多数の EPUB ドキュメントを一貫したフォーマットでメールボックスアーカイブに変換できます。
+
+* **リポジトリ同期**  
+  変換は、ドキュメントストアとアーカイブプラットフォーム間のコンテンツ同期の一部としてトリガーできます。
+
+* **スケーラブルな保存タスク**  
+  プログラムによる処理は、繰り返しの手作業介入なしに大量のアーカイブ操作をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

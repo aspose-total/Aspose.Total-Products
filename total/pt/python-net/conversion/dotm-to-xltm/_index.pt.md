@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTM para XLTM converte modelos de Word com macros em arquivos de modelo do Excel com macros, para fluxos de trabalho de planilhas reutilizáveis e amigáveis à automação. Isso é valioso quando modelos de planilhas recorrentes precisam de recursos avançados enquanto são gerados a partir de fontes baseadas em documentos.
+
+Usar APIs Python para a conversão de DOTM para XLTM suporta automação escalável ao transformar modelos de documentos estruturados em modelos de pastas de trabalho reutilizáveis com comportamento avançado de planilhas. Isso ajuda a padronizar operações e simplificar a geração repetida de planilhas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Modelos de Planilha com Macros**
+  Converta arquivos DOTM em XLTM para modelos de pastas de trabalho reutilizáveis com funcionalidade avançada.
+
+* **Design Avançado de Pastas de Trabalho Repetível**
+  Reaproveite a estrutura de documentos em modelos de planilhas adequados para operações recorrentes.
+
+* **Ativos de Automação Padronizados**
+  Crie bases de pastas de trabalho reutilizáveis e consistentes a partir de modelos de documentos aprovados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelos Avançados**
+  Fluxos de trabalho podem produzir arquivos XLTM a partir de modelos DOTM para criação repetida de planilhas.
+
+* **Pipelines de Automação de Planilhas Reutilizáveis**
+  A conversão suporta geração escalável de modelos avançados de pastas de trabalho a partir de documentos.
+
+* **Produção em Lote de Modelos**
+  O processamento programático permite a transformação eficiente de muitos arquivos DOTM em saídas XLTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

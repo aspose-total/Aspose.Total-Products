@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 WORDML로의 변환은 스프레드시트 파일을 구조화된 문서 표현에 사용되는 XML 기반 문서 형식인 WordprocessingML로 변환합니다. 이를 통해 스프레드시트 데이터를 기계가 읽을 수 있는 문서 구조로 표현할 수 있습니다.
+
+Python API를 사용하면 스프레드시트 입력으로부터 WordprocessingML 문서를 자동으로 생성할 수 있습니다. 이는 확장 가능한 문서 처리, 데이터 변환 파이프라인 및 구조화된 문서 워크플로와의 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 문서 생성**  
+  스프레드시트 데이터를 XML 기반 문서 구조로 변환합니다.
+
+* **데이터 상호 운용성**  
+  스프레드시트에서 파생된 기계 판독 가능한 문서 형식을 가능하게 합니다.
+
+* **문서 처리 파이프라인**  
+  스프레드시트 콘텐츠를 XML 기반 문서 워크플로에 통합합니다.
+
+* **콘텐츠 변환**  
+  표 형식 스프레드시트 정보를 구조화된 문서 데이터로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **프로그래밍 방식 문서 생성**  
+  Python 시스템이 스프레드시트 입력으로부터 직접 구조화된 문서를 생성합니다.
+
+* **배치 XML 문서 변환**  
+  자동화된 파이프라인이 대량의 스프레드시트를 WordprocessingML로 변환합니다.
+
+* **데이터 통합 워크플로**  
+  스프레드시트에서 생성된 구조화된 문서가 엔터프라이즈 시스템과 통합됩니다.
+
+* **동적 콘텐츠 변환**  
+  프로그래밍 파이프라인이 스프레드시트 데이터셋을 XML 기반 문서 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

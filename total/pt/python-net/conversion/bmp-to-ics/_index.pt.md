@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de BMP para ICS permite que imagens bitmap sejam incorporadas em arquivos de eventos de calendário usando o formato ICS. Essa abordagem permite que materiais visuais, como cronogramas, banners de eventos ou diagramas, acompanhem as entradas do calendário.
+
+Em sistemas automatizados, converter arquivos BMP em eventos ICS ajuda a integrar informações visuais com fluxos de trabalho de agendamento. Isso suporta a distribuição automática de eventos, lembretes e colaboração entre plataformas de calendário.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Distribuição de Anúncio de Evento**  
+  Convites de calendário podem incluir imagens BMP, como cartazes ou diagramas de eventos.
+
+* **Documentação Visual de Agendamento**  
+  Organizações podem anexar referências visuais a eventos agendados.
+
+* **Comunicação Baseada em Calendário**  
+  Equipes podem distribuir gráficos relacionados a eventos dentro das entradas do calendário.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Eventos de Calendário**  
+  Sistemas geram arquivos ICS com visuais BMP incorporados para agendamento automatizado.
+
+* **Notificações de Evento Baseadas em Fluxo de Trabalho**  
+  Pipelines automatizados convertem materiais baseados em imagens em eventos de calendário.
+
+* **Convites de Reunião Programáticos**  
+  Aplicações criam dinamicamente convites ICS contendo referências visuais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

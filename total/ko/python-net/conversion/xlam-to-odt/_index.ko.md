@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLAM에서 ODT로의 변환은 Python API를 사용하여 Excel 추가 기능 콘텐츠를 개방형 문서 텍스트 형식으로 변환함으로써 더 넓은 상호 운용성과 장기 접근성을 가능하게 합니다. 이는 조직이 개방형 표준에 맞추고 크로스 플랫폼 문서 워크플로를 지원하는 편집 가능한 텍스트 문서가 필요할 때 도움이 됩니다.
+
+자동화 및 통합 사용 사례의 경우, XLAM에서 ODT로의 변환은 스프레드시트 기반 시스템과 개방형 문서 생태계 간의 마찰을 줄여줍니다. 이는 확장 가능한 문서 생성을 지원하고, 데이터‑문서 변환을 단순화하며, 다양한 소프트웨어 환경 전반에 걸친 호환성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **개방형 표준 문서 생성**  
+  XLAM 콘텐츠를 ODT 파일로 변환하여 상호 운용 가능하고 편집 가능한 텍스트 기반 워크플로를 지원합니다.
+
+* **크로스 플랫폼 협업**  
+  다양한 오피스 환경을 사용하고 개방형 문서 호환성이 필요한 팀을 지원합니다.
+
+* **보관 친화적 문서화**  
+  개방형 및 휴대 가능한 표준에 맞춘 접근 가능한 문서 출력을 만드는 데 도움이 됩니다.
+
+* **구조화된 콘텐츠 공유**  
+  스프레드시트에서 파생된 콘텐츠를 유연한 문서 생태계에서 더 쉽게 배포할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **개방형 문서 퍼블리싱 파이프라인**  
+  Python API는 XLAM 입력으로부터 ODT 파일을 자동으로 생성하여 표준화된 배포를 가능하게 합니다.
+
+* **시스템 간 워크플로 자동화**  
+  변환된 ODT 문서는 최소한의 호환성 문제로 다양한 도구와 플랫폼을 통해 이동할 수 있습니다.
+
+* **확장 가능한 문서화 서비스**  
+  자동화 시스템은 대량의 스프레드시트 기반 콘텐츠를 개방형 텍스트 문서로 처리할 수 있습니다.
+
+* **데이터‑문서 변환**  
+  프로그래밍 워크플로는 구조화된 추가 기능 콘텐츠를 보고서 또는 기록을 위한 휴대 가능한 ODT 출력으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

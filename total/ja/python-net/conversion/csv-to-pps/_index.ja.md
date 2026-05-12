@@ -64,7 +64,46 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で PPS に変換すると、構造化された表形式データを直接閲覧やプレゼンテーション配信が可能なスライドショーファイルに変換できます。  
+この変換は、CSV データセットからスリム化されたスライドショー出力を生成することで自動化を支援し、準備時間を短縮し、プレゼンテーションワークフローの一貫性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **すぐに実行できるスライドショー**  
+  CSV データを PPS ファイルに変換し、手動でスライドを設定することなく即座にプレゼンテーションを再生できます。
+
+* **シンプルなプレゼンテーション配信**  
+  構造化データからスライドショー出力を生成し、ブリーフィング、レビュー、情報共有に活用できます。
+
+* **データ駆動型スライド配布**  
+  CSV 入力を PPS ファイルに変換し、情報をプレゼンテーション対応形式でパッケージ化します。
+
+* **レガシースライドショー互換性**  
+  従来のスライドショーファイル形式に依存するシステムやワークフロー向けに PPS 出力を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー作成**  
+  Python API を使用して CSV データセットを PPS ファイルに変換し、定期的またはトリガーされたプレゼンテーションワークフローを実現します。
+
+* **運用プレゼンテーションパイプライン**  
+  CSV から PPS への変換をシステムに組み込み、ビュー可能なスライド出力を自動的に生成します。
+
+* **大量スライドショーエクスポート**  
+  複数の CSV ファイルをスケールで PPS プレゼンテーションに変換し、時間に敏感なコミュニケーションを支援します。
+
+* **プログラム的プレゼンテーションパッケージ化**  
+  CSV 主導のコンテンツからスライドショーファイルを動的に構築し、効率的な自動配信を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

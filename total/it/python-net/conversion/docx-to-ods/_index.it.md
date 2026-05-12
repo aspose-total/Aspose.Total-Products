@@ -65,7 +65,44 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCX a ODS trasforma i documenti di elaborazione testi in file OpenDocument Spreadsheet, consentendo di riutilizzare contenuti strutturati o tabellari nei flussi di lavoro dei fogli di calcolo. Questa conversione supporta l'estrazione dei dati e l'interoperabilità con i sistemi di office open.
+
+Utilizzando le API Python, la conversione da DOCX a ODS può essere integrata in pipeline di reporting automatizzato, analisi e trasformazione dei documenti. Aiuta le organizzazioni a spostare i dati strutturati dai documenti narrativi nei processi basati su fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di Foglio di Calcolo Aperto**  
+  Converte il contenuto DOCX strutturato in file di foglio di calcolo basati su standard aperti.
+
+* **Estrazione di Dati Tabellari**  
+  Consente di riutilizzare tabelle di documenti e contenuti organizzati per l'analisi.
+
+* **Interoperabilità dei Dati Multi-Piattaforma**  
+  Supporta la compatibilità con suite office che utilizzano formati di foglio di calcolo aperti.
+
+* **Flussi di Lavoro Documento‑a‑Dato**  
+  Facilita il trasferimento di informazioni strutturate nei sistemi di fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Pipeline di Estrazione Dati Automatizzata**  
+  I file DOCX possono essere convertiti in fogli ODS per flussi di lavoro di analisi a valle.
+
+* **Generazione Batch di Fogli di Calcolo Aperto**  
+  Gli script Python possono elaborare più documenti ed esportare file di foglio di calcolo in modo programmatico.
+
+* **Sistemi di Reporting Interoperabili**  
+  I flussi di lavoro aziendali possono trasformare il contenuto dei documenti in formato ODS per una maggiore accessibilità.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

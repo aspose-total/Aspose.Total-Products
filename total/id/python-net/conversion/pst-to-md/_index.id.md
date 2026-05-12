@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi PST ke MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi PST ke MD dalam API Python mengubah konten kotak surat menjadi Markdown, memudahkan pengarsipan komunikasi untuk disusun, dipublikasikan, dan digunakan kembali dalam alur kerja berbasis teks. Ini berguna ketika catatan email perlu diubah menjadi konten ringan dan dapat dibaca untuk dokumentasi atau berbagi pengetahuan.
+
+Dalam skenario otomatisasi, konversi PST ke MD mendukung pipeline konten, repositori yang ramah pengembang, dan sistem penerbitan statis. Ini membantu data kotak surat menjadi lebih mudah untuk versi, transformasi, dan integrasi dengan operasi konten modern.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Ekspor Konten Ringan**
+  Mengubah konten PST menjadi Markdown untuk alur kerja teks yang dapat dibaca dan dapat dipindahkan.
+
+* **Persiapan Basis Pengetahuan**
+  Membantu mengubah materi yang berasal dari email menjadi dokumentasi terstruktur.
+
+* **Pengarsipan Ramah Versi**
+  Mendukung penyimpanan konten kotak surat dalam format teks yang cocok untuk melacak perubahan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipeline Konten Statis**
+  Sistem otomatis dapat mengubah data kotak surat menjadi Markdown untuk penerbitan atau pengindeksan.
+
+* **Dokumentasi Berbasis Repositori**
+  Konten yang dikonversi dapat mengalir ke lingkungan berbasis teks untuk kolaborasi dan penggunaan kembali.
+
+* **Transformasi Konten Programatik**
+  Output Markdown memudahkan pemrosesan, pembuatan templat, dan distribusi email yang diarsipkan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

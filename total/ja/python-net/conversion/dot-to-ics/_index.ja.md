@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から ICS への変換は、ドキュメントテンプレートをスケジュールやイベントの交換に使用できるカレンダー互換データに変換します。テンプレートの内容に日付に基づく情報が含まれ、カレンダーのワークフローを通じて共有する必要がある場合に重要です。
+
+Python API を使用すれば、DOT から ICS への変換を自動化でき、イベント生成、予約配布、スケジューリングシステムとの統合を信頼性が高く繰り返し可能な方法でサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **テンプレートからのイベント作成**
+  DOT ベースのスケジュール情報をカレンダーで使用できる ICS ファイルに変換します。
+
+* **会議とタイムラインの配布**
+  ドキュメント由来の日付とイベントを標準的なスケジューリング形式で共有します。
+
+* **ワークフロー スケジューリング統合**
+  構造化されたテンプレート内容を運用計画用のカレンダーアーティファクトに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダー生成**
+  Python スクリプトは、日付指向の DOT テンプレートを配布用の ICS ファイルに変換できます。
+
+* **スケジューリング パイプラインのサポート**
+  変換により、システムはドキュメントで定義されたイベントをカレンダーのワークフローにプッシュできます。
+
+* **バッチイベント公開**
+  プログラムによる処理により、複数のテンプレートから大量の ICS ファイルを作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

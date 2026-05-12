@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to VCF 変換は、Word 文書に保存された連絡先情報を、アドレス帳や連絡先システム向けの標準化された vCard 形式に変換します。名刺、ディレクトリ、または連絡先リストを文書からデジタルの連絡先ワークフローへ移行する必要がある場合に有用です。
+
+Python API を使用した DOC から VCF への変換は、精度を向上させ、手動での連絡先入力を削減し、文書ソースと連絡先管理システム間のスケーラブルな同期をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **連絡先データ抽出**
+  文書から連絡先詳細を vCard ファイルに変換し、再利用します。
+
+* **アドレス帳インポート**
+  文書ベースの連絡先情報を直接連絡先システムにインポートできるよう準備します。
+
+* **ディレクトリの近代化**
+  静的な連絡先リストを携帯可能なデジタル連絡先レコードに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先生成**
+  DOC ディレクトリ、リスト、またはフォームからプログラム的に VCF ファイルを作成します。
+
+* **CRM および連絡先同期サポート**
+  抽出された文書の連絡先を連絡先管理ワークフローにルーティングします。
+
+* **バッチ連絡先処理**
+  多数の連絡先志向文書をスケールで再利用可能な vCard 資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

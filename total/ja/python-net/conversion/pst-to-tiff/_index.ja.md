@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における PST から TIFF への変換は、メールボックスのコンテンツをアーカイブやスキャン指向のワークフローで一般的に使用される高品質な画像フォーマットに変換します。メール記録を長期保存や厳密なレビューに適した詳細なビジュアルファイルとして保存する必要がある場合に有用です。
+
+自動化シナリオでは、PST から TIFF への変換は文書イメージングシステム、コンプライアンスアーカイブ、構造化されたビジュアル記録管理をサポートします。組織がメールボックスデータから大規模に耐久性のある画像出力を生成するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **アーカイブ品質イメージング**
+  PST コンテンツを TIFF に変換し、耐久性と詳細なビジュアル保存を実現します。
+
+* **文書イメージングワークフロー**
+  メールボックスレコードをスキャンおよびアーカイブシステムと統合するのに役立ちます。
+
+* **コンプライアンス記録保存**
+  画像中心の環境で通信データの固定ビジュアル保持をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化イメージングパイプライン**
+  システムは PST アーカイブから TIFF ファイルを生成し、アーカイブリポジトリに保存できます。
+
+* **高忠実度ビジュアル保存**
+  TIFF 出力は、安定かつ詳細な画像記録を必要とするワークフローをサポートします。
+
+* **スケーラブルなアーカイブ処理**
+  プログラムによる変換は、大量のメールボックスイメージングタスクの管理に役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

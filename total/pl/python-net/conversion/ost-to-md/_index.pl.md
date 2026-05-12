@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OST do MD w apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST to MD conversion przekształca dane skrzynki pocztowej w format Markdown, tworząc lekki, czytelny i przenośny tekst odpowiedni do dokumentacji i przepływów pracy związanych z wiedzą. Jest cenna dla zespołów, które chcą mieć treści pochodzące z e‑maili w ustrukturyzowanym formacie tekstowym, działającym dobrze na różnych platformach.
+
+Korzyści z automatyzacji są znaczące, ponieważ konwersja OST do MD naturalnie wpisuje się w potoki treści, przepływy pracy deweloperów i systemy dokumentacji. API w Pythonie umożliwiają szybkie, skalowalne przekształcanie archiwów skrzynek pocztowych w pliki Markdown do indeksowania, publikacji i ponownego użycia.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Lekką dokumentację**  
+  Konwertuje treść e‑maili do Markdown, tworząc proste, ustrukturyzowane zapisy tekstowe.
+
+* **Przygotowanie bazy wiedzy**  
+  Umożliwia ponowne wykorzystanie ważnych informacji ze skrzynki pocztowej w wewnętrznych systemach dokumentacji.
+
+* **Eksport treści przyjazny deweloperom**  
+  Wspiera przepływy pracy, w których preferowane są przenośne formaty tekstowe.
+
+* **Rekordy kontrolowane wersjami**  
+  Ułatwia śledzenie i zarządzanie treściami pochodzącymi z e‑maili w środowiskach zorientowanych na tekst.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja potoku dokumentacji**  
+  Skrypty Pythona konwertują zawartość OST do Markdown w celu publikacji i indeksowania.
+
+* **Przepływy ekstrakcji treści**  
+  Zautomatyzowane systemy przygotowują tekst ze skrzynki pocztowej do przeszukiwalnych repozytoriów i ustrukturyzowanych notatek.
+
+* **Generowanie przenośnych archiwów**  
+  Programowa konwersja tworzy wielokrotnego użytku zasoby tekstowe z przechowywanych danych e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

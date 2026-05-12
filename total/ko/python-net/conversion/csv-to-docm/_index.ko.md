@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV to DOCM 변환을 Python API로 수행하면 구조화된 표형 데이터를 매크로가 포함된 워드 프로세싱 문서로 변환할 수 있으며, 이는 고급 서식 및 내장 자동화 동작을 지원합니다.  
+이 변환은 데이터 변환과 문서 로직을 결합하여 자동화 시스템에 가치를 제공하므로, 수동 편집을 줄이고 프로세스 일관성을 높여 워크플로우를 확장하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 보고**  
+  CSV 데이터를 DOCM 파일로 변환하여 생성된 문서에 매크로 자동화 기능이나 스크립트 동작을 포함해야 할 때 사용합니다.
+
+* **프로세스 중심 문서화**  
+  구조화된 콘텐츠와 반복 가능한 문서 측면 동작을 결합한 DOCM 문서를 생성합니다.
+
+* **운영 데이터 패키징**  
+  CSV 데이터 세트를 제어된 비즈니스 워크플로우 및 내부 처리에 적합한 매크로 포함 파일로 변환합니다.
+
+* **재사용 가능한 자동화 문서**  
+  표준화된 문서 루틴에 의존하는 팀을 위해 구조화된 입력으로부터 반복 가능한 DOCM 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 양식 채우기**  
+  Python API를 사용해 CSV 데이터를 DOCM 파일로 변환하고, 사전 구축된 문서 동작 및 재사용 가능한 로직을 지원합니다.
+
+* **워크플로우 통합 문서 생성**  
+  엔터프라이즈 작업, 보고 시스템 또는 문서 관리 프로세스의 일부로 DOCM 출력을 자동으로 생성합니다.
+
+* **배치 매크로 문서 생성**  
+  대량의 CSV 파일을 DOCM 형식으로 변환하여 확장 가능하고 일관된 자동 전달을 구현합니다.
+
+* **규칙 기반 콘텐츠 조립**  
+  CSV 입력으로부터 DOCM 문서를 동적으로 구축하면서, 다운스트림 작업을 위한 자동화 준비 구조를 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

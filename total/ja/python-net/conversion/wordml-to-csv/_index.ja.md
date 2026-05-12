@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から CSV への変換は、構造化された WordprocessingML コンテンツを、分析、インポート、レポートやデータパイプライン全体での処理が容易なプレーンな区切り文字ベースのデータファイルに変換します。文書ベースのテーブルを軽量で機械可読なレコードに変換する必要がある場合に有用です。
+
+WordML から CSV への変換に Python API を使用すると、テーブル抽出の自動化、行と列の正規化、そしてビジネス、アーカイブ、統合環境におけるスケーラブルな文書からデータへのワークフローを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **テーブルデータ抽出**
+  WordML ファイルの表形式コンテンツを CSV 形式に変換し、下流の処理を容易にします。
+
+* **分析用データ準備**
+  文書ベースのデータをレポート、可視化、ビジネスインテリジェンスのワークフローで利用できるようにします。
+
+* **システム相互運用性**
+  文書リポジトリとスプレッドシートやデータベースシステム間のデータ交換を簡素化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ文書解析**
+  複数の WordML ファイルからテーブルを抽出し、標準化された CSV 出力に自動化します。
+
+* **データパイプライン統合**
+  変換された CSV ファイルを ETL、分析、または検証ワークフローに自動的に取り込むことをサポートします。
+
+* **スケジュールされたコンテンツエクスポート**
+  運用レポートや文書主導のデータ更新のために、定期的な変換ジョブを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

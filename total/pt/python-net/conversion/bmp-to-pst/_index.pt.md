@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de BMP para PST permite que o conteúdo de imagens bitmap seja armazenado dentro de arquivos de arquivo de e‑mail PST. Os arquivos PST servem como contêineres para mensagens, anexos e outros dados de caixa de correio.
+
+Fluxos de trabalho automatizados se beneficiam da conversão de BMP para PST ao possibilitar a geração escalável de arquivos de arquivamento de e‑mail que incluem informações visuais. Isso apoia o armazenamento para conformidade, migração de mensagens e estratégias de retenção de e‑mail a longo prazo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Armazenamento de Arquivo de E‑mail**  
+  Imagens BMP podem ser preservadas dentro de arquivos de arquivamento PST.
+
+* **Migração de Dados de Caixa de Correio**  
+  Comunicações visuais podem ser transferidas para arquivos PST durante a migração.
+
+* **Retenção de Mensagens a Longo Prazo**  
+  Organizações podem armazenar comunicações baseadas em imagens para fins de conformidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivos**  
+  Scripts convertem arquivos BMP em registros de mensagens PST durante fluxos de trabalho de arquivamento.
+
+* **Processamento em Massa de Dados de E‑mail**  
+  Sistemas integram automaticamente conteúdo baseado em BMP em arquivos PST.
+
+* **Exportação Programática de Caixa de Correio**  
+  Aplicações criam dinamicamente arquivos PST contendo mensagens visuais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX en XLT transforme le contenu des modèles Word en un format de modèle de feuille de calcul hérité pour la création de classeurs réutilisables. Elle est utile lorsque des structures tabulaires dérivées de documents doivent devenir des bases de feuilles de calcul réutilisables dans des environnements plus anciens.
+
+Cette conversion prend en charge l'automatisation en aidant les API Python à générer des ressources de feuilles de calcul orientées modèle pour des rapports cohérents et des flux de travail opérationnels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles de feuilles de calcul hérités**
+  Convertir le contenu du document en modèles de classeur réutilisables pour les systèmes établis.
+
+* **Fondations de rapports cohérents**
+  Standardiser la génération répétée de feuilles de calcul à partir de structures de documents approuvées.
+
+* **Flux de travail de données basés sur des modèles**
+  Réutiliser le contenu piloté par des modèles dans des fichiers de démarrage de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Sortie de modèle automatisée**
+  Générer des fichiers XLT à partir de modèles DOTX pour une création de feuilles de calcul répétable.
+
+* **Pipelines de reporting standardisés**
+  Utiliser les modèles convertis pour produire des classeurs cohérents entre les équipes.
+
+* **Chaînes de modèles document-vers-classeur**
+  Connecter les documents structurés aux bases de feuilles de calcul réutilisables de manière programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

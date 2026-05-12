@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLS vers RTF rend le contenu des feuilles de calcul disponible dans un format de texte enrichi qui prend en charge une large compatibilité documentaire et une réutilisation éditable basée sur le texte. Cela est utile lorsque les informations d'une feuille de calcul doivent être transférées vers un format de document flexible pour le partage, l'archivage ou une mise en forme supplémentaire.
+
+La conversion XLS vers RTF basée sur l'API Python améliore l'automatisation en permettant la génération cohérente de documents texte à partir de fichiers de feuilles de calcul et en soutenant des flux de travail d'échange de documents légers.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de documents texte enrichi**
+  Convertir le contenu XLS en fichiers RTF pour une utilisation de documents éditables et portables.
+
+* **Partage multiplateforme**
+  Utiliser la sortie RTF lorsque une large compatibilité est requise entre différents environnements documentaires.
+
+* **Transformation de contenu axée sur le texte**
+  Reconditionner les données de la feuille de calcul dans un format adapté à la mise en forme mixte et à la présentation narrative.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération par lots de texte enrichi**
+  Utiliser les API Python pour convertir automatiquement plusieurs fichiers XLS en documents RTF.
+
+* **Pipelines de documents légers**
+  Ajouter la conversion XLS vers RTF aux flux de travail qui mettent l'accent sur la portabilité et la compatibilité.
+
+* **Préparation automatisée d'archivage**
+  Transformer le contenu des feuilles de calcul en documents texte enrichi pour un stockage ou une révision à long terme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

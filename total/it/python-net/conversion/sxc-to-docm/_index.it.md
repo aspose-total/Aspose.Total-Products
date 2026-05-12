@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a DOCM converte contenuti di origine foglio di calcolo in un formato di documento abilitato alle macro, adatto a flussi di lavoro documentali avanzati che richiedono capacità di automazione integrate. Questo è utile quando i dati del foglio di calcolo devono essere trasferiti in documenti che supportano formattazione scriptata, logica o azioni ripetitive.
+
+Utilizzando le API Python, la conversione da SXC a DOCM migliora l'efficienza operativa consentendo la generazione automatizzata di documenti interattivi o pronti per le macro all'interno di flussi di lavoro aziendali strutturati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'Uso Principali" %}}
+
+* **Report Pronti per Macro**  
+  Converte il contenuto del foglio di calcolo in documenti preparati per attività di formattazione o elaborazione basate su macro.
+
+* **Modelli di Documento Riutilizzabili**  
+  Supporta i flussi di lavoro in cui i dati del foglio di calcolo devono popolare documenti progettati per un uso automatizzato ripetuto.
+
+* **Documentazione Operativa**  
+  Aiuta a creare documenti che combinano contenuti importati con logica incorporata per l'esecuzione di processi interni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Popolamento Automatico dei Modelli**  
+  Utilizza le API Python per inserire i dati del foglio di calcolo nei flussi di lavoro di documenti abilitati alle macro con il minimo sforzo manuale.
+
+* **Pipeline di Elaborazione Documenti**  
+  Consente l'automazione end-to-end in cui i file DOCM generati vengono inviati a sistemi di approvazione o trasformazione.
+
+* **Assemblaggio di Contenuti Basato su Regole**  
+  Supporta la creazione dinamica di documenti per scenari che richiedono comportamenti scriptati dopo la conversione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

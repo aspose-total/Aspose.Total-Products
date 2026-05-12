@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 TSV로 변환하면 Word 템플릿 콘텐츠를 탭으로 구분된 값으로 변환하여 구조화된 데이터 공유와 스프레드시트 또는 처리 도구로의 간편한 가져오기를 가능하게 합니다. 표 형식 문서 콘텐츠를 깔끔한 텍스트 기반 형식으로 내보내야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환이 신뢰할 수 있는 텍스트 기반 데이터 교환, 가벼운 처리, 그리고 템플릿 기반 콘텐츠의 대규모 변환을 가능하게 하여 자동화를 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **평문 데이터 내보내기**
+  구조화된 문서 콘텐츠를 가벼운 표 형식으로 변환합니다.
+
+* **스프레드시트 가져오기 워크플로**
+  템플릿에서 파생된 정보를 데이터 도구에 빠르게 로드할 수 있도록 준비합니다.
+
+* **시스템 친화적 데이터 교환**
+  자동화 파이프라인 간에 구조화된 콘텐츠 전송을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 데이터 추출**
+  정기적인 워크플로를 위해 DOTX 템플릿을 TSV 파일로 자동 변환합니다.
+
+* **ETL 준비**
+  TSV 출력을 자동 변환 파이프라인의 입력 계층으로 사용합니다.
+
+* **대용량 텍스트 기반 변환**
+  대량의 템플릿을 압축된 구조화된 출력으로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

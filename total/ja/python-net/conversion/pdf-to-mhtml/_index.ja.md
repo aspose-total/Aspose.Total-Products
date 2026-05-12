@@ -53,7 +53,47 @@ PDF から MHTML (Web アーカイブ形式) への変換機能または HtmlFix
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PDF を Python API で MHTML に変換することで、マークアップと埋め込みリソースを単一ファイルに結合したウェブアーカイブ形式に文書コンテンツを変換できます。これにより、PDF の情報をブラウザ互換環境で保存、表示、配布しやすくなります。
+
+自動化により、静的文書からスケーラブルにポータブルなウェブ対応ファイルを生成できるようになり、この変換の価値が向上します。コンテンツの公開、アーカイブ、自己完結型ウェブ文書出力を必要とするシステムとの統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ウェブアーカイブ作成**  
+  PDF ファイルを MHTML に変換し、ブラウザベースの保存と閲覧を可能にします。
+
+* **ポータブル文書の公開**  
+  自己完結型のウェブフレンドリーな形式で文書コンテンツを共有します。
+
+* **コンテンツの保存**  
+  ウェブワークフローに適したアーカイブで視覚情報とテキスト情報を保持します。
+
+* **システム相互運用性**  
+  文書交換がブラウザ互換標準に合わせる必要がある場合に MHTML 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ウェブ変換パイプライン**  
+  Python スクリプトは、デジタル出版システム向けに PDF を MHTML ファイルに変換できます。
+
+* **アーカイブ配布ワークフロー**  
+  変換された出力は、ウェブアーカイブコンテンツを管理するリポジトリに配信できます。
+
+* **バッチ文書公開**  
+  大量の PDF を手動介入なしでポータブルなウェブファイルに変換できます。
+
+* **動的コンテンツエクスポート**  
+  システムは、共有やレビューのために要求に応じて文書の MHTML バージョンを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

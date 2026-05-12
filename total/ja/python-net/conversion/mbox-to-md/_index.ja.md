@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から MD への変換は、メールボックスアーカイブを Markdown ファイルに変換し、メール内容を軽量なテキストベースのドキュメントシステムで読みやすく、バージョン管理しやすく、再利用しやすくします。この形式は、コンテンツのポータビリティ、開発者のワークフロー、ナレッジマネジメント環境に最適です。
+
+Python API を使用すれば、MBOX から Markdown への変換を自動化でき、スケーラブルなコンテンツ抽出、静的パブリッシング、そして最新のドキュメンテーションパイプラインとの効率的な統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **軽量テキストドキュメンテーション**
+  メールを Markdown に変換し、クリーンで読みやすく、ポータブルなドキュメントを作成します。
+
+* **ナレッジベース統合**
+  メールボックスのコンテンツを wiki、リポジトリ、または静的コンテンツのワークフローで再利用します。
+
+* **バージョンフレンドリーなアーカイブ**
+  変換されたメールコンテンツを、追跡や更新に適した形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **静的コンテンツ生成**
+  メールボックスデータを自動的に Markdown に変換し、公開やインデックス作成に利用します。
+
+* **リポジトリベースのワークフロー**
+  Python を使用してメールアーカイブをテキスト優先のコンテンツ管理システムに移行します。
+
+* **スケーラブルなドキュメンテーションパイプライン**
+  MBOX ファイルをバッチ変換し、再利用可能な構造化 Markdown 資産にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

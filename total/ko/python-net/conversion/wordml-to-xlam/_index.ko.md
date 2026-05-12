@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 XLAM으로의 변환은 문서에서 파생된 구조화된 논리 또는 데이터를 재사용 가능한 기능과 패키징된 리소스가 필요한 애드인 관련 스프레드시트 워크플로로 변환합니다. 이는 모듈식 확장과 반복 가능한 자동화 자산에 의존하는 고급 스프레드시트 생태계에서 가치가 있습니다.
+
+Python API는 자동화 지향 스프레드시트 솔루션 및 확장 가능한 문서 기반 처리를 위해 구조화된 콘텐츠를 준비함으로써 WordML에서 XLAM 관련 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 애드인 준비**
+  문서 콘텐츠를 재사용 가능한 스프레드시트 확장 워크플로의 입력으로 사용합니다.
+
+* **고급 자동화 지원**
+  함수 기반 스프레드시트 환경을 위해 문서에서 파생된 자산을 구조화하는 데 도움을 줍니다.
+
+* **재사용 가능한 로직 패키징**
+  반복되는 콘텐츠를 애드인에 맞춘 리소스로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화 자산 생성**
+  WordML에서 파생된 콘텐츠를 애드인 준비 파이프라인에 통합합니다.
+
+* **재사용 가능한 워크플로 패키징**
+  구조화된 스프레드시트 자동화 구성 요소에 대한 반복 변환 프로세스를 지원합니다.
+
+* **엔터프라이즈 스프레드시트 활성화**
+  문서 저장소를 고급 스프레드시트 확장 워크플로와 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

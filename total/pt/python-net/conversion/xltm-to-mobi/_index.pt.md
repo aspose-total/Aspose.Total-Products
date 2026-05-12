@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de XLTM para MOBI em Python permite transformar modelos de Excel com macros em arquivos compatíveis com e‑books para leitura digital e acesso portátil ao conteúdo. Isso é valioso quando informações baseadas em planilhas precisam ser distribuídas em um formato amigável ao leitor para compartilhamento de conhecimento ou consumo móvel.
+
+Em fluxos de trabalho de automação, a conversão de XLTM para MOBI amplia as opções de entrega de conteúdo, suporta pipelines de publicação digital e ajuda a reutilizar dados estruturados em saídas de formato longo acessíveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Preparação de conteúdo para e‑book**  
+  Converte o conteúdo estruturado de modelos de planilha em um formato portátil adequado para dispositivos de leitura digital.
+
+* **Distribuição de conhecimento**  
+  Suporta a entrega de material baseado em pastas de trabalho em um formato projetado para maior acessibilidade de leitura.
+
+* **Reaproveitamento de conteúdo para acesso móvel**  
+  Permite que informações originadas em planilhas sejam compartilhadas em um formato leve e portátil para leitura.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de automação" %}}
+
+* **Publicação digital automatizada**  
+  Gera arquivos MOBI a partir de fontes XLTM para fluxos de trabalho recorrentes de publicação de conteúdo.
+
+* **Entrega de documentação portátil**  
+  Suporta a conversão automática de dados estruturados de modelos em ativos de leitura compatíveis com dispositivos móveis.
+
+* **Geração em lote de e‑books**  
+  Permite a criação em grande escala de arquivos digitais de leitura a partir de repositórios de conteúdo impulsionados por planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para DOTM transforma arquivos de arquivo de caixa de correio em modelos de Word habilitados para macros, permitindo preservar estruturas baseadas em e‑mail em um formato reutilizável e amigável à automação. Isso é valioso para ambientes de documentos que combinam modelos repetíveis com funcionalidade de macro incorporada.
+
+Usando APIs Python, as equipes podem automatizar a conversão de MBOX para DOTM para suportar a criação de modelos em grande volume, consistência de fluxos de trabalho e processos documentais que dependem de comportamento programável.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Modelo Habilitado para Macro**  
+  Converta o conteúdo de e‑mail em modelos adequados para fluxos de trabalho avançados de automação de documentos.
+
+* **Estruturas de Documentos Repetíveis**  
+  Reutilize estruturas derivadas da caixa de correio como bases de modelos em equipes e sistemas.
+
+* **Preparação de Conteúdo Orientada por Fluxo de Trabalho**  
+  Prepare conteúdo baseado em e‑mail para sistemas de modelos que incluem lógica de automação documental.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Bibliotecas de Modelos Automatizadas**  
+  Construa coleções de modelos DOTM a partir de dados de caixa de correio usando fluxos de conversão baseados em Python.
+
+* **Geração Consistente de Saída**  
+  Padronize a criação de documentos ao transformar e‑mails arquivados em modelos reutilizáveis habilitados para macro.
+
+* **Automação Corporativa de Documentos**  
+  Integre os arquivos de modelo convertidos em pipelines maiores de geração e revisão.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,47 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PDF から画像への変換により、プレビュー、共有、ビジュアルアーカイブ、そして下流の画像ベース処理のために、文書ページを画像ファイルとしてレンダリングできるようになります。画像形式の方が配布や埋め込みが容易な環境で文書コンテンツを表示する必要がある場合に便利です。
+
+自動化により、ページの高速レンダリング、バッチ変換、サムネイル、プレビュー、文書レビューシステムなどのビジュアルワークフローとの統合が可能になり、このプロセスが強化されます。デジタルプラットフォーム全体で文書コンテンツをスケーラブルに処理することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **ページプレビュー生成**  
+  Web およびモバイルアプリケーションでのビジュアルプレビュー用に、PDF ページを画像に変換します。
+
+* **文書アーカイブ**  
+  文書ページを画像アセットとして保存し、迅速なアクセスとビジュアル参照を可能にします。
+
+* **コンテンツ共有**  
+  プレゼンテーション、コミュニケーション、または埋め込み文書スナップショットに画像出力を使用します。
+
+* **ビジュアル処理ワークフロー**  
+  分析、注釈、または認識システムのために、PDF ページを画像入力として準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイル作成パイプライン**  
+  Python の自動化により、アップロードされた PDF からリアルタイムで画像プレビューを生成できます。
+
+* **大量ページレンダリング**  
+  大規模な PDF コレクションは、スケジュールされたワークフローを通じて画像セットに変換できます。
+
+* **ドキュメントビューア統合**  
+  システムは、ドキュメント閲覧インターフェース向けにオンデマンドで画像出力を作成できます。
+
+* **動的メディア配信**  
+  自動化サービスは、PDF 由来の画像をコンテンツプラットフォーム全体に効率的に配信できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

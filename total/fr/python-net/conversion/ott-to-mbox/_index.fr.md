@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers MBOX dans les API Python transforme les modèles de texte OpenDocument en format d'archive de boîte aux lettres pour stocker des collections de messages de type e‑mail. Ceci est utile lorsque les communications générées doivent être regroupées, transférées ou conservées dans une structure compatible avec les boîtes aux lettres.
+
+La conversion prend en charge l'automatisation en permettant à la génération de messages basée sur des documents de s'écouler directement vers des pipelines d'archivage et de migration qui reposent sur un stockage de type boîte aux lettres pour l'échelle et l'organisation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation d'archive de boîte aux lettres**  
+  Produit un contenu de message adapté au stockage groupé d'e‑mail.
+
+* **Conservation des communications**  
+  Préserve le contenu généré dans un format de boîte aux lettres portable.
+
+* **Regroupement de messages en masse**  
+  Aide à organiser plusieurs messages générés pour le transfert ou l'ingestion.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée d'archives de courriels**  
+  Convertit les communications pilotées par des modèles en conteneurs MBOX.
+
+* **Support du flux de travail de migration**  
+  Prépare les messages dérivés de documents pour les processus d'importation de boîtes aux lettres.
+
+* **Pipelines de rétention par lots**  
+  Stocke les messages générés de façon récurrente pour la conformité ou l'audit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

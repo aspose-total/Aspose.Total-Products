@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF에서 DIF로의 변환은 서식이 지정된 텍스트 문서를 스프레드시트 및 표 형식 데이터 교환을 위해 설계된 데이터 교환 형식으로 바꿉니다. 이는 조직이 오래된 분석 및 재무 시스템과 호환되는 형식으로 구조화된 콘텐츠를 보존해야 할 때 유용합니다.
+
+자동화 관점에서 RTF에서 DIF로의 변환은 문서 기반 정보를 구조화된 데이터 세트로 신뢰성 있게 변환하여 보고, 회계 및 스프레드시트 워크플로 간에 최소한의 수동 작업으로 이동할 수 있도록 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 데이터 교환**  
+  문서 내용을 호환 가능한 표 형식 시스템 간 전송을 지원하는 형식으로 변환합니다.
+
+* **레거시 워크플로 통합**  
+  오래된 분석 환경이 원래 리치 텍스트 문서에 저장된 정보를 활용하도록 돕습니다.
+
+* **구조화된 레코드 준비**  
+  추출된 텍스트를 검토, 가져오기 또는 보관용 데이터 준비 레이아웃으로 정리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 레거시 데이터 피드**  
+  변환 루틴은 들어오는 RTF 파일을 오래된 스프레드시트 기반 워크플로에 사용할 수 있는 DIF 형식으로 변환할 수 있습니다.
+
+* **반복적인 재무 데이터 준비**  
+  자동 파이프라인은 텍스트 기반 보고서를 회계 시스템에 적합한 데이터 형식으로 표준화할 수 있습니다.
+
+* **시스템 간 데이터 이동**  
+  프로그램 방식의 변환은 일정한 프로세스에서 문서 저장소와 구조화된 분석 도구를 연결하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a SXC trasforma i modelli Word abilitati alle macro in file di foglio di calcolo compatibili con ambienti più vecchi in stile OpenOffice. È utile quando il contenuto dei documenti deve essere convertito in output di foglio di calcolo strutturati mantenendo la compatibilità con i flussi di lavoro legacy di OpenOffice.
+
+L'uso delle API Python per la conversione da DOTM a SXC migliora l'automazione trasformando i modelli di documento riutilizzabili in risorse di foglio di calcolo per sistemi compatibili con le versioni legacy. Ciò supporta un'estrazione dati efficiente, una maggiore interoperabilità e una trasformazione di formato scalabile.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Compatibilità con fogli di calcolo Open legacy**
+  Converti il contenuto DOTM in SXC per i flussi di lavoro che dipendono ancora da formati di foglio di calcolo più vecchi.
+
+* **Riutilizzo dei dati del modello**
+  Estrai il contenuto strutturato del documento in forma di foglio di calcolo per revisione e elaborazione.
+
+* **Supporto alla migrazione**
+  Utilizza gli output SXC durante la transizione del contenuto in o attraverso ambienti office legacy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione automatizzata di fogli di calcolo legacy**
+  I sistemi possono convertire i modelli DOTM in SXC come parte di flussi di lavoro focalizzati sulla compatibilità.
+
+* **Automazione documento‑a‑dati**
+  La conversione supporta l'estrazione programmata di contenuti strutturati in risorse di foglio di calcolo.
+
+* **Elaborazione batch di formati legacy**
+  Processi programmati consentono una trasformazione su larga scala dei file DOTM in SXC in modo efficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

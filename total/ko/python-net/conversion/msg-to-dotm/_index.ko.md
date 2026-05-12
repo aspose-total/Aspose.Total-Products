@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MSG를 DOTM로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to DOTM 변환은 이메일 메시지를 고급 문서 자동화를 위한 매크로 사용 템플릿 파일로 변환합니다. 이메일 내용이 스크립트 동작이나 규칙 기반 처리를 지원하는 반복 가능한 템플릿의 일부가 되어야 할 때 적합합니다.
+
+자동화된 환경 내에서 MSG to DOTM 워크플로는 재사용 가능한 구조와 매크로 사용 작업을 결합하는 데 도움을 줍니다. 이는 기업 문서 조립, 규제된 워크플로 및 템플릿 기반 운영에 관련성이 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿 개발**  
+  이메일 내용을 자동화 로직을 지원하는 재사용 가능한 템플릿으로 전환합니다.
+
+* **제어된 문서 워크플로**  
+  고급 처리 규칙을 사용하는 환경에서 표준화된 문서 작성을 지원합니다.
+
+* **반복 가능한 콘텐츠 구조**  
+  반복되는 운영 문서 전반에 걸쳐 메시지에서 파생된 레이아웃을 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 자동화 시스템**  
+  매크로 지원 문서 생성을 위해 MSG 파일을 DOTM 템플릿으로 변환합니다.
+
+* **규칙 기반 문서 조립**  
+  형식 또는 콘텐츠 규칙을 적용하는 자동화 워크플로에서 변환된 템플릿을 사용합니다.
+
+* **확장 가능한 기업 처리**  
+  매크로 호환 템플릿으로 반복되는 이메일 기반 출력물을 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de texto para ICS usando APIs Python permite que informações em texto simples sejam transformadas em arquivos de evento compatíveis com calendários. Isso é altamente relevante para sistemas de agendamento, geração de compromissos e fluxos de trabalho que precisam transformar detalhes de eventos textuais em entradas de calendário compartilháveis.
+
+Essa conversão melhora a automação ao permitir que aplicativos gerem convites para reuniões, lembretes e agendas de eventos diretamente a partir de entradas de texto, apoiando a coordenação eficiente e a integração entre sistemas de planejamento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Evento de Calendário**  
+  Converte detalhes de eventos em formato de texto em arquivos ICS para agendamento e compartilhamento.
+
+* **Geração de Convite para Reunião**  
+  Ajuda a criar convites de calendário padronizados a partir de conteúdo em texto simples.
+
+* **Agendamento de Lembretes**  
+  Suporta a transformação de lembretes baseados em texto em arquivos de evento compatíveis com calendários.
+
+* **Integração de Fluxo de Trabalho de Compromissos**  
+  Permite que sistemas empresariais gerem ativos de evento reserváveis ou rastreáveis automaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Compromissos Auto-Agendados**  
+  Texto inserido em formulários ou sistemas pode ser convertido em arquivos ICS para uso imediato no calendário.
+
+* **Fluxos de Distribuição de Eventos**  
+  A automação pode gerar e enviar arquivos de calendário com base em agendas definidas por texto.
+
+* **Pipelines de Planejamento Recorrente**  
+  Processos programáticos podem converter texto estruturado em eventos de calendário em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

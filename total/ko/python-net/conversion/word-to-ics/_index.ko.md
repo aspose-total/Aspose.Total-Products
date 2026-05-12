@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 WORD를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 ICS 변환은 문서 내용을 일정, 회의, 마감일 또는 이벤트 데이터로 표현할 수 있는 캘린더 호환 파일로 변환합니다. 이는 워드로 작성된 의제, 계획 또는 공지를 캘린더 시스템에서 재사용하여 보다 쉬운 조정 및 일정 관리를 가능하게 할 때 중요합니다.
+
+자동화 워크플로우에서 이 변환은 문서를 실행 가능한 일정 자산으로 만들어, 팀이 정적인 계획 콘텐츠에서 동적인 캘린더 배포 및 시간 기반 프로세스 통합으로 전환하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **일정 게시**
+  문서의 날짜 및 시간 기반 콘텐츠를 캘린더 가져오기 파일로 변환합니다.
+
+* **회의 및 이벤트 배포**
+  워드로 작성된 계획을 캘린더 호환 채널을 통해 더 쉽게 공유할 수 있게 합니다.
+
+* **마감일 관리**
+  문서화된 타임라인을 추적을 위한 구조화된 이벤트 레코드로 변환합니다.
+
+* **운영 계획**
+  서술형 일정 정보를 기계가 읽을 수 있는 캘린더 시스템과 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동 캘린더 파일 생성**
+  워드 기반 일정에서 배포 및 가져오기를 위한 ICS 파일을 생성합니다.
+
+* **이벤트 워크플로우 통합**
+  마일스톤이 완료될 때 승인된 계획을 캘린더 아티팩트로 변환합니다.
+
+* **반복 계획 파이프라인**
+  회의 노트나 의제를 대규모로 구조화된 일정 출력으로 처리합니다.
+
+* **알림 및 리마인더 지원**
+  ICS 출력을 사용하여 캘린더 기반 조정 및 후속 프로세스를 트리거합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

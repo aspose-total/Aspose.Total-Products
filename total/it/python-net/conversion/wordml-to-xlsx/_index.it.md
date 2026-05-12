@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a XLSX trasforma contenuti strutturati basati su documenti in file di foglio di calcolo moderni ampiamente utilizzati per analisi, report e condivisione dei dati. È particolarmente preziosa quando le tabelle dei documenti devono diventare modificabili, pronte per le formule e compatibili con l'integrazione dei dati del workbook.
+
+Le API Python rendono la conversione da WordML a XLSX scalabile, estraendo i contenuti con precisione e integrando la trasformazione da documento a foglio di calcolo nei flussi di lavoro automatizzati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di fogli di calcolo moderni**
+  Converte le tabelle WordML in file XLSX per la modifica, l'analisi e il reporting.
+
+* **Preparazione dei dati aziendali**
+  Rende i contenuti documentali strutturati adatti ai flussi di lavoro operativi e analitici.
+
+* **Scambio di dati tra sistemi**
+  Supporta il trasferimento affidabile dei dati dei documenti verso piattaforme basate su fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione batch di cartelle di lavoro**
+  Converte automaticamente i documenti WordML in file XLSX per flussi di lavoro su larga scala.
+
+* **Automazione di report e analisi**
+  Alimenta gli output dei fogli di calcolo convertiti in dashboard e processi di revisione.
+
+* **Pipeline di estrazione dati**
+  Standardizza le tabelle dei documenti in forma di cartella di lavoro per l'automazione a valle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

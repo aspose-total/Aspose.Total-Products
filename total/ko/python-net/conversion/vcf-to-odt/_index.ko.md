@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 VCF를 ODT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to ODT 변환은 연락처 카드 정보를 편집 가능하고 표준 기반 문서를 지원하는 오픈 문서 텍스트 파일로 변환합니다. 이는 개방형 및 상호 운용 가능한 문서 환경에서 유연한 연락처 기록 관리를 원하는 팀에 유용합니다.
+
+Python API를 사용하면 VCF to ODT 변환이 구조화된 연락처 파일을 생성하여 편집, 배포 및 호환되는 오피스 시스템 전반에 걸친 보관을 지원함으로써 자동 문서 생성을 효율화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **오픈 문서 편집**  
+  VCF 데이터를 ODT 파일로 변환하여 편집 가능하고 표준 기반으로 사용합니다.
+
+* **상호 운용 가능한 연락처 기록**  
+  연락처 정보를 오픈 문서 워크플로에 적합한 형식으로 저장합니다.
+
+* **구조화된 정보 공유**  
+  호환되는 오피스 환경 전반에 걸쳐 읽기 쉬운 연락처 문서를 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **대량 ODT 변환**  
+  대규모 VCF 컬렉션에서 ODT 문서를 자동으로 생성합니다.
+
+* **오픈 워크플로 통합**  
+  생성된 연락처 파일을 오픈 표준 기반 자동 시스템으로 라우팅합니다.
+
+* **효율적인 문서 처리**  
+  Python API를 사용하여 대규모로 재사용 가능한 ODT 연락처 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

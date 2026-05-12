@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 XPS를 EMAIL로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS를 EMAIL로 변환하는 Python API는 팀이 고정 레이아웃 문서 내용을 이메일 준비 형식으로 변환하여 커뮤니케이션 워크플로우에서 배포, 보관 및 처리를 더 쉽게 할 수 있게 합니다. 이는 보고서, 청구서, 공지사항 또는 생성된 문서를 수동 복사나 서식 지정 없이 재사용 가능한 메시징 자산으로 전환해야 하는 조직에 유용합니다.
+
+자동화 중심 환경에서는 XPS를 이메일 호환 출력으로 변환함으로써 전달 효율성을 높이고, 확장 가능한 문서 커뮤니케이션을 지원하며, 문서 파이프라인을 알림 시스템, 보관 도구 및 워크플로우 오케스트레이션 플랫폼과 통합하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 기반 이메일 배포**  
+  XPS 문서를 이메일 준비 콘텐츠로 변환하여 구조화된 메시징 워크플로우를 통해 보고서, 명세서 또는 공지를 공유합니다.
+
+* **자동화된 커뮤니케이션 파이프라인**  
+  문서를 생성하고 즉시 수동 개입 없이 외부 이메일 처리용으로 준비하는 시스템을 지원합니다.
+
+* **보관 및 추적 가능성**  
+  이메일 지향 형식으로 문서 정보를 보존하여 커뮤니케이션 아카이브 내에서 저장, 색인 및 검토가 가능하도록 합니다.
+
+* **워크플로우 통합**  
+  문서 생성 시스템을 메시징, 검토 및 컴플라이언스 프로세스와 연결하여 통합 파이프라인을 구축합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 보고서 발송**  
+  자동화가 반복되는 XPS 보고서를 이메일 준비 출력으로 변환하여 정기적인 내부 또는 외부 커뮤니케이션에 활용합니다.
+
+* **이벤트 트리거 알림**  
+  특정 비즈니스 이벤트가 발생할 때 새로 생성된 XPS 문서를 이메일 콘텐츠로 변환할 수 있습니다.
+
+* **대량 서신 처리**  
+  대용량 문서 배치를 프로그래밍 방식으로 변환하여 확장 가능한 메시지 준비 및 라우팅을 수행합니다.
+
+* **컴플라이언스 커뮤니케이션 워크플로우**  
+  자동화 파이프라인이 문서 기반 이메일 기록을 생성, 변환 및 보존하여 감사 및 거버넌스 요구 사항을 충족합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to SXC conversion converts document-based structured content into spreadsheet files compatible with legacy open spreadsheet workflows. This is useful for organizations that maintain compatibility with older open office environments.
+
+Python APIs support WordML to SXC conversion by extracting tables and automating transformation into spreadsheet-oriented formats for migration and interoperability needs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Wyjście w starszym otwartym arkuszu kalkulacyjnym**
+  Konwertuje tabele WordML do plików SXC dla starszych środowisk arkuszy kalkulacyjnych.
+
+* **Ponowne wykorzystanie danych z dokumentów**
+  Umożliwia edycję strukturalnej zawartości dokumentów w starszych narzędziach arkuszy kalkulacyjnych.
+
+* **Zachowanie kompatybilności**
+  Wspiera długotrwałe przepływy pracy, które nadal zależą od starszych otwartych formatów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja eksportu w starszych środowiskach**
+  Generuje wyjścia SXC z plików WordML w przepływach pracy skoncentrowanych na kompatybilności.
+
+* **Zadania wsparcia migracji**
+  Łączy repozytoria dokumentów ze starszymi środowiskami przetwarzania arkuszy kalkulacyjnych.
+
+* **Masowa konwersja tabel**
+  Automatyzuje wyodrębnianie i pakowanie danych dokumentów do starszych plików arkuszy kalkulacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

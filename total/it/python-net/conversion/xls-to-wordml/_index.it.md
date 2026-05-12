@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLS a WordML converte il contenuto dei fogli di calcolo in un formato di elaborazione testi basato su XML che supporta la rappresentazione strutturata dei documenti e l'interoperabilità. Questo è utile quando le organizzazioni hanno bisogno di output documentali che si allineano a sistemi basati su XML o a flussi di lavoro di archiviazione.
+
+Le API Python rendono pratica la conversione da XLS a WordML per l'automazione, consentendo la generazione programmatica di file di documenti strutturati a partire da input di fogli di calcolo in modo ripetibile e compatibile con i sistemi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **XML-Based Document Output**
+  Trasforma i dati XLS in file WordML per flussi di lavoro documentali strutturati e leggibili dal sistema.
+
+* **Interoperable Content Exchange**
+  Usa WordML quando il contenuto del documento deve integrarsi con sistemi sensibili a XML.
+
+* **Structured Archival Preparation**
+  Converti le informazioni dei fogli di calcolo in un formato adatto per l'archiviazione controllata dei documenti e la trasformazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Programmatic XML Document Generation**
+  Usa le API Python per creare file WordML da sorgenti di fogli di calcolo automaticamente.
+
+* **System Integration Pipelines**
+  Aggiungi la conversione da XLS a WordML ai flussi di lavoro che richiedono lo scambio di documenti strutturati.
+
+* **Scalable Format Transformation**
+  Automatizza la conversione per grandi insiemi di documenti dove la coerenza basata su XML è importante.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

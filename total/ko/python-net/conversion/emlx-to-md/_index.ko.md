@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 EMLX를 MD로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX를 MD로 변환하는 Python 스크립트는 이메일 내용을 읽기 쉽고, 편집하고, 버전 관리하며, 게시할 수 있는 Markdown 파일로 바꿔줍니다. 이는 메시지 기반 정보를 문서화 또는 콘텐츠 워크플로우를 위한 가벼운 텍스트 문서로 재활용해야 할 때 유용합니다.
+
+자동화 시나리오에서는 EMLX를 MD로 변환함으로써 깨끗한 텍스트 추출, 간소화된 게시, 그리고 개발자 친화적인 시스템과의 효율적인 통합을 지원합니다. 이는 확장 가능한 지식 관리 및 콘텐츠 변환 파이프라인에 특히 효과적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **경량 문서화**  
+  EMLX 파일을 Markdown으로 변환하여 간단하고 읽기 쉬운 텍스트 기반 문서를 만듭니다.
+
+* **버전 관리된 콘텐츠**  
+  이메일에서 파생된 정보를 추적 가능한 업데이트에 적합한 형식으로 저장합니다.
+
+* **지식 베이스 준비**  
+  구조화된 문서 시스템에서 메시지 내용을 재사용합니다.
+
+* **게시 준비**  
+  변환된 콘텐츠를 정적 사이트나 텍스트 중심 콘텐츠 플랫폼에 맞게 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 문서 파이프라인**  
+  EMLX 파일을 일괄 변환하여 확장 가능한 콘텐츠 재사용을 위해 Markdown으로 변환합니다.
+
+* **정적 게시 워크플로우**  
+  MD 출력물을 자동화된 사이트 생성 및 게시 시스템에 전달합니다.
+
+* **텍스트 정규화 프로세스**  
+  Python 스크립트를 사용하여 메시지 내용을 markdown 구조로 표준화합니다.
+
+* **저장소 기반 콘텐츠 관리**  
+  변환된 Markdown 파일을 버전 관리된 자동화 파이프라인에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

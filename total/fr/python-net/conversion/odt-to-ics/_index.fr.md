@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODT vers ICS transforme le contenu des documents en données compatibles avec les calendriers, ce qui la rend utile pour convertir des emplois du temps, des descriptions d'événements ou des informations temporelles en entrées de calendrier réutilisables. Cela est précieux lorsque les documents texte contiennent des dates, des réunions ou des chronologies structurées.
+
+Dans les environnements automatisés, la conversion ODT vers ICS permet la mise en place de pipelines de planification, la publication d'événements et la synchronisation de calendriers. Les API Python peuvent extraire le contenu pertinent basé sur les dates et générer efficacement des fichiers de calendrier lisibles par machine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction d'emplois du temps**  
+  Convertit les dates et les détails d'événements des documents en données prêtes pour le calendrier.
+
+* **Distribution de réunions**  
+  Facilite le partage d'informations d'événements dans un format adapté aux outils de calendrier.
+
+* **Numérisation de chronologies**  
+  Transforme les emplois du temps écrits en artefacts de calendrier exploitables.
+
+* **Support du flux de travail de planification**  
+  Rend le contenu de planification basé sur des documents plus facile à réutiliser opérationnellement.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'événements automatisée**  
+  Les scripts Python peuvent détecter les détails d'événements dans les fichiers ODT et créer des sorties ICS.
+
+* **Pipelines de publication de calendrier**  
+  Les mises à jour de documents peuvent déclencher la régénération automatique des fichiers d'emplois du temps partagés.
+
+* **Conversion d'emplois du temps en lot**  
+  Plusieurs documents de planification peuvent être transformés en actifs de calendrier à grande échelle.
+
+* **Création de rappels de flux de travail**  
+  L'extraction programmatique peut alimenter automatiquement les rappels et les systèmes de planification.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

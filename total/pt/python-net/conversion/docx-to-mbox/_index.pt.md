@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCX para MBOX permite a transformação do conteúdo de documentos em arquivos de arquivo de caixa de correio usados para armazenar coleções de mensagens de e‑mail. Esse processo permite que as informações do documento sejam integradas às estruturas de arquivos de e‑mail.
+
+APIs Python permitem a geração automatizada de arquivos de caixa de correio a partir do conteúdo de documentos, suportando arquivos de comunicação e fluxos de trabalho de mensagens automatizadas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Criação de Arquivo de E‑mail**  
+  Converte o conteúdo DOCX em arquivos de arquivo de caixa de correio.
+
+* **Registros de Comunicação de Documentos**  
+  Armazena mensagens baseadas em documentos dentro de arquivos de caixa de correio.
+
+* **Fluxos de Trabalho de Migração de E‑mail**  
+  Permite que o conteúdo do documento seja incluído em exportações de caixa de correio.
+
+* **Integração de Sistema de Mensagens**  
+  Permite que as informações do documento sejam empacotadas dentro de arquivos de e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de automação" %}}
+
+* **Geração Automatizada de Caixa de Correio**  
+  Sistemas podem converter documentos em arquivos de arquivo MBOX.
+
+* **Processamento em Lote de Arquivos de E‑mail**  
+  Scripts Python podem gerar arquivos de caixa de correio a partir de coleções de documentos.
+
+* **Pipelines de Mensagens Corporativas**  
+  Dados de documentos podem ser transformados em formatos de caixa de correio automaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

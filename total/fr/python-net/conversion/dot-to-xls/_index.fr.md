@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT vers XLS transforme les modèles de traitement de texte en classeurs de feuilles de calcul adaptés à la révision structurée, à la saisie de données et au reporting. Cela est utile lorsque le contenu du modèle doit être transféré dans un environnement de feuille de calcul familier.
+
+En utilisant les API Python, la conversion DOT vers XLS peut être automatisée pour améliorer la cohérence, accélérer la transformation des documents et prendre en charge la préparation de feuilles de calcul à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rapport de feuille de calcul**
+  Convertir les fichiers DOT en classeurs XLS pour une analyse organisée et une révision opérationnelle.
+
+* **Structuration des données**
+  Déplacer le contenu du document vers des mises en page de feuilles de calcul qui prennent en charge le tri et le suivi.
+
+* **Compatibilité avec les classeurs hérités**
+  Partager les informations extraites dans un format de feuille de calcul utilisé par de nombreux systèmes établis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de classeurs**
+  Les scripts Python peuvent convertir les modèles DOT en fichiers XLS pour des besoins de rapports récurrents.
+
+* **Pipelines de traitement des données**
+  La conversion aide à alimenter le contenu dérivé des documents dans des flux de travail centrés sur les feuilles de calcul.
+
+* **Production massive de feuilles de calcul**
+  L'automatisation programmatique permet la création évolutive de fichiers XLS à partir de nombreux modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

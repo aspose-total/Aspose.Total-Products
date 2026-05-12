@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で DOCM に変換することで、構造化された表形式データを高度な書式設定と組み込み自動化機能をサポートするマクロ有効なワードプロセッシング文書に変換できます。  
+この変換は、データ変換と文書ロジックを組み合わせることで、手動編集を減らしプロセスの一貫性を高め、ワークフローをスケールさせることができるため、自動化システムにとって価値があります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ有効レポート**  
+  生成された文書に組み込み自動化機能やスクリプト化されたアクションが必要な場合、CSV データを DOCM ファイルに変換します。
+
+* **プロセス指向ドキュメンテーション**  
+  構造化コンテンツと繰り返し可能な文書側の動作を組み合わせた DOCM 文書を作成します。
+
+* **運用データパッケージング**  
+  制御されたビジネスワークフローや内部処理に適したマクロ有効ファイルに CSV データセットを変換します。
+
+* **再利用可能な自動化文書**  
+  標準化された文書ルーチンに依存するチーム向けに、構造化入力から繰り返し可能な DOCM 出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動フォーム入力**  
+  Python API を使用して、事前構築された文書アクションと再利用可能なロジックをサポートする DOCM ファイルに CSV データを変換します。
+
+* **ワークフロー統合型文書生成**  
+  エンタープライズジョブ、レポーティングシステム、または文書管理プロセスの一部として、DOCM 出力を自動的に生成します。
+
+* **バッチマクロ文書作成**  
+  スケーラブルで一貫した自動配信のために、大量の CSV ファイルを DOCM 形式に変換します。
+
+* **ルール駆動型コンテンツ組み立て**  
+  CSV 入力から動的に DOCM 文書を構築し、下流タスク向けの自動化準備済み構造を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,44 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCX a TSV converte i documenti di elaborazione testi in formato valori separati da tabulazione, consentendo l'estrazione di informazioni strutturate in un file di dati leggero basato su testo. Questo formato è utile per spostare tabelle basate su documenti e contenuti organizzati in flussi di lavoro analitici o di scambio.
+
+Le API Python consentono di automatizzare la conversione da DOCX a TSV nei sistemi di preparazione dei dati, nelle pipeline di estrazione dei contenuti e nei flussi di lavoro di integrazione aziendale. Supporta la trasformazione scalabile del contenuto dei documenti in output tabulari leggibili da macchine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione di dati tabulari**  
+  Converte tabelle DOCX e informazioni strutturate in file tabulari basati su testo.
+
+* **Scambio di dati tra sistemi**  
+  Consente il trasferimento leggero di contenuti strutturati tra piattaforme.
+
+* **Preparazione per analisi e elaborazione**  
+  Aiuta a preparare i dati derivati dai documenti per gli strumenti di analisi a valle.
+
+* **Integrazione del flusso di lavoro documento‑testo**  
+  Supporta l'esportazione di contenuti organizzati in formati tabulari portabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di esportazione dati automatizzate**  
+  I sistemi possono trasformare i file DOCX in output TSV per i flussi di lavoro di elaborazione.
+
+* **Estrazione batch di contenuti strutturati**  
+  Gli script Python possono convertire più documenti in set di dati separati da tabulazione in modo programmatico.
+
+* **Automazione dell'integrazione aziendale**  
+  Il contenuto dei documenti può essere esportato in formato TSV per l'ingestione da parte di sistemi di reporting o di database.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

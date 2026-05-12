@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODS a WORD consente ai file di foglio di calcolo di essere trasformati in documenti di elaborazione testi adatti per la modifica e la documentazione. Questo processo permette ai dati del foglio di calcolo di essere integrati nei flussi di lavoro dei documenti e nei sistemi di reporting.
+
+Le API basate su Python forniscono capacità programmatiche per automatizzare le trasformazioni da foglio di calcolo a documento. Ciò consente pipeline di documenti scalabili, reporting automatizzato e flussi di lavoro di gestione documentale efficienti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Reporting da foglio di calcolo a documento**  
+  Converti i set di dati del foglio di calcolo in documenti di elaborazione testi per il reporting.
+
+* **Generazione di documentazione**  
+  Trasforma i dati del foglio di calcolo in documenti strutturati.
+
+* **Presentazione dei dati**  
+  Presenta il contenuto del foglio di calcolo in layout di documento leggibili.
+
+* **Migrazione dei contenuti**  
+  Converti gli archivi di fogli di calcolo in formati di documento modificabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di reporting automatizzate**  
+  I flussi di lavoro Python convertono i dati del foglio di calcolo in documenti automaticamente.
+
+* **Elaborazione batch di documenti**  
+  I sistemi elaborano più fogli di calcolo e generano output di documenti.
+
+* **Creazione dinamica di documenti**  
+  Gli input del foglio di calcolo popolano dinamicamente documenti strutturati.
+
+* **Integrazione dei flussi di lavoro aziendali**  
+  I sistemi di conversione si integrano con le infrastrutture di gestione documentale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

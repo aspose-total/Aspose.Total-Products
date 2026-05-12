@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 PPS 변환은 문서 내용을 직접 보기용 프레젠테이션 슬라이드쇼 파일로 변환합니다. 이는 문서 기반 자료를 편집 가능한 덱이 아니라 바로 실행할 수 있는 프레젠테이션으로 제공해야 할 때 유용합니다.
+
+Python API는 슬라이드쇼 지향 출력물을 생성하여 효율적인 배포와 제어된 프레젠테이션 워크플로를 지원함으로써 WordML에서 PPS 변환을 자동화하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **슬라이드쇼 제공**
+  WordML 콘텐츠를 PPS 파일로 변환하여 즉시 프레젠테이션을 재생합니다.
+
+* **비편집 가능 배포**
+  프레젠테이션 콘텐츠가 쇼 모드로 열려야 하는 시나리오를 지원합니다.
+
+* **문서 기반 브리핑 출력**
+  작성된 자료를 바로 프레젠테이션할 수 있는 슬라이드쇼로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 게시**
+  반복되는 문서 업데이트 및 브리핑으로부터 PPS 파일을 생성합니다.
+
+* **프레젠테이션 배포 파이프라인**
+  수동 준비 없이 이해관계자에게 바로 볼 수 있는 슬라이드쇼를 전달합니다.
+
+* **운영 브리핑 자동화**
+  구조화된 문서를 예정된 커뮤니케이션을 위한 슬라이드쇼 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

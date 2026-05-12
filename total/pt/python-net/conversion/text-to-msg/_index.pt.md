@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de texto para MSG usando APIs Python transforma texto simples em arquivos de mensagem estruturados, comumente usados para armazenamento de e‑mail e fluxos de trabalho de mensagens de desktop. Isso é importante para organizações que precisam de objetos de mensagem portáteis para arquivamento, processamento ou integração com sistemas centrados em e‑mail.
+
+Do ponto de vista da automação, converter texto para o formato MSG ajuda a padronizar ativos de comunicação, simplificar a geração de mensagens baseadas em arquivos e apoiar fluxos de trabalho repetíveis para relatórios, notificações e registro digital.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Arquivo de Mensagem Estruturado**  
+  Converte texto simples em arquivos MSG para armazenamento organizado no estilo de e‑mail.
+
+* **Gerenciamento de Registros de Comunicação**  
+  Ajuda a preservar comunicações de texto como documentos de mensagem independentes.
+
+* **Saída de Mensagem Baseada em Fluxo de Trabalho**  
+  Suporta a criação automatizada de arquivos de mensagem a partir de texto gerado pelo sistema.
+
+* **Distribuição de Relatórios Operacionais**  
+  Permite que relatórios e atualizações sejam empacotados como ativos de mensagem estruturados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Arquivos de Mensagem Gerados pelo Sistema**  
+  Aplicações podem converter saídas de texto em arquivos MSG para processamento subsequente.
+
+* **Fluxos de Trabalho de Arquivamento Automatizado**  
+  Registros de texto podem ser salvos como arquivos de mensagem para indexação e retenção.
+
+* **Pipelines de Notificação Baseados em Arquivo**  
+  Fluxos de trabalho programáticos podem gerar ativos MSG a partir de conteúdo de texto dinâmico em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

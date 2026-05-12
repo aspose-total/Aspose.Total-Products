@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から TSV への変換は、ワードプロセッシングのコンテンツをタブ区切り値に変換し、構造化されたテキストベースのデータ交換を可能にします。これは、文書由来の情報をシンプルでポータブルな形式でエクスポートし、カンマに依存せずに区切りを保持する必要がある場合に有用です。
+
+自動化シナリオでは、TSV 変換はスケーラブルなデータ処理を支援し、特にインポートやスクリプト、構造化されたプレーンテキストを処理するシステムとの相互運用性のためにタブ区切り出力が好まれる場合に有効です。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **構造化テキストエクスポート**
+  文書コンテンツをタブ区切り出力に変換し、クリーンなデータ交換を実現します。
+
+* **データインポート準備**
+  抽出された情報を、TSV 入力をサポートするツールへのロードを容易にします。
+
+* **スクリプトフレンドリーな処理**
+  パースや変換のための軽量テキストベースのワークフローをサポートします。
+
+* **カンマ区切りの代替手段**
+  エクスポートされた値にカンマが含まれる可能性がある場合でも、明瞭さを保つのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動区切りファイル作成**
+  Word ファイルから TSV 出力を生成し、日常的なインポートや処理ジョブに利用します。
+
+* **バッチデータ抽出**
+  大量の文書コレクションを構造化されたタブ区切りファイルに変換します。
+
+* **パイプラインフレンドリーな交換**
+  TSV 出力をスクリプト、検証ルーチン、下流の自動化で使用します。
+
+* **アーカイブモダナイゼーションワークフロー**
+  レガシー文書コンテンツを、より広範な再利用のためにアクセス可能な構造化テキストに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

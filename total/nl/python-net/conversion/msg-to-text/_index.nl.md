@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een MSG naar TEXT-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG-naar-TEXT-conversie haalt de inhoud van e‑mailberichten op in platte tekst voor eenvoudige opslag, zoeken en verwerking. Het is waardevol wanneer schone toegang tot de inhoud belangrijker is dan opmaak en wanneer een lichtgewicht output nodig is voor indexering of analyse.
+
+Voor automatisering ondersteunen MSG-naar-TEXT-workflows tekstmining, zoekpijplijnen en genormaliseerde contentinname. Ze helpen communicatiegegevens om te zetten in een minimaal, machinevriendelijk formaat dat geschikt is voor schaalbare verwerking.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Extractie van platte tekst**  
+  Isoleer e‑mailinhoud voor gemakkelijk lezen, opslag of downstream‑analyse.
+
+* **Zoek- en indexondersteuning**  
+  Bereid berichttekst voor op catalogus‑ en ophaalprocessen.
+
+* **Lichtgewicht gegevensverwerking**  
+  Gebruik vereenvoudigde output in pijplijnen die geen behoud van opmaak vereisen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Content‑innamepijplijnen**  
+  Converteer MSG‑bestanden naar platte tekst voor indexerings‑ en classificatiesystemen.
+
+* **Tekstanalyse‑workflows**  
+  Voer geëxtraheerde berichtinhoud in geautomatiseerde analyse‑ of bewakingsprocessen.
+
+* **Genormaliseerde archiefcreatie**  
+  Sla communicatie‑records op in compacte tekstvorm voor schaalbare bewaring.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

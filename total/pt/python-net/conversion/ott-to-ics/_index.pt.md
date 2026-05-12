@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para ICS em APIs Python converte modelos de texto OpenDocument em arquivos de dados de calendário usados para agendamento e troca de eventos. Isso é valioso quando o conteúdo do documento inclui compromissos, prazos ou informações estruturadas baseadas em datas que precisam estar prontas para o calendário.
+
+Essa conversão é amigável à automação porque permite que informações de eventos sejam geradas a partir de modelos e enviadas para fluxos de trabalho de agendamento, lembretes e processos de sincronização sem a necessidade de inserção manual no calendário.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Arquivo de Evento**  
+  Transforma o conteúdo de documentos relacionados a agenda em arquivos compatíveis com calendários.
+
+* **Distribuição de Prazos**  
+  Compartilha datas importantes e marcos em um formato de calendário padrão.
+
+* **Suporte ao Fluxo de Trabalho de Planejamento**  
+  Converte dados estruturados de eventos em ativos de agendamento portáteis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automática de Calendário**  
+  Cria arquivos ICS a partir de modelos de eventos recorrentes baseados em OTT.
+
+* **Integração de Fluxo de Trabalho de Lembretes**  
+  Alimenta eventos gerados em sistemas que disparam notificações.
+
+* **Sincronização de Agenda**  
+  Suporta o compartilhamento programático de dados de calendário entre equipes ou ferramentas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

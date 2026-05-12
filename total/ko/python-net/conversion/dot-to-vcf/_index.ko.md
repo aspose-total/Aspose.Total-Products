@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOT를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 VCF로 변환하면 문서 템플릿을 주소록 가져오기 및 연락처 공유에 사용할 수 있는 연락처 카드 파일로 변환합니다. 이는 문서 기반 레코드에 사람 또는 조직 세부 정보가 포함되어 있어 통신 시스템에 입력해야 할 때 유용합니다.
+
+Python API를 사용하면 DOT를 VCF로 변환하는 작업을 자동화할 수 있어 연락처 데이터 이동성을 향상하고 비즈니스 워크플로우 전반에 걸친 반복적인 수동 입력을 줄여줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 레코드 생성**
+  DOT 기반 정보를 주소록 사용을 위한 VCF 파일로 변환합니다.
+
+* **휴대용 연락처 공유**
+  템플릿에서 추출한 구조화된 연락처 데이터를 표준화된 형식으로 공유합니다.
+
+* **통신 데이터 입력 지원**
+  템플릿 내용을 가져오기 준비된 연락처 카드로 변환하여 수동 입력을 줄입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 내보내기**
+  Python 워크플로우는 연락처 정보가 포함된 DOT 템플릿에서 VCF 파일을 생성할 수 있습니다.
+
+* **CRM 및 디렉터리 통합**
+  변환은 문서 기반 연락처 데이터를 통신 시스템으로 이동하는 것을 지원합니다.
+
+* **대량 연락처 파일 생성**
+  프로그래밍 방식 처리를 통해 다수의 템플릿에서 VCF 출력물을 확장 가능하게 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

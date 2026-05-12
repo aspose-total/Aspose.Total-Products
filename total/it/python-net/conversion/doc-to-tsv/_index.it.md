@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a TSV trasforma il contenuto di Word in valori separati da tabulazione, un formato strutturato semplice ideale per scambi di dati basati su testo pulito e flussi di lavoro di importazione. È utile quando le tabelle dei documenti o i campi ripetuti richiedono un output strutturato leggero.
+
+Le API Python aiutano ad automatizzare la conversione da DOC a TSV per estrazioni scalabili, preparazione dei dati e attività di integrazione dove sono preferiti formati tabulari di testo semplice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso chiave" %}}
+
+* **Esportazione dati leggera**
+  Converti le tabelle dei documenti in TSV per uno scambio strutturato semplice.
+
+* **Output compatibile con l'importazione**
+  Prepara i dati derivati da Word per strumenti e sistemi che accettano testo delimitato.
+
+* **Flussi di lavoro di pulizia dati**
+  Usa l'output TSV per pre‑elaborazione, validazione e ingestione nella pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Estrazione dati ad alto volume**
+  Converti automaticamente i file DOC in TSV per l'elaborazione a valle.
+
+* **Esportazioni di testo pronte per la pipeline**
+  Genera file delimitati dai documenti come parte di flussi ETL o di importazione.
+
+* **Job di trasformazione programmati**
+  Standardizza programmaticamente i record basati su documenti in TSV su base ricorrente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MSG a DOTM trasforma i messaggi di posta elettronica in file di modello abilitati alle macro per l'automazione avanzata dei documenti. È adatta quando il contenuto delle email deve diventare parte di modelli ripetibili che supportano anche comportamenti scriptati o elaborazioni basate su regole.
+
+All'interno di ambienti automatizzati, i flussi di lavoro MSG a DOTM aiutano a combinare strutture riutilizzabili con azioni abilitate alle macro. Questo li rende rilevanti per l'assemblaggio di documenti aziendali, i flussi di lavoro regolamentati e le operazioni basate su modelli.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Sviluppo di modelli abilitati alle macro**  
+  Trasforma il contenuto delle email in modelli riutilizzabili con supporto per la logica di automazione.
+
+* **Flussi di lavoro documentali controllati**  
+  Supporta la creazione standardizzata di documenti in ambienti che utilizzano regole di elaborazione avanzate.
+
+* **Strutture di contenuto ripetibili**  
+  Riutilizza layout derivati dai messaggi in documenti operativi ricorrenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Sistemi di automazione dei modelli**  
+  Converte i file MSG in modelli DOTM per la generazione di documenti assistita da macro.
+
+* **Assemblaggio di documenti basato su regole**  
+  Utilizza i modelli convertiti in flussi di lavoro automatizzati che applicano regole di formattazione o contenuto.
+
+* **Elaborazione aziendale scalabile**  
+  Standardizza le uscite ricorrenti basate su email con modelli compatibili con le macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

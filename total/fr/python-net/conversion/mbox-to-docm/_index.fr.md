@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers DOCM transforme les archives de boîtes aux lettres en documents Word à macros, permettant de conserver le contenu des e‑mails dans un format pouvant prendre en charge des flux de travail documentaires avancés. Cela est utile lorsque les fichiers convertis doivent rester compatibles avec des systèmes de documents qui s’appuient sur une automatisation intégrée ou une logique personnalisée.
+
+En utilisant les API Python, les équipes peuvent automatiser la conversion MBOX vers DOCM afin de rationaliser le traitement des archives de courriels, soutenir des flux de travail basés sur des modèles et générer des sorties structurées pour des opérations centrées sur les documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Flux de travail de documents à macros**  
+  Exporter le contenu des e‑mails dans des fichiers DOCM pour les systèmes qui utilisent un comportement de document automatisé.
+
+* **Réutilisation structurée du contenu des courriels**  
+  Conserver les messages dans un format adapté à l'édition avancée et au traitement contrôlé.
+
+* **Conditionnement opérationnel de documents**  
+  Préparer les fichiers dérivés d'e‑mail pour des environnements construits autour des fonctionnalités d'automatisation de Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Exportation de courriels basée sur des modèles**  
+  Convertir les entrées de boîte aux lettres en sorties DOCM alignées avec les flux de travail documentaires internes.
+
+* **Traitement Office automatisé**  
+  Alimenter les documents e‑mail convertis dans des pipelines de révision et de formatage scriptés.
+
+* **Transformation d'archives à grande échelle**  
+  Utiliser Python pour convertir par lots le contenu MBOX en actifs documentaires à macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'EML en EPUB à l'aide des API Python permet de transformer le contenu des e‑mails en un format de publication numérique réflowable, adapté à une lecture structurée et à une distribution portable. Cela est utile lorsque le matériel basé sur les e‑mails doit être empaqueté pour une visualisation longue, le partage de connaissances ou la documentation numérique.
+
+Du point de vue de l'automatisation, la conversion d'EML en EPUB prend en charge des pipelines de publication évolutifs en transformant le contenu des messages en actifs de lecture portables. Elle permet aux organisations de réutiliser les enregistrements de communication en publications numériques prêtes à être distribuées, avec une accessibilité améliorée et une compatibilité avec les appareils.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de publications numériques**  
+  Convertit le contenu des e‑mails en fichiers EPUB pour une lecture structurée et portable.
+
+* **Mise en paquet de connaissances**  
+  Aide à transformer les fils de communication en matériel de référence numérique consommable.
+
+* **Partage de contenu portable**  
+  Prend en charge la distribution de documents dérivés d’e‑mails sur plusieurs appareils de lecture.
+
+* **Préservation de contenu long format**  
+  Facilite l’archivage d’informations basées sur les messages dans un format orienté publication.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Intégration du pipeline de publication**  
+  L’automatisation peut convertir des collections d’e‑mails sélectionnées en sorties EPUB pour la distribution.
+
+* **Génération de base de connaissances**  
+  Les flux de travail programmatiques peuvent empaqueter les discussions d’e‑mail en ressources numériques lisibles.
+
+* **Systèmes de réutilisation de contenu**  
+  Les enregistrements d’e‑mail peuvent être transformés automatiquement en actifs prêts à la publication.
+
+* **Livraison de documentation évolutive**  
+  La génération d’EPUB prend en charge la création dynamique de documents portables pour les utilisateurs et les équipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

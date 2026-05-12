@@ -46,7 +46,41 @@ För en Python-utvecklare, vem försöker lägga till en VCF till MD-konverterin
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF till MD-omvandling omvandlar kontaktkortdata till Markdown-dokument som är lätta att läsa, redigera och integrera i textbaserade kunskapssystem. Detta är särskilt användbart i dokumentationsmiljöer som värdesätter portabilitet, enkelhet och versionsvänligt innehåll.
+
+I automatiseringsarbetsflöden möjliggör VCF till MD-omvandling Python‑API:er att producera lätta kontaktdokument som naturligt passar in i innehållsarkiv, statiska webbplatser och strukturerade notgenererings‑pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsfall" %}}
+
+* **Läsbar textdokumentation**  
+  Konvertera VCF‑poster till Markdown för ren och portabel dokumentation.
+
+* **Integration med kunskapsbas**  
+  Lagra kontaktinformation i ett format som är lämpligt för textcentrerade system.
+
+* **Versionsvänlig innehållshantering**  
+  Hantera kontaktdata i ett strukturerat rentextformat som är lätt att spåra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* **Automatiserad Markdown‑generering**  
+  Skapa MD‑filer från batcher av kontaktkort för organiserad dokumentation.
+
+* **Statisk innehållspipeline**  
+  Mata in konverterade kontaktfiler i automatiserade publicerings‑ och arkivarbetsflöden.
+
+* **Skalbar texttransformering**  
+  Använd Python‑API:er för att standardisera kontaktdata i ett lättviktigt markup‑format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

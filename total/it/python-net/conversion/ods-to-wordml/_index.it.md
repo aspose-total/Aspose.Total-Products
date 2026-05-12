@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to WORDML conversion converts spreadsheet files into WordprocessingML, an XML-based document format used for structured document representation. This enables spreadsheet data to be represented in machine-readable document structures.
+
+Python APIs allow automated generation of WordprocessingML documents from spreadsheet inputs. This supports scalable document processing, data transformation pipelines, and integration with structured document workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di Documenti Strutturati**  
+  Converti i dati del foglio di calcolo in strutture di documento basate su XML.
+
+* **Interoperabilità dei Dati**  
+  Abilita formati di documento leggibili da macchine derivati dai fogli di calcolo.
+
+* **Pipeline di Elaborazione dei Documenti**  
+  Integra il contenuto del foglio di calcolo nei flussi di lavoro di documenti basati su XML.
+
+* **Trasformazione del Contenuto**  
+  Trasforma le informazioni tabulari del foglio di calcolo in dati di documento strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione Programmatica di Documenti**  
+  I sistemi Python generano documenti strutturati direttamente dagli input dei fogli di calcolo.
+
+* **Conversione Batch di Documenti XML**  
+  Le pipeline automatizzate convertono grandi insiemi di fogli di calcolo in WordprocessingML.
+
+* **Flussi di Lavoro di Integrazione dei Dati**  
+  I documenti strutturati generati dai fogli di calcolo si integrano con i sistemi aziendali.
+
+* **Trasformazione Dinamica del Contenuto**  
+  Le pipeline programmatiche trasformano i dataset dei fogli di calcolo in formati di documento basati su XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

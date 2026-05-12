@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から XLSM への変換は、構造化された文書コンテンツを、ブックデータと自動化機能を組み合わせたマクロ有効スプレッドシートファイルに変換します。変換されたデータがスプレッドシートベースのロジック、スクリプト、または繰り返し可能なタスクをサポートする必要がある場合に有用です。
+
+Python API を使用することで、WordML から XLSM への変換は、文書データをスケーラブルな自動化と再利用可能な処理ロジックを備えた高度なスプレッドシートワークフローに流し込むことが可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ有効ブック作成**
+  WordML テーブルを自動化指向のスプレッドシートワークフロー用の XLSM ファイルに変換します。
+
+* **高度なデータ処理**
+  埋め込みアクションやロジックに依存するスプレッドシート出力をサポートします。
+
+* **運用タスクの有効化**
+  文書データを繰り返し処理用に設計されたブックへ移行するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化マクロブック生成**
+  繰り返し行われるビジネスワークフローで、WordML ソースから XLSM ファイルを作成します。
+
+* **スプレッドシートロジック統合**
+  抽出された文書データをマクロ駆動の処理環境と接続します。
+
+* **プロセス対応データパッケージング**
+  自動化された操作のためにブック資産をスケーラブルに準備できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

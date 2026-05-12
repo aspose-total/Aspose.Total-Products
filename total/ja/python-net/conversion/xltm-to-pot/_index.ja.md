@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM から POT への変換は Python で、マクロ対応の Excel テンプレートを、一貫したスライドベースのコンテンツ作成に使用されるプレゼンテーションテンプレートファイルへ変換することを可能にします。構造化されたスプレッドシート情報を、コミュニケーションやレポート作成のために再利用可能なプレゼンテーション形式に適応する必要がある場合に有益です。
+
+自動化シナリオにおいて、XLTM から POT への変換は、プレゼンテーションの標準化を支援し、コンテンツ作成を加速し、スプレッドシートシステムとスライド生成ワークフロー間の統合を改善します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **プレゼンテーションテンプレート作成**  
+  スプレッドシートベースのソースコンテンツを、定期的なプレゼンテーション向けの再利用可能なスライドテンプレートに変換します。
+
+* **構造化データのプレゼンテーション**  
+  整理されたワークブックテンプレートコンテンツから、プレゼンテーション用資産の作成を支援します。
+
+* **標準化されたスライドフレームワーク**  
+  繰り返し生成されるプレゼンテーション出力全体で、一貫したレイアウトとメッセージングをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化スライドテンプレート生成**  
+  プレゼンテーション作成パイプライン向けに、XLTM ソースから POT ファイルを作成します。
+
+* **レポート用プレゼンテーションワークフロー**  
+  スプレッドシート駆動のビジネスデータからプレゼンテーションテンプレートを定期的に生成することを支援します。
+
+* **テンプレート配布システム**  
+  チームや部門全体にスライドテンプレートをスケーラブルに配信できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

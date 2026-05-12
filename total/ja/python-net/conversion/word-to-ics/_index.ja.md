@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から ICS への変換は、文書の内容をスケジュール、会議、期限、またはイベントデータを表すことができるカレンダー互換ファイルに変換します。これは、Word で作成された議題、計画、通知をカレンダーシステムで再利用し、調整やスケジューリングを容易にする必要がある場合に重要です。
+
+自動化ワークフローでは、この変換により文書が実行可能なスケジューリング資産となり、チームが静的な計画コンテンツから動的なカレンダー配布および時間ベースのプロセス統合へと移行できるよう支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スケジュール公開**
+  文書の日時ベースのコンテンツをカレンダーインポートファイルに変換します。
+
+* **会議およびイベント配布**
+  Word で作成された計画をカレンダー互換チャネルで共有しやすくします。
+
+* **期限管理**
+  文書化されたタイムラインを追跡用の構造化されたイベントレコードに変換します。
+
+* **運用計画**
+  物語的なスケジューリング情報と機械可読なカレンダーシステムを橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダーファイル作成**
+  Word ベースのスケジュールから配布およびインポート用の ICS ファイルを生成します。
+
+* **イベントワークフロー統合**
+  マイルストーンが確定した際に、承認された計画をカレンダーアーティファクトに変換します。
+
+* **繰り返し計画パイプライン**
+  会議のメモや議題を大規模に構造化されたスケジューリング出力に処理します。
+
+* **通知およびリマインダーサポート**
+  ICS 出力を使用して、カレンダー駆動の調整やフォローアッププロセスをトリガーします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

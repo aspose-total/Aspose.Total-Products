@@ -64,7 +64,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX에서 PPSM 변환은 워드 프로세싱 문서를 매크로 사용 슬라이드쇼 프레젠테이션 파일로 변환합니다. 이 형식은 고급 동작이나 자동화된 슬라이드 상호 작용이 필요할 수 있는 프레젠테이션 재생 시나리오를 지원합니다.
+
+Python API를 사용하면 DOCX‑to‑PPSM 변환을 자동화된 프레젠테이션 시스템, 보고 플랫폼 및 기업 콘텐츠 전달 파이프라인에 통합할 수 있습니다. 이는 문서 기반 소스에서 반복 가능한 슬라이드쇼 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 슬라이드쇼 생성**  
+  DOCX 콘텐츠를 고급 프레젠테이션 기능을 지원하는 슬라이드쇼 파일로 변환합니다.
+
+* **자동화된 프레젠테이션 재생 자산**  
+  문서에서 파생된 콘텐츠를 직접 표시 환경에 준비하는 데 도움이 됩니다.
+
+* **동적 보고 프레젠테이션**  
+  문서를 반복 가능한 보고 워크플로를 위한 슬라이드쇼 출력으로 전환합니다.
+
+* **고급 시각 커뮤니케이션**  
+  구조화된 자동화 지원이 필요한 프레젠테이션 전달 시나리오를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 PPSM 생성**  
+  시스템은 DOCX 문서를 재생 워크플로를 위한 슬라이드쇼 파일로 변환할 수 있습니다.
+
+* **배치 슬라이드쇼 자동화**  
+  Python 스크립트를 사용하여 여러 문서를 매크로 사용 프레젠테이션 출력으로 처리할 수 있습니다.
+
+* **기업 디스플레이 파이프라인**  
+  문서 콘텐츠를 동적 프레젠테이션 환경을 위한 PPSM 파일로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

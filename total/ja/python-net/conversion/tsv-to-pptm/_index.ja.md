@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to PPTM 変換は、タブ区切りデータをマクロ対応のプレゼンテーションファイルに変換し、編集可能なスライド作成と高度なプレゼンテーション動作をサポートします。構造化されたデータセットが分析、レポート、または制御された自動化のためにリッチなスライドベースの出力を提供する企業ワークフローで価値があります。
+
+Python API を使用すると、TSV to PPTM 変換を自動化パイプラインに統合でき、プレゼンテーション資産を効率的に生成し、繰り返し可能でスケーラブルなデータ変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応デッキ作成**  
+  TSV コンテンツを高度なワークフローに適したプレゼンテーションファイルに変換します。
+
+* **構造化スライドレポート**  
+  生の表形式データセットから編集可能なプレゼンテーションの生成をサポートします。
+
+* **自動化されたビジネスコミュニケーション**  
+  定期的な業務利用向けのスライドベース出力の作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **高度なプレゼンテーション自動化**  
+  Python API は構造化された TSV ソースから PPTM ファイルを生成できます。
+
+* **繰り返しスライドワークフロー**  
+  自動化により、データ駆動型プレゼンテーション制作の一貫性が向上します。
+
+* **バッチプレゼンテーション変換**  
+  複数の TSV 入力を効率的に PPTM 出力へ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

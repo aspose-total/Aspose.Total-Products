@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de documento para TSV transforma o conteúdo do Word em valores separados por tabulação, um formato estruturado simples ideal para troca limpa de dados baseados em texto e fluxos de trabalho de importação. É útil quando tabelas de documentos ou campos repetidos precisam de saída estruturada leve.
+
+APIs Python ajudam a automatizar a conversão de DOC para TSV para extração escalável, preparação de dados e tarefas de integração onde formatos tabulares em texto simples são preferidos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Dados Leve**
+  Converta tabelas de documentos em TSV para troca estruturada simples.
+
+* **Saída Amigável para Importação**
+  Prepare dados derivados de Word para ferramentas e sistemas que aceitam texto delimitado.
+
+* **Fluxos de Trabalho de Limpeza de Dados**
+  Use a saída TSV para pré-processamento, validação e ingestão em pipelines.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Extração de Dados em Alta Volumetria**
+  Converta automaticamente arquivos DOC em TSV para processamento subsequente.
+
+* **Exportações de Texto Prontas para Pipeline**
+  Gere arquivos delimitados a partir de documentos como parte de fluxos de trabalho ETL ou de importação.
+
+* **Jobs de Transformação Agendados**
+  Padronize programaticamente registros baseados em documentos em TSV de forma recorrente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

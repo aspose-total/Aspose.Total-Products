@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP から PST への変換により、ビットマップ画像コンテンツを PST 電子メールアーカイブファイル内に保存できます。PST ファイルはメッセージ、添付ファイル、その他のメールボックスデータのコンテナとして機能します。
+
+自動化ワークフローは、視覚情報を含むスケーラブルなメールアーカイブ生成を可能にする BMP から PST への変換から恩恵を受けます。これにより、コンプライアンスストレージ、メッセージの移行、長期的なメール保持戦略がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールアーカイブ保存**  
+  BMP 画像は PST 電子メールアーカイブ内に保存できます。
+
+* **メールボックスデータの移行**  
+  視覚的なコミュニケーションは、移行中に PST ファイルへ転送できます。
+
+* **長期メッセージ保持**  
+  組織はコンプライアンス目的で画像ベースのコミュニケーションを保存できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動アーカイブ生成**  
+  スクリプトはアーカイブワークフロー中に BMP ファイルを PST メッセージレコードに変換します。
+
+* **大量メールデータ処理**  
+  システムは BMP ベースのコンテンツを自動的に PST ファイルに統合します。
+
+* **プログラムによるメールボックスエクスポート**  
+  アプリケーションは視覚メッセージを含む PST アーカイブを動的に作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 Excel을 RTF로 변환하면 스프레드시트 내용을 휴대성과 편집 가능한 서식을 균형 있게 갖춘 리치 텍스트 문서로 변환합니다. 스프레드시트 데이터를 구조와 가독성을 유지하면서 텍스트 중심 형식으로 재활용해야 할 때 유용합니다.
+
+이 변환은 스프레드시트 데이터를 공유 가능한 서식 텍스트 출력물로 변환하는 경량 문서 생성 워크플로우를 가능하게 하여 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **서식 있는 텍스트 내보내기**  
+  Excel 데이터를 RTF 문서로 변환하여 읽기 쉽고 편집 가능한 텍스트 기반 배포를 가능하게 합니다.
+
+* **다중 편집기 호환성**  
+  다양한 워드 프로세싱 환경에서 문서 출력이 폭넓은 지원을 필요로 할 때 RTF를 사용합니다.
+
+* **구조화된 콘텐츠 공유**  
+  스프레드시트 정보를 검토 및 재사용에 적합한 보다 간단한 문서 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 텍스트 문서 생성**  
+  보고서 또는 아카이브 워크플로우 내에서 Excel 입력을 사용해 RTF 파일을 생성하기 위해 Python API를 사용합니다.
+
+* **경량 문서 파이프라인**  
+  전체 문서 복잡성 없이 서식 있는 텍스트 출력을 필요로 하는 시스템을 지원합니다.
+
+* **배치 콘텐츠 변환**  
+  스프레드시트 컬렉션을 프로그래밍 방식으로 RTF 파일로 변환하여 더 빠른 전달을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLS a DOC consente di trasformare i dati dei fogli di calcolo in un formato di documento modificabile per la redazione di report, la documentazione e il riutilizzo strutturato dei contenuti. Aiuta i team a trasformare le informazioni aziendali tabulari in documenti narrativi leggibili che supportano la collaborazione, la revisione e la pubblicazione a valle.
+
+L'uso delle API Python per la conversione da XLS a DOC migliora l'automazione dei flussi di lavoro documentali riducendo lo sforzo di formattazione manuale e consentendo la generazione ripetibile di documenti aziendali da fonti di fogli di calcolo su larga scala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di report**
+  Converti i dati basati su fogli di calcolo in layout di documento per riepiloghi, report interni e comunicazioni aziendali.
+
+* **Riformattazione dei contenuti**
+  Trasforma i contenuti tabulari XLS in strutture di documento adatte ai paragrafi per una lettura e una modifica più facili.
+
+* **Flussi di lavoro di documentazione**
+  Utilizza i record dei fogli di calcolo come materiale di base per documenti operativi, note di processo o file di conformità.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione programmata di documenti**
+  Genera automaticamente file DOC da input XLS ricorrenti per i processi di reportistica periodica.
+
+* **Trasformazione di file basata sul flusso di lavoro**
+  Attiva la conversione quando i file dei fogli di calcolo entrano in una pipeline di elaborazione documenti.
+
+* **Pubblicazione dinamica di contenuti**
+  Usa le API Python per convertire i fogli di calcolo aggiornati in documenti modificabili per la revisione e la distribuzione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

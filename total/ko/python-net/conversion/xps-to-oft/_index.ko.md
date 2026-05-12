@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 XPS를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 XPS에서 OFT로의 변환은 고정 레이아웃 문서 콘텐츠를 재사용 가능한 이메일 템플릿 파일로 변환할 수 있게 합니다. 이는 조직이 구조화된 문서 출력을 알림, 캠페인, 승인 또는 표준화된 서신을 위한 반복 가능한 메시지 템플릿으로 변환하려는 경우에 유용합니다.
+
+자동화 워크플로우에서 이 변환은 일관성을 향상시키고 반복적인 작성 작업을 줄이며, 문서 중심 시스템 및 비즈니스 규칙으로부터 템플릿화된 커뮤니케이션을 확장 가능하게 생성하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **재사용 가능한 이메일 템플릿 생성**  
+  XPS 콘텐츠를 OFT 템플릿으로 변환하여 반복적인 커뮤니케이션 시나리오에 재사용할 수 있습니다.
+
+* **표준화된 서신 워크플로우**  
+  문서 기반 이메일 프로세스 전반에 걸쳐 일관된 구조와 메시지를 유지하도록 돕습니다.
+
+* **템플릿 기반 알림 시스템**  
+  문서 출력을 운영 메시지를 위한 반복 가능한 이메일 템플릿으로 전환하는 것을 지원합니다.
+
+* **프로세스 기반 커뮤니케이션 설계**  
+  구조화된 문서 콘텐츠가 템플릿화된 아웃리치 워크플로우에 직접 연결될 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **동적 템플릿 생성**  
+  시스템은 XPS 문서를 OFT 템플릿으로 변환하여 향후 자동화된 메시지 채우기에 사용할 수 있습니다.
+
+* **규칙 기반 커뮤니케이션 파이프라인**  
+  자동화된 워크플로우는 문서 유형이나 워크플로우 단계에 따라 템플릿을 선택하고 생성할 수 있습니다.
+
+* **대량 템플릿 준비**  
+  배치 작업은 표준화된 XPS 입력으로부터 다수의 OFT 파일을 생성하여 확장 가능한 커뮤니케이션 작업을 수행할 수 있습니다.
+
+* **통합 알림 자동화**  
+  변환된 템플릿은 데이터를 프로그래밍 방식으로 병합하여 개인화된 발신 메시지를 생성하는 시스템에서 사용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

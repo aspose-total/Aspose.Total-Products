@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOT를 EML로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to EML 변환은 워드 프로세싱 템플릿을 이메일 저장, 전송 및 보관에 널리 사용되는 표준 이메일 메시지 파일 형식으로 변환합니다. 문서 기반 콘텐츠를 완전한 이메일 아티팩트로 보존하거나 공유해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환을 자동화 시스템에 통합하여 재사용 가능한 템플릿에서 휴대 가능한 이메일 파일을 생성하면서 일관성을 유지하고 수동 준비 시간을 줄일 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이메일 파일 생성**
+  DOT 템플릿을 저장, 검토 또는 배포용 EML 파일로 변환합니다.
+
+* **커뮤니케이션 보관**
+  템플릿 기반 서신을 독립형 이메일 메시지 파일로 보존합니다.
+
+* **시스템 간 전송**
+  호환 가능한 메일 환경 간에 이동할 수 있는 휴대용 이메일 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이메일 패키징**
+  Python 워크플로우를 통해 DOT 문서를 시스템에서 생성된 커뮤니케이션용 EML로 변환합니다.
+
+* **보관 워크플로우**
+  변환은 문서 기반 메시지를 이메일 파일 형태로 자동 보존하는 것을 지원합니다.
+
+* **대량 메시지 준비**
+  프로그래밍 방식 처리를 통해 대규모 템플릿‑to‑EML 변환을 가능하게 하여 확장 가능한 운영을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

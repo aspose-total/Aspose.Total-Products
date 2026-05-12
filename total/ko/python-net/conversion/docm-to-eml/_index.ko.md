@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 EML로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 EML로의 변환은 매크로가 포함된 문서를 표준 이메일 메시지 파일로 변환하여 문서 내용을 이메일 호환 환경에서 보다 쉽게 저장, 전송 또는 처리할 수 있게 합니다. 문서를 독립적인 메시지 아티팩트로 보존해야 할 때 특히 유용합니다.
+
+자동화 및 통합을 위해, DOCM에서 EML로의 워크플로는 개방형 이메일 파일 구조에 의존하는 통신 시스템 전반에 걸쳐 반복 가능한 메시지 생성, 보관 및 라우팅을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메시지 파일 생성**
+  문서 내용을 저장 또는 배포를 위한 휴대용 이메일 메시지 파일로 변환합니다.
+
+* **커뮤니케이션 보관**
+  문서에서 파생된 서신을 이메일 형식으로 보관해야 하는 환경을 지원합니다.
+
+* **시스템 간 이식성**
+  호환 가능한 메일 플랫폼 간에 문서 기반 커뮤니케이션을 이동하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이메일 패키징**
+  수동 메시지 조립 없이 DOCM 문서에서 EML 파일을 생성합니다.
+
+* **워크플로 기반 보관**
+  문서에서 파생된 커뮤니케이션을 기록 보관 시스템을 위한 메시지 파일로 저장합니다.
+
+* **대량 내보내기 작업**
+  확장 가능한 처리 파이프라인에서 여러 DOCM 파일을 EML 출력으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

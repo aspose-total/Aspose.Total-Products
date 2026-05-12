@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から PPSX への変換は、マクロ対応ドキュメントを直接閲覧でき、プレゼンテーションの配信が簡素化された最新のスライドショーファイルに変換します。ドキュメントの内容をポータブルで再生指向の形式で視覚的に提示すべき場合に有用です。
+
+自動化環境において、DOCM から PPSX への変換は、表示前に手動での書式設定や編集を必要とせず、プレゼンテーション用出力をスケーラブルに配布することを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **モダンなスライドショー配信**
+  ドキュメント素材をプレゼンテーション用の直接閲覧可能なスライドショーファイルに変換します。
+
+* **ポータブルなビジュアルコミュニケーション**
+  ドキュメントベースのインサイトを軽量なプレゼンテーション形式で共有するのに役立ちます。
+
+* **再生指向の出力**
+  編集が閲覧に次ぐ位置付けとなるプレゼンテーションシナリオをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー作成**
+  DOCM ソースから PPSX ファイルを生成し、スケジュールされたプレゼンテーションワークフローに使用します。
+
+* **ワークフロー駆動型コンテンツ公開**
+  ドキュメント作成とプレゼンテーション配信システムを接続します。
+
+* **大量プレゼンテーションエクスポート**
+  大量の DOCM ファイルをプログラムでスライドショー用資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

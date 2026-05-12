@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers EMAIL convertit le contenu des modèles Word en sortie prête à être utilisée dans les e‑mails pour les flux de travail de communication, les notifications et les scénarios de messagerie automatisée. C’est utile lorsque le contenu d’un document formel doit être réutilisé comme communication e‑mail structurée.
+
+Ce processus prend en charge l’automatisation en permettant la génération, via Python, de contenu e‑mail réutilisable à partir de modèles de documents, aidant les organisations à étendre efficacement leurs campagnes, alertes et communications transactionnelles.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Messagerie basée sur des modèles**
+  Transformez les modèles de documents en contenu e‑mail pour une communication cohérente.
+
+* **Préparation de notifications**
+  Réutilisez le texte formaté du document dans des mises à jour de statut automatisées ou des alertes.
+
+* **Flux de travail document‑vers‑communication**
+  Faites le lien entre la création de documents formels et les processus de messagerie sortante.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération d’e‑mails en masse**
+  Convertissez plusieurs modèles DOTX en contenu prêt à être envoyé pour des campagnes planifiées.
+
+* **Notifications déclenchées**
+  Utilisez la sortie convertie dans des flux de travail déclenchés par des événements qui envoient des e‑mails automatisés.
+
+* **Correspondance pilotée par les flux de travail**
+  Intégrez la génération d’e‑mails basée sur les documents dans les systèmes d’approbation ou de support.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

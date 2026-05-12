@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Email para EPUB em Python converte o conteúdo das mensagens em publicações digitais refluíveis que são mais fáceis de consumir em dispositivos de leitura e sistemas de conteúdo de formato longo. É valiosa quando coleções de e‑mail, newsletters ou comunicações seriadas precisam se tornar materiais de leitura portáteis.
+
+Essa conversão suporta automação ao permitir que o conteúdo baseado em mensagens seja empacotado, distribuído e reutilizado em fluxos de trabalho escaláveis de publicação digital.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Empacotamento de Newsletter**
+  Converta séries de e‑mail em arquivos EPUB para leitura digital estruturada.
+
+* **Distribuição Portátil de Conhecimento**
+  Transforme conteúdo de e‑mail curado em publicações portáteis para públicos internos ou externos.
+
+* **Preservação de Conteúdo de Formato Longo**
+  Preserve comunicações importantes em um formato amigável ao leitor para referência.
+
+* **Reaproveitamento de Conteúdo**
+  Reutilize arquivos de mensagens como recursos no estilo eBook para treinamento ou documentação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de automação" %}}
+
+* **Montagem Automatizada de Publicação**
+  Combine e‑mails selecionados em saídas EPUB para distribuição de conteúdo programada.
+
+* **Empacotamento de Base de Conhecimento**
+  Transforme tópicos de e‑mail em manuais digitais legíveis por meio de pipelines automatizados.
+
+* **Entrega de Conteúdo Multiplataforma**
+  Gere arquivos EPUB a partir de fluxos de mensagens para compartilhamento escalável entre dispositivos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para DOT em Python permite que mensagens sejam transformadas em arquivos de modelo Word para criação padronizada de documentos. Isso é útil quando o conteúdo do e‑mail serve como ponto de partida para modelos repetíveis usados em processos administrativos, jurídicos ou operacionais.
+
+Ele apoia a automação ajudando organizações a converter padrões de comunicação em ativos de modelo reutilizáveis que melhoram a consistência e reduzem a preparação manual de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo a partir de Comunicações**
+  Converta estruturas de e‑mail recorrentes em modelos DOT para geração repetida de documentos.
+
+* **Layouts de Conteúdo Padronizados**
+  Preserve formatos comuns baseados em e‑mail como arquivos de modelo reutilizáveis.
+
+* **Construção Operacional de Formulários**
+  Transforme padrões de mensagens em documentos iniciais para fluxos de trabalho internos.
+
+* **Consistência de Formatação**
+  Aplique regras de layout repetíveis armazenando estruturas derivadas de e‑mail como modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Biblioteca de Modelos**
+  Crie automaticamente modelos DOT a partir de conteúdo de e‑mail estruturado para uso departamental.
+
+* **Produção Repetível de Documentos**
+  Use modelos convertidos para criar saídas consistentes a partir de comunicações recorrentes.
+
+* **Padronização de Formulários Orientada por Fluxo de Trabalho**
+  Alimente sistemas com modelos derivados de e‑mail que geram documentos rotineiros automaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB를 MOBI로 변환하면 이진 스프레드시트 콘텐츠를 전자책 친화적인 형식으로 변환하여 구조화된 데이터와 생성된 텍스트 콘텐츠를 휴대 가능한 읽기 환경으로 배포할 수 있습니다. 이는 스프레드시트 기반 정보를 읽을 수 있는 디지털 출판물로 재활용해야 할 때 유용합니다.
+
+자동화 워크플로우에서 XLSB를 MOBI로 변환하면 확장 가능한 콘텐츠 출판을 지원하여 시스템이 데이터 중심 스프레드시트 소스를 디지털 배포, 지식 공유 및 자동 출판 파이프라인에 적합한 휴대용 문서로 변환할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **디지털 출판**  
+  스프레드시트에서 파생된 콘텐츠를 전자책 스타일의 읽기를 위한 휴대용 형식으로 변환합니다.
+
+* **지식 배포**  
+  구조화된 정보를 모바일 및 오프라인 소비를 위해 패키징하는 데 도움이 됩니다.
+
+* **콘텐츠 재활용**  
+  스프레드시트 데이터를 보다 접근하기 쉬운 장문 디지털 콘텐츠로 전환합니다.
+
+* **휴대용 문서화**  
+  생성된 문서를 독자 친화적인 형식으로 제공하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동 전자책 생성**  
+  시스템은 XLSB 콘텐츠를 디지털 출판 워크플로우를 위한 MOBI 파일로 변환할 수 있습니다.
+
+* **배치 콘텐츠 출판**  
+  대량의 스프레드시트 기반 자료를 휴대용 읽기 형식으로 변환할 수 있습니다.
+
+* **문서 배포 파이프라인**  
+  자동화된 워크플로우는 스프레드시트에서 파생된 참조 콘텐츠를 보다 넓은 배포를 위해 준비할 수 있습니다.
+
+* **데이터-출판 변환**  
+  구조화된 스프레드시트 입력은 프로그래밍 기반 출판 시스템에 공급될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から XLT への変換は、OpenDocument のテキストテンプレートを、将来のブック作成を標準化するために使用されるスプレッドシートテンプレートファイルに変換します。これは、ドキュメントの内容を単一の出力ファイルではなく、再利用可能な表形式の設計図にする必要がある場合に有用です。
+
+この変換は、テンプレート駆動の構造から一貫したスプレッドシート生成を可能にし、繰り返しの設定を削減し、運用の均一性を向上させることで、オートメーション価値を付加します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **スプレッドシートテンプレート作成**  
+  ソースドキュメントを再利用可能なブックテンプレートに変換します。
+
+* **標準化されたデータ入力フレームワーク**  
+  将来の使用のために繰り返し可能なスプレッドシート構造を定義するのに役立ちます。
+
+* **プロセスの一貫性**  
+  チームやワークフロー全体で均一なブック生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートライブラリ生成**  
+  標準化された OTT ドキュメントから XLT ファイルを生成します。
+
+* **繰り返しブックセットアップ**  
+  再利用可能なスプレッドシート基盤の準備を自動化します。
+
+* **スケーラブルなデータ収集ワークフロー**  
+  事前定義された構造で繰り返し可能なブック作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

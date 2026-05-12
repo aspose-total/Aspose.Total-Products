@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCX do VCF w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to VCF conversion transforms document-based contact information into digital contact card files used for address book and contact management systems. This process enables names, phone numbers, email addresses, and related contact fields to be extracted from documents into a portable standard format.
+
+Using Python APIs, DOCX-to-VCF conversion can be integrated into customer data workflows, contact migration pipelines, and automated communication systems. It supports scalable transformation of structured contact data from documents into reusable contact records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja danych kontaktowych**  
+  Konwertuje informacje kontaktowe przechowywane w plikach DOCX na przenośne cyfrowe karty kontaktowe.
+
+* **Migracja książki adresowej**  
+  Umożliwia importowanie list kontaktów opartych na dokumentach do systemów zarządzania kontaktami.
+
+* **Ponowne wykorzystanie informacji o klientach**  
+  Wspiera konwersję ustrukturyzowanych rekordów kontaktowych dla przepływów komunikacji.
+
+* **Generowanie przenośnych plików kontaktowych**  
+  Ułatwia dystrybucję i przechowywanie danych kontaktowych w powszechnie akceptowanym formacie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne tworzenie plików kontaktowych**  
+  Systemy mogą wyodrębniać pola kontaktowe z plików DOCX i automatycznie generować rekordy VCF.
+
+* **Batchowe pipeline’y migracji kontaktów**  
+  Skrypty Pythona mogą przetwarzać wiele dokumentów na cyfrowe karty kontaktowe.
+
+* **Automatyzacja CRM i komunikacji**  
+  Dane kontaktowe pochodzące z dokumentów mogą być przekształcane w pliki VCF dla zsynchronizowanych przepływów kontaktowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

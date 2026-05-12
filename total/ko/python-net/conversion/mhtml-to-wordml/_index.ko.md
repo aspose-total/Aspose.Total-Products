@@ -44,7 +44,47 @@ Python 개발자의 경우 응용 프로그램 내에서 MHTML 및 HtmlFixed를 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MHTML을 WordML로 변환하면 보관된 웹 콘텐츠를 구조화된 문서 처리 및 시스템 수준 처리를 위해 XML 기반 Word 문서 마크업으로 변환합니다. 특히 문서 콘텐츠를 XML 인식 워크플로에 통합하거나 프로그래밍 도구를 사용해 추가 변환해야 할 때 매우 유용합니다.
+
+자동화가 많이 적용된 환경에서는 WordML이 확장 가능한 처리, 구조화된 교환 및 규칙 기반 시스템에서 문서 콘텐츠를 보다 쉽게 조작할 수 있도록 지원합니다. 이는 웹에서 유래한 정보를 기계가 읽을 수 있는 문서 워크플로와 연결하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **XML 기반 문서 변환**  
+  구조화되고 기계가 읽을 수 있는 문서 형식에 의존하는 시스템을 위해 MHTML 파일을 WordML로 변환합니다.
+
+* **시스템 통합 워크플로**  
+  변환된 콘텐츠를 XML 인식 플랫폼 및 서비스로 이동해야 할 때 WordML 출력을 사용합니다.
+
+* **프로그래밍 기반 문서 처리**  
+  코드 기반 환경에서 변환된 문서를 보다 쉽게 파싱, 검증 및 변환할 수 있게 합니다.
+
+* **구조화된 아카이브 변환**  
+  제어되고 확장 가능한 문서 작업에 적합한 형식으로 보관된 웹 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **XML 문서 파이프라인**  
+  구조화된 콘텐츠 및 변환 시스템에서 처리하기 위해 MHTML을 자동으로 WordML로 변환합니다.
+
+* **규칙 기반 콘텐츠 처리**  
+  자동화된 규칙을 통해 검증하거나 수정할 수 있는 WordML 파일을 생성하기 위해 Python API를 사용합니다.
+
+* **데이터 교환 자동화**  
+  상호 운용성을 위해 XML 친화적 형식이 필요한 워크플로에 변환된 문서를 통합합니다.
+
+* **기계가 읽을 수 있는 아카이브 처리**  
+  캡처된 웹 페이지를 확장 가능한 파싱 및 하위 자동화를 지원하는 구조화된 출력으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Voor een Python-ontwikkelaar, die probeert een ODT naar MBOX-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT‑naar‑MBOX‑conversie zet documentinhoud om in een mailbox‑achtig formaat dat geschikt is voor gegroepeerde berichtopslag en archiveringsworkflows. Dit is nuttig wanneer documenttekst moet worden verpakt voor e‑mail‑achtige opslag, migratie of recordconsolidatie.
+
+Met Python‑API’s kan ODT‑naar‑MBOX‑conversie worden geïntegreerd in geautomatiseerde archiverings‑ en communicatielijnen. Het ondersteunt een consistente transformatie van documentinhoud naar bericht‑georiënteerde containers voor verdere verwerking.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Mailboxarchiefvoorbereiding**  
+  Converteert documenten naar een formaat dat geschikt is voor gebundelde berichtopslag.
+
+* **Communicatie‑recordverpakking**  
+  Helpt documentafgeleide inhoud te organiseren naast e‑mailgerichte archieven.
+
+* **Migratieondersteuning**  
+  Faciliteert de verplaatsing van inhoud naar berichtgebaseerde repositories.
+
+* **Bulkinhoudconsolidatie**  
+  Stelt gegroepeerde opslag van meerdere geconverteerde items mogelijk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Archiefgeneratie‑workflows**  
+  Python‑taken kunnen meerdere ODT‑bestanden automatisch omzetten naar mailbox‑stijl uitvoer.
+
+* **Retentie‑pipelineondersteuning**  
+  Geautomatiseerde systemen kunnen documentafgeleide berichten opslaan in langetermijnarchieven.
+
+* **Bulkverpakkingsoperaties**  
+  Grote batches documenten kunnen worden gegroepeerd in overdraagbare mailbox‑bestanden.
+
+* **Inhoudsmigratie‑automatisering**  
+  Conversiepijplijnen kunnen records voorbereiden voor systemen die afhankelijk zijn van mailbox‑containers.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

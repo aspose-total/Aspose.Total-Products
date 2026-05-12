@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による Email から DOCM への変換により、メッセージをマクロ対応の Word 文書に変換して高度な文書ワークフローで利用できるようになります。この形式は、変換されたメール内容が埋め込み自動化や文書スクリプトに依存する環境に入る必要がある場合に有用です。
+
+メール由来の文書が企業システム内のマクロ駆動型レビュー、強化、文書処理プロセスと統合できるようにすることで、自動化を強化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応文書処理**
+  メールを DOCM ファイルに変換し、 自動化された文書アクションに依存するワークフローで使用します。
+
+* **構造化レビュー操作**
+  テンプレートやマクロが検証や書式設定をサポートする管理された環境で、変換されたメッセージを使用します。
+
+* **エンタープライズ文書パイプライン**
+  メール内容を操作ファイルに挿入し、下流のスクリプト動作をトリガーします。
+
+* **プロセス標準化**
+  メール由来の文書がマクロ対応オフィスワークフローと整合する必要がある場合に、一貫性を維持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スクリプト化された文書強化**
+  メールを DOCM に変換し、マクロを適用してメタデータ、ヘッダー、分類情報などを自動的に追加します。
+
+* **ワークフロー主導のファイル準備**
+  メール内容をマクロ対応テンプレートに流し込み、内部処理とルーティングを行います。
+
+* **自動レコード書式設定**
+  文書スクリプトを使用して、膨大なリポジトリ全体でメール由来のコンテンツを標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji EMAIL do MD w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja e‑mail do MD w Pythonie zamienia treść wiadomości na Markdown, zapewniając lekką, przenośną i przyjazną wersjonowaniu dokumentację tekstową. Jest szczególnie cenna, gdy informacje z e‑maili muszą być ponownie wykorzystane w dokumentacji, bazach wiedzy, przepływach pracy deweloperów lub systemach publikacji.
+
+Ta konwersja usprawnia automatyzację, ułatwiając parsowanie, przechowywanie, przekształcanie i publikowanie treści e‑maili w pipeline’ach opartych na tekście przy minimalnym nakładzie formatowania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Publikowanie bazy wiedzy**
+  Konwertuj e‑maile na Markdown dla portali dokumentacji i wewnętrznych wiki.
+
+* **Archiwa kontrolowane wersjami**
+  Zachowaj ważne komunikacje w formacie tekstowym odpowiednim do śledzenia w repozytorium.
+
+* **Uproszczenie treści**
+  Zredukuj złożone formatowanie e‑maili do czystego, przenośnego markup’u do ponownego użycia.
+
+* **Przepływy pracy skoncentrowane na deweloperach**
+  Używaj wyników w Markdown, gdy zespoły techniczne zarządzają treścią w systemach opartych na tekście.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja od skrzynki do wiki**
+  Przekształć wybrane e‑maile w strony Markdown dla przeszukiwalnych platform wiedzy.
+
+* **Aktualizacje dokumentacji oparte na repozytorium**
+  Zatwierdzaj przekonwertowaną treść wiadomości w wersjonowanych pipeline’ach automatycznie.
+
+* **Statyczne przepływy publikacji**
+  Wprowadzaj wyniki e‑maili w Markdown do generatorów i systemów automatyzacji treści.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

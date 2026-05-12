@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した TIFF から MBOX への変換は、画像ベースの文書をスケールでメッセージ形式のコンテンツを保持できるメールボックスアーカイブ構造に変換するのに役立ちます。これは、TIFF 由来の通信記録を大量のメールストレージワークフロー内で保存または整理する必要がある組織にとって有益です。
+
+自動化主導の環境では、TIFF から MBOX への変換によりアーカイブ効率が向上し、視覚的記録をメールボックス互換のコレクションに大規模に処理できるようになります。統合ストレージ、移行準備、構造化エクスポートが重要な場合に特に関連します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールボックスアーカイブ作成**
+  TIFF コンテンツを MBOX 互換の出力に変換し、統合されたメール形式のストレージを実現します。
+
+* **大量記録の保存**
+  画像由来の文書をアーカイブに適したメールボックス構造で整理するのに役立ちます。
+
+* **移行準備**
+  視覚的通信記録を互換性のあるメールシステムへの転送のために準備することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量アーカイブ自動化**
+  TIFF 文書のバッチを MBOX 出力に変換し、スケーラブルなアーカイブワークフローを実現します。
+
+* **保持パイプライン支援**
+  メッセージコレクション形式内で画像ベースの記録を自動的に保存できるようにします。
+
+* **エクスポートおよび転送処理**
+  TIFF ソースからメールボックスアーカイブを動的に生成し、下流の移行タスクを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

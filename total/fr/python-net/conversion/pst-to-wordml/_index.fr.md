@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST vers WordML dans les API Python convertit le contenu de la boîte aux lettres en une représentation Word basée sur XML qui prend en charge le traitement structuré et l’interopérabilité des documents. Elle est utile dans les flux de travail techniques où le contenu dérivé des e‑mails doit être conservé dans un format orienté balisage pour la transformation ou l’intégration.
+
+Pour l’automatisation, la conversion PST vers WordML aide à connecter les archives de boîtes aux lettres aux systèmes de documents pilotés par XML et aux pipelines de traitement basés sur des règles. Elle prend en charge la manipulation, l’inspection et l’échange évolutifs de contenu de documents structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Représentation de document XML**
+  Convertit le contenu PST en WordML pour la gestion de documents structurés.
+
+* **Échange de contenu interopérable**
+  Facilite le déplacement des fichiers dérivés de boîtes aux lettres à travers des systèmes et flux de travail basés sur le balisage.
+
+* **Structure de document inspectable**
+  Prend en charge les processus techniques qui bénéficient d’un balisage de document lisible.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Intégration de flux de travail XML**
+  Les systèmes automatisés peuvent traiter la sortie WordML pour des tâches de validation ou de transformation.
+
+* **Pipelines de documents structurés**
+  Les données de boîte aux lettres converties peuvent circuler dans des processus d’entreprise centrés sur le balisage.
+
+* **Manipulation programmatique du contenu**
+  WordML permet une transformation évolutive des documents dérivés d’e‑mail via le code.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

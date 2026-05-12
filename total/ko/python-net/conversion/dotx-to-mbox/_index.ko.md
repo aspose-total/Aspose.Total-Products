@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTX를 MBOX로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 MBOX로의 변환은 Word 템플릿 콘텐츠를 메시지 컬렉션을 저장하는 데 사용되는 메일함 기반 이메일 아카이브 형식으로 변환합니다. 템플릿에서 생성된 커뮤니케이션을 보존해야 할 경우, 보존 또는 마이그레이션 워크플로우를 위해 대량으로 저장하는 데 유용합니다.
+
+Python API를 사용하여 이 변환은 메시지 패키징, 아카이브 작업 및 장기 저장 프로세스를 자동화하는 데 도움이 되며, 구조화된 문서 콘텐츠가 이메일 기반 기록의 일부가 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **대량 메시지 아카이빙**
+  템플릿 기반 커뮤니케이션을 메일함 스타일 저장 형식으로 변환합니다.
+
+* **이메일 컬렉션 관리**
+  여러 생성된 메시지를 하나의 아카이브 구조에 보존합니다.
+
+* **마이그레이션 준비**
+  문서에서 파생된 커뮤니케이션을 메일 아카이브로 이동하는 워크플로우를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 아카이브 생성**
+  예약 작업에서 DOTX 기반 이메일 콘텐츠로부터 MBOX 출력을 생성합니다.
+
+* **보존 워크플로우**
+  변환된 커뮤니케이션을 거버넌스 목적을 위해 중앙 아카이브에 저장합니다.
+
+* **문서-메일 통합**
+  반복되는 템플릿 출력을 프로그래밍 방식으로 메일함 컬렉션에 패키징합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

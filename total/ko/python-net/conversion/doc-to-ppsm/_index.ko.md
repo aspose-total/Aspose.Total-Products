@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to PPSM conversion converts Word content into macro-enabled slideshow files for presentation workflows that require playback format plus advanced automation behavior. It is useful for organizations handling structured presentation delivery with reusable logic.
+
+Using Python APIs, DOC to PPSM conversion can be scaled across document libraries, improving efficiency in macro-enabled slideshow generation and standardized presentation deployment.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 슬라이드쇼 생성**
+  고급 프레젠테이션 동작을 지원하는 슬라이드쇼 파일로 문서 콘텐츠를 변환합니다.
+
+* **자동화된 프레젠테이션 전달**
+  프레젠테이션 재생과 내장 자동화가 모두 중요한 경우 PPSM 출력을 사용합니다.
+
+* **구조화된 커뮤니케이션 패키징**
+  문서 기반 정보를 제어된 슬라이드쇼 형식으로 패키징합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드쇼 제작**
+  고급 프레젠테이션 워크플로를 위해 DOC 입력으로부터 PPSM 파일을 생성합니다.
+
+* **재생 중심 콘텐츠 파이프라인**
+  문서 콘텐츠를 매크로 사용이 가능한 슬라이드쇼 자산으로 프로그래밍 방식으로 변환합니다.
+
+* **반복 가능한 배포 워크플로**
+  Python 자동화를 사용하여 대규모로 프레젠테이션 전달 파일을 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

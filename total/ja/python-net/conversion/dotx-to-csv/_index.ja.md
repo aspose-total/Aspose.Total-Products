@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から CSV への変換は、構造化された Word テンプレートの内容をカンマ区切りの値に変換し、データ交換、レポート作成、システム間相互運用性を容易にします。文書ベースの情報を表形式のワークフローで再利用したり、分析や業務システムにインポートしたりする必要がある場合に便利です。
+
+この変換は、再利用可能なテンプレートコンテンツを機械可読データセットに変換することで自動化を支援し、パイプラインで処理したり、データベースと同期したり、Python API を使用して文書が大量にある業務でスケールさせることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化データ抽出**
+  テンプレート駆動の文書コンテンツを行と列に変換し、下流の処理に利用できるようにします。
+
+* **レポートワークフロー**
+  ダッシュボード、監査、スプレッドシートベースの分析用に文書データを準備します。
+
+* **システム間相互運用性**
+  文書コンテンツをデータプラットフォームや業務アプリケーションに簡単にインポートできるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ文書処理**
+  大量のデータ処理のために、複数の DOTX ファイルを自動的に CSV に変換します。
+
+* **テンプレートからデータベースへのパイプライン**
+  CSV 出力をデータベースへの自動取り込みの中間フォーマットとして使用します。
+
+* **運用データ正規化**
+  繰り返し生成される文書出力を、スケジュールされた自動化に適した形式に標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para RTF converte o conteúdo da caixa de correio para o formato Rich Text, preservando texto editável com formatação básica em um padrão de documento amplamente compatível. É útil para compartilhar, editar e reutilizar conteúdo derivado de e‑mail em diferentes sistemas e aplicativos.
+
+Do ponto de vista da automação, a conversão de OST para RTF oferece uma ponte prática entre dados de caixa de correio arquivados e fluxos de trabalho flexíveis baseados em texto. APIs Python facilitam a automação da conversão em escala, suportando interoperabilidade e simplificando o manuseio de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preservação de Texto Formatado**  
+  Converte os dados da caixa de correio em RTF mantendo a estrutura de texto legível e a estilização.
+
+* **Troca de Documentos Multiplataforma**  
+  Suporta o compartilhamento de conteúdo derivado de e‑mail em uma ampla variedade de ferramentas de documentos.
+
+* **Preparação de Registros Editáveis**  
+  Ajuda a transformar comunicações arquivadas em arquivos modificáveis para revisão ou reutilização.
+
+* **Fluxos de Trabalho de Documentação Leves**  
+  Permite o armazenamento prático do conteúdo da caixa de correio em um formato de texto formatado simples.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Conversão de Texto**  
+  Scripts Python automatizam a transformação de OST para RTF para fluxos de trabalho de documentos interoperáveis.
+
+* **Automação de Reuso de Conteúdo**  
+  Sistemas automatizados preparam registros de comunicação editáveis a partir de arquivos de caixa de correio.
+
+* **Processos Padronizados de Exportação**  
+  A conversão programática suporta a entrega escalável de saídas de texto formatado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

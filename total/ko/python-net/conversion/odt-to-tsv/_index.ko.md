@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 TSV로 변환은 문서 내용을 구조화된 데이터 교환 및 가벼운 처리를 위해 탭으로 구분된 텍스트 형식으로 변환합니다. 문서 기반 테이블이나 레코드를 간단하고 기계가 읽을 수 있는 구조로 이동해야 할 때 유용합니다.
+
+Python API를 사용하여 ODT에서 TSV로 변환은 확장 가능한 데이터 추출, 인제스트 파이프라인 및 상호 운용 가능한 문서 처리를 지원합니다. 구조화된 콘텐츠를 분석, 저장 및 변환 워크플로우로 이동하는 과정을 단순화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **간단한 구조화된 내보내기**  
+  문서 테이블을 가벼운 탭 구분 형식으로 변환합니다.
+
+* **데이터 파이프라인 준비**  
+  처리 및 분석 시스템으로의 손쉬운 인제스트를 지원합니다.
+
+* **레코드 정규화**  
+  추출된 콘텐츠를 하위 사용을 위해 표준화하는 데 도움이 됩니다.
+
+* **상호 운용 가능한 텍스트 기반 교환**  
+  구조화된 문서 콘텐츠를 플랫폼 간에 더 쉽게 이동할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 테이블 추출**  
+  Python 워크플로우는 ODT 콘텐츠를 파이프라인 준비 출력용 TSV로 변환할 수 있습니다.
+
+* **분석을 위한 배치 변환**  
+  대규모 문서 세트를 자동으로 간단한 구조화된 텍스트로 내보낼 수 있습니다.
+
+* **데이터 정리 및 내보내기 워크플로우**  
+  추출된 값은 TSV 파일에 기록되기 전에 검증될 수 있습니다.
+
+* **시스템 통합 파이프라인**  
+  변환된 TSV 출력은 데이터베이스, 스크립트 또는 보고 프로세스에 공급될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

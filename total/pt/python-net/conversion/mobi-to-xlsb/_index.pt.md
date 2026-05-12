@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MOBI para XLSB em Python converte conteúdo baseado em e‑books para um formato de planilha binária projetado para armazenamento eficiente e desempenho. Isso é especialmente útil ao lidar com saídas estruturadas maiores que se beneficiam de uma representação compacta da pasta de trabalho e de carregamento mais rápido em ambientes de planilhas.
+
+Para automação, a conversão de MOBI para XLSB suporta processamento de alto volume, manipulação eficiente de arquivos e geração escalável de planilhas. É bem adequada para pipelines de documentos que precisam de saída orientada ao desempenho, preservando a estrutura da planilha para análise e uso operacional.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Armazenamento Eficiente de Pasta de Trabalho**
+  Converta o conteúdo MOBI para XLSB para reduzir a sobrecarga em fluxos de trabalho de planilhas maiores.
+
+* **Manipulação de Dados em Alto Volume**
+  Use a saída binária da pasta de trabalho para exportações de dados estruturados que necessitam de melhores características de desempenho.
+
+* **Distribuição Baseada em Planilhas**
+  Entregue informações extraídas em um formato adequado para uso intensivo de planilhas operacionais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Jobs de Exportação Orientados ao Desempenho**
+  Gere arquivos XLSB automaticamente quando fluxos de trabalho processam grandes conjuntos de dados derivados de e‑books.
+
+* **Pipelines de Planilhas Escaláveis**
+  Use a lógica de conversão em Python para produzir saídas compactas de pastas de trabalho para tarefas em lote recorrentes.
+
+* **Entrega de Dados Operacionais**
+  Direcione o conteúdo estruturado para arquivos de planilha de alta eficiência para equipes e sistemas downstream.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

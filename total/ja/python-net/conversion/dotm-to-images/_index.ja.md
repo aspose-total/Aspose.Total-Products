@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から画像への変換は、マクロ対応の Word テンプレートを、プレビュー、共有、デジタルチャネルへの埋め込みが容易な視覚フォーマットに変換します。文書内容をレビュー、出版、プレゼンテーション目的で固定された視覚出力として配布する必要がある場合に有用です。
+
+DOTM から画像への変換に Python API を使用すると、テンプレート文書を一貫してレンダリングされた視覚資産に変換することで自動化をサポートします。これにより、プレビュー生成、文書出版、編集不可の視覚表現が好まれるワークフローのスケーラビリティが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **文書プレビュー作成**
+  DOTM ファイルを画像に変換し、Web、モバイル、ダッシュボードインターフェースでの迅速な閲覧を実現します。
+
+* **視覚的アーカイブ**
+  テンプレート文書の外観を静的画像として保存し、参照や共有に利用します。
+
+* **コンテンツ埋め込み**
+  DOTM ファイルから生成した画像出力をポータル、プレゼンテーション、または自動レポートシステムに使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイルおよびプレビューの自動化**
+  システムは DOTM テンプレートから画像プレビューを自動的に生成し、閲覧やインデックス作成に活用できます。
+
+* **出版ワークフローのサポート**
+  変換により文書ページを画像に自動レンダリングし、コンテンツ配信を実現します。
+
+* **大量の視覚出力**
+  プログラムによる処理で多数のテンプレートファイルを効率的に画像セットへ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

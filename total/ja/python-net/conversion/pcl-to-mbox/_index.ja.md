@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PCL から MBOX への変換により、プリンターで生成されたドキュメントをメッセージコレクションや長期保存に適したメールボックスアーカイブ形式に変換できます。これは、文書ベースのコミュニケーションをアーカイブ対応のメールコンテナに統合したい組織にとって有用です。
+
+自動化により、PCL から MBOX への変換は大量処理、標準化された保持、レガシー出力の構造化されたアーカイブワークフローへのスムーズな移行をサポートします。これにより、印刷中心のシステムと最新のアーカイブおよびメール管理慣行との橋渡しが可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **メールボックスアーカイブ作成**  
+  PCL コンテンツを MBOX 形式に変換し、統合されたメッセージ保存を実現します。
+
+* **歴史的記録の保存**  
+  広く使用されているメールボックス構造で、印刷起源のコミュニケーションのアーカイブをサポートします。
+
+* **レガシー出力の移行**  
+  プリンター基盤のドキュメントをメールアーカイブエコシステムへ移行するのに役立ちます。
+
+* **大量メッセージのパッケージ化**  
+  変換されたコンテンツをコンテナベースのメールアーカイブにまとめることを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化アーカイブワークフロー**  
+  PCL ファイルはバッチ変換され、保持およびコンプライアンスプロセスのために MBOX アーカイブにできます。
+
+* **レガシーシステムの統合**  
+  自動化パイプラインにより、印刷出力をメールボックスベースのリポジトリに集中させることができます。
+
+* **大量レコード変換**  
+  大量の PCL ドキュメントを手動でパッケージ化せずに MBOX ファイルに変換できます。
+
+* **プログラム的保持パイプライン**  
+  変換されたアーカイブは、ストレージ、インデックス、または監査システムへ直接移行できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

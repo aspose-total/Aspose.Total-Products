@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から VCF への変換は、マクロ対応ドキュメントの内容を連絡先カードファイルに変換し、名前、住所、通信情報を連絡先管理ワークフローで再利用しやすくします。文書に構造化された個人または組織の連絡先情報が含まれている場合に有用です。
+
+自動化とスケーラビリティのために、DOCM から VCF への変換は、連絡先の抽出、同期されたアドレス帳の更新、文書内の詳細情報をポータブルな連絡先レコードに繰り返し変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **連絡先情報の抽出**
+  文書から構造化された連絡先詳細をポータブルなカードファイルに変換します。
+
+* **アドレス帳の更新**
+  文書ベースの連絡先レコードを連絡先管理環境に移行するのに役立ちます。
+
+* **ポータブル連絡先の共有**
+  個人またはビジネスの連絡先情報の標準化された交換をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先生成**
+  連絡先データを含む DOCM 文書から VCF ファイルを作成します。
+
+* **CRM とディレクトリの統合**
+  文書由来の連絡先レコードのワークフローに基づくインポートをサポートします。
+
+* **大量連絡先変換**
+  複数の文書を効率的に標準化された連絡先ファイルに処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji ICS do DOCX w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja z ICS do DOCX przy użyciu interfejsów API Pythona umożliwia eksport danych zdarzeń kalendarza do nowoczesnych formatów dokumentów Word. To pozwala na przekształcenie ustrukturyzowanych informacji o harmonogramie w łatwo czytelne dokumenty, które można udostępniać, edytować lub archiwizować.
+
+Automatyzując proces konwersji, aplikacje Pythona mogą generować dokumenty DOCX bezpośrednio z plików kalendarza, wspierając skalowalne raportowanie, dokumentację i przepływy pracy zarządzania treścią.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Dokumenty podsumowujące wydarzenia**  
+  Twórz ustrukturyzowane dokumenty Word podsumowujące harmonogramy kalendarza.
+
+* **Raporty planowania zespołu**  
+  Eksportuj linie czasu wydarzeń do dokumentów w celu planowania i współpracy.
+
+* **Dokumentacja cyfrowa**  
+  Przechowuj informacje kalendarza jako edytowalne pliki DOCX do przyszłych aktualizacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne tworzenie dokumentów**  
+  Generuj raporty DOCX z kalendarzy ICS za pomocą zautomatyzowanych skryptów.
+
+* **Integracja harmonogramowania**  
+  Konwertuj dane wydarzeń na dokumenty w systemach przepływu pracy przedsiębiorstwa.
+
+* **Masowa obróbka dokumentów**  
+  Programowo konwertuj wiele harmonogramów ICS na dokumenty DOCX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

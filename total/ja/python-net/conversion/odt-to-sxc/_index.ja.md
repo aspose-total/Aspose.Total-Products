@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から SXC への変換は、OpenDocument Text のコンテンツを構造化データ処理に使用されるスプレッドシート指向の形式に変換します。文書ベースの表、リスト、またはレコードをセルベースのレイアウトに再利用してレビューや処理を行う必要がある場合に便利です。
+
+自動化環境において、ODT から SXC への変換は文書データの抽出、レガシーなスプレッドシートとの相互運用性、そしてスケーラブルなコンテンツ構造化をサポートします。Python API を使用すると、複数のファイルにわたってこれらの変換を確実に自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシート指向のデータ抽出**  
+  構造化された文書コンテンツをセルベースのレイアウトに変換します。
+
+* **レガシーフォーマットのサポート**  
+  古いスプレッドシートのワークフローとの互換性を維持するのに役立ちます。
+
+* **テーブルとレコードの移行**  
+  文書情報をより分析しやすい構造に移行します。
+
+* **運用データの再利用**  
+  抽出されたコンテンツのレビューと処理が容易になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **レガシースプレッドシート変換パイプライン**  
+  Python の自動化により、ODT のテーブルを SXC 出力に自動的に変換できます。
+
+* **バッチレコード抽出**  
+  複数の文書を大規模にスプレッドシート形式に処理できます。
+
+* **データ検証とエクスポート**  
+  抽出されたコンテンツは SXC へ変換する前に正規化できます。
+
+* **ワークフロー相互運用性のサポート**  
+  変換された出力は、依然として古いスプレッドシート構造に依存するシステムに供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

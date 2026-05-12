@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 XLAM으로 변환하면 OpenDocument 텍스트 템플릿을 애드인 기반 스프레드시트 출력으로 변환하여 워크북 기능을 확장합니다. 이는 변환된 콘텐츠가 재사용 가능한 스프레드시트 기반 자동화 자산에 기여하는 특수 워크플로에서 유용합니다.
+
+이 변환은 문서에서 유래한 로직이나 구조화된 콘텐츠를 스프레드시트 확장 워크플로와 정렬함으로써 자동화를 지원하고, 고급 워크북 환경 전반에 걸쳐 반복 가능한 작업을 표준화하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 확장 지원**  
+  문서 콘텐츠를 애드인 기반 스프레드시트 워크플로와 연결합니다.
+
+* **재사용 가능한 자동화 자산 준비**  
+  구조화된 콘텐츠를 반복적인 워크북 사용을 위해 패키징하는 데 도움을 줍니다.
+
+* **고급 워크플로 통합**  
+  텍스트 템플릿과 스프레드시트 기능 시나리오를 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 애드인 콘텐츠 준비**  
+  OTT 템플릿에서 XLAM 관련 출력을 프로그래밍 방식으로 생성합니다.
+
+* **워크북 향상 파이프라인**  
+  콘텐츠 변환과 스프레드시트 자동화를 결합한 워크플로를 지원합니다.
+
+* **재사용 가능한 비즈니스 로직 배포**  
+  구조화된 스프레드시트 솔루션을 팀 전반에 걸쳐 확장하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

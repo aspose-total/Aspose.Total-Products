@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 ODT를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to ICS 변환은 문서 내용을 캘린더 호환 데이터로 변환하여 일정, 이벤트 설명 또는 시간 기반 정보를 재사용 가능한 캘린더 항목으로 만들 때 유용합니다. 텍스트 문서에 날짜, 회의 또는 구조화된 타임라인이 포함된 경우에 가치가 있습니다.
+
+자동화된 환경에서 ODT to ICS 변환은 일정 파이프라인, 이벤트 게시 및 캘린더 동기화를 가능하게 합니다. Python API는 관련 날짜 기반 콘텐츠를 추출하고 기계가 읽을 수 있는 캘린더 파일을 효율적으로 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **일정 추출**  
+  문서에서 날짜 및 이벤트 세부 정보를 캘린더 준비 데이터로 변환합니다.
+
+* **회의 배포**  
+  캘린더 도구에 적합한 형식으로 이벤트 정보를 공유하는 데 도움이 됩니다.
+
+* **타임라인 디지털화**  
+  작성된 일정을 실행 가능한 캘린더 아티팩트로 변환합니다.
+
+* **계획 워크플로 지원**  
+  문서 기반 계획 콘텐츠를 운영상 재사용하기 쉽게 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이벤트 생성**  
+  Python 스크립트는 ODT 파일에서 이벤트 세부 정보를 감지하고 ICS 출력물을 생성할 수 있습니다.
+
+* **캘린더 게시 파이프라인**  
+  문서 업데이트는 공유 일정 파일의 자동 재생성을 트리거할 수 있습니다.
+
+* **배치 일정 변환**  
+  여러 계획 문서를 대규모로 캘린더 자산으로 변환할 수 있습니다.
+
+* **워크플로 알림 생성**  
+  프로그래밍 방식 추출은 알림 및 일정 시스템에 자동으로 공급할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

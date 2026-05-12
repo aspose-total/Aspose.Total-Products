@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Word para ICS usando APIs Python converte o conteúdo de documentos em arquivos compatíveis com calendários que podem representar agendas, reuniões, prazos ou dados de eventos. Isso é importante quando agendas, planos ou avisos criados em Word precisam ser reutilizados em sistemas de calendário para facilitar a coordenação e o agendamento.
+
+Em fluxos de trabalho de automação, essa conversão permite que documentos se tornem ativos de agendamento acionáveis, ajudando as equipes a passar de conteúdo de planejamento estático para distribuição dinâmica de calendários e integração de processos baseados em tempo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Publicação de Agenda**
+  Converte conteúdo baseado em datas e horários de documentos em arquivos de importação de calendário.
+
+* **Distribuição de Reuniões e Eventos**
+  Facilita o compartilhamento de planos criados em Word por meio de canais compatíveis com calendários.
+
+* **Gestão de Prazos**
+  Transforma cronogramas documentados em registros de eventos estruturados para acompanhamento.
+
+* **Planejamento Operacional**
+  Conecta informações narrativas de agendamento a sistemas de calendário legíveis por máquinas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Criação Automática de Arquivo de Calendário**
+  Gera arquivos ICS a partir de agendas baseadas em Word para distribuição e importação.
+
+* **Integração de Fluxo de Trabalho de Eventos**
+  Converte planos aprovados em artefatos de calendário quando marcos são finalizados.
+
+* **Pipelines de Planejamento Recorrente**
+  Processa notas de reunião ou agendas em saídas de agendamento estruturadas em escala.
+
+* **Suporte a Notificações e Lembretes**
+  Usa saídas de ICS para acionar coordenação e processos de acompanhamento baseados em calendário.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

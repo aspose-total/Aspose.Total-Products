@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers ODS dans les API Python transforme les modèles de texte OpenDocument en documents de feuille de calcul, facilitant la conversion du matériel source textuel en actifs tabulaires structurés pour le calcul, la révision et l'échange. Elle est utile lorsque le contenu du document doit devenir des données de feuille de calcul éditables.
+
+Cette conversion améliore l'automatisation en reliant la génération de contenu basée sur des modèles aux flux de travail de feuilles de calcul, permettant des rapports, un traitement et une réutilisation évolutifs au sein de systèmes qui dépendent de données structurées.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de feuille de calcul**  
+  Convertit le contenu du modèle en documents de feuille de calcul ouverts et éditables.
+
+* **Préparation de données tabulaires**  
+  Organise les informations du document pour le tri, le filtrage et l'analyse.
+
+* **Compatibilité avec les flux de travail ouverts**  
+  Prend en charge les environnements basés sur les normes de documents OpenOffice.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Exportations récurrentes de feuilles de calcul**  
+  Génère des fichiers ODS à partir de modèles OTT à la demande ou selon un planning.
+
+* **Pipelines document‑vers‑données**  
+  Alimente le contenu converti dans des flux de traitement basés sur des feuilles de calcul.
+
+* **Rapports opérationnels automatisés**  
+  Produit des sorties de classeur cohérentes à partir de sources textuelles standardisées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

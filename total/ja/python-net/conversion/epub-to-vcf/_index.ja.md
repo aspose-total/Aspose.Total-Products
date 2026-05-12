@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB から VCF への変換は、出版物にディレクトリ、プロフィール、または連絡先情報が含まれている場合に、文書内容を連絡先指向のデータファイルに変換することを可能にします。これは、デジタル出版物から構造化された身元情報を抽出し再利用する必要があるワークフローに役立ちます。
+
+自動化重視のシステムにおいて、EPUB から VCF への変換はデータのポータビリティを向上させ、手動での連絡先入力を削減し、Python アプリケーションが出版物由来の連絡先情報を最新のコミュニケーションおよび同期ワークフローに統合できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **連絡先情報の抽出**  
+  人物やディレクトリの詳細を含む EPUB コンテンツを、連絡先ベースの使用のために VCF ファイルに変換します。
+
+* **ディレクトリデータの変換**  
+  構造化された出版情報をポータブルな連絡先レコードに再利用します。
+
+* **CRM とアドレス帳のサポート**  
+  VCF 出力を使用して、関連する連絡先データをコミュニケーション関係を管理するシステムに移行します。
+
+* **プロフィールベースのデータ共有**  
+  インポートおよび配布が容易な形式で、連絡先指向の出版コンテンツを共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先生成**  
+  Python ワークフローは、連絡先関連コンテンツを含む EPUB ドキュメントから VCF ファイルを作成できます。
+
+* **ディレクトリ同期パイプライン**  
+  自動化システムは、出版ベースのディレクトリデータを抽出し、ポータブルな連絡先レコードに変換できます。
+
+* **大量連絡先処理**  
+  連絡先が豊富な EPUB ファイルを大量に、効率的に再利用できるようプログラムで変換できます。
+
+* **動的データ統合**  
+  EPUB から VCF への変換は、連絡先情報をコミュニケーションプラットフォームに供給する自動化ワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

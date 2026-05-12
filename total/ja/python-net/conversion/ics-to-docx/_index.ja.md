@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した ICS から DOCX への変換により、カレンダーイベントデータを最新の Word 文書形式にエクスポートできます。これにより、構造化されたスケジューリング情報を、共有、編集、またはアーカイブできる読みやすい文書に変換できます。
+
+変換プロセスを自動化することで、Python アプリケーションはカレンダーファイルから直接 DOCX 文書を生成でき、スケーラブルなレポート作成、文書化、コンテンツ管理ワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **イベントサマリードキュメント**  
+  カレンダーのスケジュールを要約した構造化された Word 文書を作成します。
+
+* **チーム計画レポート**  
+  イベントのタイムラインを文書にエクスポートし、計画とコラボレーションに活用します。
+
+* **デジタル文書化**  
+  カレンダー情報を将来の更新用に編集可能な DOCX ファイルとして保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動文書作成**  
+  自動スクリプトを使用して、ICS カレンダーから DOCX レポートを生成します。
+
+* **スケジューリング統合**  
+  エンタープライズワークフローシステム内でイベントデータを文書に変換します。
+
+* **大量文書処理**  
+  複数の ICS スケジュールをプログラムで DOCX 文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

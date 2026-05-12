@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers PPTM dans les API Python convertit les modèles de texte OpenDocument en fichiers de présentation avec macros qui prennent en charge l'automatisation avancée dans les flux de travail basés sur des diapositives. Cela est précieux lorsque les présentations générées doivent inclure une logique réutilisable ou des actions scriptées.
+
+Cette conversion améliore l'automatisation en combinant la génération de contenu pilotée par les documents avec des fichiers de présentation capables de participer à des scénarios de reporting ou de diffusion plus dynamiques et riches en fonctionnalités.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de présentations avec macros**  
+  Produit des présentations adaptées à des comportements automatisés avancés.
+
+* **Support de rapports dynamiques**  
+  Aide à créer des présentations qui vont au‑delà du contenu statique des diapositives.
+
+* **Réutilisation du contenu de modèle**  
+  Convertit les modèles de texte en sorties de présentation plus riches.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de présentations conscientes des scripts**  
+  Crée des fichiers PPTM à partir de modèles OTT dans des flux de travail répétables.
+
+* **Pipelines de présentation avancés**  
+  Prend en charge les systèmes de reporting qui nécessitent des fonctionnalités de diapositive enrichies.
+
+* **Briefings automatisés évolutifs**  
+  Fournit des présentations cohérentes, capables de macros, à travers divers cas d’utilisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

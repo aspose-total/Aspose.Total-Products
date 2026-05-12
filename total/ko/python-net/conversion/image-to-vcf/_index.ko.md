@@ -46,7 +46,53 @@ Python 개발자의 경우 응용 프로그램 내에서 IMAGE를 VCF로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 이미지 → VCF 변환은 스캔한 명함, 연락처 시트, 디렉터리 스냅샷과 같은 시각적 연락처 데이터를 구조화된 연락처 파일로 변환할 수 있게 합니다. 이는 연락처 정보를 디지털화하고 커뮤니케이션 및 고객 관리 시스템에 쉽게 가져올 수 있도록 하는 데 유용합니다.
+
+자동화와 확장성을 위해, 이 변환은 수동 데이터 입력을 줄이고 연락처 수집을 가속화하며 현대 플랫폼 전반에 걸친 연락처 정보 흐름을 개선합니다. 이미지 기반 연락처 세부 정보를 재사용 가능한 디지털 레코드로 만들어 동적 워크플로와 시스템 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **명함 디지털화**
+  스캔하거나 촬영한 명함을 구조화된 VCF 연락처 파일로 변환합니다.
+
+* **디렉터리 캡처**
+  연락처 목록 이미지를 디지털 시스템에 가져올 수 있는 연락처 레코드로 전환합니다.
+
+* **리드 수집 지원**
+  시각적인 연락처 제출물을 활용 가능한 연락처 파일로 변환하여 후속 워크플로에 사용합니다.
+
+* **이벤트 네트워킹 데이터 처리**
+  회의나 이벤트 후 수집된 명함 이미지를 공유 가능한 디지털 프로필로 변환합니다.
+
+* **고객 레코드 초기화**
+  이미지 기반 양식이나 연락처 스냅샷에서 연락처 파일을 생성하여 빠른 온보딩을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 연락처 추출 파이프라인**
+  시스템은 업로드된 연락처 이미지를 처리하고 수동 입력 없이 VCF 파일을 생성할 수 있습니다.
+
+* **CRM 및 주소록 통합**
+  이미지에서 추출된 연락처 데이터를 재사용 가능한 파일로 변환하여 하위 단계 가져오기 워크플로에 활용할 수 있습니다.
+
+* **리드 캡처 자동화**
+  캠페인이나 이벤트에서 수집된 연락처 이미지를 구조화된 레코드로 변환하여 영업 후속에 활용할 수 있습니다.
+
+* **모바일 데이터 수집 워크플로**
+  현장 팀이 연락처 이미지를 캡처하고 자동으로 디지털 연락처 파일로 변환할 수 있습니다.
+
+* **연락처 동기화 준비**
+  이미지에서 생성된 VCF 출력은 플랫폼 간 자동 공유 및 동기화를 지원할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para PST converte documentos habilitados para macro em saídas de armazenamento pessoal usadas para organizar conteúdo baseado em mensagens em arquivos de dados de correio consolidados. É útil quando artefatos de comunicação derivados de documentos precisam de armazenamento estruturado para fins de arquivamento ou migração.
+
+Em sistemas automatizados, a conversão de DOCM para PST suporta o empacotamento de caixas de correio, fluxos de trabalho de conformidade e movimentação escalável do conteúdo de documentos convertidos para repositórios de comunicação organizados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Armazenamento Consolidado de Correio**
+  Ajuda a preservar o conteúdo de documentos convertidos em um contêiner de armazenamento pessoal estruturado.
+
+* **Preparação para Arquivamento**
+  Suporta a retenção de longo prazo de registros de comunicação derivados de documentos.
+
+* **Fluxos de Trabalho de Migração**
+  Permite a transferência de saídas orientadas a mensagens para conjuntos de armazenamento organizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Empacotamento Automatizado de Caixa de Correio**
+  Converte arquivos DOCM em saídas compatíveis com PST para fluxos de trabalho de retenção.
+
+* **Processamento Orientado à Conformidade**
+  Suporta pipelines de documento‑para‑armazenamento de correio usados em ambientes regulados.
+
+* **Conversão e Armazenamento em Alta Volumetria**
+  Lida com a transformação em massa de documentos em repositórios de correio estruturados de forma programática.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

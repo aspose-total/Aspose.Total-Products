@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e-mails en PCL avec Python transforme le contenu des messages en sortie de langage de commande d'imprimante adaptée aux flux de travail d'impression orientés dispositif. Ceci est utile lorsque les e-mails doivent être rendus directement pour une impression cohérente dans des environnements opérationnels ou hérités.
+
+Elle prend en charge l'automatisation en permettant au contenu des messages de passer directement dans les pipelines d'impression, réduisant ainsi les étapes de préparation et simplifiant la génération de sorties à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Support du flux de travail d'impression directe**  
+  Convertir les e-mails en PCL pour les systèmes qui dépendent d'une sortie prête à imprimer.
+
+* **Impression de messages opérationnels**  
+  Utiliser les sorties PCL là où les communications doivent être imprimées dans des formats standardisés.
+
+* **Compatibilité avec les environnements hérités**  
+  Prendre en charge les anciennes infrastructures d'impression avec le rendu direct des e-mails.
+
+* **Files d'impression centralisées**  
+  Alimenter les fichiers e-mail convertis dans des processus d'impression à haut volume.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Envoi d'impression automatisé**  
+  Convertir les e-mails entrants en PCL et les envoyer dans des files d'impression programmées.
+
+* **Sortie opérationnelle par lots**  
+  Produire des enregistrements d'e-mails prêts à imprimer pour la logistique, l'administration ou la révision.
+
+* **Livraison de documents pilotée par l'appareil**  
+  Intégrer la conversion d'e-mails avec les systèmes de gestion d'impression automatisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

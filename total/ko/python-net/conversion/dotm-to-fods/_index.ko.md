@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM을 FODS로 변환하면 매크로가 포함된 Word 템플릿을 평면 OpenDocument 스프레드시트 파일로 변환하여 구조화된 콘텐츠를 개방형 XML 기반 스프레드시트 형태로 보다 쉽게 저장할 수 있습니다. 이는 상호 운용성, 투명한 저장 및 오픈 문서 표준을 우선시하는 워크플로에 유용합니다.
+
+Python API를 사용한 DOTM에서 FODS로의 변환은 재사용 가능한 템플릿을 최소한의 수동 작업으로 오픈 스프레드시트 출력으로 변환하여 자동화를 지원합니다. 이는 이동성을 향상하고 표준 기반 시스템과의 통합을 단순화하며 확장 가능한 문서 변환 파이프라인을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 내보내기**
+  오픈 및 검증 가능한 스프레드시트 형식에 의존하는 워크플로를 위해 DOTM 콘텐츠를 FODS로 변환합니다.
+
+* **상호 운용 데이터 공유**
+  OpenDocument 표준을 지원하는 도구 간에 구조화된 문서 콘텐츠를 보다 쉽게 교환할 수 있게 합니다.
+
+* **투명한 데이터 저장**
+  제어된 처리를 위해 적합한 평면 XML 스프레드시트 형식으로 추출된 템플릿 데이터를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 포맷 워크플로 자동화**
+  자동 변환을 통해 DOTM 템플릿을 표준 기반 스프레드시트 출력이 필요한 시스템에 제공할 수 있습니다.
+
+* **XML 중심 데이터 파이프라인**
+  스프레드시트 콘텐츠가 텍스트 기반이며 기계가 읽을 수 있어야 하는 경우 자동 처리를 지원합니다.
+
+* **대량 표준 준수 처리**
+  프로그래밍 작업을 통해 다수의 DOTM 파일을 일관되게 FODS로 변환하여 확장 가능한 통합을 구현할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

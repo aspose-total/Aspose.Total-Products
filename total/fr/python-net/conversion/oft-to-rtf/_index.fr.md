@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OFT vers RTF à l’aide des API Python transforme les modèles d’e‑mail Outlook en documents texte enrichi qui offrent un bon équilibre entre prise en charge du formatage et large compatibilité. Cela est utile lorsque le contenu doit rester modifiable tout en conservant le style de base sur un large éventail d’outils de traitement de documents.
+
+Du point de vue de l’automatisation, la conversion OFT vers RTF prend en charge la réutilisation flexible du contenu, l’échange simplifié entre systèmes et la préparation efficace de documents. C’est un choix pratique pour des flux de travail interopérables et axés sur le texte.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Contenu formaté éditable**  
+  Convertissez les modèles OFT en fichiers RTF pour préserver le style dans un format de document éditable.
+
+* **Partage à large compatibilité**  
+  Utilisez la sortie RTF pour les flux de travail qui nécessitent une prise en charge par de nombreux éditeurs de documents.
+
+* **Réutilisation du contenu du modèle**  
+  Réaffectez les messages e‑mail en fichiers texte enrichi pour des rapports, des archives ou de la documentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Pipelines automatisés de documents texte**  
+  Convertissez automatiquement les fichiers OFT en RTF pour les processus d’édition et de distribution en aval.
+
+* **Échange de contenu multiplateforme**  
+  Acheminer les sorties RTF entre systèmes avec des exigences de prise en charge de documents variées.
+
+* **Préservation évolutive du formatage**  
+  Utilisez les API Python pour maintenir une sortie texte structurée lors de conversions de gros lots de modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

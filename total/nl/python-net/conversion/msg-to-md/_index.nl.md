@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een MSG naar MD-conversiefunctie toe 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG-naar-MD-conversie zet e‑mailberichten om in Markdown voor schone, lichte en draagbare tekstgebaseerde documentatie. Het is vooral nuttig wanneer e‑mailinhoud moet worden hergebruikt in kennisbanken, ontwikkelaarsdocumentatie of workflows voor contentpublicatie.
+
+In automatiseringspijplijnen ondersteunt MSG-naar-MD-conversie versiegecontroleerde documentatie, contentnormalisatie en vereenvoudigde tekstverwerking. Het helpt e‑mailcommunicatie te verbinden met moderne contentoperaties en publicatiesystemen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Integratie van kennisbank**  
+  Zet e‑mails om in Markdown voor gestructureerde interne documentatie.
+
+* **Ontwikkelaarvriendelijk contenthergebruik**  
+  Bewaar de berichttekst in een formaat dat geschikt is voor repositories en documentatiesystemen.
+
+* **Lichtgewicht publicatievoorbereiding**  
+  Bereid e‑mailafgeleide content voor gebruik in statische sites of contentworkflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Automatisering van documentatiepijplijn**  
+  Transformeer MSG‑bestanden naar Markdown voor geautomatiseerde publicatie of indexering.
+
+* **Repository‑gebaseerd contentbeheer**  
+  Sla geconverteerde e‑mailcontent op in versiegecontroleerde documentatieworkflows.
+
+* **Tekstnormalisatieprocessen**  
+  Standaardiseer inkomende communicatie naar lichte, machinevriendelijke tekstcontent.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de SXC para DOT transforma o conteúdo de planilhas em um formato de modelo de documento que pode servir como uma base reutilizável para a geração futura de documentos. Isso é útil quando informações derivadas de planilhas precisam ser incorporadas em layouts padronizados para uso repetido em negócios ou operações.
+
+Por meio das APIs Python, a conversão de SXC para DOT suporta a automação orientada por modelos, permitindo uma estrutura de documento consistente, criação de saída mais rápida e melhor controle sobre a formatação em fluxos de trabalho de alto volume.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Modelo**  
+  Converte o conteúdo da planilha em modelos de documento reutilizáveis para necessidades de comunicação recorrentes.
+
+* **Formatação Padronizada**  
+  Ajuda a manter estrutura e apresentação consistentes em documentos gerados.
+
+* **Documentação de Processos**  
+  Suporta a criação de modelos repetíveis para formulários, resumos e registros operacionais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Sistemas de Relatórios Baseados em Modelo**  
+  Automatiza a produção de modelos DOT que podem gerar posteriormente muitos documentos uniformes.
+
+* **Estruturação em Massa de Conteúdo**  
+  Usa APIs Python para preparar múltiplos modelos derivados de planilhas para fluxos de trabalho de documentos escaláveis.
+
+* **Pipelines de Saída Consistentes**  
+  Garante que a geração de documentos subsequente comece a partir de uma estrutura controlada e reutilizável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

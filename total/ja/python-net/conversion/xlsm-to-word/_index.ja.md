@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から Word への変換は、マクロ対応のスプレッドシート コンテンツを、読みやすく、編集しやすく、構造化されたコミュニケーションが可能なワードプロセッシング文書形式に変換します。スプレッドシートの情報をレポート、サマリー、指示書、または正式な文書として再パッケージ化する必要がある場合に有用です。
+
+この変換は、Python ベースのワークフローを利用してスプレッドシート主導のコンテンツを承認、コラボレーション、スケーラブルな公開に適した文書出力に変換することで、Automation をサポートします。組織がデータ中心のファイルから文書中心のプロセスへの移行を効率化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **読みやすい文書の作成**
+  スプレッドシートの情報を、テキスト中心のコミュニケーションに適した形式に変換します。
+
+* **レポートおよびサマリーの作成**
+  構造化されたワークシートのコンテンツを洗練されたビジネス文書にまとめるのに役立ちます。
+
+* **共同レビュー**
+  スプレッドシート由来の資料を編集可能な文書ワークフローで必要とするチームをサポートします。
+
+* **正式な文書化**
+  運用データや分析データを構造化された文書コンテンツとして提供できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書出力**
+  Python API を使用して、XLSM ファイルを定期的なビジネスワークフロー向けの Word 文書に変換できます。
+
+* **バッチレポート生成**
+  大量のスプレッドシート ファイルをプログラムで文書出力に変換できます。
+
+* **承認ワークフロー統合**
+  変換により、スプレッドシート データをレビューや承認プロセスで使用される文書形式に移行できます。
+
+* **コンテンツパイプラインの標準化**
+  自動化システムは、マクロ対応スプレッドシートからスケールで一貫した Word ファイルを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

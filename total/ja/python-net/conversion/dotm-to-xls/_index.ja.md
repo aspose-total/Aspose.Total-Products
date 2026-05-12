@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から XLS への変換は、マクロ対応の Word テンプレートを構造化データ分析やレガシーなスプレッドシート互換性のための従来の Excel スプレッドシート ファイルに変換します。文書由来の情報を古いスプレッドシート環境で再利用する必要がある場合に便利です。
+
+DOTM から XLS への変換に Python API を使用すると、テンプレートからコンテンツを手動でコピーすることなくスプレッドシート ファイルに抽出でき、Automation が向上します。これにより、スケーラブルなレポーティング、データ移行、互換性重視のビジネス ワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レガシー スプレッドシート エクスポート**
+  古い Excel 形式に依存し続けるワークフローのために、DOTM コンテンツを XLS に変換します。
+
+* **構造化テーブル変換**
+  文書のテーブルや繰り返し値を分析用のスプレッドシート形式に移行します。
+
+* **互換性重視のデータ共有**
+  従来のスプレッドシート ファイルを必要とするシステムとの文書由来データの交換を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたレガシー ワークブック作成**
+  ワークフローは、確立されたシステムとの互換性のために、DOTM テンプレートから XLS ファイルを生成できます。
+
+* **レポーティング パイプライン サポート**
+  この変換は、構造化された文書データをレビュー用にスプレッドシートへ自動的に移行するのに役立ちます。
+
+* **バッチ ドキュメントからワークブックへの処理**
+  プログラムによるジョブは、DOTM ファイルを XLS 出力に大規模に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

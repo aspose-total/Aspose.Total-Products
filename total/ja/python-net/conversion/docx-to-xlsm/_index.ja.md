@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to XLSM 変換は、ワードプロセッシング文書をマクロ対応スプレッドシート ファイルに変換し、高度なスプレッドシート ワークフローをサポートします。この変換は、文書ベースの構造化コンテンツを、拡張された自動化を可能にするスプレッドシートで再利用する必要がある場合に有用です。
+
+Python API を使用すると、DOCX から XLSM への変換をレポート プラットフォーム、財務システム、運用ダッシュボードで自動化できます。これにより、文書由来のデータを、繰り返し可能なビジネス プロセス向けに設計されたスプレッドシート環境に統合できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スプレッドシートの作成**  
+  DOCX コンテンツを高度なスプレッドシート ファイルに変換し、業務自動化ワークフローを実現します。
+
+* **構造化データの再利用**  
+  表や整理された文書コンテンツをスプレッドシート システムに移行できるようにします。
+
+* **運用レポートのサポート**  
+  文書ベースの情報を再利用可能なスプレッドシート資産に変換します。
+
+* **高度な分析ワークフロー**  
+  拡張された自動化機能を活用できるスプレッドシート環境を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された XLSM エクスポート**  
+  システムは DOCX ファイルをプログラムでマクロ対応スプレッドシートに変換できます。
+
+* **バッチ スプレッドシート自動化パイプライン**  
+  Python スクリプトで文書コレクションを XLSM 出力に処理できます。
+
+* **エンタープライズ レポート ワークフロー**  
+  文書由来のデータを高度なスプレッドシート ファイルに変換し、スケーラブルな分析を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

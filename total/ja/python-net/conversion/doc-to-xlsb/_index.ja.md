@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordコンテンツをバイナリExcelブック形式（XLSB）に変換し、 大規模データセット向けに効率的な保存とスプレッドシート処理をサポートします。 文書由来の構造化コンテンツをコンパクトなスプレッドシート形式で扱う必要がある場合に有用です。
+
+Python APIベースのDOCからXLSBへの変換は、高ボリュームのスプレッドシート生成を自動化し、 ファイル処理を最適化し、 パフォーマンス指向のデータワークフローを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **コンパクトなスプレッドシート保存**
+  文書データをXLSBに変換し、 効率的なブック処理を実現します。
+
+* **大規模データセットの準備**
+  文書由来のデータ量が軽量ニーズを超える場合に、 バイナリブックを使用します。
+
+* **運用スプレッドシート処理**
+  高速ロードのスプレッドシート出力を好む内部ワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **高ボリュームブック生成**
+  DOCファイルを自動的にXLSBに変換し、 パフォーマンス重視のワークフローを実現します。
+
+* **効率的なデータエクスポートパイプライン**
+  構造化文書コンテンツからバイナリスプレッドシート出力をプログラム的に作成します。
+
+* **スケーラブルなレポート自動化**
+  繰り返し使用される文書から、 ストレージ効率の高いブックを生成するためにPythonスクリプトを使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

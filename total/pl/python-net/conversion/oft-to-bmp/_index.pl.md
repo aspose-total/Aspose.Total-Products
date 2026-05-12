@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OFT do BMP w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OFT do BMP przy użyciu interfejsów API Pythona umożliwia przekształcenie zawartości szablonów e‑mail w obrazy bitmapowe w celu archiwizacji, generowania podglądów i udostępniania w stałym układzie. Proces ten jest cenny, gdy istotna jest spójność wizualna oraz gdy treść oparta na wiadomościach musi być zachowana jako statyczny, powszechnie czytelny format obrazu.
+
+W nowoczesnych przepływach pracy konwersja OFT do BMP wspiera automatyzację, przekształcając wielokrotnego użytku szablony e‑mail w zasoby graficzne, które można indeksować, przeglądać i dystrybuować bez konieczności używania klientów poczty elektronicznej. Zwiększa to efektywność operacyjną w obsłudze dokumentów, pipeline’ach raportowania oraz zarządzaniu rekordami wizualnymi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Archiwizacja podglądów szablonów**  
+  Konwertuj pliki OFT na obrazy BMP, aby zachować układy szablonów e‑mail jako statyczne rekordy wizualne.
+
+* **Przegląd zgodności wizualnej**  
+  Wykorzystaj wyjścia bitmapowe do ręcznej lub automatycznej inspekcji formatowania, zastrzeżeń i elementów brandingowych.
+
+* **Dystrybucja obrazów offline**  
+  Udostępniaj renderowaną zawartość e‑mail w prostym formacie obrazu w celu wewnętrznego przeglądu lub dokumentacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Batchowe renderowanie szablonów e‑mail**  
+  Zautomatyzuj konwersję wielu szablonów OFT do plików BMP w celu katalogowania i kontroli jakości.
+
+* **Integracja z przepływem dokumentów**  
+  Kieruj skonwertowane wyjścia BMP do repozytoriów dokumentów, systemów audytu lub pipeline’ów zatwierdzania.
+
+* **Pipeline’y generowania podglądów**  
+  Dynamicznie generuj wizualne podglądy z szablonów OFT dla pulpitów nawigacyjnych, portali lub bibliotek treści.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

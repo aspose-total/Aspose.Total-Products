@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から CSV への変換は、構造化されたワードプロセッシングテンプレートを、レポート作成、データ交換、軽量分析に利用できるシンプルな表形式データに変換します。文書ベースのコンテンツを、運用ワークフローで使用できるシンプルで広くサポートされた形式に抽出する必要がある場合に有用です。
+
+Python API を使用することで、この変換は再利用可能な文書テンプレートから構造化データセットへ情報を移動させる自動化パイプラインをサポートし、処理速度、整合性、下流システムとの互換性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **テンプレートデータ抽出**
+  DOT ファイルを CSV に変換し、レポートやアーカイブ用途のために構造化テキストとフィールドを取得します。
+
+* **システム相互運用性**
+  文書コンテンツをデータベース、スクリプト、ビジネスツールで利用できる形式にエクスポートします。
+
+* **バッチ文書処理**
+  大量のテンプレートを表形式の出力に変換し、処理とレビューを効率化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書からデータへのパイプライン**
+  自動化によりテンプレート文書を CSV ファイルに変換し、分析や ETL ワークフローに取り込みます。
+
+* **定期的なコンテンツエクスポート**
+  Python ベースのジョブが DOT ファイルを CSV に繰り返し変換し、定期的な運用レポートを実現します。
+
+* **スケーラブルなデータ準備**
+  プログラムによる変換により、大規模な文書リポジトリ全体で出力生成を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

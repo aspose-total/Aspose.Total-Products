@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion TSV vers RTF transforme le contenu tabulaire structuré en documents texte enrichi qui allient portabilité, lisibilité et mise en forme éditable. Elle est utile lorsque les données TSV doivent être partagées dans un format de document texte léger tout en préservant la structure du document et la valeur de présentation.
+
+En utilisant les API Python, la conversion TSV vers RTF peut être automatisée pour prendre en charge des rapports basés sur du texte efficaces, des flux d'exportation évolutifs et le transfert fluide de données structurées vers des systèmes centrés sur les documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Exportation de documents légers**  
+  Convertit les données TSV en documents texte formatés, faciles à partager et à modifier.
+
+* **Contenu structuré lisible**  
+  Aide à présenter les enregistrements tabulaires bruts sous une forme de document plus conviviale.
+
+* **Compatibilité inter‑environnements**  
+  Prend en charge les flux de travail documentaires qui bénéficient de formats texte largement supportés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de rapports texte**  
+  Les API Python peuvent créer des fichiers RTF à partir d'entrées TSV pour des tâches de documentation récurrentes.
+
+* **Transformation des données en document**  
+  L'automatisation aide à transformer les exportations structurées brutes en sorties textuelles formatées.
+
+* **Opérations de conversion par lots**  
+  Les fichiers TSV à haut volume peuvent être convertis en format RTF de manière efficace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

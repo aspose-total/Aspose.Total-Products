@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 FODS로의 변환은 문서 템플릿을 평평한 OpenDocument 스프레드시트 파일로 바꾸어, 개방형 구조화 데이터 교환에 적합하게 합니다. 이는 투명한 형식과 광범위한 상호 운용성을 우선시하는 환경에서 유용합니다.
+
+Python API를 사용하면 팀이 DOT에서 FODS로의 처리를 자동화하여 개방형 워크플로를 지원하고, 수동 변환을 줄이며, 데이터 중심 문서 변환의 일관성을 향상시킬 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 내보내기**
+  오픈 문서 생태계에서 구조화된 데이터 처리를 위해 DOT 파일을 FODS로 변환합니다.
+
+* **상호 운용 가능한 데이터 공유**
+  평평한 스프레드시트 출력을 사용하여 시스템 간에 템플릿 기반 정보를 교환합니다.
+
+* **읽기 쉬운 구조화 저장소**
+  유지 보수 및 재사용을 위해 추출된 콘텐츠를 개방형 XML 기반 스프레드시트 형식으로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 워크플로 통합**
+  Python 자동화를 통해 DOT 템플릿에서 FODS 파일을 생성하여 표준 기반 처리를 할 수 있습니다.
+
+* **예약된 템플릿 변환**
+  반복 작업을 통해 최소한의 노력으로 템플릿 콘텐츠를 평평한 스프레드시트 파일로 내보낼 수 있습니다.
+
+* **확장 가능한 오픈 포맷 변환**
+  동적 파이프라인은 대규모 문서-대-FODS 작업을 표준화하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

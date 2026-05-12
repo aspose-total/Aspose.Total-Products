@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODT vers PST transforme le contenu des documents en un format de stockage orienté boîte aux lettres utilisé pour les communications groupées et les scénarios d'archivage. Cela est utile lorsque le texte source doit être réutilisé dans des conteneurs liés aux messages pour la migration, le stockage ou la gestion des dossiers.
+
+Avec les API Python, la conversion ODT vers PST peut être intégrée aux flux de travail automatisés d'archivage et d'empaquetage de contenu. Elle prend en charge la préparation répétable d'actifs dérivés de documents pour des dépôts centrés sur la communication.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation du conteneur d'archive**  
+  Convertit le contenu du document pour une utilisation dans des flux de travail d'archivage de type boîte aux lettres.
+
+* **Support de migration de contenu**  
+  Aide à déplacer le matériel dérivé de documents vers des environnements de stockage orientés messages.
+
+* **Consolidation des dossiers**  
+  Prend en charge la combinaison du contenu converti dans des conteneurs d'archivage structurés.
+
+* **Activation du flux de travail de rétention**  
+  Prépare des sorties adaptées aux processus de préservation à long terme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Emballage d'archive automatisé**  
+  Les tâches Python peuvent convertir les fichiers ODT en sorties orientées PST pour les flux de travail de stockage.
+
+* **Conversion en masse pour la rétention**  
+  De grandes bibliothèques de documents peuvent être traitées automatiquement pour la préparation à l'archivage.
+
+* **Intégration du pipeline de migration**  
+  Les sorties converties peuvent être générées dans le cadre de transitions plus larges des systèmes de communication.
+
+* **Gestion programmatique des dossiers**  
+  Le contenu dérivé de documents peut traverser des processus d'archivage répétables à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

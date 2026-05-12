@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から MBOX への変換は、文書由来のコンテンツを、グループ化されたメッセージの保存や移行ワークフローに適したメールボックスアーカイブ形式にパッケージ化します。これは、複数の文書ベースのコミュニケーションをメールボックス形式のリポジトリに整理する必要がある場合に有用です。
+
+Python API は、コンテンツをメッセージレコードにプログラム的に変換し、メール中心のシステム向けにスケーラブルなアーカイブ出力に統合することで、WordML から MBOX への変換を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールボックスアーカイブ作成**
+  文書コンテンツをMBOX互換のメッセージコレクションに変換します。
+
+* **大量コミュニケーションのパッケージ化**
+  変換された複数のレコードを単一のアーカイブファイルにまとめ、転送または保存に使用します。
+
+* **メール移行サポート**
+  メールボックス指向の環境へのインポート用にコンテンツを準備するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチアーカイブ生成**
+  定期的なWordML文書ソースからMBOXファイルの作成を自動化します。
+
+* **保持ワークフロー統合**
+  文書由来のコミュニケーションをメールボックスアーカイブに長期保存することをサポートします。
+
+* **移行パイプラインの有効化**
+  変換されたMBOX出力を自動インポートまたは移行手順に供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

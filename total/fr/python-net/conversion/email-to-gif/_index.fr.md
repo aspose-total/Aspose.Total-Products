@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e-mails en GIF avec Python transforme le contenu des messages en actifs image légers, faciles à prévisualiser, partager et intégrer dans différents systèmes. Elle est utile pour créer des instantanés visuels compacts d'e-mails où la compatibilité simple des images prime sur la possibilité de les éditer.
+
+Cette conversion améliore l'automatisation en produisant des sorties d'images portables qui peuvent être générées en masse et jointes à des tableaux de bord, des archives ou des flux de travail de notification.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Aperçus d'e-mails légers**
+  Convertir les e-mails en fichiers GIF pour des aperçus visuels rapides dans les portails ou les archives.
+
+* **Pièces jointes de flux de travail**
+  Utiliser des sorties d'images compactes lors du partage d'instantanés de messages entre les outils internes.
+
+* **Enregistrements de référence visuelle**
+  Conserver l'apparence des e-mails dans un format image simple pour la révision opérationnelle.
+
+* **Large compatibilité d'image**
+  Générer des sorties qui fonctionnent bien dans les systèmes nécessitant une gestion d'images légères.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'aperçus en lot**
+  Rendre automatiquement de grands volumes d'e-mails en aperçus GIF pour l'indexation.
+
+* **Actifs de support de notification**
+  Joindre les visuels d'e-mails aux alertes de flux de travail ou aux résumés internes.
+
+* **Pipelines de visualisation d'archives**
+  Convertir les messages stockés en vues image pour une récupération et une inspection rapides.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

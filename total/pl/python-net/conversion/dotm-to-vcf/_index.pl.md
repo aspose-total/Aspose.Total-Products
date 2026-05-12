@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOTM do VCF w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOTM do VCF przekształca szablony Word z włączonymi makrami w pliki kontaktowe vCard, ułatwiając udostępnianie i importowanie informacji kontaktowych opartych na dokumentach do systemów książek adresowych. Jest przydatna, gdy szablony zawierają dane o osobie, organizacji lub komunikacji, które muszą stać się ustrukturyzowanymi rekordami kontaktowymi.
+
+Korzystanie z interfejsów API Pythona do konwersji DOTM na VCF pomaga zautomatyzować generowanie kontaktów z źródeł dokumentów, redukując ręczne wprowadzanie danych i poprawiając spójność danych. Wspiera to skalowalne wdrażanie, zarządzanie katalogiem oraz procesy powiązane z CRM.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie rekordu kontaktowego**
+  Konwertuj szczegóły kontaktowe z szablonów DOTM do plików VCF, aby łatwo je udostępniać i importować.
+
+* **Ponowne wykorzystanie danych katalogowych**
+  Wykorzystaj ponownie ustrukturyzowane informacje z dokumentów, przekształcając je w standaryzowane cyfrowe karty kontaktowe.
+
+* **Wymiana kontaktów przyjazna dla przepływu pracy**
+  Umożliw prosty transfer danych kontaktowych między dokumentami a systemami książek adresowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane wyodrębnianie kontaktów**
+  Przepływy pracy mogą generować pliki VCF z szablonów DOTM zawierających dane osobowe lub organizacyjne.
+
+* **Wsparcie synchronizacji katalogu**
+  Konwersja pomaga zautomatyzowanym systemom tworzyć rekordy kontaktowe gotowe do importu z dokumentów.
+
+* **Masowa generacja kontaktów**
+  Przetwarzanie programowe wspiera przetwarzanie dużej liczby plików DOTM na pliki VCF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

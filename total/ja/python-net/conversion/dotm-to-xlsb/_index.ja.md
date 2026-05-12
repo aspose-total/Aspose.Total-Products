@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から XLSB への変換は、マクロ対応の Word テンプレートを、ストレージとパフォーマンスに優れたバイナリ Excel ワークブック ファイルに変換します。抽出された文書データをコンパクトでスプレッドシート対応の形式で保持する必要がある場合に有用です。
+
+DOTM から XLSB への変換に Python API を使用すると、繰り返し使用される文書テンプレートから効率的なワークブック出力を生成することで自動化を支援します。これにより、大規模な処理が改善され、ファイルのオーバーヘッドが削減され、堅牢な文書からデータへのパイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **コンパクトなワークブック生成**
+  DOTM コンテンツを XLSB に変換し、効率的な保存とスプレッドシート処理を実現します。
+
+* **大量データのエクスポート**
+  多数の文書由来データセットを処理する際に、バイナリワークブック出力を使用します。
+
+* **パフォーマンス重視のスプレッドシートワークフロー**
+  抽出されたコンテンツを、大規模な運用スプレッドシートの使用例に適した形式で保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動バイナリワークブック作成**
+  システムは DOTM テンプレートを XLSB ファイルに変換し、ストレージ効率の高いワークフローを実現できます。
+
+* **スケーラブルなスプレッドシートパイプライン**
+  この変換は、構造化文書からワークブック資産を大規模に生成することをサポートします。
+
+* **バッチ効率処理**
+  プログラムによるジョブは、複数の DOTM ファイルを XLSB 出力に迅速に変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

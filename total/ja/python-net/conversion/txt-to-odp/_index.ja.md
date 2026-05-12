@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した TXT から ODP への変換により、構造化されたプレーンテキストコンテンツを編集、共有、再利用可能なオープンなプレゼンテーションファイルに変換できます。手動でスライドを作成することなく、ノート、レポート、スクリプト、または生成されたコンテンツをプレゼンテーション用フォーマットに変換する必要があるチームやシステムにとって価値があります。
+
+最新の自動化ワークフローにおいて、TXT から ODP への変換は、スケーラブルな文書生成、コンテンツの標準化、そして高速なパブリッシングパイプラインを支援します。テキストベースの入力をプレゼンテーションシステムと統合し、運用およびコンテンツ主導の環境全体で繰り返し可能なプログラム的出力を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **自動化プレゼンテーションドラフト作成**  
+  生のテキストを編集可能な ODP スライドデッキに変換し、プレゼンテーションの作成を迅速化します。
+
+* **オープンフォーマットコンテンツ配布**  
+  オープン標準でプレゼンテーションファイルを生成し、ツール間の相互運用性をサポートします。
+
+* **レポートからスライドへの変換**  
+  テキスト要約、会議ノート、またはドキュメントを構造化されたビジュアルプレゼンテーション資産に変換します。
+
+* **テンプレートベースのスライド生成**  
+  テキストコンテンツでプレゼンテーションテンプレートを埋め込み、レイアウトの一貫性を保ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたコンテンツ公開**  
+  定期的なレポート作成とプレゼンテーション更新のために、TXT から ODP への変換を自動化します。
+
+* **データパイプライン統合**  
+  Python API を使用して、上流システムから生成されたテキストをプレゼンテーション用出力に移行します。
+
+* **バッチドキュメント処理**  
+  複数の TXT ファイルを単一のスケーラブルなワークフローで ODP プレゼンテーションに変換します。
+
+* **コンテンツ組み立てワークフロー**  
+  見出し、セクション、重要ポイントをプログラム的に構造化し、スライドに適した形式にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

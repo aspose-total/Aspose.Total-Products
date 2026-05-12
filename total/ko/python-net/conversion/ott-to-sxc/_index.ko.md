@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 SXC로 변환하면 OpenDocument 텍스트 템플릿을 오래된 OpenOffice 스프레드시트 워크플로에 적합한 스프레드시트 파일로 변환합니다. 이는 문서 내용을 구조화되고 편집 가능한 표 형식으로 변환해야 하는 레거시 호환 환경에 유용합니다.
+
+이 변환은 문서 정보를 표준화된 방식으로 추출하여 기존 OpenOffice 형식에 의존하는 스프레드시트 워크플로에 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 지원**  
+  오래된 OpenOffice 워크플로와 호환되는 스프레드시트 출력물을 생성합니다.
+
+* **문서 데이터 구조화**  
+  텍스트 템플릿 내용을 편집 가능한 표로 변환합니다.
+
+* **운영 호환성**  
+  생성된 데이터를 기존 스프레드시트 생태계와 통합하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 레거시 내보내기**  
+  호환성 중심 워크플로를 위해 OTT 소스에서 SXC 파일을 생성합니다.
+
+* **배치 데이터 변환**  
+  다수의 템플릿 파일을 효율적으로 표 형식의 레거시 출력물로 변환합니다.
+
+* **시스템 연속성 통합**  
+  오래된 스프레드시트 처리 체인을 유지하는 환경을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

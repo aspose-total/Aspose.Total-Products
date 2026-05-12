@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MOBI a DIF in Python consente la trasformazione del contenuto degli ebook in un formato di scambio dati comunemente usato nei flussi di lavoro orientati ai fogli di calcolo. Questo è utile quando il contenuto deve essere spostato in ambienti dati compatibili con sistemi legacy o in sistemi che si basano su standard di importazione strutturati.
+
+In ambienti guidati dall'automazione, la conversione da MOBI a DIF supporta la trasformazione ripetibile dei contenuti, la compatibilità con dati legacy e lo scambio semplificato tra repository di documenti e livelli di elaborazione basati su fogli di calcolo. Aiuta a collegare i file di pubblicazione con flussi di lavoro aziendali strutturati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso chiave" %}}
+
+* **Importazione di fogli di calcolo legacy**
+  Converti il contenuto MOBI in DIF in modo che possa essere importato in strumenti di fogli di calcolo e di elaborazione dati più vecchi.
+
+* **Riutilizzo di contenuti strutturati**
+  Riutilizza le informazioni estratte dall'ebook in sistemi che dipendono da formati di dati orientati allo scambio.
+
+* **Trasformazione archivistica**
+  Conserva i contenuti utili in un formato strutturato adatto per elaborazioni a lungo termine o progetti di migrazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Flussi automatizzati per sistemi legacy**
+  Instrada il contenuto derivato da MOBI nei flussi di lavoro dei fogli di calcolo legacy tramite la generazione di DIF.
+
+* **Armonizzazione programmata dei formati**
+  Standardizza le fonti di documenti miste convertendo i file MOBI in DIF durante lavori ricorrenti.
+
+* **Pipeline di supporto alla migrazione**
+  Utilizza l'automazione Python per preparare il contenuto dell'ebook per l'importazione massiva in sistemi operativi più vecchi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

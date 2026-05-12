@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から Excel への変換は、文書の内容を構造化されたレビュー、分析、コラボレーションに適したスプレッドシート形式に変換します。テキスト文書に表やリスト、レコードが含まれ、グリッドベースの環境で扱う必要がある場合に有用です。
+
+自動化において、ODT から Excel への変換は、文書から実用的なビジネスデータをスケーラブルに抽出できるようにします。Python API は、バッチ変換、検証、および出力をレポートや業務フローにルーティングすることをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **テーブルの保持**  
+  文書から構造化データをスプレッドシートのレイアウトに移行します。
+
+* **ビジネス分析支援**  
+  文書ベースの情報をソート、フィルタ、レビューしやすくします。
+
+* **業務データ転送**  
+  計画、監査、レポート作成に使用するレコードを変換します。
+
+* **共同編集**  
+  抽出されたコンテンツを馴染みのあるスプレッドシート形式でチームが利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **パイプラインベースのデータ抽出**  
+  Python ジョブが ODT ファイルから表を取得し、Excel 互換の出力に保存できます。
+
+* **バッチレポート作成**  
+  複数の文書を変換して、定期的な分析サイクルに活用できます。
+
+* **検証と構造化**  
+  自動化ルールにより、抽出データをエクスポート前にクリーンアップおよび整理できます。
+
+* **クロスシステム配信**  
+  変換されたスプレッドシートは、ストレージ、レポート、またはレビューシステムへルーティングできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

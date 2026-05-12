@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 MBOX로 변�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 MBOX로의 변환은 문서에서 파생된 콘텐츠를 그룹화된 메시지 저장 및 마이그레이션 워크플로에 적합한 메일함 아카이브 형식으로 패키징합니다. 여러 문서 기반 커뮤니케이션을 메일함 형태의 저장소에 정리해야 할 때 유용합니다.
+
+Python API는 콘텐츠를 메시지 레코드로 프로그래밍 방식으로 변환하고 이를 이메일 중심 시스템을 위한 확장 가능한 아카이브 출력으로 통합함으로써 WordML을 MBOX로 변환할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 생성**
+  문서 콘텐츠를 MBOX 호환 메시지 컬렉션으로 변환합니다.
+
+* **대량 커뮤니케이션 패키징**
+  여러 변환된 레코드를 전송 또는 보관을 위한 단일 아카이브 파일로 그룹화합니다.
+
+* **이메일 마이그레이션 지원**
+  메일함 중심 환경으로의 가져오기를 위해 콘텐츠 준비를 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 아카이브 생성**
+  반복되는 WordML 문서 소스에서 MBOX 파일 생성을 자동화합니다.
+
+* **보존 워크플로 통합**
+  메일함 아카이브에 문서에서 파생된 커뮤니케이션을 장기 저장하는 것을 지원합니다.
+
+* **마이그레이션 파이프라인 활성화**
+  변환된 MBOX 출력을 자동 가져오기 또는 마이그레이션 루틴에 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

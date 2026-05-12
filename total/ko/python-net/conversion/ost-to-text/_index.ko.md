@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 OST를 TEXT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST를 텍스트로 변환하면 메일함 내용을 일반 텍스트로 추출하여 이메일 데이터를 가볍고 검색 가능하게 만들며, 분석 또는 문서화 워크플로에 쉽게 통합할 수 있습니다. 단순성, 이식성 및 콘텐츠 접근성을 우선시하는 시스템에 실용적인 선택입니다.
+
+자동화 시나리오에서는 일반 텍스트가 색인, 파싱, 분류 및 하위 처리와 잘 맞기 때문에 OST를 텍스트로 변환하는 것이 특히 유용합니다. Python API를 통해 효율적인 배치 추출과 확장 가능한 데이터 및 콘텐츠 파이프라인에의 통합이 가능합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **검색 가능한 콘텐츠 추출**  
+  메일함 메시지를 일반 텍스트로 변환하여 색인 및 검색에 활용합니다.
+
+* **경량 아카이빙**  
+  저장 및 검토를 위해 이메일 콘텐츠를 최소 형식으로 보존하는 것을 지원합니다.
+
+* **데이터 처리 준비**  
+  메시지 콘텐츠를 프로그래밍 방식으로 분석, 파싱 및 변환하기 쉽게 만듭니다.
+
+* **지식 캡처 워크플로**  
+  중요한 메일함 정보를 간단하고 재사용 가능한 텍스트 자산으로 옮기는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **텍스트 추출 파이프라인**  
+  Python 자동화를 통해 OST 콘텐츠를 일반 텍스트로 변환하여 확장 가능한 처리에 활용합니다.
+
+* **검색 및 색인 워크플로**  
+  자동화 시스템이 메일함 데이터를 검색 엔진 및 분석 도구용으로 준비합니다.
+
+* **콘텐츠 분석 프로세스**  
+  프로그래밍 방식 변환은 분류, 요약 및 텍스트 마이닝 작업을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

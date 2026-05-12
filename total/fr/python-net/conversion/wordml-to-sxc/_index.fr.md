@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers SXC transforme le contenu structuré basé sur des documents en fichiers de feuille de calcul compatibles avec les flux de travail de feuilles de calcul ouvertes héritées. Cela est utile pour les organisations qui maintiennent la compatibilité avec les environnements OpenOffice plus anciens.
+
+Les API Python prennent en charge la conversion WordML vers SXC en extrayant les tableaux et en automatisant la transformation vers des formats orientés feuille de calcul pour les besoins de migration et d'interopérabilité.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Export de feuille de calcul ouverte héritée**
+  Convertit les tableaux WordML en fichiers SXC pour les environnements de feuilles de calcul plus anciens.
+
+* **Réutilisation des données à partir des documents**
+  Rend le contenu structuré des documents modifiable dans les outils de feuilles de calcul hérités.
+
+* **Préservation de la compatibilité**
+  Prend en charge les flux de travail de longue traîne qui dépendent encore des anciens formats ouverts.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de l'exportation héritée**
+  Génère des sorties SXC à partir de fichiers WordML dans des flux de travail axés sur la compatibilité.
+
+* **Tâches de support de migration**
+  Fait le lien entre les dépôts de documents et les environnements de traitement de feuilles de calcul plus anciens.
+
+* **Conversion massive de tableaux**
+  Automatise l'extraction et l'emballage des données de documents en fichiers de feuilles de calcul hérités.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

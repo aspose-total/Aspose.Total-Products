@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MOBI から CSV への変換は、Python を使用して電子書籍ベースのテキストまたは表形式のコンテンツを、検索、フィルタリング、再利用が容易なシンプルで構造化された形式に変換するのに役立ちます。これは、コンテンツ抽出、軽量データ交換、レポート作成、そして最新の文書ワークフローにおける下流処理に価値があります。
+
+自動化の観点から見ると、MOBI から CSV への変換は、スケーラブルなデータパイプライン、バッチ抽出手順、そして分析やアーカイブシステムとの統合を支援します。これにより、チームは出版指向のファイルから機械可読データセットへコンテンツを移行し、業務や運用プロセスの自動化に適合させることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **分析用コンテンツ抽出**
+  MOBI ファイルから構造化されたコンテンツを CSV に変換し、簡単に検査、解析、分析できるようにします。
+
+* **データ移行ワークフロー**
+  抽出した情報をデータベース、スプレッドシート、またはレポートシステムに転送する際に CSV 出力を使用します。
+
+* **軽量データ交換**
+  ツールやプラットフォーム間で最小限の互換性問題で共有できる、シンプルでポータブルなファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ電子書籍処理**
+  スケジュールされた取り込みワークフローの一部として、大量の MOBI ファイルを自動的に CSV に変換します。
+
+* **メタデータ正規化パイプライン**
+  カタログ化とインデックス自動化のために、主要な文書フィールドを抽出し、標準化して CSV にします。
+
+* **レポート作成**
+  CSV 出力を自動化されたダッシュボード、スクリプト、または検証ルーチンに供給し、下流で利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

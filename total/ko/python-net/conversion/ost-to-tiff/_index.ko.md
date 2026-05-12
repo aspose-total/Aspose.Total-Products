@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 OST를 TIFF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST를 TIFF로 변환하면 메일함 콘텐츠를 일반적으로 아카이빙, 스캔 및 문서 보존 워크플로에서 사용되는 고품질 이미지 형식으로 변환합니다. 이는 이메일 기록의 내구성 있는 이미지 기반 표현이 필요한 조직에 유용합니다.
+
+Python API는 자동화된 보존, 규정 준수 및 이미지 작업을 위한 확장 가능한 OST에서 TIFF로의 변환을 지원합니다. 이는 일관된 출력 품질을 유지하면서 아카이브 및 문서 관리 시스템과의 효율적인 통합을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **아카이브 이미지 보존**  
+  메일함 콘텐츠를 내구성 있고 고충실도의 저장을 위해 TIFF로 변환합니다.
+
+* **규정 준수 이미지화**  
+  이미지 기반 보존 표준에 의존하는 보존 워크플로를 지원합니다.
+
+* **문서 검토 지원**  
+  팀이 제어된 환경에서 정적 이미지로 이메일 기록을 검사하도록 돕습니다.
+
+* **시스템 호환 레코드 출력**  
+  메일함 콘텐츠가 이미지 및 아카이브 지향 플랫폼에 맞도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **보존 파이프라인 자동화**  
+  Python 스크립트가 OST 아카이브를 장기 레코드 관리를 위해 TIFF로 변환합니다.
+
+* **이미징 워크플로 통합**  
+  자동화 시스템이 메일함에서 파생된 시각 자료를 문서 아카이브 플랫폼용으로 준비합니다.
+
+* **대용량 규정 준수 처리**  
+  프로그래밍 방식 변환이 이미지 기반 커뮤니케이션 레코드의 확장 가능한 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

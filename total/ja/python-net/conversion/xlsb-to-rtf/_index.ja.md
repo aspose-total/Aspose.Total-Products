@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から RTF への変換は、バイナリのスプレッドシートコンテンツをリッチテキスト文書に変換し、構造化データを軽量で広くサポートされたテキスト形式で共有できるようにします。これは、スプレッドシート由来のコンテンツが文書処理環境全体で広範な互換性を必要とする場合に有用です。
+
+自動化ワークフローにおいて、XLSB から RTF への変換は柔軟な文書生成を支援し、スプレッドシートデータから可搬性のあるテキストベースの出力を作成しやすくすると同時に、可読性、書式設定、スケーラブルな処理を維持します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ポータブルリッチテキスト出力**  
+  スプレッドシートのコンテンツを広くサポートされた書式付きテキスト文書に変換します。
+
+* **システム間共有**  
+  スプレッドシート由来の情報をさまざまな文書環境に配布するのに役立ちます。
+
+* **軽量ドキュメンテーション**  
+  互換性とシンプルさが重要な場面での文書生成をサポートします。
+
+* **可読性の高いデータエクスポート**  
+  スプレッドシート情報をテキストフレンドリーな出力に再利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テキスト文書作成**  
+  システムは XLSB ファイルを RTF 文書に変換し、繰り返し可能なワークフローを実現できます。
+
+* **バッチ互換性処理**  
+  複数のスプレッドシートファイルをポータブルなリッチテキスト出力に変換できます。
+
+* **データ交換パイプライン**  
+  自動化ワークフローはスプレッドシートコンテンツを広く読める形式にルーティングできます。
+
+* **アーカイブおよび配布フロー**  
+  構造化されたスプレッドシートデータを柔軟な共有と保存のために準備できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS から MOBI への変換により、フラットな OpenDocument スプレッドシートの内容を、携帯での閲覧やデジタル配信に適した電子書籍フレンドリーな形式に再利用できます。構造化された情報を、アクセスしやすいリファレンス資料、ガイド、またはテキスト中心の出版物として、さまざまな閲覧デバイスで共有する必要がある場合に便利です。
+
+自動化ワークフロー内で FODS を MOBI に変換することで、大規模なコンテンツ変換、デジタル出版パイプライン、そして効率的なマルチフォーマット配信をサポートします。Python API を使用すると、繰り返し可能な電子書籍生成プロセスが実現でき、閲覧プラットフォーム向けに構造化データを再フォーマットする手作業を削減できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **デジタルリファレンス出版**  
+  スプレッドシートベースの情報を MOBI ファイルに変換し、携帯での閲覧やリファレンス利用に適した形にします。
+
+* **ナレッジ配信**  
+  構造化されたビジネスまたは技術データを、より広いアクセシビリティに適した電子書籍形式で共有します。
+
+* **コンテンツ再利用**  
+  データが多いソースファイルを、読みやすい長文デジタルドキュメントに変換します。
+
+* **モバイルフレンドリーなドキュメント**  
+  変換されたコンテンツを、デバイスベースの閲覧環境に便利な形式で提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化電子書籍生成**  
+  Python ワークフローは、FODS ファイルを MOBI 出力に変換し、デジタルコンテンツ配信に利用できます。
+
+* **バッチ出版パイプライン**  
+  複数の構造化ファイルを大規模に電子書籍形式へ変換できます。
+
+* **クロスフォーマット配信システム**  
+  自動化プロセスは、MOBI を他の出力形式と同時に生成し、より広いリーチを実現します。
+
+* **コンテンツ出版自動化**  
+  プログラムによる変換は、ソースデータからデジタル閲覧資料を迅速に準備することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

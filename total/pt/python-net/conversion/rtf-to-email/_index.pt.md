@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de RTF para Email transforma documentos de texto formatado em conteúdo pronto para email que pode ser incorporado em comunicações externas, notificações ou modelos de mensagem. É útil para reutilizar texto de relatórios, avisos, resumos ou conteúdo voltado ao cliente em um formato amigável para comunicação.
+
+Em ambientes automatizados, RTF para Email suporta fluxos de trabalho de mensagens escaláveis ao converter o conteúdo de documentos criados em corpos de email reutilizáveis para alertas, campanhas, aprovações e comunicação transacional.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Redação de Email Baseada em Documento**  
+  Converte conteúdo de rich text em mensagens de email reutilizáveis para comunicação interna ou externa.
+
+* **Distribuição de Avisos e Atualizações**  
+  Suporta o envio de anúncios ou resumos derivados de documentos preparados.
+
+* **Mensagens Baseadas em Modelo**  
+  Ajuda a transformar conteúdo padrão de documentos em saídas de email consistentes entre equipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Notificações**  
+  Sistemas podem converter arquivos RTF em conteúdo de email para entrega programada ou acionada por eventos.
+
+* **Mensagens de Aprovação de Fluxo de Trabalho**  
+  Resumos de documentos podem ser transformados programaticamente em solicitações de aprovação e emails de status.
+
+* **Processos de Alcance em Massa**  
+  Pipelines de comunicação de alto volume se beneficiam da conversão de ativos de texto preparados em conteúdo pronto para email escalável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

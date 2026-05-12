@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to TEXT 変換は、メールメッセージの内容をプレーンテキストに抽出し、シンプルな保存、検索、処理を可能にします。書式よりもクリーンなコンテンツへのアクセスが重要な場合や、インデックス作成や分析のために軽量な出力が必要な場合に有用です。
+
+自動化向けに、MSG to TEXT ワークフローはテキストマイニング、検索パイプライン、正規化されたコンテンツ取り込みをサポートします。通信データを最小限で機械に優しい形式に変換し、スケーラブルな処理に適した形にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **プレーンテキスト抽出**  
+  メールコンテンツを簡単に読めるように、保存や下流の分析のために分離します。
+
+* **検索とインデックスのサポート**  
+  メッセージテキストをカタログ化および検索ワークフロー用に準備します。
+
+* **軽量データ処理**  
+  書式保持が不要なパイプラインで簡易出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **コンテンツ取り込みパイプライン**  
+  MSGファイルをプレーンテキストに変換し、インデックス作成や分類システムに使用します。
+
+* **テキスト分析ワークフロー**  
+  抽出されたメッセージコンテンツを自動分析や監視プロセスに供給します。
+
+* **正規化アーカイブ作成**  
+  通信記録をコンパクトなテキスト形式で保存し、スケーラブルな保持を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

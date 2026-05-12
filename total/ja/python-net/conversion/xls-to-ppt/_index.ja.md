@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から PPT への変換は、スプレッドシートデータを視覚的なコミュニケーション、分析共有、会議の準備をサポートする編集可能なプレゼンテーションファイルに変換します。これは、ビジネスデータを表形式からスライドベースの形式に移行して、より広い理解を得る必要がある場合に有用です。
+
+Python API を使用することで、XLS から PPT への変換を定期的なレポートサイクル向けに自動化でき、コンテンツ作成を迅速化し、プレゼンテーションワークフローをよりスケーラブルにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **編集可能なスライドデッキ作成**
+  XLS のコンテンツを PPT ファイルに変換し、さらに洗練が必要なプレゼンテーションに使用できます。
+
+* **データ駆動型コミュニケーション**
+  スプレッドシート情報をスライド形式で提示し、聴衆の理解を向上させます。
+
+* **会議の準備**
+  スプレッドシートデータを使用して、レビュー、計画セッション、アップデート用のプレゼンテーション資料を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたデッキ生成**
+  スケジュールされたレポートパイプラインの一部として、XLS データセットから PPT ファイルを作成します。
+
+* **ワークフロー主導のプレゼンテーション作成**
+  スプレッドシートのソースが更新されたときに、スライド作成を自動的にトリガーします。
+
+* **スケーラブルなデータストーリーテリング**
+  Python API を使用して、構造化されたスプレッドシートデータを大量にプレゼンテーションコンテンツへ変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

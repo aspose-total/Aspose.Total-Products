@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en OST prépare le contenu dérivé de documents pour les flux de travail associés aux données de boîtes aux lettres hors ligne et aux environnements de messagerie synchronisés. Elle est utile dans les scénarios où les informations de documents doivent s'aligner sur les structures de stockage de messagerie d'entreprise.
+
+L'utilisation des API Python pour le traitement orienté DOC vers OST améliore la préparation à l'automatisation, prend en charge une gestion standardisée et réduit le travail manuel dans les opérations d'entreprise liées au courrier.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation des données de boîte aux lettres**
+  Convertir le contenu basé sur les documents pour les flux de travail qui interagissent avec le stockage de courrier hors ligne.
+
+* **Support de la communication d'entreprise**
+  Aligner les sorties de documents avec les environnements de messagerie utilisés dans les systèmes de courrier synchronisés.
+
+* **Intégration du flux de travail de rétention**
+  Conserver ou traiter le contenu dérivé de documents au sein des opérations orientées boîte aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation du stockage du courrier**
+  Préparer programmétiquement le contenu des documents pour les flux de travail d'entreprise liés à OST.
+
+* **Jobs de conversion à grande échelle**
+  Automatiser la gestion des documents lorsque le traitement compatible avec les boîtes aux lettres est requis.
+
+* **Pipelines de conformité et de rétention**
+  Utiliser des étapes de conversion scriptées pour soutenir des environnements de données de messages contrôlés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

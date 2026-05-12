@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 DOCM으로의 변환은 스프레드시트 파일을 매크로 지원 워드 프로세싱 문서로 변환합니다. 이를 통해 스프레드시트 데이터가 자동 스크립트와 고급 문서 동작을 지원하는 문서에 삽입될 수 있습니다.
+
+Python API를 사용하면 ODS에서 DOCM으로의 변환을 매크로 지원 문서를 생성하는 자동화 시스템에 통합할 수 있습니다. 이를 통해 동적 문서 처리, 대규모 변환 및 기업 자동화 환경과의 통합이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 문서 생성**  
+  스프레드시트 콘텐츠를 자동화 매크로를 지원할 수 있는 문서로 변환합니다.
+
+* **자동화 문서 템플릿**  
+  스프레드시트 기반 데이터를 매크로 기반 문서 워크플로우로 변환합니다.
+
+* **데이터 기반 문서화**  
+  스프레드시트 데이터 세트를 매크로 지원 보고서에 통합합니다.
+
+* **고급 문서 처리**  
+  스프레드시트 소스에서 생성된 문서에 삽입된 자동화 작업을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화 워크플로 문서**  
+  시스템은 매크로 기반 처리를 위해 스프레드시트에서 DOCM 파일을 생성합니다.
+
+* **기업 보고 자동화**  
+  스프레드시트 데이터를 자동 분석을 위해 매크로 지원 문서로 변환합니다.
+
+* **동적 문서 생성**  
+  Python 파이프라인은 스프레드시트 입력을 기반으로 매크로 지원 문서를 생성합니다.
+
+* **배치 매크로 문서 처리**  
+  자동화 서비스는 대량의 ODS 파일을 DOCM 문서로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,53 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione di immagini in MBOX usando le API Python aiuta a impacchettare le comunicazioni derivate da immagini in file di archivio mailbox che possono contenere più record di messaggi in un unico contenitore. Questo è utile per le organizzazioni che devono preservare o migrare dati di comunicazione visiva all'interno di flussi di lavoro consolidati di archiviazione email.
+
+Dal punto di vista dell'automazione, la conversione delle immagini in MBOX supporta processi di archiviazione scalabili, l'assemblaggio batch di comunicazioni e il trasferimento efficiente del contenuto dei messaggi tra sistemi. Consente alle informazioni basate su immagini di essere archiviate in un formato strutturato pratico per attività di conservazione e migrazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivi mailbox**
+  Converti i record di comunicazione basati su immagini in archivi MBOX per l'archiviazione centralizzata.
+
+* **Conservazione di massa dei record**
+  Raggruppa più messaggi derivati da immagini in un unico file di archivio per la conservazione a lungo termine.
+
+* **Preparazione alla migrazione**
+  Prepara i contenuti di comunicazione visiva per il trasferimento in sistemi che supportano archivi mailbox.
+
+* **Raggruppamento di casi e progetti**
+  Organizza i record di messaggi basati su immagini correlati in un unico file mailbox portatile.
+
+* **Archiviazione di comunicazioni storiche**
+  Conserva screenshot, avvisi e corrispondenza scannerizzata in forma adatta all'archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione batch di archivi**
+  Grandi collezioni di immagini possono essere convertite automaticamente in archivi di comunicazione basati su MBOX.
+
+* **Automazione della pipeline di conservazione**
+  I record derivati da immagini possono essere raggruppati in archivi mailbox secondo programmi basati su policy.
+
+* **Flussi di lavoro di consolidamento dati**
+  File visivi dispersi possono essere trasformati in output di archivio unificati per una gestione più semplice.
+
+* **Processi di esportazione e trasferimento**
+  I sistemi automatizzati possono impacchettare messaggi basati su immagini in file MBOX per la migrazione del sistema.
+
+* **Automazione dell'archiviazione per conformità**
+  Le prove di comunicazione visiva possono essere archiviate in formato mailbox strutturato per revisione e conservazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to MBOX 変換は、マクロ対応の Word テンプレートをメールボックス互換のアーカイブに変換し、統合された形式でメッセージ形式のコンテンツを保存できます。これは、ドキュメントテンプレートが通信記録として再利用されたり、メールアーカイブワークフローに統合する必要がある場合に便利です。
+
+DOTM から MBOX への変換に Python API を使用すると、ドキュメントコンテンツから構造化されたメールコンテナファイルを生成することで、アーカイブおよび移行プロセスの自動化に役立ちます。スケーラブルなストレージ、標準化されたエクスポート、メッセージ指向のワークフローの効率的な処理をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールアーカイブの準備**
+  DOTM 由来の通信コンテンツを MBOX に変換し、アーカイブまたは移行ワークフローに使用します。
+
+* **統合メッセージ保存**
+  テンプレートからのメッセージ風出力を単一のメールボックス指向フォーマットで保存します。
+
+* **相互運用可能なメールエクスポート**
+  MBOX をサポートするツール間で生成された通信記録の交換を容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メールアーカイブ作成**
+  ワークフローはドキュメントテンプレートを MBOX 互換の出力に変換し、長期保存に利用できます。
+
+* **移行パイプラインのサポート**
+  この変換は、生成されたメッセージコンテンツをメールボックスアーカイブへ自動的に移行するのに役立ちます。
+
+* **バッチレコード処理**
+  プログラムによる変換により、大量の DOTM ファイルをメール対応コンテナに処理できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to DOT 変換は、スプレッドシートデータを Word テンプレートファイルに変換し、将来の文書生成のための再利用可能な基盤として利用できるようにします。これは、スプレッドシートの内容が一度きりの出力ではなく、繰り返し使用できる文書構造に反映される必要がある場合に有用です。
+
+Python API は、部門やワークフロー全体でプログラム的かつ一貫してテンプレート準備済みの資産を生成できるようにすることで、XLS から DOT への変換を自動化に適したものにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **テンプレート作成**
+  スプレッドシートの内容を DOT ファイルに変換し、将来の文書のための再利用可能なレイアウトを定義します。
+
+* **標準化された文書設計**
+  XLS データを使用して、繰り返し必要となる文書のための構造化テンプレートを作成します。
+
+* **再利用可能なコンテンツフレームワーク**
+  スプレッドシート駆動のソース素材からテンプレートベースのワークフローを構築します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**
+  手動でのデザイン作業なしに、スプレッドシート入力から DOT テンプレートを作成します。
+
+* **文書ファクトリーワークフロー**
+  Python API を使用して、構造化されたスプレッドシートデータを再利用可能な文書テンプレートパイプラインに供給します。
+
+* **標準出力の準備**
+  均一な文書作成に依存するチーム向けに、テンプレート資産を動的に生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

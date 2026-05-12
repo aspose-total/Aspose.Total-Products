@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 VCF를 EPUB로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to EPUB 변환은 연락처 카드 정보를 재흐름 가능한 디지털 출판 형식으로 변환하여, 읽기 중심 환경 및 휴대용 문서 워크플로우에서 콘텐츠에 접근할 수 있게 합니다. 이는 연락처 데이터를 구조화된 디지털 참고 자료로 묶어야 할 때 유용합니다.
+
+Python API를 사용하면 VCF to EPUB 변환이 연락처 레코드를 휴대 가능하고 정리된 콘텐츠로 전환하여 자동화된 출판 파이프라인을 지원할 수 있으며, 이를 통해 장치 간에 쉽게 배포하고 볼 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **디지털 참고 출판**  
+  연락처 데이터를 EPUB 파일로 변환하여 휴대용 읽기 및 배포에 활용합니다.
+
+* **구조화된 정보 패키징**  
+  연락처 레코드를 출판에 적합한 디지털 콘텐츠로 정리합니다.
+
+* **다중 디바이스 접근성**  
+  다양한 읽기 환경에 적합한 형식으로 연락처 정보를 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동화된 연락처 북 생성**  
+  VCF 레코드 배치를 사용해 EPUB 파일을 생성하여 휴대용 디렉터리로 만듭니다.
+
+* **출판 워크플로우 통합**  
+  변환된 연락처 콘텐츠를 디지털 출판 프로세스에 연결합니다.
+
+* **확장 가능한 배포 파이프라인**  
+  Python API를 사용해 구조화된 EPUB 출력을 효율적으로 생성하고 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

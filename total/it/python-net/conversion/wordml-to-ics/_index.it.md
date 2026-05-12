@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a ICS converte le informazioni dei documenti in dati compatibili con i calendari, che possono supportare la programmazione, i promemoria e i flussi di lavoro basati su eventi. Questo è utile quando i dettagli delle riunioni, le tempistiche o gli argomenti dell'agenda memorizzati nei documenti devono essere trasformati in voci di calendario.
+
+Utilizzando le API Python, la conversione da WordML a ICS può essere automatizzata per estrarre le informazioni sugli eventi e generare file di calendario riutilizzabili per i sistemi di pianificazione e l'automazione di processi basati sul tempo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione eventi**
+  Converte i contenuti relativi alla programmazione dai file WordML in dati ICS pronti per il calendario.
+
+* **Supporto al flusso di lavoro delle riunioni**
+  Trasforma le agende o i documenti di pianificazione in record di eventi importabili.
+
+* **Interoperabilità del calendario**
+  Consente al contenuto dei documenti di passare alle piattaforme di pianificazione usando un formato standard.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di file calendario**
+  Crea file ICS da documenti WordML di riunioni o eventi in flussi di lavoro ricorrenti.
+
+* **Sincronizzazione del calendario**
+  Integra i dettagli degli eventi basati su documenti nei flussi di importazione del calendario.
+
+* **Automazione di promemoria e pianificazione**
+  Supporta la creazione programmatica di record temporizzati da contenuti documentali strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

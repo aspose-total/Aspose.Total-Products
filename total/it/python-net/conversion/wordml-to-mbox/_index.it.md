@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to MBOX conversion impacchetta contenuti derivati da documenti in un formato di archivio mailbox adatto per l'archiviazione raggruppata dei messaggi e i flussi di lavoro di migrazione. Questo è utile quando più comunicazioni basate su documenti devono essere organizzate in repository in stile mailbox.
+
+Le API Python consentono la conversione da WordML a MBOX trasformando programmaticamente i contenuti in record di messaggi e consolidandoli in output di archivio scalabili per sistemi incentrati sulla posta elettronica.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivio mailbox**
+  Converte il contenuto del documento in collezioni di messaggi compatibili MBOX.
+
+* **Imballaggio di comunicazioni di massa**
+  Raggruppa più record convertiti in un unico file di archivio per trasferimento o conservazione.
+
+* **Supporto alla migrazione email**
+  Aiuta a preparare il contenuto per l'importazione in ambienti orientati alle mailbox.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di archivio batch**
+  Automatizza la creazione di file MBOX da fonti documentali WordML ricorrenti.
+
+* **Integrazione del flusso di lavoro di conservazione**
+  Supporta l'archiviazione a lungo termine delle comunicazioni derivanti da documenti negli archivi mailbox.
+
+* **Abilitazione della pipeline di migrazione**
+  Fornisce gli output MBOX convertiti a routine di importazione o migrazione automatizzate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

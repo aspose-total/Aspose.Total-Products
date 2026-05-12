@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EML から DOTM への変換は、Python API を使用してメールメッセージをマクロ対応のドキュメントテンプレートに変換し、テンプレート駆動型の高度な業務ワークフローを実現します。この形式は、コミュニケーションから生成されたコンテンツを、追加の自動化機能をサポートする再利用可能なテンプレートに組み込む必要がある場合に有用です。
+
+自動化システムにおいて、EML から DOTM への変換は、受信したコミュニケーションと繰り返し可能な文書生成プロセスを結び付けるのに役立ちます。マクロ対応テンプレートが構造化されたアクション指向の文書を生成するために使用されるスケーラブルな運用をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**  
+  メールコンテンツを高度な文書プロセス向けの再利用可能な DOTM テンプレートに変換します。
+
+* **プロセス指向ドキュメント設計**  
+  自動化アクションをサポートするテンプレート内にコミュニケーション構造を取り込むのに役立ちます。
+
+* **エンタープライズテンプレートライブラリ**  
+  繰り返し発生するメールパターンから構造化されたテンプレート資産の作成を支援します。
+
+* **ワークフロー対応コンテンツパッケージング**  
+  マクロ対応ドキュメント環境で使用できるよう、メール由来の素材を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート提供**  
+  パイプラインは EML メッセージを DOTM テンプレートに変換し、標準化されたビジネス出力を実現します。
+
+* **スケーラブルな文書組み立て**  
+  メール由来のテンプレートは大量文書ワークフローでプログラム的に再利用できます。
+
+* **構造化コンテンツ再利用**  
+  自動化によりメッセージレイアウトをマクロ対応テンプレートフレームワークへ変換します。
+
+* **運用ワークフロー統合**  
+  変換された DOTM ファイルは、再利用可能なインテリジェントテンプレートに依存する文書システムへ供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

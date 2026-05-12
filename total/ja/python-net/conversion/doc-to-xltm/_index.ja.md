@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to XLTM 変換は、Word コンテンツをマクロ対応のスプレッドシートテンプレートに変換し、再利用可能なワークブック作成と高度な自動化機能に適しています。これは、テンプレートが静的な構造以上のサポートを必要とするプロセスが多い環境で有用です。
+
+Python API は DOC から XLTM への変換を自動化し、スケーラブルなテンプレート管理、ワークフローの一貫性、そして高度なスプレッドシート操作を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応テンプレート生成**
+  ドキュメントコンテンツを自動化サポート付きの再利用可能なスプレッドシートテンプレートに変換します。
+
+* **プロセス標準化**
+  構造と高度な機能の両方が必要な繰り返し使用されるワークブックに XLTM 出力を使用します。
+
+* **運用テンプレートの再利用**
+  正式な文書を繰り返し使用できるスプレッドシートフレームワークに再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート生成**
+  DOC ソースから XLTM ファイルを生成し、高度なスプレッドシートワークフローに活用します。
+
+* **再利用可能なワークブックパイプライン**
+  プログラムで文書構造をマクロ対応テンプレートに変換します。
+
+* **エンタープライズスプレッドシートガバナンス**
+  スクリプト化された変換により、チーム全体でテンプレート作成を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

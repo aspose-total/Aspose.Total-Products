@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para XLTM converte conteúdo estruturado baseado em documentos em modelos de planilhas com macros habilitadas para geração repetível de pastas de trabalho com suporte à automação. É valiosa quando planilhas padronizadas também precisam conter comportamento programável.
+
+Usando APIs Python, a conversão de WordML para XLTM ajuda as organizações a automatizar a criação de modelos de planilhas reutilizáveis alinhados com fluxos de trabalho de processamento avançado.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Saída de Modelo com Macro Habilitada**
+  Converte o conteúdo WordML em arquivos XLTM para bases reutilizáveis de pastas de trabalho automatizadas.
+
+* **Automação Repetível de Planilhas**
+  Suporta a criação recorrente de pastas de trabalho com capacidades de lógica incorporada.
+
+* **Padronização Estruturada de Modelos**
+  Ajuda a empacotar conteúdo de documentos aprovados em modelos de planilhas prontos para o processo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Publicação Automatizada de Modelos**
+  Gera arquivos XLTM a partir de entradas WordML para operações recorrentes de planilhas.
+
+* **Suporte Avançado a Fluxos de Relatórios**
+  Conecta conteúdo orientado por documentos com modelos de pastas de trabalho capazes de macros.
+
+* **Empacotamento de Processos Escalável**
+  Permite a criação consistente de modelos de planilhas prontos para automação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から DOCM への変換により、スプレッドシートのデータをマクロ対応の Word 文書に変換でき、高度な文書動作や再利用可能なロジックをサポートします。データが豊富なスプレッドシートをインタラクティブまたはプロセス対応のドキュメントに変換する必要がある場合に有用です。
+
+自動化重視のシステムでは、XLSX から DOCM への変換は構造化データ抽出とマクロ対応文書機能を組み合わせて動的ワークフローを支援し、大量の文書生成をより効率的かつ柔軟に行えます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ対応レポーティング**  
+  スプレッドシートの内容を、 自動化アクションや高度な書式ロジックを含めることができる文書に変換します。
+
+* **インタラクティブなビジネス文書**  
+  スプレッドシートデータと組み込み自動化を組み合わせた文書を作成し、社内プロセスを支援します。
+
+* **再利用可能な運用テンプレート**  
+  生成されたファイルがマクロ対応の動作を保持し、繰り返し使用できる文書ワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動コンプライアンスファイル作成**  
+  システムは XLSX レコードを DOCM ファイルに変換し、組み込み自動化ステップに依存する文書セットを作成できます。
+
+* **データから文書への処理パイプライン**  
+  変換はバックエンドワークフローに統合でき、スプレッドシートソースからマクロ対応出力を生成します。
+
+* **大量文書のパーソナライズ**  
+  プログラムによる変換により、DOCM ファイルへの動的データ挿入が可能となり、スケーラブルな文書生産が実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

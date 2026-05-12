@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to PST 変換は、マクロ対応の Word テンプレートを、メールやメッセージングデータの整理に使用される個人用ストレージファイルに変換します。これは、文書由来のコミュニケーションコンテンツをメールアーカイブ、移行、またはストレージ重視のワークフロー向けに準備する必要がある場合に有用です。
+
+DOTM から PST への変換に Python API を使用すると、テンプレートコンテンツを構造化されたメールストレージ出力に変換することで自動化を支援します。これにより、アーカイブ処理の標準化、手作業の削減、文書システムとエンタープライズメッセージングエコシステムの統合が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールアーカイブ生成**
+  DOTM 由来のコミュニケーションコンテンツを PST に変換し、長期保存および移行のユースケースに使用します。
+
+* **構造化メッセージングストレージ**
+  テンプレートベースのメッセージコンテンツを、メール整理に適したコンテナ形式で保持します。
+
+* **エンタープライズワークフロー統合**
+  再利用可能なテンプレートをメールストレージ資産に変換することで、文書システムとメッセージングシステムを橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動アーカイブパッケージング**
+  ワークフローは DOTM テンプレートから PST 出力を生成し、メールストレージプロセスに利用できます。
+
+* **移行サポートパイプライン**
+  この変換は、文書ベースのコミュニケーションをメッセージングリポジトリへ自動的に移行するのに役立ちます。
+
+* **大量メールデータの準備**
+  プログラムジョブは多数のテンプレートファイルを PST 指向の出力にスケーラブルに変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

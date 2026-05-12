@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLS a ODT consente di trasformare il contenuto dei fogli di calcolo in file di testo Open Document, modificabili, portabili e orientati agli standard. Questo è utile quando le organizzazioni hanno bisogno di output basati su testo accessibili in un'ampia gamma di ambienti d'ufficio.
+
+L'automazione tramite API Python per la conversione da XLS a ODT aiuta a semplificare i flussi di lavoro dei documenti a formato aperto e supporta la generazione scalabile di file modificabili a partire da fonti di dati dei fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Reportistica Open Document**
+  Converti il contenuto XLS in file ODT per documentazione aziendale aperta e modificabile.
+
+* **Condivisione di contenuti interoperabili**
+  Usa l'output ODT quando la compatibilità dei documenti tra piattaforme è importante.
+
+* **Trasformazione da foglio di calcolo a testo**
+  Riconfeziona i dati tabulari in formati di documento narrativi o a layout misto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione di flussi di lavoro aperti**
+  Genera file ODT automaticamente dalle sottomissioni di fogli di calcolo in sistemi basati su standard.
+
+* **Conversione di documenti in blocco**
+  Usa le API Python per convertire grandi insiemi di file XLS in documenti di testo aperti e modificabili.
+
+* **Elaborazione documentale integrata**
+  Aggiungi la conversione da XLS a ODT ai processi automatizzati di revisione, archiviazione e pubblicazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

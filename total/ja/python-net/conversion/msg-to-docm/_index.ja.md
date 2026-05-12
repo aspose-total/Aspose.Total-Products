@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to DOCM 変換は、メールメッセージファイルをマクロ対応のワードプロセッシング文書に変換し、高度な文書動作をサポートします。これは、メッセージ内容を編集可能な形式で保持しつつ、マクロベースの処理環境と互換性を保つ必要がある場合に有用です。
+
+自動化のために、MSG から DOCM へのワークフローは、スクリプト化された文書操作、検証ルーチン、または構造化された書式設定タスクに依存するシステムで関連性があります。これらは、メール由来のコンテンツと動的なエンタープライズ文書操作を結びつけるのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **マクロ対応ドキュメンテーション**  
+  変換されたメールコンテンツを、オートメーションマクロを使用する文書環境向けに準備します。
+
+* **構造化コンテンツ処理**  
+  変換後のルール駆動の書式設定と操作をサポートします。
+
+* **運用文書の組み立て**  
+  メッセージデータを制御された、オートメーション対応の文書テンプレートに組み込みます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **マクロ駆動のポストプロセッシング**  
+  MSG ファイルを DOCM に変換し、下流のルーチンが書式設定や検証ステップを適用できるようにします。
+
+* **エンタープライズ文書ワークフロー**  
+  変換された文書を、マクロサポートに依存する自動レビューシステムに供給します。
+
+* **動的コンテンツ処理**  
+  メッセージ由来の文書に対して、プログラムによる更新やワークフローアクションを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

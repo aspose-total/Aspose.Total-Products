@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Word en PST à l’aide des API Python transforme le contenu des documents en une sortie d’archive de messagerie orientée stockage personnel pour les flux de travail de communication d’entreprise et de rétention. Ceci est utile lorsque le matériel de communication rédigé dans un document doit être intégré aux structures d’archive de boîtes aux lettres pour le stockage, la migration ou le support de conformité.
+
+Dans les environnements pilotés par l’automatisation, cette conversion aide à aligner les flux de travail documentaires avec les systèmes d’archive de messages, permettant un empaquetage évolutif et la préservation du contenu lié à la communication.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation d’archive de messagerie**  
+  Convertit le contenu de communication dérivé de Word en structures de boîte aux lettres orientées archive.
+
+* **Support de rétention et de conformité**  
+  Aide à préserver le contenu formel dans des formats associés au stockage à long terme des messages.
+
+* **Alignement des flux de travail de migration**  
+  Soutient les transitions d’entreprise impliquant des archives de boîtes aux lettres et l’empaquetage de contenu.
+
+* **Préservation structurée de la communication**  
+  Relie les processus de rédaction de documents et de gestion d’archives de messagerie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Automatisation de la génération d’archives**  
+  Traite les documents Word en sorties orientées PST pour les flux de travail de rétention.
+
+* **Emballage de communication en masse**  
+  Convertit de grands ensembles de contenu standardisé en actifs d’archive de messagerie.
+
+* **Pipelines de préparation à la migration**  
+  Intègre la conversion dans les routines de déplacement et de consolidation des boîtes aux lettres d’entreprise.
+
+* **Gestion des enregistrements de conformité**  
+  Utilise les sorties orientées archive pour soutenir la préservation contrôlée des communications.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

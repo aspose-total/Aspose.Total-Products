@@ -53,7 +53,47 @@ WORD から MHTML (Web アーカイブ形式) への変換機能または HtmlFi
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から MHTML への変換は、ワードプロセッシング文書をテキスト、スタイル、埋め込みリソースを自己完結型パッケージに保持した単一ファイルの Web アーカイブ形式に変換します。これは、プレゼンテーションの一貫性を保ちつつ、ブラウザフレンドリーな形式で文書コンテンツを共有する際に有用です。
+
+自動化されたワークフローにおいて、MHTML 変換は、受信者が元の作成環境に依存することなく、ポータブルな公開、アーカイブ生成、Web 互換のコンテンツ配信をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **単一ファイル Web アーカイブ**
+  文書コンテンツと関連リソースを 1 つのブラウザで読み取れるファイルに保存します。
+
+* **一貫したビジュアル共有**
+  システム間でコンテンツを配布する際に、レイアウトとフォーマットの維持に役立ちます。
+
+* **ポータブル文書公開**
+  Word で作成されたコンテンツを Web 互換環境で公開しやすくします。
+
+* **オフラインレビューサポート**
+  別個のアセットなしで、完全な文書コンテンツをローカルで閲覧可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Web アーカイブ作成**
+  定期的な Word ファイルを配布、保存、またはレビュー用に MHTML に変換します。
+
+* **コンテンツ公開パイプライン**
+  文書から Web へのワークフローで、MHTML 出力を中間資産として使用します。
+
+* **自己完結型配信自動化**
+  テキストとリソースを一緒にパッケージ化し、システム間で信頼できる交換を実現します。
+
+* **アーカイブ一貫性ワークフロー**
+  大規模にビジネス文書のブラウザフレンドリーな保存バージョンを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

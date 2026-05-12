@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV를 PowerPoint로 변환하면 구조화된 표 데이터를 보고서, 커뮤니케이션 및 시각적 스토리텔링에 사용할 수 있는 프레젠테이션 준비 슬라이드 콘텐츠로 변환합니다. 원시 데이터 세트를 회의, 요약 또는 이해관계자 프레젠테이션에 더 적합한 형식으로 변환해야 할 때 유용합니다.
+
+Python API를 사용하면 TSV를 PowerPoint로 변환하는 작업을 자동화하여 슬라이드 생성 속도를 높이고 수동 준비를 줄이며 최신 시스템 전반에 걸쳐 확장 가능한 데이터 프레젠테이션 워크플로를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **데이터 프레젠테이션 생성**  
+  TSV 콘텐츠를 슬라이드로 변환하여 구조화된 정보를 보다 쉽게 전달할 수 있게 합니다.
+
+* **운영 보고**  
+  백엔드 데이터 내보내기를 프레젠테이션에 적합한 출력물로 전환하는 것을 지원합니다.
+
+* **이해관계자 커뮤니케이션**  
+  표 데이터를 보다 시각적이고 접근하기 쉬운 형식으로 패키징하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드 생성**  
+  Python API를 사용하면 TSV 기반 데이터 세트에서 직접 프레젠테이션 파일을 만들 수 있습니다.
+
+* **정기 보고 워크플로**  
+  자동화는 구조화된 데이터를 정기적으로 프레젠테이션 자산으로 변환하는 것을 지원합니다.
+
+* **동적 콘텐츠 제공**  
+  프로그래밍 방식 프로세스는 원본 데이터가 변경될 때 프레젠테이션 출력을 업데이트할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

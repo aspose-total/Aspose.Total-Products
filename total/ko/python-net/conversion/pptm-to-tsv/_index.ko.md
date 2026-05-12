@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PPTM에서 TSV 변환은 매크로가 포함된 프레젠테이션 데이터를 간단한 구조화된 데이터 교환에 최적화된 탭 구분 텍스트 형식으로 변환합니다. 슬라이드 표나 추출된 레코드를 구분자 기반의 일반 텍스트 형식을 선호하는 시스템으로 전달해야 할 때 유용합니다.
+
+TSV 파일은 생성, 파싱, 검증 및 분석 또는 ETL 워크플로에 쉽게 가져올 수 있기 때문에 이 변환은 자동화에 적합합니다. 프레젠테이션 소스에서 다운스트림 시스템으로의 데이터 이동을 복잡한 서식 작업 없이 간소화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 데이터 내보내기**
+  슬라이드 기반 데이터를 처리용 간단한 열 지향 텍스트 형식으로 변환합니다.
+
+* **시스템 간 데이터 교환**
+  프레젠테이션에서 파생된 데이터를 스크립트와 애플리케이션 간에 보다 쉽게 이동할 수 있게 합니다.
+
+* **경량 데이터 보존**
+  추출된 표 내용을 압축되고 기계가 읽을 수 있는 형태로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **ETL 입력 생성**
+  프레젠테이션에서 TSV 파일을 생성하여 데이터 파이프라인에 자동으로 수집합니다.
+
+* **대량 데이터 변환**
+  프레젠테이션 데이터를 구분자 기반 텍스트 출력으로 대규모 내보내기를 지원합니다.
+
+* **검증 및 파싱 워크플로**
+  시스템 전반에 걸쳐 변환된 레코드의 효율적인 자동 처리를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

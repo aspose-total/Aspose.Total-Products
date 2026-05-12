@@ -44,7 +44,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MHTML から DOTM への変換は、アーカイブされた Web コンテンツをマクロ対応の Word テンプレートに変換し、再利用可能な構造と組み込みの自動化の両方をサポートします。これは、テンプレートが事前定義されたアクションや動的な書式設定手順を実行する必要がある文書環境で役立ちます。
+
+この形式は、テンプレートの一貫性とプログラム可能な動作を組み合わせるため、スケーラブルな自動化に特に適しています。Web 由来のコンテンツが繰り返し可能で自動化されたビジネスプロセスの一部となる高度な文書ワークフローを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **マクロ対応テンプレート作成**  
+  再利用可能なレイアウトと文書自動化の両方が必要な場合に、MHTML ファイルを DOTM テンプレートに変換します。
+
+* **自動化フォーム作成**  
+  スクリプト化された検証や書式設定手順を含むテンプレートで、変換された Web コンテンツを使用します。
+
+* **動的ビジネス文書**  
+  固定された構造と自動化されたアクションの両方が必要な繰り返し文書をサポートします。
+
+* **プロセス制御文書出力**  
+  構造化され繰り返し可能な運用要件を持つ環境に適したテンプレートファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化テンプレートライブラリ**  
+  標準化されたプロセスを持つ部門全体で使用できるよう、MHTML ソースから DOTM テンプレートを生成します。
+
+* **マクロ駆動文書ワークフロー**  
+  Web アーカイブをテンプレートに変換し、文書作成時に自動タスクをトリガーします。
+
+* **バッチテンプレート提供**  
+  取得した Web コンテンツからスケールでマクロ対応テンプレート資産を作成するために、Python API を使用します。
+
+* **エンタープライズ文書管理**  
+  変換された DOTM テンプレートを、繰り返し可能で自動化された文書作成に依存するシステムに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

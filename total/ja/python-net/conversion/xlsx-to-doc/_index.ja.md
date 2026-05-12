@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から DOC への変換は、スプレッドシート データをレポート作成、文書化、コンテンツ共有のための構造化された Word 互換ドキュメントに変換します。表形式の業務データを物語形式または印刷に適した形式で、組織全体で利用できるように提示する必要がある場合に便利です。
+
+最新のワークフローでは、XLSX から DOC への変換を自動化することで、手動での書式設定作業を削減し、生成されたドキュメント間の一貫性を向上させ、レポートやコンプライアンス パイプラインにおけるスケーラブルな文書作成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ビジネスレポート生成**  
+  スプレッドシートベースのデータを要約、レビュー、正式なレポート用の読みやすい文書レイアウトに変換します。
+
+* **スプレッドシート非利用者向けデータ共有**  
+  文書ベースの形式を好む読者にとって、スプレッドシート情報をより簡単に利用できるようにします。
+
+* **印刷対応ドキュメント**  
+  運用環境でのアーカイブ、印刷、配布が容易なドキュメント作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期レポート公開**  
+  自動化により、定期的なスプレッドシート出力を DOC ファイルに変換し、ステークホルダーへの定期配布が可能になります。
+
+* **ワークフロー駆動型文書作成**  
+  処理パイプラインでデータが更新された後に、XLSX から DOC への変換を自動的にトリガーできます。
+
+* **テンプレートベースの出力生成**  
+  プログラムによる変換は、スプレッドシート駆動コンテンツの大量にわたって文書構造を標準化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -45,7 +45,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MHTML para imagens em Python ajuda a transformar conteúdo web arquivado em saídas visuais, como capturas de página, para compartilhamento, visualização e preservação da fidelidade do layout. É valiosa quando a aparência do conteúdo original importa mais que a editabilidade e quando a distribuição visual é o objetivo principal.
+
+Em ambientes automatizados, a saída de imagens é útil para renderização escalável, visualizações rápidas e entrega de conteúdo amigável ao sistema. Ela suporta fluxos de trabalho que exigem ativos visuais leves para portais, relatórios ou etapas de validação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preservação Visual de Arquivo Web**  
+  Converta arquivos MHTML em imagens para manter a estrutura visual das páginas web salvas.
+
+* **Geração de Pré-visualizações**  
+  Crie pré-visualizações de imagens a partir de conteúdo web para painéis, sistemas de documentos ou interfaces de revisão de conteúdo.
+
+* **Distribuição Não Editável**  
+  Compartilhe conteúdo como imagens quando uma representação visual fixa é preferida em vez de um arquivo editável.
+
+* **Relatórios Baseados em Capturas**  
+  Use imagens de páginas renderizadas em resumos, registros de auditoria ou conjuntos de documentação visual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Serviços de Miniaturas e Pré-visualizações**  
+  Gere automaticamente pré-visualizações de imagens a partir de arquivos MHTML para indexação, navegação ou sistemas de aprovação.
+
+* **Pipelines de Arquivamento Visual**  
+  Converta conteúdo web capturado em ativos de imagem para armazenamento de longo prazo e fácil referência.
+
+* **Entrega de Conteúdo Multicanal**  
+  Use automação em Python para criar saídas de imagem adequadas para portais, e‑mails ou visualizações de relatórios incorporados.
+
+* **Fluxos de Trabalho de Validação de Layout**  
+  Renderize páginas MHTML como imagens para verificar a aparência durante processos automatizados de controle de qualidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

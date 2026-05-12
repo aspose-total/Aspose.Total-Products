@@ -53,7 +53,41 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de WordML en MHTML transforme le contenu d'un document en un format d'archive Web qui combine le balisage et les ressources associées en un seul fichier. Cela est utile pour préserver le contenu du document dans une représentation autonome, adaptée aux navigateurs.
+
+En utilisant les API Python, la conversion de WordML en MHTML peut être automatisée pour prendre en charge l'archivage Web, la génération d'aperçus et la portabilité du contenu entre les systèmes basés sur les documents et les navigateurs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Export d'archive Web**
+  Convertit les documents WordML en fichiers MHTML autonomes et adaptés au Web.
+
+* **Préservation portable du contenu**
+  Conserve le contenu rendu et les éléments associés ensemble dans un format d'archive unique.
+
+* **Accès orienté navigateur**
+  Facilite la révision des informations du document dans des environnements compatibles avec le Web.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Conditionnement Web automatisé**
+  Convertit des lots de documents en MHTML pour les flux de travail d'archivage ou de révision.
+
+* **Pipelines de livraison d'aperçus**
+  Prend en charge l'accès aux documents via le navigateur sans dépendre des outils d'édition d'origine.
+
+* **Tâches de portabilité du contenu**
+  Permet le partage cohérent du contenu rendu du document entre les systèmes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

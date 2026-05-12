@@ -46,7 +46,53 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した画像から MSG への変換により、画像ベースのコンテンツを構造化された保存、交換、ワークフロー処理に適した個別のメールメッセージファイルに変換できます。これは、スクリーンショット、スキャンした記録、または画像ドキュメントを単独のメッセージ項目として保存する必要がある場合に便利です。
+
+自動化環境では、この変換は繰り返し可能なメッセージ生成、整理されたコミュニケーションの保存、個別のメールファイルを処理するシステムとの統合をサポートします。視覚的資産を個別で追跡可能なコミュニケーションオブジェクトに変換することで、効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **単一メッセージレコードの作成**
+  画像を MSG ファイルに変換し、自己完結型のコミュニケーション項目として使用します。
+
+* **スキャンされた通信のパッケージ化**
+  スキャンされた通知や文書画像を構造化されたメッセージファイルとして保存します。
+
+* **ワークフロー対応メッセージング**
+  メッセージベースの処理に依存するシステム向けに、画像から MSG 出力を生成します。
+
+* **サポートケースの文書化**
+  スクリーンショットや問題の証拠を個別のメッセージレコードとして保存し、ケース追跡に利用します。
+
+* **管理記録の保存**
+  画像由来のコミュニケーションコンテンツを、検索および管理に適した形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メッセージオブジェクト生成**
+  スクリプトは受信画像を MSG ファイルに変換し、一貫した下流処理を実現できます。
+
+* **ケースルーティングパイプライン**
+  スクリーンショットベースの入力をメッセージ項目に変換し、自動的に割り当てることができます。
+
+* **文書処理ワークフロー**
+  画像レコードを構造化されたメッセージに変換し、レビューおよび承認システムで使用できます。
+
+* **移行およびエクスポートタスク**
+  コンテンツ転送作業中に、視覚的コミュニケーション資産を MSG ファイルに変換できます。
+
+* **アーカイブインデックス自動化**
+  個別の画像由来メッセージファイルを大量に作成し、インデックス化して高速検索を実現できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

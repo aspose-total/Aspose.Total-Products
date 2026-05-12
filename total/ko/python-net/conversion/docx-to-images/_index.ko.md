@@ -53,9 +53,46 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to Images 변환은 워드 프로세싱 문서를 이미지 형식으로 변환하여 문서 페이지의 시각적 레이아웃과 서식을 포착합니다. 이 과정은 문서 내용을 정적 시각 파일로 공유하거나 보관할 수 있게 합니다.
+
+Python API를 사용하면 DOCX‑to‑image 변환을 자동화하여 문서 미리보기 시스템, 콘텐츠 게시 플랫폼 및 보관 프로세스에 활용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 미리보기 생성**  
+  DOCX 페이지를 이미지로 변환하여 빠른 미리보기를 제공합니다.
+
+* **문서 시각적 보관**  
+  문서의 외관을 이미지 형식으로 보존합니다.
+
+* **콘텐츠 게시 워크플로**  
+  문서 내용을 이미지로 삽입할 수 있게 합니다.
+
+* **페이지 스냅샷 생성**  
+  문서 페이지의 시각적 표현을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 문서 썸네일 생성**  
+  시스템은 DOCX 파일을 이미지 미리보기로 변환할 수 있습니다.
+
+* **배치 이미지 내보내기 파이프라인**  
+  Python 스크립트를 사용하여 대규모 문서 컬렉션에서 이미지를 생성할 수 있습니다.
+
+* **콘텐츠 배포 플랫폼**  
+  문서를 이미지로 변환하여 게시 또는 공유 워크플로에 사용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

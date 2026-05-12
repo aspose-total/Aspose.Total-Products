@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から CSV への変換は、マクロ対応の Word テンプレートを、処理・分析・ビジネスシステム間での交換が容易なカンマ区切りの構造化データに変換します。組織が文書テンプレートから表形式のコンテンツ、繰り返しフィールド、またはレポートのようなセクションを軽量なデータ形式に抽出する必要がある場合に有用です。
+
+DOTM から CSV への変換に Python API を使用することで、手動データ入力の削減、一貫性の向上、そしてドキュメント駆動型ワークフローを可能にし、規模に応じて分析、インポート、下流の処理パイプラインにデータを供給する自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **テンプレートからのデータ抽出**
+  DOTM ファイル内の構造化コンテンツを CSV に変換し、レポートやデータ操作での再利用を容易にします。
+
+* **システム相互運用性**
+  文書ベースの情報を、データベース、スプレッドシート、ETL ツールで広く受け入れられる形式にエクスポートします。
+
+* **大量文書処理**
+  繰り返し使用されるテンプレートを機械可読の行に変換する必要がある場合、複数の DOTM ファイルを効率的に処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートからデータへのパイプライン**
+  自動化により、標準化された DOTM ファイルから値を抽出し、CSV ベースのワークフローに直接公開できます。
+
+* **レポートフィード生成**
+  この変換は、自動化されたレポートシステムが文書コンテンツをダッシュボードや監査用のデータセットに変換するのに役立ちます。
+
+* **バッチ変換ジョブ**
+  プログラムによる処理により、大量の DOTM テンプレートを手動介入なしで CSV に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

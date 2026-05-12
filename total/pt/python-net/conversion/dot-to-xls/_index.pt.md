@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para XLS transforma modelos de processamento de texto em pastas de trabalho de planilha adequadas para revisão estruturada, entrada de dados e geração de relatórios. Isso é útil quando o conteúdo do modelo precisa ser transferido para um ambiente de planilha familiar.
+
+Usando APIs Python, a conversão de DOT para XLS pode ser automatizada para melhorar a consistência, acelerar a transformação de documentos e suportar a preparação de planilhas em larga escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Relatórios em Planilha**
+  Converta arquivos DOT em pastas de trabalho XLS para análise organizada e revisão operacional.
+
+* **Estruturação de Dados**
+  Mova o conteúdo do documento para layouts de planilha que suportam ordenação e rastreamento.
+
+* **Compatibilidade com Pastas de Trabalho Legadas**
+  Compartilhe informações extraídas em um formato de planilha usado por muitos sistemas estabelecidos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Pastas de Trabalho**
+  Scripts Python podem converter modelos DOT em arquivos XLS para necessidades recorrentes de relatórios.
+
+* **Pipelines de Processamento de Dados**
+  A conversão ajuda a alimentar conteúdo derivado de documentos em fluxos de trabalho centrados em planilhas.
+
+* **Saída em Massa de Planilhas**
+  A automação programática permite a criação escalável de arquivos XLS a partir de muitos modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から XLSX への変換は、OpenDocument Text のコンテンツを、データのレビュー、レポート作成、コラボレーションで広く使用されている最新のスプレッドシート形式に変換します。文書の内容にテーブル、レコード、または構造化されたリストが含まれ、編集可能かつ分析可能にする必要がある場合に最適です。
+
+自動化ワークフローにおいて、ODT から XLSX への変換は、文書ベースのデータを汎用的なスプレッドシート形式へ効率的に抽出できるようにします。Python API は、スケーラブルな変換、検証、そして最新のデータ駆動システム全体での統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新のスプレッドシートエクスポート**  
+  文書のコンテンツを広く使用されているブック形式に変換します。
+
+* **データ分析の準備**  
+  抽出された情報のソート、フィルタリング、処理を容易にします。
+
+* **共同レビュー**  
+  チームベースの編集と、変換されたデータの構造化された検査をサポートします。
+
+* **ワークフローの相互運用性**  
+  文書リポジトリとスプレッドシート主導のプロセスを接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テーブルからブックへの変換**  
+  Python ワークフローは文書のテーブルを抽出し、XLSX ファイルとしてエクスポートできます。
+
+* **バッチレポートパイプライン**  
+  複数の ODT ファイルをスプレッドシートに変換し、定期的な分析に利用できます。
+
+* **データのクレンジングと構造化**  
+  自動化ルールにより、ブック生成前に抽出された値を整備できます。
+
+* **クロスシステム統合**  
+  変換された XLSX 出力は、ストレージ、レポート、または業務プロセスツールへと流れます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

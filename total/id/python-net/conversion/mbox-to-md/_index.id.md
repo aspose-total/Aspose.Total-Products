@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi MBOX ke M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi MBOX ke MD mengubah arsip kotak surat menjadi file Markdown, membuat konten email lebih mudah dibaca, di‑versi, dan digunakan kembali dalam sistem dokumentasi berbasis teks ringan. Format ini ideal untuk portabilitas konten, alur kerja pengembang, dan lingkungan manajemen pengetahuan.
+
+Dengan API Python, konversi MBOX ke Markdown dapat diotomatisasi untuk mendukung ekstraksi konten yang skalabel, penerbitan statis, dan integrasi yang efisien dengan pipeline dokumentasi modern.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Dokumentasi Teks Ringan**
+  Ubah email menjadi Markdown untuk dokumentasi yang bersih, mudah dibaca, dan dapat dipindahkan.
+
+* **Integrasi Basis Pengetahuan**
+  Gunakan kembali konten kotak surat dalam wiki, repositori, atau alur kerja konten statis.
+
+* **Pengarsipan Ramah Versi**
+  Simpan konten email yang telah dikonversi dalam format yang cocok untuk pelacakan dan pembaruan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Generasi Konten Statis**
+  Secara otomatis mengubah data kotak surat menjadi Markdown untuk penerbitan atau pengindeksan.
+
+* **Alur Kerja Berbasis Repositori**
+  Gunakan Python untuk memindahkan arsip email ke sistem manajemen konten yang berfokus pada teks.
+
+* **Pipeline Dokumentasi Skalabel**
+  Transformasi batch file MBOX menjadi aset Markdown terstruktur untuk penggunaan kembali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

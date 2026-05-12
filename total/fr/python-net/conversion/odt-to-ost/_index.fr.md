@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODT vers OST convertit le contenu d’un document en un format associé aux flux de travail de données de boîte aux lettres hors ligne, où le contenu peut devoir être réutilisé pour le stockage, la migration ou l’emballage lié à la communication. Cela peut être utile dans des scénarios d’archivage spécialisé ou de messagerie d’entreprise.
+
+En utilisant les API Python, la conversion ODT vers OST peut prendre en charge la transformation automatisée de documents lorsque l’intégration avec des processus de stockage de type boîte aux lettres est requise. Elle améliore la répétabilité et réduit l’effort de préparation manuelle dans les environnements orientés messages.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Emballage orienté boîte aux lettres**  
+  Convertit le contenu du document pour une utilisation dans les flux de travail de stockage de messages hors ligne.
+
+* **Support d'archivage**  
+  Aide à préserver le texte réutilisé dans des formats de stockage liés à la communication.
+
+* **Préparation à la migration**  
+  Aide à transférer le contenu dérivé de documents dans les écosystèmes de boîtes aux lettres.
+
+* **Conversion d'enregistrements structurés**  
+  Prend en charge les processus d’entreprise qui combinent documents et artefacts de messagerie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Emballage automatisé de contenu**  
+  Les scripts Python peuvent transformer les fichiers ODT en sorties liées aux boîtes aux lettres dans des flux de travail définis.
+
+* **Traitement d'archivage par lots**  
+  De grands dépôts de documents peuvent être convertis pour des tâches de stockage centrées sur la communication.
+
+* **Intégration du pipeline de migration**  
+  Les tâches automatisées peuvent préparer le contenu converti pour la gestion en aval des boîtes aux lettres.
+
+* **Support du flux de travail de rétention**  
+  Les sorties dérivées de documents peuvent être générées de manière cohérente pour l’archivage à long terme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

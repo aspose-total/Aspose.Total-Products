@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT를 DOCX로 변환하는 Python 기능을 사용하면 Excel 템플릿 파일을 현대적인 Word 문서로 변환할 수 있으며, 이러한 문서는 전문 문서화, 협업 및 콘텐츠 교환에 널리 사용됩니다. 스프레드시트 기반 템플릿에 포함된 정보를 보다 깔끔하고 문서 친화적인 형식으로 제시해야 할 때 이 변환이 유용합니다.
+
+자동화 시스템에서는 XLT를 DOCX로 변환함으로써 콘텐츠 이동성 및 워크플로 호환성이 향상됩니다. 이는 확장 가능한 문서 생성을 지원하고, 현대 문서 플랫폼과의 통합을 간소화하며, 조직이 스프레드시트 중심 자산에서 구조화되고 재사용 가능한 Word 출력물로 전환하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **전문 문서 생성**  
+  깔끔한 보고서, 양식 및 비즈니스 문서를 위해 XLT 템플릿을 DOCX 파일로 변환합니다.
+
+* **팀 간 협업**  
+  스프레드시트 기반 콘텐츠를 표준 현대 Word 형식으로 검토하고 편집하기 쉽게 만듭니다.
+
+* **시스템 간 템플릿 재사용**  
+  Excel 템플릿을 DOCX 문서로 재활용하여 보다 넓은 운영 및 커뮤니케이션 요구를 충족합니다.
+
+* **콘텐츠 프레젠테이션 개선**  
+  표형식 또는 구조화된 스프레드시트 콘텐츠를 보다 읽기 쉽고 공식적인 문서 레이아웃으로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 문서 생성**  
+  Python API를 사용하여 정의된 간격으로 XLT 템플릿에서 DOCX 파일을 자동으로 생성합니다.
+
+* **데이터-문서 워크플로**  
+  템플릿 콘텐츠를 자동 파이프라인에 전달하여 하위 단계에서 사용할 현대 Word 문서를 생성합니다.
+
+* **확장 가능한 보고 자동화**  
+  대규모 스프레드시트 템플릿을 DOCX 파일로 변환하여 기업 보고 및 문서화에 활용합니다.
+
+* **문서 전달 통합**  
+  변환된 DOCX 출력을 자동 승인, 저장 또는 알림 워크플로에 첨부합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

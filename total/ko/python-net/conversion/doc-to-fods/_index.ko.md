@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+문서에서 FODS 변환은 Word 콘텐츠를 평면 XML OpenDocument 스프레드시트 형식으로 변환하며, 이는 개방형 워크플로, 상호 운용성 및 투명한 데이터 저장에 적합합니다. XML 기반 스프레드시트 교환을 선호하는 조직에 유용합니다.
+
+DOC를 FODS로 변환하는 Python API 자동화는 확장 가능한 개방형 포맷 파이프라인을 지원하고, 수동 처리에 대한 의존성을 줄이며, 문서를 구조화된 데이터 생태계에 통합하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 워크플로**
+  문서 콘텐츠를 FODS로 변환하여 표준 기반 스프레드시트 처리를 수행합니다.
+
+* **XML 기반 데이터 교환**
+  추출된 테이블을 읽기 쉬운 평면 XML 스프레드시트 구조로 보존합니다.
+
+* **상호 운용 가능한 보고**
+  개방형 포맷이 선호되는 경우 문서에서 스프레드시트로의 변환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 포맷 자동화**
+  DOC 파일을 자동으로 FODS로 변환하여 상호 운용 가능한 데이터 워크플로를 구현합니다.
+
+* **스키마 친화적 내보내기**
+  프로그래밍 방식 변환을 사용하여 문서 콘텐츠에서 평면 XML 스프레드시트를 생성합니다.
+
+* **배치 보고 파이프라인**
+  반복되는 문서 보고서를 FODS로 변환하여 통합 및 저장 자동화를 수행합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

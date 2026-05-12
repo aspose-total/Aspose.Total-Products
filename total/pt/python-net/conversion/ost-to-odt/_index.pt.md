@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para ODT transforma o conteúdo da caixa de correio em um formato de texto de documento aberto que suporta fluxos de trabalho editáveis e baseados em padrões. Isso é útil para preservar informações derivadas de e‑mail em um formato neutro em relação à plataforma, adequado para uso empresarial e arquivamento.
+
+As APIs Python ajudam a automatizar a conversão de OST para ODT, permitindo que as organizações movam os dados da caixa de correio para ecossistemas de documentos abertos de forma eficiente. Isso melhora a escalabilidade, a interoperabilidade e a integração com sistemas modernos de processamento de conteúdo e gerenciamento de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Edição de Documentos Abertos**  
+  Converte o conteúdo da caixa de correio em ODT para uso de documentos editáveis e orientados a padrões.
+
+* **Arquivamento Neutro de Plataforma**  
+  Suporta estratégias de preservação a longo prazo baseadas em formatos de documentos abertos.
+
+* **Colaboração Multiplataforma**  
+  Torna o conteúdo derivado de e‑mail mais fácil de usar em diversos fluxos de trabalho de escritório.
+
+* **Preparação Estruturada de Registros**  
+  Ajuda a transformar arquivos de comunicação em documentos de texto aberto mantíveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Conversão de Formato Aberto**  
+  A automação em Python converte dados OST em ODT para fluxos de trabalho de documentos interoperáveis.
+
+* **Processos de Modernização de Arquivos**  
+  Sistemas automatizados movem o conteúdo da caixa de correio para formatos editáveis baseados em padrões.
+
+* **Integração com Sistemas de Documentos**  
+  A conversão programática apoia estratégias de gerenciamento de conteúdo de documentos abertos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

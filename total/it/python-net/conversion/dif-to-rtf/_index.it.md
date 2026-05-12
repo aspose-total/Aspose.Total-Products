@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DIF a RTF in Python aiuta a trasformare file DIF strutturati in documenti di testo ricco ampiamente leggibili in molti ambienti di elaborazione testi. Questo è utile per produrre output di testo formattato con ampia compatibilità e scambio di documenti leggero.
+
+Le API Python supportano la conversione da DIF a RTF in scenari di automazione in cui i sistemi necessitano di una formattazione del testo affidabile senza dipendere da un unico ecosistema di documenti. Consente una conversione scalabile per archivi, flussi di lavoro di comunicazione e condivisione cross‑platform.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Condivisione di documenti cross‑platform**
+  Converti i file DIF in formato RTF per una compatibilità ampia tra le applicazioni.
+
+* **Esportazione di testo formattato**
+  Conserva la struttura leggibile quando si trasferisce il contenuto DIF in un formato di documento orientato al testo.
+
+* **Consegna di documenti compatibili con sistemi legacy**
+  Usa l'output RTF per sistemi o utenti che dipendono da standard di documenti testuali consolidati da tempo.
+
+* **Presentazione leggibile dei dati**
+  Trasforma i dati sorgente strutturati in documenti formattati adatti a revisione e distribuzione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Output di documenti di scambio automatizzato**
+  Genera file RTF dai dati DIF per sistemi che richiedono documenti formattati leggeri.
+
+* **Flussi di lavoro di conversione legacy in massa**
+  Elabora grandi repository DIF in formato RTF tramite script Python.
+
+* **Automazione dello scambio di documenti**
+  Integra la conversione nei pipeline che condividono file leggibili in ambienti misti.
+
+* **Consegna programmatica di report**
+  Produci documenti RTF automaticamente per riepiloghi di routine, estratti o aggiornamenti operativi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

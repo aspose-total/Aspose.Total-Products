@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de TIFF para VCF usando APIs Python permite que documentos baseados em imagens contendo informações de contato sejam transformados em formatos estruturados de cartões de contato para agendas digitais e sistemas de comunicação. Isso é útil quando cartões de visita digitalizados, formulários ou registros visuais de contato precisam se tornar entradas pesquisáveis e reutilizáveis.
+
+Do ponto de vista da automação, a conversão de TIFF para VCF melhora a eficiência da captura de contatos, reduz a entrada manual de dados e suporta a integração escalável entre a digitalização de documentos e os fluxos de trabalho de gerenciamento de contatos. Ela ajuda a converter dados de contato visuais estáticos em informações de negócios acionáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Digitalização de Cartões de Visita**
+  Converte imagens TIFF de cartões de contato em registros digitais de contato compatíveis com VCF.
+
+* **Extração de Contato Baseada em Formulário**
+  Ajuda a transformar documentos digitalizados de registro ou admissão em entradas de contato reutilizáveis.
+
+* **População de Agenda de Endereços**
+  Suporta a transferência de dados de contato visuais para sistemas estruturados de gerenciamento de contatos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Ingestão Automatizada de Contatos**
+  Converte documentos de contato baseados em TIFF em saídas VCF para importação imediata no sistema.
+
+* **Fluxos de Captura de Leads**
+  Suporta a transformação automatizada de materiais de contato digitalizados em registros estruturados de prospectos.
+
+* **Processos de Sincronização de Diretórios**
+  Permite a criação programática de cartões de contato digitais a partir de arquivos fonte baseados em imagem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

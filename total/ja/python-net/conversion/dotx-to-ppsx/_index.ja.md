@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から PPSX への変換は、Word テンプレートのコンテンツを直接プレゼンテーション再生用に設計された最新のスライドショーフォーマットに変換します。これは、文書ベースの資料を現代的なプレゼンテーション構造で、すぐに閲覧できるスライドコンテンツとして提供したい組織にとって有用です。
+
+この変換は、Python API により、ブリーフィング、出版、コミュニケーションワークフロー向けにスケールでプレゼンテーション対応のスライドショー出力を作成できるようにし、Automation を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **モダンなスライドショー出力**
+  文書コンテンツを直接再生できるスライドプレゼンテーションに変換し、迅速に配布できるようにします。
+
+* **プレゼンテーション対応の配信**
+  スライドショーファイルを直接生成することで、余分な編集工程を省きます。
+
+* **テンプレートベースのコミュニケーション**
+  Word テンプレートを視覚的なプレゼンテーション資産として再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたスライドショーレンダリング**
+  スケジュールされたプレゼンテーションワークフローで DOTX ファイルを PPSX 出力に変換します。
+
+* **大量のプレゼンテーション公開**
+  繰り返し使用される文書テンプレートからスライドショー対応の資産を生成します。
+
+* **ビジュアルコンテンツ配信パイプライン**
+  自動化されたレポーティングおよびコミュニケーションシステムで直接再生出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

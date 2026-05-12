@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLTM을 PPSX로 변환하면 매크로가 포함된 Excel 템플릿을 직접 표시 및 공유할 수 있는 최신 슬라이드쇼 프레젠테이션 파일로 변환할 수 있습니다. 이는 구조화된 워크북 콘텐츠를 슬라이드쇼 모드로 열리는 프레젠테이션 자료로 배포해야 할 때 유용합니다.
+
+자동화된 워크플로우에서 XLTM을 PPSX로 변환하면 전달 속도가 향상되고 최신 프레젠테이션 호환성을 지원하며 스프레드시트 템플릿에서 프레젠테이션 출력물을 확장 가능하게 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 슬라이드쇼 출력**  
+  스프레드시트 템플릿 콘텐츠를 직접 슬라이드쇼 보기용으로 최적화된 프레젠테이션 파일로 변환합니다.
+
+* **프레젠테이션 배포 준비**  
+  구조화된 콘텐츠를 수동 슬라이드 설정 없이 즉시 프레젠테이션 전달을 위해 준비하는 데 도움이 됩니다.
+
+* **재사용 가능한 커뮤니케이션 자산**  
+  표준화된 워크북 템플릿에서 슬라이드쇼 자료를 반복적으로 제작할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 디스플레이 준비 프레젠테이션 생성**  
+  회의, 교육 또는 보고서 사용 사례를 위해 XLTM 템플릿에서 PPSX 파일을 생성합니다.
+
+* **확장 가능한 슬라이드 배포 워크플로우**  
+  팀 및 시스템 전반에 걸쳐 슬라이드쇼 출력물을 대규모로 게시하는 것을 지원합니다.
+
+* **스프레드시트-프레젠테이션 자동화**  
+  템플릿 기반 워크북 콘텐츠를 최신 슬라이드쇼 생성 파이프라인에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

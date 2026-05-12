@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLSB vers MOBI transforme le contenu binaire d’une feuille de calcul en un format adapté aux eBooks, permettant aux données structurées et au texte généré d’être distribués dans une expérience de lecture portable. Cela est utile lorsque des informations basées sur des feuilles de calcul doivent être réutilisées sous forme de publications numériques lisibles.
+
+Dans les flux de travail d’automatisation, la conversion XLSB vers MOBI prend en charge la publication de contenu à grande échelle, permettant aux systèmes de transformer des sources de feuilles de calcul centrées sur les données en documents portables adaptés à la distribution numérique, au partage des connaissances et aux pipelines de publication automatisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Publication numérique**  
+  Convertit le contenu dérivé de feuilles de calcul en un format portable pour la lecture de type eBook.
+
+* **Distribution des connaissances**  
+  Aide à empaqueter les informations structurées pour une consommation mobile et hors ligne.
+
+* **Réutilisation du contenu**  
+  Transforme les données de la feuille de calcul en un contenu numérique long format plus accessible.
+
+* **Documentation portable**  
+  Prend en charge la livraison de documents générés dans un format convivial pour le lecteur.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée d’eBooks**  
+  Les systèmes peuvent convertir le contenu XLSB en fichiers MOBI pour les flux de travail de publication numérique.
+
+* **Publication de contenu en lot**  
+  De grands volumes de matériel basé sur des feuilles de calcul peuvent être convertis en formats de lecture portables.
+
+* **Pipelines de distribution de documentation**  
+  Les flux de travail automatisés peuvent préparer le contenu de référence dérivé de feuilles de calcul pour une diffusion plus large.
+
+* **Transformation des données en publication**  
+  Les entrées de feuilles de calcul structurées peuvent alimenter les systèmes de publication programmatiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

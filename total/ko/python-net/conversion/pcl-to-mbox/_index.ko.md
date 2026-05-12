@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 PCL를 MBOX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PCL에서 MBOX로의 변환은 프린터에서 생성된 문서를 메시지 컬렉션 및 장기 보관에 적합한 메일박스 아카이브 형식으로 변환할 수 있게 합니다. 이는 문서 기반 커뮤니케이션을 아카이브 준비가 된 메일 컨테이너로 통합하려는 조직에 유용합니다.
+
+자동화를 통해 PCL에서 MBOX로의 변환은 대량 처리, 표준화된 보존, 그리고 레거시 출력물을 구조화된 아카이브 워크플로로 원활하게 마이그레이션하는 것을 지원합니다. 이는 인쇄 중심 시스템과 현대적인 아카이브 및 이메일 관리 관행을 연결하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일박스 아카이브 생성**  
+  PCL 콘텐츠를 MBOX 형식으로 변환하여 통합된 메시지 저장소를 제공합니다.
+
+* **역사적 기록 보존**  
+  널리 사용되는 메일박스 구조에서 인쇄 기반 커뮤니케이션을 아카이브하는 것을 지원합니다.
+
+* **레거시 출력물 마이그레이션**  
+  프린터 기반 문서를 이메일 아카이브 생태계로 이동하는 데 도움을 줍니다.
+
+* **대량 메시지 패키징**  
+  변환된 콘텐츠를 컨테이너 기반 메일 아카이브로 그룹화할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 아카이브 워크플로**  
+  PCL 파일을 배치 변환하여 보존 및 규정 준수 프로세스를 위한 MBOX 아카이브로 만들 수 있습니다.
+
+* **레거시 시스템 통합**  
+  자동화된 파이프라인은 인쇄 출력을 메일박스 기반 저장소에 중앙 집중화할 수 있습니다.
+
+* **대량 기록 변환**  
+  대량의 PCL 문서를 수동 패키징 없이 MBOX 파일로 변환할 수 있습니다.
+
+* **프로그래밍된 보존 파이프라인**  
+  변환된 아카이브는 저장소, 인덱싱 또는 감사 시스템으로 직접 이동할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

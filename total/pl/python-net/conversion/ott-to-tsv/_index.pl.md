@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do TSV w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w wartości rozdzielone tabulatorami, umożliwiając czystą, lekką i strukturalną wymianę danych. Jest to przydatne, gdy treść oparta na szablonach musi być przenoszona do systemów preferujących prosty, tekstowy format tabelaryczny.
+
+Konwersja usprawnia automatyzację, umożliwiając łatwe parsowanie, transformację i ładowanie do przepływów pracy, które cenią minimalny narzut, przenośność oraz niezawodną strukturę opartą na separatorach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport danych rozdzielonych**  
+  Konwertuje zawartość dokumentu na ustrukturyzowany, rozdzielony tabulatorami wynik.
+
+* **Formatowanie przyjazne dla potoków**  
+  Obsługuje systemy przetwarzające lekkie, tekstowe tabele.
+
+* **Przygotowanie danych**  
+  Ułatwia import wyodrębnionej zawartości do narzędzi analitycznych lub operacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Masowa konwersja tabelaryczna**  
+  Generuje pliki TSV z szablonów OTT w dużej skali.
+
+* **Zasilanie przepływu ETL**  
+  Wysyła dane pochodzące z dokumentu do potoków parsowania i transformacji.
+
+* **Zaplanowane eksporty strukturalne**  
+  Obsługuje cykliczne generowanie prostych, maszynowo czytelnych zestawów danych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における POTM から DOC への変換により、マクロ対応のプレゼンテーションコンテンツをレビュー、配布、アーカイブ用の編集可能なワードプロセッシング文書に変換できるようになります。プレゼンテーション資料をテキスト中心の形式で書き直したり、注釈を付けたり、共有したりする必要がある場合に便利です。
+
+自動化の観点から見ると、POTM から DOC への変換はコンテンツのポータビリティを向上させ、Python を使用してファイルを生成、変換、ビジネスシステム間でルーティングするドキュメント中心のワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーションからドキュメントへの再利用**
+  スライドベースの情報を、より広い利用可能性のために編集可能な文書コンテンツに変換します。
+
+* **レビューおよび編集ワークフロー**
+  チームが慣れ親しんだワードプロセッシング形式でプレゼンテーション資料を修正できるようにします。
+
+* **アーカイブ文書**
+  記録保存に適した文書形式でプレゼンテーションコンテンツを保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量文書生成**
+  大量の出版ワークフローの一環として、複数の POTM ファイルを DOC 文書に変換します。
+
+* **ワークフローに基づくコンテンツ引き渡し**
+  プレゼンテーションコンテンツを自動的に文書レビューシステムへ移行します。
+
+* **プログラムによるファイル配布**
+  Python スクリプトを使用して変換し、生成された DOC ファイルを下流のチームやシステムに送信します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

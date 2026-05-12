@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 WORD를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 VCF 변환은 워드 문서에 있는 연락처 관련 정보를 vCard 파일로 변환하여 연락처 관리 시스템에 더 쉽게 공유하고 가져올 수 있게 합니다. 디렉터리, 주소 목록, 또는 문서에 저장된 프로필 세부 정보를 구조화된 연락처 레코드로 변환해야 할 때 유용합니다.
+
+자동화 워크플로우에서 이 변환은 연락처 데이터를 신뢰성 있게 추출하고 패키징하여 동기화된 디렉터리, 온보딩 절차 및 효율적인 커뮤니케이션 관리를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 레코드 생성**
+  문서에 있는 연락처 정보를 가져올 수 있는 vCard 파일로 변환합니다.
+
+* **디렉터리 현대화**
+  정적인 워드 기반 목록을 구조화된 디지털 연락처 자산으로 변환하는 데 도움을 줍니다.
+
+* **정보 공유**
+  표준화된 연락처 레코드를 시스템 간에 배포하기 쉽게 합니다.
+
+* **CRM 및 연락처 도구 준비**
+  문서에 보관된 연락처 데이터를 운영 플랫폼으로 이동하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 연락처 추출**
+  워드 기반 디렉터리를 자동으로 VCF 파일로 변환하여 가져오기 워크플로에 사용합니다.
+
+* **온보딩 및 배포 파이프라인**
+  승인된 문서에서 연락처 레코드를 생성하여 내부 또는 외부에 공유합니다.
+
+* **시스템 동기화 지원**
+  VCF 출력을 사용하여 연락처 관련 시스템을 문서 소스와 일치하도록 유지합니다.
+
+* **구조화된 데이터 재사용**
+  변환된 연락처 파일을 보다 넓은 커뮤니케이션 자동화 프로세스에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

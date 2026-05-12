@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による XLT から MOBI への変換は、Excel テンプレートファイルをポータブルな読書やデジタル配信に適した eBook フレンドリーな形式に変換できるようにします。これは、スプレッドシートベースのコンテンツを、読書デバイスや軽量コンテンツプラットフォームでアクセスしやすいテキスト中心の出力に再利用する必要がある場合に便利です。
+
+最新の自動化システムにおいて、XLT から MOBI への変換はコンテンツの再出版やマルチフォーマット配信を支援します。構造化されたテンプレートデータを大量に生成し、デジタルチャネル全体でプログラム的に配布できるポータブルな読書資産に変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ポータブルコンテンツ出版**  
+  XLT ベースの情報を、対応デジタルデバイスで読める MOBI ファイルに変換します。
+
+* **知識配信**  
+  スプレッドシートテンプレートのコンテンツを、より広いコンテンツアクセスのための軽量フォーマットに再利用します。
+
+* **構造化データの再パッケージ化**  
+  テンプレート駆動の情報を、順序付けられたドキュメント形式の読書体験に変換します。
+
+* **デジタルアーカイブの準備**  
+  スプレッドシート由来の資料を長期利用可能なポータブルコンテンツバージョンとして作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **マルチフォーマット出版パイプライン**  
+  Python API を使用して、XLT テンプレートから自動出版ワークフロー内で MOBI 出力を生成します。
+
+* **大量コンテンツ変換**  
+  大規模なスプレッドシートテンプレートのコレクションを、プログラム的にポータブルな読書ファイルに変換します。
+
+* **自動配信システム**  
+  生成された MOBI ファイルをデジタルライブラリ、配信システム、またはコンテンツリポジトリへルーティングします。
+
+* **ドキュメント再利用**  
+  業務用スプレッドシートコンテンツを、スケーラブルな自動化を通じて読みやすいデジタルドキュメントに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から FODS への変換は、マクロ対応ドキュメントをフラットなオープン スプレッドシート ファイルに変換し、構造化されたドキュメント データをオープンおよび XML ベースのスプレッドシート ワークフローで再利用できるようにします。透明性、ポータビリティ、標準化されたデータ表現が重要な場合に有用です。
+
+自動化システムにおいて、DOCM から FODS への変換は、繰り返し可能なデータ抽出と、可読性の高い構造化スプレッドシート形式を好むオープンドキュメント パイプラインへの統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープン スプレッドシート変換**
+  ドキュメント データをオープン エコシステムに適したフラットなスプレッドシート形式に移行します。
+
+* **XMLベースのデータポータビリティ**
+  検査および交換が容易な形式で構造化コンテンツの保持を支援します。
+
+* **ワークフローの標準化**
+  スプレッドシート操作にオープンドキュメント標準を使用する組織をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動オープンフォーマットエクスポート**
+  DOCM ファイルを標準化された処理用の FODS 出力に変換します。
+
+* **XML パイプラインとの統合**
+  ドキュメント データが構造化マークアップベースのスプレッドシートを扱うシステムに流れることを可能にします。
+
+* **大量標準化タスク**
+  大量のバッチにわたり、ドキュメントテーブルをフラットなスプレッドシート ファイルに正規化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

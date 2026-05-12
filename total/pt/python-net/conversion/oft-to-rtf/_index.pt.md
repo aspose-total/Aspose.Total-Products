@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para RTF usando APIs Python transforma modelos de e‑mail do Outlook em documentos de texto rico que equilibram suporte de formatação com ampla compatibilidade. Isso é útil quando o conteúdo deve permanecer editável, preservando a formatação principal em uma ampla variedade de ferramentas de documentos.
+
+Do ponto de vista da automação, a conversão de OFT para RTF suporta reutilização flexível de conteúdo, troca simplificada entre sistemas e preparação eficiente de documentos. É uma escolha prática para fluxos de trabalho interoperáveis e focados em texto.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Conteúdo Formatado Editável**  
+  Converta modelos OFT em arquivos RTF para preservar a formatação em um formato de documento editável.
+
+* **Compartilhamento de Compatibilidade Ampla**  
+  Use a saída RTF para fluxos de trabalho que exigem suporte em diversos editores de documentos.
+
+* **Reuso de Conteúdo de Modelo**  
+  Reaproveite mensagens de e‑mail em arquivos de texto rico para relatórios, registros ou documentação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines Automatizados de Documentos de Texto**  
+  Converta arquivos OFT em RTF automaticamente para processos de edição e distribuição subsequentes.
+
+* **Troca de Conteúdo Multiplataforma**  
+  Encaminhe as saídas RTF entre sistemas com diferentes requisitos de suporte a documentos.
+
+* **Preservação de Formatação Escalável**  
+  Use APIs Python para manter a saída de texto estruturado em grandes lotes de conversão de modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

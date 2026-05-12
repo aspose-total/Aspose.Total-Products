@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MOBI から XLSB への変換は、電子書籍ベースのコンテンツを、効率的な保存とパフォーマンスを目的としたバイナリ スプレッドシート形式に変換します。これは、コンパクトなブック表現とスプレッドシート環境での高速ロードの恩恵を受ける、より大きな構造化出力を扱う際に特に有用です。
+
+自動化のために、MOBI から XLSB への変換は、大量処理、効率的なファイル操作、スケーラブルなスプレッドシート生成をサポートします。分析や運用での使用のためにスプレッドシート構造を保持しつつ、パフォーマンス指向の出力が必要なドキュメントパイプラインに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **効率的なブック保存**
+  MOBI コンテンツを XLSB に変換し、より大きなスプレッドシート ワークフローでのオーバーヘッドを削減します。
+
+* **大量データ処理**
+  バイナリ ブック出力を使用して、より高いパフォーマンス特性が必要な構造化データのエクスポートを行います。
+
+* **スプレッドシートベースの配布**
+  抽出された情報を、より重い運用スプレッドシート使用に適した形式で提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **パフォーマンス指向のエクスポートジョブ**
+  ワークフローが大量の電子書籍由来データを処理する際に、XLSB ファイルを自動的に生成します。
+
+* **スケーラブルなスプレッドシート パイプライン**
+  Python の変換ロジックを使用して、定期的なバッチタスク向けにコンパクトなブック出力を生成します。
+
+* **運用データ配信**
+  構造化コンテンツを、下流のチームやシステム向けに高効率なスプレッドシート ファイルへルーティングします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

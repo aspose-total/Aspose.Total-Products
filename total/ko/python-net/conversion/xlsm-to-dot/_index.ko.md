@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM에서 DOT로의 변환은 매크로가 포함된 스프레드시트 콘텐츠를 표준화된 문서를 생성하는 데 사용되는 워드 템플릿 형식으로 변환할 수 있게 합니다. 이는 스프레드시트 데이터가 부서 간 또는 반복되는 워크플로에서 반복 가능한 문서 작성을 위한 기반이 될 때 유용합니다.
+
+자동화 중심 환경에서는 XLSM을 DOT로 변환함으로써 재사용 가능한 문서 구조, 일관된 서식 및 확장 가능한 템플릿 생성을 지원합니다. Python API를 사용하면 문서 조립 시스템, 보고 프레임워크 및 운영 콘텐츠 파이프라인을 위한 이 프로세스를 자동화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 생성**
+  스프레드시트 기반 콘텐츠를 재사용 가능한 워드 프로세싱 템플릿으로 변환합니다.
+
+* **표준화된 출력**
+  반복되는 비즈니스 프로세스 전반에 걸쳐 일관된 문서 서식을 지원합니다.
+
+* **운영 문서 설계**
+  팀이 구조화된 스프레드시트 입력을 기반으로 템플릿 중심 문서를 구축하도록 돕습니다.
+
+* **재사용 가능한 콘텐츠 프레임워크**
+  하위 워크플로에서 채우거나 적용할 수 있는 문서 모델을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**
+  Python API를 사용하면 반복적인 문서화 요구에 맞게 XLSM 파일을 DOT 템플릿으로 변환할 수 있습니다.
+
+* **자동화된 표준화**
+  변환 워크플로는 여러 출력에 걸쳐 문서 구조가 일관되게 유지되도록 보장할 수 있습니다.
+
+* **배치 템플릿 준비**
+  대량의 스프레드시트를 프로그래밍 방식으로 재사용 가능한 템플릿으로 변환할 수 있습니다.
+
+* **문서 조립 통합**
+  DOT 출력은 대규모로 표준화된 비즈니스 문서를 생성하는 자동화 시스템에 공급될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

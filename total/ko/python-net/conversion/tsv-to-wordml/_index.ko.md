@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV에서 WordML로의 변환은 구조화된 표 데이터를 문서 생성, 상호 운용성 및 구조화된 콘텐츠 워크플로에 적합한 XML 기반 워드 프로세싱 마크업으로 변환합니다. 시스템이 기계 친화적인 문서 출력을 필요로 하면서도 워드 프로세싱 사용 사례와 일치해야 할 때 유용합니다.
+
+Python API를 사용하면 TSV에서 WordML로의 변환을 자동화하여 통합이 많은 환경, 확장 가능한 콘텐츠 변환 및 구조화된 데이터 소스로부터 프로그래밍 방식의 문서 조립을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 생성**  
+  TSV 데이터를 워드 프로세싱 워크플로에 적합한 구조화된 마크업으로 변환합니다.
+
+* **상호 운용 가능한 콘텐츠 교환**  
+  구조화된 XML 표현에 의존하는 환경에서 문서 출력을 지원합니다.
+
+* **프로그래밍 방식 문서 조립**  
+  원시 표 데이터를 기계가 읽을 수 있는 문서 형식으로 변환하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **구조화된 출력 파이프라인**  
+  Python API를 사용하면 TSV 소스로부터 WordML 문서를 자동으로 생성할 수 있습니다.
+
+* **시스템 간 통합**  
+  자동화를 통해 구조화된 데이터를 XML 기반 문서 워크플로로 원활하게 이동시킬 수 있습니다.
+
+* **확장 가능한 문서 변환**  
+  대용량 TSV 데이터셋을 고볼륨 처리 시스템의 일환으로 WordML로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

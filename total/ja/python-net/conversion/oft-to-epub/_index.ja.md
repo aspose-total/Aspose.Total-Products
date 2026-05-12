@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から EPUB への変換は、Outlook のメールテンプレートを構造化された読書と配布に適した再流動化デジタル出版ファイルに変換します。これは、メールベースのコンテンツを長文で携帯可能かつ読者に優しいデジタル文書に再利用する必要がある場合に価値があります。
+
+自動化された環境では、OFT から EPUB への変換は、メッセージングテンプレートから出版ワークフローへ情報を移すコンテンツ変換パイプラインをサポートします。これにより、コンテンツの再利用性、アクセシビリティ、そしてスケーラブルなデジタル配布が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **デジタル出版の再利用**  
+  OFT コンテンツを EPUB ファイルに変換し、携帯性と読者に優しい電子配布を実現します。
+
+* **構造化コンテンツ配信**  
+  メールテンプレート情報をデジタル出版物として利用する必要がある場合に EPUB 出力を使用します。
+
+* **ナレッジコンテンツのパッケージ化**  
+  再利用可能なコミュニケーションコンテンツをマニュアルやガイドに適した形式にパッケージ化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動出版パイプライン**  
+  デジタルコンテンツ制作ワークフローの一部として、OFT テンプレートを EPUB ファイルに変換します。
+
+* **クロスチャネルコンテンツ配信**  
+  メッセージングテンプレートを出版準備が整った資産に再利用し、より広い配信チャネルに提供します。
+
+* **プログラムによるアーカイブ変換**  
+  コミュニケーションテンプレートを検索可能なリポジトリ用の構造化デジタルブックに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

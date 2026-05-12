@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX en ICS convertit les informations basées sur des documents en fichiers d'événements de calendrier conformes à la norme iCalendar. Cette transformation permet aux informations de planification stockées dans les documents d'être converties en formats compatibles avec les calendriers.
+
+Les API Python permettent l'extraction automatisée des données d'événement à partir des documents et la génération de fichiers ICS, soutenant les systèmes de planification automatisés et les intégrations de calendriers.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de la planification d'événements**  
+  Convertit les détails d'événements basés sur des documents en événements de calendrier.
+
+* **Flux d'intégration de calendrier**  
+  Permet aux plannings de documents d'être importés dans les systèmes de calendrier.
+
+* **Automatisation des réunions et des événements**  
+  Facilite la création automatisée d'événements de calendrier à partir de documents.
+
+* **Systèmes de distribution de planning**  
+  Autorise les documents contenant des informations d'événement à générer des fichiers de calendrier.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de fichiers d'événements**  
+  Les systèmes peuvent convertir automatiquement les plannings d'événements DOCX en fichiers ICS.
+
+* **Pipelines de planification basés sur les documents**  
+  L'automatisation Python peut générer des entrées de calendrier à partir de documents.
+
+* **Intégration de calendrier d'entreprise**  
+  Les données de documents peuvent être transformées en fichiers ICS pour une planification automatisée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

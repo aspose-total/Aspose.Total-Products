@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 MOBI로 변환은 스프레드시트에서 파생된 콘텐츠를 디지털 독서와 휴대용 배포에 적합한 전자책 친화적인 형식으로 변환합니다. 스프레드시트의 구조화된 정보를 매뉴얼, 가이드 또는 참고 자료와 같은 읽기 쉬운 장문 콘텐츠로 재패키징해야 할 때 유용합니다.
+
+자동화된 환경에서는 Python API를 활용한 SXC에서 MOBI로 변환이 소스 데이터를 대규모로 효율적으로 생성, 업데이트 및 배포할 수 있는 휴대용 출판물로 전환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **디지털 가이드 제작**  
+  스프레드시트 정보를 핸드북이나 매뉴얼 형식 전달에 더 적합한 형식으로 변환합니다.
+
+* **휴대용 콘텐츠 배포**  
+  오프라인 또는 디바이스 친화적인 독서 경험을 위해 구조화된 정보를 게시하는 데 도움이 됩니다.
+
+* **참고 자료 패키징**  
+  표 형식의 콘텐츠를 최종 사용자를 위한 읽기 쉬운 문서로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 전자책 출판**  
+  Python API를 사용하여 반복적인 콘텐츠 워크플로우에서 SXC 소스로부터 MOBI 출력을 생성합니다.
+
+* **지식 전달 파이프라인**  
+  구조화된 스프레드시트 데이터를 자동으로 휴대용 읽기 형식으로 변환할 수 있게 합니다.
+
+* **동적 출판 업데이트**  
+  소스 스프레드시트 데이터가 변경될 때마다 디지털 콘텐츠를 재생성하는 과정을 간소화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

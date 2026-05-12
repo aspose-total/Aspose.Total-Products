@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 PPTX로 변환하면 재사용 가능한 문서 템플릿을 편집, 공유 및 프레젠테이션 전달을 위한 최신 프레젠테이션 파일로 바꿉니다. 이는 템플릿 내용이 현재 워크플로에 맞는 유연한 슬라이드 데크 형식이 되어야 할 때 유용합니다.
+
+Python API를 사용하면 조직이 DOT를 PPTX로 변환하는 작업을 자동화하여 생산성을 향상하고 일관된 슬라이드 생성을 유지하며 확장 가능한 콘텐츠 재활용을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대적인 프레젠테이션 생성**
+  DOT 파일을 PPTX로 변환하여 편집 가능하고 공유 가능한 슬라이드 기반 커뮤니케이션을 구현합니다.
+
+* **시각 형식에서 템플릿 재사용**
+  구조화된 문서 내용을 현대적인 프레젠테이션 데크로 변환합니다.
+
+* **협업 지원**
+  중앙 집중식 템플릿에서 생성된 편집 가능한 프레젠테이션 결과물을 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드 데크 생성**
+  Python 스크립트를 사용하여 DOT 템플릿을 PPTX로 변환해 반복적인 보고 및 커뮤니케이션 작업에 활용할 수 있습니다.
+
+* **콘텐츠 재활용 워크플로**
+  변환을 통해 문서 콘텐츠를 수동 재설계 없이 프레젠테이션 파이프라인으로 옮길 수 있습니다.
+
+* **대량 프레젠테이션 생성**
+  프로그래밍 시스템을 사용하면 소스 템플릿에서 다수의 PPTX 파일을 효율적으로 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

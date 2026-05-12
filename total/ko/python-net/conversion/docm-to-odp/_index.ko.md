@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 ODP로 변환은 매크로가 포함된 문서를 오픈 프레젠테이션 파일로 변환하여 구조화된 콘텐츠를 슬라이드쇼 및 프레젠테이션 워크플로에서 재사용할 수 있게 합니다. 문서 내러티브, 요약 또는 개요 정보를 휴대 가능한 프레젠테이션 자산으로 변환해야 할 때 유용합니다.
+
+자동화 중심 시스템에서 DOCM에서 ODP로의 변환은 보고서, 교육 및 프레젠테이션 플랫폼 전반에 걸친 확장 가능한 콘텐츠 게시를 위해 오픈 프레젠테이션 출력물을 생성하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션 생성**
+  문서 콘텐츠를 회의 및 검토용 슬라이드 준비 자료로 변환합니다.
+
+* **오픈 포맷 배포**
+  오픈 및 휴대 가능한 파일 표준에 의존하는 프레젠테이션 워크플로를 지원합니다.
+
+* **구조화된 콘텐츠 재사용**
+  문서 기반 정보를 보다 넓은 커뮤니케이션을 위한 시각적 프레젠테이션 자산으로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드 생성**
+  반복되는 프레젠테이션 워크플로를 위해 DOCM 소스에서 ODP 파일을 생성합니다.
+
+* **교육 및 보고 파이프라인**
+  작성된 문서를 팀 전반에서 사용되는 프레젠테이션 출력물로 변환합니다.
+
+* **배치 콘텐츠 게시**
+  수동 포맷팅 없이 대규모 오픈 프레젠테이션 파일 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

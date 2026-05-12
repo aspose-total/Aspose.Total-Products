@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 ICS로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 ICS로 변환은 문서 정보를 캘린더와 호환되는 데이터로 변환하여 일정 관리, 알림 및 이벤트 기반 워크플로를 지원할 수 있습니다. 이는 문서에 저장된 회의 세부 사항, 타임라인 또는 의제 항목을 캘린더 항목으로 변환해야 할 때 유용합니다.
+
+Python API를 사용하면 WordML에서 ICS로 변환을 자동화하여 이벤트 정보를 추출하고 일정 시스템 및 시간 기반 프로세스 자동화를 위한 재사용 가능한 캘린더 파일을 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이벤트 추출**
+  WordML 파일의 일정 관련 콘텐츠를 캘린더 준비가 된 ICS 데이터로 변환합니다.
+
+* **회의 워크플로 지원**
+  의제 또는 계획 문서를 가져올 수 있는 이벤트 레코드로 변환합니다.
+
+* **캘린더 상호 운용성**
+  표준 형식을 사용하여 문서 콘텐츠를 일정 플랫폼으로 이동할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 캘린더 파일 생성**
+  반복 워크플로에서 WordML 회의 또는 이벤트 문서로부터 ICS 파일을 생성합니다.
+
+* **일정 동기화**
+  문서 기반 이벤트 세부 정보를 캘린더 가져오기 파이프라인에 통합합니다.
+
+* **알림 및 계획 자동화**
+  구조화된 문서 콘텐츠에서 시간 제한 레코드를 프로그래밍 방식으로 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a DIF trasforma i documenti abilitati alle macro in un formato di scambio dati adatto per lo scambio di tabelle strutturate tra sistemi legacy e analitici. Questo è utile quando i dati contenuti nel documento devono essere conservati in un formato compatibile con i flussi di lavoro di fogli di calcolo e database più vecchi.
+
+Da una prospettiva di automazione, la conversione da DOCM a DIF supporta il trasferimento ripetibile di contenuti strutturati in sistemi che si basano su formati di scambio tabellare standardizzati per l'importazione e la riconciliazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Scambio di dati legacy**
+  Converte le tabelle dei documenti in un formato adatto a fogli di calcolo e strumenti aziendali più vecchi.
+
+* **Migrazione di record strutturati**
+  Aiuta a spostare i dati dai documenti DOCM verso sistemi che dipendono da formati orientati allo scambio.
+
+* **Conservazione tabellare**
+  Mantiene l'organizzazione a righe e colonne quando il contenuto del documento deve essere riutilizzato altrove.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Conversione dati programmata**
+  Automatizza le esportazioni ricorrenti da file DOCM a DIF per garantire coerenza operativa.
+
+* **Integrazione di flussi di lavoro legacy**
+  Supporta il passaggio automatico verso ambienti finanziari, amministrativi o di reporting più vecchi.
+
+* **Normalizzazione di documenti in blocco**
+  Converte più documenti sorgente in un formato strutturato comune per l'elaborazione a valle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

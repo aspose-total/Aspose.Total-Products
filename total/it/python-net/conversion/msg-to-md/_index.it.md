@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to MD conversion converte i messaggi email in Markdown per una documentazione testuale pulita, leggera e portabile. È particolarmente utile quando il contenuto delle email deve essere riutilizzato in basi di conoscenza, documentazione per sviluppatori o flussi di lavoro di pubblicazione dei contenuti.
+
+Nelle pipeline di automazione, la conversione MSG a MD supporta la documentazione sotto controllo di versione, la normalizzazione dei contenuti e l'elaborazione semplificata del testo. Aiuta a collegare la comunicazione via email con le moderne operazioni di contenuto e i sistemi di pubblicazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Integrazione nella base di conoscenza**  
+  Converti le email in Markdown per una documentazione interna strutturata.
+
+* **Riutilizzo di contenuti per sviluppatori**  
+  Conserva il testo del messaggio in un formato adatto a repository e sistemi di documentazione.
+
+* **Preparazione per pubblicazione leggera**  
+  Prepara i contenuti derivati dalle email per l'uso in siti statici o flussi di lavoro di contenuto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione della pipeline di documentazione**  
+  Trasforma i file MSG in Markdown per pubblicazione o indicizzazione automatica.
+
+* **Gestione dei contenuti basata su repository**  
+  Archivia i contenuti email convertiti nei flussi di lavoro di documentazione sotto controllo di versione.
+
+* **Processi di normalizzazione del testo**  
+  Standardizza la comunicazione in entrata in contenuti testuali leggeri e adatti alle macchine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

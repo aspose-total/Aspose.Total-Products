@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 DOCX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 DOCX로의 변환은 Outlook 이메일 템플릿을 다양한 플랫폼에서 널리 지원되는 현대적인 편집 가능한 워드 프로세싱 문서로 변환합니다. 이를 통해 구조화된 문서화, 협업 및 출판 워크플로우에서 이메일 콘텐츠를 보다 쉽게 재사용할 수 있습니다.
+
+자동화 관점에서 OFT를 DOCX로 변환하면 콘텐츠 이동성이 향상되고 확장 가능한 문서 생성 파이프라인을 지원합니다. 이는 현대 시스템이 메시징 콘텐츠를 문서 중심 프로세스와 통합하여 보다 빠른 처리와 향상된 상호 운용성을 제공하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 문서 편집**  
+  OFT 파일을 DOCX 문서로 변환하여 현재 사무 워크플로우에서 쉽게 수정하고 서식 지정할 수 있습니다.
+
+* **시스템 간 콘텐츠 재사용**  
+  이메일 템플릿을 보고서, 제안서 또는 내부 기록용 편집 가능한 문서로 재활용합니다.
+
+* **표준화된 보관 출력**  
+  이메일 템플릿 콘텐츠를 장기 접근을 위해 널리 호환되는 문서 형식으로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대규모 템플릿 변환**  
+  OFT 라이브러리를 자동으로 변환하여 기업 문서 저장소용 DOCX 파일로 만듭니다.
+
+* **워크플로 기반 콘텐츠 게시**  
+  변환된 DOCX 결과물을 승인, 편집 또는 게시 시스템으로 수동 개입 없이 전송합니다.
+
+* **동적 문서 조립**  
+  Python API를 사용하여 OFT에서 파생된 DOCX 파일을 더 큰 자동 문서 생성 프로세스에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

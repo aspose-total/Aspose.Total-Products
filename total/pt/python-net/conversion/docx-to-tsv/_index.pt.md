@@ -65,7 +65,44 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCX para TSV converte documentos de processamento de texto em formato de valores separados por tabulação, permitindo que informações estruturadas sejam extraídas para um arquivo de dados leve baseado em texto. Esse formato é útil para mover tabelas baseadas em documentos e conteúdo organizado para fluxos de trabalho analíticos ou de intercâmbio.
+
+APIs Python permitem que a conversão de DOCX para TSV seja automatizada em sistemas de preparação de dados, pipelines de extração de conteúdo e fluxos de trabalho de integração empresarial. Ela suporta a transformação escalável do conteúdo de documentos em saídas tabulares legíveis por máquina.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Dados Tabulares**  
+  Converte tabelas DOCX e informações estruturadas em arquivos tabulares baseados em texto.
+
+* **Troca de Dados Entre Sistemas**  
+  Permite a transferência leve de conteúdo estruturado entre plataformas.
+
+* **Preparação para Análise e Processamento**  
+  Ajuda a preparar dados derivados de documentos para ferramentas de análise subsequentes.
+
+* **Integração de Fluxo de Trabalho Documento-para-Texto**  
+  Suporta a exportação de conteúdo organizado para formatos tabulares portáteis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines Automatizados de Exportação de Dados**  
+  Sistemas podem transformar arquivos DOCX em saídas TSV para fluxos de trabalho de processamento.
+
+* **Extração em Lote de Conteúdo Estruturado**  
+  Scripts Python podem converter múltiplos documentos em conjuntos de dados separados por tabulação de forma programática.
+
+* **Automação de Integração Empresarial**  
+  O conteúdo de documentos pode ser exportado para o formato TSV para ingestão por sistemas de relatórios ou bancos de dados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

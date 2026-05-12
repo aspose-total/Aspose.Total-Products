@@ -53,7 +53,41 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCM na obrazy zamienia dokumenty z włączonymi makrami w wizualne pliki wyjściowe, ułatwiając podgląd, udostępnianie, archiwizowanie lub osadzanie stron w innych systemach. Jest przydatna, gdy integralność dokumentu musi być zachowana wizualnie na platformach, które nie obsługują natywnie edytowalnych formatów dokumentów.
+
+W przepływach pracy opartych na automatyzacji konwersja DOCM na obrazy wspiera pipeline'y renderowania dokumentów, generowanie miniatur, systemy przeglądu wizualnego oraz skalowalne procesy publikacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Podgląd dokumentu w formie wizualnej**
+  Konwertuje strony na pliki graficzne, które łatwo wyświetlić w przeglądarkach i aplikacjach.
+
+* **Udostępnianie treści**
+  Umożliwia szybkie rozpowszechnianie migawków dokumentu, gdy edytowalność nie jest wymagana.
+
+* **Wierność archiwalna**
+  Zachowuje wizualny wygląd oryginalnego dokumentu dla celów referencyjnych i zgodności.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Generowanie miniatur i podglądów**
+  Automatycznie tworzy obrazy do galerii dokumentów, list lub portali.
+
+* **Pipeline'y publikacji**
+  Wspiera eksport wizualny dla stron internetowych, baz wiedzy i przeglądarek dokumentów.
+
+* **Wsadowe przepływy renderowania**
+  Przetwarza dużą liczbę plików DOCM na obrazy bez ręcznej interwencji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

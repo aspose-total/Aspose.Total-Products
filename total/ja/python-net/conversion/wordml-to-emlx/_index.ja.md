@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から EMLX への変換は、ドキュメントコンテンツを特定のメール保存環境で一般的に使用されるメールメッセージ形式に変換します。これは、WordML コンテンツをプラットフォーム固有のメールアーカイブや移行ニーズに合わせて調整する必要がある場合に有用です。
+
+Python API を使用した WordML から EMLX への変換により、プログラムによるコンテンツ抽出とメッセージのパッケージ化が可能になり、専門的なメールワークフロー全体での変換自動化が容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **プラットフォーム固有のメール出力**
+  WordML コンテンツを EMLX に変換し、互換性のあるメールストレージ環境で使用できるようにします。
+
+* **メール移行サポート**
+  ドキュメントベースの通信をメールボックス移行プロセス用に準備するのに役立ちます。
+
+* **構造化アーカイブ変換**
+  テキストコンテンツをメールリポジトリに適したメッセージ指向の形式で保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **メールボックス準備ジョブ**
+  移行またはインポート手順のために、ドキュメントソースからの EMLX 生成を自動化します。
+
+* **アーカイブ変換パイプライン**
+  WordML ファイルをメッセージファイルに変換し、管理された保持プロセスに使用します。
+
+* **バッチコンテンツパッケージング**
+  定期的なドキュメントコレクションからの EMLX 出力のスケーラブルな作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

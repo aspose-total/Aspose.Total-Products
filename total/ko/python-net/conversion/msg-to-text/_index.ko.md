@@ -46,9 +46,43 @@ Python 개발자의 경우 응용 프로그램 내에서 MSG를 TEXT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to TEXT 변환은 이메일 메시지 내용을 단순 저장, 검색 및 처리를 위해 일반 텍스트로 추출합니다. 형식보다 깨끗한 내용 접근이 더 중요하고 인덱싱이나 분석을 위해 가벼운 출력이 필요할 때 유용합니다.
+
+자동화를 위해, MSG to TEXT 워크플로는 텍스트 마이닝, 검색 파이프라인 및 정규화된 콘텐츠 수집을 지원합니다. 이들은 커뮤니케이션 데이터를 최소하고 기계 친화적인 형식으로 변환하여 확장 가능한 처리를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **순수 텍스트 추출**  
+  이메일 내용을 쉽게 읽고, 저장하거나, 하위 분석을 위해 분리합니다.
+
+* **검색 및 인덱스 지원**  
+  메시지 텍스트를 카탈로그화 및 검색 워크플로에 준비합니다.
+
+* **경량 데이터 처리**  
+  형식 보존이 필요 없는 파이프라인에서 단순화된 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **콘텐츠 수집 파이프라인**  
+  MSG 파일을 순수 텍스트로 변환하여 인덱싱 및 분류 시스템에 사용합니다.
+
+* **텍스트 분석 워크플로**  
+  추출된 메시지 내용을 자동 분석 또는 모니터링 프로세스에 전달합니다.
+
+* **정규화된 아카이브 생성**  
+  통신 기록을 압축된 텍스트 형태로 저장하여 확장 가능한 보존을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

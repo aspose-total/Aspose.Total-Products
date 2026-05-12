@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Email para GIF em Python transforma o conteúdo da mensagem em ativos de imagem leves que são fáceis de visualizar, compartilhar e incorporar em diferentes sistemas. É útil para criar instantâneos visuais compactos de e‑mails onde a compatibilidade simples de imagem importa mais do que a editabilidade.
+
+Essa conversão melhora a automação ao produzir saídas de imagem portáteis que podem ser geradas em massa e anexadas a painéis, arquivos ou fluxos de trabalho de notificação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Visualizações Leves de Email**
+  Converta e‑mails em arquivos GIF para visualizações rápidas em portais ou arquivos.
+
+* **Anexos de Fluxo de Trabalho**
+  Use saídas de imagem compactas ao compartilhar instantâneos de mensagens entre ferramentas internas.
+
+* **Registros de Referência Visual**
+  Preserve a aparência do e‑mail em um formato de imagem simples para revisão operacional.
+
+* **Ampla Compatibilidade de Imagem**
+  Gere saídas que funcionam bem em sistemas que necessitam de manipulação de imagens leves.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração em Lote de Pré-visualizações**
+  Renderize automaticamente grandes volumes de e‑mails em pré‑visualizações GIF para indexação.
+
+* **Recursos de Suporte a Notificações**
+  Anexe visualizações de e‑mail a alertas de fluxo de trabalho ou resumos internos.
+
+* **Pipelines de Visualização de Arquivo**
+  Converta mensagens armazenadas em visualizações de imagem para recuperação e inspeção rápidas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

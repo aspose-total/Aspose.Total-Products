@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers TEXT transforme les archives de boîtes aux lettres en fichiers texte simples, rendant le contenu des e‑mails léger, interrogeable et facile à traiter sur de nombreux systèmes. C’est idéal pour les flux de travail axés sur l’extraction de contenu brut, l’indexation ou le stockage simple à long terme.
+
+En utilisant les API Python, les organisations peuvent automatiser la conversion de texte à partir de fichiers MBOX afin de soutenir l’analyse, les pipelines de recherche et les processus de normalisation de contenu à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Extraction de contenu brut**
+  Convertir les e‑mails en fichiers texte pour une lecture simple et un traitement en aval.
+
+* **Préparation à la recherche et à l’indexation**
+  Préparer les données de la boîte aux lettres pour l’indexation, l’analyse syntaxique et les flux de travail d’analyse de texte.
+
+* **Archivage léger**
+  Conserver le contenu des messages dans un format minimal, facile à stocker et à transférer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Normalisation automatisée du texte**
+  Transformer les archives de boîtes aux lettres en texte brut pour un traitement de données cohérent.
+
+* **Intégration du pipeline de recherche**
+  Alimenter les fichiers texte convertis dans les systèmes d’indexation, de récupération ou de classification.
+
+* **Extraction massive de contenu**
+  Utiliser Python pour traiter de grandes collections MBOX en sorties texte structurées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

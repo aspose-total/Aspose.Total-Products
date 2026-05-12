@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から OST への変換は、文書コンテンツをオフラインメールボックスデータワークフローに関連付けられた形式に変換します。このコンテンツは、保存、移行、またはコミュニケーション関連のパッケージングのために再利用が必要になる場合があります。これは、特化したアーカイブやエンタープライズメッセージングシナリオで有用です。
+
+Python API を使用することで、ODT から OST への変換は、メールボックス形式のストレージプロセスとの統合が必要な自動文書変換をサポートできます。これにより、メッセージ指向の環境での再現性が向上し、手動での準備作業が削減されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールボックス指向のパッケージング**  
+  オフラインメッセージ保存ワークフローで使用するために文書コンテンツを変換します。
+
+* **アーカイブサポート**  
+  コミュニケーション関連の保存形式で再利用されたテキストの保存を支援します。
+
+* **移行準備**  
+  文書由来のコンテンツをメールボックスエコシステムへ移行するのを支援します。
+
+* **構造化レコード変換**  
+  文書とメッセージングアーティファクトを組み合わせたエンタープライズプロセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化コンテンツパッケージング**  
+  Python スクリプトは、定義されたワークフローで ODT ファイルをメールボックス関連の出力に変換できます。
+
+* **バッチアーカイブ処理**  
+  大規模な文書リポジトリを、コミュニケーション中心の保存タスク向けに変換できます。
+
+* **移行パイプライン統合**  
+  自動化ジョブは、変換されたコンテンツを下流のメールボックス処理のために準備できます。
+
+* **保持ワークフローサポート**  
+  文書由来の出力を長期的な記録保持のために一貫して生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

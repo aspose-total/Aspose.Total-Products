@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から ICS への変換は、Word テンプレートのコンテンツをイベントスケジューリングや時間ベースのワークフローに対応したカレンダー互換データに変換します。構造化された文書コンテンツに会議、締め切り、またはスケジュール情報が含まれ、カレンダーシステムで再利用する必要がある場合に有用です。
+
+Python API を使用することで、この変換はテンプレートからカレンダーエントリを自動生成でき、チームがスケジューリング、リマインダー、イベント配信を統合システム全体で効率化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **イベント抽出**
+  スケジュール関連の文書コンテンツをカレンダー対応ファイルに変換します。
+
+* **ミーティング配布**
+  構造化されたテンプレートを参加者向けの再利用可能なカレンダー項目に変換します。
+
+* **締め切り管理**
+  文書から重要な日付を再フォーマットし、追跡可能なスケジューリング資産にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダー生成**
+  イベント駆動型ワークフローで DOTX テンプレートから ICS ファイルを生成します。
+
+* **リマインダーとスケジューリングパイプライン**
+  変換された出力を使用して、自動化された計画およびアラートシステムにデータを供給します。
+
+* **テンプレートベースのイベント公開**
+  繰り返し使用される文書フォーマットから一貫したカレンダー ファイルを大規模に作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

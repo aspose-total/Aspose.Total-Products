@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 VCF를 OTT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to OTT 변환은 연락처 카드 데이터를 반복 가능하고 표준화된 콘텐츠 생성을 지원하는 오픈 문서 템플릿으로 변환합니다. 이는 연락처 정보를 재사용 가능한 레이아웃에 삽입하여 일관된 문서 생성을 해야 할 때 유용합니다.
+
+자동화된 워크플로에서 VCF to OTT 변환은 Python API가 템플릿 준비된 출력을 구축하도록 하여 효율성을 높이고, 서식 작업을 줄이며, 확장 가능한 문서 조립 프로세스를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**  
+  VCF 레코드를 OTT 파일로 변환하여 재사용 가능한 문서 구조를 만듭니다.
+
+* **표준화된 연락처 레이아웃**  
+  연락처 정보를 반복 가능한 템플릿 형식으로 준비합니다.
+
+* **프로세스 준비 문서**  
+  오픈 문서 호환성을 갖춘 템플릿 기반 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 자동화 파이프라인**  
+  연락처 데이터를 대량 작업으로 OTT 템플릿을 생성합니다.
+
+* **일관된 문서 조립**  
+  반복 가능한 서식이 필요한 워크플로에서 변환된 템플릿을 사용합니다.
+
+* **확장 가능한 오픈 포맷 처리**  
+  Python API를 적용하여 재사용 가능한 템플릿 자산을 효율적으로 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

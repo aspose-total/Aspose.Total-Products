@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XPS から MBOX への変換により、固定レイアウト文書をメールメッセージのコレクションを保存するために使用されるメールボックスアーカイブ形式に変換できます。これは、文書コンテンツをメールボックスベースのストレージ構造に依存するアーカイブ、移行、または長期保持ワークフローに組み込む必要がある場合に有用です。
+
+自動化駆動システムにおいて、XPS から MBOX への変換はスケーラブルなコンテンツ保存を支援し、アーカイブパッケージ化を簡素化し、文書レコードをメール中心のストレージおよびコンプライアンスプロセスと統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールボックスアーカイブ作成**  
+  XPS コンテンツを統合された保存および保持ワークフロー用の MBOX 互換構造に変換します。
+
+* **文書ベースのレコード保持**  
+  通信システムで管理しやすいメールボックスアーカイブ内に文書情報を保存するのに役立ちます。
+
+* **移行準備**  
+  プラットフォームの移行や統合のために、文書コンテンツをメールアーカイブ形式に変換することを支援します。
+
+* **大量コンテンツのパッケージ化**  
+  複数の文書由来レコードをアーカイブ準備ができたメールボックスコレクションに整理できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化アーカイブパイプライン**  
+  システムは、スケジュールされた保持またはバックアップ手順の一環として XPS ファイルを MBOX 出力に変換できます。
+
+* **バッチレコード統合**  
+  大量の文書レコードをプログラムでメールボックスアーカイブにパッケージ化し、効率的に処理できます。
+
+* **コンプライアンスストレージワークフロー**  
+  自動化プロセスは、ガバナンスレビューに適したアーカイブ形式で文書由来の通信を保存できます。
+
+* **データ移行準備**  
+  変換ルーチンは、他の環境へ転送する前に文書ソースからメールボックス互換の出力を準備できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

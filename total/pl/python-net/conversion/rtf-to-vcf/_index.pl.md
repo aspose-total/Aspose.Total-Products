@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji RTF do VCF w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja RTF do VCF przekształca dokumenty w formacie Rich Text w pliki kart kontaktowych, które mogą przechowywać imiona, numery telefonów, adresy oraz powiązane informacje kontaktowe w przenośnym formacie. Jest to przydatne, gdy dane kontaktowe są osadzone w dokumentach i muszą stać się ustrukturyzowanymi, łatwymi do udostępniania rekordami.
+
+W przepływach automatyzacji, konwersja RTF do VCF wspiera efektywne wyodrębnianie kontaktów, synchronizację i dystrybucję, przekształcając katalogi lub listy oparte na tekście w ustandaryzowane zasoby kontaktowe dla systemów i zespołów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie rekordów kontaktowych**  
+  Przekształca szczegóły kontaktowe zawarte w dokumentach w przenośne cyfrowe karty kontaktowe.
+
+* **Modernizacja katalogu**  
+  Pomaga przekształcić pisemne listy kontaktów w ustrukturyzowane rekordy gotowe do importu i udostępniania.
+
+* **Przenośna wymiana kontaktów**  
+  Wspiera przenoszenie informacji kontaktowych między systemami i urządzeniami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane potoki wyodrębniania kontaktów**  
+  Systemy mogą analizować dokumenty RTF i generować pliki VCF z zidentyfikowanymi danymi kontaktowymi.
+
+* **Masowa przygotowanie książki adresowej**  
+  Programowa konwersja wspiera masowe tworzenie rekordów kontaktowych z plików źródłowych w formie tekstowej.
+
+* **Integracja z CRM i katalogiem**  
+  Dynamiczne przepływy pracy mogą przekształcać informacje kontaktowe przechowywane w dokumentach w wielokrotnego użytku zasoby kontaktowe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

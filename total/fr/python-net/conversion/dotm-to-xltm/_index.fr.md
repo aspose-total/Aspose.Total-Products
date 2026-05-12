@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de DOTM en XLTM convertit les modèles Word activés par macro en fichiers de modèle Excel activés par macro pour des flux de travail de feuilles de calcul réutilisables et adaptés à l'automatisation. Ceci est précieux lorsque des modèles de feuilles de calcul récurrents nécessitent des capacités avancées tout en étant générés à partir de sources basées sur des documents.
+
+L'utilisation des API Python pour la conversion de DOTM en XLTM prend en charge l'automatisation évolutive en transformant des modèles de documents structurés en modèles de classeur réutilisables avec un comportement avancé des feuilles de calcul. Cela aide à standardiser les opérations et à rationaliser la génération répétée de feuilles de calcul.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles de feuilles de calcul activés par macro**
+  Convertir les fichiers DOTM en XLTM pour des modèles de classeur réutilisables avec des fonctionnalités avancées.
+
+* **Conception de classeur avancée et réutilisable**
+  Réutiliser la structure du document en modèles de feuilles de calcul adaptés aux opérations récurrentes.
+
+* **Actifs d'automatisation standardisés**
+  Créer des bases de classeur réutilisables et cohérentes à partir de modèles de documents approuvés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles avancés**
+  Les flux de travail peuvent produire des fichiers XLTM à partir de modèles DOTM pour la création répétée de feuilles de calcul.
+
+* **Pipelines d'automatisation de feuilles de calcul réutilisables**
+  La conversion prend en charge la génération évolutive de modèles de classeur avancés à partir de documents.
+
+* **Production de modèles en lot**
+  Le traitement programmatique permet une transformation efficace de nombreux fichiers DOTM en sorties XLTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

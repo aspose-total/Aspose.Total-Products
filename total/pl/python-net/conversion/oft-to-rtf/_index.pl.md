@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OFT do RTF w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OFT do RTF przy użyciu interfejsów API Pythona przekształca szablony wiadomości e‑mail Outlook w dokumenty Rich Text, które łączą wsparcie formatowania z szeroką kompatybilnością. Jest to przydatne, gdy treść musi pozostać edytowalna, zachowując jednocześnie podstawowe style w szerokim zakresie narzędzi dokumentacyjnych.
+
+Z perspektywy automatyzacji konwersja OFT do RTF wspiera elastyczne ponowne wykorzystanie treści, uproszczoną wymianę między systemami oraz efektywne przygotowanie dokumentów. Jest to praktyczny wybór dla interoperacyjnych i skoncentrowanych na tekście przepływów pracy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Edytowalna sformatowana treść**  
+  Konwertuj szablony OFT na pliki RTF, aby zachować stylizację w edytowalnym formacie dokumentu.
+
+* **Udostępnianie o szerokiej kompatybilności**  
+  Użyj wyjścia RTF w przepływach pracy, które wymagają wsparcia w wielu edytorach dokumentów.
+
+* **Ponowne wykorzystanie treści szablonu**  
+  Przeznacz ponownie wiadomości e‑mail do plików Rich Text w raportach, rejestrach lub dokumentacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane potoki dokumentów tekstowych**  
+  Automatycznie konwertuj pliki OFT na RTF w celu dalszej edycji i procesów dystrybucji.
+
+* **Wymiana treści między platformami**  
+  Przekierowuj wyjścia RTF między systemami o różnych wymaganiach dotyczących wsparcia dokumentów.
+
+* **Skalowalne zachowanie formatowania**  
+  Użyj interfejsów API Pythona, aby utrzymać strukturalne wyjście tekstu w dużych partiach konwersji szablonów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

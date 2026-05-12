@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 DOCX로 변환은 OpenDocument 스프레드시트 파일을 최신 XML 기반 워드 프로세싱 문서로 변환합니다. 이를 통해 스프레드시트 데이터가 현대적인 편집 및 협업 도구와 널리 호환되는 구조화된 문서 레이아웃으로 제공될 수 있습니다.
+
+Python API를 통해 개발자는 대규모 문서 생성 작업을 위해 ODS에서 DOCX로 변환을 자동화할 수 있습니다. 이는 구조화된 데이터의 효율적인 처리, 엔터프라이즈 시스템과의 통합, 그리고 확장 가능한 문서 워크플로우를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **구조화된 보고서 생성**  
+  스프레드시트 데이터 세트를 최신 문서 형식으로 변환하여 보고에 활용합니다.
+
+* **협업 문서화**  
+  스프레드시트 정보를 협업 편집에 적합한 문서로 변환합니다.
+
+* **데이터 프레젠테이션**  
+  스프레드시트 테이블과 분석 결과를 전문적인 문서 레이아웃으로 제시합니다.
+
+* **콘텐츠 마이그레이션**  
+  스프레드시트 아카이브를 최신 문서 형식으로 변환하여 관리가 용이하도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 문서 파이프라인**  
+  Python 시스템이 문서 생성 워크플로우 중에 스프레드시트를 DOCX로 변환합니다.
+
+* **배치 변환 시스템**  
+  자동화된 서비스가 대규모로 여러 ODS 파일을 DOCX 형식으로 변환합니다.
+
+* **데이터 기반 문서화**  
+  스프레드시트 입력이 동적으로 구조화된 문서를 채웁니다.
+
+* **엔터프라이즈 통합 워크플로우**  
+  문서 변환이 자동화된 보고 및 데이터 처리 시스템과 통합됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

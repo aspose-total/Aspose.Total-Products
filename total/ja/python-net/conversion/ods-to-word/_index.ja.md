@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS から WORD への変換により、スプレッドシートファイルを編集や文書化に適したワードプロセッシング文書に変換できます。このプロセスにより、スプレッドシートデータを文書ワークフローやレポーティングシステムに統合できます。
+
+Python ベースの API は、スプレッドシートから文書への変換を自動化するためのプログラム的機能を提供します。これにより、スケーラブルな文書パイプライン、自動レポーティング、効率的な文書管理ワークフローが実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシートから文書へのレポーティング**  
+  スプレッドシートのデータセットをレポート用のワードプロセッシング文書に変換します。
+
+* **文書生成**  
+  スプレッドシートデータを構造化された文書に変換します。
+
+* **データプレゼンテーション**  
+  スプレッドシートの内容を読みやすい文書レイアウトで提示します。
+
+* **コンテンツ移行**  
+  スプレッドシートのアーカイブを編集可能な文書形式に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポートパイプライン**  
+  Python ワークフローがスプレッドシートデータを自動的に文書に変換します。
+
+* **バッチ文書処理**  
+  システムが複数のスプレッドシートを処理し、文書出力を生成します。
+
+* **動的文書作成**  
+  スプレッドシートの入力が動的に構造化文書を埋め込みます。
+
+* **エンタープライズワークフロー統合**  
+  変換システムが文書管理インフラストラクチャと統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

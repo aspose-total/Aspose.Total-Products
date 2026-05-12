@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XLAM から DOT への変換により、Excel アドインのコンテンツを一貫した文書作成に使用される Word テンプレートファイルへ変換できます。これは、スプレッドシート由来の構造や再利用可能なコンテンツを標準化された Word ベースの文書テンプレートの一部にする必要がある場合に役立ちます。
+
+自動化の観点から、XLAM から DOT への変換は、繰り返し使用できるスプレッドシートのコンテンツを再利用可能な文書基盤に変換することで、テンプレート駆動型システムを支援します。効率が向上し、書式の不一致が減少し、組織が事前定義された構造で文書生成をスケールさせるのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **テンプレート作成**  
+  XLAM コンテンツを繰り返し可能な文書生成のための DOT テンプレートに変換します。
+
+* **標準化されたドキュメント**  
+  組織がスプレッドシートベースのリソースから派生した一貫した文書レイアウトを維持できるよう支援します。
+
+* **再利用可能なビジネスコンテンツ**  
+  運用で使用するために、繰り返し使用されるコンテンツブロックを Word テンプレートにパッケージ化することをサポートします。
+
+* **構造化されたレポート基盤**  
+  繰り返し必要とされるレポート形式を持つチーム向けに文書テンプレートの作成を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  Python API は、標準化されたレポートのために XLAM ソースから DOT テンプレートを自動的に作成できます。
+
+* **繰り返し文書作成**  
+  自動化システムは、生成されたテンプレートを使用して部門横断的に繰り返し文書作成を支援できます。
+
+* **コンテンツ正規化ワークフロー**  
+  変換パイプラインは、スプレッドシート駆動のコンテンツを一貫した Word テンプレート構造に合わせることができます。
+
+* **エンタープライズ文書標準化**  
+  プログラム的な変換は、大規模チームがスケールで文書の一貫性を強制するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

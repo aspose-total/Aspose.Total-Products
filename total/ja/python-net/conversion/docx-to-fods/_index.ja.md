@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から FODS への変換は、ワードプロセッシング文書をフラット OpenDocument スプレッドシート形式に変換し、構造化された文書データをオープンなスプレッドシート形式で表現できるようにします。この形式はデータ交換やオープンドキュメントワークフローに適しています。
+
+Python API を使用することで、文書処理、相互運用性、データ交換のためにオープン標準が必要なシステムで DOCX から FODS への変換を自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **オープン スプレッドシート データ エクスポート**  
+  DOCX 文書データをオープンなスプレッドシート形式に変換します。
+
+* **相互運用可能な文書処理**  
+  オープンドキュメントエコシステムとの互換性を促進します。
+
+* **構造化データ変換**  
+  文書ベースの情報をスプレッドシートファイルに抽出できるようにします。
+
+* **オープン形式へのデータ移行**  
+  プロプライエタリな文書形式からオープン標準への移行をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープン データ処理パイプライン**  
+  DOCX 文書は自動的に FODS スプレッドシートに変換できます。
+
+* **バッチ オープン形式変換**  
+  Python スクリプトで文書コレクションをオープンなスプレッドシートファイルに変換できます。
+
+* **相互運用可能なエンタープライズワークフロー**  
+  自動化システムは構造化された文書データをオープンなスプレッドシート形式にエクスポートできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

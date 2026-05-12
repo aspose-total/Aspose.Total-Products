@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 MD로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to MD 변환은 메일함 아카이브를 Markdown 파일로 변환하여 이메일 내용을 가볍고 텍스트 기반 문서 시스템에서 더 쉽게 읽고, 버전 관리하고, 재사용할 수 있게 합니다. 이 형식은 콘텐츠 이동성, 개발자 워크플로, 지식 관리 환경에 최적화되어 있습니다.
+
+Python API를 사용하면 MBOX to Markdown 변환을 자동화하여 확장 가능한 콘텐츠 추출, 정적 퍼블리싱 및 최신 문서 파이프라인과의 효율적인 통합을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **경량 텍스트 문서화**
+  이메일을 Markdown으로 변환하여 깔끔하고 읽기 쉬우며 휴대 가능한 문서를 만들 수 있습니다.
+
+* **지식 베이스 통합**
+  메일함 콘텐츠를 위키, 저장소 또는 정적 콘텐츠 워크플로에 재사용합니다.
+
+* **버전 친화적 아카이빙**
+  변환된 이메일 내용을 추적 및 업데이트에 적합한 형식으로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정적 콘텐츠 생성**
+  메일함 데이터를 자동으로 Markdown으로 변환하여 게시하거나 색인화합니다.
+
+* **저장소 기반 워크플로**
+  Python을 사용해 이메일 아카이브를 텍스트 우선 콘텐츠 관리 시스템으로 이동합니다.
+
+* **확장 가능한 문서 파이프라인**
+  MBOX 파일을 일괄 변환하여 재사용 가능한 구조화된 Markdown 자산으로 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

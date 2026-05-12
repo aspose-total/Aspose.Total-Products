@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers ODP transforme le contenu des documents en fichiers OpenDocument Presentation pour une révision axée sur la présentation, la distribution et la collaboration en format ouvert. Cela est utile lorsque le contenu narratif ou structuré des documents doit être réutilisé dans une communication basée sur des diapositives.
+
+Les API Python rendent la conversion WordML vers ODP efficace en réorganisant programmatiquement le contenu dans des structures de présentation et en permettant une automatisation évolutive du document vers les diapositives.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Réutilisation de présentation**  
+  Convertit le contenu du document en fichiers de présentation ouverts pour une diffusion visuelle.
+
+* **Collaboration au format ouvert**  
+  Prend en charge les flux de travail de présentation construits sur des normes de documents interopérables.
+
+* **Réutilisation de contenu structuré**  
+  Déplace le matériel textuel et basé sur des plans de WordML vers un format de diapositive.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de jeu de diapositives**  
+  Automatise la création de présentations ODP à partir de rapports, de briefs ou de plans.
+
+* **Pipelines de publication de contenu**  
+  Intègre la conversion document‑vers‑présentation dans les flux de travail de distribution.
+
+* **Automatisation de présentation basée sur les normes**  
+  Permet la génération évolutive de diapositives au format ouvert à partir de sources structurées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

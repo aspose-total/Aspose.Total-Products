@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 CSV로 변환하면 구조화된 Word 템플릿 콘텐츠를 쉼표로 구분된 값으로 변환하여 데이터 교환, 보고 및 시스템 상호 운용성을 보다 쉽게 ​​할 수 있습니다. 문서 기반 정보가 표 형식 워크플로에서 재사용되거나 분석 및 비즈니스 시스템으로 가져와야 할 때 유용합니다.
+
+이 변환은 재사용 가능한 템플릿 콘텐츠를 파이프라인에서 처리하고 데이터베이스와 동기화하며 Python API를 사용하여 문서가 많은 작업을 확장할 수 있는 기계 판독 가능한 데이터 세트로 전환함으로써 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 데이터 추출**
+  템플릿 기반 문서 콘텐츠를 하위 처리용 행과 열로 변환합니다.
+
+* **보고 워크플로**
+  대시보드, 감사 및 스프레드시트 기반 분석을 위해 문서 데이터를 준비합니다.
+
+* **시스템 상호 운용성**
+  문서 콘텐츠를 데이터 플랫폼 및 비즈니스 애플리케이션으로 보다 쉽게 ​​가져올 수 있도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 문서 처리**
+  대규모 데이터 처리를 위해 여러 DOTX 파일을 자동으로 CSV로 변환합니다.
+
+* **템플릿-데이터베이스 파이프라인**
+  CSV 출력을 중간 형식으로 사용하여 데이터베이스에 자동으로 수집합니다.
+
+* **운영 데이터 정규화**
+  반복되는 문서 출력을 일정 자동화에 적합한 형식으로 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

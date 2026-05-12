@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から XLS への変換は、プレゼンテーションのコンテンツを表形式の整理と分析に使用されるレガシーなスプレッドシート形式に変換します。古いスプレッドシートシステムや互換性要件により、データの再利用、レポート作成、または移行のために従来のワークシート出力が必要な場合に有用です。
+
+Python API を使用すれば、PPTX から XLS への変換を自動化でき、レガシー統合や大量データ抽出ワークフローをサポートします。これにより、組織はプレゼンテーションの表や構造化コンテンツをスプレッドシート対応データに変換し、既存システムとの互換性を保ちながら活用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レガシー スプレッドシート互換性**
+  プレゼンテーションデータを、古いスプレッドシート環境でサポートされている形式にエクスポートします。
+
+* **表形式データの再利用**
+  スライドの表や構造化されたコンテンツを、ワークシートベースのワークフロー向けに再利用します。
+
+* **レガシーシステム統合**
+  プレゼンテーションから取得したデータを、レガシーなレポートやストレージツールへ転送できるようにします。
+
+* **運用レポート支援**
+  抽出された情報をスプレッドシートベースのレビューと配布のために整理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **レガシーワークフロー自動化**
+  確立されたビジネスシステム向けに、PPTX ファイルを自動的に XLS に変換します。
+
+* **バッチデータ移行**
+  複数のプレゼンテーションを処理し、アーカイブまたは転送用のスプレッドシート出力に変換します。
+
+* **互換性重視のレポート**
+  古いスプレッドシートインフラで運用するチーム向けに XLS ファイルを生成します。
+
+* **プログラムによるデータ抽出**
+  Python API を使用して、スライドコンテンツをワークシート互換のデータセットに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

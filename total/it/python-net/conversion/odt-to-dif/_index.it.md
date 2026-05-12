@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a DIF trasforma il contenuto OpenDocument Text in un formato di interscambio dati progettato per lo scambio di dati in stile foglio di calcolo. Questo è utile quando le informazioni incorporate nei documenti di testo devono essere trasferite a sistemi che si basano su rappresentazioni numeriche o tabulari strutturate.
+
+Da un punto di vista dell'automazione, la conversione da ODT a DIF aiuta a colmare il divario tra contenuti basati su documenti e ambienti di elaborazione dati legacy o specializzati. Le API Python rendono possibile automatizzare l'estrazione, la formattazione e la consegna su larga scala con un minimo sforzo manuale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Trasferimento dati foglio di calcolo**  
+  Sposta le tabelle dei documenti in un formato di interscambio adatto ai flussi di lavoro con dati strutturati.
+
+* **Compatibilità con sistemi legacy**  
+  Supporta ambienti che si affidano ancora al formato DIF per lo scambio di dati.
+
+* **Migrazione di contenuti strutturati**  
+  Converte i record basati su documenti in risorse dati riutilizzabili.
+
+* **Gestione dati interoperabile**  
+  Migliora il trasferimento di informazioni tabulari tra piattaforme eterogenee.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione automatica di tabelle**  
+  Gli script Python possono rilevare ed esportare le sezioni tabulari dei file ODT nel formato DIF.
+
+* **Alimentazione di pipeline legacy**  
+  I flussi di lavoro automatizzati possono preparare i dati per sistemi di fogli di calcolo o di analisi più vecchi.
+
+* **Normalizzazione batch di documenti**  
+  Molteplici file ODT possono essere elaborati in output DIF coerenti in lavori batch.
+
+* **Pianificazione dello scambio di dati**  
+  Conversioni ricorrenti possono supportare il trasferimento regolare di contenuti documentali strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

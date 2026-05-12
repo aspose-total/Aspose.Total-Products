@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から Excel への変換は、プレゼンテーションのコンテンツを、分析、整理、処理が容易なスプレッドシート互換の構造に変換します。スライドの表、数値コンテンツ、または抽出されたテキストを運用トラッキング、分析、あるいは構造化されたビジネスワークフローに再利用する必要がある場合に特に有用です。
+
+Python API を使用して PPTX から Excel への変換を自動化すると、データへのアクセス性が向上し、スプレッドシート駆動のシステムとのシームレスな統合が可能になります。視覚的なプレゼンテーション資産を、レポート作成、監査、意思決定支援のための実用的な表形式データに変換するスケーラブルなワークフローを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **表の抽出**  
+  スライド上の表をスプレッドシート形式に移行し、操作やレビューを容易にします。
+
+* **ビジネスデータの再利用**  
+  プレゼンテーションのコンテンツを構造化されたワークシートに変換し、業務で活用します。
+
+* **分析用の準備**  
+  抽出した情報を数式、ソート、スプレッドシート分析用に整えます。
+
+* **システム間データ転送**  
+  スプレッドシートを中間フォーマットとして使用し、他ツールへのデータインポートを行います。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スプレッドシート生成**  
+  プレゼンテーションデータを Excel 互換ファイルに変換し、定期的なワークフローの一部とします。
+
+* **データパイプライン統合**  
+  抽出したスライドコンテンツをスプレッドシートベースの処理システムへ自動的にプッシュします。
+
+* **バッチプレゼンテーション分析**  
+  複数の PPTX ファイルをプログラムで変換し、大規模なレビューやレポート作成を実施します。
+
+* **構造化レポートワークフロー**  
+  自動変換を活用してダッシュボード、照合、監査準備を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

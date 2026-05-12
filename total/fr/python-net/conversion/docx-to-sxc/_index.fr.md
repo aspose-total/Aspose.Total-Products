@@ -65,7 +65,44 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers SXC transforme les documents de traitement de texte en fichiers de feuille de calcul compatibles avec les environnements de feuilles de calcul OpenOffice plus anciens. Ce processus aide à convertir le contenu structuré ou tabulaire des documents en un format réutilisable axé sur les données.
+
+Avec les API Python, la conversion DOCX‑vers‑SXC peut être intégrée aux flux de travail de support des systèmes hérités, aux pipelines de migration de documents et aux systèmes de génération de rapports automatisés. Elle prend en charge l’interopérabilité lorsque les normes de feuilles de calcul plus anciennes restent importantes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Export de feuilles de calcul héritées**  
+  Convertit le contenu DOCX en fichiers de feuille de calcul pour les environnements de bureau plus anciens.
+
+* **Migration de données structurées**  
+  Aide à transférer les tableaux basés sur des documents et les informations organisées vers des formats centrés sur les données.
+
+* **Compatibilité avec les systèmes plus anciens**  
+  Prend en charge les flux de travail qui reposent sur les normes de feuilles de calcul héritées.
+
+* **Réutilisation document‑vers‑feuille de calcul**  
+  Permet de transformer le texte structuré pour une utilisation analytique ou d'archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Conversion automatisée de formats hérités**  
+  Les systèmes peuvent convertir les fichiers DOCX en feuilles de calcul SJC pour les flux de travail de compatibilité.
+
+* **Pipelines d’exportation de feuilles de calcul en lot**  
+  Les scripts Python peuvent transformer de grandes collections de documents en sorties de feuilles de calcul héritées.
+
+* **Automatisation de la migration et de l’interopérabilité**  
+  Les données de documents peuvent être converties programmatiquement au format SXC pour les plateformes plus anciennes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

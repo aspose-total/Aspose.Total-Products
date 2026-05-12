@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST en MD dans les API Python convertit le contenu de la boîte aux lettres en Markdown, facilitant la structuration, la publication et la réutilisation des communications archivées dans des flux de travail axés sur le texte. Elle est utile lorsque les enregistrements d'e‑mails doivent être transformés en un contenu léger et lisible pour la documentation ou le partage de connaissances.
+
+Dans les scénarios d'automatisation, la conversion PST en MD prend en charge les pipelines de contenu, les dépôts conviviaux pour les développeurs et les systèmes de publication statiques. Elle facilite le versionnage, la transformation et l'intégration des données de la boîte aux lettres avec les opérations de contenu modernes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de contenu léger**
+  Convertit le contenu PST en Markdown pour des flux de travail textuels lisibles et portables.
+
+* **Préparation de base de connaissances**
+  Aide à réutiliser le matériel dérivé des e‑mails en documentation structurée.
+
+* **Archivage compatible avec le versionnage**
+  Prend en charge le stockage du contenu de la boîte aux lettres dans des formats texte adaptés au suivi des modifications.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de contenu statiques**
+  Les systèmes automatisés peuvent transformer les données de la boîte aux lettres en Markdown pour la publication ou l'indexation.
+
+* **Documentation basée sur les dépôts**
+  Le contenu converti peut s'intégrer aux environnements centrés sur le texte pour la collaboration et la réutilisation.
+
+* **Transformation de contenu programmatique**
+  La sortie Markdown facilite le traitement, le templating et la distribution des e‑mails archivés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

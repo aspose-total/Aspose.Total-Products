@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da PST a MD nelle API Python converte il contenuto della casella di posta in Markdown, rendendo più semplice strutturare, pubblicare e riutilizzare le comunicazioni archiviate nei flussi di lavoro incentrati sul testo. È utile quando i record di email devono essere trasformati in contenuti leggeri e leggibili per la documentazione o la condivisione della conoscenza.
+
+Negli scenari di automazione, la conversione da PST a MD supporta pipeline di contenuti, repository orientati agli sviluppatori e sistemi di pubblicazione statici. Aiuta i dati della casella di posta a essere più facili da versionare, trasformare e integrare con le moderne operazioni di contenuto.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di contenuti leggeri**
+  Converte il contenuto PST in Markdown per flussi di lavoro testuali leggibili e portabili.
+
+* **Preparazione della base di conoscenza**
+  Aiuta a riutilizzare il materiale derivato dalle email in documentazione strutturata.
+
+* **Archiviazione amica delle versioni**
+  Supporta l'archiviazione del contenuto della casella di posta in formati testuali adatti al tracciamento delle modifiche.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di contenuti statici**
+  I sistemi automatizzati possono trasformare i dati della casella di posta in Markdown per la pubblicazione o l'indicizzazione.
+
+* **Documentazione basata su repository**
+  Il contenuto convertito può fluire in ambienti incentrati sul testo per la collaborazione e il riutilizzo.
+
+* **Trasformazione programmatica dei contenuti**
+  L'output in Markdown rende più semplice elaborare, modellare e distribuire le email archiviate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

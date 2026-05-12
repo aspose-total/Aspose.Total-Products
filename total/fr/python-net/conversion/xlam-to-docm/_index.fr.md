@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de XLAM en DOCM à l'aide des API Python permet de convertir le contenu d'un module complémentaire Excel en documents Word activés par des macros, qui prennent en charge un comportement avancé du document et des actions scriptées. Cela est utile lorsque les organisations doivent préserver le potentiel d'automatisation tout en transférant le contenu d'outils basés sur des feuilles de calcul vers des environnements opérationnels centrés sur Word.
+
+Pour les systèmes axés sur l'automatisation, la conversion de XLAM en DOCM améliore la continuité des flux de travail en permettant aux documents générés de participer aux processus en aval de révision, de mise en forme ou d'approbation pilotés par des macros. Elle prend en charge une automatisation documentaire évolutive où la création de contenu et les actions sur le document fonctionnent ensemble.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rapports activés par macro**  
+  Convertit le contenu XLAM en fichiers DOCM pour les processus de reporting qui dépendent des macros de document ou d'actions scriptées.
+
+* **Documents prêts pour le flux de travail**  
+  Prépare des documents Word pouvant prendre en charge la mise en forme automatisée, la validation ou une interaction utilisateur guidée.
+
+* **Documentation de processus avec logique**  
+  Permet une documentation structurée qui peut conserver la compatibilité avec les flux de travail d'entreprise pilotés par des macros.
+
+* **Transferts opérationnels**  
+  Aide à transférer le contenu basé sur des feuilles de calcul vers des systèmes de documents qui s'appuient sur des actions automatisées après conversion.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de traitement de documents**  
+  Les API Python peuvent convertir automatiquement les fichiers XLAM en sorties DOCM pour des flux de travail internes assistés par des macros.
+
+* **Automatisation de l'approbation et de la révision**  
+  Les fichiers DOCM générés peuvent entrer dans des cycles de révision automatisés où les macros aident à la mise en forme ou aux étapes de validation.
+
+* **Génération de formulaires d'entreprise**  
+  Les flux de conversion peuvent produire des formulaires ou des rapports activés par des macros à partir de la logique métier basée sur des feuilles de calcul.
+
+* **Publication récurrente de contenu**  
+  Les conversions planifiées prennent en charge la création dynamique de documents DOCM pour les rapports périodiques et les mises à jour opérationnelles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

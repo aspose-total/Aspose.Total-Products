@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de EMLX para OTT em Python converte o conteúdo de e‑mail em modelos de documento aberto que podem ser reutilizados para geração consistente de documentos. Isso é valioso quando informações baseadas em mensagens precisam ser transformadas em ativos de modelo padronizados, em vez de arquivos independentes.
+
+Para casos de uso de automação, a conversão de EMLX para OTT suporta fluxos de trabalho baseados em modelos, reutilização eficiente de conteúdo e padronização escalável de saída. Ela ajuda as equipes a construir sistemas de documentos repetíveis a partir de dados de comunicação anteriormente não estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Modelo Aberto**  
+  Converta arquivos EMLX em modelos OTT para geração repetível de documentos.
+
+* **Estruturas de Documento Reutilizáveis**  
+  Construa layouts de modelo a partir de conteúdo e formatação baseados em mensagens.
+
+* **Modelos de Saída Padronizados**  
+  Use modelos convertidos para garantir consistência nos documentos gerados.
+
+* **Preparação de Fluxo de Trabalho Aberto**  
+  Suporte processos baseados em modelos em ambientes que utilizam padrões de documentos abertos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Geração de Modelos**  
+  Crie modelos OTT a partir de arquivos EMLX como parte de fluxos de trabalho Python escaláveis.
+
+* **Produção Consistente de Documentos**  
+  Alimente as saídas OTT em sistemas que geram documentos a partir de modelos reutilizáveis.
+
+* **Integração de Fluxo de Trabalho com Padrões Abertos**  
+  Use modelos convertidos em ambientes automatizados que priorizam a compatibilidade.
+
+* **Pipelines de Estruturação de Conteúdo**  
+  Transforme dados de e‑mail em ativos de modelo reutilizáveis por meio de processamento scriptado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a ODT in Python consente di trasformare i file modello Excel in file di testo Open Document che supportano flussi di lavoro documentali modificabili e basati su standard. Questo è utile per le organizzazioni che cercano interoperabilità documentale flessibile e una maggiore compatibilità in ambienti che preferiscono formati aperti.
+
+Dal punto di vista dell'automazione, la conversione da XLT a ODT migliora lo scambio di documenti e riduce la dipendenza da flussi di lavoro proprietari. Supporta pipeline di elaborazione scalabili in cui i contenuti guidati da fogli di calcolo vengono trasformati in documenti di testo modificabili e portabili per la collaborazione, l'archiviazione o l'automazione a valle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti in formato aperto**  
+  Converti i modelli XLT in file ODT per una documentazione modificabile e conforme agli standard.
+
+* **Condivisione interoperabile dei contenuti**  
+  Consenti un accesso più ampio ai documenti convertiti in ambienti di elaborazione documentale diversi.
+
+* **Riuso dei contenuti del modello**  
+  Trasferisci le informazioni strutturate dei fogli di calcolo in un formato documento adatto ai flussi di lavoro basati su testo.
+
+* **Miglioramento della flessibilità dei processi**  
+  Supporta i team che richiedono output di documenti aperti e portabili da fonti di modello legacy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione di documenti aperti**  
+  Usa le API Python per generare file ODT da modelli XLT in workflow di conversione ripetibili.
+
+* **Pipeline di contenuti cross‑platform**  
+  Integra gli output ODT in sistemi che privilegiano standard aperti e scambi documentali flessibili.
+
+* **Conversione massiva di legacy**  
+  Trasforma i vecchi modelli di fogli di calcolo in documenti di testo aperti su larga scala tramite automazione.
+
+* **Instradamento automatico dei contenuti**  
+  Invia i file ODT convertiti a pipeline di approvazione, archiviazione o pubblicazione senza intervento manuale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

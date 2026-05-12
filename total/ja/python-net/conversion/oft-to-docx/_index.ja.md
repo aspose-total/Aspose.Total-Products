@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から DOCX への変換は、Outlook のメールテンプレートを、プラットフォーム間で広くサポートされている最新の編集可能なワードプロセッシング文書に変換します。これにより、メールコンテンツを構造化されたドキュメント、コラボレーション、出版ワークフローで再利用しやすくなります。
+
+自動化の観点から見ると、OFT から DOCX への変換はコンテンツのポータビリティを向上させ、スケーラブルな文書生成パイプラインをサポートします。これにより、最新のシステムはメッセージングコンテンツと文書中心のプロセスを統合し、より迅速な処理と高い相互運用性を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新の文書編集**  
+  OFT ファイルを DOCX 文書に変換し、現在のオフィスワークフローで簡単に改訂や書式設定ができるようにします。
+
+* **システム間コンテンツ再利用**  
+  メールテンプレートをレポート、提案書、内部記録用の編集可能な文書として再利用します。
+
+* **標準化されたアーカイブ出力**  
+  メールテンプレートのコンテンツを広く互換性のある文書形式で保存し、長期的にアクセスできるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大規模テンプレート変換**  
+  OFT ライブラリを自動的に DOCX ファイルに変換し、エンタープライズ文書リポジトリに格納します。
+
+* **ワークフロー主導のコンテンツ公開**  
+  変換された DOCX 出力を承認、編集、または公開システムへ手動介入なしで送信します。
+
+* **動的文書組み立て**  
+  Python API を使用して、OFT 由来の DOCX ファイルをより大規模な自動文書生成プロセスに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

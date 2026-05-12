@@ -53,7 +53,41 @@ WORDML から MHTML (Web アーカイブ形式) への変換機能または Html
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から MHTML への変換は、文書コンテンツをマークアップと関連リソースを単一ファイルに統合したウェブアーカイブ形式に変換します。これは、ブラウザフレンドリーで自己完結型の表現で文書コンテンツを保存するのに役立ちます。
+
+Python API を使用することで、WordML から MHTML への変換を自動化し、ウェブアーカイブ、プレビュー生成、文書およびブラウザベースのシステム間でのコンテンツポータビリティをサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **Web アーカイブ エクスポート**
+  WordML 文書を自己完結型のウェブフレンドリーな MHTML ファイルに変換します。
+
+* **ポータブル コンテンツ 保存**
+  レンダリングされたコンテンツと関連要素を単一のアーカイブ形式で一緒に保持します。
+
+* **ブラウザ指向のアクセス**
+  ウェブ互換環境で文書情報のレビューを容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたウェブパッケージング**
+  文書バッチをアーカイブまたはレビューのワークフロー用に MHTML に変換します。
+
+* **プレビュー配信パイプライン**
+  元の編集ツールに依存せず、ブラウザベースの文書アクセスをサポートします。
+
+* **コンテンツ ポータビリティ ジョブ**
+  システム間でレンダリングされた文書コンテンツの一貫した共有を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

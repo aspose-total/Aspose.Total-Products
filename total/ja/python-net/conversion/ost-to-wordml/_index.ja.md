@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST から WordML への変換は、メールボックスのコンテンツを XML ベースのワードプロセッシングマークアップに変換し、メール由来の文書を構造化かつ機械可読な形で表現できるようにします。これは、透明な文書構造とマークアップレベルの相互運用性を必要とするシステムに有用です。
+
+Python API を使用すると、OST から WordML への変換を自動化でき、変換、検証、XML 中心のシステムとの統合などの高度な処理シナリオに対応できます。これにより、構造化文書ワークフローにおける柔軟性と制御性が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **構造化文書マークアップ**  
+  メールボックスデータを WordML に変換し、XML ベースの文書表現を実現します。
+
+* **機械可読コンテンツの取り扱い**  
+  検査可能で変換可能な文書マークアップを必要とするワークフローをサポートします。
+
+* **相互運用可能な処理**  
+  メール由来のコンテンツを構造化コンテンツシステムやツールと統合するのに役立ちます。
+
+* **高度な文書変換**  
+  マークアップ駆動環境で変換されたコンテンツに対する詳細な制御を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML ワークフロー自動化**  
+  Python スクリプトが OST アーカイブを WordML に変換し、構造化処理パイプラインを実現します。
+
+* **コンテンツ変換プロセス**  
+  自動化システムがメールボックス由来のマークアップを操作し、統合と再利用を可能にします。
+
+* **検証と交換パイプライン**  
+  プログラムによる変換は、大規模な構造化文書の交換をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

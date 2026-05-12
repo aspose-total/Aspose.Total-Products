@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a XLSM trasforma il contenuto strutturato dei documenti in file di foglio di calcolo con macro abilitati che combinano i dati della cartella di lavoro con capacità di automazione. È utile quando i dati convertiti devono supportare logica basata su fogli di calcolo, scripting o attività ripetibili.
+
+Utilizzando le API Python, la conversione da WordML a XLSM consente ai dati del documento di fluire in flussi di lavoro avanzati di fogli di calcolo con automazione scalabile e logica di elaborazione riutilizzabile.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di cartelle di lavoro con macro**
+  Converte le tabelle WordML in file XLSM per flussi di lavoro di fogli di calcolo orientati all'automazione.
+
+* **Elaborazione avanzata dei dati**
+  Supporta output di fogli di calcolo che si basano su azioni o logica incorporate.
+
+* **Abilitazione di attività operative**
+  Aiuta a trasferire i dati del documento in cartelle di lavoro progettate per elaborazioni ripetibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di cartelle di lavoro con macro**
+  Crea file XLSM da sorgenti WordML in flussi di lavoro aziendali ricorrenti.
+
+* **Integrazione della logica dei fogli di calcolo**
+  Collega i dati del documento estratti con ambienti di elaborazione guidati da macro.
+
+* **Confezionamento dei dati pronto per il processo**
+  Consente la preparazione scalabile di risorse di cartelle di lavoro per operazioni automatizzate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

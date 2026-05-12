@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to Excel 변환은 문서 내용을 구조화된 검토, 분석 및 협업에 적합한 스프레드시트 형식으로 변환합니다. 텍스트 문서에 표, 목록 또는 레코드가 포함되어 그리드 기반 환경에서 처리해야 할 때 유용합니다.
+
+자동화를 위해 ODT to Excel 변환은 문서에서 사용 가능한 비즈니스 데이터를 확장 가능하게 추출할 수 있게 합니다. Python API는 배치 변환, 검증 및 출력물을 보고서 또는 운영 워크플로우로 라우팅하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **표 보존**  
+  문서의 구조화된 데이터를 스프레드시트 레이아웃으로 이동합니다.
+
+* **비즈니스 분석 지원**  
+  문서 기반 정보를 정렬, 필터링 및 검토하기 쉽게 만듭니다.
+
+* **운영 데이터 전송**  
+  계획, 감사 또는 보고에 사용할 레코드를 변환합니다.
+
+* **협업 편집**  
+  팀이 익숙한 스프레드시트 형식으로 추출된 콘텐츠를 작업할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **파이프라인 기반 데이터 추출**  
+  Python 작업은 ODT 파일에서 표를 추출하여 Excel 호환 출력으로 저장할 수 있습니다.
+
+* **배치 보고서 준비**  
+  여러 문서를 반복적인 분석 주기에 맞게 변환할 수 있습니다.
+
+* **검증 및 구조화**  
+  자동화된 규칙은 내보내기 전에 추출된 데이터를 정리하고 구성할 수 있습니다.
+
+* **시스템 간 전달**  
+  변환된 스프레드시트는 저장, 보고 또는 검토 시스템으로 라우팅될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

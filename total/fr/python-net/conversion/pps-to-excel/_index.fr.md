@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}>
+
+La conversion PPS vers Excel en Python permet de transformer le contenu des présentations en format de feuille de calcul pour l'analyse, l'organisation et le reporting opérationnel. Ceci est précieux lorsque les données de diapositives, les tableaux ou le texte structuré doivent être transférés vers un format plus adapté aux calculs et à l'examen tabulaire.
+
+Pour l'automatisation et l'évolutivité, la conversion PPS vers Excel prend en charge l'extraction de données, les pipelines de reporting et l'intégration avec les processus métier basés sur les feuilles de calcul. Elle aide à convertir les supports de présentation en formats plus faciles à traiter, valider et partager entre les équipes opérationnelles.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Récupération de données tabulaires**
+  Extraire les informations structurées des présentations vers des mises en page de feuilles de calcul.
+
+* **Support de reporting d'entreprise**
+  Préparer les données dérivées des présentations pour la révision, le suivi et l'analyse.
+
+* **Réutilisation des données opérationnelles**
+  Déplacer le contenu des diapositives vers des feuilles de calcul pour les flux de travail métier en aval.
+
+* **Transformation d'archives**
+  Convertir les collections de présentations anciennes en actifs de feuilles de calcul accessibles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de conversion de feuilles de calcul**
+  Automatiser la génération de sorties compatibles Excel à partir de fichiers PPS.
+
+* **Intégration du traitement des données**
+  Alimenter le contenu de feuilles de calcul converties dans les flux de travail de validation, de calcul ou d'exportation.
+
+* **Automatisation du reporting par lots**
+  Traiter plusieurs fichiers de diapositives en feuilles de calcul pour le reporting métier récurrent.
+
+* **Extraction de contenu structuré**
+  Utiliser les API Python pour capturer les données basées sur les diapositives pour les systèmes tabulaires et l'analyse.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

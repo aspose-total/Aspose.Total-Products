@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で RTF に変換すると、構造化された表形式データをリッチテキスト文書に変換でき、書式を保持しながら幅広いプラットフォームでの互換性を保ちます。  
+この変換は、元データセットを読みやすい書式付き出力に変換することで、迅速に生成でき、簡単に共有でき、文書ワークフローに統合できるため、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **フォーマットされたテキスト出力**  
+  CSV データを RTF ドキュメントに変換し、読みやすいレポート、サマリー、構造化テキストの配信を実現します。
+
+* **クロスプラットフォーム文書交換**  
+  ワークフローでフォーマットされたコンテンツが必要で、さまざまな環境でもアクセス可能な場合に RTF ファイルを生成します。
+
+* **データ駆動型テキスト出版**  
+  CSV レコードをフォーマットされたテキストドキュメントに変換し、レビューや配布が容易になります。
+
+* **標準化されたレポート作成**  
+  定期的なデータセットから一貫した RTF 出力を生成し、文書化やコミュニケーション業務に活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動リッチテキスト生成**  
+  Python API を使用して CSV 入力を RTF ファイルに変換し、繰り返し可能なレポート作成や出版ワークフローに活用します。
+
+* **システムレベルの文書変換**  
+  CSV から RTF への変換をデータパイプラインに統合し、フォーマットされたドキュメントを自動的に生成します。
+
+* **大量リッチテキストエクスポート**  
+  複数の CSV ファイルを大規模に処理し、フォーマットの一貫性を保ったまま RTF 出力を生成します。
+
+* **動的テキスト組み立て**  
+  変化する CSV フィールドからプログラム的に RTF ドキュメントを構築し、柔軟な自動コンテンツ作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

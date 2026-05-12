@@ -64,7 +64,41 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja POTX do XLSM przy użyciu interfejsów API Pythona przekształca zawartość szablonu PowerPoint w pliki arkuszy kalkulacyjnych z włączonymi makrami, przeznaczone do zaawansowanych przepływów przetwarzania danych. Jest to przydatne, gdy wyjściowe arkusze kalkulacyjne muszą obsługiwać wbudowaną automatyzację, formuły lub niestandardowe zachowanie skoroszytu.
+
+W środowiskach zautomatyzowanych konwersja POTX do XLSM pomaga połączyć szablony prezentacji z inteligentnymi procesami arkuszy kalkulacyjnych. Wspiera skalowalne generowanie wyników skoroszytów, które łączą ustrukturyzowane dane z zaawansowaną funkcjonalnością.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie arkuszy kalkulacyjnych z włączonymi makrami**
+  Generuje wyjściowe arkusze kalkulacyjne, które mogą obsługiwać zautomatyzowaną logikę i akcje skoroszytu.
+
+* **Wsparcie zaawansowanych przepływów danych**
+  Pomaga rozszerzyć zawartość pochodzącą z prezentacji do programowalnych środowisk arkuszy kalkulacyjnych.
+
+* **Wielokrotnego użytku pliki operacyjne**
+  Wspiera powtarzające się procesy biznesowe, które opierają się na inteligentnym zachowaniu skoroszytu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Programowe generowanie skoroszytów**
+  Automatyzuje tworzenie plików XLSM z szablonów POTX dla zaawansowanych zadań arkuszy kalkulacyjnych.
+
+* **Zintegrowane potoki automatyzacji**
+  Łączy przepływy konwersji z krokami przetwarzania arkuszy kalkulacyjnych z włączonymi makrami.
+
+* **Powtarzalne operacje biznesowe**
+  Wspiera powtarzalne generowanie funkcjonalnych arkuszy kalkulacyjnych ze źródeł opartych na prezentacjach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

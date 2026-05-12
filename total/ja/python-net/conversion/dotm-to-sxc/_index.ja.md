@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to SXC 変換は、マクロ対応の Word テンプレートを、古い OpenOffice スタイルの環境と互換性のあるスプレッドシート ファイルに変換します。文書の内容を構造化されたスプレッドシート出力に変換し、レガシーなオフィス ワークフローとの互換性を維持する必要がある場合に便利です。
+
+DOTM to SXC 変換のための Python API を使用すると、再利用可能な文書テンプレートをレガシー互換システム向けのスプレッドシート資産に変換することで自動化が向上します。これにより、効率的なデータ抽出、より広範な相互運用性、そしてスケーラブルなフォーマット変換がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **レガシー オープン スプレッドシート 互換性**
+  古いスプレッドシート形式に依存し続けるワークフロー向けに、DOTM コンテンツを SXC に変換します。
+
+* **テンプレート データ 再利用**
+  構造化された文書コンテンツをスプレッドシート形式に抽出し、レビューや処理に利用します。
+
+* **移行サポート**
+  レガシーオフィス環境への、またはその中を通じたコンテンツ移行時に SXC 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたレガシー スプレッドシート エクスポート**
+  システムは、互換性重視のワークフローの一環として、DOTM テンプレートを SXC に変換できます。
+
+* **文書からデータへの自動化**
+  この変換は、構造化コンテンツをスプレッドシート資産に定期的に抽出することをサポートします。
+
+* **バッチ レガシーフォーマット 処理**
+  プログラムによるジョブは、DOTM ファイルを SXC に大規模かつ効率的に変換することを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

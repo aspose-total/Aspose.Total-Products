@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en TSV transforme le contenu Word en valeurs séparées par des tabulations, un format structuré simple idéal pour un échange de données textuel propre et des flux de travail d'importation. Elle est utile lorsque les tableaux de documents ou les champs répétés nécessitent une sortie structurée légère.
+
+Les API Python aident à automatiser la conversion DOC vers TSV pour une extraction évolutive, la préparation de données et les tâches d'intégration où les formats tabulaires en texte brut sont privilégiés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de données légère**
+  Convertir les tableaux de documents en TSV pour un échange structuré simple.
+
+* **Sortie conviviale pour l'importation**
+  Préparer les données issues de Word pour les outils et systèmes qui acceptent le texte délimité.
+
+* **Flux de travail de nettoyage de données**
+  Utiliser la sortie TSV pour le prétraitement, la validation et l'ingestion dans les pipelines.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Extraction de données à haut volume**
+  Convertir automatiquement les fichiers DOC en TSV pour le traitement en aval.
+
+* **Exportations de texte prêtes pour les pipelines**
+  Générer des fichiers délimités à partir de documents dans le cadre de flux ETL ou d'importation.
+
+* **Jobs de transformation planifiés**
+  Standardiser de manière programmatique les enregistrements basés sur des documents en TSV de façon récurrente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

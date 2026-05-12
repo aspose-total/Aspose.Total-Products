@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMPからEMLXへの変換により、ビットマップ画像ファイルを特定のメールストレージシステムで一般的に使用されるEMLXメール形式に組み込むことができます。この形式は、画像ベースのコンテンツを含むメールメッセージの構造化された保存を可能にします。
+
+自動変換ワークフローは、システムがBMP画像からEMLXファイルを生成し、アーカイブ、インデックス作成、メールストレージプラットフォームとの統合を支援します。これにより、自動化されたインフラストラクチャ全体でスケーラブルなメッセージ管理が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールストレージ互換性**  
+  BMP画像は、特定のメールストレージシステムとの互換性のためにEMLXメッセージとして保存できます。
+
+* **自動アーカイブシステム**  
+  文書管理システムは、構造化された保存のために画像をEMLX形式に変換できます。
+
+* **ビジュアルメッセージ記録**  
+  組織は、メールベースのストレージ形式で視覚的なコミュニケーションを保存できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メールボックス生成**  
+  システムは、BMP画像からEMLXファイルを生成し、自動メールボックスの作成を行います。
+
+* **大量メールレコード処理**  
+  ワークフローは、インデックス作成と保存のために大量のBMP文書をEMLXファイルに変換します。
+
+* **プログラムによるメールファイル作成**  
+  アプリケーションは、画像添付ファイルを含むEMLXメッセージを動的に生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

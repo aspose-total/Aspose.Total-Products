@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to SXC 변환은 문서 기반 구조화된 콘텐츠를 레거시 오픈 스프레드시트 워크플로와 호환되는 스프레드시트 파일로 변환합니다. 이는 오래된 오피스 환경과의 호환성을 유지하는 조직에 유용합니다.
+
+Python API는 테이블을 추출하고 변환을 자동화하여 마이그레이션 및 상호 운용성 요구를 위한 스프레드시트 지향 형식으로 WordML to SXC 변환을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **레거시 오픈 스프레드시트 출력**
+  WordML 테이블을 오래된 스프레드시트 환경용 SXC 파일로 변환합니다.
+
+* **문서에서 데이터 재사용**
+  구조화된 문서 콘텐츠를 레거시 스프레드시트 도구에서 편집 가능하게 합니다.
+
+* **호환성 보존**
+  오래된 오픈 포맷에 여전히 의존하는 롱테일 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **레거시 내보내기 자동화**
+  호환성 중심 워크플로에서 WordML 파일로부터 SXC 출력을 생성합니다.
+
+* **마이그레이션 지원 작업**
+  문서 저장소와 오래된 스프레드시트 처리 환경을 연결합니다.
+
+* **대량 테이블 변환**
+  문서 데이터를 추출하고 패키징하여 레거시 스프레드시트 파일로 자동화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de **ICS** para **DOT** usando APIs Python permite que os dados de calendário sejam transformados em arquivos de modelo Word. Essa abordagem permite que as informações de agendamento sejam incorporadas em modelos de documento reutilizáveis para relatórios estruturados.
+
+Fluxos de trabalho automatizados em Python possibilitam a conversão de arquivos **ICS** em formatos de modelo que podem ser reutilizados em múltiplos processos de geração de documentos, melhorando a consistência e a eficiência.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Modelos de Agendamento Reutilizáveis**  
+  Converta dados de calendário em modelos de documento para relatórios consistentes.
+
+* **Documentação Orientada a Modelos**  
+  Incorpore estruturas de eventos em formatos de modelo Word reutilizáveis.
+
+* **Design de Fluxo de Trabalho Estruturado**  
+  Crie modelos que suportam a criação padronizada de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Geração de Modelos**  
+  Crie automaticamente modelos DOT a partir de arquivos **ICS**.
+
+* **Sistemas de Automação de Documentos**  
+  Use modelos de calendário na geração automatizada de documentos.
+
+* **Infraestrutura de Relatórios Escalável**  
+  Converta grandes volumes de dados de calendário em modelos reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers ODS transforme le contenu des modèles Word en un format de feuille de calcul OpenDocument pour la gestion de données structurées et les flux de travail basés sur des standards ouverts. Elle est utile lorsque les informations du document doivent être présentées sous forme de feuille de calcul éditable sans dépendre de formats propriétaires.
+
+Cette conversion améliore l’automatisation en permettant la production de fichiers de tableur ouverts basés sur Python, pouvant être intégrés aux systèmes de reporting, de révision et de traitement des données à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Flux de travail de tableur ouvert**
+  Convertir le contenu du document en fichiers de tableur éditables en utilisant des standards ouverts.
+
+* **Réutilisation des données**
+  Transférer les informations structurées des modèles vers des processus métier tabulaires.
+
+* **Reporting interopérable**
+  Faciliter la collaboration entre systèmes qui utilisent des formats de tableur ouverts.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportations récurrentes de tableur**
+  Générer automatiquement des fichiers ODS à partir de modèles DOTX pour les cycles de reporting.
+
+* **Pipelines de données ouverts**
+  Acheminer la sortie du tableur converti vers des systèmes construits autour de formats basés sur des standards.
+
+* **Automatisation document‑vers‑tableau**
+  Faire évoluer la transformation du contenu de modèles répétés en actifs de tableur.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

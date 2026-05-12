@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から WordML への変換は、バイナリのスプレッドシート コンテンツを XML ベースのワードプロセッシング マークアップに変換し、機械可読な文書表現を重視するワークフローで構造化文書の生成を可能にします。これは、スプレッドシート データを処理、変換、またはシステム統合に適した形式に変換する必要がある場合に有用です。
+
+自動化の文脈では、XLSB から WordML への変換は、スプレッドシート由来のコンテンツを構造化 XML ワークフローに移行させることで、スケーラブルな文書パイプラインをサポートし、相互運用性、変換制御、およびプログラムによる文書システムとの統合を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **XMLベースの文書生成**  
+  スプレッドシート データを文書ワークフロー用の構造化マークアップ形式に変換します。
+
+* **システム統合**  
+  スプレッドシート コンテンツを XML 主導の処理環境と接続するのに役立ちます。
+
+* **プログラムによる変換**  
+  機械可読な構造が重要な高度な文書処理をサポートします。
+
+* **構造化コンテンツ交換**  
+  スプレッドシート由来の情報が相互運用可能な文書パイプラインを通過できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML文書パイプライン**  
+  システムは XLSB ファイルを WordML に変換し、構造化された自動処理を実現できます。
+
+* **変換ワークフロー**  
+  スプレッドシート コンテンツは XML ベースの文書ロジックを使用してプログラム的に再形成できます。
+
+* **大量マークアップ変換**  
+  複数のスプレッドシート ファイルを大規模に WordML 出力へ変換できます。
+
+* **相互運用可能な自動化システム**  
+  変換ワークフローは、構造化文書マークアップを消費する下流ツールをサポートできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

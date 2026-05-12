@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para OST converte documentos habilitados para macro em dados adequados para fluxos de trabalho offline no estilo de caixa de correio, onde o armazenamento de comunicação sincronizada é importante. É útil em cenários onde o conteúdo derivado de documentos deve estar alinhado com ambientes de comunicação em cache e processos estruturados de armazenamento de e‑mail.
+
+Do ponto de vista da automação, a conversão de DOCM para OST suporta a preparação de arquivamento, fluxos de trabalho de sincronização controlada e a transformação escalável do conteúdo de documentos em estruturas orientadas a e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Suporte a Armazenamento de E‑mail Offline**
+  Ajuda a adaptar o conteúdo de documentos para fluxos de trabalho que envolvem dados de caixa de correio sincronizados.
+
+* **Preservação de Registros de Comunicação**
+  Suporta a retenção de informações derivadas de documentos dentro de contextos de armazenamento orientados a e‑mail.
+
+* **Alinhamento de Fluxos de Trabalho Empresariais**
+  Conecta ativos de documentos com ambientes construídos em torno de repositórios de comunicação em cache.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Preparação Automatizada de Dados de E‑mail**
+  Converte arquivos DOCM em saídas adequadas para fluxos de trabalho estruturados de caixa de correio.
+
+* **Pipelines de Retenção e Sincronização**
+  Suporta o manuseio de arquivamento e sincronização orientados por processos.
+
+* **Operações de Conversão em Massa**
+  Processa coleções de documentos em saídas compatíveis com armazenamento de e‑mail de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

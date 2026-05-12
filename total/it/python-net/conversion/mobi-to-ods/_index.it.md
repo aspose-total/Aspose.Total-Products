@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MOBI a ODS in Python rende possibile trasformare contenuti derivati da ebook in un formato di foglio di calcolo aperto, adatto per analisi, riutilizzo e modifica collaborativa. Questo è utile per le organizzazioni che preferiscono standard aperti pur avendo bisogno di funzionalità di foglio di calcolo strutturato.
+
+Dal punto di vista dell'automazione, la conversione da MOBI a ODS supporta flussi di lavoro documentali aperti scalabili, interoperabilità a costi contenuti e routine di esportazione programmatiche. Aiuta i team a trasformare i file di pubblicazione sorgente in risorse strutturate che si integrano senza problemi con sistemi di ufficio e dati automatizzati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output di foglio di calcolo a standard aperto**
+  Converti i file MOBI in ODS per modifiche strutturate e analisi in ambienti di documenti aperti.
+
+* **Strutturazione dei contenuti per i team**
+  Prepara le informazioni estratte dagli ebook in un formato di foglio di calcolo collaborativo per l'uso operativo.
+
+* **Imballaggio dati riutilizzabile**
+  Consegna i contenuti in un formato che può essere riutilizzato su piattaforme open-source e basate su standard.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazioni documentali aperte automatizzate**
+  Genera file ODS da input MOBI all'interno di lavori di elaborazione dei contenuti programmati.
+
+* **Integrazione di flussi di lavoro cross-platform**
+  Alimenta gli output di fogli di calcolo convertiti in sistemi che si basano su standard di documenti open office.
+
+* **Strutturazione dei contenuti ripetibile**
+  Usa l'automazione Python per trasformare costantemente i contenuti degli ebook in file aperti pronti per fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

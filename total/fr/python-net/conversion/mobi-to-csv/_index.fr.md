@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de MOBI en CSV avec Python aide à transformer le contenu textuel ou tabulaire provenant d'eBooks en un format simple et structuré, facile à rechercher, filtrer et réutiliser. Elle est précieuse pour l'extraction de contenu, l'échange de données léger, la préparation de rapports et le traitement en aval dans les flux de travail documentaires modernes.
+
+Du point de vue de l'automatisation, la conversion de MOBI en CSV prend en charge des pipelines de données évolutifs, des routines d'extraction par lots et l'intégration avec des systèmes d'analyse ou d'archivage. Elle permet aux équipes de transférer le contenu de fichiers orientés publication vers des ensembles de données lisibles par machine, adaptés aux processus métier et opérationnels automatisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de contenu pour l'analyse**
+  Convertir le contenu structuré des fichiers MOBI en CSV pour une inspection, une analyse et un parsing faciles.
+
+* **Flux de travail de migration de données**
+  Utiliser la sortie CSV lors du transfert des informations extraites vers des bases de données, des feuilles de calcul ou des systèmes de reporting.
+
+* **Échange de données léger**
+  Créer des fichiers simples et portables qui peuvent être partagés entre outils et plateformes avec un minimum de problèmes de compatibilité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Traitement par lots d'eBooks**
+  Convertir automatiquement de grandes collections de fichiers MOBI en CSV dans le cadre de flux d'ingestion planifiés.
+
+* **Pipelines de normalisation des métadonnées**
+  Extraire et standardiser les champs clés des documents en CSV pour l'automatisation du catalogage et de l'indexation.
+
+* **Préparation de rapports**
+  Alimenter les sorties CSV dans des tableaux de bord automatisés, des scripts ou des routines de validation pour une utilisation en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

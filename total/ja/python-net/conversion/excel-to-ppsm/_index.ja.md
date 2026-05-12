@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Excel から PPSM への変換は、Python でスプレッドシートの内容をマクロ対応スライドショー ファイルに変換し、高度なプレゼンテーション ワークフローを実現します。プレゼンテーション用に準備されたファイルがマクロベースのインタラクションや自動化機能もサポートする必要がある場合に便利です。
+
+この変換は自動化に関連しています。なぜなら、スプレッドシート データとスライドショー出力を結び付け、より動的でプログラム可能なプレゼンテーション環境で利用できるようにするからです。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スライドショー**  
+  Excel のコンテンツを PPSM ファイルに変換し、拡張された自動化サポートとともに直接プレゼンテーションできます。
+
+* **インタラクティブなプレゼンテーション配信**  
+  必要に応じてプログラム可能な動作を組み込めるスライドショー出力を作成します。
+
+* **運用ブリーフィングファイル**  
+  スプレッドシートデータを使用して、高度なワークフローの可能性を持つプレゼンテーション用ファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化インタラクティブプレゼンテーション**  
+  スライドショー自動化が必要なワークフロー向けに、Excel ソースから PPSM 出力を生成します。
+
+* **プログラム的プレゼンテーションパイプライン**  
+  マクロ対応スライドショー作成を Python のレポーティングシステムに統合します。
+
+* **スケーラブルな配信準備**  
+  スプレッドシートデータから、最小限の手作業で実行可能なプレゼンテーションファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para ICS converte informações de documentos em dados compatíveis com calendários que podem suportar agendamento, lembretes e fluxos de trabalho baseados em eventos. Isso é valioso quando detalhes de reuniões, cronogramas ou itens de agenda armazenados em documentos precisam ser transformados em entradas de calendário.
+
+Usando APIs Python, a conversão de WordML para ICS pode ser automatizada para extrair informações de eventos e gerar arquivos de calendário reutilizáveis para sistemas de agendamento e automação de processos baseados em tempo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Eventos**
+  Converte conteúdo relacionado a agendamentos de arquivos WordML em dados ICS prontos para calendário.
+
+* **Suporte ao Fluxo de Trabalho de Reuniões**
+  Transforma agendas ou documentos de planejamento em registros de eventos importáveis.
+
+* **Interoperabilidade de Calendário**
+  Permite que o conteúdo de documentos seja transferido para plataformas de agendamento usando um formato padrão.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivo de Calendário**
+  Cria arquivos ICS a partir de documentos de reunião ou evento em WordML em fluxos de trabalho recorrentes.
+
+* **Sincronização de Agenda**
+  Integra detalhes de eventos baseados em documentos nos pipelines de importação de calendário.
+
+* **Automação de Lembretes e Planejamento**
+  Suporta a criação programática de registros com limites de tempo a partir de conteúdo de documento estruturado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

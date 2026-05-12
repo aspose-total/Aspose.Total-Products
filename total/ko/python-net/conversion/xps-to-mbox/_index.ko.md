@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 XPS를 MBOX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS에서 MBOX로의 변환은 Python API를 사용하여 고정 레이아웃 문서를 이메일 메시지 컬렉션을 저장하는 메일함 아카이브 형식으로 변환할 수 있게 합니다. 이는 문서 내용이 메일함 기반 저장 구조에 의존하는 보관, 마이그레이션 또는 장기 보존 워크플로에 통합되어야 할 때 유용합니다.
+
+자동화 기반 시스템의 경우, XPS에서 MBOX로의 변환은 확장 가능한 콘텐츠 보존을 지원하고, 보관 패키징을 간소화하며, 문서 레코드를 메일 중심 저장 및 규정 준수 프로세스와 통합하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 생성**  
+  XPS 콘텐츠를 MBOX 호환 구조로 변환하여 통합 저장 및 보존 워크플로에 사용합니다.
+
+* **문서 기반 레코드 보존**  
+  통신 시스템에서 관리하기 쉬운 메일함 아카이브에 문서 정보를 보존하는 데 도움을 줍니다.
+
+* **마이그레이션 준비**  
+  플랫폼 이동 또는 통합을 위해 문서 내용을 메일 아카이브 형식으로 변환하는 것을 지원합니다.
+
+* **대량 콘텐츠 패키징**  
+  여러 문서 기반 레코드를 아카이브 준비된 메일함 컬렉션으로 조직할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 보관 파이프라인**  
+  시스템은 예정된 보존 또는 백업 루틴의 일환으로 XPS 파일을 MBOX 출력으로 변환할 수 있습니다.
+
+* **배치 레코드 통합**  
+  대량의 문서 레코드를 효율적인 처리를 위해 프로그래밍 방식으로 메일함 아카이브에 패키징할 수 있습니다.
+
+* **규정 준수 저장 워크플로**  
+  자동화된 프로세스는 거버넌스 검토에 적합한 아카이브 형식으로 문서 기반 커뮤니케이션을 보존할 수 있습니다.
+
+* **데이터 마이그레이션 준비**  
+  변환 루틴은 다른 환경으로 전송하기 전에 문서 소스에서 메일함 호환 출력을 준비할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

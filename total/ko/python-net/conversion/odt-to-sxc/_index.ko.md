@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 SXC 변환은 OpenDocument Text 콘텐츠를 구조화된 데이터 처리를 위해 사용되는 스프레드시트 지향 형식으로 변환합니다. 문서 기반 표, 목록 또는 레코드를 셀 기반 레이아웃으로 재구성하여 검토 및 처리해야 할 때 유용합니다.
+
+자동화 환경에서 ODT에서 SXC 변환은 문서 데이터 추출, 레거시 스프레드시트 상호 운용성 및 확장 가능한 콘텐츠 구조화를 지원합니다. Python API는 여러 파일에 걸쳐 이러한 변환을 안정적으로 자동화하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 지향 데이터 추출**  
+  구조화된 문서 콘텐츠를 셀 기반 레이아웃으로 변환합니다.
+
+* **레거시 형식 지원**  
+  이전 스프레드시트 워크플로와의 호환성을 유지하는 데 도움이 됩니다.
+
+* **표 및 레코드 마이그레이션**  
+  문서 정보를 보다 분석하기 쉬운 구조로 이동합니다.
+
+* **운영 데이터 재사용**  
+  추출된 콘텐츠를 검토하고 처리하기 쉽게 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **레거시 스프레드시트 변환 파이프라인**  
+  Python 자동화를 통해 ODT 표를 SXC 출력으로 자동 변환할 수 있습니다.
+
+* **배치 레코드 추출**  
+  여러 문서를 대규모로 스프레드시트 형식으로 처리할 수 있습니다.
+
+* **데이터 검증 및 내보내기**  
+  추출된 콘텐츠는 SXC로 변환하기 전에 정규화될 수 있습니다.
+
+* **워크플로 상호 운용성 지원**  
+  변환된 출력은 여전히 레거시 스프레드시트 구조에 의존하는 시스템에 제공될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

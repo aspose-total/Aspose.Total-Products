@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から DIF への変換は、書式設定されたテキスト文書を、スプレッドシートや表形式データの交換を目的としたデータ相互運用形式に変換します。これは、組織が構造化されたコンテンツを、従来の分析・財務システムと互換性のある形式で保存する必要がある場合に有用です。
+
+自動化の観点から、RTF から DIF への変換は、文書ベースの情報を信頼性の高い構造化データセットに変換し、レポート、会計、スプレッドシートのワークフロー間で最小限の手作業で移動できるようサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシートデータ交換**  
+  文書の内容を、互換性のある表形式システム間での転送をサポートする形式に変換します。
+
+* **レガシーワークフロー統合**  
+  リッチテキスト文書に元々保存されていた情報を、従来の分析環境が利用できるよう支援します。
+
+* **構造化レコード作成**  
+  抽出されたテキストを、レビュー、インポート、またはアーカイブ用途に適したデータレイアウトに整理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたレガシーデータフィード**  
+  変換ルーチンは、受信した RTF ファイルを、従来のスプレッドシートベースのワークフロー向けに DIF に変換できます。
+
+* **定期的な財務データ作成**  
+  自動化パイプラインは、テキストベースのレポートを会計システムに適したデータ形式に標準化できます。
+
+* **システム間データ移動**  
+  プログラムによる変換は、スケジュールされたプロセスで文書リポジトリと構造化分析ツールを橋渡しするのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

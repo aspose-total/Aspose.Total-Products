@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers Email dans les API Python transforme les modèles de texte OpenDocument en contenu prêt à être envoyé par courriel, adapté à la génération de messages, aux flux de travail de notification et à l'automatisation de la communication. Elle aide les organisations à réutiliser le contenu des documents sous forme de messages sortants structurés.
+
+Cette conversion est très pertinente pour l'automatisation car elle permet la génération dynamique de corps d'email à partir de modèles, améliorant la cohérence des communications, l'évolutivité et l'intégration avec des systèmes transactionnels ou basés sur des événements.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Messagerie basée sur des modèles**  
+  Transforme les modèles de documents en contenu d'email réutilisable pour la prospection ou les mises à jour.
+
+* **Génération de notifications**  
+  Convertit le texte formaté en messages prêts à être envoyés par email pour les alertes et les confirmations.
+
+* **Réutilisation du contenu**  
+  Permet au même document source de répondre à la fois aux besoins de documentation et de communication.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Mises à jour client automatisées**  
+  Génère des emails à partir de modèles OTT en fonction des déclencheurs de flux de travail.
+
+* **Pipelines de messagerie transactionnelle**  
+  Utilise le contenu des documents dans les systèmes qui envoient des confirmations ou des rappels.
+
+* **Personnalisation dynamique**  
+  Remplit le contenu d'email basé sur des modèles de manière programmatique pour de grands groupes de destinataires.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

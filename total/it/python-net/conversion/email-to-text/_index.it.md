@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da email a testo in Python estrae il contenuto del messaggio in testo semplice per elaborazioni leggere, indicizzazione e analisi. È utile quando la formattazione è meno importante della leggibilità, ricercabilità, interoperabilità o integrazione con sistemi basati su testo.
+
+Questa conversione è altamente adatta all'automazione perché i risultati in testo semplice sono facili da analizzare, trasformare, classificare e instradare attraverso pipeline di dati, ricerca e contenuti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione di messaggi ricercabili**
+  Converti le email in testo semplice per l'indicizzazione e la ricerca full‑text.
+
+* **Archiviazione semplice**
+  Conserva il contenuto essenziale del messaggio in un formato compatto e leggibile.
+
+* **Preparazione per l'elaborazione dei dati**
+  Usa i risultati testuali come input per analisi, classificazione o flussi di lavoro linguistici.
+
+* **Interoperabilità del sistema**
+  Scambia il contenuto delle email facilmente tra strumenti che si basano su dati di testo semplice.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di text mining**
+  Converti i flussi di email in testo semplice per etichettatura e analisi automatizzate.
+
+* **Flussi di lavoro per l'estrazione della conoscenza**
+  Fornisci il contenuto email pulito a sistemi di sintesi, ricerca o reportistica.
+
+* **Automazione di archiviazione a basso overhead**
+  Archivia le versioni testuali dei messaggi per una conservazione e recupero leggeri.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

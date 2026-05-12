@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から PST への変換は、文書コンテンツをバンドルされた通信およびアーカイブシナリオで使用されるメールボックス指向のストレージ形式に変換します。これは、ソーステキストを移行、保存、またはレコード管理のためにメッセージ関連のコンテナに再利用する必要がある場合に役立ちます。
+
+Python API を使用すると、ODT から PST への変換を自動化されたアーカイブおよびコンテンツパッケージングワークフローに統合できます。通信中心のリポジトリ向けに、文書由来の資産を繰り返し準備することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **アーカイブコンテナの準備**  
+  メールボックス形式のアーカイブワークフローで使用するために文書コンテンツを変換します。
+
+* **コンテンツ移行サポート**  
+  文書由来の資料をメッセージ指向のストレージ環境へ移行するのに役立ちます。
+
+* **レコード統合**  
+  変換されたコンテンツを構造化されたアーカイブコンテナに統合することをサポートします。
+
+* **保持ワークフローの有効化**  
+  長期保存プロセスに適した出力を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動アーカイブパッケージング**  
+  Python ジョブは ODT ファイルを PST 指向の出力に変換し、ストレージワークフローに利用できます。
+
+* **保持のための一括変換**  
+  大規模な文書ライブラリを自動的に処理し、アーカイブ準備を行うことができます。
+
+* **移行パイプライン統合**  
+  変換された出力は、より広範な通信システムの移行の一部として生成できます。
+
+* **プログラム的レコード処理**  
+  文書由来のコンテンツは、スケールで繰り返し可能なアーカイブプロセスを通じて処理できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a DOT in Python consente di trasformare i file modello di Excel in documenti modello di Word che possono fungere da punti di partenza riutilizzabili per la generazione futura di documenti. Questo è particolarmente utile quando i modelli di foglio di calcolo contengono informazioni strutturate che devono essere ricomposte in modelli di documento per un uso ripetuto.
+
+In ambienti focalizzati sull’automazione, la conversione da XLT a DOT supporta l’unificazione dei modelli e la creazione scalabile di documenti. Consente ai sistemi basati su Python di trasformare i layout dei fogli di calcolo in risorse modello di Word riutilizzabili, popolabili programmaticamente attraverso molteplici processi aziendali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli di documento riutilizzabili**  
+  Converti i file XLT in modelli DOT per una produzione di documenti standardizzata.
+
+* **Allineamento dei modelli di processo**  
+  Trasforma le strutture guidate da fogli di calcolo in formati modello di Word utilizzati nei flussi di lavoro della documentazione.
+
+* **Riutilizzabilità operativa dei contenuti**  
+  Crea modelli di base che possono essere applicati ripetutamente per report, moduli o documenti interni.
+
+* **Trasformazione di modelli legacy**  
+  Modernizza i vecchi modelli di foglio di calcolo trasformandoli in risorse modello di Word riutilizzabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di generazione dei modelli**  
+  Converti automaticamente i file XLT in modelli DOT per flussi di lavoro documentali ripetibili.
+
+* **Avvio programmatico dei documenti**  
+  Usa le API Python per generare modelli Word di base dal contenuto dei fogli di calcolo per una successiva popolazione.
+
+* **Sistemi di output standardizzati**  
+  Invia i file DOT convertiti ai sistemi aziendali che richiedono punti di partenza documentali coerenti.
+
+* **Migrazione massiva dei modelli**  
+  Automatizza la trasformazione delle risorse XLT legacy in librerie di modelli Word su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

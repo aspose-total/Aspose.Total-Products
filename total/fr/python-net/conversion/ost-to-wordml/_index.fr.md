@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'OST en WordML transforme le contenu d'une boîte aux lettres en balisage de traitement de texte basé sur XML, permettant une représentation structurée et lisible par machine des documents dérivés d'e‑mails. Ceci est utile pour les systèmes qui nécessitent une structure de document transparente et une interopérabilité au niveau du balisage.
+
+Les API Python permettent d'automatiser la conversion d'OST en WordML pour des scénarios de traitement avancés, incluant la transformation, la validation et l'intégration avec des systèmes centrés sur XML. Cela améliore la flexibilité et le contrôle dans les flux de travail de documents structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Marquage de document structuré**  
+  Convertit les données de la boîte aux lettres en WordML pour une représentation de document basée sur XML.
+
+* **Gestion du contenu lisible par machine**  
+  Prend en charge les flux de travail qui nécessitent un balisage de document inspectable et transformable.
+
+* **Traitement interopérable**  
+  Facilite l'intégration du contenu dérivé des e‑mails avec des systèmes et outils de contenu structuré.
+
+* **Transformation avancée de documents**  
+  Permet un contrôle détaillé du contenu converti dans des environnements pilotés par le balisage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation des flux de travail XML**  
+  Des scripts Python convertissent les archives OST en WordML pour des pipelines de traitement structurés.
+
+* **Processus de transformation de contenu**  
+  Les systèmes automatisés manipulent le balisage dérivé de la boîte aux lettres pour l'intégration et la réutilisation.
+
+* **Pipelines de validation et d'échange**  
+  La conversion programmatique prend en charge l'échange de documents structurés à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

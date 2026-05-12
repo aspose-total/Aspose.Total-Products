@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT para PST converte o conteúdo de documentos em um formato de armazenamento orientado a caixas de correio, usado para cenários de comunicação agrupada e arquivamento. Isso é útil quando o texto de origem precisa ser reutilizado em contêineres relacionados a mensagens para migração, armazenamento ou gestão de registros.
+
+Com APIs Python, a conversão de ODT para PST pode ser integrada a fluxos de trabalho automatizados de arquivamento e empacotamento de conteúdo. Ela suporta a preparação repetível de ativos derivados de documentos para repositórios centrados em comunicação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preparação de Contêiner de Arquivo**  
+  Converte o conteúdo do documento para uso em fluxos de trabalho de arquivamento estilo caixa de correio.
+
+* **Suporte à Migração de Conteúdo**  
+  Ajuda a mover material derivado de documentos para ambientes de armazenamento orientados a mensagens.
+
+* **Consolidação de Registros**  
+  Suporta a combinação de conteúdo convertido em contêineres de arquivamento estruturados.
+
+* **Habilitação de Fluxo de Trabalho de Retenção**  
+  Prepara saídas adequadas para processos de preservação a longo prazo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Empacotamento de Arquivo Automatizado**  
+  Jobs Python podem converter arquivos ODT em saídas orientadas a PST para fluxos de trabalho de armazenamento.
+
+* **Conversão em Massa para Retenção**  
+  Grandes bibliotecas de documentos podem ser processadas automaticamente para preparação de arquivamento.
+
+* **Integração de Pipeline de Migração**  
+  Saídas convertidas podem ser geradas como parte de transições mais amplas de sistemas de comunicação.
+
+* **Manipulação Programática de Registros**  
+  Conteúdo derivado de documentos pode percorrer processos de arquivamento repetíveis em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

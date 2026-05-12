@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS를 MOBI로 변환하면 평면 OpenDocument 스프레드시트 내용을 휴대용 읽기와 디지털 배포에 적합한 전자책 친화 형식으로 재활용할 수 있습니다. 이는 구조화된 정보를 접근 가능한 참고 자료, 가이드 또는 텍스트 중심 출판물로 읽기 장치 전반에 걸쳐 공유해야 할 때 유용합니다.
+
+자동화 워크플로우 내에서 FODS를 MOBI로 변환하면 대규모 콘텐츠 변환, 디지털 퍼블리싱 파이프라인 및 효율적인 다중 형식 배포를 지원합니다. Python API는 구조화된 데이터를 읽기 플랫폼에 맞게 재포맷하는 수작업을 줄이면서 반복 가능한 전자책 생성 프로세스를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 레퍼런스 출판**  
+  스프레드시트 기반 정보를 MOBI 파일로 변환하여 휴대용 읽기 및 참고용으로 활용합니다.
+
+* **지식 배포**  
+  구조화된 비즈니스 또는 기술 데이터를 보다 넓은 접근성을 갖춘 전자책 형식으로 공유합니다.
+
+* **콘텐츠 재활용**  
+  데이터가 많은 원본 파일을 읽기 쉬운 장문 디지털 문서로 변환합니다.
+
+* **모바일 친화적 문서**  
+  변환된 콘텐츠를 장치 기반 읽기 환경에 편리한 형식으로 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 전자책 생성**  
+  Python 워크플로우를 통해 FODS 파일을 MOBI 출력물로 변환하여 디지털 콘텐츠를 제공할 수 있습니다.
+
+* **배치 퍼블리싱 파이프라인**  
+  여러 구조화된 파일을 대규모로 전자책 형식으로 변환할 수 있습니다.
+
+* **크로스 포맷 배포 시스템**  
+  자동화 프로세스를 통해 더 넓은 도달 범위를 위해 다른 출력 형식과 함께 MOBI를 생성할 수 있습니다.
+
+* **콘텐츠 퍼블리싱 자동화**  
+  프로그래밍 방식 변환은 원본 데이터에서 디지털 읽기 자료를 더 빠르게 준비하도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

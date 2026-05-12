@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a TSV nelle API Python converte i modelli di testo OpenDocument in valori separati da tabulazione per uno scambio di dati pulito, leggero e strutturato. Questo è utile quando il contenuto basato su template deve essere spostato in sistemi che preferiscono un output tabellare semplice e basato su testo.
+
+La conversione migliora l'automazione consentendo una facile analisi, trasformazione e caricamento nei flussi di lavoro che valorizzano un overhead minimo, la portabilità e una struttura affidabile basata su delimitatori.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di dati delimitati**  
+  Converte il contenuto del documento in output tabulari strutturati separati da tabulazione.
+
+* **Formattazione compatibile con pipeline**  
+  Supporta i sistemi che elaborano tabelle leggere basate su testo.
+
+* **Preparazione dei dati**  
+  Rende più semplice l'importazione del contenuto estratto in strumenti analitici o operativi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Conversione tabellare batch**  
+  Genera file TSV dai template OTT su larga scala.
+
+* **Alimentazione di workflow ETL**  
+  Invia i dati derivati dal documento a pipeline di analisi e trasformazione.
+
+* **Esportazioni strutturate programmate**  
+  Supporta la generazione ricorrente di set di dati semplici leggibili da macchine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

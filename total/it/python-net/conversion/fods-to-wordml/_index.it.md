@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da FODS a WordML trasforma i file di foglio di calcolo OpenDocument piatti in documenti di elaborazione testi basati su XML, facilitando l'integrazione di contenuti strutturati nei sistemi che beneficiano di una gestione dei documenti guidata dal markup. Questo formato è utile per flussi di lavoro che richiedono interoperabilità strutturata, elaborazione di documenti o pipeline di trasformazione orientate a XML.
+
+Per l'automazione e l'integrazione di sistema, la conversione da FODS a WordML supporta la generazione programmatica di documenti, lo scambio di contenuti strutturati e flussi di lavoro di trasformazione scalabili. Le API Python aiutano ad automatizzare la produzione di output documentali basati su XML migliorando la coerenza e riducendo l'intervento manuale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Elaborazione di Documenti basata su XML**  
+  Converti il contenuto FODS in WordML per flussi di lavoro che si basano su markup strutturato.
+
+* **Supporto all'Integrazione di Sistema**  
+  Utilizza l'output WordML dove il contenuto del documento deve essere scambiato tra sistemi di elaborazione.
+
+* **Trasformazione di Contenuti Strutturati**  
+  Prepara le informazioni derivate da fogli di calcolo per attività di gestione documenti a valle consapevoli di XML.
+
+* **Progettazione di Flussi di Lavoro Interoperabili**  
+  Supporta ambienti che beneficiano di rappresentazioni di documenti leggibili da macchine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Pipeline di Conversione guidate da Markup**  
+  I flussi di lavoro Python possono generare file WordML da input FODS per elaborazione strutturata.
+
+* **Scambio di Contenuti Automatizzato**  
+  I sistemi possono convertire e trasferire documenti basati su XML tra applicazioni con minima gestione manuale.
+
+* **Generazione di Documenti XML in Batch**  
+  Grandi insiemi di file FODS possono essere trasformati programmaticamente nel formato WordML.
+
+* **Flussi di Lavoro di Integrazione Scalabili**  
+  La conversione automatizzata supporta scenari ad alto volume dove è richiesto un output di documenti strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

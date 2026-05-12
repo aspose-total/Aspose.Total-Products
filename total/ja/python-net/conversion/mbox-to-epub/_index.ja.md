@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から EPUB への変換は、メールボックスアーカイブをリフロー可能なデジタル出版ファイルに変換し、メールコンテンツを配布、閲覧、保存しやすくし、e‑リーダー対応環境全体で利用できるようにします。アーカイブされた通信を整理された長文デジタルコンテンツとして提示する必要がある場合に価値があります。
+
+Python API を使用すれば、この変換を自動化してメールボックスデータからポータブルな出版物を作成し、コンテンツのアクセシビリティを向上させ、構造化されたデジタル配布ワークフローをサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **デジタル出版物の作成**
+  メールアーカイブを EPUB ファイルに変換し、構造化されポータブルな読書体験を提供します。
+
+* **長文コンテンツのパッケージ化**
+  メールボックスのコンテンツを出版準備が整ったデジタル形式に結合し、参照や配布に利用します。
+
+* **アクセシブルなアーカイブ配信**
+  メッセージコレクションを複数デバイスに適した読みやすい形式で提示します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された eBook 生成**
+  メールボックスのコンテンツを繰り返し可能な Python ワークフローを通じて EPUB 出版物に変換します。
+
+* **ポータブルな知識配布**
+  選別されたメールアーカイブを内部共有用のデジタル読書パッケージにエクスポートします。
+
+* **構造化コンテンツの出版**
+  メールボックスから EPUB への変換を自動化された出版およびアーカイブパイプラインに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

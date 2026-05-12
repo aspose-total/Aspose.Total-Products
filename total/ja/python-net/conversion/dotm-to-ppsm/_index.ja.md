@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から PPSM への変換は、マクロ対応の Word テンプレートをマクロ対応の PowerPoint スライドショー ファイルに変換し、高度なプレゼンテーション再生シナリオに対応します。ショー用に準備されたスライド ファイルが自動化指向のプレゼンテーション動作もサポートする必要がある場合に有用です。
+
+Python API を使用した DOTM から PPSM への変換は、構造化された文書テンプレートから動的なスライドショー出力の作成を自動化するのに役立ちます。これにより一貫性が向上し、高度なプレゼンテーション ワークフローをサポートし、大規模な運用における手動準備を削減します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応スライドショー作成**
+  DOTM コンテンツを PPSM に変換し、再生指向のプレゼンテーションで高度な機能を提供します。
+
+* **動的プレゼンテーション配信**
+  構造化された文書テンプレートを、インタラクティブまたは自動化されたスライドショーのソースとして使用します。
+
+* **再利用可能なプレゼンテーション ワークフロー**
+  繰り返し使用される文書コンテンツからスライドショー出力の生成を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **高度なスライドショー自動化**
+  ワークフローは DOTM テンプレートから PPSM ファイルを生成し、動的なプレゼンテーション環境に対応します。
+
+* **自動再生の公開**
+  この変換は、拡張されたプレゼンテーション動作を備えたショー用ファイルのプログラム的配信をサポートします。
+
+* **大規模スライドショー生成**
+  スクリプト処理により、多数の DOTM ファイルを効率的に PPSM に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

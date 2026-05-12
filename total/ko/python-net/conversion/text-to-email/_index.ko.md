@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 TEXT를 EMAIL로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 텍스트‑이메일 변환은 일반 텍스트 콘텐츠를 구조화된 이메일 메시지로 변환하여 커뮤니케이션, 보관 및 워크플로 전달에 활용할 수 있게 합니다. 이는 외부 메시지를 생성하거나 재사용 가능한 템플릿을 만들거나 동적 텍스트 소스에서 메시지 준비된 콘텐츠를 만들어야 하는 시스템에 유용합니다.
+
+이 변환 방식은 원시 텍스트를 이메일 호환 자산으로 전환하여 알림 시스템, 고객 커뮤니케이션, 보고 파이프라인 또는 통합 비즈니스 워크플로를 통해 보다 일관되고 빠르게 라우팅할 수 있도록 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **자동화된 메시지 생성**  
+  일반 텍스트를 알림, 업데이트 및 트랜잭션 커뮤니케이션을 위한 이메일 준비 콘텐츠로 변환합니다.
+
+* **템플릿 기반 커뮤니케이션**  
+  텍스트를 구조화된 이메일 형식으로 표준화하여 반복 가능한 비즈니스 메시징을 지원합니다.
+
+* **워크플로 알림**  
+  자동화 시스템에서 내부 또는 외부 수신자에게 운영 업데이트를 전송하는 것을 지원합니다.
+
+* **콘텐츠 배포 파이프라인**  
+  텍스트 기반 정보를 이메일 중심의 퍼블리싱 및 홍보 프로세스를 위해 패키징할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **예약 알림 전달**  
+  자동화가 생성된 텍스트를 이메일 메시지로 변환하여 정해진 시간에 상태 알림 및 리마인더를 보냅니다.
+
+* **시스템‑대‑사용자 커뮤니케이션**  
+  애플리케이션이나 스크립트가 만든 텍스트를 자동화된 사용자 참여를 위한 이메일로 변환합니다.
+
+* **배치 메시징 워크플로**  
+  대량의 텍스트 콘텐츠를 프로그래밍 방식으로 이메일 출력으로 변환하여 확장 가능한 배포를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

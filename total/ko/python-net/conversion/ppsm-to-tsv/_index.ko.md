@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 PPSM을 TSV로 변환하면 프레젠테이션 콘텐츠를 구조화된 데이터 처리와 시스템 상호 운용에 적합한 탭 구분 텍스트 형식으로 추출할 수 있습니다. 이는 슬라이드 기반 정보를 데이터 교환이나 처리를 위해 단순한 구분자 기반 레코드로 내보내야 할 때 유용합니다.
+
+자동화를 위해 PPSM을 TSV로 변환하면 가벼운 표 형식과 최소한의 서식 오버헤드에 의존하는 데이터 워크플로와의 효율적인 파싱, 확장 가능한 수집, 간소화된 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구분자 데이터 내보내기**  
+  프레젠테이션 콘텐츠를 파싱 및 전송을 위한 단순한 구조화 형식으로 변환합니다.
+
+* **시스템 교환 지원**  
+  평문 표 형식에 의존하는 애플리케이션 간에 슬라이드에서 파생된 정보를 이동하는 데 도움을 줍니다.
+
+* **데이터 정리 준비**  
+  프레젠테이션 콘텐츠를 구조화된 워크플로에서 정규화하고 검증하기 쉽게 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 데이터 파이프라인 입력**  
+  Python 워크플로는 하위 시스템 및 스크립트가 수집할 수 있도록 TSV 파일을 생성할 수 있습니다.
+
+* **배치 콘텐츠 추출**  
+  변환을 통해 여러 PPSM 파일을 구조화된 텍스트 출력으로 반복 처리할 수 있습니다.
+
+* **경량 통합 워크플로**  
+  프로그래밍 방식 변환은 프레젠테이션 소스와 표 처리 도구 간의 빠른 교환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

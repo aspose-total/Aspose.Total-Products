@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から DIF への変換は、Word テンプレートのコンテンツを、レガシーなスプレッドシートシステムや構造化データ転送に適したデータ交換フォーマットに変換します。古いデータツールとの互換性が依然として重要な環境において、表形式の情報を保持するのに役立ちます。
+
+Python API を使用することで、この変換はレガシー対応のエクスポート、繰り返し可能なデータ変換、そして交換指向のスプレッドシート形式に依存するシステムとの統合を可能にし、オートメーションを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レガシーデータ交換**
+  構造化された文書コンテンツを、古いスプレッドシートツールで受け入れられる形式にエクスポートします。
+
+* **表形式コンテンツの移行**
+  テンプレートベースの情報を、構造化交換ファイルに依存するシステムへ移行します。
+
+* **互換性ワークフロー**
+  最新のスプレッドシート形式が好まれない環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたレガシーエクスポート**
+  レガシー互換のワークフロー向けに、定期的なジョブで DOTX テンプレートを DIF に変換します。
+
+* **データハンドオフパイプライン**
+  抽出された文書テーブルを、交換フォーマットを使用するシステムへルーティングします。
+
+* **アーカイブ変換**
+  長期的なアクセスのために、標準化された交換ファイルに構造化文書データを保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

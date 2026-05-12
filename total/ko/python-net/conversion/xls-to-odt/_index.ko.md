@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS를 ODT로 변환하면 스프레드시트 콘텐츠를 편집 가능하고 휴대 가능하며 표준 지향적인 문서를 위한 오픈 문서 텍스트 파일로 변환할 수 있습니다. 이는 조직이 다양한 사무 환경에서 접근 가능한 텍스트 기반 출력이 필요할 때 유용합니다.
+
+XLS를 ODT로 변환하기 위한 Python API 자동화는 오픈 포맷 문서 워크플로를 간소화하고 스프레드시트 데이터 소스에서 편집 가능한 파일을 대규모로 생성하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **오픈 문서 보고**
+  XLS 콘텐츠를 ODT 파일로 변환하여 개방형 및 편집 가능한 비즈니스 문서를 만듭니다.
+
+* **상호 운용 가능한 콘텐츠 공유**
+  플랫폼 간 문서 호환성이 중요할 때 ODT 출력을 사용합니다.
+
+* **스프레드시트-텍스트 변환**
+  표 형식 데이터를 내러티브 또는 혼합 레이아웃 문서 형식으로 재구성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 워크플로 자동화**
+  표준 기반 시스템에서 스프레드시트 제출을 통해 ODT 파일을 자동으로 생성합니다.
+
+* **대량 문서 변환**
+  Python API를 사용하여 대량의 XLS 파일을 편집 가능한 오픈 텍스트 문서로 변환합니다.
+
+* **통합 문서 처리**
+  자동 검토, 저장 및 게시 파이프라인에 XLS를 ODT로 변환하는 기능을 추가합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

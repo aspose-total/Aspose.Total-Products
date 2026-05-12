@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a XLAM trasforma il contenuto di Word in output di foglio di calcolo correlato a componenti aggiuntivi per scenari che coinvolgono funzionalità avanzate basate su Excel e componenti di automazione riutilizzabili. È utile quando la logica derivata dal documento o il contenuto strutturato devono supportare le estensioni dei fogli di calcolo.
+
+Le API Python possono semplificare i flussi di lavoro di conversione da DOC a XLAM, aiutando le organizzazioni a integrare la trasformazione dei documenti in ambienti di automazione avanzata dei fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Supporto per componenti aggiuntivi di foglio di calcolo**
+  Converti il contenuto del documento pertinente per i flussi di lavoro associati al deployment di componenti aggiuntivi di Excel.
+
+* **Imballaggio avanzato di automazione**
+  Supporta processi strutturati in cui il contenuto del documento alimenta funzionalità di foglio di calcolo riutilizzabili.
+
+* **Standardizzazione dei processi**
+  Riutilizza la documentazione formale trasformandola in risorse allineate ai flussi di lavoro avanzati dei fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Conversione orientata all'automazione**
+  Prepara programmaticamente output correlati a XLAM da sorgenti DOC in flussi di lavoro controllati.
+
+* **Pipeline riutilizzabili di logica per fogli di calcolo**
+  Converte le risorse basate su documenti in formati adatti alle operazioni avanzate di Excel.
+
+* **Integrazione dei flussi di lavoro aziendali**
+  Automatizza la trasformazione dei documenti per i team che utilizzano estensioni dei fogli di calcolo su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

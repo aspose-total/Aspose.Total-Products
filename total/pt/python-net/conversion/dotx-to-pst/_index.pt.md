@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para PST converte o conteúdo de modelos do Word em um formato de tabela de armazenamento pessoal associado a fluxos de trabalho de arquivamento de caixas de correio e mensagens. É útil quando o conteúdo de comunicação gerado precisa ser empacotado em estruturas de armazenamento de email portáteis.
+
+Usando APIs Python, essa conversão suporta automação em torno de arquivamento de email, organização de mensagens e retenção de comunicação em larga escala derivada de modelos de documentos estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Arquivamento de Email Portátil**
+  Empacote a comunicação derivada de documentos em um formato estruturado de armazenamento de email.
+
+* **Fluxos de Trabalho de Retenção de Mensagens**
+  Preserve as comunicações geradas para revisão e conformidade.
+
+* **Empacotamento de Comunicação**
+  Consolide mensagens reutilizáveis baseadas em documentos em resultados orientados a arquivamento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivo de Email**
+  Crie saídas PST a partir de conteúdo de comunicação baseado em DOTX em pipelines de retenção.
+
+* **Armazenamento em Massa de Mensagens**
+  Manipule grandes volumes de correspondência gerada por meio de arquivos estruturados.
+
+* **Automação de Documento para Arquivo**
+  Converta saídas recorrentes de modelos em ativos de caixa de correio portáteis programaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

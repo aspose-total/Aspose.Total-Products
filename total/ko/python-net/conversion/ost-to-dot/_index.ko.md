@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 OST를 DOT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST에서 DOT로의 변환은 메일함 내용을 문서 템플릿 형식으로 변환하여 조직이 이메일에서 파생된 정보를 재사용 가능한 템플릿으로 표준화할 수 있게 합니다. 이는 보관된 커뮤니케이션을 반복 가능한 문서 자산으로 전환해야 할 때 유용합니다.
+
+자동화 워크플로우에서 OST에서 DOT로의 변환은 보고서, 기록 및 공식 문서에 대한 일관된 출력 패턴을 만드는 데 도움을 줍니다. Python API는 확장 가능한 템플릿 중심 변환을 지원하여 메일함 내용을 반복 가능한 기업 문서 프로세스에 쉽게 삽입할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일 내용에서 템플릿 생성**  
+  이메일 데이터를 DOT 파일로 변환하여 재사용 가능한 문서 구조를 만듭니다.
+
+* **표준화된 보고 레이아웃**  
+  이메일에서 파생된 문서에 대한 일관된 형식이 필요한 조직을 지원합니다.
+
+* **문서 프레임워크**  
+  보관된 메일함 정보를 기반으로 템플릿 기반 자료를 준비하는 데 도움을 줍니다.
+
+* **프로세스 일관성**  
+  반복된 변환 출력이 사전 정의된 문서 패턴을 따르도록 보장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **재사용 가능한 템플릿 파이프라인**  
+  Python 자동화가 OST 내용을 DOT 템플릿으로 변환하여 반복 가능한 워크플로우를 구현합니다.
+
+* **구조화된 콘텐츠 배포**  
+  자동화 시스템이 템플릿 출력을 사용하여 일관된 문서 형식을 유지합니다.
+
+* **확장 가능한 문서 표준화**  
+  프로그래밍 방식 변환은 메일함 아카이브에서 대량 템플릿 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

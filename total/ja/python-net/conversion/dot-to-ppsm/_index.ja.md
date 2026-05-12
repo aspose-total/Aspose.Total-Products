@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から PPSM への変換は、文書テンプレートを高度なプレゼンテーション配信向けのマクロ対応スライドショーファイルに変換します。これは、直接再生のスライドショー出力が、対応環境で機能強化をサポートする必要がある場合に有用です。
+
+Python API を使用すると、DOT ソースから PPSM の生成を自動化でき、再現性を向上させ、より高度なプレゼンテーションワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応スライドショー作成**
+  高度なプレゼンテーション再生シナリオ向けに、DOT ファイルを PPSM に変換します。
+
+* **機能強化された表示**
+  埋め込み自動化やインタラクティブな動作をサポートするスライドショー出力を使用します。
+
+* **再利用可能なプレゼンテーション配信**
+  文書テンプレートを、制御された閲覧環境向けのプレゼンテーション用ファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された高度なスライドショー生成**
+  Python スクリプトは、繰り返しのプレゼンテーションニーズに対応するために、DOT コンテンツから PPSM ファイルを作成できます。
+
+* **インタラクティブな表示ワークフロー**
+  変換は、拡張機能を備えた文書主導のスライドショー作成をサポートします。
+
+* **スケーラブルなプレゼンテーション配信**
+  プログラム化されたパイプラインは、複数のユースケースにわたってマクロ対応スライドショーファイルを展開するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

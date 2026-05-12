@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCM do EMAIL w 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCM na EMAIL przygotowuje zawartość dokumentu z włączonymi makrami do użycia w przepływach pracy ukierunkowanych na e‑mail, ułatwiając przekształcenie informacji z dokumentu w gotowy do wysyłki komunikat. Jest to przydatne w powiadomieniach, podsumowaniach, zatwierdzeniach lub procesach komunikacyjnych opartych na treści dokumentu.
+
+W nowoczesnych zautomatyzowanych systemach konwersja DOCM na EMAIL pomaga połączyć tworzone dokumenty z kanałami komunikacji, umożliwiając skalowalną dystrybucję, szablonowe wiadomości oraz korespondencję wyzwalaną przez przepływy pracy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Powiadomienia oparte na dokumentach**
+  Przekształca zawartość dokumentu w materiał gotowy do wysyłki e‑mail w komunikacji operacyjnej.
+
+* **Przepływy zatwierdzania**
+  Umożliwia udostępnianie podsumowań pochodzących z dokumentu recenzentom i interesariuszom.
+
+* **Ponowne wykorzystanie treści w wiadomościach**
+  Ułatwia ponowne wykorzystanie formalnego tekstu dokumentu w kanałach komunikacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Generowanie wiadomości wyzwalane zdarzeniami**
+  Automatycznie tworzy treść e‑mail, gdy nowe pliki DOCM wchodzą do przepływu pracy.
+
+* **Kanały od dokumentu do komunikacji**
+  Łączy tworzoną treść z zautomatyzowanymi systemami wysyłki wiadomości.
+
+* **Skalowalne procesy dystrybucji**
+  Umożliwia masową kreację gotowych do wysyłki komunikatów z wielu dokumentów jednocześnie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

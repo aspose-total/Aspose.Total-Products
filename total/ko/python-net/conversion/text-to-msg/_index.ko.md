@@ -46,9 +46,46 @@ Python 개발자의 경우 응용 프로그램 내에서 TEXT를 MSG로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 텍스트를 MSG로 변환하면 일반적으로 이메일 저장 및 데스크톱 메시징 워크플로우에 사용되는 구조화된 메시지 파일로 평문 텍스트를 변환합니다. 이는 아카이빙, 처리 또는 이메일 중심 시스템과의 통합을 위해 휴대 가능한 메시지 객체가 필요한 조직에 중요합니다.
+
+자동화 관점에서 텍스트를 MSG 형식으로 변환하면 커뮤니케이션 자산을 표준화하고 파일 기반 메시지 생성을 간소화하며 보고, 알림 및 디지털 기록 보관을 위한 반복 가능한 워크플로우를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 메시지 파일 생성**  
+  평문 텍스트를 MSG 파일로 변환하여 조직된 이메일 형식 저장을 가능하게 합니다.
+
+* **커뮤니케이션 기록 관리**  
+  텍스트 커뮤니케이션을 독립적인 메시지 문서로 보존하는 데 도움이 됩니다.
+
+* **워크플로 기반 메시지 출력**  
+  시스템에서 생성된 텍스트로부터 메시지 파일을 자동으로 생성하는 것을 지원합니다.
+
+* **운영 보고 배포**  
+  보고서와 업데이트를 구조화된 메시지 자산으로 패키징할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **시스템 생성 메시지 파일**  
+  애플리케이션은 텍스트 출력물을 MSG 파일로 변환하여 다운스트림 처리에 사용할 수 있습니다.
+
+* **자동화된 아카이브 워크플로우**  
+  텍스트 기록을 인덱싱 및 보존을 위해 메시지 파일로 저장할 수 있습니다.
+
+* **파일 기반 알림 파이프라인**  
+  프로그래밍 워크플로우는 대규모 동적 텍스트 콘텐츠에서 MSG 자산을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

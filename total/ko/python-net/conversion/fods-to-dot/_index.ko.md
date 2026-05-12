@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS에서 DOT 변환은 평면 OpenDocument 스프레드시트 데이터를 Word 템플릿 파일로 변환하여 반복 문서에서 구조화된 콘텐츠가 표시되는 방식을 표준화하기 쉽게 합니다. 이는 조직이 레이아웃, 서식 및 문서 구조를 반복 보고 작업에 재사용하고자 할 때 특히 유용합니다.
+
+자동화 워크플로우에서 FODS를 DOT로 변환하면 템플릿 기반 문서 생성 및 반복 가능한 콘텐츠 생산을 지원합니다. Python API를 사용하면 팀이 구조화된 데이터 소스에서 템플릿 생성을 자동화하고 문서 표준화를 보다 넓은 디지털 프로세스에 통합할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **데이터에서 템플릿 생성**  
+  스프레드시트 기반 콘텐츠를 DOT 파일로 변환하여 재사용 가능한 문서 구조를 만듭니다.
+
+* **표준화된 보고 레이아웃**  
+  구조화된 소스 정보에서 생성된 반복 보고서를 위한 일관된 템플릿을 구축합니다.
+
+* **문서 서식 제어**  
+  DOT 출력물을 사용하여 여러 생성된 문서 전반에 걸쳐 일관된 스타일링과 레이아웃을 유지합니다.
+
+* **워크플로우 재사용성**  
+  데이터를 재사용 가능한 템플릿 자산으로 변환하여 반복적인 문서 생성 프로세스를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**  
+  Python 자동화를 통해 FODS 입력으로부터 표준화된 하위 사용을 위한 DOT 템플릿을 생성할 수 있습니다.
+
+* **반복 문서 생산**  
+  자동화 시스템은 주기적인 보고 및 운영 문서를 위해 생성된 템플릿을 재사용할 수 있습니다.
+
+* **대량 템플릿 변환**  
+  여러 FODS 파일을 하나의 자동화 워크플로우에서 템플릿 준비 형식으로 변환할 수 있습니다.
+
+* **대규모 형식 일관성**  
+  프로그래밍 방식 변환은 대량 프로세스 전반에 걸쳐 일관된 문서 외관을 유지하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

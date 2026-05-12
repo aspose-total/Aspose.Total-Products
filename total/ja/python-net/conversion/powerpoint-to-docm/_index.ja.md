@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による PowerPoint から DOCM への変換は、プレゼンテーションのコンテンツをマクロ対応の Word 文書形式にエクスポートできるようにします。これは、変換後に文書自動化、埋め込みマクロ、または高度なテンプレート駆動ワークフローが必要とされる環境で有用です。
+
+プレゼンテーション変換とプログラム可能な文書ロジックを連携させることで、この形式はより動的で繰り返し可能なビジネスプロセスを支援します。Word ベースのスクリプト、文書組み立て、または下流の編集に依存する自動化重視のシステムに適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応ドキュメント作成**
+  プレゼンテーションのコンテンツを高度な Word 自動化機能と互換性のある形式に変換します。
+
+* **テンプレートベースのコンテンツ配信**
+  変換されたコンテンツがマクロ駆動の文書テンプレートに挿入されるワークフローをサポートします。
+
+* **プロセス文書化**
+  スライド資料を、スクリプト化された書式設定や制御された操作が必要な文書へ移行するのに役立ちます。
+
+* **運用レポーティング**
+  定例レポートで自動化された Word 文書を使用するチーム向けに、編集可能な出力を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書組み立てパイプライン**
+  構造化された出版プロセスのために、プレゼンテーションから DOCM ファイルの作成を自動化します。
+
+* **ルール駆動の書式設定ワークフロー**
+  変換された文書がマクロベースの書式設定や検証をトリガーするシステムをサポートします。
+
+* **エンタープライズコンテンツ変換**
+  編集可能で自動化対応の Word 出力が必要な大規模変換パイプラインを強化します。
+
+* **スクリプトによるワークフロー拡張**
+  変換されたプレゼンテーションコンテンツがスクリプト化された文書操作に参加できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

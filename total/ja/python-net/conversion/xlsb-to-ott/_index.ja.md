@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から OTT への変換は、バイナリのスプレッドシート データをオープンドキュメントのテキストテンプレートに変換し、スプレッドシート由来のコンテンツに基づく再利用可能な文書構造を実現します。これは、チームがオープン エコシステムをサポートし、繰り返し可能な文書作成を可能にする標準化されたテンプレート形式を必要とする場合に特に有用です。
+
+自動化されたワークフローにおいて、XLSB から OTT への変換は、スケーラブルなテンプレート駆動システムの構築を支援し、構造化されたスプレッドシート情報を再利用可能なレイアウトに供給して、効率的で一貫性があり、プラットフォームに依存しない文書作成を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンテンプレート作成**  
+  スプレッドシートベースのソース素材から再利用可能なテキストテンプレートを生成します。
+
+* **繰り返し可能な文書設計**  
+  定期的なレポートや業務文書の標準レイアウトをサポートします。
+
+* **クロスプラットフォームテンプレート共有**  
+  オープンフォーマットのテンプレートを異なる環境間で使用できるようにします。
+
+* **構造化出力の再利用**  
+  スプレッドシートのコンテンツを再利用可能な文書フレームワークに変換するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  システムは XLSB データを OTT テンプレートに変換し、繰り返しの文書ワークフローに利用できます。
+
+* **大量テンプレート作成**  
+  複数のスプレッドシートソースを再利用可能なオープンフォーマットのテンプレートに処理できます。
+
+* **標準化された文書自動化**  
+  自動化されたワークフローは、テンプレートベースの出力を通じて一貫したレイアウトを保証できます。
+
+* **プラットフォーム非依存の処理**  
+  スプレッドシート駆動のテンプレートは、柔軟な文書エコシステム向けに生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

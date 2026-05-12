@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PPTM から Excel への変換により、マクロ対応のプレゼンテーション データを分析、追跡、業務処理のためのスプレッドシート環境に転送できます。スライドベースの表や指標、構造化されたコンテンツを、よりインタラクティブで計算可能な形にしたい場合に特に有用です。
+
+この変換は、プレゼンテーション情報を数式、検証、表形式処理に適した形式に移すことで、オートメーション ワークフローを強化します。プレゼンテーション コンテンツを運用スプレッドシートやレポート ワークフローに供給する必要があるシステムの効率を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **表形式データ移行**
+  プレゼンテーションから構造化されたコンテンツをスプレッドシートベースの環境へ移行します。
+
+* **運用レポート支援**
+  スライドデータを計算やパフォーマンス追跡に適した形式に変換します。
+
+* **ビジネスワークフロー統合**
+  プレゼンテーション コンテンツをスプレッドシート主導の計画や分析タスクと結びつけるのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スプレッドシート生成**
+  データ中心のビジネスワークフロー向けに、PPTM ファイルを Excel 出力に変換します。
+
+* **レポート パイプラインの有効化**
+  プレゼンテーション指標をスプレッドシートレポートに自動抽出することをサポートします。
+
+* **データ処理の自動化**
+  変換後のプログラムによる検証、強化、変換を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

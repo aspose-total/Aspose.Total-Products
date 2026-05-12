@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT vers XLT transforme les modèles de documents en fichiers de modèles de feuilles de calcul qui peuvent être réutilisés pour créer des classeurs de manière cohérente. Cela est précieux lorsque le contenu structuré d’un document doit servir de base réutilisable pour les flux de travail de feuilles de calcul.
+
+Avec les API Python, la génération de modèles XLT à partir de sources DOT peut être automatisée afin d’améliorer la standardisation et de réduire l’effort de conception répétitive des classeurs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles de feuilles de calcul réutilisables**
+  Convertir les fichiers DOT en modèles XLT pour la génération répétée de classeurs.
+
+* **Mises en page de données cohérentes**
+  Transformer les structures de documents en modèles de feuilles de calcul qui conservent le format et l’organisation.
+
+* **Standardisation opérationnelle**
+  Faciliter la création répétable de feuilles de calcul à partir de modèles de documents gérés de manière centralisée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Publication automatisée de modèles**
+  Des scripts Python peuvent générer des fichiers XLT à partir de documents DOT pour une utilisation opérationnelle récurrente.
+
+* **Flux de travail de classeurs standardisés**
+  La conversion prend en charge les systèmes qui nécessitent des modèles de feuilles de calcul cohérents à grande échelle.
+
+* **Génération massive de modèles**
+  Les processus programmatiques aident à créer de grandes bibliothèques de modèles de classeurs réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

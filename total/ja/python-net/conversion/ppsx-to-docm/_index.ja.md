@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX から DOCM への変換は、プレゼンテーション ファイルを編集可能なコンテンツと高度なドキュメント自動化機能をサポートするマクロ有効ドキュメントに変換します。スライドベースの情報をスクリプト化されたアクション、再利用可能なテンプレート、またはプロセス駆動型のドキュメント処理を可能にする形式に変換する必要がある場合に便利です。
+
+最新の自動化環境において、PPSX から DOCM への変換は、抽出されたプレゼンテーション コンテンツと Python API ベースの処理によるプログラム可能なドキュメント動作を組み合わせることで、インテリジェントなドキュメント ワークフローを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ有効ドキュメント作成**  
+  プレゼンテーション コンテンツを自動化アクションをサポートできるドキュメントに変換します。
+
+* **プロセス駆動型ドキュメンテーション**  
+  ドキュメント ロジックやスクリプトが必要な環境向けにファイルの準備を支援します。
+
+* **高度なコンテンツ再利用**  
+  プレゼンテーション資料を動的な作業ドキュメントに再利用できるようにします。
+
+* **ワークフロー対応出力**  
+  制御された内部プロセスに適した形式への変換をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ドキュメント組み立て**  
+  Python API を使用して PPSX コンテンツを変換し、マクロ有効ドキュメント ワークフロー用に準備できます。
+
+* **エンタープライズ ファイル標準化**  
+  自動化により、プレゼンテーション出力を内部運用向けに DOCM へ標準化できます。
+
+* **スクリプト対応コンテンツ配布**  
+  変換されたファイルは、ドキュメント自動化機能に依存するシステムを通じてルーティングできます。
+
+* **大量変換ジョブ**  
+  プログラムによる処理により、スケールでの PPSX から DOCM への繰り返し変換が可能になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

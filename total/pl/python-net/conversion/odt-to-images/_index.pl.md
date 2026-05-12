@@ -53,7 +53,47 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja ODT do obrazów przekształca strony dokumentu lub sekcje treści w formaty wizualne, które są łatwiejsze do podglądu, udostępniania, osadzania lub archiwizacji. Jest to szczególnie przydatne, gdy wierne odwzorowanie układu i dostępność wizualna są ważniejsze niż edytowalny tekst.
+
+Automatyzacja oparta na API Pythona sprawia, że konwersja ODT do obrazów jest skuteczna w generowaniu podglądów, publikacji treści i przepływów pracy związanych z wizualizacją dokumentów. Wspiera skalowalne tworzenie zasobów na poziomie stron dla sieci, przeglądu i procesów zatwierdzania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie podglądu dokumentu**  
+  Tworzy obrazy reprezentujące dokumenty, umożliwiając szybki podgląd bez otwierania pliku źródłowego.
+
+* **Zasoby publikacji internetowych**  
+  Tworzy treści wizualne odpowiednie dla portali, list lub osadzonych wyświetlaczy.
+
+* **Migawki archiwalne**  
+  Zachowuje wygląd strony w statycznej formie wizualnej.
+
+* **Wsparcie przeglądu i anotacji**  
+  Ułatwia przeglądanie dokumentów w przepływach pracy opartych na obrazach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki tworzenia miniatur**  
+  Przepływy pracy w Pythonie mogą generować obrazy podglądu dla nowo przesłanych dokumentów ODT.
+
+* **Masowe renderowanie stron**  
+  Duże kolekcje plików mogą być automatycznie renderowane na obrazy stron po stronie.
+
+* **Automatyzacja publikacji**  
+  Wyniki w postaci obrazów mogą zasilać strony internetowe, systemy zarządzania treścią lub narzędzia przeglądowe.
+
+* **Wizualne procesy zatwierdzania**  
+  Przekonwertowane strony mogą przechodzić przez procesy anotacji i zatwierdzania programowo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

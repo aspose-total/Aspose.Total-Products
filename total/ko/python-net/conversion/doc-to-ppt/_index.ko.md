@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+문서를 PPT로 변환하면 Word 콘텐츠를 편집, 슬라이드 구조화 및 시각적 스토리텔링을 지원하는 프레젠테이션 파일로 바꿉니다. 보고서, 제안서 및 지식 문서를 공유 가능한 프레젠테이션 자료로 재활용하는 데 유용합니다.
+
+Python API를 사용하면 DOC를 PPT로 변환하는 속도가 빨라지고 신뢰성이 향상되어 팀이 프레젠테이션 제작을 자동화하고 반복적인 디자인 작업을 줄일 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서-슬라이드 재활용**
+  비즈니스 사용을 위해 상세 문서를 편집 가능한 프레젠테이션으로 변환합니다.
+
+* **회의 및 교육 지원**
+  PPT 출력물을 사용하여 문서 인사이트를 보다 시각적인 형식으로 공유합니다.
+
+* **콘텐츠 재사용성**
+  기존 DOC 콘텐츠를 프레젠테이션 자산으로 전환하여 가치를 확장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **반복 프레젠테이션 생성**
+  주간 또는 월간 DOC 보고서를 자동으로 PPT 파일로 변환합니다.
+
+* **워크플로 기반 슬라이드 생성**
+  문서 변환을 내부 콘텐츠 제작 파이프라인에 통합합니다.
+
+* **대규모 콘텐츠 변환**
+  프로그램적으로 문서 라이브러리를 편집 가능한 프레젠테이션 출력물로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

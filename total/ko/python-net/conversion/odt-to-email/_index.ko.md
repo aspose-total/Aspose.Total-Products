@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 ODT를 EMAIL로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 이메일로 변환은 문서 내용을 이메일 준비 형식으로 변환하여 보고서, 공지, 요약 또는 서식이 지정된 텍스트를 메시징 워크플로를 통해 쉽게 공유할 수 있게 합니다. 이는 공식 문서를 직접 커뮤니케이션용으로 재활용해야 할 때 유용합니다.
+
+Python API를 사용하면 ODT에서 이메일로 변환을 자동 알림 시스템, 승인 흐름 및 문서 기반 커뮤니케이션 파이프라인에 통합할 수 있습니다. 정적 파일을 실행 가능한 발신 콘텐츠로 전환함으로써 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 기반 알림**  
+  작성된 콘텐츠를 이메일 친화적인 커뮤니케이션으로 변환합니다.
+
+* **보고서 배포**  
+  원본 문서에서 요약, 업데이트 또는 공지를 빠르게 공유할 수 있게 합니다.
+
+* **워크플로 커뮤니케이션**  
+  승인, 알림 및 상태 메시징 시나리오를 지원합니다.
+
+* **콘텐츠 재활용**  
+  문서 텍스트를 외부 또는 내부 서신에 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **트리거된 이메일 생성**  
+  시스템은 새 문서가 도착하면 ODT 파일을 자동으로 이메일 콘텐츠로 변환할 수 있습니다.
+
+* **승인 워크플로 메시징**  
+  Python 자동화는 문서 요약을 검토자 또는 이해관계자를 위한 메시지로 전환할 수 있습니다.
+
+* **대량 아웃리치 준비**  
+  여러 문서를 대규모로 발신 이메일 준비 콘텐츠로 변환할 수 있습니다.
+
+* **이벤트 기반 알림**  
+  문서 저장소의 변경 사항이 자동 변환 및 배포를 트리거할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to VCF 변환은 매크로가 포함된 문서 내용을 연락처 카드 파일로 변환하여 이름, 주소 및 통신 세부 정보를 연락처 관리 워크플로에서 더 쉽게 재사용할 수 있게 합니다. 문서에 구조화된 개인 또는 조직 연락처 정보가 포함된 경우에 유용합니다.
+
+자동화 및 확장성을 위해 DOCM to VCF 변환은 연락처 추출, 동기화된 주소록 업데이트 및 문서에 보관된 세부 정보를 휴대용 연락처 레코드로 반복적으로 변환하는 기능을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 정보 추출**
+  문서의 구조화된 연락처 세부 정보를 휴대용 카드 파일로 변환합니다.
+
+* **주소록 업데이트**
+  문서 기반 연락처 레코드를 연락처 관리 환경으로 이동하는 데 도움을 줍니다.
+
+* **휴대용 연락처 공유**
+  개인 또는 비즈니스 연락처 정보를 표준화된 방식으로 교환할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 연락처 생성**
+  연락처 데이터가 포함된 DOCM 문서에서 VCF 파일을 생성합니다.
+
+* **CRM 및 디렉터리 통합**
+  문서에서 파생된 연락처 레코드의 워크플로 기반 가져오기를 지원합니다.
+
+* **대량 연락처 변환**
+  여러 문서를 효율적으로 표준화된 연락처 파일로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

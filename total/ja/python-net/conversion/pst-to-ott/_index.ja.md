@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST to OTT 変換は、Python API においてメールボックスのコンテンツを再利用可能な書式設定と構造化文書生成をサポートするオープンドキュメントテンプレートに変換します。アーカイブされたコミュニケーションを運用またはレポートワークフロー向けの繰り返し可能なテンプレート資産に変換する必要がある場合に有用です。
+
+自動化環境では、PST から OTT への変換により、オープン標準を使用したテンプレート駆動型の出力生成が可能になります。メールアーカイブを一貫性、効率性、スケーラブルな文書作成を支える再利用可能なレイアウトに変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンテンプレート作成**
+  メールボックスから取得したコンテンツを OTT ファイルに変換し、再利用可能な文書構造を提供します。
+
+* **標準化された出力設計**
+  アーカイブされたコミュニケーションに基づく文書のレイアウトを一貫性を保って維持するのに役立ちます。
+
+* **テンプレート駆動型ドキュメンテーション**
+  繰り返し可能なフォーマットが必要な定常的なワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **再利用可能なオープンフォーマットワークフロー**
+  自動化システムは PST コンテンツから OTT テンプレートを生成し、繰り返し使用できます。
+
+* **一貫した文書組み立て**
+  テンプレートベースの出力は、メールボックス由来の文書を標準化するのに役立ちます。
+
+* **スケーラブルなレイアウト自動化**
+  プログラムによる変換は、再利用可能なオープンテンプレートの効率的な作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

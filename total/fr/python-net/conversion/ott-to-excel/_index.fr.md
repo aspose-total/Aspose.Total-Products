@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers Excel dans les API Python convertit les modèles de texte OpenDocument en classeurs compatibles avec les feuilles de calcul, facilitant l'analyse, l'organisation et la réutilisation du contenu des documents dans des environnements axés sur les données. Cela s'avère utile lorsque les informations textuelles nécessitent une présentation tabulaire ou des rapports d'entreprise.
+
+Cette conversion améliore l'automatisation en transférant le contenu des modèles vers des flux de travail de feuilles de calcul où les formules, filtres, validations et processus d'intégration peuvent fonctionner à grande échelle avec une intervention manuelle minimale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Structuration des données d'entreprise**  
+  Déplace le contenu du modèle sous forme de classeur pour examen et traitement.
+
+* **Réutilisation analytique**  
+  Facilite le tri, le filtrage et le calcul des informations dérivées du document.
+
+* **Rapports opérationnels**  
+  Prend en charge la transformation des modèles de texte en actifs de reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération récurrente de classeurs**  
+  Convertit les fichiers OTT standard en sorties Excel lors d'exécutions planifiées.
+
+* **Pipelines d'enrichissement des données**  
+  Combine le contenu extrait du document avec les formules et règles de la feuille de calcul.
+
+* **Distribution automatisée**  
+  Produit des sorties de classeur pour les équipes, les systèmes ou les processus de reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から ODP への変換は、ワードプロセッシングのコンテンツを標準指向の環境でスライドベースのコミュニケーション向けの OpenDocument プレゼンテーションファイルに変換します。これは、物語的な文書を会議、研修、情報共有のための構造化されたビジュアルプレゼンテーションに適応させる必要がある場合に有用です。
+
+自動化ワークフローにおいて、この変換は既存の文書資産を配布、編集、チーム間で再利用可能なプレゼンテーション対応フォーマットに変換することで、スケーラブルなコンテンツ再利用を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **文書からのプレゼンテーション作成**
+  書かれたコンテンツを視覚的コミュニケーション向けのスライドフレンドリーなファイルに変換します。
+
+* **オープンスタンダードでの協働**
+  OpenDocument ベースのプレゼンテーション環境を使用するチームをサポートします。
+
+* **研修・ブリーフィングの準備**
+  レポートや要約を再利用可能なプレゼンテーション資料に転用します。
+
+* **コンテンツ再フォーマットの効率化**
+  文書作成からスライド配信への移行時の手作業を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドデック生成**
+  定期的な Word レポートを内部配布用の ODP プレゼンテーションに変換します。
+
+* **バッチプレゼンテーションワークフロー**
+  標準化された文書テンプレートから大規模にスライドファイルを生成します。
+
+* **クロスプラットフォーム出版**
+  混在した生産性環境向けにオープンフォーマットのプレゼンテーション出力を可能にします。
+
+* **会議準備パイプライン**
+  完成した文書をレビューやブリーフィング用のプレゼンテーション資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

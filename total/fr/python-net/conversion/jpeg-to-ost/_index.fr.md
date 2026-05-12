@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de JPEG en OST à l'aide des API Python prend en charge la transformation de contenus basés sur des images en données adaptées aux flux de travail de stockage de boîtes aux lettres hors ligne. Cela peut être pertinent dans les scénarios d'entreprise où les enregistrements de communication visuelle doivent être intégrés aux environnements de boîtes aux lettres synchronisées pour l'accès, la continuité ou la préservation.
+
+L'automatisation aide les organisations à gérer ces conversions plus efficacement en réduisant les efforts manuels et en permettant une gestion structurée des actifs de communication dérivés d'images au sein de processus de gestion de boîtes aux lettres plus larges.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation de boîte aux lettres hors ligne**
+  Convertir les actifs de communication basés sur JPEG pour les inclure dans les flux de travail de stockage d'e‑mails hors ligne.
+
+* **Préservation des enregistrements visuels**
+  Représenter le contenu image dans une structure orientée boîte aux lettres pour une conservation et un accès organisés.
+
+* **Gestion des données d'entreprise**
+  Prendre en charge les flux de travail où la communication dérivée d'images doit s'aligner sur les pratiques de stockage des boîtes aux lettres.
+
+* **Soutien à la continuité et à l'accès**
+  Conserver les enregistrements basés sur des images dans des formats adaptés aux environnements de travail synchronisés ou déconnectés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de l'archivage d'entreprise**
+  Les API Python peuvent prendre en charge des flux de travail de conversion structurés pour intégrer le contenu JPEG aux processus de stockage des boîtes aux lettres.
+
+* **Préparation massive de données**
+  De grandes collections d'images peuvent être traitées programmatiquement pour des tâches de conservation orientées boîte aux lettres.
+
+* **Pipelines de soutien à la migration**
+  La conversion automatisée peut aider les projets impliquant le déplacement ou la restructuration des enregistrements de communication.
+
+* **Synchronisation des enregistrements opérationnels**
+  Les systèmes peuvent intégrer les actifs visuels dans des flux de travail plus larges de gestion et de préservation automatisées des boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

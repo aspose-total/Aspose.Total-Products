@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から PowerPoint への変換は、Word テンプレートのコンテンツをコミュニケーション、トレーニング、レポーティング、ビジュアルストーリーテリング向けのプレゼンテーション用出力に変換します。テキスト中心の文書をスライド形式に再利用して、より広範なプレゼンテーションで使用したい場合に便利です。
+
+Python API を使用すると、この変換により構造化テンプレートからプレゼンテーション資産を自動的に作成でき、手作業の再作業を削減し、繰り返し発生するコンテンツワークフロー全体のスケーラビリティを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ドキュメントからスライドへの再利用**
+  構造化された文書コンテンツを会議やブリーフィング用のプレゼンテーション資料に変換します。
+
+* **ビジュアルコミュニケーションワークフロー**
+  テキスト中心のテンプレートをプレゼンテーション用資産に変換します。
+
+* **トレーニングとレポーティングのサポート**
+  文書の知識をスライドデッキで再利用し、社内外のコミュニケーションに活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動デッキ生成**
+  レポートパイプライン内で DOTX テンプレートから PowerPoint 互換の出力を生成します。
+
+* **スケーラブルなプレゼンテーション組み立て**
+  文書ベースのコンテンツから繰り返し使用されるプレゼンテーションを自動的に構築します。
+
+* **テンプレート駆動型コンテンツ配信**
+  承認済み文書を標準化された配信用のプレゼンテーション出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

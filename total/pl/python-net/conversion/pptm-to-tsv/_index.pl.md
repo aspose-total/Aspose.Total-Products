@@ -64,7 +64,41 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja PPTM do TSV przy użyciu interfejsów API Pythona konwertuje dane prezentacji z włączonymi makrami do formatu tekstowego rozdzielanego tabulacjami, zoptymalizowanego pod prostą wymianę danych strukturalnych. Jest to przydatne, gdy tabele ze slajdów lub wyodrębnione rekordy muszą być przeniesione do systemów preferujących formaty tekstowe oparte na separatorach.
+
+Konwersja jest dobrze dopasowana do automatyzacji, ponieważ pliki TSV są łatwe do generowania, parsowania, walidacji i importowania do analiz lub przepływów pracy ETL. Pomaga uprościć przepływ danych ze źródeł prezentacji do systemów downstream bez dużego narzutu formatowania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport danych strukturalnych**
+  Konwertuje dane oparte na slajdach do prostego, kolumnowego formatu tekstowego do przetwarzania.
+
+* **Wymiana danych system‑do‑systemu**
+  Ułatwia przenoszenie danych pochodzących z prezentacji pomiędzy skryptami i aplikacjami.
+
+* **Lekkie przechowywanie danych**
+  Przechowuje wyodrębnioną zawartość tabel w zwartej i maszynowo czytelnej formie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Generowanie danych wejściowych ETL**
+  Tworzy pliki TSV z prezentacji w celu automatycznego wprowadzania ich do potoków danych.
+
+* **Masowa transformacja danych**
+  Obsługuje eksport danych z prezentacji na dużą skalę do tekstowych wyjść opartych na separatorach.
+
+* **Przepływy walidacji i parsowania**
+  Umożliwia wydajne, zautomatyzowane przetwarzanie skonwertowanych rekordów w różnych systemach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

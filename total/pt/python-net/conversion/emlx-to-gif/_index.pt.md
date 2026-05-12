@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de EMLX para GIF em Python permite que o conteúdo de e‑mail seja transformado em arquivos de imagem leves, adequados para pré‑visualizações, compartilhamento e arquivamento visual. Isso é útil quando o conteúdo da mensagem precisa ser representado como gráficos simples, fáceis de distribuir e exibir.
+
+Para fluxos de trabalho orientados por automação, converter EMLX para GIF possibilita a geração eficiente de pré‑visualizações, o manuseio de saídas compactas e processos de conversão visual repetíveis. Ele suporta sistemas escaláveis onde o conteúdo baseado em e‑mail precisa ser apresentado rapidamente em formato de imagem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Pré‑visualizações Visuais Leves**  
+  Converta arquivos EMLX em imagens GIF para exibição e revisão rápidas.
+
+* **Saídas de Compartilhamento Simples**  
+  Distribua conteúdo derivado de e‑mail como arquivos de imagem compactos entre sistemas.
+
+* **Arquivamento Visual**  
+  Preserve instantâneos de mensagens em um formato de imagem amplamente suportado.
+
+* **Integração com Painéis**  
+  Utilize as saídas GIF em interfaces de monitoramento ou pré‑visualização de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Pré‑visualizações em Escala**  
+  Automatize a criação de GIFs a partir de arquivos EMLX para grandes arquivos de e‑mail.
+
+* **Pipelines de Revisão Baseados em Imagem**  
+  Encaminhe arquivos GIF convertidos para fluxos de aprovação, controle de qualidade ou indexação.
+
+* **Entrega de Saídas Compactas**  
+  Use scripts Python para produzir ativos visuais leves a partir de mensagens.
+
+* **População Automatizada de Repositório**  
+  Alimente sistemas de conteúdo com pré‑visualizações GIF geradas a partir de arquivos de e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

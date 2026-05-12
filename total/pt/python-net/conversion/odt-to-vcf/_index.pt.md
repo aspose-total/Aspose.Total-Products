@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODT para VCF transforma informações de contato ou perfil baseadas em documentos em um formato padrão de cartão de contato adequado para agendas e sistemas de gerenciamento de contatos. Isso é útil quando os documentos contêm detalhes de contato pessoais ou organizacionais estruturados.
+
+As APIs Python permitem a conversão de ODT para VCF em fluxos de trabalho automatizados de extração, migração e sincronização de contatos. Elas ajudam as organizações a transformar registros de texto estáticos em dados de contato reutilizáveis com maior rapidez e precisão.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Informações de Contato**  
+  Converte nomes, números e endereços de documentos em cartões de contato.
+
+* **Suporte à Migração de Diretórios**  
+  Ajuda a mover dados de contato de documentos de texto para agendas estruturadas.
+
+* **Padronização de Perfis**  
+  Transforma listagens informais de contato em registros digitais reutilizáveis.
+
+* **Preparação para CRM**  
+  Suporta ingestão mais limpa de dados de contato em sistemas empresariais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Análise Automatizada de Contato**  
+  Scripts Python podem identificar campos de contato em arquivos ODT e gerar saídas VCF.
+
+* **Conversão em Massa de Diretórios**  
+  Grandes listas de contato podem ser transformadas em cartões reutilizáveis em trabalhos em lote.
+
+* **Fluxos de Trabalho de Sincronização**  
+  Contatos convertidos podem alimentar pipelines de importação para agendas e sistemas relacionados.
+
+* **Preparação para Enriquecimento de Dados**  
+  Saídas VCF estruturadas podem apoiar processos de validação e integração subsequentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

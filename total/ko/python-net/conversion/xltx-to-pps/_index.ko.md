@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX에서 PPS로 변환은 스프레드시트 템플릿 내용을 직접 프레젠테이션 재생을 위한 슬라이드 쇼 형식으로 변환합니다. 이는 구조화된 스프레드시트 기반 정보를 추가 편집 없이 바로 실행 가능한 프레젠테이션 자료로 배포해야 할 때 유용합니다.
+
+자동화된 워크플로에서 XLTX에서 PPS로의 변환은 템플릿 기반 스프레드시트 내용을 재생 준비가 된 슬라이드 쇼로 전환하여 일관되게 생성하고 보고 또는 교육 시스템 전반에 배포함으로써 프레젠테이션 전달을 간소화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **재생 준비된 프레젠테이션 출력**  
+  스프레드시트 템플릿을 즉시 표시하도록 설계된 슬라이드 쇼로 변환합니다.
+
+* **자동 브리핑 배포**  
+  구조화된 콘텐츠를 회의 또는 교육용 프레젠테이션 파일로 전달하는 것을 지원합니다.
+
+* **시각적 보고 간소화**  
+  템플릿 기반 정보를 보다 직접적이고 접근하기 쉬운 형식으로 제공하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **예약된 슬라이드 쇼 생성**  
+  시스템은 정기적인 프레젠테이션을 위해 XLTX 템플릿에서 PPS 파일을 자동으로 생성할 수 있습니다.
+
+* **직접 프레젠테이션 전달 파이프라인**  
+  이 주제는 즉시 재생을 목표로 하는 파일을 생성하는 워크플로를 지원합니다.
+
+* **프로그래밍 방식 방송 콘텐츠 생성**  
+  동적 변환을 통해 대규모로 디스플레이 준비가 된 슬라이드 쇼 자산을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

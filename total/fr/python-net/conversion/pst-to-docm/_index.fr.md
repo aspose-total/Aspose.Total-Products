@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST vers DOCM dans les API Python permet d'exporter les données de boîte aux lettres vers des documents Word à macros activées pour des flux de travail documentaires avancés. Cela est utile lorsque le contenu des e‑mails archivés doit être combiné avec un comportement de document automatisé, une mise en forme structurée ou une logique de modèle contrôlée.
+
+Dans les systèmes d'automatisation modernes, la conversion PST vers DOCM prend en charge les processus de génération de documents qui dépendent d'actions dynamiques, de formulaires réutilisables ou de modèles à macros préconstruits. Elle aide à connecter les archives de communication aux opérations documentaires d'entreprise basées sur des règles.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Sortie de document à macros activées**
+  Exporte le contenu de la boîte aux lettres vers DOCM pour les flux de travail qui reposent sur l'automatisation de documents intégrée.
+
+* **Assemblage structuré d’enregistrements**
+  Facilite la combinaison des données de messages avec des modèles Word avancés et leur logique.
+
+* **Normalisation des documents opérationnels**
+  Prend en charge une mise en forme cohérente du contenu dérivé des e‑mails dans des fichiers d'entreprise contrôlés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Pipelines d’automatisation de modèles**
+  Les données PST peuvent être acheminées vers des modèles DOCM pour une création de documents récurrente.
+
+* **Insertion de contenu guidée par des règles**
+  Les systèmes automatisés peuvent remplir les fichiers à macros avec le contenu sélectionné de la boîte aux lettres.
+
+* **Flux de documentation d’entreprise**
+  La conversion programmatique permet aux communications archivées d’alimenter des processus documentaires avancés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

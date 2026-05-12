@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から PowerPoint への変換は、文書テンプレートをコミュニケーション、トレーニング、レポート作成のためのスライドプレゼンテーションファイルに変換します。構造化された書面コンテンツを、より広い利用者向けにプレゼンテーション形式に再利用する必要がある場合に便利です。
+
+Python API を使用すると、この変換を自動化でき、コンテンツ変換を加速し、一貫性を向上させ、文書リポジトリからのスケーラブルなプレゼンテーション生成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **文書からプレゼンテーションへの再利用**
+  DOT テンプレートを会議やブリーフィング用の PowerPoint 互換スライドに変換します。
+
+* **トレーニング資料の作成**
+  再利用可能な文書コンテンツを指導用のプレゼンテーション資産に変換します。
+
+* **レポートと要約**
+  ステークホルダーに適したビジュアル形式で文書由来の情報を提示します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドデッキ生成**
+  Python スクリプトは、定期的なコミュニケーションニーズ向けに DOT ファイルを PowerPoint 出力に変換できます。
+
+* **プレゼンテーションワークフロー統合**
+  変換は、文書をスライドデッキとして公開するコンテンツパイプラインをサポートします。
+
+* **スケーラブルなビジュアルコンテンツ配信**
+  プログラムによる処理により、テンプレートライブラリからプレゼンテーションを大量に生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

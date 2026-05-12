@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLTM para RTF em Python permite que modelos de Excel com macros sejam transformados em documentos de texto rico que equilibram suporte de formatação com ampla compatibilidade. Isso é útil quando o conteúdo baseado em pastas de trabalho precisa ser compartilhado em um formato de documento de texto que permanece flexível em diferentes aplicativos.
+
+Em fluxos de trabalho automatizados, a conversão de XLTM para RTF suporta a portabilidade de conteúdo, simplifica o manuseio de documentos multiplataforma e ajuda a padronizar a geração de texto formatado a partir de modelos de planilhas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Saída de Texto Formatado**  
+  Converte o conteúdo do modelo de planilha em documentos de texto rico que preservam a estrutura básica de formatação.
+
+* **Compartilhamento entre Aplicações**  
+  Suporta a troca de documentos entre sistemas que exigem um formato de texto flexível e amplamente legível.
+
+* **Documentação Baseada em Modelos**  
+  Ajuda a gerar documentos de texto legíveis a partir de modelos de pastas de trabalho estruturados para necessidades de arquivamento ou edição.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Texto Rico**  
+  Produz arquivos RTF a partir de modelos XLTM em fluxos de trabalho de criação de documentos repetíveis.
+
+* **Pipelines de Documentos Compatíveis com Legado**  
+  Suporta ambientes que dependem de saídas de texto formatado amplamente compatíveis.
+
+* **Conversão em Massa de Documentos de Texto**  
+  Permite a transformação escalável de modelos de pastas de trabalho em arquivos de texto rico para uso posterior.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

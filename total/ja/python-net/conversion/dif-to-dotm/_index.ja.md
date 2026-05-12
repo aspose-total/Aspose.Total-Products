@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における DIF から DOTM への変換は、構造化された DIF データを再利用可能で自動化対応の文書フレームワーク向けのマクロ有効 Word テンプレートに変換することを可能にします。組織が埋め込みロジックやアクションを持つテンプレートに依存している場合に特に有用です。
+
+DIF から DOTM への変換のために Python API を使用することで、構造化入力の処理とマクロ有効な出力生成を組み合わせ、スケーラブルなテンプレート自動化をサポートします。標準化され、ワークフローを意識した繰り返し可能な文書システムの構築に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ有効テンプレート作成**
+  組み込みの自動化機能を使用する文書システム向けに、DIF データを DOTM テンプレートに変換します。
+
+* **高度な内部文書化**
+  スクリプト化された動作やガイド付きアクションを備えた再利用可能なテンプレートが必要な部門を支援します。
+
+* **大量文書の標準化**
+  繰り返し行われる業務または管理文書の作成のために、マクロ対応テンプレートを構築します。
+
+* **構造化ワークフローテンプレート**
+  レイアウトの一貫性と文書インテリジェンスの両方が求められる環境で、変換された DOTM ファイルを使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートファクトリー自動化**
+  複数のビジネスシナリオ向けに、DIF データセットから DOTM テンプレートを自動的に生成します。
+
+* **マクロ対応出力パイプライン**
+  変換を、下流の自動化のために文書資産を準備する Python ワークフローに統合します。
+
+* **大量テンプレート提供**
+  エンタープライズテンプレートライブラリ向けに、多数の DOTM ファイルをプログラムで生成します。
+
+* **データからテンプレートへの変換**
+  構造化された DIF ソースを、手動での作成なしに再利用可能で自動化対応のテンプレートに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

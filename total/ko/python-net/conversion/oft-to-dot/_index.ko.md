@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 DOT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 DOT로의 변환은 Outlook 이메일 템플릿을 표준화된 문서 작성을 위한 레거시 워드 템플릿 파일로 변환할 수 있게 합니다. 이는 조직이 재사용 가능한 문서 구조에 의존하고 메시지 콘텐츠를 템플릿 기반 형식으로 변환해야 할 때 유용합니다.
+
+자동화 중심 환경에서는 OFT에서 DOT로의 변환이 이메일에서 파생된 콘텐츠를 반복 가능한 문서 생성 프로세스와 정렬하도록 돕습니다. 이는 일관성을 향상시키고, 템플릿 거버넌스를 지원하며, 하위 생성 작업을 단순화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 문서 템플릿 생성**  
+  고정된 구조를 기반으로 반복적인 문서 생성을 위해 OFT 콘텐츠를 DOT 파일로 변환합니다.
+
+* **레거시 워크플로 호환성**  
+  비즈니스 운영을 위해 여전히 오래된 워드 템플릿 형식에 의존하는 시스템을 지원합니다.
+
+* **표준화된 콘텐츠 배포**  
+  생성된 문서 전반에 일관된 서식을 유지하는 템플릿 준비 파일을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 라이브러리**  
+  Python API를 사용하여 OFT 콘텐츠에서 문서 템플릿 저장소를 구축하고 유지합니다.
+
+* **일관된 양식 생성**  
+  반복되는 보고서나 양식을 생성하는 자동화 시스템에서 변환된 DOT 파일을 사용합니다.
+
+* **구조화된 콘텐츠 변환**  
+  확장 가능한 운영 워크플로를 위해 이메일 템플릿을 재사용 가능한 문서 패턴으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

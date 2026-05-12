@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS から DOCM への変換は、スプレッドシートファイルをマクロ対応のワードプロセッシング文書に変換します。これにより、スプレッドシートデータを自動化スクリプトや高度な文書機能をサポートする文書に埋め込むことができます。
+
+Python API を使用すると、ODS から DOCM への変換をマクロ対応文書を生成する自動化システムに統合できます。これにより、動的な文書処理、大規模な変換、そしてエンタープライズの自動化環境への統合が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **マクロ対応文書の作成**  
+  スプレッドシートの内容を自動化マクロをサポートできる文書に変換します。
+
+* **自動化文書テンプレート**  
+  スプレッドシートベースのデータをマクロ駆動の文書ワークフローに変換します。
+
+* **データ駆動型文書化**  
+  スプレッドシートのデータセットをマクロ対応レポートに統合します。
+
+* **高度な文書処理**  
+  スプレッドシートソースから生成された文書に埋め込まれた自動タスクをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化ワークフロードキュメント**  
+  システムはスプレッドシートから DOCM ファイルを生成し、マクロ駆動の処理を行います。
+
+* **エンタープライズレポート自動化**  
+  スプレッドシートのデータはマクロ対応文書に変換され、自動分析に使用されます。
+
+* **動的文書生成**  
+  Python パイプラインはスプレッドシート入力に基づいてマクロ対応文書を作成します。
+
+* **バッチマクロ文書処理**  
+  自動化サービスは大量の ODS ファイルを DOCM 文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

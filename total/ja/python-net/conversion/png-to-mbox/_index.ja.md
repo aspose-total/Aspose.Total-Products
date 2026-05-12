@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG から MBOX への変換により、画像ベースのコンテンツをメールボックスアーカイブファイルに組み込むことができ、視覚的なコミュニケーション記録をメールの保存や移行で広く使用される形式に統合しやすくなります。これは、画像由来のメッセージを大量のメールアーカイブで保存または転送する必要がある組織にとって有用です。
+
+Python API を使用することで、チームは PNG 入力から MBOX の生成を自動化でき、一貫性の向上・大量処理のサポート・アーカイブ、移行、データ保持ワークフローとの統合を簡素化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **メールボックスアーカイブ作成**  
+  PNG ベースのコミュニケーションコンテンツを長期保存用の MBOX アーカイブに変換します。
+
+* **大量メールデータのパッケージ化**  
+  画像由来のメッセージを単一のメールボックスファイルにまとめ、持ち運びやレビューを容易にします。
+
+* **移行ワークフローのサポート**  
+  視覚コンテンツから生成されたアーカイブ済みメールボックス出力を必要とするメール移行プロジェクトを支援します。
+
+* **集中メッセージ保存**  
+  視覚的なコミュニケーション記録を統合されたメールボックスコンテナに保持できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチアーカイブ生成**  
+  Python API を使用して、大量の PNG コンテンツから MBOX ファイルの作成を自動化できます。
+
+* **保持ポリシー ワークフロー**  
+  システムは画像ベースの記録をメールボックスアーカイブに変換し、構造化された保持およびコンプライアンスプロセスを実現します。
+
+* **メールボックスインポート準備**  
+  自動化パイプラインは、下流のメールシステムへの取り込み用に MBOX 出力を準備できます。
+
+* **コンテンツ統合プロセス**  
+  組織はプログラム的なワークフローを通じて、PNG 派生メッセージを動的に結合し、統一された MBOX アーカイブにまとめることができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から OTT への変換は、マクロ対応スプレッドシートの内容を、繰り返し可能な文書作成に使用されるオープンドキュメントテキストテンプレート形式に変換します。これは、スプレッドシートデータを標準ベースの文書ワークフローで再利用可能なテンプレートの基盤にする必要がある場合に便利です。
+
+オートメーション重視のシステムでは、OTT 変換は一貫した書式設定、再利用可能な構造、そして大規模な文書生成を支援します。Python API を使用すると、XLSM ファイルからテンプレート資産を自動的に作成し、運用、レポート、文書化ワークフローに組み込むことが可能です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **オープンテンプレート作成**
+  スプレッドシートの内容をオープン標準に基づく再利用可能な文書テンプレートに変換します。
+
+* **標準化された文書化**
+  頻繁に生成される文書全体で一貫した構造を維持するのに役立ちます。
+
+* **テンプレート駆動プロセス**
+  スプレッドシートから取得した情報を元に、繰り返し可能な文書ワークフローをサポートします。
+
+* **クロスプラットフォーム再利用性**
+  オープンで相互運用可能な環境で使用できるテンプレート資産を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="オートメーションシナリオ" %}}
+
+* **自動テンプレート生成**
+  Python API を使用して、XLSM ファイルを繰り返し使用される文書ワークフロー向けの OTT テンプレートに変換できます。
+
+* **再利用可能なコンテンツパイプライン**
+  スプレッドシート入力を標準化されたテンプレートに変換し、下流のオートメーションに活用できます。
+
+* **バッチテンプレート処理**
+  大量の XLSM ファイルをプログラムで OTT 資産に変換できます。
+
+* **オープンワークフロー統合**
+  OTT 出力を、再利用可能なテンプレートから一貫した文書を生成するシステムに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

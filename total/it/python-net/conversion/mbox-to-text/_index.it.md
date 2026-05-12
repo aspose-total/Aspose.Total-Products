@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MBOX a TEXT trasforma gli archivi di caselle di posta in file di testo semplice, rendendo il contenuto delle email leggero, ricercabile e facile da elaborare su molti sistemi. È ideale per flussi di lavoro incentrati sull'estrazione di contenuti grezzi, indicizzazione o semplice archiviazione a lungo termine.
+
+Utilizzando le API Python, le organizzazioni possono automatizzare la conversione del testo da file MBOX per supportare analisi, pipeline di ricerca e processi di normalizzazione dei contenuti su larga scala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione di contenuto semplice**
+  Converti le email in file di testo per una lettura semplice e per l'elaborazione a valle.
+
+* **Prontezza per ricerca e indicizzazione**
+  Prepara i dati della casella di posta per l'indicizzazione, l'analisi e i flussi di lavoro di analisi testuale.
+
+* **Archiviazione leggera**
+  Conserva il contenuto dei messaggi in un formato minimale, facile da archiviare e trasferire.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Normalizzazione automatica del testo**
+  Trasforma gli archivi di caselle di posta in testo semplice per un'elaborazione dei dati coerente.
+
+* **Integrazione nella pipeline di ricerca**
+  Alimenta i file di testo convertiti nei sistemi di indicizzazione, recupero o classificazione.
+
+* **Estrazione di contenuti in blocco**
+  Usa Python per elaborare grandi collezioni di MBOX in output di testo strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

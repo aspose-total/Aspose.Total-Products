@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji WORDML do ICS w 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja WordML do formatu ICS konwertuje informacje dokumentu na dane kompatybilne z kalendarzem, które mogą wspierać planowanie, przypomnienia i przepływy pracy oparte na wydarzeniach. Jest to przydatne, gdy szczegóły spotkań, harmonogramy lub pozycje agendy przechowywane w dokumentach muszą zostać przekształcone w wpisy kalendarza.
+
+Korzystając z interfejsów API Pythona, konwersję WordML do formatu ICS można zautomatyzować, aby wyodrębniać informacje o wydarzeniach i generować wielokrotnego użytku pliki kalendarza dla systemów planowania i automatyzacji procesów opartych na czasie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja wydarzeń**
+  Konwertuje treści związane z harmonogramem z plików WordML na dane w formacie ICS gotowe do importu do kalendarza.
+
+* **Wsparcie przepływu pracy spotkań**
+  Przekształca agendy lub dokumenty planistyczne w rekordy wydarzeń możliwe do importu.
+
+* **Interoperacyjność kalendarzy**
+  Umożliwia przenoszenie treści dokumentów do platform planowania przy użyciu standardowego formatu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie plików kalendarza**
+  Tworzy pliki ICS z dokumentów spotkań lub wydarzeń w formacie WordML w powtarzalnych przepływach pracy.
+
+* **Synchronizacja harmonogramu**
+  Integruje szczegóły wydarzeń oparte na dokumentach z pipeline'ami importu kalendarza.
+
+* **Automatyzacja przypomnień i planowania**
+  Wspiera programowe tworzenie rekordów czasowo ograniczonych z ustrukturyzowanej treści dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

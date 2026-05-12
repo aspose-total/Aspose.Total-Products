@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TSV a DOTM trasforma dati tabulari strutturati in formati di modello di documento abilitati alle macro che supportano flussi di lavoro documentali ripetibili e avanzati. È preziosa quando le organizzazioni hanno bisogno di modelli coerenti con un comportamento documentale migliorato per output strutturati.
+
+Utilizzando le API Python, questa conversione può essere integrata in pipeline automatizzate che generano file pronti per i modelli a partire da sorgenti TSV, contribuendo a migliorare la standardizzazione dei documenti e l'efficienza dei processi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Modelli abilitati alle macro**  
+  **Consente la creazione di modelli di documento avanzati e riutilizzabili a partire dal contenuto TSV.**
+
+* **Standardizzazione dell'output strutturato**  
+  **Aiuta a mantenere schemi documentali uniformi nei casi d'uso aziendali ricorrenti.**
+
+* **Pubblicazione di dati basata su modelli**  
+  **Consente a set di dati strutturati di alimentare processi di generazione di documenti controllati.**
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione ricorrente di modelli**  
+  **L'automazione può creare output pronti per DOTM da esportazioni TSV programmate.**
+
+* **Flussi di lavoro documentali avanzati**  
+  **Le API Python possono integrare la trasformazione dei dati con sistemi di modelli dotati di macro.**
+
+* **Processi di conversione scalabili**  
+  **Input TSV di grandi volumi possono essere convertiti in file DOTM come parte di operazioni automatizzate.**
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

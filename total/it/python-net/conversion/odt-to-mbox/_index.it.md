@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a MBOX trasforma il contenuto del documento in un formato stile casella di posta adatto per l'archiviazione di messaggi raggruppati e i flussi di lavoro di archiviazione. Questo è utile quando il testo del documento deve essere confezionato per un'archiviazione simile a quella email, migrazione o consolidamento dei record.
+
+Utilizzando le API Python, la conversione da ODT a MBOX può essere integrata in pipeline automatizzate di archiviazione e comunicazione. Supporta una trasformazione coerente del contenuto del documento in contenitori orientati ai messaggi per l'elaborazione a valle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione archivio casella di posta**  
+  Converte i documenti in un formato adatto per l'archiviazione di messaggi raggruppati.
+
+* **Imballaggio dei record di comunicazione**  
+  Aiuta a organizzare i contenuti derivati dai documenti insieme ad archivi orientati alle email.
+
+* **Supporto alla migrazione**  
+  Facilita lo spostamento dei contenuti in repository basati su messaggi.
+
+* **Consolidamento di contenuti in blocco**  
+  Consente l'archiviazione raggruppata di più elementi convertiti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Flussi di lavoro per la generazione di archivi**  
+  I job Python possono convertire più file ODT in output in stile casella di posta automaticamente.
+
+* **Supporto al pipeline di conservazione**  
+  I sistemi automatizzati possono archiviare i messaggi derivati dai documenti in archivi a lungo termine.
+
+* **Operazioni di imballaggio in blocco**  
+  Grandi lotti di documenti possono essere raggruppati in file casella di posta trasferibili.
+
+* **Automazione della migrazione dei contenuti**  
+  Le pipeline di conversione possono preparare i record per sistemi che si basano su contenitori di casella di posta.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

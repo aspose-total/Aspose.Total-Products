@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 OTT로의 변환은 스프레드시트 기반 콘텐츠를 반복 가능하고 구조화된 텍스트 문서 작성을 위해 설계된 오픈 문서 템플릿 형식으로 변환합니다. 이는 스프레드시트 정보가 보고서, 공지, 요약 또는 표준화된 내부 문서용 재사용 가능한 템플릿을 채워야 할 때 유용합니다.
+
+Python API를 사용하면 SXC에서 OTT로의 변환이 템플릿 중심 워크플로를 가능하게 하여 일관성을 향상하고 수동 서식을 줄이며 대규모 문서 생성을 간소화함으로써 효율적인 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**  
+  스프레드시트 데이터를 향후 문서 생성을 위한 재사용 가능한 템플릿으로 전환합니다.
+
+* **일관된 문서 레이아웃**  
+  반복되는 비즈니스 문서 작업 전반에 걸쳐 일관된 서식을 유지하도록 돕습니다.
+
+* **재사용 가능한 프로세스 자산**  
+  운영 문서 준비를 간소화하는 템플릿 파일 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 자동화 파이프라인**  
+  Python 기반 변환 워크플로를 통해 SXC 파일에서 OTT 템플릿을 생성합니다.
+
+* **표준화된 출력 생성**  
+  단일 재사용 가능한 오픈 포맷 템플릿에서 반복적인 문서 생성을 가능하게 합니다.
+
+* **프로세스 효율성 향상**  
+  구조화된 템플릿을 프로그래밍 방식으로 준비하여 수동 설정 시간을 줄입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

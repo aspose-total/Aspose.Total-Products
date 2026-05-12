@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a XLAM converte i modelli di documento in file di foglio di calcolo orientati a componenti aggiuntivi, utilizzati per estendere i flussi di lavoro dei fogli di calcolo. Ciò è rilevante quando i contenuti basati su modelli contribuiscono a funzionalità di foglio di calcolo riutilizzabili o a logica confezionata negli ambienti supportati.
+
+Con le API Python, la conversione da DOT a XLAM può essere integrata in sistemi automatizzati che standardizzano la creazione avanzata di risorse per fogli di calcolo a partire da fonti basate su documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione di risorse per componenti aggiuntivi di foglio di calcolo**
+  Converti il contenuto DOT in output orientati XLAM per estensioni di foglio di calcolo riutilizzabili.
+
+* **Imballaggio di flussi di lavoro riutilizzabili**
+  Supporta scenari in cui strutture definite dal documento alimentano soluzioni avanzate per fogli di calcolo.
+
+* **Risorse funzionali basate su modelli**
+  Riutilizza il contenuto del documento in risorse di foglio di calcolo confezionate per un uso ripetuto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Preparazione automatizzata di componenti aggiuntivi**
+  I flussi di lavoro Python possono trasformare i modelli DOT in output compatibili XLAM dove necessario.
+
+* **Supporto avanzato per pipeline di fogli di calcolo**
+  La conversione aiuta i repository di documenti a contribuire a risorse di foglio di calcolo riutilizzabili.
+
+* **Generazione scalabile di output funzionali**
+  I sistemi programmatici semplificano la creazione ad alto volume di file di pacchetti avanzati per fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

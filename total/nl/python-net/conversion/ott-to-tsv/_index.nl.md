@@ -65,7 +65,41 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-naar-TSV-conversie in Python‑API's zet OpenDocument‑teksttemplates om in door tabs gescheiden waarden voor een schone, lichte, gestructureerde gegevensuitwisseling. Dit is nuttig wanneer op templates gebaseerde inhoud moet worden overgebracht naar systemen die de voorkeur geven aan eenvoudige, tekstgebaseerde tabeluitvoer.
+
+De conversie verbetert automatisering door eenvoudige parsing, transformatie en laden in workflows mogelijk te maken die minimale overhead, draagbaarheid en een betrouwbare op delimiters gebaseerde structuur waarderen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke Toepassingsgevallen" %}}
+
+* **Gescheiden Data‑export**  
+  Zet documentinhoud om in gestructureerde tab‑gescheiden output.
+
+* **Pipeline‑vriendelijke Opmaak**  
+  Ondersteunt systemen die lichte, tekstgebaseerde tabellen verwerken.
+
+* **Gegevensvoorbereiding**  
+  Maakt geëxtraheerde inhoud makkelijker te importeren in analytische of operationele tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Batch Tabelconversie**  
+  Genereert TSV‑bestanden van OTT‑templates op schaal.
+
+* **ETL‑Workflow Voeding**  
+  Stuurt documentafgeleide gegevens naar parsing‑ en transformatiepijplijnen.
+
+* **Geplande Gestructureerde Exporten**  
+  Ondersteunt terugkerende generatie van eenvoudige machineleesbare datasets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

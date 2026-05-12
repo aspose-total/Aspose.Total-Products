@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV에서 PPSX로의 변환은 탭으로 구분된 데이터를 직접 표시 및 배포를 위해 설계된 최신 슬라이드쇼 프레젠테이션 파일로 변환합니다. 구조화된 콘텐츠를 일관된 형식과 광범위한 호환성을 갖춘 프레젠테이션 모드로 제공해야 할 때 유용합니다.
+
+Python API를 사용하면 TSV에서 PPSX로의 변환이 효율적인 자동화를 가능하게 하여 반복적인 프레젠테이션 워크플로, 확장 가능한 보고, 구조화된 데이터셋으로부터 동적 콘텐츠 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 슬라이드쇼 전달**  
+  TSV 데이터를 직접 볼 수 있는 프레젠테이션 파일로 변환합니다.
+
+* **구조화된 프레젠테이션 출력**  
+  표 형식의 콘텐츠를 접근 가능한 슬라이드쇼 기반 커뮤니케이션으로 변환하는 데 도움을 줍니다.
+
+* **반복적인 시각 보고**  
+  원시 데이터에서 프레젠테이션 준비가 된 요약을 정기적으로 배포하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 프레젠테이션 재생 파일**  
+  Python API를 사용하면 TSV 입력으로부터 필요에 따라 또는 일정에 맞춰 PPSX 파일을 생성할 수 있습니다.
+
+* **확장 가능한 보고 파이프라인**  
+  자동화는 반복적인 슬라이드쇼 제작의 효율성을 향상시킵니다.
+
+* **동적 프레젠테이션 업데이트**  
+  프로그래밍된 워크플로는 원본 데이터가 변경될 때마다 슬라이드쇼 출력을 새로 고칠 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

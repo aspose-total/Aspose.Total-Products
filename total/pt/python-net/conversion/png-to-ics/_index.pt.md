@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PNG para ICS permite que informações de agenda visual, gráficos de eventos ou detalhes de calendário baseados em imagem sejam transformados em arquivos de calendário estruturados que suportam o compartilhamento de eventos e fluxos de trabalho de agendamento. Isso é especialmente útil quando os dados do evento se originam em forma de imagem, mas precisam se tornar legíveis por máquina e interoperáveis.
+
+APIs Python tornam esse processo amigável à automação, permitindo que sistemas gerem programaticamente arquivos ICS a partir de entradas baseadas em PNG, melhorando a eficiência do agendamento, reduzindo a entrada manual e suportando a integração escalável de calendários em diferentes aplicações.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Conversão de Gráfico de Evento**  
+  Converte anúncios de eventos em PNG em arquivos de calendário ICS para facilitar o agendamento e a distribuição.
+
+* **Criação de Entrada de Calendário**  
+  Ajuda a transformar informações de agenda baseadas em imagem em eventos de calendário estruturados.
+
+* **Preparação de Convite para Reunião**  
+  Suporta fluxos de trabalho onde detalhes visuais da reunião precisam se tornar arquivos de calendário compartilháveis.
+
+* **Digitalização de Agenda**  
+  Permite que informações de eventos armazenadas em forma de imagem sejam reutilizadas em sistemas de calendário digitais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Calendário**  
+  APIs Python podem criar arquivos ICS a partir de entradas de eventos baseadas em PNG em pipelines de gerenciamento de eventos.
+
+* **Processamento em Massa de Agenda**  
+  Múltiplas imagens de agenda em PNG podem ser convertidas em saídas ICS para publicação de calendário simplificada.
+
+* **Entrega de Convite Orientada por Fluxo de Trabalho**  
+  Sistemas podem extrair e transformar informações de eventos em anexos ICS para convites automatizados.
+
+* **Sistemas de Agendamento Integrados**  
+  Aplicações podem usar a conversão de PNG para ICS para conectar fontes visuais de eventos com plataformas de calendário.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

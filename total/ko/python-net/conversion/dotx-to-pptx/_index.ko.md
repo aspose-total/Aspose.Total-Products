@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 PPTX로 변환하면 Word 템플릿 콘텐츠를 최신 XML 기반 프레젠테이션 형식으로 변환하여 전문적인 슬라이드 제작이 가능합니다. 템플릿 기반 콘텐츠를 보고서, 교육, 영업 또는 내부 커뮤니케이션용 프레젠테이션에 재사용해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환이 구조화된 문서를 현대적인 협업 및 콘텐츠 전달 워크플로에 맞는 프레젠테이션 출력으로 전환하여 확장 가능한 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대적인 슬라이드 제작**
+  문서 콘텐츠를 현재 워크플로에 적합한 프레젠테이션 데크로 변환합니다.
+
+* **프레젠테이션용 콘텐츠 재활용**
+  템플릿 텍스트와 구조를 브리핑 및 교육 자료에 재사용합니다.
+
+* **전문적인 커뮤니케이션 자산**
+  표준화된 문서 소스에서 다듬어진 슬라이드 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 데크 파이프라인**
+  예약된 콘텐츠 워크플로에서 DOTX 파일을 PPTX 프레젠테이션으로 변환합니다.
+
+* **템플릿 기반 보고**
+  승인된 문서 템플릿에서 반복적인 슬라이드 데크를 생성합니다.
+
+* **확장 가능한 프레젠테이션 게시**
+  조직 전반에 걸친 사용을 위해 프로그래밍 방식으로 프레젠테이션 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OFT do OTT w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OFT do OTT przy użyciu interfejsów API Pythona umożliwia przekształcenie szablonów e‑mail Outlook w otwarte szablony tekstowe dokumentów, które można ponownie wykorzystać i które są oparte na standardach. Jest to przydatne, gdy organizacje chcą przekształcić treść komunikacji w powtarzalne zasoby szablonów w otwartych ekosystemach.
+
+Automatyzując konwersję OFT do OTT, zespoły mogą wspierać skalowalne tworzenie szablonów, zachęcać do interoperacyjności i upraszczać standaryzację dokumentów. Wzmacnia to ponowne wykorzystanie treści w otwartych i zautomatyzowanych przepływach pracy dokumentów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie otwartych szablonów**  
+  Konwertuj zawartość OFT na pliki OTT, aby uzyskać wielokrotnego użytku szablony dokumentów w otwartych przepływach pracy dokumentów.
+
+* **Standaryzacja treści oparta na szablonach**  
+  Twórz spójne struktury dokumentów z materiałów szablonowych pochodzących z e‑maili.
+
+* **Przygotowanie dokumentów interoperacyjnych**  
+  Przygotuj wielokrotnego użytku szablony, które mogą być udostępniane w systemach biurowych przyjaznych standardom.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie szablonów**  
+  Twórz szablony OTT z plików OFT dla powtarzalnych procesów tworzenia dokumentów.
+
+* **Integracja otwartych przepływów pracy**  
+  Wstaw przetworzone pliki szablonów do systemów opierających się na otwartych standardach dokumentów.
+
+* **Skalowalne, wielokrotnego użytku potoki treści**  
+  Programowo zarządzaj i dystrybuuj zasoby szablonów wśród zespołów i projektów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

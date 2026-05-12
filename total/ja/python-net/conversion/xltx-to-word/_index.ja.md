@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から Word への変換により、スプレッドシートのテンプレートコンテンツを編集、レビュー、ビジネスコミュニケーションに適したワードプロセッシング文書に変換できます。構造化されたスプレッドシート主導のレイアウトを、読みやすく、注釈を付けやすく、配布しやすい文書中心の出力にする必要がある場合に有用です。
+
+自動化ワークフローにおいて、XLTX から Word への変換は、テンプレートベースのスプレッドシートコンテンツを標準化された文書に変換することで、生産性を向上させます。これにより、大規模に生成でき、承認フローに統合され、最新の文書システム全体で再利用できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ビジネス文書生成**  
+  スプレッドシートテンプレートを業務およびレポートのニーズに合わせたワードプロセッシングファイルに変換します。
+
+* **読みやすいコンテンツ変換**  
+  構造化された表形式コンテンツを、より広い読者層に適した文書形式に変換するのに役立ちます。
+
+* **ワークフローに適した出力**  
+  レビューや共同作業プロセスに適した編集可能な文書の作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な Word 文書作成**  
+  自動化システムは、定期的な文書サイクルのために XLTX テンプレートから Word ファイルを生成できます。
+
+* **承認パイプライン統合**  
+  変換プロセスは、下流のレビュー、改訂、アーカイブワークフローをサポートします。
+
+* **大規模文書生成**  
+  プログラムによる処理により、多数のスプレッドシートテンプレートを標準化された Word 出力に変換することが実用的になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

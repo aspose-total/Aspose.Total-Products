@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV에서 DOT으로의 변환은 탭으로 구분된 데이터를 표준화된 문서 작성을 지원할 수 있는 워드 프로세싱 템플릿 파일로 변환합니다. 이는 구조화된 데이터가 반복 가능한 문서 패턴 및 템플릿 기반 출판 워크플로에 공급되어야 할 때 유용합니다.
+
+Python API를 사용하면 TSV에서 DOT으로의 변환을 자동화하여 재사용 가능한 템플릿 기반 출력을 생성할 수 있으며, 이를 통해 문서 생성 프로세스 전반에 걸쳐 확장성, 일관성 및 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 준비**  
+  TSV 콘텐츠를 재사용 가능한 문서 구조에 맞는 형식으로 변환합니다.
+
+* **표준화된 문서화**  
+  반복적인 보고 또는 기록 생성 작업에 대해 일관된 형식을 지원합니다.
+
+* **콘텐츠 배포 워크플로**  
+  템플릿 중심 문서 시스템을 위해 구조화된 데이터를 준비하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **재사용 가능한 문서 프레임워크**  
+  자동화를 통해 TSV 데이터를 반복 사용을 위한 템플릿 지향 출력으로 변환할 수 있습니다.
+
+* **운영 문서 파이프라인**  
+  Python API는 데이터 내보내기를 표준화된 템플릿 생성 단계에 연결할 수 있습니다.
+
+* **대용량 처리**  
+  여러 TSV 데이터 세트를 일관된 로직으로 DOT 파일로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 XLTM으로 변환하면 OpenDocument 텍스트 템플릿을 매크로 사용 가능 스프레드시트 템플릿으로 변환하여 고급 재사용 가능한 워크북 시나리오에 활용할 수 있습니다. 이는 향후 스프레드시트 인스턴스가 표준 구조와 내장 자동화 기능을 결합해야 할 때 유용합니다.
+
+이 변환은 템플릿 자산을 생성하여 워크북 생성 규모를 확장하면서도 반복되는 운영 작업 전반에 걸쳐 논리, 일관성 및 효율성을 유지함으로써 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿 생성**  
+  고급 동작 지원이 포함된 재사용 가능한 워크북 템플릿을 생성합니다.
+
+* **반복 가능한 운영 워크북**  
+  내장 자동화 로직에 의존하는 스프레드시트를 표준화합니다.
+
+* **구조화된 템플릿 재사용**  
+  텍스트 템플릿을 확장 가능한 스프레드시트 청사진으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 제작**  
+  반복되는 프로세스를 위해 OTT 소스에서 XLTM 파일을 생성합니다.
+
+* **고급 스프레드시트 워크플로우 설계**  
+  보다 풍부한 기능을 갖춘 재사용 가능한 워크북 프레임워크를 지원합니다.
+
+* **기업 프로세스 표준화**  
+  일관된 자동화 워크북 템플릿을 널리 배포하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

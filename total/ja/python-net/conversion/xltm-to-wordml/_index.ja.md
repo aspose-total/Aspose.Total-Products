@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から WordML への変換は、マクロ有効 Excel テンプレートを XML ベースの Word 文書マークアップに変換し、構造化かつ機械可読な文書処理を可能にします。これは、スプレッドシート駆動のコンテンツを高度な文書操作やシステム統合に適した形式で表現する必要がある場合に有用です。
+
+自動化重視の環境では、XLTM から WordML への変換が相互運用性を高め、構造化文書ワークフローをサポートし、文書生成プロセスに対する深い制御を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **XMLベースの文書生成**  
+  ワークブックテンプレートを構造化された Word マークアップに変換し、システムに優しい文書処理を実現します。
+
+* **機械可読コンテンツ処理**  
+  文書出力をプログラムで解析、検証、変換する必要があるワークフローをサポートします。
+
+* **高度な文書統合**  
+  スプレッドシート由来のデータを構造化文書エコシステムやカスタム処理パイプラインと接続するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **構造化文書自動化**  
+  XLTM テンプレートから WordML ファイルを生成し、XML 主導の出版ワークフローに活用します。
+
+* **システム間コンテンツ交換**  
+  Python アプリケーションが下流処理ツールと統合できる文書マークアップを生成できるようにします。
+
+* **プログラム的変換パイプライン**  
+  機械可読文書出力が必要なスケーラブルな変換プロセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PPSX vers XLTM convertit le contenu d’une présentation en un format de modèle de feuille de calcul macro‑activé qui prend en charge la génération de feuilles de calcul répétables et compatibles avec l’automatisation. Elle est utile lorsque les informations dérivées des diapositives doivent servir de modèle réutilisable pour créer des sorties de feuilles de calcul cohérentes avec des fonctionnalités avancées.
+
+Dans le cadre des flux de travail automatisés, la conversion PPSX vers XLTM prend en charge la création de modèles évolutifs, réduit le travail de configuration répétitif et permet des processus de génération de feuilles de calcul pilotés par l’API Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles macro‑activés**  
+  Convertit le contenu d’une présentation en modèles de feuilles de calcul réutilisables avec un potentiel d’automatisation.
+
+* **Modélisation cohérente de feuilles de calcul**  
+  Aide à standardiser les sorties répétées de feuilles de calcul à partir de données dérivées de présentations.
+
+* **Réutilisation avancée de modèles**  
+  Prend en charge les environnements où les modèles de feuilles de calcul nécessitent un comportement d’automatisation intégré.
+
+* **Configuration opérationnelle structurée**  
+  Permet des bases de feuilles de calcul réutilisables pour des tâches commerciales récurrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Automatisation de la génération de modèles**  
+  Les API Python peuvent créer des fichiers XLTM à partir du contenu PPSX pour des flux de travail de feuilles de calcul répétables.
+
+* **Provisionnement massif de modèles**  
+  L’automatisation peut générer plusieurs modèles réutilisables à partir de sources de présentation.
+
+* **Systèmes de feuilles de calcul orientés processus**  
+  Les modèles convertis peuvent être déployés dans des flux de travail de données opérationnelles récurrents.
+
+* **Standardisation évolutive des feuilles de calcul**  
+  La conversion programmatique aide à imposer des structures de feuilles de calcul uniformes au sein des équipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

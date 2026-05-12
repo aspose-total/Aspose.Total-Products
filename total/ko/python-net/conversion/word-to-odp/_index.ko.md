@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 ODP로의 변환은 워드 프로세싱 콘텐츠를 표준 지향 환경에서 슬라이드 기반 커뮤니케이션을 위한 OpenDocument 프레젠테이션 파일로 변환합니다. 이 기능은 서술형 문서를 회의, 교육 또는 정보 공유를 위한 구조화된 시각 프레젠테이션으로 변환해야 할 때 유용합니다.
+
+자동화 워크플로우에서 이 변환은 기존 문서 자산을 배포, 편집 및 팀 간 재사용이 가능한 프레젠테이션 준비 형식으로 변환함으로써 확장 가능한 콘텐츠 재활용을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **문서에서 프레젠테이션 생성**
+  작성된 콘텐츠를 시각 커뮤니케이션을 위한 슬라이드 친화적인 파일로 변환합니다.
+
+* **오픈 표준 협업**
+  OpenDocument 기반 프레젠테이션 환경을 사용하는 팀을 지원합니다.
+
+* **교육 및 브리핑 준비**
+  보고서와 요약을 재사용 가능한 프레젠테이션 자료로 재활용합니다.
+
+* **콘텐츠 재포맷 효율성**
+  문서 작성에서 슬라이드 전달로 전환할 때 수동 작업을 줄여줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동 슬라이드덱 생성**
+  반복되는 워드 보고서를 내부 배포용 ODP 프레젠테이션으로 변환합니다.
+
+* **배치 프레젠테이션 워크플로우**
+  표준화된 문서 템플릿에서 대규모로 슬라이드 파일을 생성합니다.
+
+* **크로스 플랫폼 퍼블리싱**
+  다양한 생산성 환경을 위한 오픈 포맷 프레젠테이션 출력을 가능하게 합니다.
+
+* **회의 준비 파이프라인**
+  완성된 문서를 검토 및 브리핑용 프레젠테이션 자산으로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から POTM への変換は、マクロ対応ドキュメントをマクロ対応プレゼンテーションテンプレートに変換し、再利用可能なスライド構造が高度な自動化動作を保持できるようにします。テンプレートの一貫性とインタラクティブなプレゼンテーションロジックが共存しなければならない環境で価値があります。
+
+最新のワークフローでは、DOCM から POTM への変換は自動化されたプレゼンテーション生成をサポートし、テンプレートレベルの自動化を繰り返し使用できるスライド資産に埋め込む機能を保持します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **再利用可能なマクロ対応テンプレート**
+  構造化されたデザインと自動化機能を組み合わせたプレゼンテーションテンプレートを作成します。
+
+* **高度なプレゼンテーションワークフロー**
+  繰り返しスライド生成が埋め込みアクションやロジックに依存するシナリオをサポートします。
+
+* **テンプレートの標準化**
+  自動化機能を失うことなく、プレゼンテーション全体の一貫性を維持するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによるテンプレート生成**
+  繰り返し行われるスライド制作プロセスのために DOCM ファイルを POTM 出力に変換します。
+
+* **自動化されたプレゼンテーション組み立て**
+  システムが変化するコンテンツでマクロ対応テンプレートを埋め込むことを可能にします。
+
+* **スケーラブルなコンテンツ配信**
+  組み込みの自動化を備えた大規模なテンプレート駆動プレゼンテーションワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

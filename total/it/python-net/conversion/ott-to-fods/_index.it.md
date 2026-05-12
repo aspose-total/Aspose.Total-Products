@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione OTT in FODS nelle API Python trasforma i modelli di testo OpenDocument in documenti di foglio di calcolo XML piatti, leggibili, strutturati e adatti per l'elaborazione a livello di sistema. Questo è utile per i flussi di lavoro che preferiscono rappresentazioni di fogli di calcolo aperte e basate su testo.
+
+La conversione supporta l'automazione rendendo il contenuto del documento più facile da versionare, ispezionare e integrare in processi compatibili con XML, dove trasparenza, struttura e interoperabilità sono importanti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di foglio di calcolo aperto**  
+  Converte i modelli di testo in documenti di foglio di calcolo piatti e strutturati.
+
+* **Serializzazione di dati leggibili**  
+  Produce contenuto di foglio di calcolo basato su testo, facile da ispezionare programmaticamente.
+
+* **Interoperabilità del flusso di lavoro**  
+  Si adatta a sistemi che si basano su standard di documenti aperti e sull'elaborazione XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di dati basate su XML**  
+  Inserisce contenuti derivati da modelli in flussi di lavoro di fogli di calcolo piatti e strutturati.
+
+* **Esportazioni amichevoli per il controllo di versione**  
+  Supporta la generazione automatica di documenti di foglio di calcolo facili da differenziare.
+
+* **Elaborazione basata su standard**  
+  Consente trasformazioni ripetibili in ambienti a formato aperto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

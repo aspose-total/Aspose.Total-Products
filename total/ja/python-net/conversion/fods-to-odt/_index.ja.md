@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS から ODT への変換は、フラットな OpenDocument スプレッドシート データを編集可能な OpenDocument テキスト ファイルに変換し、構造化された情報を文書中心の形式で提示しやすくし、オープン標準の範囲内にとどめます。これは、互換性、アクセシビリティ、オープンドキュメント ワークフローを重視する組織にとって有用です。
+
+自動化および統合シナリオでは、FODS から ODT への変換は標準化された文書生成、ワークフローのポータビリティ、オープン エコシステム全体での効率的な処理をサポートします。Python API はこれらの変換を自動化し、繰り返し作業を削減し、構造化入力からのスケーラブルな文書作成を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンドキュメントレポーティング**  
+  スプレッドシートの内容を編集可能な ODT 文書に変換し、オープン標準のレポート ワークフローに対応します。
+
+* **ドキュメント作成**  
+  構造化データを内部または外部で使用できる読みやすいテキスト文書に変換します。
+
+* **相互運用可能なコンテンツ共有**  
+  文書のやり取りでオープンドキュメントシステムとの広範な互換性が必要な場合に ODT 出力を使用します。
+
+* **構造化データの提示**  
+  フラットなスプレッドシート情報を、物語的・記述的コンテンツに適した形式で提示します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープン標準ワークフロー自動化**  
+  Python API は、FODS ファイルを ODT に変換し、自動化された文書パイプラインの一部として利用できます。
+
+* **バッチ文書処理**  
+  大量のファイルをプログラムで変換し、スケーラブルな運用を支援します。
+
+* **統合レポーティングシステム**  
+  ODT 出力は、レポート、出版、レビュータスクのために自動的に生成できます。
+
+* **ポータブル文書生成**  
+  自動変換は、オープンフォーマットを使用してプラットフォーム間で一貫した文書作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

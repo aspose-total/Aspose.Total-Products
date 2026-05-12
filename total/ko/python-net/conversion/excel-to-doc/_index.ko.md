@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 Excel을 DOC로 변환하면 구조화된 스프레드시트 내용을 보고서, 문서화 및 비즈니스 커뮤니케이션을 위한 편집 가능한 워드 프로세싱 문서로 변환할 수 있습니다. 표 형식 데이터가 팀, 클라이언트 또는 기록을 위해 읽기 쉬운 서술 형식으로 제시되어야 할 때 유용합니다.
+
+이 변환은 데이터 기반 스프레드시트를 보고 파이프라인, 문서 생성 시스템 및 워크플로 기반 출판 환경 내에서 재사용 가능한 문서 출력물로 전환함으로써 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 보고서 생성**  
+  스프레드시트 기반 요약을 DOC 파일로 변환하여 편집 가능한 내부 또는 클라이언트용 보고서를 만들 수 있습니다.
+
+* **문서화 워크플로**  
+  스프레드시트 데이터를 운영 또는 규정 준수 요구를 지원하는 서면 문서를 만드는 소스로 사용합니다.
+
+* **데이터 프레젠테이션**  
+  표 형식 정보를 검토, 주석 및 협업에 더 적합한 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 보고서 게시**  
+  일일, 주간 또는 월간 보고 워크플로를 위해 반복적인 Excel에서 DOC로 변환을 자동화합니다.
+
+* **템플릿 기반 문서 생성**  
+  표준화된 비즈니스 프로세스를 지원하기 위해 스프레드시트 입력으로부터 편집 가능한 문서를 생성합니다.
+
+* **파이프라인 통합**  
+  승인, 저장 또는 배포를 위해 문서를 준비하는 Python 기반 시스템에 변환을 삽입합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

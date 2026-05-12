@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XLAM から RTF への変換により、Excel アドインのコンテンツをリッチテキスト文書に変換でき、さまざまなエディタやプラットフォームで広く互換性があります。これは、構造化されたコンテンツを軽量テキスト形式で共有し、特定のオフィススイートに依存せず基本的な書式を保持する必要がある場合に有用です。
+
+自動化ワークフローにおいて、XLAM から RTF への変換は、効率的なコンテンツ交換、シンプルな文書生成、そして広範な相互運用性をサポートします。書式付きテキスト出力が通信、記録、またはさまざまな文書ツールとの下流統合に必要なシステムに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **軽量ドキュメント共有**  
+  XLAM コンテンツを RTF ファイルに変換し、さまざまな編集環境で広い互換性を実現します。
+
+* **書式付きテキスト配布**  
+  基本的な書式を保持しながら、コンテンツをポータブルで再利用しやすい形にします。
+
+* **運用記録の生成**  
+  スプレッドシートベースの業務リソースから読みやすいテキスト文書の作成を支援します。
+
+* **ツール間の相互交換**  
+  柔軟なテキスト文書形式を必要とするシステム間で構造化コンテンツの移動を容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量テキスト文書変換**  
+  Python API を使用して多数の XLAM ファイルを RTF 出力に変換し、スケーラブルなコンテンツ配布を実現します。
+
+* **システム間コンテンツ交換**  
+  自動化パイプラインが下流の文書ワークフローの中間形式として RTF を利用できます。
+
+* **レポートエクスポートの自動化**  
+  スプレッドシート駆動のコンテンツをプログラムで書式付きテキスト文書として公開します。
+
+* **アーカイブおよびコミュニケーションワークフロー**  
+  変換プロセスにより、保存、レビュー、共有のための軽量書式ファイルを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

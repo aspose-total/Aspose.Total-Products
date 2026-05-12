@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+문서를 CSV로 변환하면 구조화되거나 반구조화된 Word 콘텐츠를 분석, 교환 및 비즈니스 시스템 전반에서 처리하기 쉬운 쉼표 구분 데이터로 변환합니다. 이는 보고, 마이그레이션, 데이터 정리 및 표 형식 출력이 필요한 하위 분석에 유용합니다.
+
+Python API를 사용해 DOC를 CSV로 자동 변환하면 문서 추출을 표준화하고 수동 재포맷을 줄이며, 스프레드시트, ETL 파이프라인, 대시보드 및 데이터 기반 애플리케이션에 데이터를 공급하는 확장 가능한 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **표 형식 데이터 추출**
+  문서 테이블 및 반복 레코드를 CSV로 변환하여 분석 및 가져오기를 용이하게 합니다.
+
+* **데이터 마이그레이션 워크플로**
+  문서 기반 비즈니스 데이터를 데이터베이스 또는 라인오브비즈니스 시스템으로 전송할 수 있도록 준비합니다.
+
+* **보고서 준비**
+  문서 콘텐츠를 보고, 검증 및 보관 검토에 적합한 평면 파일로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 레코드 내보내기**
+  대량 운영 처리를 위해 DOC 파일을 CSV 데이터셋으로 자동 내보냅니다.
+
+* **파이프라인 통합**
+  변환된 CSV 출력을 분석, CRM, ERP 또는 데이터 웨어하우스 수집 워크플로에 공급합니다.
+
+* **정기 데이터 정규화**
+  정기적으로 반복되는 문서 소스에서 콘텐츠를 프로그래밍 방식으로 추출하고 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

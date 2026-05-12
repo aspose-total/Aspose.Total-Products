@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para PowerPoint transforma o conteúdo de documentos em formatos de apresentação baseados em slides para comunicação visual, treinamento, relatórios e entrega a partes interessadas. É valiosa quando material com muito texto precisa ser adaptado para conteúdo conciso e adequado a apresentações.
+
+APIs Python suportam a conversão de WordML para PowerPoint estruturando slides programaticamente, reutilizando seções de documentos e simplificando fluxos de trabalho de documento para apresentação em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Conversão de Relatório para Slides**
+  Converte documentos WordML em conteúdo pronto para apresentação, para comunicação visual.
+
+* **Criação de Material de Treinamento**
+  Transforma procedimentos ou guias escritos em decks de slides estruturados.
+
+* **Preparação de Apresentação para Stakeholders**
+  Ajuda a reutilizar o conteúdo do documento em apresentações concisas e compartilháveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Slides**
+  Cria arquivos de apresentação a partir de relatórios recorrentes, resumos ou documentação.
+
+* **Fluxos de Trabalho de Resumo de Conteúdo**
+  Suporta a conversão programática de conteúdo de documentos extensos em slides.
+
+* **Publicação de Apresentações em Escala**
+  Permite a produção em grande volume de ativos de apresentação a partir de repositórios de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

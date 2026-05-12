@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTTからXLSBへの変換は、Python APIでOpenDocumentテキストテンプレートをバイナリスプレッドシートファイルに変換し、大規模ブックシナリオでの効率的な保存と取り扱いを最適化します。変換されたデータがスプレッドシートとして利用可能な状態を保ちつつ、コンパクトなファイル表現の恩恵を受ける必要がある場合に有用です。
+
+この変換は、データ量の多いプロセス向けにスケーラブルなブック生成を可能にし、パフォーマンス向上と繰り返しエクスポートワークフローにおけるストレージ負荷の削減に貢献します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **コンパクトなスプレッドシート出力**  
+  効率的な保存と取り扱いのためのバイナリブックファイルを生成します。
+
+* **大規模データワークフローのサポート**  
+  生成されるスプレッドシートがサイズ拡大するシナリオに適合します。
+
+* **構造化コンテンツ配信**  
+  テンプレートコンテンツを高性能なブック資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量のブック生成**  
+  OTT ソースからの XLSB エクスポートを大規模に自動化します。
+
+* **ストレージ効率の高いレポート**  
+  繰り返しプロセス向けにコンパクトなスプレッドシート出力を作成します。
+
+* **パフォーマンス指向のデータパイプライン**  
+  自動化されたスプレッドシートワークフローでの高速処理をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

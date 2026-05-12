@@ -53,7 +53,41 @@ DOCM から MHTML (Web アーカイブ形式) への変換機能または HtmlFi
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から MHTML への変換は、マクロ対応ドキュメントをマークアップとリンクされたリソースを 1 つのポータブルパッケージにまとめた、単一ファイルの Web 対応コンテンツに変換します。ドキュメント情報をブラウザフレンドリーな形式で表示、アーカイブ、または送信する必要がある場合に便利です。
+
+自動化された環境では、DOCM から MHTML への変換は、ポータブルな公開、メールで安全に表示できるレンダリング、そして自己完結型ドキュメント表現の簡易な保存をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **単一ファイルの Web 表現**
+  ドキュメントを自己完結型の Web スタイルファイルに変換し、簡単に配布できるようにします。
+
+* **ポータブルアーカイブ**
+  書式設定されたコンテンツと関連リソースを 1 つの出力にまとめて保持します。
+
+* **ブラウザフレンドリーなアクセス**
+  完全な編集ソフトウェアに依存せず、ドキュメントコンテンツの閲覧を容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Web パッケージング**
+  DOCM ソースから MHTML ファイルを生成し、軽量な公開ワークフローを実現します。
+
+* **ドキュメント配信パイプライン**
+  書式設定されたコンテンツをコンパクトでポータブルな形式で送信することをサポートします。
+
+* **アーカイブ用バッチ変換**
+  大規模にプログラムで自己完結型のドキュメントスナップショットを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

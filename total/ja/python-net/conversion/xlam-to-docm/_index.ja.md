@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XLAM から DOCM への変換は、Excel アドインのコンテンツを高度な文書動作やスクリプト化されたアクションをサポートするマクロ有効化 Word 文書に変換するのに役立ちます。これは、組織が自動化の可能性を保持しながら、スプレッドシートベースのツールから Word 中心の運用環境へコンテンツを移行する必要がある場合に有用です。
+
+自動化重視のシステムにおいて、XLAM から DOCM への変換は、生成された文書が下流のマクロ駆動型レビュー、書式設定、承認プロセスに参加できるようにすることで、ワークフローの継続性を向上させます。コンテンツ作成と文書アクションが連携するスケーラブルな文書自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ有効レポート**  
+  XLAM コンテンツを DOCM ファイルに変換し、文書マクロやスクリプト化されたアクションに依存するレポートプロセスに利用します。
+
+* **ワークフロー対応文書**  
+  自動化された書式設定、検証、またはガイド付きユーザーインタラクションをサポートできる Word 文書を作成します。
+
+* **ロジック付きプロセス文書**  
+  マクロ駆動型エンタープライズワークフローとの互換性を保持できる構造化された文書を実現します。
+
+* **運用引き継ぎ**  
+  変換後に自動化アクションに依存する文書システムへ、スプレッドシートベースのコンテンツを移行するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書処理パイプライン**  
+  Python API は、マクロ支援された内部ワークフロー向けに XLAM ファイルを自動的に DOCM 出力に変換できます。
+
+* **承認とレビューの自動化**  
+  生成された DOCM ファイルは、マクロが書式設定や検証ステップを支援する自動レビューサイクルに入ることができます。
+
+* **エンタープライズフォーム生成**  
+  変換ワークフローは、スプレッドシートベースの業務ロジックからマクロ有効化フォームやレポートを生成できます。
+
+* **定期的なコンテンツ公開**  
+  スケジュールされた変換は、定期的なレポートや運用更新のための DOCM 文書の動的作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

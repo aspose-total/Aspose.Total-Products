@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から XLTM への変換は、OpenDocument テキストテンプレートをマクロ対応スプレッドシートテンプレートに変換し、高度な再利用可能ブックシナリオに対応します。これは、将来のスプレッドシートインスタンスが標準構造と組み込みの自動化機能を組み合わせる必要がある場合に役立ちます。
+
+この変換は、テンプレート資産を作成することで自動化を支援し、繰り返し行われる業務タスク全体でロジック、整合性、効率性を維持しながらブック生成をスケールさせることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート生成**  
+  高度な動作サポートを備えた再利用可能なブックテンプレートを作成します。
+
+* **繰り返し可能な業務ブック**  
+  組み込みの自動化ロジックに依存するスプレッドシートを標準化します。
+
+* **構造化テンプレート再利用**  
+  テキストテンプレートをスケーラブルなスプレッドシート設計図に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート生成**  
+  繰り返し行われるプロセスのために OTT ソースから XLTM ファイルを生成します。
+
+* **高度なスプレッドシートワークフローデザイン**  
+  より豊富な機能を備えた再利用可能なブックフレームワークをサポートします。
+
+* **エンタープライズプロセス標準化**  
+  一貫した自動化ブックテンプレートを広く配布するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

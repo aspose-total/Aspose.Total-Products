@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 CSV에서 DOT로의 변환은 구조화된 표형 데이터를 워드 프로세싱 템플릿으로 변환하여 팀 및 시스템 전반에 걸쳐 향후 문서 작성을 표준화합니다.
+이 변환은 자동화에 유용한데, CSV 기반 데이터 구조를 재사용 가능한 템플릿 자산으로 전환하여 일관성, 확장성 및 프로세스 효율성을 향상시키기 때문입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 표준화**  
+  CSV 콘텐츠를 DOT 템플릿으로 변환하여 반복 가능한 문서 레이아웃 및 구조화된 게시를 지원합니다.
+
+* **레거시 템플릿 지원**  
+  호환성과 연속성을 위해 오래된 템플릿 형식에 의존하는 시스템을 위해 DOT 파일을 생성합니다.
+
+* **재사용 가능한 콘텐츠 프레임워크**  
+  구조화된 데이터에서 템플릿 기반 출력을 구축하여 반복적인 문서 생성 작업을 수행합니다.
+
+* **제어된 문서 형식**  
+  CSV를 소스로 사용하여 생성된 문서 전반에 걸쳐 일관된 구조를 유지하는 템플릿을 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 생성**  
+  Python API를 사용하여 CSV 입력으로부터 DOT 템플릿을 생성하고 반복 가능한 문서 워크플로를 지원합니다.
+
+* **문서 팩토리 파이프라인**  
+  CSV에서 DOT로의 변환을 시스템에 통합하여 하위 사용자 또는 프로세스를 위한 재사용 가능한 템플릿을 준비합니다.
+
+* **대량 템플릿 제작**  
+  여러 CSV 소스를 배치 작업으로 DOT 템플릿으로 변환하여 확장을 지원합니다.
+
+* **규칙 기반 레이아웃 생성**  
+  CSV 필드와 변환 로직을 기반으로 템플릿 내용 및 구조를 프로그래밍 방식으로 정의합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 OFT로 변환하면 OpenDocument 텍스트 템플릿을 표준화된 커뮤니케이션에 재사용할 수 있는 이메일 템플릿 파일로 변환합니다. 이는 문서 내용이 메시지 초안 작성 및 커뮤니케이션 일관성을 위한 반복 가능한 기반으로 사용되어야 할 때 유용합니다.
+
+이 변환은 재사용 가능한 커뮤니케이션 워크플로, 동적 콘텐츠 삽입, 대규모 템플릿 메시징 자산의 효율적인 생성 등을 지원하므로 자동화에 특히 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 이메일 템플릿 생성**  
+  문서 내용을 초안 준비가 된 메시지 템플릿으로 전환합니다.
+
+* **표준화된 커뮤니케이션**  
+  메시지 전반에 걸쳐 일관된 언어와 형식을 유지하도록 돕습니다.
+
+* **콘텐츠 재사용성**  
+  하나의 소스 템플릿으로 여러 커뮤니케이션 흐름을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 초안 템플릿 제작**  
+  반복되는 OTT 콘텐츠 소스에서 OFT 파일을 생성합니다.
+
+* **워크플로 기반 메시지 개인화**  
+  템플릿을 동적 필드와 결합하여 발신 프로세스에 적용합니다.
+
+* **확장 가능한 내부 커뮤니케이션**  
+  부서 또는 시스템 전반에 걸쳐 일관된 이메일 준비를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

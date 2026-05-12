@@ -64,7 +64,46 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で PPTM に変換すると、構造化された表形式データをマクロ対応プレゼンテーションファイルに変換でき、視覚的なコミュニケーションと自動化指向のプレゼンテーション動作の両方をサポートします。  
+この変換は、データ駆動型スライド生成と高度なプレゼンテーション機能を組み合わせることで効率を向上させ、スケーラブルなレポート作成やプロセス連携ワークフローに適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **マクロ対応プレゼンテーション作成**  
+  スライドデッキに組み込み自動化機能や高度なアクションが必要な場合、CSV データを PPTM ファイルに変換します。
+
+* **高度なビジネスレポート**  
+  制御された繰り返し可能なレポート環境向けに、表形式データから自動化対応プレゼンテーションを生成します。
+
+* **インタラクティブなスライドワークフロー**  
+  CSV データセットを、構造化コンテンツと共にリッチなプレゼンテーション動作をサポートする PPTM ファイルに変換します。
+
+* **再利用可能な自動化デッキ**  
+  繰り返し使用され、ロジック対応のプレゼンテーションに依存するチーム向けに、標準化された PPTM 出力を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化マクロデッキ生成**  
+  Python API を使用して CSV 入力を PPTM プレゼンテーションに変換し、高度なレポートワークフローに活用します。
+
+* **統合エンタープライズプレゼンテーションパイプライン**  
+  CSV から PPTM への変換をバックエンドシステムに組み込み、自動的に自動化対応スライドデッキを準備します。
+
+* **大量マクロプレゼンテーション処理**  
+  大規模な CSV コレクションを、一貫したレイアウトとスケーラブルな実行で PPTM 出力に変換します。
+
+* **動的スライドロジック組み立て**  
+  CSV データとルールベースのワークフロー要件から、プログラム的に PPTM プレゼンテーションを構成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

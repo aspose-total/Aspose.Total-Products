@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers SXC transforme le contenu des modèles Word en un format de feuille de calcul hérité utilisé dans les environnements OpenOffice plus anciens. Elle est pertinente lorsque les données structurées d’un document doivent être exportées pour assurer la compatibilité avec les écosystèmes de feuilles de calcul antérieurs.
+
+Cette conversion prend en charge l’automatisation en permettant aux API Python de préparer la sortie de feuilles de calcul dérivée des documents pour les flux de travail d’archivage, d’interopérabilité et de compatibilité système.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Compatibilité avec les feuilles de calcul héritées**
+  Exporter le contenu du document dans un format adapté aux outils de feuilles de calcul plus anciens.
+
+* **Réutilisation des données structurées**
+  Transférer les informations du modèle vers des flux de travail tabulaires où le support hérité est important.
+
+* **Intégration des systèmes historiques**
+  Faciliter l’échange de données avec des environnements encore dépendants des anciens formats ouverts.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportations héritées automatisées**
+  Générer des fichiers SXC à partir de modèles DOTX dans des processus axés sur la compatibilité.
+
+* **Pipelines de migration de données**
+  Utiliser la sortie convertie pour faire le lien entre le contenu du document et les systèmes de feuilles de calcul plus anciens.
+
+* **Gestion du format d'archivage**
+  Conserver les données structurées des modèles dans des actifs de feuilles de calcul compatibles avec les systèmes hérités.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

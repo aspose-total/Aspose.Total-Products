@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS에서 OTT로의 변환은 스프레드시트 데이터를 표준화된 문서 작성을 위해 재사용할 수 있는 오픈 문서 텍스트 템플릿으로 변환합니다. 이는 오픈 템플릿 형식을 사용하여 반복 가능한 문서화 프로세스를 구축하는 조직에 유용합니다.
+
+XLS에서 OTT로 변환하기 위해 Python API를 사용하면 템플릿 생성이 보다 효율적이 되고, 오픈 표준과 확장 가능한 재사용을 우선시하는 자동화 문서 시스템을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**
+  반복 가능한 문서 생성을 위해 XLS 콘텐츠를 OTT 템플릿으로 변환합니다.
+
+* **재사용 가능한 문서 구조**
+  일관된 서식 및 레이아웃 규칙을 유지하는 템플릿 파일을 구축합니다.
+
+* **표준 기반 워크플로**
+  스프레드시트 기반 템플릿 생성을 통해 오픈 문서 생태계를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 제작**
+  수동 설정 없이 스프레드시트 데이터에서 OTT 템플릿 파일을 생성합니다.
+
+* **확장 가능한 오픈 문서 시스템**
+  문서가 많은 환경을 위해 재사용 가능한 템플릿을 생성하려면 Python API를 사용합니다.
+
+* **템플릿 라이브러리 구축**
+  재사용 가능한 오픈 템플릿의 구조화된 컬렉션을 유지하는 워크플로에 XLS 입력을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

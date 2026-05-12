@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS에서 PPSM 변환은 스프레드시트 정보를 매크로 사용 슬라이드쇼 프레젠테이션 파일로 변환하여 직접 프레젠테이션에 사용할 수 있게 합니다. 이 형식은 프레젠테이션 전달 워크플로에서 슬라이드쇼 동작이 필요하고 매크로 사용 환경과의 호환성이 요구될 때 유용합니다.
+
+XLS에서 PPSM 변환을 위한 Python API를 사용하면 특수한 프레젠테이션 생성을 자동화하고 스프레드시트 기반 정보를 디스플레이 준비 자산으로 확장 가능하게 변환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 슬라이드쇼**
+  고급 프레젠테이션 워크플로를 위해 XLS 데이터를 PPSM 파일로 변환합니다.
+
+* **직접 프레젠테이션 출력**
+  슬라이드쇼 모드로 바로 열 수 있는 스프레드시트 기반 파일을 준비합니다.
+
+* **구조화된 전달 자료**
+  운영 또는 보고 요구에 맞는 가이드형 시각 출력물을 만들기 위해 스프레드시트 내용을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드쇼 준비**
+  반복 가능한 프레젠테이션 출력을 필요로 하는 시스템에서 스프레드시트 입력으로부터 PPSM 파일을 생성합니다.
+
+* **고급 프레젠테이션 파이프라인**
+  대규모 매크로 호환 슬라이드쇼 생성을 지원하기 위해 Python API를 사용합니다.
+
+* **디스플레이 우선 보고 시스템**
+  원활한 커뮤니케이션을 위해 XLS 파일을 직접 보기 프레젠테이션 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

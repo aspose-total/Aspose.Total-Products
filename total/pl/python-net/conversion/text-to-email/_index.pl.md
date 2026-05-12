@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji TEXT do EMAIL w 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja tekstu na e‑mail przy użyciu interfejsów API Pythona umożliwia przekształcenie zwykłej treści tekstowej w ustrukturyzowane wiadomości e‑mail do komunikacji, archiwizacji i realizacji procesów roboczych. Jest to przydatne dla systemów, które muszą generować wiadomości wychodzące, szablony wielokrotnego użytku lub gotowe do wysyłki treści z dynamicznych źródeł tekstowych.
+
+To podejście do konwersji wspiera automatyzację, przekształcając surowy tekst w zasoby zgodne z e‑mailem, które mogą być kierowane przez systemy powiadomień, komunikację z klientami, potoki raportowania lub zintegrowane procesy biznesowe z większą spójnością i szybkością.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Automatyczne generowanie wiadomości**  
+  Konwertuje zwykły tekst na gotową do wysyłki treść e‑mail dla alertów, aktualizacji i komunikacji transakcyjnej.
+
+* **Komunikacja oparta na szablonach**  
+  Pomaga standaryzować tekst w strukturalne formaty e‑mail dla powtarzalnych wiadomości biznesowych.
+
+* **Powiadomienia w przepływie pracy**  
+  Umożliwia wysyłanie aktualizacji operacyjnych z systemów automatycznych do odbiorców wewnętrznych lub zewnętrznych.
+
+* **Potoki dystrybucji treści**  
+  Umożliwia pakowanie informacji tekstowych do publikacji i działań outreach opartych na e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Planowane dostarczanie alertów**  
+  Automatyzacja może konwertować wygenerowany tekst na wiadomości e‑mail w celu czasowych powiadomień o statusie i przypomnień.
+
+* **Komunikacja system‑użytkownik**  
+  Tekst generowany przez aplikacje lub skrypty może być przekształcany w e‑maile w celu automatycznego zaangażowania użytkownika.
+
+* **Przepływy masowego wysyłania wiadomości**  
+  Duże zestawy treści tekstowych mogą być programowo konwertowane na wyjścia e‑mail w celu skalowalnej dystrybucji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

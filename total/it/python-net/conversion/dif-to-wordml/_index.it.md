@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DIF a WordML in Python converte dati DIF strutturati in documenti di elaborazione testi basati su XML, adatti a sistemi che richiedono formati di documento orientati al markup. Questo è utile per l'interoperabilità, la gestione di documenti strutturati e i flussi di lavoro che beneficiano della rappresentazione XML.
+
+Le API Python rendono efficace la conversione da DIF a WordML per sistemi automatizzati che elaborano, convalidano o trasformano i documenti in modo programmatico. Supporta pipeline scalabili in cui i dati sorgente strutturati devono diventare output di documenti strutturati con elevata leggibilità da parte delle macchine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di documenti basati su XML**
+  Converti i file DIF in WordML per i flussi di lavoro che si basano su formati di documenti XML strutturati.
+
+* **Integrazione e scambio di sistema**
+  Usa WordML quando i documenti convertiti devono interagire con altri sistemi consapevoli di XML.
+
+* **Archiviazione orientata al markup**
+  Conserva il contenuto del documento in un formato adatto per l'archiviazione e l'elaborazione strutturata.
+
+* **Gestione programmatica dei documenti**
+  Crea output più facili da ispezionare, trasformare o convalidare nei flussi di lavoro tecnici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di documenti leggibili da macchine**
+  Automatizza la conversione da DIF a WordML per i sistemi che privilegiano lo scambio di documenti strutturati.
+
+* **Integrazione del flusso di lavoro XML**
+  Incorpora la conversione nei servizi Python che elaborano e trasformano risorse basate su markup.
+
+* **Output strutturato ad alto volume**
+  Genera documenti WordML in blocco da fonti DIF con un controllo programmatico coerente.
+
+* **Catene di validazione e trasformazione**
+  Usa la conversione automatizzata come un passaggio in flussi di lavoro più ampi di elaborazione di documenti guidati da XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

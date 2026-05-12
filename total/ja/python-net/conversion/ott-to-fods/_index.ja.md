@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to FODS 変換（Python API）は、OpenDocument テキストテンプレートを可読性が高く構造化されたフラット XML スプレッドシートドキュメントに変換し、システムレベルの処理に適した形にします。これは、オープンでテキストベースのスプレッドシート表現を好むワークフローに有用です。
+
+この変換は、ドキュメント内容のバージョン管理、検査、XML フレンドリーなプロセスへの統合を容易にし、透明性、構造、相互運用性が重要な自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープン スプレッドシート生成**  
+  テキストテンプレートを構造化されたフラットなスプレッドシートドキュメントに変換します。
+
+* **可読データシリアライゼーション**  
+  プログラムで簡単に検査できるテキストベースのスプレッドシートコンテンツを生成します。
+
+* **ワークフロー相互運用性**  
+  オープンドキュメント標準と XML 処理に依存するシステムに適合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XMLベースのデータパイプライン**  
+  テンプレート由来のコンテンツをフラットで構造化されたスプレッドシートワークフローにプッシュします。
+
+* **バージョン管理に優しいエクスポート**  
+  差分に優しいスプレッドシートドキュメントの自動生成をサポートします。
+
+* **標準ベースの処理**  
+  オープンフォーマット環境で繰り返し可能な変換を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

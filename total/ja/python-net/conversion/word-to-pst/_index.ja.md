@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から PST への変換は、ドキュメントコンテンツをエンタープライズのコミュニケーションおよび保持ワークフロー向けの個人ストレージ指向メールアーカイブ出力に変換します。これは、ドキュメントで作成されたコミュニケーション資料を、保存、移行、またはコンプライアンス支援のためにメールボックスアーカイブ構造に組み込む必要がある場合に有用です。
+
+自動化主導の環境では、この変換によりドキュメントワークフローとメッセージアーカイブシステムを整合させ、コミュニケーション関連コンテンツのスケーラブルなパッケージ化と保存を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールアーカイブの準備**
+  Word 由来のコミュニケーションコンテンツをアーカイブ指向のメールボックス構造に変換します。
+
+* **保持およびコンプライアンス支援**
+  長期メッセージ保存に関連する形式で正式なコンテンツの保存を支援します。
+
+* **移行ワークフローの整合**
+  メールボックスアーカイブとコンテンツパッケージングを伴うエンタープライズの移行を支援します。
+
+* **構造化されたコミュニケーションの保存**
+  ドキュメント作成とメールアーカイブ管理プロセスを橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **アーカイブ生成の自動化**
+  Word 文書を保持ワークフロー向けの PST 指向出力に処理します。
+
+* **大量コミュニケーションのパッケージ化**
+  標準化された大量のコンテンツをメールアーカイブ資産に変換します。
+
+* **移行準備パイプライン**
+  エンタープライズのメールボックス移動および統合手順に変換を統合します。
+
+* **コンプライアンス記録の取り扱い**
+  アーカイブ指向の出力を使用して、制御されたコミュニケーションの保存を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

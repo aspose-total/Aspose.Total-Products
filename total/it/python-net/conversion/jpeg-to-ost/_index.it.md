@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da JPEG a OST tramite le API Python supporta la trasformazione di contenuti basati su immagini in dati idonei ai flussi di lavoro di archiviazione offline della casella di posta. Ciò può essere rilevante in scenari aziendali in cui i record di comunicazione visiva devono essere incorporati in ambienti di casella di posta sincronizzati per l'accesso, la continuità o la conservazione.
+
+L'automazione aiuta le organizzazioni a gestire tali conversioni in modo più efficiente, riducendo lo sforzo manuale e consentendo una gestione strutturata delle risorse di comunicazione derivanti da immagini all'interno di processi più ampi di gestione della casella di posta.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione della casella di posta offline**
+  Converti le risorse di comunicazione basate su JPEG per l'inclusione nei flussi di lavoro di archiviazione offline delle email.
+
+* **Conservazione dei record visivi**
+  Rappresenta il contenuto immagine in una struttura orientata alla casella di posta per una conservazione e un accesso organizzati.
+
+* **Gestione dei dati aziendali**
+  Supporta i flussi di lavoro in cui la comunicazione derivata da immagini deve allinearsi alle pratiche di archiviazione della casella di posta.
+
+* **Supporto alla continuità e all'accesso**
+  Conserva i record basati su immagini in formati adatti a ambienti di lavoro sincronizzati o disconnessi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione dell'archiviazione aziendale**
+  Le API Python possono supportare flussi di lavoro di conversione strutturati per l'incorporazione del contenuto JPEG nei processi di archiviazione della casella di posta.
+
+* **Preparazione di dati in blocco**
+  Grandi collezioni di immagini possono essere elaborate programmaticamente per compiti di conservazione orientati alla casella di posta.
+
+* **Pipeline di supporto alla migrazione**
+  La conversione automatizzata può assistere progetti che coinvolgono lo spostamento o la ristrutturazione dei record di comunicazione.
+
+* **Sincronizzazione dei record operativi**
+  I sistemi possono integrare risorse visive in flussi di lavoro più ampi di gestione e conservazione automatizzata della casella di posta.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

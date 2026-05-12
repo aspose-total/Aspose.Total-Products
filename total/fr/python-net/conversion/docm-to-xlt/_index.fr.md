@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers XLT transforme les documents contenant des macros en fichiers de modèles de feuilles de calcul, permettant au contenu structuré du document de devenir des mises en page de classeurs réutilisables pour une utilisation répétée. Elle est utile lorsque la cohérence est importante dans les processus récurrents de création de feuilles de calcul.
+
+Dans les systèmes automatisés, la conversion DOCM vers XLT prend en charge la génération de classeurs standardisés, la répétabilité des processus et la transformation évolutive des documents en modèles de feuilles de calcul réutilisables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles de classeur réutilisables**
+  Convertit le matériel du document en modèles de feuilles de calcul pour une utilisation opérationnelle répétée.
+
+* **Structure de feuille de calcul standardisée**
+  Aide à maintenir la cohérence dans les tâches récurrentes de création de classeurs.
+
+* **Réutilisation du contenu en modèle**
+  Adapte les données et les mises en page du document en plans structurés de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles**
+  Produit des fichiers XLT à partir de sources DOCM pour des flux de travail de feuilles de calcul répétables.
+
+* **Fourniture cohérente de classeurs**
+  Prend en charge la création programmatique de modèles de feuilles de calcul standardisés.
+
+* **Distribution évolutive de modèles**
+  Permet une large réutilisation des mises en page de feuilles de calcul générées à partir de documents sources.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

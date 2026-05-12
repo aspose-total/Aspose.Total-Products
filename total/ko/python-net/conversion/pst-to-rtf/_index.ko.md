@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 PST를 RTF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 PST를 RTF로 변환하면 메일함 콘텐츠를 편집 가능하고 휴대 가능한 문서 워크플로를 위한 풍부한 텍스트 형식으로 변환합니다. 이메일에서 파생된 텍스트가 기본 서식 보존이 필요하면서도 다양한 워드 프로세싱 환경과 널리 호환될 때 유용합니다.
+
+자동화 환경에서 PST를 RTF로 변환하면 가벼운 문서 교환과 메일함 아카이브를 편집 가능한 출력물로 효율적으로 변환하는 것을 지원합니다. 이는 다양한 시스템 간에 형식이 지정된 커뮤니케이션 콘텐츠를 확장 가능하게 재사용할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **포맷된 텍스트 내보내기**
+  기본 문서 스타일을 유지하면서 PST 콘텐츠를 RTF로 변환합니다.
+
+* **광범위한 호환성 워크플로**
+  메일함에서 파생된 파일을 다양한 편집 환경에서 사용할 수 있도록 돕습니다.
+
+* **편집 가능한 아카이브 준비**
+  커뮤니케이션 기록을 수정 가능한 문서 형태로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 텍스트 변환 파이프라인**
+  시스템은 PST 콘텐츠를 RTF로 내보내어 후속 편집 및 재사용을 할 수 있습니다.
+
+* **휴대 가능한 문서 워크플로**
+  변환된 파일은 오피스 애플리케이션과 아카이브 시스템 간에 쉽게 이동할 수 있습니다.
+
+* **확장 가능한 콘텐츠 재포맷**
+  프로그래밍 방식 변환은 메일함 텍스트를 대량으로 편집 가능한 파일로 변환하는 작업을 간소화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

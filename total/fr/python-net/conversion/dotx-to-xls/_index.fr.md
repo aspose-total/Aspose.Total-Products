@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers XLS transforme le contenu d’un modèle Word en un format de feuille de calcul traditionnel pour l’édition tabulaire, la révision et la compatibilité avec les anciens flux de travail de tableur. Elle est utile lorsque les données dérivées du modèle doivent être réutilisées dans des environnements de tableur largement reconnus.
+
+En utilisant les API Python, cette conversion permet une automatisation évolutive pour le reporting, le transfert de données et la transformation de contenu structuré dans des systèmes lourds en documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Sortie de feuille de calcul héritée**
+  Convertir le contenu du document en un format de feuille de calcul familier pour les flux de travail établis.
+
+* **Réutilisation de données tabulaires**
+  Déplacer les informations structurées du modèle vers un format de feuille de calcul éditable.
+
+* **Préparation de rapports**
+  Faciliter la révision opérationnelle et analytique à l'aide d'outils basés sur les feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de feuilles de calcul**
+  Produire des fichiers XLS à partir de modèles DOTX dans le cadre de tâches de reporting récurrentes.
+
+* **Pipelines document‑vers‑tableau**
+  Acheminer le contenu du modèle vers les flux de travail de feuilles de calcul de manière programmatique.
+
+* **Livraison de données axée sur la compatibilité**
+  Générer des sorties adaptées aux environnements qui dépendent encore des formats de feuilles de calcul plus anciens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における PowerPoint から RTF への変換は、プレゼンテーションの内容を編集可能性と広範な互換性のバランスが取れたリッチテキスト形式に変換します。これは、スライド資料を完全な Word 文書機能を必要としないシステム間で書式付きテキストとして共有する必要がある場合に便利です。
+
+自動化のユースケースでは、RTF 変換は軽量な文書交換、テキストの保存、コンテンツワークフローへの柔軟な統合をサポートします。互換性と可読性の高い書式が両方重要な場合に実用的なフォーマットです。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **書式付きテキストのエクスポート**
+  プレゼンテーションの内容を基本的なスタイリングを保持しながら、編集可能なテキストに変換します。
+
+* **システム間文書共有**
+  さまざまなワードプロセッシング機能を持つプラットフォーム間でのコンテンツ交換をサポートします。
+
+* **プレゼンテーションのアーカイブ**
+  シンプルで持ち運び可能なテキスト形式でスライドベースの情報を保存するのに役立ちます。
+
+* **編集レビュー ワークフロー**
+  軽量な文書環境でスライド内容の修正を容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **軽量文書変換**
+  RTF ファイルの生成を自動化し、配布と編集を容易にします。
+
+* **コンテンツ交換パイプライン**
+  テキスト処理システム間での広範な互換性を必要とするワークフローをサポートします。
+
+* **大量テキスト変換**
+  プレゼンテーションを大量に変換し、管理しやすい文書出力を実現します。
+
+* **相互運用可能な出版フロー**
+  組織が混在フォーマット環境でプレゼンテーションコンテンツを活用できるよう支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

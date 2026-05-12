@@ -53,7 +53,47 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODT para Imagens converte páginas de documentos ou seções de conteúdo em formatos visuais que são mais fáceis de visualizar, compartilhar, incorporar ou arquivar. Isso é especialmente útil quando a fidelidade do layout e a acessibilidade visual são mais importantes que o texto editável.
+
+A automação baseada em API Python torna a conversão de ODT para Imagens eficaz para pré‑visualizações, publicação de conteúdo e fluxos de trabalho de visualização de documentos. Ela suporta a geração escalável de recursos em nível de página para web, revisão e processos de aprovação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Pré‑visualização de Documentos**  
+  Cria representações em imagem para visualização rápida sem abrir o arquivo original.
+
+* **Recursos de Publicação Web**  
+  Produz conteúdo visual adequado para portais, listagens ou exibições incorporadas.
+
+* **Instantâneos de Arquivamento**  
+  Preserva a aparência da página em forma visual estática.
+
+* **Suporte à Revisão e Anotação**  
+  Facilita a inspeção de documentos em fluxos de trabalho baseados em imagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Criação de Miniaturas**  
+  Fluxos de trabalho em Python podem gerar imagens de pré‑visualização para documentos ODT recém‑carregados.
+
+* **Renderização em Lote de Páginas**  
+  Grandes coleções de arquivos podem ser renderizadas em visuais página a página automaticamente.
+
+* **Automação de Publicação**  
+  Saídas de imagem podem alimentar sites, sistemas de gerenciamento de conteúdo ou ferramentas de revisão.
+
+* **Processos de Aprovação Visual**  
+  Páginas convertidas podem percorrer fluxos de trabalho de anotação e aprovação programaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

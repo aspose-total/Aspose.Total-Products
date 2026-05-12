@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to MD 変換は、メールメッセージを Markdown に変換し、クリーンで軽量、かつポータブルなテキストベースのドキュメントを実現します。メールの内容をナレッジベース、開発者向けドキュメント、またはコンテンツ公開ワークフローで再利用する必要がある場合に特に有用です。
+
+自動化パイプラインにおいて、MSG to MD 変換はバージョン管理されたドキュメント、コンテンツ正規化、簡素化されたテキスト処理をサポートします。メールコミュニケーションと最新のコンテンツ運用・公開システムを橋渡しするのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ナレッジベース統合**  
+  メールを Markdown に変換し、構造化された社内ドキュメントを作成します。
+
+* **開発者フレンドリーなコンテンツ再利用**  
+  リポジトリやドキュメントシステムに適した形式でメッセージテキストを保持します。
+
+* **軽量パブリッシング準備**  
+  メール由来のコンテンツを静的サイトやコンテンツワークフローで使用できるように準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ドキュメンテーションパイプライン自動化**  
+  MSG ファイルを Markdown に変換し、自動出版やインデックス作成に利用します。
+
+* **リポジトリベースのコンテンツ管理**  
+  変換されたメールコンテンツをバージョン管理されたドキュメントワークフローに保存します。
+
+* **テキスト正規化プロセス**  
+  受信したコミュニケーションを軽量で機械に優しいテキストコンテンツに標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した POTX から XLTM への変換は、PowerPoint テンプレートのコンテンツをマクロ対応 Excel テンプレートに変換し、繰り返し可能なスプレッドシートの生成を実現します。これは、組織が一貫した構造と高度な自動化機能を組み合わせた再利用可能なブックテンプレートを必要とする場合に有用です。
+
+POTX から XLTM への変換を自動化することで、チームはスプレッドシート主導の業務向けにスケーラブルなテンプレートワークフローを構築できます。これにより、繰り返し行われるビジネスプロセス全体でプログラム可能な機能をサポートしながら、ブック作成の標準化が促進されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応テンプレート生成**
+  構造と自動化ロジックの両方をサポートする再利用可能な Excel テンプレートを生成します。
+
+* **標準化されたブック作成**
+  繰り返しの出力全体で一貫したスプレッドシート形式を維持するのに役立ちます。
+
+* **運用テンプレートの再利用**
+  プレゼンテーション由来のテンプレートコンテンツに基づく繰り返しのスプレッドシートワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート生成**
+  POTX ファイルを XLTM テンプレートに変換し、繰り返し可能なスプレッドシート作成パイプラインを実現します。
+
+* **動的ブックワークフロー**
+  マクロ対応テンプレートから新しいスプレッドシートファイルを生成するシステムをサポートします。
+
+* **テンプレートライブラリの自動化**
+  再利用可能なスプレッドシートテンプレートの集中作成と管理を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

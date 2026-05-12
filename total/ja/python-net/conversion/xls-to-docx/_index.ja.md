@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から DOCX への変換により、スプレッドシートの内容を編集、共有、構造化されたコミュニケーションが可能な最新の Word 文書に変換できます。表形式データを生のスプレッドシートのままではなく、洗練された文書として提示する必要がある場合に便利です。
+
+Python API を使用すると、XLS から DOCX への変換はスケーラブルな自動化タスクとなり、大量のレポート作成、コンテンツ変換、デジタル文書ワークフローとの統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ビジネス文書作成**
+  スプレッドシート情報をメモ、要約、正式な文書用の DOCX ファイルに変換します。
+
+* **読みやすいデータ提示**
+  XLS テーブルを文書ベースのレイアウトに再構成し、幅広い読者がより容易に利用できるようにします。
+
+* **編集可能な成果物**
+  共同作業環境で修正、注釈付け、再利用が可能な DOCX 出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **パイプライン駆動型変換**
+  新しい XLS データセットがアップロードまたは更新されるたびに、DOCX ファイルを自動的に生成します。
+
+* **スケーラブルなレポーティングシステム**
+  Python API を使用して、スプレッドシートソースから大量の文書出力を作成します。
+
+* **コンテンツ変換ワークフロー**
+  情報提供を標準化するエンタープライズシステムに XLS から DOCX への変換を統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

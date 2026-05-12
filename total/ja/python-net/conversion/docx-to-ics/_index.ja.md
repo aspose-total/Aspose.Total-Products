@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to ICS 変換は、文書ベースの情報を iCalendar 標準に従ったカレンダーイベントファイルに変換します。この変換により、文書に保存されたスケジュール情報をカレンダー互換形式に変換できます。
+
+Python API は、文書からイベントデータを自動的に抽出し、ICS ファイルを生成することを可能にし、自动スケジューリングシステムやカレンダー統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **イベントスケジュール抽出**  
+  文書ベースのイベント詳細をカレンダーイベントに変換します。
+
+* **カレンダー統合ワークフロー**  
+  文書スケジュールをカレンダーシステムにインポートできるようにします。
+
+* **会議およびイベントの自動化**  
+  文書からカレンダーイベントを自動的に作成することを容易にします。
+
+* **スケジュール配布システム**  
+  イベント情報を含む文書からカレンダーファイルを生成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動イベントファイル生成**  
+  システムは DOCX イベントスケジュールを自動的に ICS ファイルに変換できます。
+
+* **文書ベースのスケジューリングパイプライン**  
+  Python の自動化により、文書からカレンダーエントリを生成できます。
+
+* **エンタープライズ カレンダー統合**  
+  文書データを自動スケジューリング用の ICS ファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

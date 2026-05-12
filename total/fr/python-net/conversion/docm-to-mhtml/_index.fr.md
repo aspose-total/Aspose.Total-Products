@@ -53,7 +53,41 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers MHTML transforme les documents contenant des macros en un contenu web prêt à l'emploi, sous forme d'un seul fichier, qui combine le balisage et les ressources liées dans un package portable. C’est utile lorsque les informations du document doivent être consultées, archivées ou transmises dans un format adapté aux navigateurs.
+
+Dans les environnements automatisés, la conversion DOCM vers MHTML prend en charge la publication portable, le rendu sûr pour les e‑mails et le stockage simplifié de représentations de documents autonomes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Représentation Web en fichier unique**
+  Convertit les documents en fichiers web autonomes pour une distribution facile.
+
+* **Archivage portable**
+  Conserve le contenu formaté et les ressources associées ensemble dans une seule sortie.
+
+* **Accès convivial pour les navigateurs**
+  Facilite la visualisation du contenu du document sans dépendre d'un logiciel d'édition complet.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Emballage Web automatisé**
+  Génère des fichiers MHTML à partir de sources DOCM pour des flux de travail de publication légers.
+
+* **Chaînes de livraison de documents**
+  Prend en charge l'envoi de contenu formaté dans un format compact et portable.
+
+* **Conversion par lots pour les archives**
+  Crée des instantanés de documents autonomes de manière programmatique à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

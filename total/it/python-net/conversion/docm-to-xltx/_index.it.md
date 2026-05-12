@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a XLTX trasforma i documenti con macro in modelli di foglio di calcolo moderni, facilitando il riutilizzo di layout di cartelle di lavoro strutturati nei flussi di lavoro di fogli di calcolo standardizzati. È utile quando le organizzazioni hanno bisogno di modelli puliti e ripetibili basati su contenuti derivati da documenti.
+
+In ambienti guidati dall'automazione, la conversione da DOCM a XLTX supporta un provisioning efficiente delle cartelle di lavoro, la gestione centralizzata dei modelli e la trasformazione scalabile dei documenti in risorse di foglio di calcolo moderne.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output di modello di foglio di calcolo moderno**
+  Converte il contenuto del documento in modelli di cartella di lavoro riutilizzabili per operazioni coerenti.
+
+* **Standardizzazione del modello**
+  Aiuta a mantenere strutture di foglio di calcolo unificate attraverso processi ripetuti.
+
+* **Layout dati riutilizzabili**
+  Adatta tabelle e schemi del documento in design di modelli pronti per la cartella di lavoro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatizzata del modello**
+  Produce file XLTX da sorgenti DOCM per flussi di lavoro di fogli di calcolo ripetibili.
+
+* **Gestione centralizzata delle cartelle di lavoro**
+  Supporta la distribuzione scalabile di modelli standardizzati tra i team.
+
+* **Provisioning dinamico di fogli di calcolo**
+  Consente ai sistemi di popolare i modelli di cartella di lavoro riutilizzabili con dati aggiornati in modo programmatico.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to TSV 変換は、マクロ対応ドキュメントをタブ区切り値に変換し、構造化コンテンツの解析、転送、再利用をデータワークフロー全体で容易にします。特に、ドキュメントの表を明確なフィールド区切りを持つシンプルなテキスト形式にする必要がある場合に役立ちます。
+
+自動化環境において、DOCM to TSV 変換は信頼性の高いデータ交換、処理パイプラインへの取り込み、そしてドキュメントコンテンツを軽量な構造化出力にスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **処理用テーブル抽出**
+  ドキュメントの表をデータワークフローに適したテキストベースの構造に変換します。
+
+* **軽量データ交換**
+  ツール間で構造化コンテンツを最小限のフォーマットオーバーヘッドで移動させることをサポートします。
+
+* **インポート準備**
+  区切り入力を受け付けるシステム向けに、ドキュメント由来のレコードを準備するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な構造化エクスポート**
+  継続的な運用ワークフロー向けに DOCM から TSV への変換を自動化します。
+
+* **パイプライン対応データ準備**
+  スクリプトや統合ジョブで簡単に解析できる出力を生成します。
+
+* **バッチ変換ワークフロー**
+  多数の DOCM ファイルをプログラムで一貫した TSV 出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

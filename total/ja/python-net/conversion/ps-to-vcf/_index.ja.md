@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS から VCF への変換は、PostScript ドキュメントを構造化された個人または組織の連絡先情報を保存できるデジタル連絡先カードファイルに変換します。これは、文書ベースのレコード、ディレクトリ、フォーム、またはリストを、コミュニケーションや関係管理システム向けの再利用可能な連絡先データに変換する必要がある場合に有用です。
+
+Python API を使用すると、PS から VCF への変換を自動化でき、連絡先情報の迅速な抽出、フォーマット、配布が可能になります。これにより、データキャプチャワークフローの効率が向上し、アドレス帳や CRM に似たプロセス、連絡先同期システムとのスケーラブルな統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **連絡先データ抽出**  
+  名前や連絡先情報を含む PS 文書を VCF 互換のデジタル連絡先カードに変換します。
+
+* **ディレクトリのデジタル化**  
+  印刷されたまたは生成された連絡先リストを再利用可能な電子アドレス帳エントリに変換するのに役立ちます。
+
+* **名刺およびフォームの処理**  
+  文書ベースの連絡先レコードを標準化された連絡先ファイルに構造化して変換することをサポートします。
+
+* **連絡先共有の有効化**  
+  抽出された情報を共通の連絡先フォーマットを使用して、システムやデバイス間での交換を容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された連絡先ファイル作成**  
+  自動化により、PS ベースの連絡先レコードを即座に再利用できる VCF ファイルに変換できます。
+
+* **CRM とアドレス帳の統合**  
+  このトピックは、抽出された連絡先詳細を下流システムへプログラム的に転送することをサポートします。
+
+* **大量連絡先移行**  
+  動的なワークフローは、大量の PS ファイルを標準化された連絡先データ出力に処理できます。
+
+* **データキャプチャの近代化**  
+  Python API は、手動の連絡先入力をスケーラブルな文書から連絡先への変換パイプラインに置き換えるのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

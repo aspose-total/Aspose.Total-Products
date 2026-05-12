@@ -53,7 +53,41 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Documentos para Imagens transforma páginas do Word em arquivos de imagem para visualização, compartilhamento, publicação e arquivamento visual. Isso é útil quando a renderização de layout fixo, visualização fácil ou distribuição baseada em imagens é necessária em ambientes web e móveis.
+
+APIs Python tornam a conversão de DOC para Imagens eficiente para pipelines de renderização escaláveis, geração de miniaturas, sistemas de pré‑visualização de documentos e fluxos de trabalho de publicação automatizados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Pré‑visualização de Páginas**  
+  Converta páginas do documento em imagens para pré‑visualizações rápidas em portais e aplicativos.
+
+* **Arquivamento Visual**  
+  Preserve a aparência do documento como imagens estáticas para revisão e referência.
+
+* **Suporte à Publicação Web**  
+  Use a saída de imagem quando o conteúdo do documento precisar ser incorporado visualmente online.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Criação de Miniaturas**  
+  Renderize automaticamente arquivos DOC em imagens de página para interfaces de busca e pré‑visualização.
+
+* **Fluxos de Trabalho de Entrega de Conteúdo**  
+  Gere imagens de documentos para sites, painéis ou sistemas de mensagens.
+
+* **Jobs de Renderização em Lote**  
+  Converta programaticamente grandes coleções de documentos em imagens em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から PST への変換は、ドキュメントテンプレートをメールおよびメッセージングアーカイブ用の個人ストレージテーブル ワークフローに変換します。これは、テンプレート由来のコンテンツを、より広範なコミュニケーション ストレージや移行プロセスの一部にする必要がある場合に便利です。
+
+Python API を使用すると、DOT から PST に関連する処理を自動化でき、組織はアーカイブ準備を効率化し、ドキュメントベースのコミュニケーションをメールボックス データ フローに統合できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **アーカイブ パッケージの準備**
+  DOT ベースのメッセージ コンテンツを PST 指向のワークフローに変換し、保存または移行に使用します。
+
+* **メールボックス データの統合**
+  テンプレート駆動のコミュニケーション資料を個人アーカイブ構造に統合します。
+
+* **コミュニケーション保持のサポート**
+  再利用可能なコンテンツを、より広範なメール データ管理プロセス内で保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化アーカイブ ワークフローのサポート**
+  Python スクリプトは、DOT 派生コンテンツを PST ベースの処理および保持タスクのために準備できます。
+
+* **移行プロセスの統合**
+  変換により、ドキュメントテンプレートがメールボックス移行ワークフローに組み込まれます。
+
+* **スケーラブルなコミュニケーション アーカイブ**
+  プログラム的なシステムは、膨大なテンプレート コンテンツのアーカイブ準備を標準化できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

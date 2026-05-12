@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para PPSM transforma o conteúdo de modelos do Word em um formato de apresentação de slides com macros habilitadas para fluxos de trabalho de apresentação direta, com suporte avançado de automação. É valiosa onde a reprodução de apresentações e a automação incorporada precisam trabalhar juntas.
+
+Usando APIs Python, essa conversão ajuda a automatizar a criação de arquivos de apresentação de slides prontos para uso, ao mesmo tempo em que suporta requisitos de fluxo de trabalho mais avançados ligados à entrega de conteúdo repetível.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Apresentações com Macros Habilitadas**
+  Converta modelos de documentos em apresentações de visualização direta com suporte à automação.
+
+* **Entrega Avançada de Apresentações**
+  Prepare saídas de apresentações de slides para ambientes que dependem de comportamento interativo ou automatizado.
+
+* **Reuso Visual Estruturado**
+  Reaproveite o conteúdo de documentos em ativos de apresentações de slides prontos para uso.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Produção Automatizada de Apresentações**
+  Gere arquivos PPSM a partir de modelos DOTX em fluxos de entrega repetíveis.
+
+* **Reprodução de Apresentações Orientada por Fluxo de Trabalho**
+  Use os ativos de apresentações convertidos em sistemas de apresentação que necessitam de automação.
+
+* **Distribuição Visual Escalável**
+  Padronize a geração de apresentações de slides com suporte a macros a partir do conteúdo de modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

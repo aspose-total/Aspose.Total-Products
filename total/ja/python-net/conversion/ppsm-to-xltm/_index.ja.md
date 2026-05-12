@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における PPSM から XLTM への変換は、マクロ対応のプレゼンテーション コンテンツを、繰り返し可能なワークブック生成のためのマクロ対応スプレッドシート テンプレート形式に変換することをサポートします。スライドから取得したデータを、自動化ロジックと再利用可能な構造を備えた標準化されたスプレッドシート テンプレートに埋め込む必要がある場合に便利です。
+
+自動化の観点から見ると、PPSM から XLTM への変換は一貫性を向上させ、テンプレートベースのスプレッドシート作成を可能にし、プレゼンテーション ソースからマクロ対応ワークブック資産をスケーラブルに生成することを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**  
+  プレゼンテーション情報を自動化の可能性を持つ再利用可能なスプレッドシート テンプレートに変換します。
+
+* **標準化されたワークブック設計**  
+  繰り返し発生するビジネスおよび技術的ワークフロー向けに、再利用可能なスプレッドシート構造の作成を支援します。
+
+* **再利用可能なデータパッケージング**  
+  テンプレート駆動のスプレッドシートを通じて、プレゼンテーション由来のコンテンツを一貫して提供することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート配布**  
+  Python API を使用して、集中管理されたスプレッドシート テンプレート ワークフロー用の XLTM ファイルを生成できます。
+
+* **繰り返し可能なワークブック生成**  
+  変換は、プレゼンテーション由来の入力から構造化されたスプレッドシートを作成するシステムをサポートします。
+
+* **スケーラブルなテンプレートベース処理**  
+  プログラムパイプラインは XLTM 出力を利用して、チーム全体でスプレッドシートの自動化を標準化できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

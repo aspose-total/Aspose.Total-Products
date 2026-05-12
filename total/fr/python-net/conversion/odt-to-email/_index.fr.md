@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODT vers Email transforme le contenu des documents en une sortie prête à être envoyée par courriel, facilitant le partage de rapports, avis, résumés ou texte formaté via des flux de messagerie. Cela est utile lorsque des documents officiels doivent être réutilisés pour une communication directe.
+
+Avec les API Python, la conversion ODT vers Email peut être intégrée aux systèmes de notification automatisés, aux flux d'approbation et aux pipelines de communication basés sur les documents. Elle améliore l'efficacité en transformant les fichiers statiques en contenu sortant exploitable.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Notifications basées sur les documents**  
+  Convertit le contenu écrit en une communication adaptée aux e‑mails.
+
+* **Distribution de rapports**  
+  Permet le partage rapide de résumés, mises à jour ou annonces à partir des documents sources.
+
+* **Communication de flux de travail**  
+  Prend en charge les scénarios d'approbation, d'alerte et de messagerie de statut.
+
+* **Réutilisation du contenu**  
+  Réutilise le texte du document pour la correspondance externe ou interne.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'e‑mail déclenchée**  
+  Les systèmes peuvent automatiquement convertir les fichiers ODT en contenu d'e‑mail lorsque de nouveaux documents arrivent.
+
+* **Messagerie du flux d'approbation**  
+  L'automatisation Python peut transformer les résumés de documents en messages pour les réviseurs ou parties prenantes.
+
+* **Préparation d'une diffusion massive**  
+  Plusieurs documents peuvent être convertis en contenu prêt à être envoyé par e‑mail à grande échelle.
+
+* **Notifications basées sur les événements**  
+  Les changements dans les dépôts de documents peuvent déclencher la conversion et la distribution automatisées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

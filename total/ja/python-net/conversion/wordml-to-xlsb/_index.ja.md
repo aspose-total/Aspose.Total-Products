@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から XLSB への変換は、文書ベースの構造化コンテンツを、効率的な保存と大規模ブックブックの取り扱いに最適化されたバイナリ スプレッドシート ファイルに変換します。変換されたデータが、パフォーマンスが向上したスプレッドシート機能を必要とする場合に有用です。
+
+Python API は、文書のテーブルを抽出・整理し、スケーラブルなデータワークフローに適したバイナリ ワークブック出力に変換することで、WordML から XLSB への変換を自動化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **効率的なワークブック保存**
+  WordML コンテンツを XLSB ファイルに変換し、コンパクトなスプレッドシート処理を実現します。
+
+* **大規模データワークフローのサポート**
+  変換された大容量データセットを、スプレッドシート互換形式で管理するのに役立ちます。
+
+* **構造化テーブル変換**
+  文書データを、パフォーマンス重視のワークブック環境で利用可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量スプレッドシート変換**
+  大量の WordML ドキュメントから XLSB の生成を自動化します。
+
+* **パフォーマンス重視のデータパイプライン**
+  バイナリ スプレッドシート出力の恩恵を受けるワークフローをサポートします。
+
+* **スケーラブルなレポート作成**
+  文書テーブルを定期的に変換し、効率的なワークブック資産を作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

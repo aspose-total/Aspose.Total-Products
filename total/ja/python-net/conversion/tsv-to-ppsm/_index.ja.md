@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から PPSM への変換は、構造化された表形式データを、拡張機能を備えたマクロ対応スライドショーファイルに変換し、高度な動作でプレゼンテーション再生に使用されます。これは、すぐに提示できる出力を制御されたデータ駆動型プレゼンテーションシステムと整合させる必要があるワークフローで有用です。
+
+Python API を使用すれば、TSV から PPSM への変換を自動化でき、スライドショーの作成を簡素化し、拡張されたプレゼンテーションワークフローを支援し、繰り返し行われるデータからプレゼンテーションへのパイプラインのスケーラビリティを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応スライドショー**  
+  TSV データセットを、拡張されたプレゼンテーション環境に適したスライドショーファイルに変換します。
+
+* **プレゼンテーション再生配信**  
+  構造化されたソースデータから構築された直接表示のプレゼンテーション出力をサポートします。
+
+* **自動化レポートスライド**  
+  繰り返し使用されるデータをスライドショー資産としてパッケージ化し、運用での利用を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **データからスライドショーへの自動化**  
+  Python API は、繰り返し可能なロジックで TSV ファイルを PPSM 出力に変換できます。
+
+* **高度なプレゼンテーションワークフロー**  
+  自動化は、よりリッチな機能を必要とする環境向けにスライドショー生成をサポートします。
+
+* **スケーラブルなバッチ変換**  
+  大量の TSV コレクションを効率的に PPSM ファイルへ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

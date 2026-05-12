@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS를 Word로 변환하면 스프레드시트 데이터를 편집 가능한 워드 프로세싱 문서로 변환하여 커뮤니케이션, 문서화 및 구조화된 보고에 활용할 수 있습니다. 원시 스프레드시트 내용을 보다 서술적이고 읽기 쉬운 형태로 제시해야 할 때 유용합니다.
+
+Python API를 사용하면 XLS를 Word로 변환하는 작업을 비즈니스 시스템 전반에 걸쳐 자동화할 수 있어 신뢰할 수 있는 문서 생성, 수작업 감소, 그리고 현대 콘텐츠 워크플로우와의 효율적인 통합을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 기반 보고**
+  스프레드시트 데이터를 요약, 운영 메모 및 보고서를 위한 Word 문서로 변환합니다.
+
+* **독자 친화적 포맷**
+  표 형식 정보를 보다 접근하기 쉬운 텍스트 문서 구조로 제시합니다.
+
+* **편집 가능한 워크플로우 출력**
+  협업 환경에서 검토, 업데이트 및 공유할 수 있는 Word 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 Word 문서 생성**
+  반복적인 보고 또는 문서화 워크플로우에서 XLS 입력을 기반으로 Word 파일을 생성합니다.
+
+* **시스템-문서 통합**
+  Python API를 사용하여 스프레드시트 내보내기를 자동으로 문서 출력으로 변환합니다.
+
+* **확장 가능한 비즈니스 콘텐츠 처리**
+  대량의 스프레드시트 데이터를 워드 프로세싱 파일로 변환하는 작업을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

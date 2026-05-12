@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で DOCX に変換することで、構造化された表形式データを、読みやすく、編集しやすく、プロフェッショナルな環境で配布しやすい最新のワードプロセッシング文書に変換できます。  
+この変換は、未加工の CSV コンテンツを洗練された DOCX 出力に変換することで、効率性、標準化、デジタルレポートワークフローとの統合を向上させ、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プロフェッショナルレポート生成**  
+  CSV データを DOCX 文書に変換し、洗練されたビジネスレポート、サマリー、正式な納品物を作成します。
+
+* **編集可能な文書出力**  
+  現代のオフィスエコシステム内で簡単に更新、レビュー、共有できる DOCX ファイルを生成します。
+
+* **構造化データの提示**  
+  スプレッドシート形式の入力を、DOCX 文書内の読みやすい段落、表、セクションに変換します。
+
+* **繰り返し行う文書作成ワークフロー**  
+  繰り返し使用する CSV データセットを利用し、業務、コンプライアンス、レポート作成のニーズに合わせた標準化された DOCX コンテンツを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期レポートの自動化**  
+  スケジュールされたレポートサイクルやデータ公開ルーチン向けに、CSV から DOCX への生成を自動化します。
+
+* **コンテンツパイプライン統合**  
+  生データセットからビジネス向け文書を作成するバックエンドの Python ワークフローに DOCX 変換を組み込みます。
+
+* **大量文書処理**  
+  複数の CSV ファイルを一括で DOCX 出力に変換し、文書構造の一貫性を保ちます。
+
+* **動的テンプレートへの自動入力**  
+  CSV フィールドを使用して、テンプレート、ルール、またはトリガーされたワークフローに基づき DOCX 文書を自動的に組み立てます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

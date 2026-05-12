@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to POTX 変換（Python API）は、OpenDocument テキストテンプレートを、繰り返しスライド作成のための最新プレゼンテーションテンプレートファイルに変換します。構造化された文章コンテンツを、将来のプレゼンテーション向けのクリーンで再利用可能な出発点にする必要がある場合に有用です。
+
+この変換は、テンプレートベースのプレゼンテーションワークフローを可能にし、デザインの繰り返しを削減し、一貫性を向上させ、大規模なコンテンツ生成を簡素化することで、Automation を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **最新テンプレート出力**  
+  文書コンテンツから再利用可能なプレゼンテーションテンプレートを作成します。
+
+* **一貫したスライド作成**  
+  プレゼンテーション全体でフォーマットと構造の標準化を支援します。
+
+* **コンテンツからテンプレートへの再利用**  
+  物語的なソース素材をプレゼンテーション用のフレームワークに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート公開**  
+  繰り返し必要なプレゼンテーションのために POTX ファイルを生成します。
+
+* **スケーラブルなスライド作成**  
+  標準化されたテンプレートを使用してデッキ作成を加速します。
+
+* **コンテンツ運用統合**  
+  文書生成と繰り返し可能なプレゼンテーションワークフローを接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

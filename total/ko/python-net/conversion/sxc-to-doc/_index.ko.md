@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 DOC로 변환은 스프레드시트 기반 콘텐츠를 검토, 공유 및 텍스트 중심 워크플로에서 보관하기 쉬운 고전적인 문서 형식으로 변환합니다. 구조화된 표 형식 정보가 보다 넓은 접근성을 위해 읽기 쉬운 비즈니스 문서, 요약 또는 보고서로 제공되어야 할 때 유용합니다.
+
+자동화 환경에서 SXC에서 DOC로 변환은 출력 생성 표준화, 수동 문서 준비 감소, 그리고 Python API를 통한 하위 퍼블리싱, 승인 또는 컴플라이언스 프로세스를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **보고서 생성**  
+  스프레드시트 콘텐츠를 읽기 쉬운 문서로 변환하여 공식 보고 및 이해관계자 커뮤니케이션에 활용합니다.
+
+* **콘텐츠 배포**  
+  문서 기반 형식을 선호하는 사용자에게 데이터 기반 콘텐츠를 보다 쉽게 공유할 수 있게 합니다.
+
+* **아카이브 준비**  
+  장기 문서 워크플로에서 일반적으로 사용되는 형식으로 비즈니스 기록을 보존하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 문서 생성**  
+  반복적인 보고 파이프라인을 위해 여러 SXC 파일을 DOC 문서로 자동 변환합니다.
+
+* **데이터-문서 퍼블리싱**  
+  Python 워크플로가 스프레드시트 데이터를 서술형 문서로 변환하여 퍼블리싱 또는 검토에 활용할 수 있게 합니다.
+
+* **워크플로 통합**  
+  승인, 기록 보관 및 콘텐츠 전달 파이프라인과 같은 대규모 시스템 내에서 문서 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から PPT への変換は、Word テンプレートのコンテンツをスライドベースのコミュニケーションに使用される従来のプレゼンテーション形式に変換します。文書構造をプレゼンテーションファイルに適応させ、レガシーなプレゼンテーションワークフローとの互換性を確保する際に役立ちます。
+
+Python API を使用することで、この変換はテキストベースのテンプレートをレポート、トレーニング、コミュニケーションシステム全体で再利用可能なスライドデッキに自動変換することを容易にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **レガシー プレゼンテーションのサポート**
+  文書コンテンツを古いワークフローと互換性のあるプレゼンテーション形式に変換します。
+
+* **スライドでのコンテンツ再利用**
+  構造化されたテンプレートを視覚的なコミュニケーションやプレゼンテーション向けに適応させます。
+
+* **クロスフォーマットの再利用**
+  文書テンプレートの価値をスライドショー指向の環境へ拡張します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたレガシーデック作成**
+  互換性重視のワークフローで DOTX テンプレートから PPT ファイルを生成します。
+
+* **繰り返しのプレゼンテーションワークフロー**
+  構造化された文書からプログラム的に再利用可能なスライド出力を構築します。
+
+* **スケーラブルなコンテンツ適応**
+  大量の文書コンテンツをレガシーなプレゼンテーション資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

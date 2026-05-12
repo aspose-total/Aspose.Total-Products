@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 EPUB를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB을 VCF로 변환하는 파이썬은 출판 자료에 디렉터리, 프로필 또는 연락처 세부 정보가 포함된 경우 문서 내용을 연락처 지향 데이터 파일로 변환할 수 있게 합니다. 이는 디지털 출판물에서 구조화된 신원 정보를 추출하고 재활용해야 하는 워크플로에 유용합니다.
+
+자동화 중심 시스템에서 EPUB을 VCF로 변환하면 데이터 이식성이 향상되고 수동 연락처 입력이 감소하며 파이썬 애플리케이션이 출판물에서 파생된 연락처 정보를 현대 커뮤니케이션 및 동기화 워크플로에 통합할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **연락처 정보 추출**  
+  사람이나 디렉터리 세부 정보가 포함된 EPUB 콘텐츠를 연락처 기반 사용을 위한 VCF 파일로 변환합니다.
+
+* **디렉터리 데이터 변환**  
+  구조화된 출판 정보를 휴대 가능한 연락처 레코드로 재활용합니다.
+
+* **CRM 및 주소록 지원**  
+  VCF 출력을 사용하여 관련 연락처 데이터를 커뮤니케이션 관계를 관리하는 시스템으로 이동합니다.
+
+* **프로필 기반 데이터 공유**  
+  가져오기 및 배포가 쉬운 형식으로 연락처 지향 출판 콘텐츠를 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 연락처 생성**  
+  파이썬 워크플로는 연락처 관련 콘텐츠가 포함된 EPUB 문서에서 VCF 파일을 생성할 수 있습니다.
+
+* **디렉터리 동기화 파이프라인**  
+  자동 시스템은 출판 기반 디렉터리 데이터를 추출하고 휴대 가능한 연락처 레코드로 변환할 수 있습니다.
+
+* **대량 연락처 처리**  
+  연락처가 풍부한 대량 EPUB 파일을 프로그래밍 방식으로 변환하여 효율적으로 재사용합니다.
+
+* **동적 데이터 통합**  
+  EPUB을 VCF로 변환은 연락처 정보를 커뮤니케이션 플랫폼에 공급하는 자동화 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

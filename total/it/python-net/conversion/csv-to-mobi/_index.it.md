@@ -65,7 +65,46 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da CSV a MOBI tramite le API Python consente di trasformare dati tabulari strutturati in file ebook digitali adatti alla lettura portatile e ai flussi di lavoro di pubblicazione elettronica.  
+Questa conversione supporta l’automazione convertendo dati grezzi in contenuti pronti per la distribuzione, che possono essere pubblicati, riutilizzati e scalati all’interno di sistemi di contenuti digitali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione di contenuti ebook**  
+  Converti i dati CSV in file MOBI per la lettura portatile, contenuti di riferimento strutturati e distribuzione digitale.
+
+* **Pubblicazioni digitali guidate dai dati**  
+  Trasforma i set di dati tabulari in output in stile ebook leggibile per guide, cataloghi o prodotti informativi strutturati.
+
+* **Consegna di contenuti portatili**  
+  Genera file MOBI quando i contenuti devono essere confezionati in un formato di pubblicazione compatto e adatto al lettore.
+
+* **Confezionamento di informazioni scalabile**  
+  Utilizza fonti CSV per creare pubblicazioni digitali coerenti da set di dati ricorrenti o strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di ebook**  
+  Utilizza le API Python per convertire l'input CSV in file MOBI per flussi di lavoro di pubblicazione ripetibili.
+
+* **Integrazione della pipeline di pubblicazione**  
+  Incorpora la conversione CSV in MOBI nei sistemi che confezionano automaticamente contenuti strutturati per lettori digitali.
+
+* **Esportazione digitale di massa**  
+  Elabora grandi volumi di dati CSV in output MOBI per la pubblicazione di cataloghi o la distribuzione di contenuti.
+
+* **Assemblaggio dinamico di pubblicazioni**  
+  Crea file MOBI programmaticamente da set di dati CSV in evoluzione per supportare la creazione di contenuti scalabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

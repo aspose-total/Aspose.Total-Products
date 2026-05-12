@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a FODS trasforma i modelli di documento in file di foglio di calcolo OpenDocument piatti, adatti allo scambio di dati aperto e strutturato. Questo è utile in ambienti che privilegiano formati trasparenti e una ampia interoperabilità.
+
+Utilizzando le API Python, i team possono automatizzare l'elaborazione da DOT a FODS per supportare flussi di lavoro aperti, ridurre le conversioni manuali e migliorare la coerenza nella trasformazione di documenti orientati ai dati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di foglio di calcolo aperto**
+  Converti i file DOT in FODS per la gestione di dati strutturati negli ecosistemi di documenti aperti.
+
+* **Condivisione dati interoperabile**
+  Utilizza l'output del foglio di calcolo piatto per scambiare informazioni basate su modelli tra i sistemi.
+
+* **Archiviazione strutturata leggibile**
+  Conserva il contenuto estratto in un formato di foglio di calcolo aperto basato su XML per la manutenzione e il riutilizzo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Integrazione di flusso di lavoro aperto**
+  L'automazione Python può generare file FODS dai modelli DOT per un'elaborazione basata su standard.
+
+* **Trasformazione programmata dei modelli**
+  I lavori ripetuti possono esportare il contenuto dei modelli in file di foglio di calcolo piatti con il minimo sforzo.
+
+* **Conversione scalabile in formato aperto**
+  Pipeline dinamiche aiutano a standardizzare operazioni su larga scala da documento a FODS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

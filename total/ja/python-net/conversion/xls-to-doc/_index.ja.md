@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から DOC への変換により、スプレッドシートデータをレポート作成、文書化、構造化コンテンツの再利用のための編集可能なドキュメント形式に変換できます。これにより、チームは表形式のビジネス情報を読みやすい記述ドキュメントに変換し、コラボレーション、レビュー、下流の公開を支援します。
+
+Python API を使用した XLS から DOC への変換は、手動での書式設定作業を削減し、スプレッドシートソースからビジネス文書をスケールで繰り返し生成できるようにすることで、ドキュメントワークフロー全体の自動化を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レポート作成**
+  スプレッドシートベースのデータを要約、社内レポート、ビジネスコミュニケーション用のドキュメントレイアウトに変換します。
+
+* **コンテンツ再フォーマット**
+  表形式の XLS コンテンツを段落に適したドキュメント構造に変換し、読みやすさと編集のしやすさを向上させます。
+
+* **ドキュメントワークフロー**
+  スプレッドシートの記録を運用文書、プロセスノート、またはコンプライアンスファイルのソース素材として使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なドキュメント作成**
+  定期的なレポート作成プロセスのために、繰り返し使用される XLS 入力から DOC ファイルを自動的に生成します。
+
+* **ワークフローベースのファイル変換**
+  スプレッドシートファイルがドキュメント処理パイプラインに入ったときに変換をトリガーします。
+
+* **動的コンテンツ公開**
+  Python API を使用して更新されたスプレッドシートを編集可能なドキュメントに変換し、レビューと配布のために公開します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

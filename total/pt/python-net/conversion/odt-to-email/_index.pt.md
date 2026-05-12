@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODT para Email transforma o conteúdo do documento em saída pronta para email, facilitando o compartilhamento de relatórios, avisos, resumos ou texto formatado através de fluxos de mensagens. Isso é útil quando documentos formais precisam ser reutilizados para comunicação direta.
+
+Com APIs Python, a conversão de ODT para Email pode ser integrada a sistemas automatizados de notificação, fluxos de aprovação e pipelines de comunicação baseados em documentos. Ela melhora a eficiência ao transformar arquivos estáticos em conteúdo outbound acionável.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Notificações Baseadas em Documentos**  
+  Converte o conteúdo escrito em comunicação amigável para email.
+
+* **Distribuição de Relatórios**  
+  Permite o compartilhamento rápido de resumos, atualizações ou anúncios a partir de documentos de origem.
+
+* **Comunicação de Fluxo de Trabalho**  
+  Suporta cenários de aprovação, alerta e mensagens de status.
+
+* **Reaproveitamento de Conteúdo**  
+  Reutiliza o texto do documento para correspondência externa ou interna.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Email Disparada**  
+  Sistemas podem converter automaticamente arquivos ODT em conteúdo de email quando novos documentos chegam.
+
+* **Mensagens de Fluxo de Aprovação**  
+  A automação em Python pode transformar resumos de documentos em mensagens para revisores ou partes interessadas.
+
+* **Preparação de Alcance em Massa**  
+  Vários documentos podem ser convertidos em conteúdo pronto para envio de email em escala.
+
+* **Notificações Baseadas em Eventos**  
+  Alterações nos repositórios de documentos podem disparar conversão e distribuição automatizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

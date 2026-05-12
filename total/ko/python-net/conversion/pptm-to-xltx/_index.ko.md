@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PPTM에서 XLTX로의 변환은 매크로가 포함된 프레젠테이션 콘텐츠를 표준화되고 재사용 가능한 워크북 생성을 위한 최신 스프레드시트 템플릿 파일로 변환합니다. 조직이 임베디드 매크로에 의존하지 않고 프레젠테이션 정보를 반복 가능한 스프레드시트 구조로 변환하려는 경우에 유용합니다.
+
+이 변환은 대규모로 일관된 스프레드시트 출력을 생성하기 위한 깔끔한 템플릿 기반 기반을 제공함으로써 자동화를 향상시킵니다. 데이터 워크플로 설정을 단순화하고, 서식 일관성을 개선하며, 다양한 사용 사례에 걸쳐 프로그래밍 방식 워크북 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 템플릿 표준화**
+  슬라이드에서 파생된 콘텐츠를 구조화된 워크북 생성을 위한 재사용 가능한 템플릿으로 변환합니다.
+
+* **일관된 출력 준비**
+  스프레드시트 출력이 일관된 레이아웃과 조직 규칙을 따르도록 보장하는 데 도움을 줍니다.
+
+* **프레젠테이션 데이터 재사용성**
+  프레젠테이션 콘텐츠를 반복 가능한 스프레드시트 워크플로에 더 쉽게 통합할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 템플릿 생성**
+  PPTM 파일에서 XLTX 템플릿을 생성하여 반복 가능한 스프레드시트 제작을 가능하게 합니다.
+
+* **확장 가능한 워크북 생성**
+  템플릿 기반 워크플로에서 일관된 스프레드시트를 프로그래밍 방식으로 생성하는 것을 지원합니다.
+
+* **운영 형식 자동화**
+  프레젠테이션 기반 소스 콘텐츠에서 표준화된 스프레드시트 준비를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

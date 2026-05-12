@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MSG vers MD convertit les messages électroniques en Markdown pour une documentation texte propre, légère et portable. Elle est particulièrement utile lorsque le contenu des e‑mails doit être réutilisé dans des bases de connaissances, de la documentation développeur ou des flux de travail de publication de contenu.
+
+Dans les pipelines d’automatisation, la conversion MSG vers MD prend en charge la documentation sous contrôle de version, la normalisation du contenu et le traitement simplifié du texte. Elle aide à faire le lien entre la communication par e‑mail et les systèmes modernes d’opérations de contenu et de publication.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Intégration de la base de connaissances**  
+  Convertir les e‑mails en Markdown pour une documentation interne structurée.
+
+* **Réutilisation de contenu conviviale pour les développeurs**  
+  Conserver le texte du message dans un format adapté aux dépôts et aux systèmes de documentation.
+
+* **Préparation de publication légère**  
+  Préparer le contenu dérivé d’e‑mail pour une utilisation sur un site statique ou dans un flux de travail de contenu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Automatisation du pipeline de documentation**  
+  Transformer les fichiers MSG en Markdown pour une publication ou un indexage automatisés.
+
+* **Gestion de contenu basée sur les dépôts**  
+  Stocker le contenu d’e‑mail converti dans des flux de travail de documentation sous contrôle de version.
+
+* **Processus de normalisation du texte**  
+  Standardiser la communication entrante en un contenu texte léger et adapté aux machines.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to DOCM 변환을 통해 표 형식 데이터를 매크로 지원 워드 프로세싱 문서로 변환할 수 있으며, 이는 보다 풍부한 문서 워크플로와 고급 처리 요구를 지원합니다. 구조화된 데이터를 편집 가능한 형식으로 제공해야 하며, 제어된 기업 문서 환경에 적합할 때 유용합니다.
+
+Python API를 사용하면 TSV to DOCM 변환을 자동화 시스템에 통합하여 대규모로 재사용 가능한 문서를 생성할 수 있으며, 문서 조립, 워크플로 오케스트레이션 및 구조화된 콘텐츠 전달을 간소화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 보고**  
+  고급 문서 동작이 필요한 환경을 위해 데이터 기반 문서를 준비합니다.
+
+* **구조화된 문서 출력**  
+  TSV 콘텐츠를 운영 및 관리용으로 적합한 편집 가능한 파일로 변환합니다.
+
+* **자동화된 콘텐츠 패키징**  
+  데이터가 보다 인터랙티브한 형식으로 제공되어야 하는 문서 생성 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 문서 생성**  
+  자동화를 통해 TSV 데이터 세트에서 매크로 지원 문서 형식을 채울 수 있습니다.
+
+* **엔터프라이즈 워크플로 통합**  
+  Python API는 데이터 내보내기를 하위 문서 처리 시스템에 연결할 수 있습니다.
+
+* **배치 퍼블리싱 파이프라인**  
+  여러 TSV 파일을 반복 가능한 자동 실행으로 DOCM 문서로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

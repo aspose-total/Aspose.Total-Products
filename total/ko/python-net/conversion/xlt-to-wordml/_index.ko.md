@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLT를 WordML로 변환하면 Excel 템플릿 파일을 XML 기반 Word 문서로 변환할 수 있어 구조화된 처리, 상호 운용성 및 시스템 수준 문서 처리를 위해 유용합니다. 이는 문서 출력이 기계가 읽을 수 있으면서 텍스트 기반 워크플로에 적응 가능해야 할 때 특히 가치가 있습니다.
+
+자동화 환경에서 XLT를 WordML로 변환하면 확장 가능하고 프로그래밍 가능한 문서 변환을 지원합니다. 이는 시스템이 검증, 수정 또는 XML 인식 처리 파이프라인에 통합할 수 있는 구조화된 Word 호환 콘텐츠를 생성하도록 도와주어 더 큰 제어와 유연성을 제공합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 문서 출력**  
+  XML 구조의 이점을 활용하는 문서 워크플로를 위해 XLT 템플릿을 WordML 파일로 변환합니다.
+
+* **시스템 통합 지원**  
+  기계가 읽을 수 있는 문서 표현이 필요한 환경에서 WordML 출력을 사용합니다.
+
+* **템플릿 콘텐츠 직렬화**  
+  스프레드시트 기반 레이아웃을 제어된 처리를 위한 구조화된 문서 마크업으로 변환합니다.
+
+* **상호 운용 워크플로 설계**  
+  XML 기반 포맷팅이 일관성과 처리를 향상시키는 문서 교환 시나리오를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **XML 인식 변환 파이프라인**  
+  구조화된 자동화 워크플로를 위해 XLT 템플릿에서 WordML 파일을 생성하는 Python API를 사용합니다.
+
+* **프로그래밍 방식 문서 조작**  
+  WordML 출력을 동적으로 문서 콘텐츠를 검사, 변환 또는 강화하는 시스템에 전달합니다.
+
+* **확장 가능한 구조화된 퍼블리싱**  
+  자동 퍼블리싱 또는 전달 시스템을 위해 스프레드시트 템플릿을 XML 기반 Word 문서로 변환합니다.
+
+* **콘텐츠 검증 워크플로**  
+  일관된 포맷팅과 기계 수준 처리가 필요한 파이프라인에서 구조화된 WordML 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

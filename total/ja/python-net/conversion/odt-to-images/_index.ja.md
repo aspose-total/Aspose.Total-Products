@@ -53,7 +53,47 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から画像への変換は、文書ページやコンテンツセクションを、プレビュー、共有、埋め込み、またはアーカイブが容易なビジュアル形式に変換します。レイアウトの忠実性や視覚的アクセシビリティが、編集可能なテキストよりも重要な場合に特に有用です。
+
+Python API ベースの自動化により、ODT から画像への変換はプレビュー、コンテンツ公開、文書可視化ワークフローに効果的になります。ウェブ、レビュー、承認プロセス向けにページ単位のアセットをスケーラブルに生成することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **文書プレビュー生成**  
+  ソースファイルを開かずに迅速に閲覧できる画像表現を作成します。
+
+* **Web 公開アセット**  
+  ポータル、リスト、または埋め込み表示に適したビジュアルコンテンツを生成します。
+
+* **アーカイブスナップショット**  
+  ページの外観を静的なビジュアル形式で保存します。
+
+* **レビューおよび注釈サポート**  
+  画像ベースのワークフローで文書の検査が容易になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイル作成パイプライン**  
+  Python ワークフローは新しくアップロードされた ODT 文書のプレビュー画像を生成できます。
+
+* **バッチページレンダリング**  
+  大量のファイルコレクションをページごとのビジュアルに自動的にレンダリングできます。
+
+* **公開自動化**  
+  画像出力はウェブサイト、コンテンツ管理システム、またはレビュー ツールに供給できます。
+
+* **ビジュアル承認プロセス**  
+  変換されたページはプログラムで注釈や承認のワークフローを通過できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

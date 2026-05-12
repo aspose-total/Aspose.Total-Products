@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から XLAM への変換は、マクロ対応の Word テンプレートをスプレッドシートの自動化および再利用可能な機能配布のための Excel アドイン ファイルに変換します。テンプレートベースのロジックやコンテンツを、再利用可能な拡張機能として Excel 中心のワークフローでサポートする必要がある場合に有用です。
+
+DOTM から XLAM への変換に Python API を使用することで、構造化されたコンテンツと機能を文書テンプレートからスプレッドシートのアドイン ワークフローへ移行させ、Automation を支援します。これにより、再利用可能な操作の標準化が促進され、スケーラブルな業務プロセス統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシート アドインの準備**
+  再利用可能な Excel 指向のワークフローをサポートするために、DOTM ソースを XLAM 出力に変換します。
+
+* **再利用可能な自動化資産の作成**
+  テンプレート駆動のコンテンツを、繰り返し使用できるスプレッドシート用ファイルに変換します。
+
+* **運用の標準化**
+  文書テンプレートから派生した再利用可能なスプレッドシート機能の管理された配布をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたアドイン生成**
+  システムは高度なスプレッドシートワークフローの一部として、DOTM テンプレートから XLAM 互換の出力を作成できます。
+
+* **再利用可能なビジネスロジックの配布**
+  この変換は、繰り返し使用できるスプレッドシート支援資産のプログラム的な準備をサポートします。
+
+* **バッチ自動化パッケージング**
+  プログラムによる処理により、テンプレートファイルを大規模に XLAM 出力へ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

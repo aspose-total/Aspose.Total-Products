@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PST 変換（Python API）は、OpenDocument テキストテンプレートをメール指向のアーカイブおよび転送ワークフロー向けの個人用ストレージメールボックス構造に変換します。これは、文書生成されたコミュニケーションをメールボックス中心の形式で保存する必要がある場合に便利です。
+
+この変換は、組織がテンプレートベースのメッセージコンテンツをアーカイブ、移行、そして大規模なコミュニケーション管理をサポートするストレージワークフローに移行するのを支援することで、Automation を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールボックス アーカイブ作成**  
+  生成されたコミュニケーションコンテンツをストレージ指向のメール形式にパッケージ化します。
+
+* **保持と転送のサポート**  
+  メッセージベースのコンテンツを効率的に保存および移動するのに役立ちます。
+
+* **テンプレート駆動型コミュニケーションストレージ**  
+  メールボックス互換の出力のために文書テンプレートを再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動アーカイブ生成**  
+  OTTベースのメッセージコンテンツを大量にPST出力に変換します。
+
+* **コンプライアンス指向ワークフロー**  
+  記録保持と構造化されたメールストレージプロセスをサポートします。
+
+* **コミュニケーション移行パイプライン**  
+  生成されたコンテンツをエンタープライズメール転送ワークフローに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

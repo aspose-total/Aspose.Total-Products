@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DIF para OTT em Python permite que o conteúdo estruturado em DIF seja transformado em modelos de texto de documento aberto para criação reutilizável e padronizada de documentos. Isso é valioso quando fluxos de trabalho de documentos exigem geração baseada em modelos em ambientes de formato aberto.
+
+Usar APIs Python para conversão de DIF para OTT suporta automação eficiente de modelos e ajuda organizações a construir estruturas de documentos reutilizáveis a partir de dados estruturados. Isso melhora a consistência ao alinhar fluxos de trabalho de modelos com padrões de documentos abertos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo Aberto**
+  Converta arquivos DIF em modelos OTT para geração reutilizável de documentos de texto.
+
+* **Estruturas de Documentos Baseadas em Padrões**
+  Construa modelos de formato aberto para organizações que priorizam a interoperabilidade.
+
+* **Documentos Operacionais Repetíveis**
+  Use modelos OTT para suportar formulários, relatórios ou documentos de processo recorrentes.
+
+* **Desenvolvimento de Biblioteca de Modelos**
+  Gere ativos de modelo a partir de fontes estruturadas para gerenciamento centralizado de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelos**
+  Crie arquivos OTT programaticamente a partir de conjuntos de dados DIF para produção escalável de modelos.
+
+* **Padronização de Fluxo de Trabalho Aberto**
+  Integre a conversão em sistemas Python que gerenciam modelos de documentos abertos.
+
+* **Criação Reutilizável de Ativos de Saída**
+  Produza arquivos prontos para modelo automaticamente para tarefas repetidas de geração de documentos.
+
+* **Entrega de Modelos entre Sistemas**
+  Converta e distribua modelos OTT através de infraestrutura automatizada de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

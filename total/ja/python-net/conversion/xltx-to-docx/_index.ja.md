@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から DOCX への変換は、スプレッドシートのテンプレートコンテンツを、編集可能で共有可能、かつ構造化された文書作成に広く使用されている最新のワードプロセッシング文書形式に変換します。組織がテンプレート主導のスプレッドシートレイアウトから、レポート作成、文書通信、または正式なコンテンツ配信のための柔軟なテキスト文書へ移行する必要がある場合に重要です。
+
+自動化の観点から見ると、XLTX から DOCX への変換は、標準化されたスプレッドシートテンプレートを一貫した文書に変換することで、スケールで生成でき、業務システムに統合でき、デジタルワークフロー全体で再利用できるようになり、効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **編集可能なレポート作成**  
+  スプレッドシートテンプレートを、より洗練しやすく、レビューしやすく、配布しやすい DOCX ファイルに変換します。
+
+* **チーム間ドキュメンテーション**  
+  チームが、ワークフロー全体で広くサポートされている文書形式で構造化されたコンテンツを共有できるよう支援します。
+
+* **テンプレートから文書への公開**  
+  スプレッドシートベースの入力モデルと文書中心の出力要件をつなぎます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な文書生成**  
+  自動化システムは、定例レポートや文書サイクルのために XLTX テンプレートから DOCX ファイルを作成できます。
+
+* **ワークフローの標準化**  
+  変換プロセスは、チームやシステム全体で一貫したフォーマットと予測可能な出力をサポートします。
+
+* **スケーラブルなコンテンツ変換**  
+  動的な処理パイプラインは、最小限の手動介入で多数のテンプレートを洗練された DOCX 文書に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,35 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MOBI a TSV in Python converte il contenuto degli ebook in una struttura a tabulazione separata, semplice, compatta e ben adatta all'elaborazione automatica. Questo formato è prezioso quando il contenuto deve essere scambiato in modo pulito tra sistemi che si aspettano testo strutturato con un minimo sovraccarico di formattazione.
+
+Nei flussi di lavoro automatizzati, l'output TSV aiuta a semplificare le attività di ingestione, analisi e trasformazione di massa. Convertire MOBI in TSV supporta pipeline scalabili in cui velocità, portabilità e gestione dei dati semplice sono importanti per l'integrazione e l'efficienza operativa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di Testo Strutturato** Converti il contenuto MOBI in TSV per un'analisi semplice e una memorizzazione strutturata leggera.
+
+* **Trasferimento Dati Compatibile con le Pipeline** Usa TSV quando sposti le informazioni estratte in script, strumenti di importazione o motori di elaborazione.
+
+* **Gestione di Contenuti su Larga Scala** Genera output compatti che funzionano bene per l'elaborazione batch e i flussi di lavoro di trasformazione di massa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Preparazione della Pipeline di Ingestione** Converti automaticamente i file MOBI in TSV prima di caricare i dati nei sistemi di elaborazione interni.
+
+* **Automazione dell'Analisi di Massa** Alimenta gli output TSV in script programmati per attività di validazione, arricchimento o trasformazione.
+
+* **Scambio Dati a Basso Sovraccarico** Usa l'automazione Python per generare output tabulari puliti per integrazioni downstream leggere.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS를 RTF로 변환하면 평면 OpenDocument 스프레드시트 내용을 Rich Text Format 문서로 바꾸어 구조화된 정보를 편집 가능한 텍스트 파일로 널리 호환되는 방식으로 공유할 수 있습니다. 이는 조직이 다양한 시스템과 애플리케이션에서 작동하는 유연한 문서 형식이 필요할 때 유용합니다.
+
+자동화 관점에서 FODS를 RTF로 변환하면 상호 운용 가능한 문서 생성, 대량 변환 워크플로우 및 효율적인 콘텐츠 배포를 지원합니다. Python API는 팀이 변환 프로세스를 자동화하고 수동 작업을 줄이며 문서 출력을 다중 시스템 환경에 통합하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **Cross-Platform Document Sharing**  
+  편집 환경 전반에 걸쳐 넓은 호환성을 위해 FODS 데이터를 RTF 파일로 변환합니다.
+
+* **Editable Data Presentation**  
+  스프레드시트 정보를 수정 및 검토가 쉬운 텍스트 기반 형식으로 제공합니다.
+
+* **Legacy Workflow Support**  
+  여전히 널리 지원되는 텍스트 문서 형식에 의존하는 시스템이나 프로세스를 위해 RTF 출력을 사용합니다.
+
+* **Interoperable Reporting**  
+  팀과 도구 간 교환에 적합한 휴대 가능한 형식으로 구조화된 콘텐츠를 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **Automated Multi-Format Output**  
+  Python 워크플로우는 더 큰 변환 시스템의 일부로 FODS 파일에서 RTF 문서를 생성할 수 있습니다.
+
+* **Batch Compatibility Processing**  
+  다수의 소스 파일을 RTF 형식으로 변환하여 하위 단계에서 더 넓은 활용성을 제공합니다.
+
+* **Workflow Integration Across Systems**  
+  자동화된 RTF 생성은 여러 플랫폼이 문서 출력을 소비하는 환경을 지원합니다.
+
+* **Scalable Document Exchange**  
+  프로그래밍 방식 변환을 통해 휴대 가능한 편집 파일을 빠르고 반복적으로 준비할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da testo a OST usando le API Python si riferisce alla trasformazione del contenuto di testo semplice in dati adatti a flussi di lavoro di archiviazione offline in stile casella di posta. Ciò è rilevante in scenari che coinvolgono ambienti di comunicazione sincronizzati, preparazione archivistica o set di dati di messaggi generati dal sistema destinati a un accesso strutturato alla casella di posta.
+
+In contesti di automazione, questa conversione aiuta a preparare i dati di comunicazione derivati dal testo per modelli di archiviazione organizzati, supportando l'elaborazione su larga scala, la continuità operativa e l'integrazione con ecosistemi di messaggistica gestiti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dati di posta offline**  
+  Converte il contenuto testuale in forme strutturate adatte ai flussi di lavoro di casella di posta offline.
+
+* **Supporto all'archiviazione dei messaggi**  
+  Aiuta a organizzare i dati di comunicazione per sistemi progettati attorno a un accesso sincronizzato alla casella di posta.
+
+* **Strutturazione dei dati archivistici**  
+  Supporta la preparazione di record derivati dal testo per ambienti di archiviazione gestiti.
+
+* **Gestione della comunicazione aziendale**  
+  Consente l'elaborazione su larga scala del contenuto testuale in formati orientati alla casella di posta.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione dati della casella di posta**  
+  L'automazione può strutturare i dati di comunicazione basati su testo per flussi di lavoro di accesso offline.
+
+* **Pipeline di elaborazione in blocco**  
+  Grandi set di dati testuali possono essere preparati programmaticamente per operazioni di archiviazione in stile casella di posta.
+
+* **Sistemi di continuità operativa**  
+  La conversione automatizzata supporta la gestione coerente dei record di comunicazione attraverso ambienti gestiti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

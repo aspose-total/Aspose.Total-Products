@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de VCF para MD transforma dados de cartões de contato em documentos Markdown que são fáceis de ler, editar e integrar a sistemas de conhecimento baseados em texto. Isso é especialmente útil para ambientes de documentação que valorizam portabilidade, simplicidade e conteúdo amigável a versões.
+
+Em fluxos de trabalho de automação, a conversão de VCF para MD permite que APIs Python produzam documentos de contato leves que se encaixam naturalmente em repositórios de conteúdo, sites estáticos e pipelines estruturados de geração de notas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Documentação de Texto Legível**  
+  Converta registros VCF para Markdown para documentação limpa e portátil.
+
+* **Integração com Base de Conhecimento**  
+  Armazene informações de contato em um formato adequado para sistemas centrados em texto.
+
+* **Gerenciamento de Conteúdo Amigável a Versões**  
+  Gerencie dados de contato em um formato de texto simples estruturado que é fácil de rastrear.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Markdown**  
+  Crie arquivos MD a partir de lotes de cartões de contato para documentação organizada.
+
+* **Pipelines de Conteúdo Estático**  
+  Alimente arquivos de contato convertidos em fluxos de trabalho automatizados de publicação e repositório.
+
+* **Transformação de Texto Escalável**  
+  Use APIs Python para padronizar dados de contato em formato de marcação leve.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

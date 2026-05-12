@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 PNG를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG를 OFT로 변환하면 이미지 기반 콘텐츠를 재사용 가능한 이메일 템플릿 파일로 전환할 수 있어, 조직이 시각적 입력을 중심으로 한 커뮤니케이션을 표준화하는 데 도움이 됩니다. 이는 반복되는 메시지가 PNG 기반 그래픽, 공지사항 또는 이미지 기반 정보를 포함하면서 일관된 구조가 필요할 때 유용합니다.
+
+Python API를 사용하면 OFT 생성이 자동화되어 대규모 템플릿 제작을 지원하고, 메시징 워크플로 전반에 걸친 일관성을 향상시키며, 반복 가능한 커뮤니케이션 형식에 의존하는 시스템을 효율화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 이메일 템플릿 생성**  
+  PNG 콘텐츠를 OFT 기반 템플릿으로 변환하여 반복적인 커뮤니케이션에 활용합니다.
+
+* **표준화된 시각 메시징**  
+  팀이 이미지 기반 정보를 포함한 반복 가능한 이메일 형식을 구축하도록 돕습니다.
+
+* **운영 커뮤니케이션 설계**  
+  PNG 자산에서 생성된 구조화된 템플릿이 필요한 워크플로를 지원합니다.
+
+* **템플릿 기반 아웃리치**  
+  시각적으로 구성된 이메일 템플릿을 향후 전송 또는 편집을 위해 준비할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **동적 템플릿 생성**  
+  Python API를 사용하여 PNG 입력으로부터 자동화된 커뮤니케이션 시스템용 OFT 템플릿을 생성할 수 있습니다.
+
+* **배치 템플릿 준비**  
+  여러 PNG 기반 메시지 레이아웃을 OFT 파일로 변환하여 대규모 운영에 활용할 수 있습니다.
+
+* **워크플로 표준화**  
+  시스템은 부서 또는 프로세스 전반에 걸쳐 일관된 시각 이메일 템플릿을 자동으로 생성할 수 있습니다.
+
+* **트리거 기반 커뮤니케이션 파이프라인**  
+  새로운 PNG 기반 자산이 워크플로에 들어올 때 애플리케이션이 필요에 따라 OFT 템플릿을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

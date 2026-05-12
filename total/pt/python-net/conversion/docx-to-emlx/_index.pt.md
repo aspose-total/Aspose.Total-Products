@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCX para EMLX transforma documentos de processamento de texto em um formato de mensagem de e‑mail usado por certos clientes de e‑mail para armazenar e gerenciar dados de e‑mail. Esse processo permite que o conteúdo do documento seja empacotado como um arquivo de mensagem de e‑mail estruturado, preservando a formatação e as informações textuais.
+
+Usando APIs Python, a conversão de DOCX para EMLX pode ser integrada a sistemas de comunicação automatizados, fluxos de trabalho de arquivamento e plataformas de distribuição de documentos onde o conteúdo do documento deve ser entregue ou armazenado em um formato compatível com e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Arquivo de Mensagem de E‑mail**  
+  Converte documentos DOCX em arquivos de e‑mail EMLX adequados para armazenamento em clientes de e‑mail.
+
+* **Registros de Comunicação Baseados em Documentos**  
+  Permite que o conteúdo do documento seja arquivado como mensagens de e‑mail.
+
+* **Empacotamento de Conteúdo Compatível com E‑mail**  
+  Empacota informações do documento em estruturas de arquivos de e‑mail padronizadas.
+
+* **Mensagens Automatizadas de Documentos**  
+  Suporta o envio do conteúdo do documento através de fluxos de trabalho baseados em e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Sistemas Automatizados de Arquivo de E‑mail**  
+  Documentos DOCX podem ser convertidos automaticamente em arquivos EMLX para arquivamento de e‑mail.
+
+* **Geração em Lote de Mensagens de E‑mail**  
+  Scripts Python podem processar coleções de documentos e produzir arquivos EMLX programaticamente.
+
+* **Automação de Distribuição de Documentos**  
+  Sistemas podem converter dinamicamente documentos gerados em arquivos de mensagem de e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

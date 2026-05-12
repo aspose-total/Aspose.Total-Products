@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Word vers ODS à l'aide des API Python transforme les documents de traitement de texte en fichiers de feuille de calcul OpenDocument pour la gestion de données structurées dans des environnements de productivité ouverts. Cela est précieux lorsque le contenu des documents doit être réorganisé en feuilles de calcul pour l'analyse, la révision ou le traitement opérationnel.
+
+Du point de vue de l'automatisation, cette conversion permet un déplacement efficace des informations des flux de travail centrés sur les documents vers des systèmes basés sur les feuilles de calcul, tout en prenant en charge les standards ouverts et le traitement par lots évolutif.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Conversion de feuille de calcul ouverte**
+  Déplace les données issues de Word vers ODS pour une révision et une manipulation structurées.
+
+* **Gestion de données multiplateforme**
+  Prend en charge les environnements qui privilégient les formats de feuilles de calcul OpenDocument.
+
+* **Suivi opérationnel**
+  Réorganise le contenu des documents en feuilles pour la surveillance et la tenue de registres.
+
+* **Réutilisation de données structurées**
+  Facilite le travail avec le contenu narratif ou tabulaire dans les flux de travail de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation document-vers-feuille de calcul**
+  Convertit les fichiers Word entrants en ODS pour les processus métier courants.
+
+* **Génération par lots de formats ouverts**
+  Produit des sorties de feuilles de calcul standardisées à partir de plusieurs documents sources.
+
+* **Préparation des données de flux de travail**
+  Alimente les sorties ODS dans les écosystèmes OpenOffice et les outils de traitement automatisés.
+
+* **Pipelines d'archivage structuré**
+  Préserve les données extraites des documents dans des fichiers de feuille de calcul organisés pour une utilisation ultérieure.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

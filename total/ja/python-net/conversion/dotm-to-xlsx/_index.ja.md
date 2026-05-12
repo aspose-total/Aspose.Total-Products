@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から XLSX への変換は、マクロ対応の Word テンプレートを構造化された分析、レポート、コラボレーション向けの最新の Excel ワークブックに変換します。文書テンプレートで取得したコンテンツを、最新のスプレッドシートシステムに適したデータ中心の形式で再利用する必要がある場合に有用です。
+
+Python API を使用した DOTM から XLSX への変換は、テンプレートコンテンツを抽出し、規模に応じてワークブックに整理することで自動化をサポートします。これにより手作業が削減され、データの一貫性が向上し、文書ワークフローとスプレッドシートベースの操作間の統合が強化されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **モダン ワークブック エクスポート**
+  DOTM コンテンツを XLSX に変換し、分析、レポート、構造化されたコラボレーションに利用します。
+
+* **テンプレート データ変換**
+  文書ベースの表や値を、広くサポートされているスプレッドシート形式に移行します。
+
+* **運用レポート支援**
+  変換されたワークブックを、レビュー、共有、下流処理の入力として使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたワークブック作成**
+  システムは DOTM テンプレートから XLSX ファイルを生成し、レポートやビジネスワークフローに活用できます。
+
+* **文書からデータへの統合**
+  変換はテンプレート文書からスプレッドシートプロセスへの自動ハンドオフをサポートします。
+
+* **スケーラブルなスプレッドシート生成**
+  プログラムによるジョブで、DOTM ファイルを大量に XLSX 出力へ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de SXC para Word transforma conteúdo baseado em planilhas em um formato de processamento de texto adequado para documentação legível, relatórios e comunicação formal. É valiosa quando dados estruturados em planilhas precisam ser adaptados para documentos focados em texto que são mais fáceis de revisar e distribuir.
+
+Em sistemas focados em automação, a conversão de SXC para Word usando APIs Python ajuda a simplificar a transformação de conteúdo, melhorar a consistência dos resultados e conectar fontes de planilhas com fluxos de trabalho mais amplos de gerenciamento de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Documentos Empresariais**  
+  Converte dados de planilhas em documentos de processamento de texto para relatórios, resumos e comunicação formal.
+
+* **Entrega de Conteúdo Legível**  
+  Facilita o consumo de dados estruturados por públicos não técnicos em formato de documento.
+
+* **Compatibilidade de Fluxo de Trabalho**  
+  Suporta ambientes centrados em documentos que dependem de formatos de processamento de texto para colaboração e revisão.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Relatórios Automatizados**  
+  Usa APIs Python para criar documentos Word a partir de dados SXC de forma recorrente ou baseada em eventos.
+
+* **Integração com Gerenciamento de Documentos**  
+  Alimenta as saídas convertidas em sistemas de revisão, aprovação ou arquivamento sem retrabalho manual.
+
+* **Transformação de Conteúdo Escalável**  
+  Permite a geração programática de grandes volumes de documentos compatíveis com Word a partir de entradas de planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

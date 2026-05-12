@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLTM을 DOT으로 변환하면 매크로가 포함된 Excel 템플릿을 재사용 가능한 문서 구조에 사용되는 Word 템플릿 파일로 변환할 수 있습니다. 이는 스프레드시트에서 유래한 레이아웃이나 콘텐츠 패턴을 반복 사용을 위한 문서 템플릿으로 재활용해야 할 때 유용합니다.
+
+자동화 중심 시스템에서 XLTM을 DOT으로 변환하면 템플릿 표준화가 향상되고, 반복 가능한 문서 생성이 가능해지며, 효율적인 교차 형식 콘텐츠 준비를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 문서 템플릿 생성**  
+  스프레드시트 기반 템플릿 콘텐츠를 Word 템플릿 파일로 변환하여 반복적인 문서 생성을 가능하게 합니다.
+
+* **표준화된 서식 출력**  
+  워크북 템플릿에서 문서 템플릿으로 이동할 때 일관된 구조를 유지하도록 돕습니다.
+
+* **내부 문서화 프레임워크**  
+  구조화된 소스 템플릿으로 반복 가능한 문서를 구축하는 조직을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 게시 자동화**  
+  문서 생성 시스템에서 사용하기 위해 XLTM 소스에서 DOT 파일을 자동으로 생성합니다.
+
+* **다부서 콘텐츠 표준화**  
+  스프레드시트 기반 소스 자료를 사용하는 팀 간에 일관된 템플릿 배포를 가능하게 합니다.
+
+* **변환 기반 템플릿 라이브러리**  
+  Excel 템플릿 자산에서 재사용 가능한 Word 템플릿 라이브러리를 자동으로 생성하도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

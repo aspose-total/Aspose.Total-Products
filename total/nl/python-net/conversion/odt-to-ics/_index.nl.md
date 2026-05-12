@@ -46,7 +46,47 @@ Voor een Python-ontwikkelaar, die probeert een ODT naar ICS-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT‑naar‑ICS‑conversie zet documentinhoud om in kalender‑compatibele gegevens, waardoor het nuttig is voor het omzetten van schema’s, gebeurtenisbeschrijvingen of tijd‑gebaseerde informatie naar herbruikbare agenda‑items. Dit is waardevol wanneer tekstdocumenten data, vergaderingen of gestructureerde tijdlijnen bevatten.
+
+In geautomatiseerde omgevingen maakt ODT‑naar‑ICS‑conversie plannings‑pijplijnen, gebeurtenis‑publicatie en agenda‑synchronisatie mogelijk. Python‑API’s kunnen relevante datum‑gedreven inhoud extraheren en efficiënt machine‑leesbare agenda‑bestanden genereren.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Schema‑extractie**  
+  Zet datum‑ en gebeurtenisdetails uit documenten om in kalenderklare gegevens.
+
+* **Vergaderingsdistributie**  
+  Helpt bij het delen van gebeurtenisinformatie in een formaat dat geschikt is voor kalenderhulpmiddelen.
+
+* **Tijdlijndigitalisatie**  
+  Transformeert geschreven schema’s naar bruikbare kalenderobjecten.
+
+* **Ondersteuning van planningsworkflow**  
+  Maakt documentgebaseerde planningsinhoud operationeel makkelijker herbruikbaar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde gebeurtenisgeneratie**  
+  Python‑scripts kunnen gebeurtenisdetails in ODT‑bestanden detecteren en ICS‑uitvoer genereren.
+
+* **Kalenderpublicatie‑pijplijnen**  
+  Documentupdates kunnen automatische regeneratie van gedeelde schema‑bestanden activeren.
+
+* **Batch‑schema‑conversie**  
+  Meerdere planningsdocumenten kunnen op schaal worden omgezet in kalender‑assets.
+
+* **Workflow‑herinneringscreatie**  
+  Programmeerbare extractie kan automatisch herinneringen en planningssystemen voeden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

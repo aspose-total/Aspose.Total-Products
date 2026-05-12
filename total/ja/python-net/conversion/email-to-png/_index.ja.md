@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による Email から PNG への変換は、メッセージ内容を高品質なラスタ画像に変換し、プレビューや透過サポート、ビジュアルアーカイブに適しています。広くサポートされている画像形式でメールレイアウトを明確に保存する必要がある場合に便利です。
+
+この変換により、編集可能な文書形式を必要とせずに、ウェブインターフェース、記録システム、レポートワークフロー向けにメールのビジュアルをスケーラブルに生成できるため、オートメーションが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **高品質メッセージプレビュー**
+  ポータルやダッシュボードで鮮明に表示できるよう、メールを PNG ファイルに変換します。
+
+* **ビジュアルアーカイブ記録**
+  メッセージの外観を画像ファイルとして保存し、迅速な参照が可能です。
+
+* **ワークフロー添付**
+  サポートシステム、監査、レビューのパイプラインで PNG 出力を使用します。
+
+* **ウェブフレンドリーなレンダリング**
+  ブラウザベースのアプリケーションやコンテンツシステム向けにメールのビジュアルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プレビュー生成サービス**
+  受信または保存されたメールから PNG レンダリングを自動的に作成します。
+
+* **運用ドキュメントパイプライン**
+  メッセージ画像をチケット、レポート、そして自動化ログに添付します。
+
+* **ウェブ配信の自動化**
+  メールプレビューをコンテンツ管理システムや監視システムに公開します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

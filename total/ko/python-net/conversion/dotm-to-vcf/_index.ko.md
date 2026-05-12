@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTM를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM에서 VCF로의 변환은 매크로가 포함된 Word 템플릿을 vCard 연락처 파일로 변환하여 문서 기반 연락처 정보를 주소록 시스템에 더 쉽게 공유하고 가져올 수 있게 합니다. 템플릿에 사람, 조직 또는 커뮤니케이션 세부 정보가 포함되어 있어 구조화된 연락처 레코드가 되어야 할 때 유용합니다.
+
+DOTM에서 VCF로 변환하기 위해 Python API를 사용하면 문서 소스에서 연락처 생성을 자동화하여 수동 재입력을 줄이고 데이터 일관성을 향상시킵니다. 이는 확장 가능한 온보딩, 디렉터리 관리 및 CRM 관련 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 레코드 생성**
+  DOTM 템플릿의 연락처 세부 정보를 VCF 파일로 변환하여 쉽게 공유하고 가져올 수 있습니다.
+
+* **디렉터리 데이터 재사용**
+  구조화된 문서 정보를 표준화된 디지털 연락처 카드로 재활용합니다.
+
+* **워크플로 친화적인 연락처 교환**
+  문서와 주소록 시스템 간에 연락처 데이터를 간단히 이동할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 추출**
+  워크플로는 개인 또는 조직 세부 정보가 포함된 DOTM 템플릿에서 VCF 파일을 생성할 수 있습니다.
+
+* **디렉터리 동기화 지원**
+  이 변환은 자동화 시스템이 문서에서 가져오기 준비된 연락처 레코드를 생성하도록 돕습니다.
+
+* **대량 연락처 생성**
+  프로그래밍 방식 처리는 DOTM 파일을 VCF 파일로 대량 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

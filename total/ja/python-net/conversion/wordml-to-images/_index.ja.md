@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から画像への変換は、文書コンテンツをプレビュー、共有、出版、視覚的アーカイブのための画像形式に変換します。編集可能な文書ソフトウェアを必要とせず、プラットフォーム間で文書ページを一貫して表示する必要がある場合に便利です。
+
+Python API は、ページをプログラムでレンダリングすることで WordML から画像への変換を効率化し、大規模なサムネイル生成、ページプレビュー、視覚的文書配布ワークフローを可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **文書プレビュー生成**
+  WordML ページを画像に変換し、迅速な閲覧とインデックス作成を実現します。
+
+* **ビジュアル共有**
+  文書コンテンツを画像対応のチャネルやインターフェースで配布しやすくします。
+
+* **不変のプレゼンテーション**
+  レビュー、出版、参照目的のためにページの外観を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイル作成パイプライン**
+  WordML 文書のバッチからプレビュー画像を自動的に生成します。
+
+* **出版ワークフローサポート**
+  ウェブサイト、ナレッジシステム、レビュー ツール向けにページを画像に変換します。
+
+* **アーカイブ可視化**
+  元のファイル形式を開かずに、保存された文書へ画像ベースでアクセスできるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

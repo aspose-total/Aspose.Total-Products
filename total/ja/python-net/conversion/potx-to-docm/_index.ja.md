@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した POTX から DOCM への変換により、PowerPoint テンプレートのコンテンツを高度な文書ワークフロー向けのマクロ有効化 Word ドキュメントに変換できます。変換されたコンテンツがスクリプト化されたアクション、組み込みロジック、またはインタラクティブな文書動作をサポートする必要がある場合に価値があります。
+
+自動化重視の環境では、POTX から DOCM への変換がプレゼンテーションテンプレートと動的文書システムをつなぐ役割を果たします。自動化ルール、マクロ、または繰り返し処理ステップが最終ワークフローの一部となるスケーラブルな文書生成をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ有効化ドキュメント作成**
+  プレゼンテーションテンプレートの素材を、自動化されたアクションやロジックをサポートできる文書に変換します。
+
+* **ワークフロー拡張**
+  プレゼンテーションベースのコンテンツを、プログラム可能な機能を備えた高度な文書環境へ拡張します。
+
+* **運用文書処理**
+  ファイル内の再利用可能な自動化に依存するプロセス向けに文書の準備を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ルール駆動型文書出力**
+  組み込みマクロサポートが必要なワークフロー向けに DOCM ファイルの生成を自動化します。
+
+* **エンタープライズ文書処理**
+  構造化された内部処理パイプライン向けに、POTX テンプレートをマクロ有効化ファイルに変換します。
+
+* **テンプレートからアクションへのパイプライン**
+  変換された文書が自動タスクをトリガーまたはサポートする動的ワークフローを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

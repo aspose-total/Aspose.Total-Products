@@ -46,7 +46,44 @@ Voor een Python-ontwikkelaar, die probeert een EMAIL naar OTT-conversiefunctie t
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+E-mail-naar-OTT-conversie in Python zet berichten om in OpenDocument‑sjablonen die hergebruikt kunnen worden voor gestandaardiseerde contentcreatie. Dit is handig wanneer terugkerende e-mailstructuren moeten worden omgezet in sjabloon‑assets binnen OpenDocument‑omgevingen.
+
+Het verbetert automatisering door communicatiepatronen om te zetten in herbruikbare sjabloonbestanden die de documentgeneratie stroomlijnen en repetitief opmaakwerk verminderen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Open sjablooncreatie**
+  Zet e-mails om in OTT‑bestanden voor herhaalbare, op sjablonen gebaseerde documentgeneratie.
+
+* **Herbruikbare lay-outstandaardisatie**
+  Leg consistente e-mailstructuren vast als OpenDocument‑sjablonen.
+
+* **Workflow‑formuliervoorbereiding**
+  Maak start‑sjablonen van berichtinhoud voor terugkerende bedrijfsprocessen.
+
+* **Cross‑platform sjabloonondersteuning**
+  Gebruik open sjablonen in collaboratieve documentecosystemen zonder afhankelijkheid van propriëtaire software.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Automatisering van sjabloonbibliotheek**
+  Bouw OTT‑sjablonen vanuit gestructureerde e-mails voor afdelingsbreed hergebruik.
+
+* **Gestandaardiseerde outputgeneratie**
+  Pas e‑mail‑afgeleide sjablonen toe om terugkerende OpenDocument‑creatie te automatiseren.
+
+* **Procesoptimalisatie**
+  Verminder handmatige opmaak door sjabloonlogica in document‑workflows te integreren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

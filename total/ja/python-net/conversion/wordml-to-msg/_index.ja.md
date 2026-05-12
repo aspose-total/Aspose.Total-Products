@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から MSG への変換は、ドキュメントコンテンツからメールメッセージファイルを作成し、デスクトップメールのワークフロー、アーカイブプロセス、コミュニケーションのパッケージ化で使用されます。構造化されたドキュメント情報を個別のメッセージレコードとして保持する必要がある場合に有益です。
+
+Python API は、ドキュメントテキストをメッセージコンポーネントにマッピングし、メール対応環境向けに出力生成を自動化することで、WordML から MSG への変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **メッセージファイル作成**
+  WordML コンテンツを MSG ファイルに変換し、個別のメールレコードの取り扱いに使用します。
+
+* **デスクトップメール互換性**
+  デスクトップ環境でメッセージファイルのやり取りに依存するワークフローをサポートします。
+
+* **コミュニケーションのアーカイブ**
+  ドキュメントベースのコンテンツを個別のメール形式アーティファクトとして保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量 MSG 生成**
+  複数の WordML ドキュメントからメッセージファイルの作成を自動化します。
+
+* **アーカイブ準備**
+  構造化されたドキュメントを MSG レコードに変換し、保存および取得のワークフローに利用します。
+
+* **運用コンテンツのパッケージ化**
+  ドキュメント由来のコミュニケーションをメッセージシステムへプログラム的に配信することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

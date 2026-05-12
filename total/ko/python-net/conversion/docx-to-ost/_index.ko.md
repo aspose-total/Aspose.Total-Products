@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCX를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX에서 OST로의 변환은 문서 내용을 동기화된 메시징 환경과 연계된 오프라인 메일함 데이터 형식으로 변환합니다. 이 프로세스는 문서에서 파생된 정보를 오프라인 액세스 커뮤니케이션 아카이브에 포함해야 하는 시나리오를 지원할 수 있습니다.
+
+Python API를 사용하면 DOCX‑to‑OST 변환을 기업 아카이브 시스템, 마이그레이션 워크플로, 그리고 메시징 자동화 플랫폼에 포함시킬 수 있습니다. 이는 문서 내용을 메일함 중심의 저장 구조로 프로그래밍 방식으로 변환할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **오프라인 메일 데이터 준비**  
+  문서 기반 콘텐츠를 메일함 호환 오프라인 저장 구조로 변환합니다.
+
+* **커뮤니케이션 아카이브 통합**  
+  문서를 메시징 아카이브 워크플로에 통합할 수 있게 합니다.
+
+* **기업 데이터 마이그레이션 지원**  
+  메일함 데이터 형식에 의존하는 시스템을 위한 콘텐츠 변환을 지원합니다.
+
+* **문서 기반 메일 저장**  
+  오프라인 메일 액세스에 맞춘 형식으로 문서 정보를 저장하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 메일 아카이브 생성**  
+  시스템은 DOCX 문서를 오프라인 액세스 시나리오를 위한 OST 지향 데이터 출력으로 변환할 수 있습니다.
+
+* **배치 메시징 마이그레이션 파이프라인**  
+  Python 자동화를 통해 여러 문서를 처리하여 메일함 저장 워크플로에 통합할 수 있습니다.
+
+* **기업 보존 워크플로**  
+  문서 콘텐츠를 규정 준수 중심 시스템을 위한 오프라인 메시징 데이터로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

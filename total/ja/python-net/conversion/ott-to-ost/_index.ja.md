@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から OST への変換は、OpenDocument テキストテンプレートを同期メールストレージシナリオで使用されるオフラインメールボックスデータ構造に変換します。これは、生成されたコミュニケーションコンテンツがメールボックス指向のワークフローやストレージ要件と一致する必要がある場合に関連します。
+
+この変換は、文書ベースのメッセージ生成をオフラインアクセス、アーカイブ準備、構造化されたメールボックスデータに依存するコミュニケーション管理プロセスと結び付けることで、自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オフラインメールデータの準備**  
+  同期されたメールボックス形式のストレージを使用するワークフローをサポートします。
+
+* **生成されたコミュニケーションのパッケージ化**  
+  テンプレートコンテンツをメールボックス指向の出力に変換します。
+
+* **アーカイブとアクセスのサポート**  
+  オフライン処理シナリオ向けにコミュニケーションデータの保存を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたメールデータの組み立て**  
+  文書テンプレートから OST 互換の出力を生成します。
+
+* **エンタープライズアーカイブパイプライン**  
+  生成されたコミュニケーションを管理されたストレージワークフローに統合します。
+
+* **大量コミュニケーション処理**  
+  OTT コンテンツをメールボックス対応の構造に変換する規模を拡大します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

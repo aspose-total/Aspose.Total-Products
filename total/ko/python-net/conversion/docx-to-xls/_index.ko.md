@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to XLS 변환은 워드 프로세싱 문서를 표 형식 분석, 보고 및 구조화된 데이터 관리에 사용되는 스프레드시트 파일로 변환합니다. 이 프로세스를 통해 문서의 표와 정리된 정보를 스프레드시트 기반 워크플로우에서 재사용할 수 있습니다.
+
+Python API를 사용하면 DOCX-to-XLS 변환을 보고 시스템, 마이그레이션 프로젝트 및 엔터프라이즈 데이터 파이프라인에서 자동화할 수 있습니다. 이는 문서에서 구조화된 콘텐츠를 레거시 스프레드시트 환경으로 일관되게 추출하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 데이터 추출**  
+  DOCX 표와 구조화된 텍스트를 스프레드시트용 워크시트로 변환합니다.
+
+* **레거시 보고 지원**  
+  문서 기반 데이터를 기존 스프레드시트 워크플로우에서 재사용할 수 있게 합니다.
+
+* **문서에서 데이터 마이그레이션**  
+  구조화된 정보를 분석을 위한 스프레드시트 환경으로 전송하는 데 도움을 줍니다.
+
+* **운영 데이터 처리**  
+  표 형식 검토 및 보고 시스템에서 문서 콘텐츠를 사용하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 스프레드시트 내보내기**  
+  시스템은 DOCX 파일을 하위 비즈니스 워크플로우를 위해 XLS 형식으로 변환할 수 있습니다.
+
+* **배치 레거시 스프레드시트 변환**  
+  Python 스크립트를 사용해 문서 컬렉션을 프로그래밍 방식으로 스프레드시트 출력으로 처리할 수 있습니다.
+
+* **엔터프라이즈 데이터 변환**  
+  문서 콘텐츠를 보고 및 아카이브 시스템을 위해 XLS 파일로 내보낼 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

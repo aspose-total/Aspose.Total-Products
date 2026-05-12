@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para PNG converte o conteúdo da caixa de correio em arquivos de imagem sem perdas, preservando a aparência das mensagens com alta clareza e consistência visual. Isso é útil para fluxos de trabalho que precisam de gráficos limpos para arquivamento, apresentação ou exibição em interfaces.
+
+APIs Python permitem a conversão automatizada de caixa de correio para PNG para renderização de alta qualidade, processamento em lote estruturado e integração com sistemas que consomem saídas baseadas em imagens.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Imagens de Email de Alta Clareza**
+  Exporte mensagens como arquivos PNG para renderização visualmente precisa e sem perdas.
+
+* **Uso em Interface e Painel**
+  Use imagens de email convertidas em portais, visualizações de monitoramento ou sistemas de revisão.
+
+* **Preservação de Arquivo Estático**
+  Mantenha o layout visual das mensagens em um formato de imagem confiável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação PNG Automatizada**
+  Converta entradas de caixa de correio em imagens PNG em fluxos de trabalho de processamento em lote.
+
+* **Pipelines de Renderização Focados em Qualidade**
+  Use Python para gerar saídas visuais sem perdas a partir do conteúdo de email arquivado.
+
+* **Preparação de Revisão Escalável**
+  Alimente imagens de email convertidas em sistemas de conformidade, suporte ou documentação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

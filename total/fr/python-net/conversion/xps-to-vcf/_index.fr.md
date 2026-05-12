@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de XPS en VCF à l'aide des API Python permet de transformer les informations liées aux contacts contenues dans des documents à mise en page fixe en fichiers de cartes de contact standardisés. Cela est utile lorsque des formulaires, des annuaires ou des enregistrements générés par des documents contiennent des noms, des numéros de téléphone, des adresses ou d'autres détails de contact qui doivent être extraits vers des formats de contact portables.
+
+Dans les environnements automatisés, cette conversion améliore la réutilisation des données, réduit les erreurs de saisie manuelle et aide à intégrer les informations de contact basées sur les documents dans les flux de travail de communication, de CRM et de gestion des contacts.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction d'enregistrements de contact**
+  Convertissez les documents XPS contenant des détails de contact en fichiers VCF pour une réutilisation facile.
+
+* **Population du carnet d'adresses**
+  Utilisez les sorties converties pour prendre en charge l'importation de contacts dans les systèmes compatibles.
+
+* **Réutilisation des données de formulaire**
+  Transformez les informations client ou employé basées sur des documents en cartes de contact structurées.
+
+* **Partage de contacts portable**
+  Regroupez les détails extraits dans un format largement reconnu pour l'échange et le stockage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création de contacts automatisée**
+  Générez des fichiers VCF à partir de formulaires ou d'annuaires basés sur XPS sans retaper manuellement.
+
+* **Flux de travail d'ingestion de données CRM**
+  Alimentez les fichiers de contacts convertis dans des pipelines de données client automatisés.
+
+* **Traitement en masse de contacts**
+  Convertissez plusieurs enregistrements XPS en sorties VCF à l'aide de jobs batch scriptés.
+
+* **Synchronisation dynamique des informations**
+  Utilisez la conversion programmatique pour maintenir les données de contact alignées entre les systèmes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

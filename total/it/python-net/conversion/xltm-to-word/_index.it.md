@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLTM a Word in Python consente di trasformare i modelli Excel con macro in documenti compatibili con Word per la modifica, la revisione e la condivisione professionale dei contenuti. Ciò è utile quando i file di origine dei fogli di calcolo strutturati devono diventare documenti leggibili adatti a flussi di lavoro incentrati sul testo.
+
+Per i casi d'uso di automazione, la conversione da XLTM a Word migliora la flessibilità dei processi, supporta la generazione scalabile di documenti e crea transizioni più fluide tra gli ambienti di fogli di calcolo e di elaborazione testi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti compatibili con Word**  
+  Trasforma il contenuto del modello di foglio di calcolo in documenti adatti ai comuni processi di modifica e revisione.
+
+* **Riutilizzo di informazioni strutturate**  
+  Aiuta a riutilizzare i dati basati su cartelle di lavoro in formati narrativi e di documentazione.
+
+* **Output adatto ai flussi di lavoro**  
+  Supporta la generazione di documenti condivisibili da modelli di foglio di calcolo ripetibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pubblicazione automatizzata di documenti**  
+  Converte i file XLTM in output compatibili con Word come parte di flussi di lavoro di contenuti ricorrenti.
+
+* **Integrazione foglio di calcolo‑documento**  
+  Collega gli input di modelli strutturati con output di documenti modificabili nelle applicazioni Python.
+
+* **Trasformazione di file su larga scala**  
+  Consente la conversione batch per i team che gestiscono numerosi modelli di cartelle di lavoro in tutta l'organizzazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

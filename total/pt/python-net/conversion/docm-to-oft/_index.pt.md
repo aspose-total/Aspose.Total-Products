@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para OFT transforma documentos com macros em arquivos de modelo de e‑mail reutilizáveis, facilitando a padronização de conteúdo baseado em documentos para tarefas de comunicação repetitivas. É útil quando mensagens consistentes precisam ser geradas a partir de fontes de documentos criados.
+
+Em fluxos de trabalho de automação, a conversão de DOCM para OFT permite alcance baseado em modelos, comunicação orientada por processos e reutilização escalável do conteúdo de documentos em cenários de mensagens repetidas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Mensagens Baseadas em Modelo**
+  Converte o conteúdo do documento em modelos de e‑mail reutilizáveis para comunicação padronizada.
+
+* **Consistência de Processo**
+  Ajuda as equipes a manter uma estrutura uniforme em mensagens de saída recorrentes.
+
+* **Reaproveitamento de Conteúdo**
+  Reutiliza o texto formal de documentos em modelos de comunicação sem reformatação manual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelos**
+  Produz arquivos OFT a partir de documentos DOCM para fluxos de trabalho de mensagens repetíveis.
+
+* **Comunicações Disparadas por Fluxo de Trabalho**
+  Utiliza modelos convertidos em processos de aprovação, notificação ou suporte.
+
+* **Preparação de Mensagens Escalável**
+  Permite o preenchimento dinâmico e a distribuição de conteúdo baseado em modelos em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

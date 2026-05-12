@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から ODP への変換は、文書コンテンツを OpenDocument プレゼンテーション ファイルに変換し、プレゼンテーション重視のレビュー、配布、オープンフォーマットでの共同作業を可能にします。これは、文書からの物語的または構造化されたコンテンツをスライドベースのコミュニケーションで再利用する必要がある場合に便利です。
+
+Python API を使用すると、WordML から ODP への変換をプログラムでコンテンツをプレゼンテーション構造に再配置し、スケーラブルな文書からスライドへの自動化を実現できるため、効率的に行えます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーションの再利用**
+  文書のコンテンツをオープンなプレゼンテーションファイルに変換し、視覚的に提供します。
+
+* **オープンフォーマットでのコラボレーション**
+  相互運用可能な文書標準に基づくプレゼンテーションワークフローをサポートします。
+
+* **構造化コンテンツの再利用**
+  WordML のテキストおよびアウトラインベースの資料をスライド形式に移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スライドデック生成**
+  レポート、ブリーフ、またはアウトラインから ODP プレゼンテーションの作成を自動化します。
+
+* **コンテンツ公開パイプライン**
+  文書からプレゼンテーションへの変換を配布ワークフローに統合します。
+
+* **標準ベースのプレゼンテーション自動化**
+  構造化されたソースからオープンフォーマットのスライドをスケーラブルに生成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

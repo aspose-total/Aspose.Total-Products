@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLSB a MOBI trasforma il contenuto binario dei fogli di calcolo in un formato adatto agli eBook, consentendo ai dati strutturati e al contenuto testuale generato di essere distribuiti in un'esperienza di lettura portatile. Questo è utile quando le informazioni basate su fogli di calcolo devono essere riutilizzate in pubblicazioni digitali leggibili.
+
+Nei flussi di lavoro automatizzati, la conversione da XLSB a MOBI supporta la pubblicazione scalabile di contenuti, consentendo ai sistemi di trasformare le fonti di fogli di calcolo incentrate sui dati in documenti portatili adatti alla distribuzione digitale, alla condivisione della conoscenza e ai pipeline di pubblicazione automatizzati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione digitale**  
+  Converte il contenuto derivato da fogli di calcolo in un formato portatile per la lettura in stile eBook.
+
+* **Distribuzione della conoscenza**  
+  Aiuta a confezionare informazioni strutturate per il consumo su dispositivi mobili e offline.
+
+* **Riutilizzo dei contenuti**  
+  Trasforma i dati dei fogli di calcolo in contenuti digitali di forma lunga più accessibili.
+
+* **Documentazione portatile**  
+  Supporta la consegna di documenti generati in un formato adatto al lettore.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatizzata di eBook**  
+  I sistemi possono convertire il contenuto XLSB in file MOBI per i flussi di lavoro di pubblicazione digitale.
+
+* **Pubblicazione di contenuti in batch**  
+  Grandi volumi di materiale basato su fogli di calcolo possono essere convertiti in formati di lettura portatili.
+
+* **Pipeline di distribuzione della documentazione**  
+  I flussi di lavoro automatizzati possono preparare contenuti di riferimento derivati da fogli di calcolo per una distribuzione più ampia.
+
+* **Trasformazione dati-in-pubblicazione**  
+  Gli input strutturati dei fogli di calcolo possono alimentare i sistemi di pubblicazione programmatica.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

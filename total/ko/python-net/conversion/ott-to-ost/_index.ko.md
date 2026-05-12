@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to OST 변환은 Python API에서 OpenDocument 텍스트 템플릿을 동기화된 이메일 저장 시나리오에 사용되는 오프라인 메일함 데이터 구조로 변환합니다. 이는 생성된 커뮤니케이션 콘텐츠가 메일함 중심 워크플로와 저장 요구사항에 맞춰야 할 때 관련됩니다.
+
+이 변환은 문서 기반 메시지 생성을 오프라인 액세스, 아카이브 준비 및 구조화된 메일함 데이터를 기반으로 하는 커뮤니케이션 관리 프로세스와 연결함으로써 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **오프라인 메일 데이터 준비**  
+  동기화된 메일함 스타일 저장을 사용하는 워크플로를 지원합니다.
+
+* **생성된 커뮤니케이션 패키징**  
+  템플릿 콘텐츠를 메일함 지향 출력으로 변환합니다.
+
+* **아카이브 및 액세스 지원**  
+  오프라인 처리 시나리오를 위해 커뮤니케이션 데이터를 보존하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동화된 메일 데이터 조립**  
+  문서 템플릿에서 OST 호환 출력을 생성합니다.
+
+* **엔터프라이즈 아카이브 파이프라인**  
+  생성된 커뮤니케이션을 관리형 저장 워크플로에 통합합니다.
+
+* **대량 커뮤니케이션 처리**  
+  OTT 콘텐츠를 메일함 준비 구조로 변환하는 작업을 확장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

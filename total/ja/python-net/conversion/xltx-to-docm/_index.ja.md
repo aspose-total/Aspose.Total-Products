@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から DOCM への変換は、スプレッドシートテンプレートのコンテンツを、マクロ対応のワードプロセッシング文書形式に変換し、高度な文書ロジックや再利用可能なビジネスファイルに適しています。これは、テンプレートベースのスプレッドシート情報を、対象文書内に埋め込まれた自動化動作をサポートした編集可能なドキュメントとして提供する必要がある場合に有用です。
+
+最新の自動化ワークフローにおいて、XLTX から DOCM への変換は、スプレッドシート主導のコンテンツ生成と動的な文書プロセスを結び付け、繰り返し可能なアクション、構造化された編集、ワークフローの効率性をサポートするインテリジェントなファイルのスケーラブルな生成を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応ドキュメント配信**  
+  テンプレートベースのスプレッドシートコンテンツを、組み込みスクリプトアクションをサポートできる文書に変換します。
+
+* **高度なレポートワークフロー**  
+  生成されたコンテンツが後で文書側の自動化をトリガーできる、編集可能なレポートの作成を可能にします。
+
+* **再利用可能なビジネステンプレート**  
+  繰り返し行われる業務プロセス向けにスマート文書ファイルを配布する組織を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたスマート文書作成**  
+  システムは、XLTX テンプレートを DOCM ファイルに変換し、より大規模な自動化ドキュメンテーションパイプラインの一部として利用できます。
+
+* **ワークフロー駆動型ファイル生成**  
+  このトピックは、下流のレビューやスクリプト処理を目的としたファイルの自動生成をサポートします。
+
+* **大量の業務出力**  
+  プログラムによる変換により、構造化されたスプレッドシートテンプレートから多数のマクロ対応文書を作成しやすくなります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

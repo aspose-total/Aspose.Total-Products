@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX en OST transforme le contenu des modèles Word en un format associé aux flux de travail de stockage de boîtes aux lettres hors ligne. Elle est pertinente dans les scénarios où le contenu de communication généré doit être aligné avec le stockage de courrier synchronisé et les processus d'archivage d'entreprise.
+
+En utilisant les API Python, cette conversion peut prendre en charge l'automatisation de la préparation de données orientées boîte aux lettres, de la gestion du stockage des messages et de la gestion des communications dérivées de documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Support du stockage de boîte aux lettres**
+  Adapter la communication générée à partir de documents aux contextes de stockage de courrier hors ligne.
+
+* **Archivage d'entreprise**
+  Préparer le contenu pour les flux de travail impliquant des dépôts de messages synchronisés.
+
+* **Opérations de messagerie pilotées par des modèles**
+  Réutiliser le contenu des documents dans les environnements de traitement liés aux boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Préparation automatisée du stockage de courrier**
+  Convertir les modèles DOTX pour les utiliser dans les processus de gestion orientés boîte aux lettres.
+
+* **Pipelines de rétention de communication**
+  Prendre en charge des flux de travail d'archivage évolutifs pour le contenu des messages générés.
+
+* **Gestion de contenu synchronisée**
+  Intégrer la communication basée sur les documents dans les systèmes de messagerie à accès hors ligne.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

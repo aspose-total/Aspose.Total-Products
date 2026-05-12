@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para JPEG converte o conteúdo da caixa de correio em arquivos de imagem comprimidos amplamente suportados, facilitando o armazenamento, compartilhamento e visualização de mensagens de email em diversas plataformas. Isso é especialmente útil para exportações visuais leves, onde a compatibilidade e o tamanho de arquivo gerenciável são importantes.
+
+Ao usar APIs Python, as equipes podem automatizar a conversão de MBOX para JPEG para acelerar o processamento de caixas de correio em larga escala, reduzir o trabalho manual de renderização e suportar arquivamento portátil baseado em imagens.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Imagens de Email Portáteis**
+  Exporte mensagens como arquivos JPEG para ampla compatibilidade em dispositivos e sistemas.
+
+* **Registros Visuais com Eficiência de Armazenamento**
+  Preserve a aparência do email em forma de imagem comprimida para distribuição prática.
+
+* **Recursos de Pré‑visualização Rápida**
+  Crie visualizações de caixas de correio para painéis, relatórios ou interfaces de revisão.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Renderização em Lote de JPEG**
+  Converta automaticamente o conteúdo MBOX em imagens JPEG para acesso visual rápido.
+
+* **Pipelines de Relatórios e Compartilhamento**
+  Integre imagens de email renderizadas em fluxos de trabalho operacionais e de apresentação.
+
+* **Exportação Programática de Arquivo**
+  Use scripts Python para gerar saídas de imagem otimizadas para armazenamento a partir de grandes arquivos de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

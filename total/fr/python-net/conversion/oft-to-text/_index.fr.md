@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OFT en TEXTE à l'aide des API Python extrait le contenu des modèles d'e‑mail Outlook en texte brut pour un traitement simple, l'indexation et l'archivage. Ceci est utile lorsque le formatage est moins important que l'accessibilité du contenu, la recherchabilité et la gestion de données légères.
+
+Dans les flux de travail d'automatisation, la conversion OFT en TEXTE prend en charge l'analyse, l'extraction et l'intégration avec des systèmes qui reposent sur du contenu textuel brut. Elle améliore l'efficacité de l'extraction de contenu, de l'optimisation de la recherche et des opérations de données en aval.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de contenu brut**  
+  Convertir les fichiers OFT en texte pour un accès direct au contenu du message sans la complexité du formatage.
+
+* **Préparation de la recherche et de l'indexation**  
+  Utiliser les sorties en texte brut pour améliorer l'indexation, la récupération et les flux de travail d'analyses basées sur le texte.
+
+* **Stockage d'archivage léger**  
+  Conserver le contenu essentiel des modèles dans un format compact et simple.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines d'exploration de texte**  
+  Alimenter le contenu OFT extrait dans des processus de classification, d'étiquetage ou d'analyse automatisés.
+
+* **Création d'archive consultable**  
+  Convertir les modèles en texte brut pour l'indexation du dépôt et des flux de travail de récupération rapide.
+
+* **Normalisation programmatique du contenu**  
+  Utiliser les API Python pour standardiser le texte des modèles en vue d'intégrations et de traitements de données en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

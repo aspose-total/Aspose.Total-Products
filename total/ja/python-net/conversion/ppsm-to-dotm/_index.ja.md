@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における PPSM から DOTM への変換は、マクロ対応のスライドショーコンテンツを、構造化された自動文書生成のためのマクロ対応ドキュメントテンプレートに変換することを可能にします。プレゼンテーションのコンテンツを、先進的な文書自動化機能にも依存するテンプレート駆動型ワークフローに組み込む必要がある場合に有用です。
+
+スケーラブルな自動化のために、PPSM から DOTM への変換により、組織は標準化されたフォーマットとマクロ対応ドキュメントテンプレートを組み合わせることができ、文書作成環境全体での再現性、制御、効率性が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応テンプレート作成**  
+  プレゼンテーションのコンテンツを、自動文書ワークフロー用に設計された再利用可能なテンプレートに変換します。
+
+* **標準化された文書組み立て**  
+  プレゼンテーション由来の素材から、制御された文書構造の作成をサポートします。
+
+* **プロセス駆動型コンテンツ再利用**  
+  コンテンツを、チームやシステム全体で繰り返し使用されるテンプレートに再利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレートライブラリ**  
+  Python API は、集中型テンプレートリポジトリ用の DOTM 出力を生成できます。
+
+* **ワークフロー指向の文書生成**  
+  変換は、ソース抽出とテンプレート化された自動化ロジックを組み合わせたパイプラインをサポートします。
+
+* **スケーラブルなコンテンツ配信**  
+  プログラム的なプロセスにより、部門間で一貫した構造のマクロ対応テンプレートを配信できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

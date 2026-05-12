@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para XLT transforma modelos de documentos em arquivos de modelo de planilha que podem ser reutilizados para a criação consistente de pastas de trabalho. Isso é valioso quando o conteúdo estruturado do documento deve servir como base repetível para fluxos de trabalho de planilhas.
+
+Com APIs Python, a geração de modelos XLT a partir de fontes DOT pode ser automatizada para melhorar a padronização e reduzir o esforço repetitivo de design de pastas de trabalho.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação Reutilizável de Modelos de Planilha**
+  Converta arquivos DOT em modelos XLT para geração repetida de pastas de trabalho.
+
+* **Layouts de Dados Consistentes**
+  Transforme estruturas de documentos em modelos de planilha que preservam formato e organização.
+
+* **Padronização Operacional**
+  Suporte à criação repetível de planilhas a partir de modelos de documentos gerenciados centralmente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Publicação Automatizada de Modelos**
+  Scripts Python podem gerar arquivos XLT a partir de documentos DOT para uso operacional recorrente.
+
+* **Pipelines de Pastas de Trabalho Padronizados**
+  A conversão suporta sistemas que precisam de modelos de planilha consistentes em escala.
+
+* **Geração em Massa de Modelos**
+  Processos programáticos ajudam a construir grandes bibliotecas de modelos de pastas de trabalho reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

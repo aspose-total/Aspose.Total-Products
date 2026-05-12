@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a DOCX trasforma il contenuto dei fogli di calcolo in un formato di documento moderno ampiamente utilizzato per file di testo modificabili, portabili e strutturati. È utile quando le informazioni dei fogli di calcolo devono essere riutilizzate come report, riepiloghi, proposte o documentazione con una migliore leggibilità e compatibilità.
+
+Con le API Python, la conversione da SXC a DOCX supporta l'automazione documentale scalabile trasformando i dati tabulari in output standardizzati che si adattano ai flussi di lavoro digitali, ai sistemi di contenuto e ai processi di revisione collaborativa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso chiave" %}}
+
+* **Creazione di report aziendali**  
+  Converte le informazioni basate su fogli di calcolo in documenti curati per la comunicazione interna ed esterna.
+
+* **Documentazione modificabile**  
+  Rende i dati di origine più facili da revisionare, annotare e riutilizzare in ambienti incentrati sui documenti.
+
+* **Standardizzazione del formato**  
+  Aiuta le organizzazioni a unificare i formati di output tra team e sistemi usando uno standard di documento moderno.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione di report programmati**  
+  Genera file DOCX dalle sorgenti SXC automaticamente come parte di attività di reporting ricorrenti.
+
+* **Integrazione del flusso di lavoro documentale**  
+  Inserisce i file convertiti nei sistemi di approvazione, collaborazione o pubblicazione senza riformattazione manuale.
+
+* **Generazione di contenuti dinamici**  
+  Consente ai servizi basati su Python di creare documenti personalizzati o basati sui dati su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

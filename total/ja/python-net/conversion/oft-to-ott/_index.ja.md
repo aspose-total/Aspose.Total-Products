@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT から OTT への変換は、Python API を使用して Outlook のメールテンプレートをオープンドキュメントのテキストテンプレートに変換し、再利用可能で標準ベースの文書生成を可能にします。これは、組織がコミュニケーションコンテンツをオープンエコシステム内で繰り返し使用できるテンプレート資産に変換したい場合に有用です。
+
+OFT から OTT への変換を自動化することで、チームはスケーラブルなテンプレート作成を支援し、相互運用性を促進し、文書の標準化を簡素化できます。オープンかつ自動化された文書ワークフロー全体でコンテンツの再利用が強化されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンテンプレート作成**  
+  OFT コンテンツを OTT ファイルに変換し、オープンドキュメントワークフローで再利用可能な文書テンプレートを作成します。
+
+* **テンプレートベースのコンテンツ標準化**  
+  メール由来のテンプレート素材から一貫した文書構造を構築します。
+
+* **相互運用可能な文書作成**  
+  標準に対応したオフィスシステム間で共有できる再利用可能なテンプレートを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**  
+  OFT ファイルから OTT テンプレートを生成し、繰り返し可能な文書作成プロセスを実現します。
+
+* **オープンワークフロー統合**  
+  変換されたテンプレートファイルをオープンドキュメント標準に依存するシステムに組み込みます。
+
+* **スケーラブルな再利用可能コンテンツパイプライン**  
+  プログラムでテンプレート資産を管理・配布し、チームやプロジェクト間で活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

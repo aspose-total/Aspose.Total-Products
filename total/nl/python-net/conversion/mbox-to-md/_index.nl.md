@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een MBOX naar MD-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX-naar-MD-conversie zet mailboxarchieven om in Markdown‑bestanden, waardoor e‑mailinhoud gemakkelijker leesbaar, versiebeheerbaar en herbruikbaar wordt in lichtgewicht, tekstgebaseerde documentatiesystemen. Dit formaat is ideaal voor contentportabiliteit, ontwikkelaarsworkflows en kennisbeheersomgevingen.
+
+Met Python‑API’s kan de MBOX-naar-Markdown‑conversie geautomatiseerd worden om schaalbare contentextractie, statische publicatie en efficiënte integratie met moderne documentatiepijplijnen te ondersteunen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste Toepassingsgevallen" %}}
+
+* **Lichtgewicht Tekstdocumentatie**
+  Converteer e‑mails naar Markdown voor schone, leesbare en draagbare documentatie.
+
+* **Integratie van Kennisbank**
+  Herbruik mailboxinhoud in wiki‑, repository‑ of statische contentworkflows.
+
+* **Versievriendelijke Archivering**
+  Sla geconverteerde e‑mailinhoud op in een formaat dat geschikt is voor tracking en updates.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Statische Contentgeneratie**
+  Converteer mailboxgegevens automatisch naar Markdown voor publicatie of indexering.
+
+* **Repository‑gebaseerde Workflows**
+  Gebruik Python om e‑mailarchieven naar tekstgerichte contentbeheersystemen te verplaatsen.
+
+* **Schaalbare Documentatiepijplijnen**
+  Batch‑transformeer MBOX‑bestanden naar gestructureerde Markdown‑assets voor hergebruik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

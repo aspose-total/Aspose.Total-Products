@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para OST em APIs Python transforma modelos de texto OpenDocument em estruturas de dados de caixa de correio offline usadas em cenários de armazenamento de e‑mail sincronizado. Isso é relevante quando o conteúdo de comunicação gerado deve estar alinhado com fluxos de trabalho e requisitos de armazenamento orientados a caixas de correio.
+
+A conversão suporta automação ao conectar a geração de mensagens baseada em documentos com acesso offline, preparação de arquivamento e processos de gerenciamento de comunicação que dependem de dados de caixa de correio estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Dados de Correio Offline**  
+  Suporta fluxos de trabalho que utilizam armazenamento sincronizado no estilo de caixa de correio.
+
+* **Empacotamento de Comunicação Gerada**  
+  Converte o conteúdo do modelo em saída orientada a caixa de correio.
+
+* **Suporte a Arquivamento e Acesso**  
+  Ajuda a preservar os dados de comunicação para cenários de manipulação offline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Montagem Automatizada de Dados de Correio**  
+  Produz saídas compatíveis com OST a partir de modelos de documento.
+
+* **Pipelines de Arquivamento Corporativo**  
+  Integra a comunicação gerada em fluxos de trabalho de armazenamento gerenciado.
+
+* **Processamento em Massa de Comunicação**  
+  Escala a transformação de conteúdo OTT em estruturas prontas para caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

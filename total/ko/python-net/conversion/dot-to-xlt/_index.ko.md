@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 XLT 변환은 문서 템플릿을 스프레드시트 템플릿 파일로 변환하여 일관된 워크북 생성을 위해 재사용할 수 있게 합니다. 이는 구조화된 문서 내용이 스프레드시트 워크플로우의 반복 가능한 기반이 되어야 할 때 유용합니다.
+
+Python API를 사용하면 DOT 소스에서 XLT 템플릿 생성을 자동화하여 표준화를 향상하고 반복적인 워크북 설계 작업을 줄일 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 스프레드시트 템플릿 생성**
+  DOT 파일을 XLT 템플릿으로 변환하여 반복적인 워크북 생성을 수행합니다.
+
+* **일관된 데이터 레이아웃**
+  문서 구조를 스프레드시트 템플릿으로 전환하여 형식과 구성을 유지합니다.
+
+* **운영 표준화**
+  중앙에서 관리되는 문서 템플릿으로부터 반복 가능한 스프레드시트 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 게시**
+  Python 스크립트를 사용하여 DOT 문서에서 XLT 파일을 생성하고 반복적인 운영에 활용할 수 있습니다.
+
+* **표준 워크북 파이프라인**
+  변환은 대규모로 일관된 스프레드시트 템플릿이 필요한 시스템을 지원합니다.
+
+* **대량 템플릿 생성**
+  프로그래밍 방식 프로세스를 통해 재사용 가능한 워크북 템플릿의 대규모 라이브러리를 구축할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

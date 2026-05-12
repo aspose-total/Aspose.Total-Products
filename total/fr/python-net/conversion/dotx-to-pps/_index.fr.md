@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX en PPS convertit le contenu d’un modèle Word en un format de diaporama destiné à être visualisé directement. Elle est utile lorsque le contenu du document doit être distribué sous forme de séquence visuelle prête à être présentée plutôt que sous forme de fichier de diapositives modifiable.
+
+Cette conversion prend en charge l’automatisation en permettant la génération d’outputs de diaporama à partir de modèles via Python, aidant à rationaliser les processus de publication et de diffusion de présentations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Diaporamas prêts à être présentés**
+  Transformez le contenu du document en ressources de présentation prêtes à être lues directement.
+
+* **Distribution de présentations**
+  Partagez les rendus visuels sans nécessiter de modifications supplémentaires.
+
+* **Livraison visuelle basée sur des modèles**
+  Réutilisez des documents structurés comme supports de communication prêts pour le diaporama.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Publication automatisée de diaporamas**
+  Générez des fichiers PPS à partir de modèles DOTX pour des flux de travail de visualisation directe.
+
+* **Briefings visuels récurrents**
+  Produisez des diaporamas prêts à être exécutés à partir de formats de documents récurrents.
+
+* **Standardisation des sorties de présentation**
+  Fournissez des ressources de diaporama cohérentes via des pipelines automatisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

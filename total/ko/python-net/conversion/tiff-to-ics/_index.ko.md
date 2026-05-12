@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 TIFF를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 TIFF에서 ICS로의 변환은 이미지 기반 레코드에서 파생된 일정 컨텍스트를 통해 시각 문서 내용을 캘린더 호환 데이터 출력으로 변환할 수 있게 합니다. 이는 약속 통지서, 이벤트 스캔, 또는 구조화된 캘린더 항목으로 변환되어야 하는 시간표 문서에 유용할 수 있습니다.
+
+자동화 프로젝트를 위해, TIFF에서 ICS로의 변환은 일정 통합을 개선하고 수동 입력을 줄이며 문서 캡처 시스템과 캘린더 워크플로 간의 원활한 조정을 지원합니다. 이는 시기와 알림이 운영상 중요하게 여겨지는 환경에서 이미지‑to‑이벤트 처리를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **약속 문서 변환**
+  TIFF 기반 일정 또는 약속 통지서를 캘린더 호환 출력으로 변환합니다.
+
+* **이벤트 레코드 구조화**
+  시각적인 이벤트 정보를 표준화된 일정 아티팩트로 전환하는 데 도움을 줍니다.
+
+* **알림 워크플로 지원**
+  이미지에서 추출된 이벤트 세부 정보를 알림 및 계획 시스템에서 사용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **스캔된 일정 처리**
+  TIFF 일정의 변환을 자동화하여 캘린더 가져오기 워크플로를 위한 ICS 출력으로 만듭니다.
+
+* **미팅 인입 자동화**
+  이벤트 관련 문서 내용을 추출하고 이를 사용 가능한 일정 파일로 변환하는 것을 지원합니다.
+
+* **캘린더 동기화 파이프라인**
+  이미지 기반 운영 문서에서 캘린더 항목을 프로그래밍 방식으로 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

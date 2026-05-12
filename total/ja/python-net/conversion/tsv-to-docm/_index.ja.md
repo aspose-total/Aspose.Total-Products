@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から DOCM への変換により、表形式データをマクロ対応のワードプロセッシング文書に変換でき、よりリッチな文書ワークフローや高度な処理ニーズをサポートします。構造化データを、管理されたエンタープライズ文書環境に適した編集可能な形式で提供する必要がある場合に価値があります。
+
+Python API を使用すれば、TSV から DOCM への変換を自動化システムに組み込むことができ、スケールで再利用可能な文書を生成し、文書の組み立て、ワークフローのオーケストレーション、構造化コンテンツ配信を効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応レポート**  
+  高度な文書動作が求められる環境向けに、データ駆動型文書を作成します。
+
+* **構造化ドキュメント出力**  
+  TSV コンテンツを、運用および管理用途に適した編集可能なファイルに変換します。
+
+* **自動コンテンツパッケージング**  
+  データをよりインタラクティブな形式で必要とする文書生成ワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートベースのドキュメント作成**  
+  自動化により、TSV データセットからマクロ対応文書形式を自動的に入力できます。
+
+* **エンタープライズワークフロー統合**  
+  Python API は、データエクスポートを下流の文書処理システムに接続できます。
+
+* **バッチパブリッシングパイプライン**  
+  複数の TSV ファイルを、繰り返し可能な自動実行で DOCM 文書に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

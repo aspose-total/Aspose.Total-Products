@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to OFT 変換は、Word のコンテンツをメッセージングやコミュニケーションワークフローで再利用できるメールテンプレートファイルに変換します。文書の内容が繰り返しのアウトリーチ、通知、または標準化された通信の基礎となる場合に特に有用です。
+
+Python API を使用すると、DOC から OFT への変換を自動コンテンツ生成の一部として実行でき、チームが一貫したメッセージテンプレートを作成し、コミュニケーション効率を向上させることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **再利用可能なメールテンプレート**
+  文書ドラフトを OFT テンプレートに変換し、繰り返しのコミュニケーションに利用します。
+
+* **標準化されたメッセージング**
+  繰り返し行われるメールワークフロー全体で、構造と文言の一貫性を確保します。
+
+* **テンプレートベースのアウトリーチ**
+  正式な文書コンテンツを再利用可能なメッセージフレームワークに転用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**
+  キャンペーンや通知システム向けに、DOC コンテンツから OFT ファイルを生成します。
+
+* **文書駆動型メッセージングパイプライン**
+  承認済みの文書テキストを、下流のパーソナライズに備えたテンプレートに変換します。
+
+* **スケーラブルなコミュニケーション運用**
+  プログラムで再利用可能なメッセージ形式の大規模ライブラリを維持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

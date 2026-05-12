@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から PCL への変換は、Outlook のメールテンプレートを印刷指向のワークフロー用のプリンタ制御言語ファイルに変換します。これは、メールベースのテンプレートコンテンツを直接印刷、デバイス固有の出力、または管理された文書製造環境向けに準備する必要がある場合に重要です。
+
+自動化の文脈では、OFT から PCL への変換は印刷準備を効率化し、手動の書式設定ステップを削減し、大規模な出力生成を支援します。印刷が主要な業務要件であり続ける環境で特に有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **印刷対応出力の生成**  
+  印刷重視のコンテンツを効率的に準備するために、OFT ファイルを PCL に変換します。
+
+* **運用印刷ワークフロー**  
+  メールテンプレートを互換性のある印刷システムへ直接ルーティングする必要がある場合に、PCL 出力を使用します。
+
+* **構造化ハードコピー製造**  
+  繰り返し可能でデバイス指向の物理出力のために、書式設定されたコンテンツを保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動印刷キュー処理**  
+  OFT テンプレートを PCL ファイルに変換し、印刷ワークフローへ自動的に送信します。
+
+* **大量出力操作**  
+  繰り返し行われる業務タスクのために、印刷対応ファイルの大量生成を支援します。
+
+* **デバイス固有の文書ルーティング**  
+  Python API を使用して、変換された出力を印刷サーバーや製造システムと統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

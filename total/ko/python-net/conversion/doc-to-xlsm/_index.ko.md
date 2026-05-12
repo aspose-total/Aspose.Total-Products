@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOC를 XLSM으로 변환하면 Word 콘텐츠를 매크로 사용이 가능한 Excel 워크북으로 전환하여 스프레드시트 구조와 고급 자동화 기능을 결합합니다. 편집 가능한 데이터와 자동화 준비가 된 워크북 동작이 필요한 조직에 유용합니다.
+
+DOC를 XLSM으로 변환하기 위한 Python API를 사용하면 확장 가능한 워크북 생성이 지원되고, 수동 데이터 전송이 감소하며, 고급 스프레드시트 기반 프로세스와의 통합이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 데이터 워크북**
+  문서 콘텐츠를 고급 워크플로 지원을 위해 설계된 스프레드시트 파일로 변환합니다.
+
+* **자동화된 비즈니스 보고**
+  스프레드시트 로직과 구조화된 데이터가 함께 작동해야 하는 경우에 XLSM 출력을 사용합니다.
+
+* **재사용 가능한 운영 모델**
+  반복되는 문서 콘텐츠를 자동화 가능한 워크북으로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **고급 워크북 자동화**
+  프로세스 중심의 스프레드시트 워크플로를 위해 DOC 소스에서 XLSM 파일을 생성합니다.
+
+* **문서-엑셀 로직 파이프라인**
+  구조화된 콘텐츠를 자동화된 운영 모델에서 사용되는 워크북으로 변환합니다.
+
+* **반복 데이터 변환**
+  프로그래밍 방식으로 문서 내보내기를 매크로 사용 스프레드시트 자산으로 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOT를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to ICS 변환은 문서 템플릿을 일정 및 이벤트 교환에 사용할 수 있는 캘린더 호환 데이터로 변환합니다. 템플릿 내용에 날짜 기반 정보가 포함되어 캘린더 워크플로를 통해 공유되어야 할 때 이는 중요합니다.
+
+Python API를 사용하면 DOT to ICS 변환을 자동화하여 이벤트 생성, 약속 배포 및 일정 시스템과의 통합을 신뢰할 수 있고 반복 가능한 방식으로 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿에서 이벤트 생성**
+  DOT 기반 일정 정보를 캘린더 사용을 위한 ICS 파일로 변환합니다.
+
+* **회의 및 타임라인 배포**
+  문서에서 파생된 날짜와 이벤트를 표준 일정 형식으로 공유합니다.
+
+* **워크플로 일정 통합**
+  구조화된 템플릿 내용을 운영 계획을 위한 캘린더 아티팩트로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 캘린더 생성**
+  Python 스크립트를 사용하면 날짜 중심의 DOT 템플릿을 배포용 ICS 파일로 변환할 수 있습니다.
+
+* **일정 파이프라인 지원**
+  변환을 통해 시스템이 문서 정의 이벤트를 캘린더 워크플로에 푸시할 수 있습니다.
+
+* **배치 이벤트 게시**
+  프로그래밍 방식 처리를 통해 여러 템플릿에서 대량의 ICS 파일을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para OST converte modelos de documentos em um formato offline orientado a caixas de correio para fluxos de trabalho de mensagens e preparação de arquivamento. Isso é relevante em cenários onde conteúdo derivado de modelos é incorporado a processos de armazenamento de comunicação offline.
+
+Com APIs Python, essa conversão pode ser incorporada a sistemas automatizados que preparam ativos de comunicação baseados em documentos para sincronização de caixas de correio ou manipulação de arquivamento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Correio Offline**
+  Converta conteúdo baseado em DOT para fluxos de trabalho compatíveis com OST para processamento relacionado a caixas de correio.
+
+* **Suporte a Arquivamento e Sincronização**
+  Use dados de comunicação derivados de modelos em ambientes que exigem estruturas de armazenamento offline.
+
+* **Empacotamento de Fluxo de Trabalho de Mensagens**
+  Prepare saídas estruturadas a partir de modelos de documentos para operações centradas em caixas de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Preparação Automatizada de Armazenamento de Correio**
+  Scripts Python podem suportar a conversão recorrente de arquivos DOT para fluxos de trabalho de correio offline.
+
+* **Integração de Correio Orientada por Documentos**
+  A conversão ajuda a conectar repositórios de modelos com processos de comunicação sincronizados.
+
+* **Manipulação de Ativos de Correio em Massa**
+  Pipelines programáticos simplificam a preparação em grande volume de saídas orientadas a caixas de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

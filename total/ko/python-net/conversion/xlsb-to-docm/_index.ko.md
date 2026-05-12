@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB에서 DOCM으로의 변환은 이진 스프레드시트 콘텐츠를 매크로가 포함된 워드 문서로 변환할 수 있게 하여, 문서 자동화와 편집 가능한 텍스트 출력이 동시에 필요할 때의 시나리오를 지원합니다. 이는 스프레드시트 데이터를 스크립트 또는 매크로 기반 동작에 의존하는 문서 워크플로에 통합해야 할 때 유용합니다.
+
+현대 자동화 시스템에서는 XLSB에서 DOCM으로의 변환이 구조화된 데이터 추출과 고급 문서 처리를 결합한 문서 생성 파이프라인을 지원하여, 반복적인 비즈니스 작업 및 동적 보고 환경에서 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **매크로 지원 보고**  
+  스프레드시트 데이터를 자동 문서 작업을 지원할 수 있는 문서로 변환합니다.
+
+* **프로세스 문서화**  
+  스크립트 기반 문서 워크플로를 사용하는 팀을 위해 편집 가능한 파일을 만드는 데 도움이 됩니다.
+
+* **운영 요약**  
+  구조화된 비즈니스 커뮤니케이션을 위해 스프레드시트 레코드를 매크로 준비 문서로 변환합니다.
+
+* **문서 자동화 입력**  
+  자동화된 Word 기반 프로세스에 의존하는 환경을 위해 형식화된 출력을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 보고서 배포**  
+  XLSB 파일을 매크로를 포함하는 문서 워크플로를 위해 DOCM 출력으로 변환할 수 있습니다.
+
+* **데이터-문서 파이프라인**  
+  시스템은 더 큰 프로세스의 일부로 스프레드시트 입력을 매크로가 포함된 문서로 변환할 수 있습니다.
+
+* **재사용 가능한 사무 워크플로**  
+  자동 변환은 내장된 문서 로직을 사용한 반복적인 문서 생성을 지원합니다.
+
+* **배치 엔터프라이즈 처리**  
+  여러 스프레드시트 파일을 확장 가능한 작업을 위해 DOCM 파일로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

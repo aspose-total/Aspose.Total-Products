@@ -53,9 +53,43 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 이미지로 변환하면 OpenDocument 텍스트 템플릿을 시각적 공유, 미리보기 생성 및 정적 게시를 위한 이미지 출력으로 렌더링합니다. 이는 문서 콘텐츠를 편집 가능한 원본 형식에 의존하지 않고도 플랫폼 간에 일관되게 표시해야 할 때 유용합니다.
+
+이 변환은 자동화를 지원하여 미리보기, 썸네일, 웹 자산 및 문서 스냅샷을 프로그래밍 방식으로 생성하고 널리 배포할 수 있는 확장 가능한 렌더링 파이프라인을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **시각적 미리보기 생성**  
+  문서 콘텐츠의 정적 표현을 빠르게 볼 수 있도록 생성합니다.
+
+* **크로스 플랫폼 공유**  
+  문서 지원이 제한된 환경에서도 콘텐츠를 더 쉽게 표시할 수 있게 합니다.
+
+* **게시 지원**  
+  웹, 보고서 또는 아카이브 용 이미지 자산을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 생성 파이프라인**  
+  OTT 파일에서 대량으로 미리보기 이미지를 생성합니다.
+
+* **콘텐츠 게시 워크플로**  
+  템플릿을 포털이나 문서 사이트용 시각적 자산으로 변환합니다.
+
+* **자동 스냅샷 아카이빙**  
+  문서 상태를 편집 불가능한 이미지 출력으로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -65,7 +65,45 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to CSV conversion transforms structured or semi-structured Word content into comma-separated data that is easy to analyze, exchange, and process across business systems. It is valuable for reporting, migration, data cleanup, and downstream analytics where tabular output is required.
+
+文書をCSVに変換することで、構造化または半構造化されたWordコンテンツを、分析・交換・ビジネスシステム間での処理が容易なカンマ区切りデータに変換します。表形式の出力が必要とされるレポート作成、データ移行、データクリーンアップ、下流分析において価値があります。
+
+Using Python APIs to automate DOC to CSV conversion helps standardize document extraction, reduce manual reformatting, and support scalable workflows that feed spreadsheets, ETL pipelines, dashboards, and data-driven applications.
+
+Python API を使用して DOC から CSV への変換を自動化することで、文書抽出の標準化、手動での再フォーマットの削減、スプレッドシート、ETL パイプライン、ダッシュボード、データ駆動型アプリケーションへと供給するスケーラブルなワークフローを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **表形式データ抽出**
+  文書の表や繰り返しレコードをCSVに変換し、分析やインポートを容易にします。
+
+* **データ移行ワークフロー**
+  文書ベースの業務データをデータベースや業務システムへの転送のために準備します。
+
+* **レポート作成**
+  文書の内容をレポート、検証、アーカイブレビューに適したフラットファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量レコードエクスポート**
+  大量の運用処理向けに、DOC ファイルを CSV データセットへエクスポートする作業を自動化します。
+
+* **パイプライン統合**
+  変換された CSV 出力を分析、CRM、ERP、またはデータウェアハウスの取り込みワークフローに供給します。
+
+* **スケジュールされたデータ正規化**
+  定期的に発生する文書ソースからコンテンツをプログラム的に抽出・標準化し、スケジュールに従って処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

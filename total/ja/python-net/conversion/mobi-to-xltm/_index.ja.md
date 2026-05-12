@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MOBI から XLTM への変換により、電子書籍コンテンツを高度で繰り返し可能なワークブック生成のためのマクロ対応スプレッドシートテンプレートとして準備できます。これは、テンプレートの一貫性とスプレッドシートの自動化ロジックの両方が同時に必要とされる環境で有用です。
+
+自動化の観点から、MOBI から XLTM への変換は構造化抽出と再利用可能なワークブックテンプレート、そしてマクロ駆動の動作を組み合わせます。これにより、エンタープライズコンテンツワークフローにおいて、スケーラブルな文書生成、一貫したフォーマット、そして自動化されたスプレッドシート操作をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**
+  MOBI コンテンツを XLTM に変換し、自動化サポート付きで繰り返し可能なスプレッドシート生成を実現します。
+
+* **一貫した高度なワークブック**
+  構造と自動化されたスプレッドシート機能の両方を保持したテンプレートベースの出力を生成します。
+
+* **再利用可能な運用モデル**
+  組み込みロジックを備えた制御されたスプレッドシートテンプレートに依存するビジネスワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレートワークフロー**
+  Python スクリプトを使用して XLTM ファイルを生成し、定期的な文書およびレポート作業を実行します。
+
+* **再利用可能なスプレッドシートロジックパイプライン**
+  抽出されたコンテンツとマクロ対応テンプレートを組み合わせ、繰り返し可能な高度なワークフローをサポートします。
+
+* **標準化された自動化デリバリー**
+  チームやシステム全体でプログラム的にインスタンス化できる統一されたスプレッドシートテンプレートを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

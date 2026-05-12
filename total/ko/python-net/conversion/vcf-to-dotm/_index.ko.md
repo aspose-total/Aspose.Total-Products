@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 VCF를 DOTM로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to DOTM 변환은 연락처 카드 데이터를 매크로 사용 워드 템플릿 파일로 변환하여 재사용 가능한 레이아웃과 고급 문서 동작을 결합할 수 있게 합니다. 이는 편집 가능하고 프로그래밍 가능한 특성을 가진 구조화된 템플릿이 필요한 조직에 유용합니다.
+
+Python API를 사용해 자동화하면 VCF to DOTM 변환은 확장 가능한 템플릿 생성을 지원하여 워크플로가 동적인 운영 요구에 맞는 일관된 연락처 기반 문서를 생성하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿**  
+  VCF 연락처 데이터를 DOTM 파일로 변환하여 고급 재사용 가능한 문서 구조를 제공합니다.
+
+* **반복 가능한 연락처 형식**  
+  생성된 템플릿에서 연락처 정보가 표시되는 방식을 표준화합니다.
+
+* **운영 문서 제어**  
+  템플릿 로직과 구조화된 문서 출력을 기반으로 하는 환경을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 생성**  
+  배치 처리를 통해 여러 연락처 레코드에서 DOTM 템플릿을 생성합니다.
+
+* **워크플로 준비된 연락처 자산**  
+  자동화된 내부 문서 시스템을 위해 재사용 가능한 템플릿 파일을 준비합니다.
+
+* **확장 가능한 템플릿 제공**  
+  Python API를 사용해 매크로 사용 연락처 템플릿을 효율적으로 생성 및 관리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

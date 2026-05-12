@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLT から Word への変換は、Excel テンプレートファイルをビジネスコミュニケーション、レポート、構造化文書向けの Word 互換ドキュメントに変換することを可能にします。この変換は、スプレッドシートのテンプレートに含まれる情報を、より叙述的で印刷可能、または文書指向の形式で提示する必要がある場合に有用です。
+
+自動化ワークフロー内では、XLT から Word への変換により、スプレッドシートベースのソースファイルと広く受け入れられている文書出力を結び付け、プロセスの継続性が向上します。スケーラブルなコンテンツ変換、円滑なコラボレーション、文書生成・管理システムとの統合が容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ビジネス文書の作成**  
+  XLT テンプレートをレポート、要約、正式な記録用の Word 互換ファイルに変換します。
+
+* **可読性の高いコンテンツ変換**  
+  スプレッドシート由来のデータを、レビューや配布が容易な文書形式で提示します。
+
+* **ワークフロー互換性の拡張**  
+  スプレッドシートではなく Word 指向の文書に依存するビジネスプロセスをサポートします。
+
+* **テンプレートコンテンツの再利用**  
+  既存の Excel テンプレートを構造化された文書出力として再利用し、業務効率を向上させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書作成**  
+  Python API を使用して、定期的なワークフロー内で XLT テンプレートから Word 互換出力を生成します。
+
+* **統合レポーティングシステム**  
+  テンプレートデータを Word 文書に変換し、より大規模なレポートおよび文書化パイプラインの一部とします。
+
+* **スケーラブルなファイル変換**  
+  複数のスプレッドシートテンプレートを一括で文書出力に変換し、手作業を最小限に抑えます。
+
+* **プログラムによるコンテンツ配信**  
+  生成された Word 文書を自動的にストレージ、承認、またはコミュニケーションシステムへ配信します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

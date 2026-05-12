@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja Excel do DOCM w Pythonie umożliwia eksportowanie zawartości arkusza kalkulacyjnego do dokumentów przetwarzania tekstu z obsługą makr, co wspiera zaawansowane przepływy pracy dokumentów. Jest przydatna, gdy przekonwertowane pliki muszą pozostać edytowalne, jednocześnie wspierając działania oparte na makrach w środowiskach dokumentowych.
+
+Ta konwersja jest istotna dla automatyzacji, ponieważ łączy dane z arkusza kalkulacyjnego z programowalnym zachowaniem dokumentu, umożliwiając skalowalne generowanie interaktywnych i świadomych procesów plików.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Raportowanie z obsługą makr**  
+  Konwertuj pliki Excel do dokumentów DOCM, które mogą obsługiwać zautomatyzowane działania w ramach przepływów pracy przetwarzania tekstu.
+
+* **Dokumenty procesowe**  
+  Przygotuj edytowalne pliki, które łączą ustrukturyzowane dane z wbudowanymi możliwościami automatyzacji dokumentów.
+
+* **Szablony operacyjne**  
+  Użyj danych z arkusza kalkulacyjnego do wypełniania dokumentów zaprojektowanych do powtarzalnych zadań sterowanych makrami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne składanie dokumentów**  
+  Konwertuj dane wejściowe Excel na wyjścia DOCM dla przepływów pracy, które wymagają edytowalnych i gotowych do skryptów dokumentów.
+
+* **Wewnętrzna automatyzacja procesów**  
+  Wspieraj działy, które polegają na plikach z obsługą makr w zakresie formatowania, walidacji lub prowadzonego wypełniania.
+
+* **Potoki danych do dokumentu**  
+  Użyj interfejsów API Pythona do programowego generowania plików DOCM z danych źródłowych opartych na arkuszach kalkulacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a DIF nelle API Python converte i modelli di testo OpenDocument in un formato di scambio dati progettato per il trasferimento di dati tabellari tra sistemi legacy e compatibili con fogli di calcolo. Questo è prezioso quando il contenuto strutturato deve spostarsi tra ambienti con ampio supporto di importazione.
+
+La conversione migliora l'automazione rendendo i dati derivati dai modelli portabili tra sistemi che si basano su formati di scambio standardizzati, contribuendo a ridurre la ristrutturazione manuale e a migliorare l'elaborazione ripetibile.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Scambio dati legacy**  
+  Supporta ambienti che si affidano ancora a formati di scambio tabellari classici.
+
+* **Migrazione a foglio di calcolo**  
+  Prepara i dati derivati dai documenti per l'importazione in strumenti di analisi compatibili.
+
+* **Normalizzazione dei dati del modello**  
+  Estrae informazioni strutturate dai modelli di testo in un formato trasferibile.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Collegamento automatico dei formati**  
+  Collega i moderni modelli di documento con i sistemi di reporting più vecchi.
+
+* **Lavori di conversione in blocco**  
+  Converte grandi lotti di file OTT in DIF senza intervento manuale.
+
+* **Compatibilità della pipeline**  
+  Standardizza i passaggi di esportazione per i flussi di lavoro che richiedono set di dati pronti per lo scambio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

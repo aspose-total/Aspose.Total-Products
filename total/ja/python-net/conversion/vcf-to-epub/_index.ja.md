@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCFからEPUBへの変換は、連絡先カード情報を再流動可能なデジタル出版フォーマットに変換し、コンテンツを読書指向の環境やポータブルな文書ワークフローで利用できるようにします。これは、連絡先データを構造化されたデジタルリファレンス資料にまとめる必要がある場合に有用です。
+
+Python API を使用すると、VCF から EPUB への変換は、連絡先レコードをポータブルで整理されたコンテンツに変換し、デバイス間での配布や閲覧が容易な自動出版パイプラインをサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **デジタルリファレンス出版**  
+  連絡先データを EPUB ファイルに変換し、ポータブルな読書と配布を可能にします。
+
+* **構造化情報パッケージング**  
+  連絡先レコードを出版に適したデジタルコンテンツに整理します。
+
+* **デバイス間のアクセシビリティ**  
+  複数の読書環境に適した形式で連絡先情報を提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された連絡帳作成**  
+  VCF レコードのバッチから EPUB ファイルを生成し、ポータブルなディレクトリを作成します。
+
+* **出版ワークフロー統合**  
+  変換された連絡先コンテンツをデジタル出版プロセスに組み込みます。
+
+* **スケーラブルな配布パイプライン**  
+  Python API を使用して、構造化された EPUB 出力を効率的に生成・配信します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

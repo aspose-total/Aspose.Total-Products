@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOT를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 OFT로의 변환은 문서 템플릿을 반복 가능한 메시징 워크플로에 사용되는 이메일 템플릿 파일로 변환합니다. 이는 조직이 작성된 템플릿을 재사용 가능한 커뮤니케이션 자산으로 전환하고자 할 때 유용합니다.
+
+Python API를 사용하여 DOT에서 OFT로의 변환은 일관성을 향상하고 반복 작업을 줄이며 커뮤니케이션 준비를 간소화하는 메시지 템플릿의 자동 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 이메일 템플릿 생성**
+  DOT 파일을 OFT로 변환하여 표준화된 메시지 초안을 작성합니다.
+
+* **커뮤니케이션 표준화**
+  문서 레이아웃을 팀이나 시스템을 위한 반복 가능한 이메일 템플릿으로 재활용합니다.
+
+* **워크플로에 적합한 메시징 자산**
+  반복되는 작업 전반에 걸쳐 재사용할 수 있도록 구조화된 커뮤니케이션 템플릿을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 템플릿 생성**
+  Python 워크플로는 메시지 준비 시스템을 위해 DOT 문서에서 OFT 파일을 생성할 수 있습니다.
+
+* **반복 가능한 커뮤니케이션 파이프라인**
+  변환을 통해 중앙 문서 소스에서 일관된 이메일 템플릿 출력을 가능하게 합니다.
+
+* **확장 가능한 템플릿 배포**
+  프로그래밍 방식 프로세스는 대량의 재사용 가능한 이메일 템플릿을 생성하고 관리할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

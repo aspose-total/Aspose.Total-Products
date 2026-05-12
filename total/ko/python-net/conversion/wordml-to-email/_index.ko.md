@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 EMAIL로 변�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 이메일로 변환하면 문서 내용을 이메일에 바로 사용할 수 있는 출력물로 바꿔서 커뮤니케이션 워크플로, 템플릿 메시징, 콘텐츠 재활용 등에 활용할 수 있습니다. 문서 텍스트를 수동으로 다시 작성하지 않고 배포 가능한 이메일 콘텐츠로 만들어야 할 때 유용합니다.
+
+Python API를 사용하면 WordML을 이메일로 변환하는 작업을 자동화하여 본문 텍스트를 추출하고, 필요한 경우 구조를 유지하며, 알림, 캠페인 및 운영 커뮤니케이션을 위한 문서‑대‑메시지 워크플로를 간소화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **콘텐츠 재활용**
+  문서 텍스트를 커뮤니케이션 용도로 바로 사용할 수 있는 이메일 콘텐츠로 변환합니다.
+
+* **템플릿 생성**
+  WordML 문서를 일관된 발신 메시지를 위한 소스 자료로 활용합니다.
+
+* **운영 메시징**
+  내부 또는 자동 생성된 문서를 구조화된 이메일 커뮤니케이션으로 전환하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서‑대‑메시지 파이프라인**
+  WordML 파일을 자동으로 이메일 콘텐츠로 변환하여 발신 시스템에 전달합니다.
+
+* **알림 워크플로 지원**
+  표준화된 문서 소스에서 동적으로 이메일 본문을 생성할 수 있게 합니다.
+
+* **대량 커뮤니케이션 자동화**
+  정기 보고서, 업데이트 또는 문서 기반 알림과 같은 반복적인 메시지 생성을 확장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

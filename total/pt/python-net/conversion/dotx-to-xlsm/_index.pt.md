@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para XLSM transforma o conteúdo de modelos do Word em um formato de planilha com macros habilitadas para fluxos de trabalho avançados de pastas de trabalho. É valiosa quando os dados estruturados de documentos precisam ser reutilizados em planilhas que suportam comportamento orientado à automação.
+
+Com APIs Python, essa conversão permite a geração escalável de saídas de planilhas que se adequam a processos empresariais e operacionais mais complexos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Planilha com Macros Habilitadas**
+  Converta o conteúdo do documento em formatos de pastas de trabalho adequados a fluxos de trabalho avançados.
+
+* **Reuso de Dados Operacionais**
+  Transfira informações derivadas de modelos para ambientes de planilhas estruturadas.
+
+* **Suporte a Relatórios Complexos**
+  Prepare saídas de planilhas para cenários de processamento mais avançados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Produção Automatizada de Pastas de Trabalho**
+  Gere arquivos XLSM a partir de modelos DOTX em sistemas de relatórios recorrentes.
+
+* **Pipelines Avançados de Planilhas**
+  Use as saídas convertidas em fluxos de trabalho que exigem formatos de pastas de trabalho capazes de automação.
+
+* **Transformação de Dados Escalável**
+  Transforme programaticamente estruturas de documentos repetidas em ativos de planilhas enriquecidos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

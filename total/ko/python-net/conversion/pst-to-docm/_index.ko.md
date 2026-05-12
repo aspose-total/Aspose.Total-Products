@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 PST를 DOCM로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 PST를 DOCM으로 변환하면 메일함 데이터를 매크로가 포함된 Word 문서로 내보낼 수 있어 고급 문서 워크플로에 활용됩니다. 이는 보관된 이메일 내용을 자동화된 문서 동작, 구조화된 서식 또는 제어된 템플릿 로직과 결합해야 할 때 유용합니다.
+
+현대 자동화 시스템에서 PST를 DOCM으로 변환하면 동적 작업, 재사용 가능한 양식 또는 사전 구축된 매크로 포함 템플릿에 의존하는 문서 생성 프로세스를 지원합니다. 이는 커뮤니케이션 아카이브를 규칙 기반 비즈니스 문서 작업과 연결하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **매크로 포함 문서 출력**
+  메일함 내용을 DOCM으로 내보내어 임베디드 문서 자동화에 의존하는 워크플로에 활용합니다.
+
+* **구조화된 레코드 조합**
+  메시지 데이터를 고급 Word 기반 템플릿 및 로직과 결합하는 데 도움을 줍니다.
+
+* **운영 문서 표준화**
+  제어된 비즈니스 파일에서 이메일 기반 콘텐츠의 일관된 서식을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 자동화 파이프라인**
+  PST 데이터를 DOCM 템플릿으로 라우팅하여 반복 가능한 문서 생성을 할 수 있습니다.
+
+* **규칙 기반 콘텐츠 삽입**
+  자동화 시스템이 선택된 메일함 콘텐츠로 매크로 포함 파일을 채울 수 있습니다.
+
+* **엔터프라이즈 문서 흐름**
+  프로그래밍 방식 변환을 통해 보관된 커뮤니케이션이 고급 문서 프로세스에 활용될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

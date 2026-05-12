@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における Excel から ODT への変換は、スプレッドシートデータを編集可能で標準準拠のワードプロセッシング用オープンドキュメントテキストファイルに変換できるようにします。相互運用性、アクセシビリティ、オープンドキュメントワークフローを重視する環境で価値があります。
+
+この変換は、Python アプリケーションがスプレッドシートソースから編集可能なオープンフォーマットのドキュメントをスケーラブルなコンテンツパイプラインで生成できるようにし、自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープンドキュメントレポーティング**  
+  Excel ファイルを ODT ドキュメントに変換し、標準準拠のレポート作成と編集を行います。
+
+* **クロスプラットフォームドキュメンテーション**  
+  オープンテキスト形式を使用して、オフィス環境全体での互換性を向上させます。
+
+* **編集可能なデータプレゼンテーション**  
+  表形式のスプレッドシートコンテンツを読みやすく、かつ編集可能なテキストドキュメントに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化オープンフォーマットエクスポート**  
+  Python ベースのドキュメントワークフローの一環として、Excel データから ODT ファイルを生成します。
+
+* **相互運用可能なコンテンツパイプライン**  
+  交換やアーカイブのためにオープンドキュメント標準を必要とするシステムをサポートします。
+
+* **大量ドキュメント変換**  
+  複数のスプレッドシートファイルをプログラムで編集可能な ODT 出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de EMLX para WordML em Python converte o conteúdo de e‑mail em marcação de processamento de texto baseada em XML, adequada para o manuseio estruturado de documentos e integração de sistemas. Isso é útil quando fluxos de trabalho exigem um formato de documento que pode ser processado ou inspecionado ao nível da marcação.
+
+Do ponto de vista da automação, a conversão de EMLX para WordML suporta interoperabilidade, transformações estruturadas e fluxos de trabalho de documentos eficientes baseados em XML. Ela ajuda a integrar conteúdo derivado de mensagens em sistemas onde a estrutura de documento legível por máquina é importante.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Representação de Documento XML**  
+  Converta arquivos EMLX em WordML para processamento estruturado baseado em marcação.
+
+* **Interoperabilidade de Sistemas**  
+  Use as saídas WordML em ambientes que dependem da troca de documentos XML.
+
+* **Transparência da Estrutura do Documento**  
+  Inspecione e gerencie o conteúdo convertido ao nível da marcação.
+
+* **Pipelines de Processamento Personalizados**  
+  Prepare documentos derivados de e‑mail para fluxos de trabalho de transformação baseados em XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação Centrada em Marcação**  
+  Converta em lote arquivos EMLX para WordML para sistemas de processamento estruturado.
+
+* **Fluxos de Trabalho de Validação e Transformação**  
+  Alimente as saídas WordML em pipelines automatizados de validação ou conversão XML.
+
+* **Automação de Formato de Intercâmbio**  
+  Use APIs Python para produzir saídas de documentos legíveis por máquina a partir de arquivos de mensagem.
+
+* **Sistemas de Engenharia de Conteúdo**  
+  Integre arquivos WordML convertidos em fluxos de trabalho automatizados de montagem e análise de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

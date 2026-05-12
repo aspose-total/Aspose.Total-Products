@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python을 사용한 Excel에서 MOBI로의 변환은 스프레드시트 내용을 디지털 독서 환경에 적합한 전자책 친화적인 형식으로 변환할 수 있게 합니다. 구조화된 데이터를 배포 또는 참고용으로 휴대 가능하고 읽기 쉬운 문서로 재활용해야 할 때 유용합니다.
+
+이 변환은 Python 워크플로우를 통해 스프레드시트 내용을 모바일 친화적인 출판 자산으로 자동 변환하도록 지원함으로써 수동 재포맷 없이 자동화를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 출판**  
+  Excel 기반 콘텐츠를 MOBI 파일로 변환하여 휴대용 독서 및 참고용으로 사용합니다.
+
+* **참고 자료 생성**  
+  구조화된 스프레드시트 정보를 읽기 쉬운 전자책 스타일 문서로 변환합니다.
+
+* **콘텐츠 재활용**  
+  비즈니스 또는 교육용 스프레드시트 콘텐츠를 장형 디지털 배포 형식으로 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 전자책 생성**  
+  Python API를 사용하여 출판 파이프라인에서 Excel 데이터를 기반으로 MOBI 파일을 생성합니다.
+
+* **콘텐츠 배포 워크플로우**  
+  스프레드시트 기반 자료를 모바일에서 읽을 수 있는 문서로 변환하여 광범위한 접근성을 제공합니다.
+
+* **확장 가능한 형식 변환**  
+  프로그래밍 방식으로 구조화된 데이터를 디지털 독서 플랫폼 및 아카이브용으로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

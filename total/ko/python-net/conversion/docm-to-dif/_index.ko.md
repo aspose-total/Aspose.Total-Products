@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to DIF 변환은 매크로가 포함된 문서를 레거시 및 분석 시스템 간의 구조화된 테이블 교환에 적합한 데이터 교환 형식으로 변환합니다. 이는 문서에 포함된 데이터를 오래된 스프레드시트 및 데이터베이스 워크플로와 호환되는 형식으로 보존해야 할 때 유용합니다.
+
+자동화 관점에서 DOCM to DIF 변환은 표준화된 표 형식 교환 포맷을 사용하여 가져오기 및 조정을 수행하는 시스템으로 구조화된 콘텐츠를 반복적으로 전송하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 데이터 교환**
+  문서 테이블을 오래된 스프레드시트 및 엔터프라이즈 도구에 적합한 형식으로 변환합니다.
+
+* **구조화된 레코드 마이그레이션**
+  DOCM 문서의 데이터를 교환 지향 포맷에 의존하는 시스템으로 이동하는 데 도움을 줍니다.
+
+* **표 형식 보존**
+  문서 콘텐츠를 다른 곳에서 재사용해야 할 때 행과 열의 조직을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 데이터 변환**
+  DOCM 파일을 DIF로 정기적으로 내보내어 운영 일관성을 자동화합니다.
+
+* **레거시 워크플로 통합**
+  오래된 재무, 행정 또는 보고 환경으로 자동 핸드오프를 지원합니다.
+
+* **대량 문서 정규화**
+  다수의 원본 문서를 다운스트림 처리를 위한 공통 구조화 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

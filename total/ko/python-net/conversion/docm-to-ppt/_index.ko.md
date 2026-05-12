@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 PPT로 변환하면 매크로가 포함된 문서를 편집, 검토 및 슬라이드 기반 워크플로우에서 전달하기에 적합한 프레젠테이션 파일로 전환합니다. 문서의 구조화된 콘텐츠를 시각적 커뮤니케이션 자료로 재구성해야 할 때 유용합니다.
+
+자동화와 확장을 위해 DOCM에서 PPT로 변환은 반복 가능한 프레젠테이션 생성, 보고서 작성 및 문서 정보를 편집 가능한 슬라이드 자산으로 전환하는 작업을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **편집 가능한 슬라이드 생성**
+  문서 콘텐츠를 정제하거나 확장할 수 있는 프레젠테이션 파일로 변환합니다.
+
+* **비즈니스 보고**
+  공식 문서 자료를 팀 및 이해관계자를 위한 슬라이드 기반 요약으로 전환하는 데 도움을 줍니다.
+
+* **교육 자료 개발**
+  교육용 프레젠테이션 형식에서 문서 내러티브를 재사용하도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 프레젠테이션 조립**
+  반복적인 커뮤니케이션 워크플로우를 위해 DOCM 문서에서 PPT 파일을 생성합니다.
+
+* **콘텐츠 재활용 파이프라인**
+  작성된 문서를 프로그래밍 방식으로 편집 가능한 프레젠테이션 자산으로 변환합니다.
+
+* **배치 보고 워크플로우**
+  문서 소스에서 대규모 프레젠테이션 생성을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

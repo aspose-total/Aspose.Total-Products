@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から PPSX への変換は、ワードプロセッシングテンプレートを直接プレゼンテーション再生用の最新スライドショーファイルに変換します。これは、文書の内容を編集権限を必要とせずに洗練された表示形式で共有する必要がある場合に便利です。
+
+Python API を使用することで、チームは DOT テンプレートから PPSX の生成を自動化し、効率的なプレゼンテーションの公開と繰り返し可能なコンテンツ配信を実現できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **最新スライドショーエクスポート**
+  DOT テンプレートを PPSX に変換し、プレゼンテーション優先の配信を行います。
+
+* **編集不可コンテンツの共有**
+  スライドベースの出力を提供し、スライドショーモードで直接開くことができます。
+
+* **テンプレートベースのプレゼンテーション公開**
+  構造化された文書コンテンツを再利用し、制御されたビジュアルコミュニケーションを実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー公開**
+  Python ワークフローは DOT テンプレートから PPSX ファイルを生成し、コンテンツ配布に利用できます。
+
+* **プレゼンテーション配信パイプライン**
+  変換は文書ソースを表示指向のスライド公開システムに接続します。
+
+* **大量ビジュアル出力作成**
+  プログラムによるプロセスは、スライドショー対応ファイルのスケーラブルな生成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

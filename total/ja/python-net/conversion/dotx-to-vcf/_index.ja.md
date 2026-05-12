@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から VCF への変換は、Word テンプレートの内容を個人または組織の連絡先情報の保存・共有に使用される連絡先カード形式に変換します。テンプレートに構造化された連絡先詳細が含まれ、通信システムで再利用する必要がある場合に便利です。
+
+Python API を使用すると、この変換は自動化をサポートし、連絡先の抽出、デジタルアドレス帳の生成、文書ベースの連絡先レコードのスケーラブルな同期を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **連絡先情報の抽出**
+  テンプレートから構造化された連絡先詳細を再利用可能なデジタルカードに変換します。
+
+* **ディレクトリ作成**
+  文書ベースの情報からポータブルな連絡先レコードを作成します。
+
+* **通信システム統合**
+  テンプレートの内容をアドレス帳や連絡先共有ワークフローで再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先生成**
+  オンボーディングやディレクトリプロセスのために、DOTX テンプレートから VCF ファイルを作成します。
+
+* **大量連絡先エクスポート**
+  繰り返し使用される文書ベースのレコードを共有可能な連絡先カードに変換します。
+
+* **同期連絡先ワークフロー**
+  変換された連絡先データを通信および CRM 関連システムに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

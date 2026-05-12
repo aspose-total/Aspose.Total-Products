@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLS para DOCM permite que o conteúdo de planilhas seja transformado em documentos Word com macros habilitadas que suportam documentação estruturada e comportamento avançado de documentos. Isso é valioso quando informações baseadas em planilhas precisam ser entregues em formato de documento, permanecendo compatíveis com fluxos de trabalho que dependem de modelos com macros habilitadas.
+
+A conversão de XLS para DOCM baseada em API Python suporta automação ao permitir que sistemas gerem saídas de documentos programaticamente, ajudando as organizações a simplificar a montagem de documentos, a criação de modelos e a distribuição controlada de conteúdo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Documentos com Macros**
+  Converta dados XLS em arquivos DOCM para fluxos de trabalho que dependem de formatos de documento com suporte a macros.
+
+* **Saída Baseada em Modelo**
+  Use o conteúdo da planilha para preencher documentos DOCM estruturados usados em processos de negócios repetíveis.
+
+* **Documentação Operacional**
+  Transforme registros de planilhas em documentos editáveis adequados para procedimentos internos guiados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **População Automatizada de Modelos**
+  Alimente dados XLS nos pipelines de geração de documentos DOCM usando APIs Python.
+
+* **Serviços de Conversão em Lote**
+  Converta múltiplos arquivos de planilha em saídas DOCM para processamento empresarial padronizado.
+
+* **Entrega Integrada de Documentos**
+  Gere arquivos DOCM automaticamente como parte de sistemas de aprovação, arquivamento ou relatórios.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

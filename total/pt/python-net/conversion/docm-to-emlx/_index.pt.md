@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para EMLX converte documentos habilitados para macro em arquivos de mensagem de e‑mail usados em ecossistemas específicos de armazenamento de correio, ajudando a preservar o conteúdo em um formato de comunicação estruturado. Isso é útil quando o conteúdo do documento precisa estar alinhado com fluxos de trabalho de e‑mail específicos da plataforma ou requisitos de arquivamento.
+
+Em contextos de automação, a conversão de DOCM para EMLX permite a geração, organização e retenção sistemáticas de conteúdo de mensagens baseadas em documentos em ambientes de comunicação controlados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Saída de Mensagem Específica da Plataforma**
+  Cria arquivos de mensagem adaptados para ambientes que utilizam estruturas de armazenamento EMLX.
+
+* **Arquivamento de Comunicação de Documentos**
+  Preserva o conteúdo do documento como artefatos de e‑mail para retenção ou revisão.
+
+* **Compatibilidade de Fluxo de Trabalho**
+  Suporta sistemas que requerem ingestão baseada em arquivos de mensagem em vez de entrada de documento bruto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivos de Correio**
+  Produz arquivos EMLX a partir de fontes DOCM em rotinas de processamento repetíveis.
+
+* **Suporte ao Fluxo de Trabalho de Retenção**
+  Ajuda a arquivar comunicações derivadas de documentos em repositórios de correio estruturados.
+
+* **Pipelines de Conversão em Lote**
+  Escala a conversão para grandes conjuntos de arquivos DOCM que passam por fluxos de trabalho de comunicação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

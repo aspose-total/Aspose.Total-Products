@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to PPSM 변환은 문서 내용을 매크로 지원 슬라이드쇼 파일로 변환하여 직접 재생 및 내장 자동화 지원이 필요한 프레젠테이션 워크플로에 사용됩니다. 이는 스크립트된 슬라이드 동작이 필요한 특수 환경에서 유용합니다.
+
+Python API를 사용하여 WordML to PPSM 변환은 구조화된 문서에서 슬라이드쇼 자산을 확장 가능하게 준비하고 자동화된 프레젠테이션 요구 사항에 맞춥니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 슬라이드쇼 생성**
+  고급 프레젠테이션 사용 사례를 위해 WordML 콘텐츠를 PPSM 파일로 변환합니다.
+
+* **자동 재생 워크플로우**
+  내장된 동작이나 로직이 필요한 경우 슬라이드쇼 전달을 지원합니다.
+
+* **특수 프레젠테이션 패키징**
+  문서 내용을 자동화 기능이 포함된 쇼 준비 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **스크립트된 프레젠테이션 생성**
+  구조화된 원본 문서에서 PPSM 파일 생성을 자동화합니다.
+
+* **제어된 전달 파이프라인**
+  매크로 지원 슬라이드쇼의 반복 가능한 배포를 지원합니다.
+
+* **문서-투-쇼 자동화**
+  내장 로직을 사용하는 프레젠테이션 환경과 콘텐츠 변환을 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

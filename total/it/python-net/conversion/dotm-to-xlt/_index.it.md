@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a XLT trasforma i modelli Word abilitati alle macro in file modello Excel classici per la creazione di fogli di calcolo riutilizzabili e flussi di lavoro compatibili con versioni legacy. È utile quando il contenuto del documento deve diventare una base di cartella di lavoro ripetibile anziché un output di foglio di calcolo una tantum.
+
+L'uso delle API Python per la conversione da DOTM a XLT aiuta ad automatizzare la creazione di modelli di fogli di calcolo riutilizzabili a partire da fonti documentali strutturate. Ciò migliora la standardizzazione, accelera la generazione ricorrente di fogli di calcolo e supporta la compatibilità con ambienti Office più vecchi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Modelli di fogli di calcolo legacy riutilizzabili**
+  Converti il contenuto DOTM in XLT per la creazione ripetibile di cartelle di lavoro nei flussi di lavoro Excel più vecchi.
+
+* **Riuso da documento a modello**
+  Trasforma contenuti scritti strutturati in fondamenta di fogli di calcolo per un uso ripetuto.
+
+* **Asset di inserimento dati standardizzati**
+  Produci file modello coerenti a partire da strutture documentali approvate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di file modello**
+  I sistemi possono creare file XLT da modelli DOTM per flussi di lavoro di fogli di calcolo ripetibili.
+
+* **Standardizzazione dei formati legacy**
+  La conversione supporta la produzione automatizzata di formati modello più vecchi dove la compatibilità è importante.
+
+* **Elaborazione batch di asset riutilizzabili**
+  I job programmati consentono una trasformazione scalabile dei file DOTM in modelli XLT.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

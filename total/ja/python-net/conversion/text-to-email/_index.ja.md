@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用したテキストからメールへの変換は、プレーンテキストコンテンツを通信、アーカイブ、ワークフロー配信のための構造化されたメールメッセージに変換できるようにします。動的なテキストソースからアウトバウンドメッセージ、再利用可能なテンプレート、またはメッセージ準備済みコンテンツを生成する必要があるシステムにとって価値があります。
+
+この変換アプローチは、未加工テキストをメール対応の資産に変換し、通知システム、顧客コミュニケーション、レポートパイプライン、または統合されたビジネスワークフローを通じて、より一貫性とスピードをもってルーティングできるようにすることで、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **自動メッセージ生成**  
+  プレーンテキストをアラート、更新、取引通信のためのメール準備済みコンテンツに変換します。
+
+* **テンプレートベースのコミュニケーション**  
+  テキストを構造化されたメール形式に標準化し、繰り返し可能なビジネスメッセージングを支援します。
+
+* **ワークフロー通知**  
+  自動化システムから内部または外部の受信者へ運用更新を送信することをサポートします。
+
+* **コンテンツ配信パイプライン**  
+  テキストベースの情報をメール駆動の出版およびアウトリーチプロセス向けにパッケージ化できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたアラート配信**  
+  自動化により、生成されたテキストをタイムドステータス通知やリマインダー用のメールメッセージに変換できます。
+
+* **システムからユーザーへのコミュニケーション**  
+  アプリケーションやスクリプトで生成されたテキストを、ユーザーエンゲージメントを自動化するメールに変換できます。
+
+* **バッチメッセージングワークフロー**  
+  大量のテキストコンテンツをプログラムでメール出力に変換し、スケーラブルな配信を実現できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TSV a DOT trasforma i dati separati da tabulazioni in file modello per elaboratori di testi che possono supportare la creazione di documenti standardizzati. Questo è utile quando i dati strutturati devono alimentare schemi di documentazione ripetibili e flussi di lavoro di pubblicazione basati su template.
+
+Con le API Python, la conversione da TSV a DOT può essere automatizzata per produrre output basati su template riutilizzabili, migliorando la scalabilità, la coerenza e l'efficienza nei processi di generazione dei documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione del modello**  
+  Converte il contenuto TSV in formati allineati a strutture di documento riutilizzabili.
+
+* **Documentazione standardizzata**  
+  Supporta una formattazione uniforme per attività di reportistica o generazione di registri ripetute.
+
+* **Flussi di lavoro per la distribuzione dei contenuti**  
+  Aiuta a preparare dati strutturati per sistemi di documenti incentrati sui template.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Framework di documenti riutilizzabili**  
+  L'automazione può trasformare i dati TSV in output orientati ai template per un uso ricorrente.
+
+* **Pipeline operative di documenti**  
+  Le API Python possono collegare le esportazioni di dati a passaggi standardizzati di generazione di template.
+
+* **Elaborazione ad alto volume**  
+  Molteplici set di dati TSV possono essere convertiti in file DOT con una logica coerente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

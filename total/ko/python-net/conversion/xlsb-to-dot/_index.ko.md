@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB를 DOT으로 변환하면 이진 스프레드시트 콘텐츠를 Word 템플릿 형식으로 바꾸어 조직이 스프레드시트에서 파생된 데이터를 기반으로 재사용 가능한 문서 구조를 만들 수 있도록 도와줍니다. 이는 반복되는 문서 레이아웃을 스프레드시트 소스에서 채워야 할 때 유용합니다.
+
+자동화된 환경에서는 XLSB를 DOT으로 변환함으로써 확장 가능한 템플릿 기반 문서 생성을 지원하여 일관성을 향상하고 반복적인 편집을 줄이며 보고 및 운영 워크플로 전반에 걸쳐 표준화된 출력물을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **템플릿 생성**  
+  스프레드시트 정보를 반복 사용을 위한 재사용 가능한 문서 템플릿으로 변환합니다.
+
+* **표준화된 보고**  
+  반복되는 문서 출력 전반에 걸쳐 일관된 형식을 적용하도록 돕습니다.
+
+* **프로세스 문서 설계**  
+  내부 문서 워크플로를 위한 재사용 가능한 구조 생성을 지원합니다.
+
+* **문서 프레임워크 재사용**  
+  팀이 공통 레이아웃에서 여러 문서를 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 생성**  
+  자동화를 통해 XLSB 입력을 DOT 파일로 변환하여 반복적인 문서 생성을 할 수 있습니다.
+
+* **표준 출력 파이프라인**  
+  시스템은 템플릿 준비된 출력을 자동으로 생성함으로써 레이아웃 일관성을 적용할 수 있습니다.
+
+* **대량 템플릿 준비**  
+  여러 스프레드시트 기반 템플릿을 배치 처리 워크플로에서 생성할 수 있습니다.
+
+* **운영 문서 흐름**  
+  스프레드시트 데이터는 하위 사용을 위한 구조화된 템플릿 생성에 활용될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

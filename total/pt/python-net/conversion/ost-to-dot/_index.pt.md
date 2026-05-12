@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para DOT converte o conteúdo da caixa de correio em formato de modelo de documento, permitindo que as organizações padronizem como as informações derivadas de e‑mail são estruturadas em modelos reutilizáveis. Isso é útil quando comunicações arquivadas precisam ser transformadas em ativos de documentação repetíveis.
+
+Em fluxos de trabalho de automação, a conversão de OST para DOT ajuda a criar padrões de saída consistentes para relatórios, registros e documentação formal. APIs Python suportam conversão escalável orientada a modelos, facilitando a incorporação do conteúdo da caixa de correio em processos empresariais de documentos repetíveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo a partir do Conteúdo de E‑mail**  
+  Transforma dados de e‑mail em arquivos DOT para estruturas de documento reutilizáveis.
+
+* **Layouts de Relatórios Padronizados**  
+  Suporta organizações que precisam de formatação uniforme para documentos derivados de e‑mail.
+
+* **Estruturas de Documentação**  
+  Ajuda a preparar materiais baseados em modelo a partir de informações arquivadas da caixa de correio.
+
+* **Consistência de Processos**  
+  Garante que as saídas de conversão repetidas sigam um padrão de documento predefinido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Modelo Reutilizáveis**  
+  Automação em Python converte conteúdo OST em modelos DOT para fluxos de trabalho repetíveis.
+
+* **Distribuição de Conteúdo Estruturado**  
+  Sistemas automatizados utilizam as saídas de modelo para manter formatação de documento consistente.
+
+* **Padronização Escalável de Documentos**  
+  Conversão programática suporta geração de alto volume de modelos a partir de arquivos de caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

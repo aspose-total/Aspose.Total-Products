@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から ICS への変換は、文書の内容をカレンダー互換データに変換し、スケジュールやイベントの説明、時間に基づく情報を再利用可能なカレンダーエントリにするのに役立ちます。テキスト文書に日付、会議、または構造化されたタイムラインが含まれている場合に有用です。
+
+自動化された環境では、ODT から ICS への変換により、スケジューリングパイプライン、イベント公開、カレンダー同期が可能になります。Python API を使用して、関連する日付駆動のコンテンツを抽出し、機械可読のカレンダーファイルを効率的に生成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スケジュール抽出**  
+  文書から日付とイベントの詳細を抽出し、カレンダー用データに変換します。
+
+* **ミーティング配布**  
+  カレンダーツールに適した形式でイベント情報を共有するのに役立ちます。
+
+* **タイムラインのデジタル化**  
+  書面のスケジュールを実行可能なカレンダーアーティファクトに変換します。
+
+* **計画ワークフロー支援**  
+  文書ベースの計画コンテンツを運用上で再利用しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動イベント生成**  
+  Python スクリプトは ODT ファイル内のイベント詳細を検出し、ICS 出力を作成できます。
+
+* **カレンダー公開パイプライン**  
+  文書の更新により、共有スケジュールファイルの自動再生成がトリガーされます。
+
+* **バッチスケジュール変換**  
+  複数の計画文書を大規模にカレンダー資産へ変換できます。
+
+* **ワークフローリマインダー作成**  
+  プログラムによる抽出でリマインダーやスケジューリングシステムに自動的に供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

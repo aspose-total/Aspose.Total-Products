@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTM vers ICS transforme les modèles Word activés par des macros en fichiers compatibles avec les calendriers, représentant des événements, des plannings ou des rappels dans un format standardisé. Elle est utile lorsque les modèles de documents contiennent des informations de type rendez‑vous qui doivent être partagées entre différents systèmes de planification.
+
+L’utilisation des API Python pour la conversion DOTM vers ICS améliore l’automatisation en permettant la création directe d’entrées de calendrier à partir de documents basés sur des modèles. Cela réduit l’effort de planification manuel, soutient la génération d’événements pilotée par les processus et aide à intégrer les flux de travail documentaires aux plateformes de calendrier.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Extraction d'horaires**
+  Convertir les détails d'événement des fichiers DOTM en ICS pour l'importation et le partage dans le calendrier.
+
+* **Réutilisation de modèles de réunion**
+  Réutiliser les ordres du jour ou les avis basés sur des documents en entrées de calendrier structurées.
+
+* **Planification multiplateforme**
+  Générer un format de calendrier standard qui fonctionne sur de nombreux outils et environnements de planification.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération automatisée de fichiers de calendrier**
+  Les flux de travail peuvent extraire les dates et les détails de réunion des modèles DOTM et créer automatiquement des fichiers ICS.
+
+* **Distribution d'événements pilotée par les processus**
+  La conversion permet aux systèmes de publier les informations de planification directement à partir du contenu des documents.
+
+* **Opérations de planification par lots**
+  Le traitement programmatique prend en charge la création à grande échelle de fichiers de calendrier à partir de modèles récurrents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

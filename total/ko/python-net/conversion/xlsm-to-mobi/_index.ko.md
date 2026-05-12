@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM에서 MOBI로의 변환은 매크로가 포함된 스프레드시트 콘텐츠를 휴대용 독서 및 디지털 배포에 적합한 전자책 형식으로 변환합니다. 이는 스프레드시트 기반 정보를 읽기 쉬운 참고 자료, 매뉴얼 또는 모바일 소비를 위한 구조화된 가이드로 재활용해야 할 때 유용합니다.
+
+자동화 관점에서 이 변환은 운영용 스프레드시트 콘텐츠를 디지털 출판 워크플로에 적합한 가벼운 읽기 형식으로 변환하는 데 도움을 줍니다. Python API는 XLSM 파일에서 MOBI 출력물을 효율적으로 생성하여 확장 가능한 콘텐츠 전달 및 아카이브 활용 사례를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 참고 출판**
+  스프레드시트 기반 정보를 휴대 가능한 읽기 자료로 전환하여 더 넓은 접근성을 제공합니다.
+
+* **가이드 및 매뉴얼 제작**
+  구조화된 스프레드시트 콘텐츠를 장문형 읽기 문서로 변환하는 것을 지원합니다.
+
+* **모바일 콘텐츠 전달**
+  컴팩트하고 휴대 가능한 독서 환경에 최적화된 형식으로 정보를 배포하는 데 도움을 줍니다.
+
+* **지식 패키징**
+  운영 또는 교육용 콘텐츠를 스프레드시트에서 전자책 형태의 자산으로 재활용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 전자책 생성**
+  Python API를 사용하면 XLSM 데이터를 MOBI 파일로 변환하여 반복 가능한 디지털 출판 워크플로를 구현할 수 있습니다.
+
+* **배치 콘텐츠 재활용**
+  여러 스프레드시트를 프로그래밍 방식으로 대규모로 휴대 가능한 읽기 형식으로 변환할 수 있습니다.
+
+* **문서 배포 파이프라인**
+  자동화 시스템은 다양한 기기에서 구조화된 콘텐츠 전달을 위해 MOBI 출력을 준비할 수 있습니다.
+
+* **아카이브 준비 출판**
+  변환 워크플로는 스프레드시트 기반 지식 소스로부터 일관된 전자책 출력을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

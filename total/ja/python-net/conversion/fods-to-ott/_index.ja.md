@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS から OTT への変換は、フラットな OpenDocument スプレッドシート ファイルを OpenDocument テキスト テンプレートに変換し、構造化されたソース データがオープン標準環境で再利用可能な文書レイアウトをサポートできるようにします。これは、独自フォーマットに依存せず一貫した文書テンプレートが必要な組織にとって価値があります。
+
+自動化の文脈では、FODS から OTT への変換により、繰り返し可能な文書生成、効率的なテンプレート管理、スケーラブルなオープンフォーマット ワークフローが実現します。Python API を使用すれば、構造化データからテンプレート作成を自動化し、このプロセスをより広範なコンテンツ システムに組み込むことが実用的になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープン テンプレート生成**  
+  FODS コンテンツを OTT ファイルに変換し、再利用可能なテキスト文書テンプレートを作成します。
+
+* **標準化された文書レイアウト**  
+  繰り返し使用されるビジネスや運用文書のために、一貫したテンプレート構造を構築します。
+
+* **再利用可能なオープンフォーマット資産**  
+  オープンドキュメント エコシステム内で繰り返しコンテンツ作成を支援するテンプレート ファイルを作成します。
+
+* **プロセス文書化フレームワーク**  
+  OTT 出力を再利用可能な出発点として、継続的な文書化ワークフローに活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化パイプライン**  
+  Python スクリプトで FODS ファイルを OTT テンプレートに変換し、文書生成を繰り返し行います。
+
+* **大量テンプレート生成**  
+  自動化システムが構造化されたスプレッドシート ソースから複数のオープンフォーマット テンプレートを作成します。
+
+* **一貫した出力管理**  
+  変換ワークフローにより、繰り返し行われる文書化タスク全体で標準レイアウトを強制します。
+
+* **ポータブルな自動化ワークフロー**  
+  OTT 変換は、オープン標準に焦点を当てた環境でスケーラブルな文書操作をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

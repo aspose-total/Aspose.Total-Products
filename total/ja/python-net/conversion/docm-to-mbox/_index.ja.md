@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から MBOX への変換は、マクロ対応ドキュメントをメールボックス形式のストレージ出力に変換し、文書ベースのコミュニケーションをグループ化、アーカイブ、またはメール指向システムへ移行しやすくします。これは、文書の内容をバンドルされたメッセージリポジトリ内で保持する必要がある場合に有用です。
+
+自動化とスケールに対応するため、DOCM から MBOX へのワークフローは、バッチアーカイブ、コミュニケーションのパッケージ化、および文書由来のコンテンツをメールボックス中心の保持システムへ転送することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールボックスアーカイブ**
+  文書由来のコンテンツをメールボックスコンテナファイル内に長期保存のために保持します。
+
+* **メッセージコレクションのパッケージ化**
+  関連する変換済みコミュニケーションを統合ファイルにまとめることをサポートします。
+
+* **移行サポート**
+  文書ベースのコミュニケーションコンテンツをメールアーカイブ環境へ移行するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動アーカイブ生成**
+  DOCM ファイルを MBOX 出力に変換し、スケジュールされた保持ワークフローに使用します。
+
+* **大量メールリポジトリの準備**
+  大量のデータセットにわたり、文書由来のコンテンツをメールボックスファイルにパッケージ化します。
+
+* **プログラム的ストレージパイプライン**
+  文書変換をアーカイブおよびコンプライアンス指向のシステムと統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

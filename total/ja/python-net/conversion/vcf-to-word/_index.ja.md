@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から Word への変換は、連絡先カードデータを編集可能なワードプロセッシング文書に変換し、オフィスのワークフロー、整形された連絡先レコード、そしてプロフェッショナルなコミュニケーション支援に適した形にします。これにより、ビジネス環境で連絡先情報の管理、更新、配布が容易になります。
+
+Python API の自動化を使用すると、VCF から Word への変換は、スケーラブルなコンテンツ、レポート、レコード管理パイプラインに適合する構造化された連絡先ファイルを生成することで、繰り返しの文書作成を効率化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **編集可能な連絡先レコード**  
+  VCF ファイルを Word 文書に変換し、構造化されたレビューと更新を可能にします。
+
+* **プロフェッショナルな情報共有**  
+  内部または外部で使用できる明確な文書形式で連絡先詳細を提示します。
+
+* **運用ドキュメンテーション**  
+  ディレクトリ、ケースファイル、管理レコードに Word 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Word 文書作成**  
+  複数の VCF エントリから手動のフォーマットなしで連絡先文書を生成します。
+
+* **ワークフロー主導のレコード生成**  
+  変換されたファイルを文書承認、保存、または公開システムにルーティングします。
+
+* **スケーラブルな連絡先ドキュメンテーション**  
+  Python API を使用して、大規模データセット全体で Word ベースの出力を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

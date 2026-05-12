@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から PPT への変換は、構造化された表形式データを、レポート作成、分析、ステークホルダーとのコミュニケーションに使用される編集可能なプレゼンテーションファイルに変換します。生データをスプレッドシート形式の構造から、説明や視覚的なプレゼンテーションをサポートするスライドベースの形式へ移行する必要がある場合に有用です。
+
+Python API を使用すると、TSV から PPT への変換を自動化でき、プレゼンテーション作成を迅速化し、繰り返しの手作業を削減し、スケーラブルなデータ駆動型コミュニケーションワークフローを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **編集可能なプレゼンテーション作成**  
+  TSV ファイルをスライドデッキに変換し、レビューや改良が可能です。
+
+* **ビジネスレポーティング**  
+  構造化されたデータセットを会議やレビュー用のプレゼンテーションに変換することを支援します。
+
+* **視覚的データコミュニケーション**  
+  表形式の情報をより明確で魅力的な形式で提示するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動デッキ生成**  
+  Python API を使用して、TSV レコードから繰り返し可能なワークフローで PPT ファイルを作成できます。
+
+* **レポートパイプライン統合**  
+  自動化により、構造化されたエクスポートとプレゼンテーション作成システムが連携します。
+
+* **大量スライド生成**  
+  複数の TSV ファイルをスケールに応じて効率的に PPT デッキへ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

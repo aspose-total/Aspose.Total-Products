@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 RTF로의 변환은 스프레드시트 파일을 풍부한 텍스트 문서 형식으로 변환합니다. 이를 통해 스프레드시트 데이터를 서식과 텍스트 구조를 보존하는 널리 지원되는 문서 형식으로 공유할 수 있습니다.
+
+Python API를 통해 ODS에서 RTF로의 변환을 자동화된 데이터 처리 워크플로에 통합할 수 있습니다. 이를 통해 확장 가능한 문서 변환, 배치 처리 및 다양한 시스템과의 유연한 통합이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **서식이 지정된 문서 공유**  
+  스프레드시트 정보를 풍부하게 서식이 지정된 텍스트 문서로 변환합니다.
+
+* **크로스 플랫폼 호환성**  
+  여러 플랫폼에서 지원되는 형식으로 스프레드시트 콘텐츠를 공유합니다.
+
+* **보고서 문서화**  
+  스프레드시트 데이터를 읽기 쉬운 텍스트 기반 보고서로 변환합니다.
+
+* **콘텐츠 마이그레이션**  
+  스프레드시트 아카이브를 풍부한 텍스트 문서로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 문서 변환 파이프라인**  
+  Python 워크플로가 스프레드시트 데이터 세트를 풍부한 텍스트 문서로 변환합니다.
+
+* **배치 데이터 처리**  
+  시스템이 여러 스프레드시트를 RTF 형식으로 자동 변환합니다.
+
+* **동적 보고서 생성**  
+  스프레드시트 입력을 통해 프로그래밍 방식으로 서식이 지정된 텍스트 보고서를 생성합니다.
+
+* **엔터프라이즈 문서 통합**  
+  변환 서비스가 문서 처리 시스템과 통합됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から DOCM への変換により、スプレッドシートの内容をマクロ対応の Word ドキュメントに変換でき、構造化された文書化や高度な文書動作をサポートします。これは、スプレッドシートベースの情報を文書形式で提供しつつ、マクロ対応テンプレートに依存するワークフローと互換性を保つ必要がある場合に有用です。
+
+Python API を使用した XLS から DOCM への変換は、システムがプログラム的に文書出力を生成できるようにすることで自動化を支援し、組織が文書の組み立て、テンプレート化、そして制御されたコンテンツ配布を効率化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応ドキュメント作成**
+  マクロ対応のドキュメント形式に依存するワークフロー向けに、XLS データを DOCM ファイルに変換します。
+
+* **テンプレートベースの出力**
+  スプレッドシートの内容を使用して、繰り返し可能なビジネスプロセスで使用される構造化された DOCM ドキュメントに入力します。
+
+* **運用ドキュメンテーション**
+  スプレッドシートの記録を、内部手順のガイドに適した編集可能な文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート入力**
+  Python API を使用して、XLS データを DOCM 文書生成パイプラインに供給します。
+
+* **バッチ変換サービス**
+  標準化されたエンタープライズ処理のために、複数のスプレッドシートファイルを DOCM 出力に変換します。
+
+* **統合文書配信**
+  承認、アーカイブ、またはレポーティングシステムの一部として、DOCM ファイルを自動的に生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

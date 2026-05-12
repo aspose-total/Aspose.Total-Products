@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para TEXTO usando APIs Python extrai o conteúdo de modelos de e‑mail do Outlook em texto simples para processamento, indexação e arquivamento simplificados. Isso é útil quando a formatação é menos importante que a acessibilidade do conteúdo, a capacidade de busca e o manuseio de dados leve.
+
+Em fluxos de trabalho de automação, a conversão de OFT para TEXTO suporta a análise, o parsing e a integração com sistemas que dependem de conteúdo textual bruto. Ela melhora a eficiência na extração de conteúdo, na otimização de buscas e nas operações de dados subsequentes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Conteúdo Simples**  
+  Converta arquivos OFT em texto para acesso direto ao conteúdo da mensagem sem a complexidade da formatação.
+
+* **Preparação para Busca e Indexação**  
+  Use saídas de texto simples para melhorar a indexação, a recuperação e fluxos de trabalho de análises baseadas em texto.
+
+* **Armazenamento Arquivístico Leve**  
+  Preserve o conteúdo essencial dos modelos em um formato compacto e simples.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Mineração de Texto**  
+  Alimente o conteúdo OFT extraído em processos automatizados de classificação, marcação ou análise.
+
+* **Criação de Arquivo Pesquisável**  
+  Converta modelos em texto simples para indexação de repositório e fluxos de trabalho de recuperação rápida.
+
+* **Normalização Programática de Conteúdo**  
+  Use APIs Python para padronizar o texto do modelo para integrações subsequentes e processamento de dados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PPTM에서 DOC로의 변환은 매크로가 포함된 프레젠테이션 콘텐츠를 텍스트 중심 검토, 배포 및 문서화에 적합한 편집 가능한 문서 형식으로 변환하는 데 도움을 줍니다. 슬라이드 자료를 서술형 문서, 요약 또는 서면 기록으로 재활용해야 할 때 유용합니다.
+
+프레젠테이션을 문서 지향 출력으로 변환함으로써 조직은 문서 작성을 효율화하고 팀 간 콘텐츠 전달을 간소화할 수 있습니다. 이는 수동 재작성 작업을 줄이고 콘텐츠 저장소 전반에 걸쳐 반복 가능한 변환 워크플로를 가능하게 하여 자동화 목표를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션-문서 재활용**
+  슬라이드 콘텐츠를 검토 및 다듬기를 위한 편집 가능한 문서로 변환합니다.
+
+* **내부 문서 생성**
+  프레젠테이션을 팀 및 이해관계자를 위한 서면 참고 자료로 전환하는 데 도움이 됩니다.
+
+* **텍스트 기반 콘텐츠 배포**
+  프레젠테이션 정보를 문서 중심 워크플로에서 보다 쉽게 공유할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 문서 생성**
+  프레젠테이션 자산에서 수동 복사-붙여넣기 없이 문서 파일을 생성합니다.
+
+* **워크플로 기반 콘텐츠 변환**
+  스케줄된 처리 작업의 일환으로 PPTM 파일을 문서 출력으로 변환합니다.
+
+* **지식 캡처 파이프라인**
+  프레젠테이션 자료를 장문 문서 아카이브에 프로그래밍 방식으로 보존하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

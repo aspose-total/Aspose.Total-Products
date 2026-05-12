@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTXからTSVへの変換は、Wordテンプレートのコンテンツをタブ区切り値に変換し、構造化データの共有やスプレッドシートや処理ツールへのインポートを簡素化します。表形式の文書コンテンツをクリーンなテキストベース形式でエクスポートする必要がある場合に便利です。
+
+Python API を使用すると、この変換はテキストベースのデータ交換を信頼性高く実現し、軽量な処理とテンプレート駆動コンテンツの大規模変換を可能にし、自動化を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **プレーンテキストデータエクスポート**
+  構造化された文書コンテンツを軽量な表形式に変換します。
+
+* **スプレッドシートインポートワークフロー**
+  テンプレート由来の情報をデータツールへの迅速なロード用に準備します。
+
+* **システムフレンドリーなデータ交換**
+  自動化パイプライン間で構造化コンテンツの転送をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたデータ抽出**
+  DOTXテンプレートをTSVファイルに自動変換し、定期的なワークフローを実現します。
+
+* **ETL準備**
+  TSV出力を自動変換パイプラインの入力層として使用します。
+
+* **大量テキストベース変換**
+  大量のテンプレートをコンパクトな構造化出力に処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

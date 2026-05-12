@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers XLAM transforme les documents contenant des macros en sorties de type module complémentaire de feuille de calcul, conçues pour prendre en charge des fonctionnalités de feuille de calcul réutilisables. Elle est utile lorsque la logique pilotée par le document ou le contenu structuré doit contribuer à des flux de travail de feuille de calcul extensibles.
+
+Dans les systèmes automatisés, la conversion DOCM vers XLAM aide à empaqueter des capacités réutilisables, à standardiser les fonctions avancées de feuille de calcul et à connecter les processus basés sur les documents avec des environnements de classeurs extensibles.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Extensions de feuille de calcul réutilisables**
+  Prend en charge la création de sorties de type module complémentaire à partir de la logique basée sur les documents ou du contenu structuré.
+
+* **Standardisation des flux de travail**
+  Aide à centraliser le comportement réutilisable des feuilles de calcul à travers des opérations répétées.
+
+* **Activation avancée des feuilles de calcul**
+  Relie le contenu du document créé aux cas d’utilisation de feuilles de calcul plus extensibles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Préparation automatisée d'add-in**
+  Convertit les sources DOCM en sorties compatibles XLAM pour des flux de travail de feuille de calcul standardisés.
+
+* **Distribution de logique réutilisable**
+  Prend en charge la diffusion évolutive de capacités de feuille de calcul répétées au sein des équipes.
+
+* **Intégration programmatique des feuilles de calcul**
+  Connecte la conversion de documents avec des processus d’automatisation avancés basés sur les classeurs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

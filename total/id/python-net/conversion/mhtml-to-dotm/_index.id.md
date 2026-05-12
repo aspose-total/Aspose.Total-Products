@@ -44,7 +44,47 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi MHTML dan
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MHTML ke konversi DOTM dalam Python mengubah konten web yang diarsipkan menjadi templat Word yang mendukung makro dan dapat digunakan kembali serta otomatisasi tersemat. Ini berguna dalam lingkungan dokumen di mana templat juga harus mengeksekusi tindakan yang telah ditentukan sebelumnya atau langkah pemformatan dinamis.
+
+Format ini sangat relevan untuk otomatisasi yang dapat diskalakan karena menggabungkan konsistensi templat dengan perilaku yang dapat diprogram. Ini memungkinkan alur kerja dokumen lanjutan di mana konten yang berasal dari web menjadi bagian dari proses bisnis yang dapat diulang dan otomatis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan Templat Ber-Makro**  
+  Mengonversi file MHTML menjadi templat DOTM ketika tata letak yang dapat digunakan kembali dan otomatisasi dokumen keduanya diperlukan.
+
+* **Persiapan Formulir Otomatis**  
+  Menggunakan konten web yang dikonversi dalam templat yang mencakup validasi atau langkah pemformatan yang diprogram.
+
+* **Dokumen Bisnis Dinamis**  
+  Mendukung dokumen berulang yang memerlukan struktur tetap serta tindakan otomatis.
+
+* **Output Dokumen yang Dikendalikan Proses**  
+  Membuat file templat yang cocok untuk lingkungan dengan persyaratan operasional terstruktur dan dapat diulang.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Perpustakaan Templat Otomatis**  
+  Menghasilkan templat DOTM dari sumber MHTML untuk digunakan lintas departemen dengan proses standar.
+
+* **Alur Kerja Dokumen Ber-Makro**  
+  Mengonversi arsip web menjadi templat yang memicu tugas otomatis selama pembuatan dokumen.
+
+* **Penyediaan Templat Massal**  
+  Menggunakan API Python untuk membuat aset templat ber-makro secara skala dari konten web yang ditangkap.
+
+* **Kontrol Dokumen Perusahaan**  
+  Mengintegrasikan templat DOTM yang dikonversi ke dalam sistem yang bergantung pada persiapan dokumen yang dapat diulang dan otomatis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

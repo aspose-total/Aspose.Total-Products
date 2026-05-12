@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX를 FODS로 변환하면 워드 프로세싱 문서를 Flat OpenDocument Spreadsheet 형식으로 변환하여 구조화된 문서 데이터를 오픈 스프레드시트 형식으로 표현할 수 있습니다. 이 형식은 데이터 교환 및 오픈 문서 워크플로에 적합합니다.
+
+Python API를 통해 DOCX-to-FODS 변환을 문서 처리, 상호 운용성 및 데이터 교환을 위한 오픈 표준이 필요한 시스템에서 자동화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **오픈 스프레드시트 데이터 내보내기**  
+  DOCX 문서 데이터를 오픈 스프레드시트 형식으로 변환합니다.
+
+* **상호 운용 문서 처리**  
+  오픈 문서 생태계와의 호환성을 촉진합니다.
+
+* **구조화된 데이터 변환**  
+  문서 기반 정보를 스프레드시트 파일로 추출할 수 있게 합니다.
+
+* **오픈 포맷으로 데이터 마이그레이션**  
+  독점 문서 형식에서 오픈 표준으로의 마이그레이션을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 데이터 처리 파이프라인**  
+  DOCX 문서를 자동으로 FODS 스프레드시트로 변환할 수 있습니다.
+
+* **배치 오픈 포맷 변환**  
+  Python 스크립트를 사용해 문서 컬렉션을 오픈 스프레드시트 파일로 변환할 수 있습니다.
+
+* **상호 운용 엔터프라이즈 워크플로우**  
+  자동화 시스템이 구조화된 문서 데이터를 오픈 스프레드시트 형식으로 내보낼 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

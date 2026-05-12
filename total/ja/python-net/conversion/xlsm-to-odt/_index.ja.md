@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から ODT への変換は、マクロ対応のスプレッドシート コンテンツを、編集可能で標準ベースのドキュメントに適したオープンドキュメント テキスト形式に変換します。さまざまなツールや環境で使用できる相互運用可能なドキュメント出力が必要な組織にとって価値があります。
+
+この変換は、スプレッドシート主導のコンテンツを単一のエコシステムにロックせずにオープンで編集可能なドキュメント ワークフローに流すことで、Automation を支援します。Python API を使用して、チームは XLSM から ODT への変換を自動化し、スケーラブルなレポート作成、ドキュメント作成、コンテンツ交換を実現できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンドキュメント ワークフロー**
+  スプレッドシート データを相互運用性を重視したテキスト ドキュメント形式に変換します。
+
+* **編集可能なレポート**
+  ワークシートのコンテンツを、修正や共有が容易なドキュメントに変換するのに役立ちます。
+
+* **クロスプラットフォーム コラボレーション**
+  オープン標準に依存するシステム間でのドキュメント交換をサポートします。
+
+* **構造化ドキュメント**
+  スプレッドシート由来の情報を、アクセスしやすいテキスト ドキュメント形式で提示できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化オープンフォーマット レポート**
+  Python API を使用して、XLSM ソースから ODT ファイルを生成し、定期的なドキュメント ニーズに対応できます。
+
+* **クロスシステム コンテンツ パイプライン**
+  スプレッドシート データを自動的にオープンテキスト ドキュメントに変換し、より広い互換性を実現します。
+
+* **バッチ ドキュメント変換**
+  大量の XLSM ファイルを最小限の手作業で ODT 出力に処理できます。
+
+* **ワークフロー相互運用性**
+  自動変換により、スプレッドシートベースの入力と標準主導のドキュメント システムを接続できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

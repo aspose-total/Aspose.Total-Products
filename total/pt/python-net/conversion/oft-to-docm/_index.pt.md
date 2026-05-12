@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para DOCM usando APIs Python permite que modelos de e‑mail do Outlook sejam convertidos em documentos do Word com macros para fluxos de trabalho avançados. Isso é importante quando o conteúdo convertido deve ser combinado com lógica de automação, ações scriptadas ou comportamentos personalizados de documentos.
+
+Essa conversão suporta ambientes focados em automação ao vincular conteúdo de e‑mail reutilizável com processos de documentos programáveis. Ela ajuda as organizações a padronizar operações baseadas em modelos, ao mesmo tempo que melhora a flexibilidade, a repetibilidade e o controle de fluxos de trabalho.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Documentos com Macro**  
+  Converta modelos OFT em arquivos DOCM para fluxos de trabalho que exigem lógica de automação incorporada.
+
+* **Reuso Avançado de Modelos**  
+  Reaproveite o conteúdo de e‑mail dentro de documentos que suportam ações de processamento personalizadas.
+
+* **Documentação Empresarial Estruturada**  
+  Use as saídas DOCM quando o conteúdo baseado em e‑mail precisar alimentar sistemas de documentos dinâmicos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Fluxos de Ação de Documentos Automatizados**  
+  Combine o conteúdo do modelo convertido com processos habilitados por macro para tarefas empresariais repetitivas.
+
+* **Transformação de Modelo para Fluxo de Trabalho**  
+  Transforme arquivos OFT em documentos DOCM que participam de manipulação de documentos baseada em regras.
+
+* **Suporte a Relatórios Programáticos**  
+  Gere arquivos com macro a partir de modelos de e‑mail para rotinas de documentos preenchidos com dados ou controlados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

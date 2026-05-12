@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to ODP conversion changes Word content into OpenDocument presentation files that support slide-based communication in open office ecosystems. It is valuable when narrative or report content must be turned into editable presentations.
+
+Python API automation for DOC to ODP conversion helps streamline presentation production, reduce manual formatting time, and integrate document-driven content into collaborative slide workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션 생성**
+  문서 내용을 회의, 교육 또는 브리핑을 위한 ODP 슬라이드로 변환합니다.
+
+* **오픈 포맷 협업**
+  표준 기반 오피스 포맷에 의존하는 프레젠테이션 워크플로를 지원합니다.
+
+* **보고서 재활용**
+  시각적 전달을 위해 슬라이드 준비된 구조로 기존 문서 자료를 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **슬라이드 덱 생성**
+  반복 사용을 위해 DOC 보고서를 자동으로 ODP 프레젠테이션으로 변환합니다.
+
+* **크로스 플랫폼 오피스 워크플로**
+  Python 기반 변환을 사용하여 대규모 오픈 오피스 환경을 지원합니다.
+
+* **템플릿 기반 퍼블리싱**
+  구조화된 문서 소스에서 프로그래밍 방식으로 프레젠테이션 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

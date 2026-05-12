@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MSG a EPUB trasforma il contenuto dei messaggi email in un formato di pubblicazione digitale progettato per la lettura strutturata su dispositivi. È utile quando le informazioni basate su email devono essere rielaborate in contenuti portatili e facili da leggere.
+
+Nei contesti di automazione, i flussi di lavoro da MSG a EPUB supportano la pubblicazione, la distribuzione e i processi di compilazione di contenuti lunghi. Aiutano a trasformare i registri di comunicazione in risorse di lettura digitale accessibili su larga scala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output di lettura portatile**  
+  Converti i messaggi in un formato adatto agli ambienti di lettura digitale.
+
+* **Compilazione di contenuti**  
+  Includi materiale derivato dalle email in collezioni di pubblicazioni curate.
+
+* **Distribuzione della conoscenza**  
+  Rielabora il contenuto dei messaggi per formazione, riferimento o distribuzione di informazioni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di pubblicazione automatizzate**  
+  Converti i file MSG in contenuto EPUB per una distribuzione digitale strutturata.
+
+* **Flussi di lavoro archivio‑a‑lettore**  
+  Trasforma le collezioni di messaggi archiviate in pubblicazioni di riferimento portatili.
+
+* **Impacchettamento programmatico dei contenuti**  
+  Assembla più input basati su email in output di lettura accessibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

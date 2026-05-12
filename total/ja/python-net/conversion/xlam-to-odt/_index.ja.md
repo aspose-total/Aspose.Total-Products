@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLAM を ODT に変換する Python API は、Excel アドインのコンテンツをオープンドキュメントのテキスト形式に変換し、相互運用性と長期的なアクセシビリティを向上させます。これは、組織がオープン標準に合わせた編集可能なテキスト文書を必要とし、クロスプラットフォームの文書ワークフローをサポートする場合に役立ちます。
+
+自動化および統合のユースケースでは、XLAM から ODT への変換により、スプレッドシートベースのシステムとオープンドキュメントエコシステム間の摩擦が軽減されます。スケーラブルな文書生成を支援し、データから文書への変換を簡素化し、多様なソフトウェア環境間での互換性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **オープン標準ドキュメント作成**  
+  XLAM コンテンツを ODT ファイルに変換し、相互運用可能で編集可能なテキストベースのワークフローを実現します。
+
+* **クロスプラットフォーム コラボレーション**  
+  異なるオフィス環境を使用し、オープンドキュメントの互換性が必要なチームをサポートします。
+
+* **アーカイブに適したドキュメント**  
+  オープンでポータブルな標準に合わせた、アクセシブルなドキュメント出力の作成を支援します。
+
+* **構造化コンテンツ共有**  
+  スプレッドシート由来のコンテンツを、柔軟なドキュメントエコシステムで配布しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンドキュメント出版パイプライン**  
+  Python API は XLAM 入力から ODT ファイルを自動的に生成し、標準化された配布を実現します。
+
+* **クロスシステム ワークフロー自動化**  
+  変換された ODT ドキュメントは、さまざまなツールやプラットフォーム間を最小限の互換性問題で移動できます。
+
+* **スケーラブルなドキュメントサービス**  
+  自動化システムは、スプレッドシートベースのコンテンツを大量に処理し、オープンテキストドキュメントに変換できます。
+
+* **データからドキュメントへの変換**  
+  プログラム的なワークフローは、構造化されたアドインコンテンツをレポートや記録用のポータブルな ODT 出力に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to ODP 変換は、マクロ対応ドキュメントをオープンなプレゼンテーションファイルに変換し、構造化されたコンテンツをスライドショーやプレゼンテーションのワークフローで再利用できるようにします。文書のナラティブ、要約、またはアウトライン情報をポータブルなプレゼンテーション資産に適応させる必要がある場合に便利です。
+
+自動化中心のシステムでは、DOCM から ODP への変換は、レポート作成、トレーニング、プレゼンテーションプラットフォーム全体でのスケーラブルなコンテンツ公開のためのオープンなプレゼンテーション出力の生成に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーション作成**
+  文書コンテンツを会議やレビュー用のスライド準備資料に変換します。
+
+* **オープンフォーマット配布**
+  オープンでポータブルなファイル標準に依存するプレゼンテーションワークフローをサポートします。
+
+* **構造化コンテンツの再利用**
+  文書ベースの情報を、より広いコミュニケーションのためのビジュアルプレゼンテーション資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライド生成**
+  繰り返し行われるプレゼンテーションワークフローのために、DOCM ソースから ODP ファイルを生成します。
+
+* **トレーニングおよびレポートパイプライン**
+  作成された文書をチーム全体で使用されるプレゼンテーション出力に変換します。
+
+* **バッチコンテンツ公開**
+  手動でのフォーマット作業なしに、オープンなプレゼンテーションファイルを大規模に生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

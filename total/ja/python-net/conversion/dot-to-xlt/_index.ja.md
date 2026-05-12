@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から XLT への変換は、文書テンプレートをスプレッドシートテンプレートファイルに変換し、一定のワークブック作成に再利用できるようにします。構造化された文書コンテンツをスプレッドシートワークフローの繰り返し可能な基盤として活用すべき場合に有用です。
+
+Python API を使用すれば、DOT ソースから XLT テンプレートの生成を自動化でき、標準化を促進し、繰り返しのワークブック設計作業を削減できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なスプレッドシートテンプレートの作成**
+  DOT ファイルを XLT テンプレートに変換し、ワークブックを繰り返し生成します。
+
+* **一貫したデータレイアウト**
+  文書構造をスプレッドシートテンプレートに変換し、形式と構成を保持します。
+
+* **運用の標準化**
+  集中管理された文書テンプレートから繰り返し可能なスプレッドシート作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート公開**
+  Python スクリプトは DOT 文書から XLT ファイルを生成し、継続的な運用に利用できます。
+
+* **標準的なワークブックパイプライン**
+  変換は、大規模に一貫したスプレッドシートテンプレートが必要なシステムをサポートします。
+
+* **大量テンプレート生成**
+  プログラムによるプロセスは、再利用可能なワークブックテンプレートの大規模なライブラリ構築を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 JPEG로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to JPEG 변환은 메일함 내용을 널리 지원되는 압축 이미지 파일로 변환하여 이메일 메시지를 다양한 플랫폼에서 쉽게 저장, 공유 및 미리볼 수 있게 합니다. 이는 호환성과 관리 가능한 파일 크기가 중요한 경량 시각적 내보내기에 특히 유용합니다.
+
+Python API를 사용하면 팀이 MBOX to JPEG 변환을 자동화하여 대규모 메일함 처리를 가속화하고 수동 렌더링 작업을 줄이며 휴대용 이미지 기반 아카이빙을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대용 이메일 이미지**
+  메시지를 JPEG 파일로 내보내어 다양한 장치와 시스템에서 폭넓은 호환성을 제공합니다.
+
+* **저장 효율적인 시각 기록**
+  압축 이미지 형태로 이메일 모습을 보존하여 실용적인 배포가 가능합니다.
+
+* **빠른 미리보기 자산**
+  대시보드, 보고서 또는 검토 인터페이스용 메일함 시각 자료를 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 JPEG 렌더링**
+  MBOX 내용을 자동으로 JPEG 이미지로 변환하여 빠른 시각 접근을 제공합니다.
+
+* **보고 및 공유 파이프라인**
+  렌더링된 이메일 이미지를 운영 및 프레젠테이션 워크플로에 통합합니다.
+
+* **프로그래밍식 아카이브 내보내기**
+  Python 스크립트를 사용해 대용량 메일 아카이브에서 저장 친화적인 이미지 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

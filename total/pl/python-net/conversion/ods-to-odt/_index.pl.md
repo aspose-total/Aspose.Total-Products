@@ -65,7 +65,47 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja ODS do ODT konwertuje pliki arkuszy kalkulacyjnych na dokumenty tekstowe OpenDocument. Umożliwia to przedstawienie ustrukturyzowanych danych arkusza kalkulacyjnego w formacie dokumentu, zachowując kompatybilność ze standardami otwartych dokumentów.
+
+Korzystając z interfejsów API Pythona, konwersję ODS do ODT można zautomatyzować jako część przepływów przetwarzania danych. Umożliwia to skalowalne generowanie dokumentów, ustrukturyzowane raportowanie oraz integrację z ekosystemami otwartych dokumentów.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Raportowanie w formacie Open Document**  
+  Konwertuj zestawy danych arkusza kalkulacyjnego na raporty dokumentów otwartego standardu.
+
+* **Transformacja treści**  
+  Przedstaw dane tabelaryczne arkusza kalkulacyjnego w strukturach dokumentu.
+
+* **Dokumentacja danych**  
+  Generuj czytelną dokumentację z informacji arkusza kalkulacyjnego.
+
+* **Archiwizacja w otwartym formacie**  
+  Przechowuj zawartość arkusza kalkulacyjnego w formatach tekstowych otwartych dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane potoki Open Document**  
+  Skrypty Pythona automatycznie konwertują pliki arkuszy kalkulacyjnych na dokumenty ODT.
+
+* **Masowa generacja dokumentów**  
+  Systemy przetwarzają wiele arkuszy kalkulacyjnych na raporty w formacie otwartego dokumentu.
+
+* **Dynamiczne systemy dokumentacji**  
+  Programowe przepływy pracy generują dokumentację z danych arkusza kalkulacyjnego.
+
+* **Integracja z systemami Open Document**  
+  Zautomatyzowane potoki utrzymują kompatybilność ze standardami otwartych dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

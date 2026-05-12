@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODS vers ODT convertit les fichiers de feuilles de calcul en documents texte OpenDocument. Cela permet aux données structurées des feuilles de calcul d'être représentées au format document tout en conservant la compatibilité avec les normes OpenDocument.
+
+En utilisant les API Python, la conversion ODS vers ODT peut être automatisée dans le cadre des flux de travail de traitement des données. Cela permet une génération de documents évolutive, des rapports structurés et une intégration avec les écosystèmes de documents ouverts.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rapports Open Document**  
+  Convertir les ensembles de données de feuilles de calcul en rapports de documents à norme ouverte.
+
+* **Transformation de contenu**  
+  Représenter les données tabulaires des feuilles de calcul au sein de structures de documents.
+
+* **Documentation des données**  
+  Générer une documentation lisible à partir des informations de la feuille de calcul.
+
+* **Archivage au format ouvert**  
+  Stocker le contenu des feuilles de calcul dans des formats texte de documents ouverts.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines Open Document automatisés**  
+  Les scripts Python convertissent automatiquement les fichiers de feuilles de calcul en documents ODT.
+
+* **Génération de documents en lot**  
+  Les systèmes traitent plusieurs feuilles de calcul en rapports de documents ouverts.
+
+* **Systèmes de documentation dynamique**  
+  Les flux de travail programmatiques génèrent de la documentation à partir des données de feuilles de calcul.
+
+* **Intégration avec les systèmes Open Document**  
+  Les pipelines automatisés maintiennent la compatibilité avec les normes Open Document.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

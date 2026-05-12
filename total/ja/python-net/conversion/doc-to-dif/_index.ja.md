@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to DIF 変換により、Word ベースのコンテンツをスプレッドシート指向の交換やレガシーデータ処理環境に適したデータ交換フォーマット（DIF）へ移行できます。これにより、古いシステムとの相互運用性が必要な場合に、組織は構造化された値を保持できます。
+
+Python API を使用すれば、DOC から DIF への変換を自動化でき、繰り返し可能なデータエクスポートが実現し、手作業の負担を軽減し、アーカイブ、財務、スプレッドシート変換ワークフロー全体での一貫性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **レガシー スプレッドシートの交換**
+  文書の表を DIF に変換し、古いスプレッドシートツールやシステムとの互換性を確保します。
+
+* **構造化データのポータビリティ**
+  文書ベースの表形式コンテンツを、制御されたデータ交換に適したフォーマットへ移行します。
+
+* **アーカイブ変換**
+  文書から抽出した値を、軽量な構造化フォーマットで長期利用のために保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **レガシーシステム統合**
+  古いスプレッドシート標準に依存する環境向けに、DOC コンテンツを自動的に DIF に変換します。
+
+* **バッチテーブル変換**
+  レポートやフォームの大規模コレクションを手作業のコピー＆ペーストなしで DIF に変換します。
+
+* **データ準備パイプライン**
+  スクリプト化された変換ステップを使用して、文書の表を取り込み可能な構造化ファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

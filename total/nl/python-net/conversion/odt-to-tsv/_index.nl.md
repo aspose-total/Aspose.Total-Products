@@ -65,7 +65,47 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT‑naar‑TSV‑conversie zet documentinhoud om in een door tabs gescheiden tekstformaat dat geschikt is voor gestructureerde gegevensuitwisseling en lichte verwerking. Het is waardevol wanneer tabel‑ of record‑gebaseerde documenten moeten worden overgebracht naar een eenvoudige, machinaal leesbare structuur.
+
+Met Python‑API’s ondersteunt ODT‑naar‑TSV‑conversie schaalbare gegevens‑extractie, inname‑pijplijnen en interoperabele documentverwerking. Het vereenvoudigt het verplaatsen van gestructureerde inhoud naar analyse‑, opslag‑ en transformatieworkflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Eenvoudige gestructureerde export**  
+  Zet documenttabellen om in een lichtgewicht, door tabs gescheiden formaat.
+
+* **Voorbereiding van datapijplijnen**  
+  Ondersteunt eenvoudige inname in verwerkings‑ en analysesystemen.
+
+* **Record‑normalisatie**  
+  Helpt bij het standaardiseren van geëxtraheerde inhoud voor downstream‑gebruik.
+
+* **Interoperabele tekst‑gebaseerde uitwisseling**  
+  Maakt gestructureerde documentinhoud makkelijker verplaatsbaar tussen platformen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde tabel‑extractie**  
+  Python‑workflows kunnen ODT‑inhoud omzetten naar TSV voor pijplijn‑klare uitvoer.
+
+* **Batch‑conversie voor analyse**  
+  Grote documentverzamelingen kunnen automatisch worden geëxporteerd naar eenvoudige gestructureerde tekst.
+
+* **Gegevens‑opschoning en export‑workflows**  
+  Geëxtraheerde waarden kunnen worden gevalideerd voordat ze naar TSV‑bestanden worden geschreven.
+
+* **Systeem‑integratie‑pijplijnen**  
+  Geconverteerde TSV‑uitvoer kan databases, scripts of rapportageprocessen voeden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

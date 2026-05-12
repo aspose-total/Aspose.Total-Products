@@ -65,7 +65,46 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da CSV a DOCM tramite le API Python consente di trasformare dati tabulari strutturati in documenti di elaborazione testi con macro abilitate che supportano formattazione avanzata e comportamenti di automazione incorporati.  
+Questa conversione è preziosa per i sistemi automatizzati perché combina la trasformazione dei dati con la logica dei documenti, aiutando i flussi di lavoro a scalare con meno editing manuale e una maggiore coerenza dei processi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Report con macro abilitate**  
+  Converti i dati CSV in file DOCM quando i documenti generati necessitano di funzionalità di automazione incorporate o azioni scriptate.
+
+* **Documentazione orientata al processo**  
+  Produci documenti DOCM che combinano contenuti strutturati con comportamenti ripetibili lato documento.
+
+* **Imballaggio dati operativi**  
+  Trasforma i set di dati CSV in file con macro abilitati adatti a flussi di lavoro aziendali controllati e processi interni.
+
+* **Documenti di automazione riutilizzabili**  
+  Genera output DOCM ripetibili da input strutturati per i team che si affidano a routine documentali standardizzate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Compilazione automatica di moduli**  
+  Utilizza le API Python per convertire i dati CSV in file DOCM che supportano azioni documentali predefinite e logica riutilizzabile.
+
+* **Produzione di documenti integrata nel flusso di lavoro**  
+  Genera output DOCM automaticamente come parte di lavori aziendali, sistemi di reporting o processi di gestione documentale.
+
+* **Creazione batch di documenti con macro**  
+  Converti grandi collezioni di file CSV in formato DOCM per una consegna automatizzata scalabile e coerente.
+
+* **Assemblaggio di contenuti guidato da regole**  
+  Crea documenti DOCM dinamicamente a partire da input CSV mantenendo una struttura pronta per l'automazione per le attività successive.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,44 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers ODS transforme les documents de traitement de texte en fichiers OpenDocument Spreadsheet, permettant de réutiliser le contenu structuré ou tabulaire dans des flux de travail de feuilles de calcul. Cette conversion prend en charge l'extraction de données et l'interopérabilité avec les systèmes de bureautique ouverts.
+
+En utilisant les API Python, la conversion DOCX‑to‑ODS peut être intégrée aux rapports automatisés, à l'analyse et aux pipelines de transformation de documents. Elle aide les organisations à faire passer les données structurées des documents narratifs vers des processus pilotés par des feuilles de calcul.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Exportation de feuille de calcul ouverte**  
+  Convertit le contenu DOCX structuré en fichiers de feuille de calcul basés sur des standards ouverts.
+
+* **Extraction de données tabulaires**  
+  Permet aux tableaux de documents et au contenu organisé d'être réutilisés pour l'analyse.
+
+* **Interopérabilité des données multiplateforme**  
+  Prend en charge la compatibilité avec les suites bureautiques qui utilisent des formats de feuille de calcul ouverts.
+
+* **Flux de travail document‑vers‑données**  
+  Facilite le transfert d'informations structurées vers les systèmes de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines d'extraction de données automatisés**  
+  Les fichiers DOCX peuvent être convertis en feuilles de calcul ODS pour les flux de travail d'analyse en aval.
+
+* **Génération en lot de feuilles de calcul ouvertes**  
+  Les scripts Python peuvent traiter plusieurs documents et exporter des fichiers de feuille de calcul de manière programmatique.
+
+* **Systèmes de reporting interopérables**  
+  Les flux de travail d'entreprise peuvent transformer le contenu des documents au format ODS pour une accessibilité plus large.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

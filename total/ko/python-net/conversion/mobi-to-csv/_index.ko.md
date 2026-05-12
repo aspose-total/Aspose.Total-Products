@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MOBI를 CSV로 변환하면 전자책 기반의 텍스트 또는 표 형식 콘텐츠를 검색, 필터링 및 재사용이 쉬운 단순하고 구조화된 형식으로 변환할 수 있습니다. 이는 콘텐츠 추출, 경량 데이터 교환, 보고서 준비 및 현대 문서 워크플로우의 다운스트림 처리에 유용합니다.
+
+자동화 관점에서 MOBI를 CSV로 변환하면 확장 가능한 데이터 파이프라인, 배치 추출 루틴 및 분석 또는 보관 시스템과의 통합을 지원합니다. 이를 통해 팀은 출판 중심 파일에서 자동화된 비즈니스 및 운영 프로세스에 맞는 기계 판독 가능한 데이터 세트로 콘텐츠를 이동할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **분석을 위한 콘텐츠 추출**
+  MOBI 파일의 구조화된 콘텐츠를 CSV로 변환하여 쉽게 검사하고, 파싱하며, 분석할 수 있습니다.
+
+* **데이터 마이그레이션 워크플로우**
+  추출된 정보를 데이터베이스, 스프레드시트 또는 보고 시스템으로 전송할 때 CSV 출력을 사용합니다.
+
+* **경량 데이터 교환**
+  도구와 플랫폼 간에 최소한의 호환성 문제로 공유할 수 있는 간단하고 휴대 가능한 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 전자책 처리**
+  예약된 수집 워크플로우의 일환으로 대량의 MOBI 파일을 자동으로 CSV로 변환합니다.
+
+* **메타데이터 정규화 파이프라인**
+  카탈로그 및 인덱싱 자동화를 위해 주요 문서 필드를 CSV로 추출하고 표준화합니다.
+
+* **보고서 준비**
+  CSV 출력을 자동화된 대시보드, 스크립트 또는 검증 루틴에 공급하여 다운스트림에 활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

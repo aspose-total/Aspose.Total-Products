@@ -64,7 +64,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX를 PPT로 변환하면 워드 프로세싱 문서를 시각적 스토리텔링, 보고 및 협업 커뮤니케이션을 위한 프레젠테이션 파일로 전환합니다. 이 변환은 슬라이드 기반 전달을 위해 설계된 형식으로 텍스트 콘텐츠를 재사용하는 데 도움이 됩니다.
+
+Python API를 통해 DOCX‑to‑PPT 변환을 자동화된 콘텐츠 파이프라인, 기업 프레젠테이션 시스템 및 교육 출판 워크플로에 통합할 수 있습니다. 이는 서면 소스에서 일관되고 확장 가능한 프레젠테이션 생성을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서에서 프레젠테이션 개발**  
+  DOCX 파일을 비즈니스, 교육 또는 학습용 슬라이드 데크로 변환합니다.
+
+* **시각적 커뮤니케이션을 위한 콘텐츠 재활용**  
+  작성된 자료를 청중 친화적인 프레젠테이션으로 변환하는 데 도움을 줍니다.
+
+* **보고서‑슬라이드 워크플로**  
+  문서 기반 보고서를 프레젠테이션 환경에서 재사용할 수 있게 합니다.
+
+* **레거시 프레젠테이션 호환성**  
+  클래식 프레젠테이션 형식이 필요한 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드 데크 내보내기**  
+  시스템이 DOCX 보고서를 자동으로 PPT 파일로 변환할 수 있습니다.
+
+* **배치 프레젠테이션 생성**  
+  Python 스크립트를 사용해 대규모 문서 컬렉션에서 프레젠테이션 파일을 생성할 수 있습니다.
+
+* **기업 콘텐츠 변환**  
+  문서 콘텐츠를 프로그래밍 방식으로 프레젠테이션 자료로 재활용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

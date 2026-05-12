@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLS para DOTM transforma informações de planilhas em modelos do Word com macros que suportam fluxos de trabalho de geração de documentos repetíveis e avançados. Esse formato é relevante quando as organizações precisam de arquivos de modelo reutilizáveis que também estejam alinhados com ambientes que suportam macros.
+
+Usar APIs Python para a conversão de XLS para DOTM melhora a eficiência ao automatizar a produção de modelos e permitir o design de documentos orientado por planilhas em sistemas escaláveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelos com Macros**
+  Produza modelos DOTM a partir de dados de planilhas para fluxos de trabalho avançados de documentos.
+
+* **Estruturas de Documentos Repetíveis**
+  Use o conteúdo de XLS para definir modelos para documentação empresarial consistente.
+
+* **Design de Documentos Orientado a Processos**
+  Suporte a geração controlada de modelos para departamentos que dependem de arquivos de saída estruturados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Construção Programática de Modelos**
+  Gere modelos DOTM automaticamente a partir de entradas de planilhas usando APIs Python.
+
+* **Pipelines de Modelos Empresariais**
+  Converta arquivos XLS em ativos de modelo reutilizáveis para operações de documentos padronizadas.
+
+* **Integração de Fluxo de Trabalho**
+  Incorpore a conversão DOTM em processos automatizados de montagem e publicação de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

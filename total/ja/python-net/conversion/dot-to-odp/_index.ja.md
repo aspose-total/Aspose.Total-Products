@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から ODP への変換は、文書テンプレートをスライドベースのコミュニケーションとコンテンツ再利用のための OpenDocument プレゼンテーションファイルに変換します。これは、物語的または構造化されたテンプレートコンテンツをプレゼンテーションワークフローに再利用する必要がある場合に便利です。
+
+Python API を使用して、DOT から ODP への変換は、既存の文書テンプレートからプレゼンテーション資産を生成する自動化戦略をサポートし、効率と標準化を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **プレゼンテーションの再利用**
+  DOT 文書を会議、トレーニング、または知識共有のための ODP スライドに変換します。
+
+* **オープンフォーマット配信**
+  プレゼンテーション用に準備されたコンテンツを、広範な互換性のためのオープンスライド形式にエクスポートします。
+
+* **テンプレートコンテンツの再利用**
+  書かれたテンプレートを、最小限の手作業で視覚的なプレゼンテーション構造に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライド作成**
+  Python ワークフローは、DOT テンプレートをプレゼンテーションパイプライン用の ODP ファイルに変換できます。
+
+* **コンテンツ公開の自動化**
+  変換は、ドキュメントリポジトリからオンデマンドでスライド資料を生成するのに役立ちます。
+
+* **スケーラブルなプレゼンテーション出力**
+  プログラムによる変換は、多数のファイルにわたって一貫したスライド生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

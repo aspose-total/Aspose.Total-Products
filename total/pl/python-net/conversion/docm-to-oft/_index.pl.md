@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCM do OFT w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCM do OFT przekształca dokumenty z włączonymi makrami w wielokrotnego użytku pliki szablonów e‑mail, ułatwiając standaryzację treści opartych na dokumentach w zadaniach powtarzalnej komunikacji. Jest przydatna, gdy konieczne jest generowanie spójnych wiadomości z opracowanych źródeł dokumentów.
+
+W przepływach automatyzacji konwersja DOCM do OFT umożliwia szablonowe działania outreach, komunikację opartą na procesach oraz skalowalne ponowne wykorzystanie treści dokumentów w powtarzalnych scenariuszach komunikacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Wiadomości oparte na szablonach**
+  Konwertuje treść dokumentu w wielokrotnego użytku szablony e‑mail do standaryzowanej komunikacji.
+
+* **Spójność procesów**
+  Pomaga zespołom utrzymać jednolitą strukturę w powtarzających się wiadomościach wychodzących.
+
+* **Ponowne wykorzystanie treści**
+  Ponownie wykorzystuje formalny tekst dokumentu w szablonach komunikacji bez ręcznego formatowania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie szablonów**
+  Tworzy pliki OFT z dokumentów DOCM dla powtarzalnych przepływów wiadomości.
+
+* **Komunikacje wyzwalane przepływem pracy**
+  Wykorzystuje przekonwertowane szablony w procesach zatwierdzania, powiadamiania lub wsparcia.
+
+* **Skalowalne przygotowanie wiadomości**
+  Umożliwia dynamiczne wypełnianie i dystrybucję treści opartej na szablonach w dużej skali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

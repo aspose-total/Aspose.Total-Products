@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MOBI를 TSV로 변환하면 전자책 콘텐츠를 간단하고 컴팩트하며 기계 처리에 적합한 탭 구분 구조로 바꿉니다. 이 형식은 최소한의 서식 오버헤드로 구조화된 텍스트를 기대하는 시스템 간에 콘텐츠를 깔끔하게 교환해야 할 때 유용합니다.
+
+자동화된 워크플로우에서는 TSV 출력이 데이터 수집, 파싱 및 대량 변환 작업을 효율화하는 데 도움이 됩니다. MOBI를 TSV로 변환하면 속도, 이식성 및 간단한 데이터 처리가 통합 및 운영 효율성에 중요한 확장 가능한 파이프라인을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **구조화된 텍스트 내보내기**
+  MOBI 콘텐츠를 TSV로 변환하여 간단한 파싱과 가벼운 구조화 저장을 가능하게 합니다.
+
+* **파이프라인 친화적 데이터 전송**
+  추출된 정보를 스크립트, 가져오기 도구 또는 처리 엔진으로 이동할 때 TSV를 사용합니다.
+
+* **대규모 콘텐츠 처리**
+  배치 처리 및 대량 변환 워크플로에 적합한 컴팩트한 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **수집 파이프라인 준비**
+  내부 처리 시스템에 데이터를 로드하기 전에 MOBI 파일을 자동으로 TSV로 변환합니다.
+
+* **대량 파싱 자동화**
+  검증, 강화 또는 변환 작업을 위한 예약 스크립트에 TSV 출력을 전달합니다.
+
+* **낮은 오버헤드 데이터 교환**
+  Python 자동화를 사용하여 가벼운 다운스트림 통합을 위한 깔끔한 표형 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

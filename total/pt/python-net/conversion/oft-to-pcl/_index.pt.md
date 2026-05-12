@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para PCL usando APIs Python converte modelos de e‑mail do Outlook em arquivos de linguagem de controle de impressora para fluxos de trabalho orientados à impressão. Isso é importante quando o conteúdo do modelo baseado em e‑mail deve ser preparado para impressão direta, saída específica de dispositivo ou ambientes controlados de produção de documentos.
+
+Em contextos de automação, a conversão de OFT para PCL ajuda a simplificar a preparação de impressão, reduzir etapas manuais de formatação e suportar a geração de saída em grande escala. É especialmente útil em ambientes onde a impressão continua sendo um requisito operacional central.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Saída Pronta para Impressora**  
+  Converta arquivos OFT em PCL para preparação eficiente de conteúdo focado em impressão.
+
+* **Fluxos de Trabalho de Impressão Operacionais**  
+  Use a saída PCL onde os modelos de e‑mail devem ser encaminhados diretamente para sistemas de impressão compatíveis.
+
+* **Produção Estruturada de Cópias Impressas**  
+  Preserve o conteúdo formatado para saída física repetível e orientada ao dispositivo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Processamento Automatizado de Filas de Impressão**  
+  Transforme modelos OFT em arquivos PCL e envie-os para fluxos de impressão automaticamente.
+
+* **Operações de Saída de Alto Volume**  
+  Suporte à geração em massa de arquivos prontos para impressão para tarefas operacionais recorrentes.
+
+* **Roteamento de Documentos Específicos ao Dispositivo**  
+  Use APIs Python para integrar as saídas convertidas com servidores de impressão e sistemas de produção.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

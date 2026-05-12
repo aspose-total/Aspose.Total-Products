@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de documento para PPSM converte o conteúdo do Word em arquivos de apresentação com macros habilitadas para fluxos de trabalho que exigem formato de reprodução mais comportamento avançado de automação. É útil para organizações que lidam com entrega estruturada de apresentações com lógica reutilizável.
+
+Usando APIs Python, a conversão de DOC para PPSM pode ser dimensionada em bibliotecas de documentos, melhorando a eficiência na geração de apresentações com macros habilitadas e na implantação padronizada de apresentações.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Apresentação com Macros Habilitadas**
+  Transforme o conteúdo do documento em arquivos de apresentação que suportam comportamento avançado de apresentação.
+
+* **Entrega Automatizada de Apresentação**
+  Use a saída PPSM onde a reprodução da apresentação e a automação incorporada são ambas importantes.
+
+* **Empacotamento Estruturado de Comunicação**
+  Empacote informações baseadas em documentos em formatos de apresentação controlados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Produção Automatizada de Apresentação**
+  Gere arquivos PPSM a partir de entradas DOC para fluxos de trabalho avançados de apresentação.
+
+* **Pipelines de Conteúdo Orientados à Reprodução**
+  Converta o conteúdo do documento em ativos de apresentação com macros habilitadas programaticamente.
+
+* **Fluxos de Trabalho de Distribuição Repetíveis**
+  Use automação Python para padronizar arquivos de entrega de apresentação em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

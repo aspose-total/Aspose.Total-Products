@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja dokumentu do TSV przekształca zawartość Worda w wartości oddzielone tabulatorem, prosty, ustrukturyzowany format idealny do czystej wymiany danych tekstowych i procesów importu. Jest przydatna, gdy tabele w dokumencie lub powtarzające się pola wymagają lekkiego, ustrukturyzowanego wyjścia.
+
+Interfejsy API w Pythonie pomagają automatyzować konwersję DOC do TSV w celu skalowalnego wydobywania, przygotowywania danych i zadań integracyjnych, gdzie preferowane są formaty tabelaryczne w czystym tekście.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Lekkie eksportowanie danych**
+  Konwertuj tabele dokumentu do TSV w celu prostej, ustrukturyzowanej wymiany.
+
+* **Wyjście przyjazne importowi**
+  Przygotuj dane pochodzące z Worda dla narzędzi i systemów akceptujących tekst rozdzielony.
+
+* **Procesy czyszczenia danych**
+  Użyj wyjścia TSV do przetwarzania wstępnego, walidacji i wprowadzania do potoku.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Wydobycie danych o dużej objętości**
+  Automatycznie konwertuj pliki DOC do TSV w celu dalszego przetwarzania.
+
+* **Eksporty tekstu gotowe do potoku**
+  Generuj pliki rozdzielone z dokumentów jako część procesów ETL lub importu.
+
+* **Zaplanowane zadania transformacji**
+  Programowo standaryzuj rekordy oparte na dokumentach do TSV w regularnych odstępach czasu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

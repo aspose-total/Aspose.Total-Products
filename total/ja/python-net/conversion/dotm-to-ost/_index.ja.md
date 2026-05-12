@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から OST への変換は、マクロ対応の Word テンプレートをオフラインメールストレージシナリオやメッセージングワークフローに適したメールボックス データに変換します。これは、文書ベースのコンテンツが同期されたローカル データ ストアに依存するメール指向環境に組み込まれる場合に関連します。
+
+DOTM から OST への変換に Python API を使用すると、文書テンプレートから構造化されたメールデータの準備を自動化できます。これにより、スケーラブルな処理がサポートされ、手動変換の手間が削減され、文書システムとエンタープライズ メッセージング ワークフロー間の統合が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オフラインメールデータの準備**
+  文書ベースのコンテンツをオフラインメッセージングストレージワークフローに合わせた形式に変換します。
+
+* **テンプレートベースのコミュニケーションアーカイブ**
+  メール指向の処理環境内で再利用可能なテンプレートコンテンツを保持します。
+
+* **エンタープライズ メッセージング統合**
+  文書ワークフローと同期されたメールボックスデータを管理するシステムを橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたメールストア生成**
+  ワークフローは DOTM コンテンツを OST 互換のデータ処理プロセスに変換できます。
+
+* **メッセージングシステム統合**
+  この変換は、オフラインアクセスシナリオ向けに文書由来のコミュニケーションを自動的に準備することをサポートします。
+
+* **バッチエンタープライズ処理**
+  プログラムによるジョブは、メールデータワークフロー向けに DOTM テンプレートを大規模に処理できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

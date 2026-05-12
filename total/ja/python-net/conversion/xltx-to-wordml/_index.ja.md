@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から WordML への変換は、スプレッドシートテンプレートのコンテンツを、構造化文書のやり取りや機械に優しい処理に適した XML ベースのワードプロセッシング形式に変換します。テンプレート駆動のスプレッドシートコンテンツを、透明な構造とシステムレベルでの操作が容易なテキスト文書形式に再利用する必要がある場合に重要です。
+
+自動化および統合シナリオにおいて、XLTX から WordML への変換は、スプレッドシートテンプレートと XML 指向の文書パイプラインをつなぎ、相互運用性を向上させ、プログラムによる変換を可能にし、スケーラブルなコンテンツワークフローを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **XMLベースの文書変換**  
+  スプレッドシートテンプレートを構造化された WordML 文書に変換し、システムに優しい処理を実現します。
+
+* **やり取りおよび統合ワークフロー**  
+  コンテンツを解析、検証、変換に適した形式へ移行するのに役立ちます。
+
+* **構造化文書の出版**  
+  テンプレートデータから機械可読な文書出力が必要なワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによる XML 文書生成**  
+  システムは XLTX テンプレートを WordML ファイルに変換し、構造化された自動化パイプラインで使用できます。
+
+* **データから文書への相互運用性**  
+  このトピックは、スプレッドシートベースの入力と XML 指向の文書ワークフロー間の統合をサポートします。
+
+* **スケーラブルな構造化コンテンツ処理**  
+  動的な変換により、多数の機械可読文書出力を効率的に生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

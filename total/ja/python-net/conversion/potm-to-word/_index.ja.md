@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における POTM から Word への変換は、マクロ対応プレゼンテーションを編集可能なワードプロセッシング文書に変換し、文書化、コラボレーション、正式なコミュニケーションに利用できるようにします。プレゼンテーションの内容を、よりテキスト中心の形式に変換してプロフェッショナルに活用したい場合に便利です。
+
+自動化されたワークフローにおいて、POTM から Word への変換は、Python アプリケーションが承認フロー、文書リポジトリ、エンタープライズコミュニケーションシステムに適合した文書出力を生成できるようにし、スケーラブルなコンテンツ再利用を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **編集可能なドキュメント作成**
+  スライドの内容を、詳細な執筆や改訂に適した形に変換します。
+
+* **ビジネスコミュニケーション支援**
+  プレゼンテーション資料を、社内外で共有できるドキュメントに変換するのに役立ちます。
+
+* **コンテンツの保存**
+  重要な情報を保持しながら、より柔軟なドキュメント形式に移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動ドキュメント公開**
+  生産パイプラインでPOTM入力からWord互換の出力を生成します。
+
+* **レビュー ワークフローの有効化**
+  変換されたファイルを共同編集および承認システムに送ります。
+
+* **大規模なコンテンツ再利用**
+  Pythonの自動化を使用して、プレゼンテーションアーカイブをドキュメントライブラリに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

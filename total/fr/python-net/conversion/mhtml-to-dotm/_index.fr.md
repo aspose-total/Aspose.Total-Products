@@ -44,7 +44,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonction de conversion MHT
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MHTML vers DOTM en Python convertit le contenu web archivé en modèles Word à macros activées qui prennent en charge à la fois une structure réutilisable et une automatisation intégrée. Cela est utile dans les environnements de documents où les modèles doivent également exécuter des actions prédéfinies ou des étapes de formatage dynamique.
+
+Ce format est particulièrement pertinent pour l'automatisation évolutive car il combine la cohérence des modèles avec un comportement programmable. Il permet des flux de travail documentaires avancés où le contenu d'origine web devient partie intégrante de processus métier répétables et automatisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles à macros activées**  
+  Convertir les fichiers MHTML en modèles DOTM lorsque des mises en page réutilisables et l'automatisation des documents sont toutes deux requises.
+
+* **Préparation automatisée de formulaires**  
+  Utiliser le contenu web converti dans des modèles incluant une validation scriptée ou des étapes de formatage.
+
+* **Documents d'entreprise dynamiques**  
+  Prendre en charge les documents récurrents qui nécessitent à la fois une structure fixe et des actions automatisées.
+
+* **Sorties de documents contrôlées par processus**  
+  Créer des fichiers de modèle adaptés aux environnements avec des exigences opérationnelles structurées et répétables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Bibliothèques de modèles automatisées**  
+  Générer des modèles DOTM à partir de sources MHTML pour une utilisation dans tous les départements avec des processus standardisés.
+
+* **Flux de travail documentaires pilotés par macros**  
+  Convertir les archives web en modèles qui déclenchent des tâches automatisées lors de la création du document.
+
+* **Provisionnement de modèles en lot**  
+  Utiliser les API Python pour créer des actifs de modèles à macros activées à grande échelle à partir du contenu web capturé.
+
+* **Contrôle documentaire d'entreprise**  
+  Intégrer les modèles DOTM convertis dans les systèmes qui dépendent d'une préparation de documents répétable et automatisée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

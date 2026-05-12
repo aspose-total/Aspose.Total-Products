@@ -53,7 +53,41 @@ DOT から MHTML (Web アーカイブ形式) への変換機能または HtmlFix
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から MHTML への変換は、ワードプロセッシングテンプレートを、コンテンツを単一のポータブルリソースにまとめたウェブアーカイブファイルに変換します。これは、レイアウトを保持し、ウェブ対応フォーマットで文書コンテンツを共有し、自己完結型の配布を簡素化するのに役立ちます。
+
+Python API により、文書を公開、アーカイブ、またはコンパクトなウェブ対応ファイルとして転送する必要がある自動化環境で、DOT から MHTML への変換が実用的になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ウェブアーカイブエクスポート**
+  DOT ファイルを MHTML に変換し、ポータブルでブラウザフレンドリーな文書共有を実現します。
+
+* **単一ファイル保存**
+  文書コンテンツを自己完結型フォーマットで保存し、転送とアクセスを簡素化します。
+
+* **レイアウト指向配布**
+  レビューや公開のために、ウェブ対応アーカイブ内で文書のプレゼンテーションを保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ウェブパッケージング**
+  Python ワークフローは、公開パイプライン用に DOT テンプレートから MHTML ファイルを生成できます。
+
+* **アーカイブコンテンツ生成**
+  変換は、文書ソースからポータブルなウェブアーカイブを繰り返し作成することをサポートします。
+
+* **大量文書公開**
+  プログラム的なプロセスは、多数のテンプレートから効率的に MHTML 出力を生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

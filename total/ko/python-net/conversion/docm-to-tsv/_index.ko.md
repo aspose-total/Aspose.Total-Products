@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to TSV 변환은 매크로가 포함된 문서를 탭으로 구분된 값으로 변환하여 구조화된 콘텐츠를 데이터 워크플로 전반에 걸쳐 더 쉽게 구문 분석하고, 전송하며, 재사용할 수 있게 합니다. 특히 문서 표가 명확한 필드 구분이 있는 간단한 텍스트 기반 형식이 필요할 때 유용합니다.
+
+자동화 환경에서 DOCM to TSV 변환은 신뢰할 수 있는 데이터 교환, 처리 파이프라인으로의 데이터 수집, 그리고 문서 콘텐츠를 경량 구조화된 출력으로 확장 가능하게 변환하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **처리를 위한 표 추출**
+  문서 표를 데이터 워크플로에 적합한 텍스트 기반 구조로 변환합니다.
+
+* **경량 데이터 교환**
+  최소한의 형식 오버헤드로 도구 간에 구조화된 콘텐츠 이동을 지원합니다.
+
+* **가져오기 준비**
+  구분 기호 입력을 허용하는 시스템을 위해 문서에서 파생된 레코드를 준비하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **반복적인 구조화된 내보내기**
+  지속적인 운영 워크플로를 위해 DOCM to TSV 변환을 자동화합니다.
+
+* **파이프라인 친화적 데이터 준비**
+  스크립트와 통합 작업에서 쉽게 구문 분석할 수 있는 출력을 생성합니다.
+
+* **배치 변환 워크플로**
+  다수의 DOCM 파일을 일관된 TSV 출력으로 프로그래밍 방식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

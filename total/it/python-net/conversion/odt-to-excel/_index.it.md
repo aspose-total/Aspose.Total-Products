@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a Excel trasforma il contenuto dei documenti in formati pronti per fogli di calcolo, adatti a revisioni strutturate, analisi e collaborazione. È utile quando i documenti di testo contengono tabelle, elenchi o registri che devono essere gestiti in un ambiente a griglia.
+
+Per l'automazione, la conversione da ODT a Excel consente l'estrazione scalabile di dati aziendali utilizzabili dai documenti. Le API Python supportano la trasformazione batch, la validazione e l'instradamento dei risultati nei flussi di lavoro di reporting o operativi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preservazione delle tabelle**  
+  Sposta i dati strutturati dai documenti in layout di fogli di calcolo.
+
+* **Supporto all'analisi aziendale**  
+  Rende le informazioni basate su documenti più facili da ordinare, filtrare e revisionare.
+
+* **Trasferimento dati operativi**  
+  Converte i registri per l'uso nella pianificazione, audit o reporting.
+
+* **Modifica collaborativa**  
+  Consente ai team di lavorare con i contenuti estratti in un formato di foglio di calcolo familiare.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Estrazione dati basata su pipeline**  
+  I job Python possono estrarre tabelle dai file ODT e salvarle in output compatibili con Excel.
+
+* **Preparazione di report batch**  
+  Molti documenti possono essere trasformati per cicli di analisi ricorrenti.
+
+* **Validazione e strutturazione**  
+  Regole automatizzate possono pulire e organizzare i dati estratti prima dell'esportazione.
+
+* **Consegna tra sistemi**  
+  I fogli di calcolo convertiti possono essere instradati verso sistemi di archiviazione, reporting o revisione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

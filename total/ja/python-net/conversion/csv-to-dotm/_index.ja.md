@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で DOTM に変換することで、構造化された表形式データを、書式基準と組み込み自動化の両方を必要とする文書ワークフロー向けのマクロ有効なワードプロセッシングテンプレートに変換できます。  
+この変換は、テンプレート生成と自動化対応の動作を組み合わせることで効率性を向上させ、スケーラブルで再利用可能な文書システムに適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**  
+  CSV データを DOTM テンプレートに変換し、埋め込みアクションやロジックをサポートする再利用可能な文書を作成します。
+
+* **標準化された自動化フォーム**  
+  構造化データ駆動のレイアウトと自動化志向の文書動作を組み合わせたテンプレートを生成します。
+
+* **再利用可能な業務文書設計**  
+  CSV 入力を使用して DOTM テンプレートを作成し、チーム間で一貫した文書生成を実現します。
+
+* **ワークフロー対応テンプレート資産**  
+  運用環境で制御された書式と自動化をサポートする DOTM ファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化パイプライン**  
+  Python の変換ロジックを使用して CSV 入力から DOTM テンプレートを生成し、定期的な文書作成を実現します。
+
+* **エンタープライズワークフロー統合**  
+  大規模に自動化対応文書テンプレートを準備するシステムに CSV から DOTM への変換を組み込みます。
+
+* **大量テンプレート変換**  
+  多数の CSV ファイルを一貫した書式と再利用可能な構造を持つ DOTM 出力に変換します。
+
+* **動的テンプレート組み立て**  
+  CSV 主導のルール、セクション、コンテンツマッピングを使用してプログラム的に DOTM テンプレートを構築します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een MSG naar DOT-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG-naar-DOT-conversie zet e‑mailberichten om in sjabloonbestanden voor tekstverwerking die kunnen dienen als herbruikbare documentfundamenten. Dit is nuttig wanneer e‑mailafgeleide structuren of lay‑outs moeten worden omgezet in herhaalbare documentpatronen.
+
+In automatiseringsscenario's ondersteunt MSG-naar-DOT-conversie sjabloongebaseerde documentcreatie en gestandaardiseerde rapportageprocessen. Het stelt organisaties in staat om herhaalbare output te genereren vanuit terugkerende e‑mailinhoudbronnen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Sjablooncreatie vanuit e‑mailinhoud**  
+  Gebruik geconverteerde berichten als basis voor herhaalbare documentstructuren.
+
+* **Gestandaardiseerde documentatie**  
+  Maak uniforme sjablonen voor terugkerend operationeel of administratief gebruik.
+
+* **Herbruikbare contentkaders**  
+  Bewaar berichtlay‑outs en contentpatronen voor toekomstige documentgeneratie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Sjabloongeneratie‑pijplijnen**  
+  Converteer MSG‑bestanden naar DOT‑sjablonen voor terugkerende documentcreatietaken.
+
+* **Herhaalbare rapportageworkflows**  
+  Gebruik e‑mailafgeleide sjablonen in geautomatiseerde rapportage‑ of casusdocumentatiesystemen.
+
+* **Formaatstandaardisatie**  
+  Bouw gecontroleerde documentstructuren op basis van inkomende communicatie‑inhoud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

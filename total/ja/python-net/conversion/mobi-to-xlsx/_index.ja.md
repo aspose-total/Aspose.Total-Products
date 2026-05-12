@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MOBI から XLSX への変換は、電子書籍由来のコンテンツを、レポート作成、分析、構造化されたコラボレーションで広く使用されている最新のスプレッドシート形式に変換するのに役立ちます。出版物のコンテンツを実用的なワークシートベースの情報に変換する最も実用的な変換の一つです。
+
+自動化の観点から見ると、MOBI から XLSX への変換は、スケーラブルなエクスポート手順、オフィスワークフローとの統合、構造化された出力の効率的な処理をサポートします。自動化システムがコンテンツを配布・分析・拡張しやすい最新の形式に変換できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新のスプレッドシートレポート**
+  MOBI コンテンツを XLSX に変換し、最新のスプレッドシートレビューおよびレポート作成のニーズに対応します。
+
+* **構造化データの再利用**
+  抽出した電子書籍情報をワークシートで再利用し、ソート、フィルタリング、分析に活用します。
+
+* **チームコラボレーション**
+  ビジネス環境全体で広くサポートされているスプレッドシート形式で変換された出力を共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された XLSX 生成**
+  定期的な文書処理ジョブ内で MOBI ファイルから最新のスプレッドシート出力を作成します。
+
+* **コンテンツからワークシートへのパイプライン**
+  抽出した電子書籍データを構造化されたブックに移し、下流の自動化やレビューに活用します。
+
+* **統合レポーティングシステム**
+  Python API を使用して、ダッシュボード、レビュー、オフィスワークフローに直接組み込める XLSX ファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

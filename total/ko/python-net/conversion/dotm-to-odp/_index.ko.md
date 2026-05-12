@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM에서 ODP로 변환은 매크로가 포함된 Word 템플릿을 OpenDocument Presentation 파일로 변환하여 개방형 표준 슬라이드 생성 및 공유를 가능하게 합니다. 구조화된 문서 콘텐츠를 프레젠테이션 자료로 재활용해야 할 때, 보다 넓은 협업 및 재사용을 위해 유용합니다.
+
+Python API를 사용한 DOTM에서 ODP로의 변환은 문서 기반 프레젠테이션을 개방형 형식으로 자동 생성할 수 있어 자동화를 지원합니다. 이는 일관성을 향상시키고 수동 재디자인 작업을 줄이며 확장 가능한 출판 및 프레젠테이션 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 프레젠테이션 생성**
+  DOTM 콘텐츠를 ODP 슬라이드로 변환하여 표준 기반 프레젠테이션 워크플로를 지원합니다.
+
+* **콘텐츠 재활용**
+  문서 텍스트와 구조를 프레젠테이션 준비 자료로 변환합니다.
+
+* **크로스 플랫폼 협업**
+  다양한 오피스 도구에서 지원되는 형식으로 변환된 슬라이드 콘텐츠를 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서-슬라이드 자동화**
+  시스템은 구조화된 DOTM 템플릿에서 ODP 프레젠테이션을 자동으로 생성할 수 있습니다.
+
+* **오픈 포맷 퍼블리싱 파이프라인**
+  이 변환은 협업 환경을 위한 프레젠테이션 자산의 자동 생성을 지원합니다.
+
+* **배치 프레젠테이션 생성**
+  프로그래밍 방식 처리를 통해 대량의 DOTM 파일을 일관되게 ODP로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

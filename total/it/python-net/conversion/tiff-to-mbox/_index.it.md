@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TIFF a MBOX usando le API Python aiuta a convertire documenti basati su immagini in strutture di archivio mailbox che possono contenere contenuti in stile messaggio su larga scala. Questo è vantaggioso per le organizzazioni che devono preservare o organizzare i record di comunicazione derivati da TIFF all'interno di flussi di lavoro di archiviazione email di massa.
+
+In ambienti guidati dall'automazione, la conversione da TIFF a MBOX migliora l'efficienza dell'archiviazione e supporta l'elaborazione su larga scala di record visivi in collezioni compatibili con le mailbox. È particolarmente rilevante dove sono importanti l'archiviazione consolidata, la prontezza alla migrazione o l'esportazione strutturata.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivio mailbox**
+  Converte il contenuto TIFF in output compatibili con MBOX per una memorizzazione consolidata in stile email.
+
+* **Conservazione di record in blocco**
+  Aiuta a organizzare documenti derivati da immagini in strutture di mailbox adatte all'archiviazione.
+
+* **Preparazione alla migrazione**
+  Supporta la preparazione dei record di comunicazione visiva per il trasferimento in sistemi di posta compatibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione di archiviazione ad alto volume**
+  Converte lotti di documenti TIFF in output MBOX per flussi di lavoro di archiviazione scalabili.
+
+* **Supporto al flusso di conservazione**
+  Consente la preservazione automatizzata di record basati su immagini all'interno di formati di raccolta messaggi.
+
+* **Elaborazione di esportazione e trasferimento**
+  Supporta la generazione dinamica di archivi mailbox da sorgenti TIFF per attività di migrazione successive.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

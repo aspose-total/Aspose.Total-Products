@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to Images 변환은 매크로가 포함된 문서를 시각적 파일 출력으로 전환하여 페이지를 미리 보기, 공유, 보관 또는 다른 시스템에 삽입하기 쉽게 합니다. 편집 가능한 문서 형식을 기본적으로 지원하지 않는 플랫폼에서도 문서의 시각적 충실도를 유지해야 할 때 유용합니다.
+
+자동화 기반 워크플로우에서 DOCM to Images 변환은 문서 렌더링 파이프라인, 썸네일 생성, 시각적 검토 시스템 및 확장 가능한 출판 프로세스를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **시각적 문서 미리보기**
+  페이지를 이미지 파일로 변환하여 브라우저와 애플리케이션에서 쉽게 표시할 수 있습니다.
+
+* **콘텐츠 공유**
+  편집이 필요 없는 문서 스냅샷을 빠르게 배포할 수 있습니다.
+
+* **보관 충실도**
+  원본 문서의 시각적 모습을 참조 및 규정 준수를 위해 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 및 미리보기 생성**
+  문서 갤러리, 목록 또는 포털을 위한 이미지를 자동으로 생성합니다.
+
+* **출판 파이프라인**
+  웹사이트, 지식 베이스 및 문서 뷰어를 위한 시각적 내보내기를 지원합니다.
+
+* **배치 렌더링 워크플로우**
+  수많은 DOCM 파일을 수동 개입 없이 이미지 출력으로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

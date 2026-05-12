@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT から DOC への変換を Python API で行うことで、Outlook のメールテンプレートをレビュー、再利用、文書化のための編集可能なワードプロセッシング文書に変換できます。テンプレートの内容をメール環境から標準的な文書ワークフローへ移行する必要がある場合に便利です。
+
+OFT から DOC への変換を自動化することで、チームはコンテンツの再利用を効率化し、コラボレーションを簡素化し、文書ベースのプロセスに依存するシステム全体でのアクセシビリティを向上させることができます。これにより、スケーラブルなコンテンツ運用と構造化された文書管理がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **編集可能なコンテンツの再利用**  
+  OFT テンプレートを DOC ファイルに変換し、メールコンテンツを標準文書として修正できるようにします。
+
+* **社内文書作成**  
+  テンプレートのメッセージングを文書形式で保存し、トレーニング、記録、またはナレッジベースに活用します。
+
+* **レビューおよび承認ワークフロー**  
+  ステークホルダーが慣れ親しんだ文書形式で変換されたコンテンツにコメントし、洗練できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量テンプレート変換ジョブ**  
+  OFT ファイルのコレクションを自動的に DOC 文書に変換し、集中処理を実現します。
+
+* **コンテンツ移行の自動化**  
+  メールテンプレートのコンテンツをデジタルトランスフォーメーションワークフローの一環として文書システムに移行します。
+
+* **共同編集パイプライン**  
+  変換された DOC ファイルをレビュー連鎖に組み込み、複数のユーザーがコンテンツを更新・承認できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

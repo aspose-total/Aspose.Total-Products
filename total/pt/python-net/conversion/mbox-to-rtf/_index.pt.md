@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para RTF converte arquivos de caixa de correio em documentos de texto rico, preservando o conteúdo de e‑mail formatado em um formato editável e amplamente legível. Isso é útil quando as organizações precisam de um equilíbrio entre retenção de estilo, portabilidade e flexibilidade de documentos.
+
+Com APIs Python, a conversão de MBOX para RTF pode ser automatizada para simplificar o reuso de conteúdo, apoiar fluxos de trabalho de relatórios e criar saídas de documentos acessíveis a partir de dados de e‑mail arquivados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preservação de E‑mail Formatado**
+  Converta mensagens em arquivos RTF mantendo a estrutura de texto rico legível.
+
+* **Exportação de Documento Editável**
+  Facilite a revisão, anotação ou reutilização do conteúdo da caixa de correio em fluxos de trabalho de documentos.
+
+* **Compartilhamento de Texto Portátil**
+  Use um formato amplamente suportado para trocar o conteúdo de e‑mail convertido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Saída de Texto Rico Automatizada**
+  Transforme arquivos MBOX em documentos RTF em pipelines baseados em lotes.
+
+* **Fluxos de Trabalho de Reuso de Conteúdo**
+  Alimente arquivos de texto rico convertidos em processos de relatório, editorial ou revisão.
+
+* **Pipelines de Formatação Programática**
+  Use Python para escalar a conversão estruturada de e‑mail para documento de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

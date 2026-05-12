@@ -64,7 +64,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLS para PPSM converte informações de planilhas em arquivos de apresentação de slides com macros habilitadas para uso direto em apresentações. Este formato é útil quando os fluxos de trabalho de entrega de apresentações exigem comportamento de slides juntamente com compatibilidade com ambientes que suportam macros.
+
+Usar APIs Python para a conversão de XLS para PPSM ajuda a automatizar a geração especializada de apresentações e suporta a transformação escalável de informações baseadas em planilhas em ativos prontos para exibição.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Slideshows com Macros Habilitadas**
+  Converta dados XLS em arquivos PPSM para fluxos de trabalho avançados de apresentação.
+
+* **Saída Direta de Apresentação**
+  Prepare arquivos derivados de planilhas que estão prontos para abrir no modo de apresentação de slides.
+
+* **Materiais de Entrega Estruturados**
+  Use o conteúdo da planilha para criar saídas visuais guiadas para necessidades operacionais ou de relatório.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Preparação Automatizada de Slideshows**
+  Gere arquivos PPSM a partir de entradas de planilhas em sistemas que requerem saída de apresentação repetível.
+
+* **Pipelines de Apresentação Avançados**
+  Use APIs Python para suportar a geração de slideshows compatíveis com macros em escala.
+
+* **Sistemas de Relatórios com Prioridade de Exibição**
+  Converta arquivos XLS em ativos de apresentação de visualização direta para comunicação simplificada.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

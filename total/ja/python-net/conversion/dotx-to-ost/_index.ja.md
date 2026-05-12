@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から OST への変換は、Word テンプレートのコンテンツをオフラインのメールボックスストレージワークフローに関連付けられた形式に変換します。これは、生成されたコミュニケーションコンテンツが同期されたメールストレージおよびエンタープライズアーカイブプロセスと整合する必要があるシナリオで関連します。
+
+Python API を使用することで、この変換はメールボックス指向のデータ準備、メッセージストレージ処理、ドキュメント由来のコミュニケーション管理に関する自動化をサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **メールボックスストレージサポート**
+  オフラインメールストレージ環境向けに、ドキュメント生成されたコミュニケーションを適応させます。
+
+* **エンタープライズアーカイブ**
+  同期されたメッセージリポジトリを含むワークフロー向けにコンテンツを準備します。
+
+* **テンプレート駆動メール操作**
+  メールボックス関連の処理環境でドキュメントコンテンツを再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化メールストレージ準備**
+  メールボックス指向の処理プロセスで使用するために DOTX テンプレートを変換します。
+
+* **コミュニケーション保持パイプライン**
+  生成されたメッセージコンテンツのスケーラブルなアーカイブワークフローをサポートします。
+
+* **同期コンテンツ管理**
+  ドキュメントベースのコミュニケーションをオフラインアクセス可能なメールシステムに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

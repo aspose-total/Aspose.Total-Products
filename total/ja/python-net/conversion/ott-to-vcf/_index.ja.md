@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から VCF への変換は、OpenDocument テキストテンプレートを、人や組織の詳細を共有するために使用される連絡先カードファイルに変換します。テンプレートの内容に構造化された連絡先情報が含まれ、これをポータブルかつインポート可能な形にする必要がある場合に有用です。
+
+この変換は、ドキュメントで管理された連絡先情報を標準化された交換ファイルに変換することで自動化を支援し、手動入力を削減し、コミュニケーションやディレクトリのワークフロー間の同期を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **連絡先ファイル生成**  
+  構造化された連絡先コンテンツをインポート可能なカードファイルに変換します。
+
+* **ディレクトリデータ共有**  
+  システム間で連絡先情報の交換を容易にします。
+
+* **テンプレートベースの連絡先管理**  
+  標準化された連絡先出力のためにドキュメントテンプレートを再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先エクスポート**  
+  人や組織のデータを含む OTT テンプレートから VCF ファイルを作成します。
+
+* **CRM またはディレクトリ統合**  
+  生成された連絡先ファイルを下流の情報システムに供給します。
+
+* **大量連絡先パッケージング**  
+  大量の連絡先セット向けに標準化された連絡先出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

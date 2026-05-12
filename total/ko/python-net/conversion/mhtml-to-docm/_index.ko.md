@@ -44,7 +44,47 @@ Python 개발자의 경우 응용 프로그램 내에서 MHTML 및 HtmlFixed를 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MHTML을 DOCM으로 변환하면 보관된 웹 페이지를 매크로 사용이 가능한 Word 문서로 변환하여 고급 문서 워크플로에 활용할 수 있습니다. 변환된 콘텐츠를 스크립트된 작업, 동적 템플릿 또는 제어된 문서 로직과 결합해야 할 때 유용합니다.
+
+자동화 중심 환경에서 DOCM 출력은 정적 변환을 넘어 문서 자체 내에서 변환 후 자동화를 허용함으로써 확장 가능한 워크플로를 지원합니다. 보존된 콘텐츠와 프로그래밍 가능한 문서 동작을 모두 요구하는 대량 프로세스에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 보고**  
+  최종 출력에 자동화된 매크로나 스크립트 형식이 필요할 때 MHTML 파일을 DOCM 문서로 변환합니다.
+
+* **대화형 문서 템플릿**  
+  매크로 사용 템플릿 안에서 변환된 콘텐츠를 활용하여 안내 편집 및 구조화된 문서 생성을 지원합니다.
+
+* **고급 비즈니스 워크플로**  
+  검증, 서식 지정 또는 데이터 채우기와 같은 자동화 작업에 의존하는 문서 프로세스를 지원합니다.
+
+* **재사용 가능한 운영 문서**  
+  캡처된 웹 콘텐츠를 문서화하여 보다 넓은 자동화 사무 워크플로에 참여시킬 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서 조립 시스템**  
+  MHTML을 DOCM으로 변환하고 생성 후 매크로 기반 서식 지정이나 처리를 트리거합니다.
+
+* **워크플로 기반 파일 준비**  
+  운영 프로세스에서 문서 스크립트를 사용하는 팀을 위해 매크로 사용 파일의 생산을 자동화합니다.
+
+* **템플릿 주입 파이프라인**  
+  변환된 웹 콘텐츠를 DOCM 템플릿에 주입하여 구조화되고 자동화된 결과물을 만듭니다.
+
+* **대량 사무 자동화**  
+  Python API를 사용해 웹 아카이브를 매크로 사용 가능한 문서로 대규모 처리하고 최소한의 수동 작업으로 자동화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

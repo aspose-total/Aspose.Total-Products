@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT en XLAM transforme les modèles de documents en fichiers de feuille de calcul orientés add‑in, utilisés pour étendre les flux de travail des feuilles de calcul. Cela est pertinent lorsque le contenu piloté par des modèles contribue à une fonctionnalité réutilisable de feuille de calcul ou à une logique empaquetée dans les environnements pris en charge.
+
+Avec les API Python, la conversion DOT en XLAM peut être intégrée à des systèmes automatisés qui standardisent la création d’actifs avancés de feuilles de calcul à partir de sources basées sur des documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation d'actifs d'add‑in de feuille de calcul**
+  Convertir le contenu DOT en sorties orientées XLAM pour des extensions de feuille de calcul réutilisables.
+
+* **Emballage de flux de travail réutilisables**
+  Prendre en charge les scénarios où les structures définies par les documents alimentent des solutions avancées de feuilles de calcul.
+
+* **Actifs fonctionnels pilotés par des modèles**
+  Réutiliser le contenu des documents en ressources de feuilles de calcul empaquetées pour une utilisation répétée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Préparation automatisée d'add‑in**
+  Les flux de travail Python peuvent transformer les modèles DOT en sorties compatibles XLAM là où c’est nécessaire.
+
+* **Support avancé du pipeline de feuilles de calcul**
+  La conversion aide les dépôts de documents à contribuer à des actifs réutilisables de feuilles de calcul.
+
+* **Génération évolutive de sorties fonctionnelles**
+  Les systèmes programmatiques rationalisent la création à haut volume de fichiers de packages avancés de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

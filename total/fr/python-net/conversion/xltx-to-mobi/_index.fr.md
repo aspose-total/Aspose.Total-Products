@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLTX vers MOBI transforme le contenu des modèles de feuilles de calcul en un format adapté aux eBooks, convenant aux expériences de lecture légères et à la distribution numérique portable. Elle est utile lorsque du matériel structuré basé sur des modèles doit être réutilisé sous forme de contenu lisible et compact pour le partage de connaissances, les guides ou les documents de référence.
+
+Dans les systèmes axés sur l'automatisation, la conversion XLTX vers MOBI prend en charge la publication de contenu à grande échelle en transformant les modèles de feuilles de calcul structurés en actifs de lecture portables pouvant être générés de manière programmatique et diffusés via les canaux de distribution numérique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de guide portable**  
+  Convertit le contenu structuré des modèles de feuilles de calcul en un format de lecture adapté aux appareils mobiles.
+
+* **Publication de matériel de référence**  
+  Facilite la distribution de connaissances tabulaires ou structurées dans un format optimisé pour la lecture numérique.
+
+* **Flux de travail de réutilisation de contenu**  
+  Prend en charge la transformation du contenu des modèles opérationnels en ressources réutilisables de type eBook.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée d'eBook**  
+  Les systèmes peuvent convertir les modèles XLTX en fichiers MOBI pour des tâches de publication numérique récurrentes.
+
+* **Pipelines de distribution de connaissances**  
+  Le sujet prend en charge l'empaquetage automatisé du contenu structuré pour une diffusion légère aux lecteurs.
+
+* **Opérations de publication en masse**  
+  La conversion programmatique permet de publier de grands lots de contenu basé sur des feuilles de calcul sous forme de documents portables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

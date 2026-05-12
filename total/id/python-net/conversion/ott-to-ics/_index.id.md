@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OTT ke IC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi OTT ke ICS dalam API Python mengubah templat teks OpenDocument menjadi file data kalender yang digunakan untuk penjadwalan dan pertukaran acara. Ini berharga ketika konten dokumen mencakup janji, tenggat waktu, atau informasi terstruktur berbasis tanggal yang harus menjadi siap kalender.
+
+Konversi ini ramah otomatisasi karena memungkinkan informasi acara dihasilkan dari templat dan didorong ke alur kerja penjadwalan, pengingat, dan proses sinkronisasi tanpa entri kalender manual.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan File Acara**  
+  Mengubah konten dokumen terkait jadwal menjadi file yang kompatibel dengan kalender.
+
+* **Distribusi Tenggat Waktu**  
+  Membagikan tanggal penting dan tonggak pencapaian dalam format kalender standar.
+
+* **Dukungan Alur Kerja Perencanaan**  
+  Mengonversi data acara terstruktur menjadi aset penjadwalan yang dapat dipindahkan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomasi" %}}
+
+* **Pembuatan Kalender Otomatis**  
+  Membuat file ICS dari templat acara berbasis OTT yang berulang.
+
+* **Integrasi Alur Kerja Pengingat**  
+  Menyalurkan acara yang dihasilkan ke sistem yang memicu notifikasi.
+
+* **Sinkronisasi Jadwal**  
+  Mendukung berbagi data kalender secara programatik antar tim atau alat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

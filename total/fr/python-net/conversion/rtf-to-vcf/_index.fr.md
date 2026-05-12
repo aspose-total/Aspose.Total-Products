@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion RTF vers VCF transforme les documents texte enrichi en fichiers de cartes de contact pouvant stocker les noms, numéros de téléphone, adresses et informations de contact associées dans un format portable. Cela est utile lorsque les coordonnées sont intégrées dans des documents et doivent devenir des enregistrements structurés et partageables.
+
+Dans les flux de travail d’automatisation, la conversion RTF vers VCF prend en charge l’extraction efficace de contacts, la synchronisation et la distribution en convertissant des annuaires ou listes basés sur du texte en actifs de contact standardisés pour les systèmes et les équipes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d’enregistrements de contact**  
+  Convertit les coordonnées basées sur des documents en cartes de contact numériques portables.
+
+* **Modernisation d’annuaire**  
+  Aide à transformer les listes de contacts manuscrites en enregistrements structurés adaptés à l’importation et au partage.
+
+* **Échange de contacts portable**  
+  Facilite le transfert d’informations de contact entre systèmes et appareils.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines automatisés d’extraction de contacts**  
+  Les systèmes peuvent analyser les documents RTF et générer des fichiers VCF à partir des coordonnées identifiées.
+
+* **Préparation en masse de carnets d’adresses**  
+  La conversion programmatique prend en charge la création à grande échelle d’enregistrements de contact à partir de fichiers source textuels.
+
+* **Intégration CRM et annuaire**  
+  Les flux de travail dynamiques peuvent transformer les informations de contact stockées dans des documents en actifs de contact réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

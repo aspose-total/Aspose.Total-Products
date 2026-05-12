@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 Excel을 PPSM으로 변환하면 스프레드시트 내용을 매크로 지원 슬라이드쇼 파일로 변환하여 고급 프레젠테이션 워크플로에 활용할 수 있습니다. 프레젠테이션 준비 파일이 매크로 기반 상호 작용이나 자동화 기능을 지원해야 할 때 유용합니다.
+
+이 변환은 스프레드시트 데이터와 슬라이드쇼 출력물을 연결하여 보다 동적이고 프로그래밍 가능한 프레젠테이션 환경에 참여할 수 있게 하므로 자동화와 관련이 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **매크로 지원 슬라이드쇼**  
+  Excel 내용을 PPSM 파일로 변환하여 확장된 자동화 지원과 함께 직접 프레젠테이션할 수 있습니다.
+
+* **인터랙티브 프레젠테이션 제공**  
+  필요에 따라 프로그래밍 가능한 동작을 포함할 수 있는 슬라이드쇼 출력을 준비합니다.
+
+* **운영 브리핑 파일**  
+  스프레드시트 데이터를 사용하여 고급 워크플로 가능성을 갖춘 프레젠테이션 준비 파일을 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 인터랙티브 프레젠테이션**  
+  슬라이드쇼 자동화를 필요로 하는 워크플로를 위해 Excel 소스에서 PPSM 출력을 생성합니다.
+
+* **프로그래밍 기반 프레젠테이션 파이프라인**  
+  매크로 지원 슬라이드쇼 생성을 Python 보고 시스템에 통합합니다.
+
+* **확장 가능한 전달 준비**  
+  스프레드시트 데이터에서 최소한의 수작업으로 바로 실행 가능한 프레젠테이션 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

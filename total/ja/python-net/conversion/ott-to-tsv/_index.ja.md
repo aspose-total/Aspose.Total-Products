@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から TSV への変換は、OpenDocument テキストテンプレートをタブ区切り値に変換し、クリーンで軽量な構造化データ交換を実現します。テンプレートベースのコンテンツを、シンプルなテキストベースの表形式出力を好むシステムへ移行する必要がある場合に便利です。
+
+この変換は、最小限のオーバーヘッド、ポータビリティ、信頼できる区切り文字ベースの構造を重視するワークフローへ、容易なパース、変換、ロードを可能にすることで、オートメーションを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **区切りデータエクスポート**  
+  文書コンテンツを構造化されたタブ区切り出力に変換します。
+
+* **パイプライン対応フォーマット**  
+  軽量なテキストベースの表を処理するシステムをサポートします。
+
+* **データ準備**  
+  抽出されたコンテンツを分析ツールや運用ツールへのインポートが容易になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ表形式変換**  
+  OTT テンプレートから大規模に TSV ファイルを生成します。
+
+* **ETL ワークフローへの供給**  
+  文書由来のデータをパースおよび変換パイプラインに送ります。
+
+* **定期的な構造化エクスポート**  
+  シンプルな機械可読データセットの定期的な生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

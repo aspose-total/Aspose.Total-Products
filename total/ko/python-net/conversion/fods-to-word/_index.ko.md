@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS에서 Word로 변환하면 평면 OpenDocument 스프레드시트 콘텐츠를 편집 가능한 워드 프로세싱 문서로 변환하여 보다 쉬운 커뮤니케이션, 검토 및 출판이 가능해집니다. 이는 조직이 구조화된 데이터를 서술형 보고서, 요약 및 공식 문서에 더 적합한 형식으로 제공하는 데 도움이 됩니다.
+
+자동화 워크플로우에서 FODS에서 Word로의 변환은 간소화된 문서 생성, 운영 효율성 및 확장 가능한 콘텐츠 변환을 지원합니다. Python API를 사용하면 팀이 반복 작업을 자동화하고, 변환을 데이터 파이프라인에 통합하며, 비즈니스 프로세스 전반에 걸쳐 일관된 결과물을 제공할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **읽기 쉬운 비즈니스 문서**  
+  FODS 데이터를 Word 문서로 변환하여 보다 쉬운 해석 및 커뮤니케이션을 가능하게 합니다.
+
+* **보고서 및 요약 생성**  
+  Word 출력물을 사용하여 구조화된 스프레드시트 정보를 공식적인 서면 콘텐츠로 전환합니다.
+
+* **협업 편집**  
+  워드 프로세서에서 콘텐츠를 편집하고 검토하는 것을 선호하는 팀과 변환된 문서를 공유합니다.
+
+* **워크플로우 친화적 배포**  
+  일반적인 비즈니스 문서 작성 관행에 맞는 문서 출력을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 데이터-문서 변환**  
+  Python API를 사용하면 수동 포맷 작업 없이 FODS 파일을 Word 문서로 변환할 수 있습니다.
+
+* **정기 보고 자동화**  
+  정기적으로 업데이트되는 스프레드시트 소스에서 Word 출력을 생성하도록 스케줄된 워크플로우를 설정할 수 있습니다.
+
+* **대규모 배치 처리**  
+  대량의 변환 작업을 프로그래밍 방식으로 처리하여 운영 효율성을 향상시킬 수 있습니다.
+
+* **통합 엔터프라이즈 문서 흐름**  
+  변환은 보고, 검토 및 배포를 위한 더 넓은 시스템에 내장될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

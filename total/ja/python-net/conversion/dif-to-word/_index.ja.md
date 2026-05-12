@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における DIF から Word への変換は、構造化された DIF コンテンツをビジネスコミュニケーション、レポーティング、編集可能なコンテンツ配布に適した Word 互換ドキュメントに変換することを可能にします。ソースデータを読みやすく、修正しやすい文書形式で提供する必要がある場合に有用です。
+
+Python API を使用した DIF から Word への変換は、繰り返し行われる文書生成タスクを自動化し、レポーティングシステム、コンテンツサービス、エンタープライズ自動化プラットフォーム全体でスケーラブルなワークフローをサポートします。これにより手作業が削減され、文書の一貫性が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **Word 互換レポーティング**
+  DIF データをレビュー、編集、プレゼンテーション用の Word 文書に変換します。
+
+* **構造化コンテンツ配信**
+  運用または管理目的で、馴染みのある文書形式でソースデータを提示します。
+
+* **編集可能なビジネス文書**
+  変換後にチームが更新、コメント、または適応できる出力を作成します。
+
+* **一般的な文書の近代化**
+  DIF ベースの情報を、より広く利用できる一般的なワードプロセッシング形式に移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な文書生成**
+  定期的なビジネスプロセス向けに、DIF ファイルから Word 互換出力を自動化します。
+
+* **システムから文書へのワークフロー**
+  構造化データを利用可能なファイルに変換する Python アプリケーションに統合します。
+
+* **大規模バッチ処理**
+  多数の DIF ファイルをプログラムで Word 文書に変換し、集中配布を実現します。
+
+* **ワークフロー駆動型コンテンツ配信**
+  新しい DIF データが処理パイプラインに入ると、文書作成を自動的にトリガーします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

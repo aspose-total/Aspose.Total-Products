@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a SXC nelle API Python trasforma i modelli di testo OpenDocument in file di foglio di calcolo adatti ai flussi di lavoro dei fogli di calcolo OpenOffice più vecchi. Questo è utile quando il contenuto del documento deve essere convertito in un formato tabellare strutturato e modificabile per ambienti compatibili con versioni legacy.
+
+La conversione supporta l'automazione consentendo l'estrazione standardizzata delle informazioni del documento nei flussi di lavoro dei fogli di calcolo che continuano a dipendere da formati OpenOffice consolidati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Supporto per fogli di calcolo legacy**  
+  Crea output di fogli di calcolo compatibili con i flussi di lavoro OpenOffice più vecchi.
+
+* **Strutturazione dei dati del documento**  
+  Converte il contenuto testuale del modello in tabelle modificabili.
+
+* **Compatibilità operativa**  
+  Aiuta a integrare i dati generati con gli ecosistemi di fogli di calcolo consolidati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione legacy automatizzata**  
+  Produce file SXC da sorgenti OTT per flussi di lavoro guidati dalla compatibilità.
+
+* **Trasformazione batch dei dati**  
+  Converte numerosi file modello in output tabellari legacy in modo efficiente.
+
+* **Integrazione per continuità di sistema**  
+  Supporta ambienti che mantengono catene di elaborazione dei fogli di calcolo più vecchie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

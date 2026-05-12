@@ -65,7 +65,46 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion CSV vers MOBI à l'aide des API Python permet de transformer des données tabulaires structurées en fichiers ebook numériques adaptés à la lecture portable et aux flux de travail de publication électronique.  
+Cette conversion prend en charge l'automatisation en convertissant les données brutes en contenu prêt à être distribué, pouvant être publié, réutilisé et mis à l'échelle au sein des systèmes de contenu numérique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Publication de contenu ebook**  
+  Convertir les données CSV en fichiers MOBI pour la lecture portable, le contenu de référence structuré et la distribution numérique.
+
+* **Publications numériques axées sur les données**  
+  Transformer les ensembles de données tabulaires en sorties de type ebook lisibles pour des guides, catalogues ou produits d'information structurés.
+
+* **Livraison de contenu portable**  
+  Générer des fichiers MOBI lorsque le contenu doit être empaqueté dans un format de publication compact et convivial pour le lecteur.
+
+* **Emballage d'information évolutif**  
+  Utiliser des sources CSV pour créer des publications numériques cohérentes à partir de jeux de données récurrents ou structurés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée d'ebook**  
+  Utiliser les API Python pour convertir les entrées CSV en fichiers MOBI afin de soutenir des flux de travail de publication répétables.
+
+* **Intégration du pipeline de publication**  
+  Intégrer la conversion CSV vers MOBI dans des systèmes qui empaquettent automatiquement le contenu structuré pour les lecteurs numériques.
+
+* **Exportation numérique en masse**  
+  Traiter de grands volumes de données CSV en sortie MOBI pour la publication de catalogues ou la distribution de contenu.
+
+* **Assemblage dynamique de publications**  
+  Construire des fichiers MOBI de manière programmatique à partir de jeux de données CSV évolutifs afin de soutenir la création de contenu à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

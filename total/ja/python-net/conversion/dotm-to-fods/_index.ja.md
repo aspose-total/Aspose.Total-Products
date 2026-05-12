@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to FODS 変換は、マクロ対応の Word テンプレートをフラットな OpenDocument スプレッドシート ファイルに変換し、構造化されたコンテンツをオープンな XML ベースのスプレッドシート形式で保存しやすくします。これは、相互運用性、透明な保存、そしてオープンドキュメント標準を優先するワークフローにとって価値があります。
+
+DOTM から FODS への変換に Python API を使用することで、再利用可能なテンプレートを最小限の手作業でオープンなスプレッドシート出力に変換し、自動化を支援します。これにより、移植性が向上し、標準ベースのシステムとの統合が簡素化され、スケーラブルな文書変換パイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープン スプレッドシート エクスポート**
+  オープンで検査可能なスプレッドシート形式に依存するワークフロー向けに、DOTM コンテンツを FODS に変換します。
+
+* **相互運用可能なデータ共有**
+  OpenDocument 標準をサポートするツール間で構造化文書コンテンツの交換を容易にします。
+
+* **透明なデータ保存**
+  抽出されたテンプレートデータを、制御された処理に適したフラットな XML スプレッドシート形式で保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンフォーマット ワークフロー自動化**
+  自動変換により、DOTM テンプレートが標準ベースのスプレッドシート出力を必要とするシステムに供給できるようになります。
+
+* **XML中心のデータパイプライン**
+  スプレッドシートコンテンツがテキストベースで機械可読である必要がある場合の自動処理を変換がサポートします。
+
+* **大量の標準準拠処理**
+  プログラムによるジョブは、多数の DOTM ファイルを FODS に一貫して変換し、スケーラブルな統合を実現できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python を使用した ODP から DOCM への変換により、プレゼンテーションファイルをマクロ対応の Word ドキュメントに変換し、高度な文書ワークフローを実現できます。変換されたコンテンツが構造化された自動化、組み込みロジック、またはマクロ対応フォーマットに依存するエンタープライズ文書プロセスをサポートする必要がある場合に重要です。
+
+自動化の観点から、ODP から DOCM への変換はプレゼンテーションコンテンツと動的文書システムをつなぐ役割を果たします。変換された出力がスクリプト処理、テンプレートロジック、または制御されたエンタープライズワークフローと統合する必要があるスケーラブルな運用をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応ドキュメント**  
+  プレゼンテーションコンテンツを DOCM ファイルに変換し、高度な文書自動化シナリオに参加できるようにします。
+
+* **プロセス指向レポーティング**  
+  マクロサポートがフォーマットやワークフローロジックに必要な環境向けに変換ファイルを準備します。
+
+* **エンタープライズテンプレート拡張**  
+  変換されたコンテンツをマクロ対応文書テンプレートや構造化された内部プロセスの基盤として使用します。
+
+* **運用コンテンツ変換**  
+  プレゼンテーション資料を、インタラクティブまたは自動化された文書処理により適した形式へ移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書組み立て**  
+  変換された DOCM ファイルを、マクロベースのアクションで文書を強化または処理するシステムへルーティングします。
+
+* **ルール駆動ファイル処理**  
+  文書がプログラム的に分類、フォーマット、または強化されるパイプラインに変換プロセスを統合します。
+
+* **テンプレート中心のワークフロー自動化**  
+  変換されたコンテンツと再利用可能なマクロ対応テンプレートを組み合わせた環境で DOCM 出力を使用します。
+
+* **スケーラブルなエンタープライズ変換ジョブ**  
+  部門間で繰り返し行われるプレゼンテーションから文書への変換を、最小限の手作業で処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

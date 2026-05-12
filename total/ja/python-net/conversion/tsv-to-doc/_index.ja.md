@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から DOC への変換は、タブ区切りデータを編集可能なワードプロセッシング文書に変換し、ビジネスや業務でのレビュー、共有、フォーマットが容易になります。構造化されたデータセットの出力を、レポート作成、コミュニケーション、またはアーカイブ作業向けの読みやすい物語形式の文書にする必要がある場合に有用です。
+
+Python API を使用すると、この変換を自動化して、生の表形式入力から一貫した DOC ファイルを生成でき、文書作成パイプラインの効率が向上し、スケーラブルなレポート作成、エクスポート、出版タスクをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **読みやすいデータレポート**  
+  生の TSV テーブルを文書に適したコンテンツに変換し、読みやすさとプレゼンテーションを向上させます。
+
+* **内部ドキュメント**  
+  構造化されたソースファイルから運用または分析文書の作成をサポートします。
+
+* **ワークフローに適したエクスポート**  
+  チームがバックエンドシステムからデータを編集可能な文書形式に移行するのを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期レポート生成**  
+  自動化により、定期的な TSV エクスポートをルーチンの文書化のための DOC ファイルに変換できます。
+
+* **ビジネスプロセス文書化**  
+  Python API は、構造化されたレコードを承認やレビューで使用されるフォーマット済み文書に変換できます。
+
+* **大量ファイル変換**  
+  大量の TSV ファイルをプログラムで DOC 出力に変換でき、手作業を最小限に抑えられます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCX para PST transforma documentos de processamento de texto em arquivos de armazenamento pessoal usados para gerenciar coleções de mensagens de e‑mail, contatos e dados de caixa de correio relacionados. Esse processo suporta a integração de conteúdo derivado de documentos em fluxos de trabalho de arquivamento e migração orientados a caixas de correio.
+
+Usando APIs Python, a conversão de DOCX para PST pode ser automatizada para arquivos de comunicação corporativa, sistemas de conformidade e processos de migração de conteúdo em larga escala. Ela permite que informações estruturadas de documentos sejam empacotadas para ambientes de armazenamento de dados de e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Arquivo de E‑mail**  
+  Converte o conteúdo do documento em estruturas de armazenamento usadas para coleções de dados de mensagens.
+
+* **Fluxos de Trabalho de Retenção Corporativa**  
+  Suporta o armazenamento de longo prazo de conteúdo de comunicação derivado de documentos.
+
+* **Suporte à Migração de Caixa de Correio**  
+  Ajuda a mover o conteúdo para formatos alinhados com sistemas de armazenamento de mensagens pessoais.
+
+* **Registros de Mensagens Baseados em Documentos**  
+  Permite que o conteúdo escrito seja incorporado a coleções de dados de e‑mail arquivados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de PST**  
+  Os sistemas podem converter o conteúdo DOCX em saídas de armazenamento de e‑mail para fluxos de trabalho de arquivamento.
+
+* **Processamento em Lote de Arquivo de Comunicação**  
+  Scripts Python podem processar vários documentos em pipelines de armazenamento orientados a PST.
+
+* **Automação de Conformidade e Retenção**  
+  Informações de documentos podem ser transformadas em arquivos de armazenamento pessoal para sistemas de arquivamento controlados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

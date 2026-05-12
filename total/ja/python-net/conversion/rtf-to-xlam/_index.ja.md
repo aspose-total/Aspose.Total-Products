@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から XLAM への変換は、リッチテキスト文書をスプレッドシート自動化環境に関連付けられたアドインファイルに変換します。これは、文書由来のロジック、構造、または再利用可能なワークブック関連機能がアドインベースのスプレッドシートワークフローと整合する必要がある特殊なシナリオで有用です。
+
+自動化のために、RTF から XLAM は、構造化された文書コンテンツを再利用可能かつ拡張可能なワークブックプロセスに参加できる形式に変換することで、先進的なスプレッドシートエコシステム統合を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシート アドイン ワークフロー サポート**  
+  ソースコンテンツを再利用可能なスプレッドシート拡張機能に関連する形式に変換します。
+
+* **再利用可能なワークブック機能の準備**  
+  ドキュメントベースの資産を拡張可能なスプレッドシート環境と整合させるのに役立ちます。
+
+* **高度なデータツール統合**  
+  ドキュメント変換がスプレッドシート自動化資産に供給される特殊なワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたアドイン資産生成**  
+  システムは構造化されたRTFソースをスプレッドシート拡張指向の出力に変換できます。
+
+* **再利用可能なスプレッドシートプロセスの有効化**  
+  プログラム的な変換は、ワークブック環境全体でロジックとツールを集中させるワークフローをサポートします。
+
+* **特殊なオフィス自動化パイプライン**  
+  動的なプロセスは、ドキュメント入力と高度なスプレッドシート自動化シナリオを接続できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

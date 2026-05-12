@@ -46,7 +46,53 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de imágenes a OFT mediante APIs de Python permite transformar contenido basado en imágenes en archivos de plantillas de correo electrónico reutilizables que soportan la creación de comunicaciones consistentes. Esto es útil cuando los mensajes recurrentes deben incorporar material visual como banners, avisos, gráficos de marca o diseños estructurados basados en imágenes.
+
+Para flujos de trabajo automatizados, convertir imágenes a OFT respalda la comunicación basada en plantillas, reduce el trabajo repetitivo de formato y mejora la consistencia del resultado. Permite procesos escalables de generación de correos electrónicos donde el contenido visual se reutiliza en escenarios operativos o comerciales recurrentes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Plantillas de Comunicación Reutilizables**
+  Convertir diseños basados en imágenes en plantillas OFT para flujos de trabajo de mensajería repetida.
+
+* **Estandarización de Avisos Visuales**
+  Crear plantillas de correo electrónico consistentes a partir de avisos de políticas, anuncios o gráficos promocionales.
+
+* **Preparación de Mensajes Operacionales**
+  Crear plantillas que incluyan instrucciones o material de referencia basados en imágenes.
+
+* **Consistencia en la Comunicación con Clientes**
+  Utilizar plantillas de correo electrónico visuales para mantener una comunicación uniforme en interacciones repetidas.
+
+* **Diseño de Anuncios Internos**
+  Convertir formatos de mensajes guiados por imágenes en plantillas reutilizables para la comunicación a nivel de equipo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Automatización de Correos Electrónicos Basada en Plantillas**
+  Los sistemas pueden generar comunicaciones recurrentes a partir de plantillas OFT construidas a partir de contenido de imágenes.
+
+* **Soporte de Flujo de Trabajo de Campañas**
+  Las plantillas ricas en imágenes pueden prepararse una vez y reutilizarse en procesos de alcance programados.
+
+* **Estandarización de Alertas Operacionales**
+  Los formatos de actualización comunes pueden automatizarse usando salidas OFT reutilizables derivadas de recursos visuales.
+
+* **Comunicación de Procesos Documentados**
+  Los equipos pueden automatizar correos electrónicos instructivos utilizando plantillas generadas a partir de contenido de referencia basado en imágenes.
+
+* **Personalización de Mensajes Escalable**
+  Las plantillas OFT creadas a partir de imágenes pueden poblarse dinámicamente con datos en flujos de trabajo automatizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

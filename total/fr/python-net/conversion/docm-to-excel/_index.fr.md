@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to Excel conversion transforms macro-enabled documents into spreadsheet-ready workbooks, allowing document content such as tables, lists, and records to be analyzed, edited, and reused more efficiently. It is valuable when business data captured in DOCM format must be moved into calculation-friendly environments.
+
+For automation and scalability, DOCM to Excel workflows support structured extraction, reporting pipelines, and repeatable transformation of document content into operational spreadsheets.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Analyse basée sur les feuilles de calcul**
+  Déplace les données du document sous forme de classeur pour le tri, le filtrage et la révision.
+
+* **Reporting opérationnel**
+  Convertit le contenu structuré en feuilles de calcul utilisées pour des processus de reporting récurrents.
+
+* **Réutilisation des données**
+  Facilite la modification et l'intégration des informations contenues dans le document entre les équipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création de classeurs en lot**
+  Convertit automatiquement plusieurs fichiers DOCM en sorties de feuilles de calcul pour un traitement à grande échelle.
+
+* **Préparation analytique**
+  Alimente les données dérivées du document dans des flux de travail automatisés de feuilles de calcul et de reporting.
+
+* **Échange de données structuré**
+  Prend en charge le transfert programmatique entre les systèmes de documents et les outils basés sur les feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

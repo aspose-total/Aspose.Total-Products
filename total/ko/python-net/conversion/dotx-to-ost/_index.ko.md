@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTX를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 OST로 변환하면 Word 템플릿 콘텐츠를 오프라인 메일함 저장 워크플로와 연결된 형식으로 변환합니다. 이는 생성된 커뮤니케이션 콘텐츠가 동기화된 메일 저장 및 기업 아카이빙 프로세스와 일치해야 하는 시나리오에서 관련이 있습니다.
+
+Python API를 사용하면 이 변환이 메일함 중심 데이터 준비, 메시지 저장 처리 및 문서 기반 커뮤니케이션 관리와 관련된 자동화를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **메일함 저장 지원**
+  오프라인 메일 저장 환경에 맞게 문서에서 생성된 커뮤니케이션을 조정합니다.
+
+* **엔터프라이즈 아카이빙**
+  동기화된 메시지 저장소와 관련된 워크플로를 위해 콘텐츠를 준비합니다.
+
+* **템플릿 기반 메일 작업**
+  메일함 관련 처리 환경에서 문서 콘텐츠를 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 메일 저장 준비**
+  메일함 중심 처리 프로세스에서 사용하기 위해 DOTX 템플릿을 변환합니다.
+
+* **커뮤니케이션 보존 파이프라인**
+  생성된 메시지 콘텐츠에 대한 확장 가능한 아카이브 워크플로를 지원합니다.
+
+* **동기화된 콘텐츠 관리**
+  문서 기반 커뮤니케이션을 오프라인 액세스 메일 시스템에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

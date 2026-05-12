@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から XLTM への変換は、文書ベースの構造化コンテンツをマクロ対応のスプレッドシートテンプレートに変換し、オートメーションサポート付きで繰り返し可能なブック生成を実現します。標準化されたスプレッドシートがプログラム可能な動作も備える必要がある場合に価値があります。
+
+Python API を使用して、WordML から XLTM への変換は、組織が高度な処理ワークフローに合わせた再利用可能なスプレッドシートテンプレートの作成を自動化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート出力**
+  WordML コンテンツを XLTM ファイルに変換し、再利用可能な自動化ブックの基盤を提供します。
+
+* **繰り返し可能なスプレッドシート自動化**
+  組み込みロジック機能を備えた繰り返しのブック作成をサポートします。
+
+* **構造化テンプレート標準化**
+  承認済みの文書コンテンツをプロセス対応のスプレッドシートテンプレートにパッケージ化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート公開**
+  WordML 入力から XLTM ファイルを生成し、繰り返しのスプレッドシート操作に対応します。
+
+* **高度なレポートワークフローサポート**
+  文書主導のコンテンツをマクロ対応ブックテンプレートと接続します。
+
+* **スケーラブルなプロセスパッケージング**
+  自動化対応のスプレッドシートテンプレートを一貫して作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

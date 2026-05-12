@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMP からメールへの変換により、ビットマップ画像ファイルを構造化されたメールメッセージ内に埋め込んだり添付したりできます。このプロセスは、視覚的資産を通信システムを通じて配信したり、メッセージングプラットフォーム内でアーカイブしたりする必要がある場合に一般的に使用されます。
+
+自動化された環境では、BMP 画像をメール対応形式に変換することで、通知システム、文書ワークフロー、レポートパイプラインとのシームレスな統合が可能になります。これにより、最新のシステムは構造化された通信形式を維持しながら、視覚情報を効率的に配布できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **自動レポート配信**  
+  システムは生成された BMP チャートやスクリーンショットをメールメッセージに変換し、自動レポートワークフローに利用できます。
+
+* **ビジュアル通知システム**  
+  監視ツールは、特定のシステム状態が検出されたときに、画像ベースのアラートをメールで送信できます。
+
+* **メールシステムでの文書アーカイブ**  
+  組織は、構造化されたアーカイブのために、画像ベースの文書をメールレコード内に保存できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期画像レポート**  
+  自動スクリプトは BMP ファイルをメール添付として変換し、定期的に配布します。
+
+* **ワークフロー通知パイプライン**  
+  システムプロセス中に生成された画像出力は、送信メールに自動的に埋め込むことができます。
+
+* **プログラム的メール生成**  
+  アプリケーションはバッチ処理タスク中に BMP コンテンツを含むメールメッセージを動的に生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

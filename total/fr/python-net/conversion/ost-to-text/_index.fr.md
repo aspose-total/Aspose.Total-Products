@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'OST en texte extrait le contenu de la boîte aux lettres en texte brut, rendant les données d'e‑mail légères, recherchables et faciles à intégrer dans les flux de travail d'analyse ou de documentation. C’est un choix pratique pour les systèmes qui privilégient la simplicité, la portabilité et l'accessibilité du contenu.
+
+Dans les scénarios d'automatisation, la conversion d'OST en texte est particulièrement précieuse car le texte brut fonctionne bien avec l'indexation, l'analyse, la classification et le traitement en aval. Les API Python permettent une extraction par lots efficace et une intégration dans des pipelines de données et de contenu évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de contenu recherchable**  
+  Convertit les messages de la boîte aux lettres en texte brut pour l'indexation et la récupération.
+
+* **Archivage léger**  
+  Prend en charge la préservation du contenu des e‑mails dans un format minimal pour le stockage et la révision.
+
+* **Préparation au traitement des données**  
+  Facilite l'analyse, l'analyse syntaxique et la transformation programmatique du contenu des messages.
+
+* **Flux de capture de connaissances**  
+  Aide à transférer les informations importantes de la boîte aux lettres vers des actifs texte simples et réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines d'extraction de texte**  
+  L'automatisation Python convertit le contenu OST en texte brut pour un traitement évolutif.
+
+* **Flux de recherche et d'indexation**  
+  Les systèmes automatisés préparent les données de la boîte aux lettres pour les moteurs de recherche et les outils d'analyse.
+
+* **Processus d'analyse de contenu**  
+  La conversion programmatique prend en charge la classification, la synthèse et les opérations de fouille de texte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

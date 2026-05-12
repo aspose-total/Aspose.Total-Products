@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de WordML en e‑mail transforme le contenu d’un document en une sortie prête à être utilisée comme e‑mail, exploitable dans les flux de travail de communication, les messages templatisés et la réutilisation de contenu. Elle est précieuse lorsque le texte d’un document doit devenir un contenu d’e‑mail distribuable sans réécriture manuelle.
+
+Avec les API Python, la conversion de WordML en e‑mail peut être automatisée pour extraire le texte du corps, préserver la structure lorsque cela est pertinent et rationaliser les flux de travail document‑vers‑message pour les notifications, les campagnes et la communication opérationnelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Réutilisation de contenu**
+  Convertit le texte du document en contenu prêt pour l’e‑mail destiné aux cas d’utilisation de communication.
+
+* **Génération de modèles**
+  Utilise les documents WordML comme matière première pour des messages sortants cohérents.
+
+* **Messagerie opérationnelle**
+  Aide à transformer les documents internes ou générés en communications e‑mail structurées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines document‑vers‑message**
+  Convertit automatiquement les fichiers WordML en contenu e‑mail pour les systèmes sortants.
+
+* **Support des flux de travail de notification**
+  Permet la génération dynamique du corps des e‑mails à partir de sources de documents standardisées.
+
+* **Automatisation de la communication à haut volume**
+  Met à l’échelle la création de messages pour les rapports récurrents, les mises à jour ou les alertes générées à partir de documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

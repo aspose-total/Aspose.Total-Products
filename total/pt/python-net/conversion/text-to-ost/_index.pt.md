@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de texto para OST usando APIs Python refere-se à transformação de conteúdo de texto simples em dados adequados para fluxos de trabalho de armazenamento offline no estilo de caixa de correio. Isso é relevante em cenários que envolvem ambientes de comunicação sincronizados, preparação de arquivamento ou conjuntos de dados de mensagens gerados pelo sistema destinados ao acesso estruturado de caixas de correio.
+
+Em contextos de automação, essa conversão ajuda a preparar dados de comunicação derivados de texto para modelos de armazenamento organizados, suportando processamento em larga escala, continuidade operacional e integração com ecossistemas de mensagens gerenciados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Dados de Correio Offline**  
+  Converte conteúdo de texto em formas estruturadas adequadas para fluxos de trabalho de caixa de correio offline.
+
+* **Suporte ao Armazenamento de Mensagens**  
+  Ajuda a organizar dados de comunicação para sistemas projetados em torno do acesso sincronizado a caixas de correio.
+
+* **Estruturação de Dados de Arquivo**  
+  Suporta a preparação de registros derivados de texto para ambientes de armazenamento gerenciados.
+
+* **Gerenciamento de Comunicação Empresarial**  
+  Permite o processamento em larga escala de conteúdo de texto em formatos orientados a caixas de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Dados de Caixa de Correio**  
+  A automação pode estruturar dados de comunicação baseados em texto para fluxos de trabalho de acesso offline.
+
+* **Pipelines de Processamento em Massa**  
+  Conjuntos de dados de texto grandes podem ser preparados programaticamente para operações de armazenamento no estilo de caixa de correio.
+
+* **Sistemas de Continuidade Operacional**  
+  A conversão automatizada suporta o manuseio consistente de registros de comunicação em ambientes gerenciados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

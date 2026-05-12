@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to Images conversion turns Word pages into image files for preview, sharing, publishing, and visual archiving. This is useful when fixed-layout rendering, easy viewing, or image-based distribution is needed across web and mobile environments.
+
+Python APIs make DOC to Images conversion efficient for scalable rendering pipelines, thumbnail generation, document preview systems, and automated publishing workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **페이지 미리 보기 생성**
+  Convert document pages into images for quick previews in portals and apps.
+
+* **시각적 보관**
+  Preserve document appearance as static images for review and reference.
+
+* **웹 게시 지원**
+  Use image output when document content must be embedded visually online.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 생성 파이프라인**
+  Automatically render DOC files into page images for search and preview interfaces.
+
+* **콘텐츠 전달 워크플로**
+  Generate document images for websites, dashboards, or messaging systems.
+
+* **배치 렌더링 작업**
+  Programmatically convert large document collections into images at scale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

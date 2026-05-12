@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS から Word への変換により、フラットな OpenDocument スプレッドシートの内容を、コミュニケーション、レビュー、公開が容易な編集可能なワードプロセッシング文書に変換できます。これにより、組織は構造化データを、物語的なレポート、要約、正式な文書化により適した形式で提示できます。
+
+自動化ワークフローにおいて、FODS から Word への変換は、文書生成の効率化、運用効率、スケーラブルなコンテンツ変換を支援します。Python API を使用すると、チームは繰り返し作業を自動化し、変換をデータパイプラインに統合し、ビジネスプロセス全体で一貫した出力を提供できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **読みやすいビジネス文書**  
+  FODS データを Word 文書に変換し、解釈とコミュニケーションを容易にします。
+
+* **レポートと要約の作成**  
+  Word の出力を使用して、構造化されたスプレッドシート情報を正式な文章コンテンツに変換します。
+
+* **共同編集**  
+  ワードプロセッサでの編集やレビューを好むチームと変換された文書を共有します。
+
+* **ワークフローに適した配布**  
+  一般的なビジネス文書作成の慣行に合わせた文書出力を提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動データから文書への変換**  
+  Python API は、手動での書式設定作業なしに FODS ファイルを Word 文書に変換できます。
+
+* **定期レポートの自動化**  
+  スケジュールされたワークフローは、定期的に更新されるスプレッドシートソースから Word 出力を生成できます。
+
+* **大規模バッチ処理**  
+  大量の変換タスクをプログラムで処理し、運用効率を向上させることができます。
+
+* **統合されたエンタープライズ文書フロー**  
+  変換は、レポート、レビュー、配布のためのより広範なシステムに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

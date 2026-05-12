@@ -46,7 +46,39 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 RTF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 RTF 변환은 메일함 아카이브를 풍부한 텍스트 문서로 변환하여 편집 가능하고 널리 읽을 수 있는 형식으로 서식이 지정된 이메일 내용을 보존합니다. 이는 조직이 스타일 유지, 휴대성 및 문서 유연성 사이의 균형을 필요로 할 때 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **서식이 지정된 이메일 보존**
+  메시지를 RTF 파일로 변환하면서 읽기 쉬운 리치 텍스트 구조를 유지합니다.
+
+* **편집 가능한 문서 내보내기**
+  메일함 내용을 문서 워크플로에서 수정, 주석 달기 또는 재사용하기 쉽게 만듭니다.
+
+* **휴대 가능한 텍스트 공유**
+  변환된 이메일 콘텐츠를 교환하기 위해 널리 지원되는 형식을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 리치 텍스트 출력**
+  배치 기반 파이프라인에서 MBOX 파일을 RTF 문서로 변환합니다.
+
+* **콘텐츠 재사용 워크플로**
+  변환된 리치 텍스트 파일을 보고, 편집 또는 검토 프로세스에 공급합니다.
+
+* **프로그래밍 방식 서식 파이프라인**
+  Python을 사용하여 구조화된 이메일-문서 변환을 효율적으로 확장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

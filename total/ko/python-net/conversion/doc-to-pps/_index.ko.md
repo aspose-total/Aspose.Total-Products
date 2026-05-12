@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to PPS conversion changes Word content into slideshow files designed for presentation playback and delivery. It is helpful when document information must be presented directly in a view-ready format rather than as an editable working file.
+
+Python API automation for DOC to PPS conversion improves publishing speed, supports repeatable presentation workflows, and reduces manual slide preparation effort.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **뷰-레디 프레젠테이션 출력**
+  문서를 직접 프레젠테이션에 사용할 수 있도록 설계된 슬라이드쇼 파일로 변환합니다.
+
+* **회의 전달 준비**
+  문서에서 파생된 콘텐츠를 간단한 프레젠테이션 재생 시나리오에 맞게 준비합니다.
+
+* **콘텐츠 패키징**
+  열고 표시하기 쉬운 프레젠테이션 형식으로 정보를 배포합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **슬라이드쇼 게시 자동화**
+  DOC 보고서나 요약에서 PPS 파일을 자동으로 생성합니다.
+
+* **프레젠테이션 전달 파이프라인**
+  승인된 문서 콘텐츠를 재생 중심 슬라이드 출력으로 변환합니다.
+
+* **배치 출력 표준화**
+  대규모 문서 집합에서 일관된 슬라이드쇼 파일을 프로그래밍 방식으로 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

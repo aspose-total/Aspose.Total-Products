@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to OTT conversion transforms contact card data into open document templates that support repeatable and standardized content creation. This is valuable when contact information must be inserted into reusable layouts for consistent document generation.
+
+In automated workflows, VCF to OTT conversion allows Python APIs to build template-ready outputs that improve efficiency, reduce formatting effort, and support scalable document assembly processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di Modelli Aperti**  
+  Converti i record VCF in file OTT per strutture di documento riutilizzabili.
+
+* **Layout di Contatto Standardizzati**  
+  Prepara le informazioni di contatto in un formato modello ripetibile.
+
+* **Documentazione Pronta per i Processi**  
+  Supporta flussi di lavoro basati su modelli con compatibilità Open Document.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di Automazione dei Modelli**  
+  Genera modelli OTT dai dati di contatto in operazioni di massa.
+
+* **Assemblaggio Coerente dei Documenti**  
+  Usa i modelli convertiti nei flussi di lavoro che richiedono formattazione ripetibile.
+
+* **Elaborazione Scalabile in Formato Aperto**  
+  Applica le API Python per creare risorse modello riutilizzabili in modo efficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCM do ICS w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCM do formatu ICS przekształca zawartość dokumentu z włączonymi makrami w dane kompatybilne z kalendarzem, umożliwiając ponowne wykorzystanie harmonogramów, szczegółów wydarzeń lub treści opartych na datach w procesach planowania. Jest to szczególnie przydatne, gdy dokumenty zawierają ustrukturyzowane informacje o wydarzeniach, które wymagają szerszej dostępności.
+
+Z perspektywy automatyzacji konwersja DOCM do formatu ICS łączy opracowane harmonogramy z systemami kalendarzowymi, umożliwiając automatyczne generowanie wydarzeń, synchronizację oraz koordynację procesów opartych na czasie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja harmonogramu**  
+  Konwertuje zawartość dokumentu związaną z wydarzeniami na dane gotowe do użycia w kalendarzu w celach planistycznych.
+
+* **Publikowanie spotkań i terminów**  
+  Umożliwia dystrybucję harmonogramów określonych w dokumencie za pomocą ustandaryzowanych plików kalendarza.
+
+* **Planowanie wieloplatformowe**  
+  Wspiera przenośność informacji opartych na datach do kompatybilnych narzędzi kalendarzowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne tworzenie wydarzeń**  
+  Generuje pliki ICS z zawartości DOCM zawierającej szczegóły spotkań lub terminów.
+
+* **Procesy synchronizacji kalendarza**  
+  Wspiera automatyczny import harmonogramów pochodzących z dokumentu do systemów planowania.
+
+* **Powtarzalne grupowe planowanie**  
+  Konwertuje wiele dokumentów harmonogramowych na ustandaryzowane wyjścia kalendarzowe w dużej skali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 ODP로의 변환은 Word 템플릿 콘텐츠를 오픈 표준 슬라이드 워크플로를 위한 OpenDocument 프레젠테이션 형식으로 변환합니다. 문서 기반 자료를 검토, 커뮤니케이션 또는 출판을 위한 프레젠테이션 자산으로 변환해야 할 때 유용합니다.
+
+Python API를 사용하여, 이 변환은 템플릿에서 슬라이드 준비된 콘텐츠를 확장 가능하게 생성함으로써 자동화를 지원하고, 오픈 프레젠테이션 생태계와의 호환성을 유지합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 프레젠테이션 생성**
+  문서 콘텐츠를 오픈 표준에 기반한 슬라이드 파일로 변환합니다.
+
+* **콘텐츠 재활용**
+  템플릿 기반 자료를 프레젠테이션 및 브리핑 워크플로에서 재사용합니다.
+
+* **크로스 플랫폼 프레젠테이션 공유**
+  오픈 문서 형식을 선호하는 환경에서 슬라이드 전달을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드 생성**
+  반복적인 보고 워크플로에서 DOTX 파일을 ODP 프레젠테이션으로 변환합니다.
+
+* **템플릿-프레젠테이션 파이프라인**
+  재사용 가능한 문서 콘텐츠를 프로그래밍 방식으로 슬라이드 생성 프로세스에 공급합니다.
+
+* **오픈 포맷 출판**
+  표준 기반 배포 시스템에 맞는 프레젠테이션 자산을 제작합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

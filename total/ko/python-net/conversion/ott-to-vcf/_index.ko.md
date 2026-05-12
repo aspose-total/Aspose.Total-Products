@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 VCF로 변환하면 OpenDocument 텍스트 템플릿을 사람 및 조직 세부 정보를 공유하는 데 사용되는 연락처 카드 파일로 변환합니다. 템플릿 내용에 구조화된 연락처 정보가 포함되어 있어 이를 휴대 가능하고 가져오기 준비가 된 형태로 만들어야 할 때 유용합니다.
+
+이 변환은 문서에서 관리되는 연락처 세부 정보를 표준화된 교환 파일로 전환하여 자동화를 지원하고, 수동 입력을 줄이며 커뮤니케이션 및 디렉터리 워크플로우 전반에 걸친 동기화를 개선합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 파일 생성**  
+  구조화된 연락처 내용을 가져올 수 있는 카드 파일로 변환합니다.
+
+* **디렉터리 데이터 공유**  
+  시스템 간에 연락처 정보를 보다 쉽게 교환할 수 있게 합니다.
+
+* **템플릿 기반 연락처 관리**  
+  표준화된 연락처 출력을 위해 문서 템플릿을 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 내보내기**  
+  사람 또는 조직 데이터를 포함하는 OTT 템플릿에서 VCF 파일을 생성합니다.
+
+* **CRM 또는 디렉터리 통합**  
+  생성된 연락처 파일을 하위 정보 시스템에 전달합니다.
+
+* **대량 연락처 패키징**  
+  대규모 연락처 세트를 위한 표준화된 연락처 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

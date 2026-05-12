@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para TIFF usando APIs Python renderiza modelos de e‑mail do Outlook em arquivos de imagem de alta qualidade, adequados para fluxos de trabalho de arquivamento, digitalização e imagem de documentos. Isso é útil quando o conteúdo do modelo deve ser preservado em um formato estável, comumente usado em registros e sistemas de imagem.
+
+Ao automatizar a conversão de OFT para TIFF, as organizações podem apoiar a preservação confiável de documentos, o armazenamento estruturado de imagens e o processamento visual escalável. É especialmente eficaz em ambientes orientados à conformidade e arquivamento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preservação de Imagens de Arquivo**  
+  Converta modelos OFT em arquivos TIFF para armazenamento visual durável e de alta qualidade.
+
+* **Fluxos de Trabalho de Imagem de Documentos**  
+  Use as saídas TIFF em sistemas projetados para digitalização, gerenciamento de registros ou arquivamento baseado em imagens.
+
+* **Retenção Detalhada de Layout**  
+  Preserve a aparência dos modelos de e‑mail em um formato adequado ao manuseio profissional de imagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Conversão Automatizada de Registros**  
+  Transforme arquivos OFT em imagens TIFF para fluxos de trabalho de retenção e conformidade.
+
+* **Pipelines de Imagem de Alta Fidelidade**  
+  Direcione as saídas TIFF para sistemas de imagem corporativos para armazenamento e recuperação estruturados.
+
+* **Processamento Arquivístico Programático**  
+  Use APIs Python para gerar arquivos de imagem prontos para arquivamento a partir de bibliotecas de modelos em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

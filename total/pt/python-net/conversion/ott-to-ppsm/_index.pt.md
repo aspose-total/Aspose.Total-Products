@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para PPSM nas APIs Python transforma modelos de texto OpenDocument em arquivos de apresentação de slides com macros habilitadas para entrega direta de apresentações com suporte a comportamentos avançados. Isso é útil quando a saída pronta para exibição também precisa acomodar ações automatizadas de apresentação.
+
+A conversão melhora a automação ao combinar conteúdo de documento reutilizável com saída de slides com suporte a macros, apoiando fluxos de trabalho de entrega mais dinâmicos e processos de apresentação repetíveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Slides com Macros Habilitadas**  
+  Produz arquivos de apresentação que suportam comportamento automatizado avançado.
+
+* **Entrega Direta de Apresentação**  
+  Converte o conteúdo do modelo em ativos de slides prontos para lançamento.
+
+* **Saída Visual Reutilizável**  
+  Ajuda a padronizar apresentações geradas a partir de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Montagem Automatizada de Apresentação**  
+  Cria arquivos PPSM a partir de modelos de origem OTT recorrentes.
+
+* **Fluxos de Trabalho de Apresentação Scriptados**  
+  Suporta a saída de slides para ambientes que utilizam lógica de apresentação.
+
+* **Entrega Escalável de Eventos ou Briefings**  
+  Gera arquivos de apresentação dinâmicos para uso organizacional repetido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

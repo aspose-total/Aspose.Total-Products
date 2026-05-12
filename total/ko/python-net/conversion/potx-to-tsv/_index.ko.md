@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 POTX에서 TSV로의 변환은 PowerPoint 템플릿 콘텐츠를 구조화된 데이터 워크플로를 위한 탭 구분 값으로 변환할 수 있게 합니다. 프레젠테이션 자료를 데이터 교환 및 가져오기 프로세스에 적합한 단순한 구분자 기반 형식으로 추출해야 할 때 유용합니다.
+
+자동화 관점에서 POTX를 TSV로 변환하면 시각적 템플릿 콘텐츠를 기계가 읽을 수 있는 출력으로 효율적으로 변환할 수 있습니다. 배치 내보내기, 경량 통합 및 확장 가능한 처리 파이프라인에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구분된 데이터 추출**
+  프레젠테이션 템플릿 정보를 구조화된 처리를 위해 탭 구분 레코드로 변환합니다.
+
+* **시스템 가져오기 준비**
+  표 형식 텍스트 입력을 받는 도구를 위해 템플릿에서 파생된 콘텐츠를 준비하는 데 도움을 줍니다.
+
+* **경량 데이터 교환**
+  애플리케이션 간 구조화된 정보를 간단히 전송할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 데이터 내보내기 작업**
+  예약된 워크플로에서 POTX 파일을 TSV 출력으로 자동 변환합니다.
+
+* **파이프라인 친화적 변환**
+  검증 및 수집 시스템에 텍스트 기반 데이터를 간단히 전달할 수 있게 합니다.
+
+* **대규모 변환 작업**
+  프레젠테이션 콘텐츠를 대량으로 추출하여 탭 구분 파일로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

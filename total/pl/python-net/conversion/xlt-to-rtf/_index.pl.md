@@ -65,7 +65,47 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT to RTF conversion in Python makes it possible to transform Excel template files into rich text documents that are broadly compatible and easy to exchange across different document environments. This is useful when spreadsheet-based content needs to be converted into a lightweight text format that preserves basic formatting while remaining highly portable.
+
+For automation use cases, XLT to RTF conversion supports efficient document generation and broad interoperability. It helps Python-based systems turn structured spreadsheet templates into formatted text outputs that can be shared, archived, or processed by a variety of downstream applications.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie przenośnych sformatowanych dokumentów**  
+  Konwertuj szablony XLT do plików RTF, aby łatwo je udostępniać i zachować podstawowe formatowanie.
+
+* **Wymiana lekkich treści**  
+  Używaj wyjść RTF, gdy ważna jest kompatybilność w wielu narzędziach dokumentowych.
+
+* **Strukturalna transformacja informacji**  
+  Przekształcaj zawartość szablonów arkuszy kalkulacyjnych w czytelne dokumenty RTF do użytku operacyjnego.
+
+* **Wsparcie archiwizacji i przeglądu**  
+  Przygotuj sformatowane pliki tekstowe odpowiednie do przeglądu, przechowywania i wymiany dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowana normalizacja formatu**  
+  Używaj interfejsów API Pythona do konwersji plików XLT do RTF w celu standaryzowanego przetwarzania dalszego.
+
+* **Dostawa dokumentów między systemami**  
+  Generuj wyjścia RTF dla przepływów pracy, które przenoszą dokumenty pomiędzy różnymi środowiskami oprogramowania.
+
+* **Operacje konwersji wsadowej**  
+  Przetwarzaj wiele szablonów XLT do plików RTF bez ręcznej pracy nad formatowaniem.
+
+* **Potoki wymiany dokumentów**  
+  Zintegruj konwersję RTF w systemy automatyczne w celu przeglądu, eksportu lub obsługi archiwizacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

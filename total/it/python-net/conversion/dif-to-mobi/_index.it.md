@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DIF a MOBI in Python consente di trasformare contenuti DIF strutturati in un formato adatto agli ebook, idoneo per la lettura portatile e la distribuzione digitale. È utile quando i contenuti basati sui dati devono essere riutilizzati in risorse pubblicabili leggibili.
+
+Con le API Python, la conversione da DIF a MOBI può essere automatizzata per le pipeline di produzione di contenuti che generano manuali digitali, materiali di riferimento o pubblicazioni strutturate. Ciò migliora l'efficienza nella preparazione di output pronti per la lettura a partire dai dati di origine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione di Riferimenti Digitali**
+  Converti i dati DIF in file MOBI per un accesso portatile alle informazioni strutturate.
+
+* **Creazione di Ebook basati sui Dati**
+  Utilizza i contenuti DIF come fonte per generare documenti ebook tecnici o informativi.
+
+* **Distribuzione di Contenuti Offline**
+  Produci file MOBI per scenari in cui gli utenti necessitano di contenuti leggibili senza connettività costante.
+
+* **Consegna di Materiale Formativo**
+  Trasforma i file sorgente strutturati in formato ebook per contenuti educativi o di apprendimento interno.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Produzione Automatizzata di Ebook**
+  Genera file MOBI da dataset DIF nei flussi di lavoro di pubblicazione dei contenuti.
+
+* **Pipeline di Riutilizzo dei Contenuti**
+  Converti i dati di origine in formati di lettura digitale automaticamente per un riutilizzo più ampio.
+
+* **Generazione di Pubblicazioni in Massa**
+  Elabora numerosi file DIF in output MOBI in modo programmatico per grandi librerie di contenuti.
+
+* **Consegna di Contenuti Multicanale**
+  Integra la conversione nei sistemi che pubblicano lo stesso materiale sorgente in più formati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

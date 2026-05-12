@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en XLTX transforme le contenu Word en fichiers de modèles de feuilles de calcul modernes, permettant la création de classeurs réutilisables et la collecte de données standardisée. Elle est utile lorsque les structures de documents doivent devenir des plans de feuilles de calcul cohérents.
+
+L'utilisation des API Python pour la conversion DOC vers XLTX favorise une génération efficace de modèles, améliore la cohérence et aide à faire évoluer les processus métier centrés sur les feuilles de calcul.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles modernes**
+  Transformez les mises en page et les tableaux de documents en modèles de feuilles de calcul réutilisables.
+
+* **Collecte de données cohérente**
+  Utilisez la sortie XLTX pour standardiser la structure des classeurs au sein des équipes et des flux de travail.
+
+* **Réutilisation de documents**
+  Prolongez la valeur du contenu DOC existant en le convertissant en actifs de feuilles de calcul réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération massive de modèles**
+  Produisez automatiquement des fichiers XLTX à partir de documents DOC pour des bibliothèques de modèles.
+
+* **Pipelines de feuilles de calcul standardisés**
+  Convertissez le contenu structuré des documents en modèles de classeurs répétables.
+
+* **Automatisation de processus évolutive**
+  Prenez en charge de façon programmatique les flux de travail récurrents de feuilles de calcul grâce à une conversion basée sur des modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

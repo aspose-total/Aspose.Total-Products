@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion SXC vers MOBI convertit le contenu dérivé de feuilles de calcul en un format adapté aux livres électroniques, approprié pour la lecture numérique et la distribution portable. C’est utile lorsque des informations structurées provenant de feuilles de calcul doivent être reconditionnées sous forme de contenu long lisible pour des manuels, guides ou documents de référence.
+
+Dans les environnements automatisés, la conversion SXC vers MOBI avec les API Python permet de transformer les données sources en publications portables qui peuvent être générées, mises à jour et distribuées efficacement à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de guides numériques**  
+  Convertit les informations de la feuille de calcul en un format mieux adapté à la diffusion sous forme de manuel ou de guide.
+
+* **Distribution de contenu portable**  
+  Facilite la publication d'informations structurées pour des expériences de lecture hors ligne ou adaptées aux appareils.
+
+* **Conditionnement de documents de référence**  
+  Prend en charge la transformation de contenu tabulaire en documentation lisible pour les utilisateurs finaux.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Publication automatisée d'eBooks**  
+  Utilise les API Python pour créer des sorties MOBI à partir de sources SXC dans des flux de travail de contenu récurrents.
+
+* **Pipelines de diffusion de connaissances**  
+  Permet aux données structurées de feuilles de calcul d'être transformées automatiquement en formats de lecture portables.
+
+* **Mises à jour dynamiques de publications**  
+  Simplifie la régénération du contenu numérique chaque fois que les données sources de la feuille de calcul changent.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

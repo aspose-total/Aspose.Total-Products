@@ -53,7 +53,41 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para Imagens renderiza o conteúdo do documento em formatos de imagem para visualização, compartilhamento, publicação e arquivamento visual. É útil quando as páginas do documento precisam ser exibidas de forma consistente em diferentes plataformas sem exigir software de edição de documentos.
+
+APIs Python simplificam a conversão de WordML para Imagens ao renderizar páginas programaticamente, permitindo a geração em larga escala de miniaturas, pré‑visualizações de páginas e fluxos de trabalho de distribuição visual de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Pré‑visualização de Documentos**
+  Converte páginas WordML em imagens para visualização rápida e indexação.
+
+* **Compartilhamento Visual**
+  Facilita a distribuição do conteúdo do documento em canais e interfaces compatíveis com imagens.
+
+* **Apresentação Imutável**
+  Preserva a aparência das páginas para revisão, publicação ou fins de referência.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Criação de Miniaturas**
+  Gera automaticamente imagens de pré‑visualização a partir de lotes de documentos WordML.
+
+* **Suporte ao Fluxo de Trabalho de Publicação**
+  Converte páginas em imagens para sites, sistemas de conhecimento ou ferramentas de revisão.
+
+* **Visualização de Arquivo**
+  Permite acesso baseado em imagens a documentos armazenados sem abrir o formato de arquivo original.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から Word への変換は、Outlook のメールテンプレートを編集可能なワードプロセッシング文書に変換し、幅広いビジネスで活用できます。メール内容をレポート、フォーム、または編集や共同作業が必要な社内文書に再利用する必要がある場合に有用です。
+
+自動化されたワークフローにおいて、OFT から Word への変換はコミュニケーションテンプレートと文書中心のシステムをつなぎ、再利用性・一貫性・プロセス効率を向上させます。運用環境全体でスケーラブルなコンテンツ変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ビジネス文書の再利用**  
+  OFT テンプレートを Word 文書に変換し、編集、レビュー、配布が可能です。
+
+* **共同コンテンツの改善**  
+  チームがメール由来のコンテンツを慣れ親しんだ文書環境で修正できるようにします。
+
+* **標準オフィスワークフローのサポート**  
+  テンプレートのコンテンツを一般的な文書プロセスに組み込む必要がある場合に、Word 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量文書変換**  
+  OFT ファイルを自動的に Word 文書に変換し、下流の処理を整理します。
+
+* **レビュー ワークフロー統合**  
+  変換されたファイルを手動の準備なしで共同編集・承認システムに送ります。
+
+* **動的コンテンツの再利用**  
+  テンプレートコンテンツをプログラムで変換し、自動化パイプライン全体で再利用可能なビジネス文書にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 PST를 MD로 변환 기
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 PST를 MD로 변환하면 메일함 콘텐츠를 Markdown으로 변환하여 보관된 커뮤니케이션을 텍스트 우선 워크플로우에서 구조화하고, 게시하고, 재사용하기가 쉬워집니다. 이메일 기록을 문서화 또는 지식 공유를 위한 가볍고 읽기 쉬운 콘텐츠로 변환해야 할 때 유용합니다.
+
+자동화 시나리오에서 PST를 MD로 변환하면 콘텐츠 파이프라인, 개발자 친화적인 저장소 및 정적 게시 시스템을 지원합니다. 메일함 데이터를 버전 관리, 변환 및 최신 콘텐츠 운영에 통합하기가 쉬워집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **경량 콘텐츠 내보내기**
+  PST 콘텐츠를 Markdown으로 변환하여 읽기 쉽고 휴대 가능한 텍스트 워크플로우를 제공합니다.
+
+* **지식 베이스 준비**
+  이메일에서 파생된 자료를 구조화된 문서로 재활용하는 데 도움이 됩니다.
+
+* **버전 친화적 아카이빙**
+  변경 사항 추적에 적합한 텍스트 형식으로 메일함 콘텐츠를 저장하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정적 콘텐츠 파이프라인**
+  자동화 시스템이 메일함 데이터를 Markdown으로 변환하여 게시 또는 인덱싱에 활용할 수 있습니다.
+
+* **저장소 기반 문서화**
+  변환된 콘텐츠가 협업 및 재사용을 위한 텍스트 중심 환경으로 흐를 수 있습니다.
+
+* **프로그래밍 방식 콘텐츠 변환**
+  Markdown 출력은 보관된 이메일을 처리하고, 템플릿화하며, 배포하기를 더 쉽게 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

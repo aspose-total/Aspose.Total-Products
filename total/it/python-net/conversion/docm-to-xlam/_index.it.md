@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a XLAM trasforma i documenti abilitati alle macro in output di foglio di calcolo in stile add‑in, progettati per supportare funzionalità di foglio di calcolo riutilizzabili. È utile quando la logica basata su documenti o i contenuti strutturati devono contribuire a flussi di lavoro di foglio di calcolo estensibili.
+
+Nei sistemi automatizzati, la conversione da DOCM a XLAM aiuta a confezionare capacità riutilizzabili, standardizzare funzioni avanzate del foglio di calcolo e collegare i processi basati su documenti con ambienti di cartelle di lavoro estensibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estensioni di foglio di calcolo riutilizzabili**  
+  Supporta la creazione di output in stile add‑in a partire da logica basata su documenti o contenuti strutturati.
+
+* **Standardizzazione del flusso di lavoro**  
+  Aiuta a centralizzare il comportamento riutilizzabile del foglio di calcolo attraverso operazioni ripetute.
+
+* **Abilitazione avanzata del foglio di calcolo**  
+  Collega i contenuti del documento creati con casi d'uso di foglio di calcolo più estensibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Preparazione automatizzata di add‑in**  
+  Converte le sorgenti DOCM in output compatibili XLAM per flussi di lavoro di foglio di calcolo standardizzati.
+
+* **Distribuzione di logica riutilizzabile**  
+  Supporta la distribuzione scalabile di capacità di foglio di calcolo ripetute tra i team.
+
+* **Integrazione programmatica del foglio di calcolo**  
+  Collega la conversione dei documenti con processi di automazione avanzati basati su cartelle di lavoro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

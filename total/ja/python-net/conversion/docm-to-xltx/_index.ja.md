@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から XLTX への変換は、マクロ対応ドキュメントを最新のスプレッドシートテンプレートに変換し、標準化されたスプレッドシートワークフローで構造化されたワークブックレイアウトを再利用しやすくします。文書由来のコンテンツに基づく、クリーンで繰り返し可能なテンプレートが必要な組織に役立ちます。
+
+自動化主導の環境では、DOCM から XLTX への変換は、効率的なワークブックのプロビジョニング、集中型テンプレート管理、そして文書を最新のスプレッドシート資産へスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **最新のスプレッドシートテンプレート出力**
+  文書の内容を再利用可能なワークブックテンプレートに変換し、一貫した運用を実現します。
+
+* **テンプレートの標準化**
+  繰り返しのプロセス全体で統一されたスプレッドシート構造の維持を支援します。
+
+* **再利用可能なデータレイアウト**
+  文書の表やパターンをワークブック用テンプレート設計に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート作成**
+  DOCM ソースから XLTX ファイルを生成し、繰り返し可能なスプレッドシートワークフローを実現します。
+
+* **集中型ワークブック管理**
+  チーム間で標準化されたテンプレートをスケーラブルに配布することを支援します。
+
+* **動的スプレッドシートプロビジョニング**
+  システムが更新されたデータで再利用可能なワークブックテンプレートをプログラム的に入力できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

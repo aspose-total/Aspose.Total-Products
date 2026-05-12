@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLS para DOT permite que os dados de planilhas sejam transformados em arquivos de modelo do Word que podem servir como bases reutilizáveis para a geração futura de documentos. Isso é útil quando o conteúdo da planilha deve informar uma estrutura de documento repetível em vez de uma saída única.
+
+As APIs Python tornam a conversão de XLS para DOT eficiente para automação, permitindo que os sistemas gerem ativos prontos para modelo de forma programática e consistente entre departamentos ou fluxos de trabalho.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo**
+  Converta o conteúdo da planilha em arquivos DOT que definem layouts reutilizáveis para documentos futuros.
+
+* **Design de Documento Padronizado**
+  Use os dados de XLS para moldar modelos estruturados para necessidades recorrentes de documentos.
+
+* **Estruturas de Conteúdo Reutilizáveis**
+  Construa fluxos de trabalho baseados em modelos a partir de material fonte impulsionado por planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelos**
+  Crie modelos DOT a partir de entradas de planilha sem trabalho de design manual.
+
+* **Fluxos de Trabalho de Fábrica de Documentos**
+  Use as APIs Python para alimentar dados estruturados de planilhas em pipelines reutilizáveis de modelos de documentos.
+
+* **Preparação de Saída Padronizada**
+  Gere ativos de modelo dinamicamente para equipes que dependem da criação uniforme de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

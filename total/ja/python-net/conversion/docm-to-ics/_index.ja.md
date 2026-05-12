@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から ICS への変換は、マクロ対応の文書コンテンツをカレンダー互換データに変換し、スケジュールやイベントの詳細、日付駆動のコンテンツを計画ワークフローで再利用できるようにします。特に、文書に構造化されたイベント情報が含まれ、より広いアクセシビリティが必要な場合に役立ちます。
+
+自動化の観点から、DOCM から ICS への変換は、作成されたスケジュールとカレンダーシステムを接続し、自動イベント生成、同期、時間ベースのワークフロー調整を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スケジュール抽出**
+  イベント関連の文書コンテンツを計画で使用できるカレンダー対応データに変換します。
+
+* **会議および期限の公開**
+  文書で定義されたタイムラインを標準化されたカレンダー ファイルを通じて配布するのに役立ちます。
+
+* **クロスプラットフォームスケジューリング**
+  日付ベースの情報を互換性のあるカレンダー ツールへ移植することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動イベント作成**
+  会議や期限の詳細を含む DOCM コンテンツから ICS ファイルを生成します。
+
+* **カレンダー同期ワークフロー**
+  文書由来のスケジュールを計画システムへ自動的にインポートすることをサポートします。
+
+* **定期バッチスケジューリング**
+  複数のスケジューリング文書を大規模に標準化されたカレンダー出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

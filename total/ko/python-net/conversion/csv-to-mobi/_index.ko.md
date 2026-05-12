@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 CSV에서 MOBI로의 변환은 구조화된 표형 데이터를 휴대용 읽기와 전자 출판 워크플로에 적합한 디지털 전자책 파일로 변환할 수 있게 합니다.  
+이 변환은 원시 데이터를 배포 준비가 된 콘텐츠로 변환함으로써 자동화를 지원하며, 해당 콘텐츠는 디지털 콘텐츠 시스템 전반에 걸쳐 게시, 재사용 및 확장이 가능합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **전자책 콘텐츠 출판**  
+  CSV 데이터를 MOBI 파일로 변환하여 휴대용 읽기, 구조화된 참고 콘텐츠 및 디지털 배포에 활용합니다.
+
+* **데이터 기반 디지털 출판**  
+  표형 데이터셋을 가이드, 카탈로그 또는 구조화된 정보 제품을 위한 읽기 쉬운 전자책 형식 출력으로 변환합니다.
+
+* **휴대용 콘텐츠 전달**  
+  콘텐츠를 컴팩트하고 독자 친화적인 출판 형식으로 패키징해야 할 때 MOBI 파일을 생성합니다.
+
+* **확장 가능한 정보 패키징**  
+  CSV 소스를 사용하여 반복되거나 구조화된 데이터셋으로부터 일관된 디지털 출판물을 구축합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 전자책 생성**  
+  Python API를 사용하여 CSV 입력을 MOBI 파일로 변환하고 반복 가능한 출판 워크플로에 활용합니다.
+
+* **출판 파이프라인 통합**  
+  구조화된 콘텐츠를 디지털 리더용으로 자동 패키징하는 시스템에 CSV에서 MOBI로의 변환을 통합합니다.
+
+* **대량 디지털 내보내기**  
+  대량의 CSV 데이터를 처리하여 카탈로그 출판 또는 콘텐츠 배포를 위한 MOBI 출력으로 변환합니다.
+
+* **동적 출판 조립**  
+  변화하는 CSV 데이터셋으로부터 프로그래밍 방식으로 MOBI 파일을 구축하여 확장 가능한 콘텐츠 제작을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

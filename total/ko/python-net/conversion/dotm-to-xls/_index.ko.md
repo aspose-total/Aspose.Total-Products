@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM에서 XLS로의 변환은 매크로가 포함된 Word 템플릿을 구조화된 데이터 분석 및 레거시 스프레드시트 호환성을 위한 클래식 Excel 스프레드시트 파일로 변환합니다. 문서에서 파생된 정보를 오래된 스프레드시트 환경에서 재사용해야 할 때 유용합니다.
+
+DOTM에서 XLS로 변환하기 위해 Python API를 사용하면 템플릿에서 내용을 추출하여 스프레드시트 파일로 자동화할 수 있어 수동 복사를 없앨 수 있습니다. 이는 확장 가능한 보고, 데이터 마이그레이션 및 호환성 중심 비즈니스 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 내보내기**
+  레거시 Excel 형식에 여전히 의존하는 워크플로를 위해 DOTM 콘텐츠를 XLS로 변환합니다.
+
+* **구조화된 테이블 변환**
+  문서 테이블 및 반복 값을 분석을 위해 스프레드시트 형태로 이동합니다.
+
+* **호환성 중심 데이터 공유**
+  클래식 스프레드시트 파일을 요구하는 시스템과 문서에서 파생된 데이터 교환을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 레거시 워크북 생성**
+  워크플로는 기존 시스템과의 호환성을 위해 DOTM 템플릿에서 XLS 파일을 생성할 수 있습니다.
+
+* **보고 파이프라인 지원**
+  이 변환은 구조화된 문서 데이터를 스프레드시트로 자동 이동시켜 검토를 돕습니다.
+
+* **배치 문서-워크북 처리**
+  프로그래밍 작업은 DOTM 파일을 XLS 출력으로 대규모 변환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

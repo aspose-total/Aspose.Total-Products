@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione OST in MD converte i dati della casella di posta in formato Markdown, creando contenuti testuali leggeri, leggibili e portabili, adatti alla documentazione e ai flussi di lavoro della conoscenza. È preziosa per i team che desiderano contenuti derivati dalle email in un formato di testo semplice strutturato che funziona bene su tutte le piattaforme.
+
+I vantaggi dell'automazione sono notevoli perché la conversione OST in MD si integra naturalmente nei pipeline di contenuto, nei flussi di lavoro degli sviluppatori e nei sistemi di documentazione. Le API Python consentono una trasformazione rapida e scalabile degli archivi di posta in file Markdown per indicizzazione, pubblicazione e riutilizzo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Documentazione Leggera**  
+  Converte il contenuto delle email in Markdown per registri testuali semplici e strutturati.
+
+* **Preparazione della Base di Conoscenza**  
+  Aiuta a riutilizzare informazioni importanti della casella di posta nei sistemi di documentazione interna.
+
+* **Esportazione di Contenuti per Sviluppatori**  
+  Supporta i flussi di lavoro in cui sono preferiti formati di testo portabili.
+
+* **Record Controllati da Versione**  
+  Rende più facile tracciare e gestire i contenuti derivati dalle email in ambienti orientati al testo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Automazione del Pipeline di Documentazione**  
+  Script Python convertono i contenuti OST in Markdown per flussi di lavoro di pubblicazione e indicizzazione.
+
+* **Flussi di Lavoro di Estrazione dei Contenuti**  
+  Sistemi automatizzati preparano il testo della casella di posta per repository ricercabili e note strutturate.
+
+* **Generazione di Archivi Portabili**  
+  La conversione programmatica crea risorse testuali riutilizzabili dai dati email archiviati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

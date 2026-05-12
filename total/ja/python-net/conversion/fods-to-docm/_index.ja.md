@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS to DOCM 変換は、フラットな OpenDocument スプレッドシート ファイルをマクロ対応の Word ドキュメントに変換し、編集可能なコンテンツと高度なドキュメント動作を組み合わせたワークフローに役立ちます。この変換は、スプレッドシートベースのソース データを動的またはプログラム可能な要素を持つ構造化ドキュメントに組み込む必要がある環境をサポートします。
+
+自動化の観点から、FODS から DOCM への変換は、データ変換とマクロ対応処理を組み合わせたインテリジェントなドキュメント ワークフローの構築に役立ちます。Python API を使用すると、大規模な変換の自動化、ドキュメント生成とエンタープライズ システムの接続、繰り返し可能なコンテンツ配信プロセスのサポートが容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応レポート**  
+  スプレッドシート データを DOCM ドキュメントに変換し、高度なドキュメント自動化ロジックをサポートできるようにします。
+
+* **プロセス ドキュメンテーション**  
+  構造化された FODS コンテンツを、ガイド付きワークフローや手順コンテンツに適した編集可能なファイルに変換します。
+
+* **テンプレートベースの出力**  
+  変換されたデータを組み込みの自動化機能を持つドキュメントテンプレートに合わせる必要がある場合に DOCM ファイルを使用します。
+
+* **運用ドキュメント配布**  
+  データ駆動型ドキュメントを、制御された編集と内部プロセス処理に適した形式で提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ドキュメント組み立て**  
+  Python API は、ドキュメント作成パイプラインの一部として FODS ファイルを DOCM 出力に変換できます。
+
+* **ルール駆動ワークフローサポート**  
+  自動化システムは、拡張ドキュメント操作が必要な環境向けにマクロ対応ドキュメントを準備できます。
+
+* **エンタープライズ運用向け一括変換**  
+  多数の FODS ファイルを、一貫性とスケールのためにプログラムで DOCM 形式に変換できます。
+
+* **動的出力の準備**  
+  変換ワークフローは、さらなる自動編集や構造化処理のために準備された DOCM ドキュメントを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

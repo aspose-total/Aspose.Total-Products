@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から JPEG への変換は、メールボックスの内容を広くサポートされている圧縮画像ファイルに変換し、メールメッセージを多数のプラットフォームで簡単に保存、共有、プレビューできるようにします。これは、互換性と扱いやすいファイルサイズが重要な軽量なビジュアルエクスポートに特に有用です。
+
+Python API を使用することで、チームは MBOX から JPEG への変換を自動化し、大規模なメールボックス処理を加速させ、手動のレンダリング作業を削減し、ポータブルな画像ベースのアーカイブをサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ポータブルメール画像**
+  メッセージを JPEG ファイルとしてエクスポートし、デバイスやシステム間で広範な互換性を実現します。
+
+* **ストレージ効率の高いビジュアル記録**
+  実用的な配布のために、圧縮画像形式でメールの外観を保持します。
+
+* **クイックプレビュー資産**
+  ダッシュボード、レポート、またはレビューインターフェース用にメールボックスのビジュアルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量 JPEG レンダリング**
+  MBOX の内容を自動的に JPEG 画像に変換し、迅速なビジュアルアクセスを実現します。
+
+* **レポートおよび共有パイプライン**
+  レンダリングされたメール画像を運用およびプレゼンテーションのワークフローに統合します。
+
+* **プログラムによるアーカイブエクスポート**
+  Python スクリプトを使用して、大規模なメールアーカイブからストレージに優しい画像出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

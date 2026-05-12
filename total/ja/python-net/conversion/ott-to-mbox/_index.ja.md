@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API の OTT から MBOX への変換は、OpenDocument テキストテンプレートをメール形式メッセージのコレクションを保存するための mailbox アーカイブ形式に変換します。生成されたコミュニケーションをグループ化、転送、または mailbox 互換の構造で保持する必要がある場合に便利です。
+
+この変換は、ドキュメントベースのメッセージ生成を直接 mailbox スタイルのストレージに依存するアーカイブおよび移行パイプラインに流すことで、スケールと組織化を実現し、自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **メールボックスアーカイブの準備**  
+  グループ化されたメール保存に適したメッセージコンテンツを生成します。
+
+* **コミュニケーションの記録保持**  
+  生成されたコンテンツをポータブルな mailbox 形式で保持します。
+
+* **大量メッセージのパッケージ化**  
+  転送または取り込みのために複数の生成メッセージを整理するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メールアーカイブ生成**  
+  テンプレート駆動のコミュニケーションを MBOX コンテナに変換します。
+
+* **移行ワークフローのサポート**  
+  ドキュメント由来のメッセージを mailbox インポートプロセス用に準備します。
+
+* **バッチ保持パイプライン**  
+  コンプライアンスや監査用途のために定期的に生成されるメッセージを保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

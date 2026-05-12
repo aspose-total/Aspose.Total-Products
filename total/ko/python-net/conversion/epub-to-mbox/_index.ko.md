@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 EPUB를 MBOX로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 EPUB을 MBOX로 변환하면 디지털 출판물 콘텐츠를 메시지 컬렉션을 저장하는 데 사용되는 메일박스 스타일 아카이브 형식으로 변환할 수 있습니다. 이는 조직이 변환된 콘텐츠를 보관, 마이그레이션 또는 커뮤니케이션 중심 저장 워크플로우를 위해 그룹화해야 할 때 유용합니다.
+
+자동화 기반 작업을 위해 EPUB을 MBOX로 변환하면 여러 콘텐츠 항목을 구조화된 메일 아카이브로 패키징하는 효율적인 방법을 제공하여, Python 애플리케이션이 확장 가능한 문서 보존 및 전송 프로세스에 더 효과적으로 활용될 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일박스 아카이브 생성**  
+  EPUB 콘텐츠를 MBOX 형식으로 변환하여 메일 아카이브 시스템 및 저장소에 저장합니다.
+
+* **대량 콘텐츠 패키징**  
+  출판물에서 파생된 콘텐츠를 통합된 아카이브 구조로 그룹화하여 관리가 용이하도록 합니다.
+
+* **마이그레이션 지원**  
+  메일박스 스타일 아카이브 데이터를 수용하는 시스템으로 콘텐츠를 이동할 때 MBOX 출력을 사용합니다.
+
+* **보존 워크플로우 활성화**  
+  감사 또는 참조 목적을 위해 아카이브 친화적인 메시지 컬렉션에 변환된 출판물 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **아카이브 생성 파이프라인**  
+  Python 애플리케이션은 인제스트 워크플로우 중에 EPUB 소스에서 자동으로 MBOX 파일을 생성할 수 있습니다.
+
+* **배치 변환 프로세스**  
+  자동화된 작업은 많은 EPUB 문서를 일관된 형식의 메일박스 아카이브로 변환할 수 있습니다.
+
+* **저장소 동기화**  
+  변환은 문서 저장소와 아카이브 플랫폼 간의 콘텐츠 동기화 과정의 일부로 트리거될 수 있습니다.
+
+* **확장 가능한 보존 작업**  
+  프로그래밍 방식 처리는 반복적인 수동 개입 없이 대용량 아카이브 작업을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

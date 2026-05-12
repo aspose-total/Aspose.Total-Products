@@ -65,7 +65,41 @@ Es principalmente en dos pasos. En primer lugar, use la API [Aspose.Words for Py
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de documentos a TSV transforma el contenido de Word en valores separados por tabulaciones, un formato estructurado simple ideal para el intercambio limpio de datos basados en texto y flujos de trabajo de importación. Es útil cuando las tablas de documentos o campos repetidos requieren una salida estructurada ligera.
+
+Las API de Python ayudan a automatizar la conversión de DOC a TSV para extracción escalable, preparación de datos y tareas de integración donde se prefieren formatos tabulares de texto plano.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Exportación de Datos Ligera**
+  Convertir tablas de documentos a TSV para un intercambio estructurado simple.
+
+* **Salida Amigable para Importación**
+  Preparar datos derivados de Word para herramientas y sistemas que aceptan texto delimitado.
+
+* **Flujos de Trabajo de Limpieza de Datos**
+  Utilizar la salida TSV para preprocesamiento, validación e ingestión en pipelines.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Extracción de Datos de Alto Volumen**
+  Convertir automáticamente archivos DOC a TSV para procesamiento posterior.
+
+* **Exportaciones de Texto Listas para Pipelines**
+  Generar archivos delimitados a partir de documentos como parte de flujos ETL o de importación.
+
+* **Trabajos de Transformación Programados**
+  Estandarizar programáticamente registros basados en documentos a TSV de forma recurrente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

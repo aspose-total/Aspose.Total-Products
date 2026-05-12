@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCX a Email trasforma il contenuto dei documenti in un formato pronto per l'email che può essere incorporato nei messaggi di posta elettronica o nei sistemi di comunicazione basati su email. Questo processo consente di integrare testo, formattazione e informazioni strutturate dai file DOCX nei flussi di lavoro delle email.
+
+Utilizzando le API Python, la conversione da DOCX a Email può essere automatizzata all'interno di piattaforme di comunicazione, sistemi di distribuzione di documenti e servizi di notifica automatizzati. Ciò consente la consegna dinamica dei documenti tramite canali email senza formattazione o copia manuale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di Email basata su Documenti**  
+  Converte i documenti DOCX in contenuti adatti per messaggi email automatizzati.
+
+* **Distribuzione automatizzata di report**  
+  Consente la distribuzione di report creati in formato DOCX attraverso i flussi di lavoro email.
+
+* **Creazione di Email basata su modelli**  
+  Permette la conversione dei modelli di documento in contenuti email formattati.
+
+* **Riutilizzo del contenuto nei sistemi di comunicazione**  
+  Facilita il riutilizzo del contenuto dei documenti nei flussi di comunicazione email automatizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Sistemi di notifica email automatizzati**  
+  I file DOCX possono essere convertiti automaticamente in contenuti email e inviati ai destinatari in modo programmatico.
+
+* **Automazione del flusso di lavoro Document-to-Email**  
+  Le pipeline di automazione Python possono trasformare i documenti generati in formati pronti per l'email.
+
+* **Piattaforme di consegna dinamica dei contenuti**  
+  I sistemi possono convertire i documenti DOCX in messaggi email per processi di comunicazione automatizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

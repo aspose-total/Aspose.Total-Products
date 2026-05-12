@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から OTT への変換は、スプレッドシートテンプレートのコンテンツを再利用可能な文書作成のためのオープンドキュメントテキストテンプレート形式に変換します。構造化されたスプレッドシートテンプレートを、オープンで相互運用可能な環境で繰り返し文書を生成できる標準化されたテキストテンプレートにする必要がある場合に重要です。
+
+自動化シナリオにおいて、XLTX から OTT への変換は、スケーラブルなテンプレートエコシステムの構築を支援し、再利用可能な文書基盤の生成、整合性の維持、オープンフォーマットのワークフロー統合を容易にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンテキストテンプレート作成**  
+  XLTX ファイルを再利用可能な OTT テンプレートに変換し、文書の繰り返し生成を実現します。
+
+* **相互運用可能なテンプレートワークフロー**  
+  テンプレートベースの文書プロセスにオープン標準が必要な組織を支援します。
+
+* **一貫した文書基盤**  
+  スプレッドシート駆動のソースから標準化されたテンプレート構造の確立を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**  
+  システムはスプレッドシートテンプレートから OTT テンプレートを生成し、継続的な文書ワークフローを実現します。
+
+* **再利用可能なオープンフォーマットパイプライン**  
+  このトピックは、繰り返し使用を前提としたテンプレートのスケーラブルな作成を支援します。
+
+* **プログラムによるテンプレート標準化**  
+  動的変換により、大規模な文書セット全体で一貫したテンプレート出力が保証されます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

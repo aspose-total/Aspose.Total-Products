@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para XLT transforma o conteúdo de documentos estruturados em arquivos de modelo de planilha que servem como pontos de partida reutilizáveis para pastas de trabalho. Isso é útil quando layouts de dados orientados por documentos ou relatórios recorrentes precisam de modelos de planilha padronizados.
+
+APIs Python suportam a conversão de WordML para XLT automatizando a criação de modelos e permitindo a geração repetível de planilhas a partir de documentos fonte estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo de Pasta de Trabalho**
+  Converte o conteúdo WordML em arquivos XLT para estruturas de planilha reutilizáveis.
+
+* **Padronização de Relatórios Recorrentes**
+  Ajuda a definir layouts consistentes de pastas de trabalho com base em padrões de documentos.
+
+* **Consistência de Processos**
+  Suporta a autoria repetível de planilhas a partir de conteúdo fonte aprovado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Fluxos de Trabalho de Geração de Modelos**
+  Automatiza a criação de XLT a partir de relatórios WordML, formulários ou tabelas estruturadas.
+
+* **Padronização da Produção de Planilhas**
+  Suporta equipes que criam pastas de trabalho recorrentes a partir de modelos comuns.
+
+* **Automação de Layout Orientada por Documentos**
+  Converte o conteúdo de documentos estruturados em bases reutilizáveis de planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

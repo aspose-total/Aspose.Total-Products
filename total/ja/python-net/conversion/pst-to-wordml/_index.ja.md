@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST から WordML への変換は Python API でメールボックスのコンテンツを XML ベースの Word 表現に変換し、構造化処理と文書の相互運用性をサポートします。メール由来のコンテンツを変換や統合のためにマークアップ指向の形式で保持する必要がある技術的ワークフローで有用です。
+
+自動化のために、PST から WordML への変換はメールボックスアーカイブを XML 主導の文書システムやルールベースの処理パイプラインと接続するのに役立ちます。構造化された文書コンテンツのスケーラブルな操作、検査、交換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **XML ドキュメント表現**
+  PST のコンテンツを WordML に変換し、構造化文書の取り扱いを可能にします。
+
+* **相互運用可能なコンテンツ交換**
+  メールボックス由来のファイルをマークアップベースのシステムやワークフローへ移行するのに役立ちます。
+
+* **検査可能な文書構造**
+  読みやすい文書マークアップの恩恵を受ける技術プロセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML ワークフロー統合**
+  自動化システムは検証や変換タスクのために WordML 出力を処理できます。
+
+* **構造化文書パイプライン**
+  変換されたメールボックスデータはマークアップ中心のエンタープライズプロセスへ流入できます。
+
+* **プログラムによるコンテンツ操作**
+  WordML はコードを通じてメール由来文書のスケーラブルな変換を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM a MBOX convierte documentos con macros habilitadas en una salida de almacenamiento estilo buzón, facilitando agrupar, archivar o migrar comunicaciones basadas en documentos en sistemas orientados al correo. Esto es valioso cuando el contenido del documento debe preservarse dentro de repositorios de mensajes agrupados.
+
+Para automatización y escala, los flujos de trabajo DOCM a MBOX admiten archivado por lotes, empaquetado de comunicaciones y transferencia de contenido derivado de documentos a sistemas de retención centrados en buzones.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Archivado de Buzón**
+  Preserva el contenido derivado de documentos dentro de archivos contenedores de buzón para almacenamiento a largo plazo.
+
+* **Empaquetado de Colección de Mensajes**
+  Soporta la agrupación de comunicaciones convertidas relacionadas en un archivo consolidado.
+
+* **Soporte de Migración**
+  Ayuda a mover el contenido de comunicaciones basadas en documentos a entornos de archivo de correo electrónico.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Generación Automática de Archivo**
+  Convierte archivos DOCM en salidas MBOX para flujos de trabajo de retención programados.
+
+* **Preparación Masiva de Repositorios de Correo**
+  Empaqueta el contenido derivado de documentos en archivos de buzón a gran escala.
+
+* **Canales de Almacenamiento Programáticos**
+  Integra la conversión de documentos con sistemas de archivado y cumplimiento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

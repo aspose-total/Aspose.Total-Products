@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Word en XLS à l'aide des API Python permet de transformer le contenu de traitement de texte en fichiers de tableur classiques, utilisables pour des données structurées dans des environnements de tableurs hérités. Cela est précieux lorsque les informations provenant de documents doivent être organisées en feuilles de calcul pour l'analyse, le reporting ou le suivi opérationnel.
+
+Du point de vue de l'automatisation, cette conversion prend en charge des flux de travail axés sur la compatibilité en transformant le contenu issu de documents en actifs de tableur qui restent utilisables sur les systèmes plus anciens.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Export de tableur hérité**
+  Convertit le contenu Word en XLS pour des flux de travail traditionnels basés sur des feuilles de calcul.
+
+* **Structuration des données opérationnelles**
+  Réorganise les informations des documents en feuilles pour un suivi et une analyse plus faciles.
+
+* **Préservation de la compatibilité**
+  Prend en charge les environnements où les formats de tableur classiques sont encore nécessaires.
+
+* **Support des flux de travail de reporting**
+  Facilite la gestion des données dérivées de documents dans les outils de tableur établis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération XLS par lots**
+  Convertit automatiquement les fichiers Word en tableurs classiques pour des opérations continues.
+
+* **Pipelines d'intégration hérités**
+  Alimente les systèmes d'entreprise plus anciens avec les données de feuilles de calcul dérivées de documents.
+
+* **Flux de travail de conversion d'archives**
+  Préserve les sorties structurées sous forme de tableur pour une récupération et une révision ultérieures.
+
+* **Automatisation Document‑vers‑Feuille**
+  Connecte les processus d'extraction de documents aux routines de reporting basées sur des tableurs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

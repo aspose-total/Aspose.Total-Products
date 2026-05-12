@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 DIF를 WordML로 변환하면 구조화된 DIF 데이터를 XML 기반 워드 프로세싱 문서로 변환하여 마크업 지향 문서 형식을 요구하는 시스템에 적합합니다. 이는 상호 운용성, 구조화된 문서 처리 및 XML 표현을 활용하는 워크플로에 유용합니다.
+
+Python API를 사용하면 문서를 프로그래밍 방식으로 처리, 검증 또는 변환하는 자동화 시스템에 DIF를 WordML로 변환하는 것이 효과적입니다. 구조화된 소스 데이터를 강력한 기계 가독성을 갖춘 구조화된 문서 출력으로 변환해야 하는 확장 가능한 파이프라인을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 생성**
+  구조화된 XML 문서 형식에 의존하는 워크플로를 위해 DIF 파일을 WordML로 변환합니다.
+
+* **시스템 통합 및 교환**
+  변환된 문서가 다른 XML 인식 시스템과 상호 작용해야 할 때 WordML을 사용합니다.
+
+* **마크업 지향 보관**
+  구조화된 저장 및 처리를 위해 적합한 형식으로 문서 내용을 보존합니다.
+
+* **프로그래밍 방식 문서 처리**
+  기술 워크플로에서 검사, 변환 또는 검증이 더 쉬운 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **기계 판독 문서 파이프라인**
+  구조화된 문서 교환을 우선시하는 시스템을 위해 DIF를 WordML로 자동 변환합니다.
+
+* **XML 워크플로 통합**
+  마크업 기반 자산을 처리하고 변환하는 Python 서비스에 변환을 삽입합니다.
+
+* **대용량 구조화 출력**
+  일관된 프로그래밍 제어를 통해 DIF 소스에서 대량으로 WordML 문서를 생성합니다.
+
+* **검증 및 변환 체인**
+  더 큰 XML 기반 문서 처리 워크플로에서 자동 변환을 하나의 단계로 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

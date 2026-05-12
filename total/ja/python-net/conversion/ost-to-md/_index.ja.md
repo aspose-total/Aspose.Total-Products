@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST to MD 変換は、メールボックスデータを Markdown 形式に変換し、軽量で読みやすく、ポータブルなテキストコンテンツを作成します。これは、ドキュメンテーションやナレッジワークフローに適した、プラットフォーム間でうまく機能する構造化されたプレーンテキスト形式のメール由来コンテンツを求めるチームにとって価値があります。
+
+自動化の利点は大きく、OST to MD 変換はコンテンツパイプライン、開発者ワークフロー、ドキュメンテーションシステムに自然に組み込むことができます。Python API により、メールボックスアーカイブを高速かつスケーラブルに Markdown ファイルへ変換し、インデックス作成、公開、再利用が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **軽量ドキュメンテーション**  
+  メールコンテンツを Markdown に変換し、シンプルで構造化されたテキストベースの記録を作成します。
+
+* **ナレッジベースの準備**  
+  重要なメールボックス情報を社内ドキュメンテーションシステムで再利用できるようにします。
+
+* **開発者に優しいコンテンツエクスポート**  
+  ポータブルなプレーンテキスト形式が好まれるワークフローをサポートします。
+
+* **バージョン管理された記録**  
+  メール由来のコンテンツをテキスト指向の環境で追跡・管理しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ドキュメンテーションパイプラインの自動化**  
+  Python スクリプトが OST コンテンツを Markdown に変換し、公開およびインデックス作成のワークフローに利用します。
+
+* **コンテンツ抽出ワークフロー**  
+  自動化システムがメールボックステキストを検索可能なリポジトリや構造化ノート用に準備します。
+
+* **ポータブルアーカイブ生成**  
+  プログラムによる変換で、保存されたメールデータから再利用可能なテキスト資産を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

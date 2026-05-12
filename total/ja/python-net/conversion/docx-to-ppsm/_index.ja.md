@@ -64,7 +64,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to PPSM 変換は、ワードプロセッシング文書をマクロ対応のスライドショー プレゼンテーション ファイルに変換します。この形式は、高度な動作や自動スライドインタラクションが必要なプレゼンテーション再生シナリオをサポートします。
+
+Python API を使用すると、DOCX から PPSM への変換を自動化されたプレゼンテーションシステム、レポーティングプラットフォーム、エンタープライズコンテンツ配信パイプラインに統合できます。文書ベースのソースから繰り返し可能なスライドショー生成をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応スライドショー作成**  
+  DOCX コンテンツを高度なプレゼンテーション機能をサポートするスライドショーファイルに変換します。
+
+* **自動化プレゼンテーション再生資産**  
+  文書由来のコンテンツを直接表示環境向けに準備するのに役立ちます。
+
+* **動的レポートプレゼンテーション**  
+  文書を繰り返し可能なレポートワークフロー用のスライドショー出力に変換できます。
+
+* **高度なビジュアルコミュニケーション**  
+  構造化された自動化サポートが必要なプレゼンテーション配信シナリオをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化 PPSM 生成**  
+  システムは DOCX 文書を再生ワークフロー用のスライドショーファイルに変換できます。
+
+* **バッチスライドショー自動化**  
+  Python スクリプトは複数の文書をマクロ対応プレゼンテーション出力に処理できます。
+
+* **エンタープライズ表示パイプライン**  
+  文書コンテンツは動的なプレゼンテーション環境向けに PPSM ファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

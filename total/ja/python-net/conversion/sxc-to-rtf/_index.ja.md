@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から RTF への変換は、スプレッドシート情報を可読性、可搬性、そしてテキスト編集環境全体での広範な互換性を両立したリッチテキスト形式に変換します。スプレッドシートの内容を書式付きテキストとして共有し、さまざまなシステムでアクセス可能にする必要がある場合に有用です。
+
+Python API を使用することで、SXC から RTF への変換は、通信、アーカイブ、クロスプラットフォームのコンテンツ交換のための軽量ドキュメント生成を、複雑なドキュメント依存関係に頼らずに自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **クロスプラットフォームテキスト共有**  
+  スプレッドシートの内容を、多くのテキスト対応アプリケーションで開くことができる形式に変換します。
+
+* **フォーマット済みコンテンツのエクスポート**  
+  データをテキスト文書のワークフローに移行する際、基本的な構造と可読性を保持します。
+
+* **軽量ドキュメンテーション**  
+  要約、メモ、シンプルなレポート用のポータブルなフォーマットファイルの作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テキスト文書出力**  
+  Python API を使用して SXC ファイルを RTF 文書に変換し、軽量なレポートワークフローに利用します。
+
+* **広範な互換性パイプライン**  
+  シンプルでフォーマットされたポータブルなテキスト文書を必要とするシステム向けにコンテンツエクスポートを可能にします。
+
+* **バッチ変換ワークフロー**  
+  複数のスプレッドシートファイルをプログラム的に変換し、アクセスしやすいテキストベースの出力にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Word para VCF usando APIs Python transforma informações de contato de documentos Word em arquivos vCard para facilitar o compartilhamento e a importação em sistemas de gerenciamento de contatos. Isso é valioso quando diretórios, listas de endereços ou detalhes de perfil armazenados em documentos precisam se tornar registros de contato estruturados.
+
+Em fluxos de trabalho de automação, essa conversão permite a extração e o empacotamento confiáveis de dados de contato, apoiando diretórios sincronizados, rotinas de integração e gestão de comunicação simplificada.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Registro de Contato**
+  Converte informações de contato de documentos em arquivos vCard importáveis.
+
+* **Modernização de Diretório**
+  Ajuda a transformar listas estáticas baseadas em Word em ativos digitais de contato estruturados.
+
+* **Compartilhamento de Informação**
+  Facilita a distribuição de registros de contato padronizados entre sistemas.
+
+* **Preparação de CRM e Ferramentas de Contato**
+  Suporta a transferência de dados de contato mantidos em documentos para plataformas operacionais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Extração em Massa de Contatos**
+  Converte automaticamente diretórios baseados em Word em arquivos VCF para fluxos de importação.
+
+* **Pipelines de Integração e Distribuição**
+  Gera registros de contato a partir de documentos aprovados para compartilhamento interno ou externo.
+
+* **Suporte à Sincronização de Sistemas**
+  Usa saídas VCF para manter os sistemas relacionados a contatos alinhados com as fontes de documentos.
+
+* **Reuso de Dados Estruturados**
+  Integra arquivos de contato convertidos em processos mais amplos de automação de comunicação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

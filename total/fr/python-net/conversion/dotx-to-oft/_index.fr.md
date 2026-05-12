@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers OFT transforme le contenu d’un modèle Word en un format de modèle d’e‑mail utilisé pour la composition de messages réutilisables. Elle est précieuse lorsque le contenu basé sur des documents doit devenir un modèle de communication répétable pour des flux de travail sortants cohérents.
+
+Avec les API Python, cette conversion prend en charge l’automatisation en permettant aux équipes de générer des modèles d’e‑mail réutilisables à partir de sources de documents et de les intégrer dans des systèmes de messagerie standardisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles d'e‑mail réutilisables**  
+  Transformez le contenu structuré d’un document en modèles de messages répétables.
+
+* **Conception de communication cohérente**  
+  Standardisez la composition d’e‑mails en utilisant des mises en page de documents approuvées.
+
+* **Opérations basées sur des modèles**  
+  Réutilisez le contenu formel pour une correspondance interne ou externe récurrente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée de modèles**  
+  Générez des fichiers OFT à partir de modèles DOTX pour des flux de travail d’e‑mail cohérents.
+
+* **Configuration de communication évolutive**  
+  Préparez en masse des actifs de messages réutilisables pour les équipes opérationnelles.
+
+* **Pipelines document‑vers‑modèle**  
+  Convertissez les formats de documents approuvés en modèles d’e‑mail de manière programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

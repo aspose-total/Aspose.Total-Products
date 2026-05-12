@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 TIFF를 MSG로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 TIFF에서 MSG로의 변환은 스캔된 문서나 이미지 기반 문서를 데스크톱 이메일 워크플로와 메시지 기반 처리에 적합한 구조화된 이메일 메시지 파일로 변환할 수 있게 합니다. 이는 TIFF 콘텐츠를 검토, 저장 또는 교환을 위해 개별 이메일 항목으로 패키징해야 할 때 유용합니다.
+
+자동화 관점에서 볼 때, TIFF에서 MSG로의 변환은 표준화된 메시지 생성, 운영 일관성 향상, 그리고 이메일 중심 비즈니스 시스템과의 통합을 용이하게 합니다. 이는 정적인 시각 입력을 실행 가능한 디지털 커뮤니케이션 객체로 변환하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **개별 메시지 패키징**
+  TIFF 파일을 독립형 MSG 출력으로 변환하여 메시지 수준에서 처리합니다.
+
+* **이메일 워크플로 준비**
+  이미지 기반 문서를 데스크톱 이메일 검토 및 관리 프로세스를 위해 준비하는 데 도움을 줍니다.
+
+* **구조화된 콘텐츠 전달**
+  스캔된 기록을 커뮤니케이션 시스템을 위한 재사용 가능한 메시지 아티팩트로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 메시지 생성**
+  프로그래밍된 커뮤니케이션 워크플로의 일환으로 TIFF 문서에서 MSG 파일을 생성합니다.
+
+* **사건 파일 처리**
+  스캔된 증거, 양식 또는 기록을 자동으로 구조화된 메시지 항목으로 변환할 수 있게 합니다.
+
+* **워크플로 인계 자동화**
+  시스템 및 팀 간에 TIFF에서 파생된 콘텐츠를 메시지 기반으로 라우팅하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

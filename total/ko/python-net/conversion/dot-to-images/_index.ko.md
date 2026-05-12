@@ -53,9 +53,43 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 이미지로 변환하면 문서 템플릿을 미리 보기, 공유 및 디지털 워크플로에 삽입하기 쉬운 시각적 형식으로 렌더링합니다. 원본 편집 가능한 문서를 정적 시각 자산으로 배포해야 할 때 유용합니다.
+
+Python API를 사용하면 DOT 파일을 이미지 출력으로 자동 렌더링할 수 있어, 조직이 대규모로 미리 보기, 아카이빙, 콘텐츠 게시 및 문서 검토 프로세스를 지원하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **시각적 문서 미리 보기**
+  DOT 템플릿을 이미지로 변환하여 빠른 검사와 브라우저 기반 보기를 가능하게 합니다.
+
+* **정적 콘텐츠 공유**
+  문서 콘텐츠를 편집할 수 없는 이미지 파일로 배포하여 제어된 프레젠테이션을 제공합니다.
+
+* **게시 지원**
+  렌더링된 출력을 포털, 보고서 및 콘텐츠 전달 시스템에서 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 및 미리 보기 생성**
+  Python 워크플로는 인덱싱 및 디스플레이 시스템을 위해 문서 이미지를 자동으로 생성할 수 있습니다.
+
+* **콘텐츠 게시 파이프라인**
+  변환은 재사용 가능한 템플릿에서 시각적 자산을 자동으로 준비하는 것을 지원합니다.
+
+* **대량 렌더링 작업**
+  프로그래밍 방식 프로세스는 대규모 템플릿 컬렉션에서 일관되게 이미지 출력을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

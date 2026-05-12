@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX를 WordML로 변환하면 스프레드시트 템플릿 콘텐츠를 구조화된 문서 교환 및 기계 친화적 처리를 위한 XML 기반 워드 프로세싱 형식으로 변환합니다. 이는 템플릿 기반 스프레드시트 콘텐츠를 투명한 구조와 보다 쉬운 시스템 수준 조작을 지원하는 텍스트 문서 형식으로 재활용해야 할 때 중요합니다.
+
+자동화 및 통합 시나리오에서 XLTX를 WordML로 변환하면 스프레드시트 템플릿과 XML 중심 문서 파이프라인을 연결하여 상호 운용성을 향상하고 프로그래밍 변환을 가능하게 하며 확장 가능한 콘텐츠 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 변환**  
+  스프레드시트 템플릿을 시스템 친화적인 처리를 위한 구조화된 WordML 문서로 변환합니다.
+
+* **교환 및 통합 워크플로**  
+  콘텐츠를 파싱, 검증 및 변환에 더 적합한 형식으로 이동하는 데 도움을 줍니다.
+
+* **구조화된 문서 출판**  
+  템플릿 데이터에서 기계가 읽을 수 있는 문서 출력이 필요한 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **프로그래밍 XML 문서 생성**  
+  시스템은 XLTX 템플릿을 구조화된 자동화 파이프라인을 위한 WordML 파일로 변환할 수 있습니다.
+
+* **데이터-문서 상호 운용성**  
+  이 주제는 스프레드시트 기반 입력과 XML 중심 문서 워크플로 간의 통합을 지원합니다.
+
+* **확장 가능한 구조화된 콘텐츠 처리**  
+  동적 변환을 통해 다수의 기계가 읽을 수 있는 문서 출력을 효율적으로 생산할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

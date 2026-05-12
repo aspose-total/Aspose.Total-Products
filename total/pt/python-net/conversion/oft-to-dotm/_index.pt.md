@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para DOTM usando APIs Python transforma modelos de e‑mail do Outlook em modelos de Word com macros para automação avançada de documentos. Isso é valioso quando conteúdo reutilizável precisa ser incorporado em arquivos de modelo que suportam lógica personalizada e ações de documento repetíveis.
+
+Essa conversão reforça as estratégias de automação ao combinar design de modelo padronizado com comportamento programável. Ela suporta a criação eficiente de documentos, processamento controlado e operações escaláveis baseadas em modelos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo com Macro**  
+  Converta arquivos OFT em modelos DOTM para geração automatizada de documentos com ações incorporadas.
+
+* **Fluxos de Trabalho de Documentos Empresariais Repetíveis**  
+  Use modelos convertidos para padronizar tarefas recorrentes de produção de conteúdo.
+
+* **Reuso Programável de Conteúdo**  
+  Transforme o conteúdo de modelos de e‑mail em modelos estruturados que suportam automação personalizada de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Automação Baseados em Modelos**  
+  Gere modelos DOTM a partir de arquivos OFT para sistemas que criam documentos automaticamente.
+
+* **Processamento de Documentos Baseado em Regras**  
+  Integre modelos convertidos em fluxos de trabalho que acionam ações scriptadas ou assistidas por macro.
+
+* **Padronização de Conteúdo Escalável**  
+  Use APIs Python para produzir modelos com macros de forma consistente em departamentos ou projetos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

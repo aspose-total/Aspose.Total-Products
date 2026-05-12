@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a DOC trasforma il contenuto basato su fogli di calcolo in un formato di documento classico, più facile da revisionare, condividere e archiviare nei flussi di lavoro incentrati sul testo. È utile quando le informazioni tabulari strutturate devono essere presentate come documentazione aziendale leggibile, riepiloghi o report per una più ampia accessibilità.
+
+Negli ambienti di automazione, la conversione da SXC a DOC aiuta a standardizzare la generazione di output, ridurre la preparazione manuale dei documenti e supportare i processi di pubblicazione, approvazione o conformità a valle tramite API Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di report**  
+  Converte il contenuto dei fogli di calcolo in documenti leggibili per report formali e comunicazione con gli stakeholder.
+
+* **Distribuzione dei contenuti**  
+  Rende più facile condividere contenuti basati sui dati con gli utenti che preferiscono formati basati su documenti rispetto ai fogli di calcolo.
+
+* **Preparazione dell'archivio**  
+  Aiuta a preservare i record aziendali in un formato comunemente usato per flussi di lavoro di documentazione a lungo termine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione batch di documenti**  
+  Automatizza la conversione di più file SXC in documenti DOC per pipeline di reportistica ricorrente.
+
+* **Pubblicazione dati-in-documento**  
+  Consente ai flussi di lavoro Python di trasformare i dati dei fogli di calcolo in documenti adatti alla narrazione per la pubblicazione o la revisione.
+
+* **Integrazione del flusso di lavoro**  
+  Supporta la generazione di documenti all'interno di sistemi più ampi, come pipeline di approvazione, archiviazione e distribuzione dei contenuti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

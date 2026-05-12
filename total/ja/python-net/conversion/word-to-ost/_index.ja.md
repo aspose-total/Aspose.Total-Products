@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から OST への変換は、文書コンテンツをオフラインのメールボックス指向の出力に変換し、同期されたメールストレージやメッセージパッケージングが関わるシナリオに対応します。これは、文書ベースのコミュニケーション成果物がオフラインアクセス、保持、または移行関連のワークフローと整合する必要がある場合に関連します。
+
+自動化の文脈では、この変換は文書コンテンツをメールストレージ互換の資産へ構造化変換し、より大規模なエンタープライズのコミュニケーションおよびアーカイブプロセスに組み込むことができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オフラインメール指向パッケージング**
+  オフラインメッセージストレージ環境に関連するワークフロー向けに文書コンテンツを適応させます。
+
+* **コミュニケーション記録の作成**
+  正式なコンテンツをメール互換のアーカイブ資産に変換することをサポートします。
+
+* **移行支援**
+  メールボックス関連の転送シナリオ向けに文書由来のコンテンツを準備するのに役立ちます。
+
+* **エンタープライズ保持サポート**
+  文書ワークフローをメッセージの保存およびストレージ要件と整合させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **アーカイブ変換ワークフロー**
+  Word 文書をオフラインメールストレージパイプラインに適した出力に変換します。
+
+* **バッチコミュニケーションパッケージング**
+  標準化された文書をメールボックス指向の資産に変換するプロセスを自動化します。
+
+* **保持自動化**
+  変換ルーチンを使用して、スケールでコミュニケーション形式のコンテンツを保存します。
+
+* **移行準備パイプライン**
+  Word から OST への変換をエンタープライズのコンテンツ移動ワークフローに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

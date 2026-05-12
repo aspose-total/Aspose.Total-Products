@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 PST를 IMAGE로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST를 이미지로 변환하는 Python API는 메일함 콘텐츠를 검토, 저장 및 프레젠테이션을 위한 시각 형식으로 렌더링하는 유연한 방법을 제공합니다. 이메일 메시지나 추출된 항목을 플랫폼 전반에 걸쳐 쉽게 표시할 수 있는 이미지 기반 출력으로 만들어야 할 때 유용합니다.
+
+자동화를 위해 PST를 이미지로 변환하면 미리보기 생성, 아카이브 워크플로 및 정적 시각 자산에 의존하는 시스템과의 통합을 지원합니다. 메일함 데이터를 일관된 이미지 준비 출력으로 렌더링함으로써 확장성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **범용 시각 렌더링**
+  메일함 내용을 이미지 출력으로 변환하여 쉽게 보고 공유할 수 있습니다.
+
+* **아카이브 시각화**
+  메시지 내용을 정적 시각 기록으로 보존하는 데 도움이 됩니다.
+
+* **크로스 플랫폼 디스플레이**
+  이미지를 지원하는 시스템에서 PST 기반 정보를 간단히 표시할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이미지 내보내기**
+  시스템이 PST 아카이브를 처리하고 수동 개입 없이 이미지 파일을 생성할 수 있습니다.
+
+* **미리보기 자산 워크플로**
+  변환된 시각 자료는 대시보드, 아카이브 및 검토 포털을 지원할 수 있습니다.
+
+* **확장 가능한 정적 콘텐츠 전달**
+  프로그래밍 방식 변환은 표시 준비된 형태로 메일함 콘텐츠를 배포하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

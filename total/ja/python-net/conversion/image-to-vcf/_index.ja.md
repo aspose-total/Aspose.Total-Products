@@ -46,7 +46,53 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した画像から VCF への変換により、スキャンした名刺、連絡先シート、ディレクトリのスナップショットなどの視覚的な連絡先データを構造化された連絡先ファイルに変換できます。これは連絡先情報をデジタル化し、コミュニケーションや顧客管理システムへのインポートを容易にするのに役立ちます。
+
+自動化とスケーラビリティの観点から、この変換は手動データ入力を削減し、連絡先の取得を加速し、最新プラットフォーム間での連絡先情報の流れを改善します。画像ベースの連絡先情報を再利用可能なデジタルレコードに変換し、動的なワークフローやシステム統合を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **名刺デジタル化**
+  スキャンまたは撮影した名刺を構造化された VCF 連絡先ファイルに変換します。
+
+* **ディレクトリ取得**
+  連絡先リストの画像をデジタルシステム向けのインポート可能な連絡先レコードに変換します。
+
+* **リード受け取り支援**
+  視覚的な連絡先提出物を、フォローアップワークフローで使用できる連絡先ファイルに変換します。
+
+* **イベントネットワーキングデータ処理**
+  会議やイベント後に収集した名刺画像を共有可能なデジタルプロフィールに変換します。
+
+* **顧客レコード初期化**
+  画像ベースのフォームや連絡先スナップショットから連絡先ファイルを作成し、迅速なオンボーディングを実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先抽出パイプライン**
+  システムはアップロードされた連絡先画像を処理し、手動入力なしで VCF ファイルを生成できます。
+
+* **CRM とアドレス帳の統合**
+  画像から取得した連絡先データは、下流のインポートワークフロー用に再利用可能なファイルに変換できます。
+
+* **リード取得自動化**
+  キャンペーンやイベントからの連絡先画像は、営業フォローアップ用の構造化レコードに変換できます。
+
+* **モバイルデータ収集ワークフロー**
+  現場チームは連絡先画像を取得し、自動的にデジタル連絡先ファイルに変換できます。
+
+* **連絡先同期の準備**
+  画像から生成された VCF 出力は、プラットフォーム間の自動共有と同期をサポートできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

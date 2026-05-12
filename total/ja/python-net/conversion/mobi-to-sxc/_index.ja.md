@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MOBI to SXC 変換は、Python で ebook コンテンツを古いオフィス環境で使用されていたレガシーなオープン スプレッドシート形式に変換することをサポートします。これは、組織が歴史的システムとの互換性を維持したり、長年にわたる文書プロセスの継続性を保つ必要がある場合に関連します。
+
+自動化ユースケースでは、MOBI から SXC への変換により、レガシー環境向けのスクリプト化されたサポート、体系的なフォーマット変換、そして制御されたアーカイブワークフローが可能になります。これにより、依然として稼働している古いスプレッドシートエコシステムと最新の抽出ロジックを接続することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レガシー OpenOffice 互換性**
+  古いスプレッドシート標準に依存し続けている環境向けに、MOBI コンテンツを SXC に変換します。
+
+* **歴史的ワークフローサポート**
+  レガシーフォーマット要件を持つ長期稼働システム向けに、使用可能なスプレッドシート出力を維持します。
+
+* **保存と移行**
+  アーカイブまたは移行プロジェクトの中間ステップとして、ebook コンテンツを SXC に抽出します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **レガシーエクスポート自動化**
+  古いオフィスベースのワークフロー向けに、MOBI ソースから SXC ファイルを自動的に生成します。
+
+* **下位互換処理パイプライン**
+  新機能よりも互換性が重要なドキュメント自動化に SXC 変換を組み込みます。
+
+* **アーカイブ近代化サポート**
+  基盤となる抽出プロセスを近代化しつつ、レガシーに優しい出力を作成するために Python ルーチンを使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

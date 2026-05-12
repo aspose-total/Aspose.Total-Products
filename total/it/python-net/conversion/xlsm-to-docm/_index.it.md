@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLSM a DOCM consente di esportare il contenuto di fogli di calcolo abilitati alle macro in un formato di documento di elaborazione testi con macro, quando è necessario un comportamento avanzato del documento o un'automazione integrata. Questo è utile per le organizzazioni che si affidano a output di documenti modificabili mantenendo la compatibilità con ambienti documentali guidati dall'automazione.
+
+Dal punto di vista dell'automazione, la conversione da XLSM a DOCM aiuta a colmare il divario tra la logica dei fogli di calcolo e i flussi di lavoro dei documenti, consentendo ai sistemi basati su Python di generare documenti riutilizzabili e compatibili con le macro. Questo supporta l'elaborazione scalabile, la generazione di documenti e l'integrazione in pipeline di contenuti aziendali automatizzate.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Documentazione con macro**
+  Converte il contenuto basato su fogli di calcolo in file di documento che supportano comportamenti script avanzati.
+
+* **Report basati su processi**
+  Aiuta a generare report modificabili per ambienti in cui le funzionalità di automazione dei documenti sono importanti.
+
+* **Flussi di lavoro basati su modelli**
+  Supporta la creazione di risorse documentali riutilizzabili a partire da input di fogli di calcolo in operazioni strutturate.
+
+* **Moduli interni avanzati**
+  Consente di trasferire i dati dei fogli di calcolo in formati di documento adatti a processi interni controllati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Assemblaggio automatico di documenti**
+  Le API Python possono convertire i file XLSM in output DOCM per flussi di lavoro di generazione dinamica di documenti.
+
+* **Distribuzione compatibile con macro**
+  I sistemi automatizzati possono preparare file DOCM per i team che dipendono da comportamenti interattivi o scriptati dei documenti.
+
+* **Pipeline di conversione batch**
+  Molteplici fogli di calcolo XLSM possono essere trasformati programmaticamente in file DOCM su larga scala.
+
+* **Integrazione nei flussi di lavoro**
+  La conversione può essere integrata nei sistemi aziendali che trasferiscono i dati dai fogli di calcolo alle fasi di documento automatizzate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

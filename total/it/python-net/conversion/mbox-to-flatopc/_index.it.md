@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MBOX a FlatOPC trasforma gli archivi di caselle di posta in un formato di pacchetto XML piatto utilizzato per la rappresentazione strutturata dei documenti e l'interoperabilità. Ciò è utile per i flussi di lavoro che richiedono trasparenza dei documenti, manipolazione basata su XML o elaborazione dettagliata del contenuto email convertito.
+
+Utilizzando le API Python, i team possono automatizzare la conversione da MBOX a FlatOPC per supportare lo scambio di dati, la convalida basata su XML e l'integrazione con sistemi che dipendono da strutture di documenti leggibili da macchine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Elaborazione di Documenti basata su XML**
+  Converti le email in FlatOPC per ispezioni strutturate e trasformazioni successive.
+
+* **Scambio di Archivi Interoperabili**
+  Conserva il contenuto della casella di posta in un formato adatto al trasferimento di documenti da sistema a sistema.
+
+* **Rappresentazione Dettagliata del Contenuto**
+  Consenti l'accesso a basso livello alla struttura del documento convertito per esigenze di elaborazione personalizzate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di Conversione Leggibili da Macchine**
+  Genera automaticamente output FlatOPC da file MBOX per flussi di lavoro incentrati su XML.
+
+* **Automazione di Convalida e Trasformazione**
+  Usa Python per ispezionare e trasformare programmaticamente i pacchetti XML derivati dalle email.
+
+* **Integrazione con Sistemi Strutturati**
+  Alimenta il contenuto della casella di posta convertito nei processi aziendali che richiedono formati di documento trasparenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

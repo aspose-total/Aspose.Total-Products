@@ -53,7 +53,41 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja dokumentu na obrazy zamienia strony Worda na pliki graficzne do podglądu, udostępniania, publikowania i wizualnego archiwizowania. Jest to przydatne, gdy potrzebne jest renderowanie o stałym układzie, łatwe przeglądanie lub dystrybucja oparta na obrazach w środowiskach internetowych i mobilnych.
+
+API w Pythonie sprawiają, że konwersja DOC na obrazy jest wydajna dla skalowalnych potoków renderowania, generowania miniatur, systemów podglądu dokumentów i zautomatyzowanych przepływów publikacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie podglądu stron**
+  Konwertuj strony dokumentu na obrazy, aby szybko wyświetlać podglądy w portalach i aplikacjach.
+
+* **Archiwizacja wizualna**
+  Zachowaj wygląd dokumentu jako statyczne obrazy do przeglądu i odniesienia.
+
+* **Wsparcie publikacji internetowej**
+  Użyj wyjścia graficznego, gdy treść dokumentu musi być wizualnie osadzona online.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki tworzenia miniatur**
+  Automatycznie renderuj pliki DOC na obrazy stron dla interfejsów wyszukiwania i podglądu.
+
+* **Przepływy dostarczania treści**
+  Generuj obrazy dokumentów dla stron internetowych, pulpitów nawigacyjnych lub systemów komunikacji.
+
+* **Zadania renderowania wsadowego**
+  Programowo konwertuj duże kolekcje dokumentów na obrazy w dużej skali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

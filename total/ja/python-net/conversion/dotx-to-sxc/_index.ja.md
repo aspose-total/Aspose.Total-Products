@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から SXC への変換は、Word テンプレートのコンテンツを、古いオープンオフィス環境で使用されるレガシーなスプレッドシート形式に変換します。構造化された文書データを、以前のスプレッドシートエコシステムとの互換性のためにエクスポートする必要がある場合に関連します。
+
+この変換は、Python API を有効にして、文書から派生したスプレッドシート出力をアーカイブ、相互運用性、システム互換性のワークフロー向けに準備することで、Automation をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レガシー スプレッドシート互換性**
+  古いスプレッドシートツールに適した形式で文書コンテンツをエクスポートします。
+
+* **構造化データの再利用**
+  レガシーサポートが重要なタブ形式のワークフローへテンプレート情報を移行します。
+
+* **歴史的システム統合**
+  依然として古いオープンフォーマットに依存する環境とのデータ交換をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたレガシーエクスポート**
+  互換性重視のプロセスで DOTX テンプレートから SXC ファイルを生成します。
+
+* **データ移行パイプライン**
+  変換された出力を使用して、文書コンテンツを古いスプレッドシートシステムに橋渡しします。
+
+* **アーカイブ形式の取り扱い**
+  テンプレートからの構造化データをレガシー互換のスプレッドシート資産として保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

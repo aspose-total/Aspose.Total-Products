@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a MBOX trasforma i modelli di documento in un formato di archiviazione in stile mailbox, adatto alla gestione di messaggi email raggruppati. Questo è utile quando il contenuto del modello deve essere assemblato in un archivio email o in flussi di lavoro di migrazione.
+
+Utilizzando le API Python, le organizzazioni possono automatizzare la creazione di output compatibili MBOX dai file DOT, contribuendo a semplificare l'impacchettamento dei messaggi e la preparazione dell'archiviazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dell'archivio mailbox**
+  Converti i modelli di comunicazione basati su DOT in strutture compatibili MBOX.
+
+* **Archiviazione di messaggi raggruppati**
+  Utilizza l'output in formato mailbox per raccogliere più comunicazioni generate da modelli.
+
+* **Supporto ai flussi di lavoro di migrazione**
+  Prepara i contenuti basati su documenti per lo spostamento dell'archivio email e i processi di conservazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Assemblaggio automatico dell'archivio**
+  Gli script Python possono convertire il contenuto DOT in output pronti per MBOX per i flussi di lavoro di conservazione.
+
+* **Impacchettamento di comunicazioni in blocco**
+  La conversione supporta il raggruppamento programmatico di messaggi derivati da modelli in formati mailbox.
+
+* **Supporto scalabile alla migrazione email**
+  Processi dinamici aiutano a spostare le comunicazioni generate da documenti in strutture adatte all'archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,41 @@ DOC를 MHTML(웹 아카이브 형식)로 변환 기능 또는 HtmlFixed에 추�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to MHTML conversion converts Word content into a self-contained web archive format that bundles markup and resources for easier sharing and preservation. It is valuable for browser-based viewing, web archiving, and portable content distribution.
+
+Python APIs help automate DOC to MHTML conversion for publishing, compliance, and web delivery workflows, enabling consistent output and efficient document packaging.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **웹 아카이브 내보내기**
+  문서를 MHTML로 변환하여 휴대용 브라우저 친화적 보기 환경을 제공합니다.
+
+* **자체 포함 공유**
+  문서 콘텐츠와 리소스를 하나의 웹 아카이브 파일로 패키징합니다.
+
+* **레이아웃 보존**
+  웹 중심 저장에 적합한 형식으로 문서 프레젠테이션을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 웹 패키징**
+  배포 및 아카이브 워크플로우를 위해 DOC 콘텐츠에서 MHTML 파일을 생성합니다.
+
+* **브라우저 기반 접근 파이프라인**
+  포털 및 문서 저장소를 위해 문서를 웹에서 읽을 수 있는 아카이브로 변환합니다.
+
+* **확장 가능한 형식 표준화**
+  대규모 데이터셋에 걸쳐 Word 콘텐츠를 휴대용 MHTML로 프로그래밍 방식으로 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

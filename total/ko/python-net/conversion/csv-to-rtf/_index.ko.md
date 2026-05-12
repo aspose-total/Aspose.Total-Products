@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV를 Python API로 변환하는 CSV → RTF 변환은 구조화된 표형 데이터를 서식이 보존된 리치 텍스트 문서로 변환하여 플랫폼 전반에 걸쳐 널리 호환될 수 있게 합니다.  
+이 변환은 원시 데이터 세트를 읽기 쉬운 서식 있는 출력으로 변환함으로써 자동화를 지원하며, 빠르게 생성하고 쉽게 공유하며 문서 워크플로에 통합할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **서식 있는 텍스트 출력**  
+  CSV 데이터를 RTF 문서로 변환하여 읽기 쉬운 보고서, 요약 및 구조화된 텍스트 전달을 가능하게 합니다.
+
+* **크로스 플랫폼 문서 교환**  
+  워크플로에서 서식 있는 콘텐츠가 다양한 환경에서도 접근 가능해야 할 때 RTF 파일을 생성합니다.
+
+* **데이터 기반 텍스트 출판**  
+  CSV 레코드를 서식 있는 텍스트 문서로 변환하여 검토 및 배포가 더 쉬워집니다.
+
+* **표준화된 보고서 제작**  
+  반복되는 데이터 세트에서 일관된 RTF 출력을 생성하여 문서화 및 커뮤니케이션 작업에 활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 리치 텍스트 생성**  
+  Python API를 사용하여 CSV 입력을 RTF 파일로 변환하고 반복 가능한 보고 및 출판 워크플로에 활용합니다.
+
+* **시스템 수준 문서 변환**  
+  CSV에서 RTF로의 변환을 데이터 파이프라인에 통합하여 서식 있는 문서를 자동으로 생성합니다.
+
+* **대량 리치 텍스트 내보내기**  
+  여러 CSV 파일을 대규모로 처리하여 서식 일관성을 유지하면서 RTF 출력으로 변환합니다.
+
+* **동적 텍스트 조립**  
+  변화하는 CSV 필드에서 프로그래밍 방식으로 RTF 문서를 구축하여 유연한 자동 콘텐츠 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLTM a MOBI in Python consente di trasformare i modelli Excel abilitati a macro in file compatibili con gli ebook per la lettura digitale e l'accesso a contenuti portatili. Questo è utile quando le informazioni basate su fogli di calcolo devono essere distribuite in un formato leggibile per la condivisione della conoscenza o il consumo mobile.
+
+All'interno dei flussi di lavoro automatizzati, la conversione da XLTM a MOBI amplia le opzioni di distribuzione dei contenuti, supporta le pipeline di pubblicazione digitale e aiuta a riutilizzare i dati strutturati in output di forma lunga accessibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione del contenuto ebook**  
+  Converte il contenuto strutturato del modello di foglio di calcolo in un formato portatile adatto ai dispositivi di lettura digitale.
+
+* **Distribuzione della conoscenza**  
+  Supporta la consegna del materiale basato su cartelle di lavoro in un formato progettato per una più ampia accessibilità di lettura.
+
+* **Riutilizzo dei contenuti per l'accesso mobile**  
+  Consente alle informazioni di origine foglio di calcolo di essere condivise in un formato di lettura leggero e portatile.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pubblicazione digitale automatizzata**  
+  Genera file MOBI da sorgenti XLTM per flussi di lavoro di pubblicazione di contenuti ricorrenti.
+
+* **Consegna di documentazione portatile**  
+  Supporta la conversione automatica dei dati strutturati del modello in risorse di lettura ottimizzate per dispositivi mobili.
+
+* **Generazione batch di ebook**  
+  Consente la creazione su larga scala di file di lettura digitale da repository di contenuti guidati da fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

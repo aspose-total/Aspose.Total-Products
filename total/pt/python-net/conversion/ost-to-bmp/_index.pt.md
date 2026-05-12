@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para BMP transforma os dados da caixa de correio em saída de imagem bitmap, facilitando a preservação, revisão e compartilhamento do conteúdo de e‑mail em forma visual estática. É útil para arquivar instantâneos de mensagens, gerar registros visuais e apoiar fluxos de trabalho que exigem renderização consistente baseada em imagens do conteúdo de e‑mail.
+
+Em pipelines de automação modernos, a conversão de OST para BMP ajuda a padronizar a visualização de e‑mail para relatórios, conformidade e tarefas de processamento de documentos. APIs Python tornam possível converter o conteúdo da caixa de correio programaticamente em escala, melhorando a eficiência, a repetibilidade e a integração em sistemas corporativos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Arquivamento de Instantâneos de Email**  
+  Converte o conteúdo da caixa de correio em imagens bitmap para registro estático e referência visual.
+
+* **Documentação de Conformidade**  
+  Suporta ambientes regulados que exigem capturas visuais não editáveis dos registros de comunicação.
+
+* **Fluxos de Trabalho de Revisão Manual**  
+  Ajuda as equipes a inspecionar o conteúdo das mensagens em forma de imagem sem depender do acesso ao cliente de e‑mail.
+
+* **Saídas Prontas para Apresentação**  
+  Permite a inclusão visual do conteúdo de e‑mail em relatórios, arquivos de caso ou materiais de auditoria.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Renderização em Lote de Emails**  
+  A automação converte múltiplos itens OST em arquivos BMP para arquivamento ou revisão em grande escala.
+
+* **Geração de Evidências de Conformidade**  
+  Fluxos de trabalho Python criam registros baseados em imagens a partir do conteúdo da caixa de correio para processos de retenção.
+
+* **Pipelines de Exportação Visual**  
+  A conversão programática suporta sistemas downstream que processam documentos de imagem estática.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

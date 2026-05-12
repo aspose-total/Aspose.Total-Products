@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OST vers DOC transforme le contenu d’une boîte aux lettres en format de document éditable, permettant aux données d’e‑mail d’être réutilisées, structurées et conservées dans un environnement de traitement de texte familier. Elle est précieuse pour la documentation, les rapports d’entreprise et les flux de travail qui nécessitent le contenu des messages sous une forme modifiable.
+
+Pour les systèmes pilotés par l’automatisation, la conversion OST vers DOC prend en charge l’extraction de contenu à grande échelle et la génération de documents à partir des archives de boîtes aux lettres. Les API Python aident à rationaliser ce processus, permettant des flux de travail de conversion répétables pour la gestion de contenu d’entreprise et les opérations numériques.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Documentation d'e‑mail éditable**  
+  Convertit les messages de la boîte aux lettres en fichiers DOC pour révision, modification et réutilisation.
+
+* **Consolidation des dossiers**  
+  Aide à combiner le contenu des e‑mails avec des rapports ou des dossiers plus larges basés sur des documents.
+
+* **Capture de connaissances internes**  
+  Conserve les informations importantes de la boîte aux lettres dans un format adapté à la documentation structurée.
+
+* **Fichiers de transfert de flux de travail**  
+  Facilite le partage d’informations dérivées des e‑mails entre les équipes sous forme éditable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée de documents**  
+  Des scripts Python génèrent des fichiers DOC à partir du contenu OST pour les flux de travail de rapports et d’enregistrements.
+
+* **Traitement du contenu de la boîte aux lettres**  
+  Les pipelines de conversion extraient et transforment les messages en documents éditables pour une utilisation professionnelle.
+
+* **Automatisation de la conversion d’archives en documents**  
+  La conversion programmatique prend en charge la migration à grande échelle du stockage d’e‑mail vers les systèmes de documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

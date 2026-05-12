@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 DOCM로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 DOCM으로의 변환은 메일함 아카이브를 매크로가 포함된 Word 문서로 변환하여, 이메일 내용을 고급 문서 워크플로를 지원할 수 있는 형식으로 보존합니다. 변환된 파일이 내장 자동화 또는 맞춤 로직에 의존하는 문서 시스템과 호환되어야 할 때 유용합니다.
+
+Python API를 사용하면 팀이 MBOX에서 DOCM으로의 변환을 자동화하여 메일 아카이브 처리를 간소화하고, 템플릿 기반 워크플로를 지원하며, 문서 중심 작업을 위한 구조화된 출력물을 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 문서 워크플로**
+  자동화된 문서 동작을 사용하는 시스템을 위해 이메일 내용을 DOCM 파일로 내보냅니다.
+
+* **구조화된 메일 콘텐츠 재사용**
+  고급 편집 및 제어된 처리를 위해 적합한 형식으로 메시지를 보존합니다.
+
+* **운영 문서 패키징**
+  Word 자동화 기능을 기반으로 구축된 환경을 위해 이메일에서 파생된 파일을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 메일 내보내기**
+  메일함 항목을 내부 문서 워크플로에 맞춘 DOCM 출력물로 변환합니다.
+
+* **자동화된 Office 처리**
+  변환된 이메일 문서를 스크립트화된 검토 및 포맷 파이프라인에 전달합니다.
+
+* **확장 가능한 아카이브 변환**
+  Python을 사용하여 MBOX 콘텐츠를 매크로가 포함된 문서 자산으로 일괄 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

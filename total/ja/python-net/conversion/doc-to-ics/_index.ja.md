@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to ICS conversion transforms document-derived event details into calendar files that can be imported into scheduling systems and digital planners. It is valuable for workflows where meeting, deadline, or appointment information originates in Word documents.
+
+Using Python APIs to automate DOC to ICS conversion improves scheduling efficiency, reduces manual entry errors, and supports seamless integration between document repositories and calendar-driven workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **イベントスケジューリング**
+  Extract dates and event details from documents and convert them into calendar entries.
+
+* **ミーティング配布**
+  Turn agenda or invitation documents into importable ICS files for attendees.
+
+* **締め切り管理**
+  Convert schedule-related document content into calendar items for tracking and reminders.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **カレンダーファイル生成**
+  Automatically create ICS files from DOC-based schedules, notices, or plans.
+
+* **ワークフローリマインダー自動化**
+  Convert document deadlines into calendar events for team coordination and follow-up.
+
+* **システムからカレンダーへの統合**
+  Programmatically route extracted document dates into scheduling ecosystems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

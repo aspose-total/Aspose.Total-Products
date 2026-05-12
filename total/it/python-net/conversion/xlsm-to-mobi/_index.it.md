@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLSM a MOBI trasforma il contenuto di fogli di calcolo con macro abilitate in un formato adatto agli eBook, progettato per la lettura portatile e la distribuzione digitale. È utile quando le informazioni basate su fogli di calcolo devono essere riutilizzate come materiale di riferimento leggibile, manuali o guide strutturate per il consumo su dispositivi mobili.
+
+Dal punto di vista dell'automazione, questa conversione aiuta a trasformare il contenuto operativo dei fogli di calcolo in formati di lettura leggeri, adatti ai flussi di lavoro di pubblicazione digitale. Le API Python supportano la generazione efficiente di output MOBI da file XLSM per la consegna scalabile di contenuti e casi d'uso di archiviazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione di Riferimenti Digitali**
+  Trasforma le informazioni basate su fogli di calcolo in materiale di lettura portatile per un accesso più ampio.
+
+* **Creazione di Guide e Manuali**
+  Supporta la conversione di contenuti di fogli di calcolo strutturati in documenti leggibili di lunga durata.
+
+* **Distribuzione di Contenuti Mobile**
+  Aiuta a distribuire le informazioni in un formato ottimizzato per ambienti di lettura compatti e portatili.
+
+* **Imballaggio della Conoscenza**
+  Consente di riutilizzare contenuti operativi o educativi da fogli di calcolo in risorse in stile eBook.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Generazione Automatizzata di eBook**
+  Le API Python possono convertire i dati XLSM in file MOBI per flussi di lavoro di pubblicazione digitale ripetibili.
+
+* **Riutilizzo di Contenuti in Batch**
+  Molteplici fogli di calcolo possono essere trasformati programmaticamente in formati di lettura portatili su larga scala.
+
+* **Pipeline di Distribuzione della Documentazione**
+  I sistemi automatizzati possono preparare output MOBI per la consegna strutturata di contenuti su diversi dispositivi.
+
+* **Pubblicazione Pronta per l'Archivio**
+  I flussi di lavoro di conversione possono produrre output eBook coerenti da fonti di conoscenza basate su fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

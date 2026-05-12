@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX en POT convertit le contenu des modèles Word en un format de modèle de présentation utilisé pour la création de diapositives réutilisables. Elle est utile lorsque le matériel de documents structuré doit devenir une base de présentation réutilisable pour une sortie cohérente.
+
+Cette conversion prend en charge l'automatisation en permettant aux API Python de générer des modèles de présentation à partir de documents, rendant la production de diapositives plus standardisée, plus rapide et plus facile à mettre à l'échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles de présentation**
+  Transformer le contenu du document en actifs de modèle de diapositive réutilisables.
+
+* **Flux de travail visuels cohérents**
+  Standardiser la structure des présentations entre les équipes et les productions récurrentes.
+
+* **Réutilisation du contenu**
+  Réutiliser le matériel de document piloté par des modèles dans la conception de présentations.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles**
+  Produire des fichiers POT à partir de modèles DOTX dans des flux de travail de présentation standardisés.
+
+* **Production récurrente de diapositives**
+  Utiliser les modèles convertis pour accélérer la création répétée de présentations.
+
+* **Emballage de contenu évolutif**
+  Construire des bases de présentation réutilisables de manière programmatique à partir de sources de documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

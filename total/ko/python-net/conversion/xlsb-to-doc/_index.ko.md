@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB를 DOC로 변환하면 압축된 이진 스프레드시트 데이터를 널리 읽을 수 있는 워드 프로세싱 형식으로 변환하여 표 형식의 콘텐츠를 문서 중심 워크플로에서 보다 쉽게 ​​제시하고, 검토하고, 배포할 수 있습니다. 이는 구조화된 스프레드시트 레코드를 서술형 보고서, 요약 또는 공유 가능한 텍스트 문서로 전환해야 하는 조직에 유용합니다.
+
+자동화 환경에서 XLSB를 DOC로 변환하면 스프레드시트 기반 데이터 소스와 문서화 파이프라인을 연결하는 데 도움이 되어 수동 복사‑붙여넣기 작업을 줄이고 생성된 비즈니스 콘텐츠, 보고 작업 및 보관 프로세스 전반에 걸쳐 일관성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **보고서 생성**  
+  스프레드시트 콘텐츠를 보고, 검토 및 배포를 위한 읽기 쉬운 문서로 변환합니다.
+
+* **데이터 프레젠테이션**  
+  스프레드시트 기반 정보를 텍스트 중심 형식으로 보다 쉽게 전달할 수 있게 합니다.
+
+* **콘텐츠 보관**  
+  비즈니스 데이터를 문서 형태로 장기 보관하여 참고 및 규정 준수를 지원합니다.
+
+* **워크플로 인계**  
+  팀이 문서 형식을 선호하는 사용자와 스프레드시트에서 파생된 정보를 공유하도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 문서 생성**  
+  자동화를 통해 반복되는 XLSB 파일을 수동 포맷 작업 없이 DOC 보고서로 변환할 수 있습니다.
+
+* **파이프라인 기반 보고**  
+  생성된 스프레드시트를 프로그래밍 방식으로 변환하여 하위 검토용 문서로 만들 수 있습니다.
+
+* **대량 파일 처리**  
+  여러 XLSB 파일을 배치 워크플로에서 DOC 형식으로 변환하여 효율성을 높일 수 있습니다.
+
+* **템플릿 정렬 출력**  
+  자동화 시스템이 최종 문서 출력에서 스프레드시트 콘텐츠가 표시되는 방식을 표준화할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

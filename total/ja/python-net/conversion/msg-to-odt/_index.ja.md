@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to ODT 変換は、メールメッセージファイルを編集可能で標準ベースの文書処理のためのオープンドキュメントテキスト形式に変換します。組織が柔軟な文書アクセスとオープンな生産性環境間の互換性を必要とする場合に有用です。
+
+自動化ワークフロー内では、MSG to ODT 変換は文書の標準化、編集可能なアーカイブの作成、オープンドキュメント処理システムとの統合をサポートします。メールソースからのスケーラブルでポータブルな文書管理を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープン標準ドキュメンテーション**  
+  オープンドキュメント標準に基づく編集可能な形式でメールコンテンツを保存します。
+
+* **クロスプラットフォーム編集**  
+  オープンテキスト文書をサポートするシステム間で変換されたファイルを共有します。
+
+* **アクセス可能な記録管理**  
+  メッセージ由来のコンテンツを柔軟でポータブルな文書形態で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動オープンフォーマット変換**  
+  MSG ファイルを標準化された処理のために ODT 文書に変換します。
+
+* **編集可能なアーカイブワークフロー**  
+  メールコミュニケーションから検索可能で編集可能なリポジトリを構築します。
+
+* **文書相互運用パイプライン**  
+  オープンフォーマットとポータビリティを重視するシステムを通じて変換されたファイルを移動させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

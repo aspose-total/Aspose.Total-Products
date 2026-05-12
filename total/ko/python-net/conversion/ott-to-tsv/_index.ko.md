@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 TSV로 변환하면 OpenDocument 텍스트 템플릿을 탭으로 구분된 값으로 변환하여 깔끔하고 가볍고 구조화된 데이터 교환을 가능하게 합니다. 이는 템플릿 기반 콘텐츠를 단순하고 텍스트 기반의 표 형식 출력을 선호하는 시스템으로 이동해야 할 때 유용합니다.
+
+이 변환은 최소한의 오버헤드, 이식성 및 신뢰할 수 있는 구분자 기반 구조를 중시하는 워크플로우에 쉽게 파싱, 변환 및 로드할 수 있게 함으로써 자동화를 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구분된 데이터 내보내기**  
+  문서 내용을 구조화된 탭 구분 출력으로 변환합니다.
+
+* **파이프라인 친화적 포맷팅**  
+  가벼운 텍스트 기반 표를 처리하는 시스템을 지원합니다.
+
+* **데이터 준비**  
+  추출된 콘텐츠를 분석 또는 운영 도구에 더 쉽게 가져올 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 표 변환**  
+  OTT 템플릿에서 대규모로 TSV 파일을 생성합니다.
+
+* **ETL 워크플로우 공급**  
+  문서에서 파생된 데이터를 파싱 및 변환 파이프라인으로 전송합니다.
+
+* **정기적인 구조화된 내보내기**  
+  간단한 기계 판독 데이터 세트를 정기적으로 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή εγγράφου σε TSV μετατρέπει το περιεχόμενο του Word σε τιμές διαχωρισμένες με καρτέλες, μια απλή δομημένη μορφή ιδανική για καθαρή ανταλλαγή δεδομένων βασισμένη σε κείμενο και ροές εργασίας εισαγωγής. Είναι χρήσιμη όταν οι πίνακες εγγράφων ή τα επαναλαμβανόμενα πεδία απαιτούν ελαφριά δομημένη έξοδο.
+
+Τα Python API βοηθούν στην αυτοματοποίηση της μετατροπής DOC σε TSV για κλιμακώσιμη εξαγωγή, προετοιμασία δεδομένων και εργασίες ενσωμάτωσης όπου προτιμώνται μορφές απλού κειμένου σε πίνακες.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* **Ελαφριά Εξαγωγή Δεδομένων**
+  Μετατρέψτε τους πίνακες εγγράφων σε TSV για απλή δομημένη ανταλλαγή.
+
+* **Έξοδος Φιλική προς Εισαγωγή**
+  Προετοιμάστε δεδομένα προερχόμενα από Word για εργαλεία και συστήματα που δέχονται κειμένο με διαχωριστικά.
+
+* **Ροές Εργασίας Καθαρισμού Δεδομένων**
+  Χρησιμοποιήστε την έξοδο TSV για προεπεξεργασία, επικύρωση και εισαγωγή σε pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* **Εξαγωγή Δεδομένων Υψηλού Όγκου**
+  Αυτόματη μετατροπή αρχείων DOC σε TSV για επεξεργασία downstream.
+
+* **Εξαγωγές Κειμένου Έτοιμες για Pipeline**
+  Δημιουργήστε αρχεία με διαχωριστικά από έγγραφα ως μέρος των ροών εργασίας ETL ή εισαγωγής.
+
+* **Προγραμματισμένες Εργασίες Μετασχηματισμού**
+  Προγραμματιστικά τυποποιήστε εγγραφές βασισμένες σε έγγραφα σε TSV σε επαναλαμβανόμενη βάση.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

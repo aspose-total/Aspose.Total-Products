@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 XLS로의 변환은 Word 템플릿 콘텐츠를 표 형식 편집, 검토 및 오래된 스프레드시트 워크플로와의 호환성을 위한 전통적인 스프레드시트 형식으로 변환합니다. 템플릿에서 파생된 데이터를 널리 인식되는 스프레드시트 환경에서 재사용해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환을 통해 보고, 데이터 전달 및 문서 중심 시스템 전반에 걸친 구조화된 콘텐츠 변환을 위한 확장 가능한 자동화를 구현할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 출력**
+  문서 콘텐츠를 익숙한 스프레드시트 형식으로 변환하여 기존 워크플로에 맞춥니다.
+
+* **표형 데이터 재사용**
+  구조화된 템플릿 정보를 편집 가능한 스프레드시트 형태로 이동합니다.
+
+* **보고서 준비**
+  스프레드시트 기반 도구를 사용하여 운영 및 분석 검토를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 스프레드시트 생성**
+  반복적인 보고 작업의 일환으로 DOTX 템플릿에서 XLS 파일을 생성합니다.
+
+* **문서-테이블 파이프라인**
+  템플릿 콘텐츠를 프로그래밍 방식으로 스프레드시트 워크플로에 전달합니다.
+
+* **호환성 중심 데이터 전달**
+  여전히 오래된 스프레드시트 형식에 의존하는 환경에 적합한 출력물을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

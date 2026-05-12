@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から SXC への変換は、マクロ対応ドキュメントを古いオープン スプレッドシート ワークフローと互換性のあるスプレッドシート ファイルに変換し、構造化されたコンテンツを表形式で再利用できるようにします。文書ベースのデータを、依然として古いスプレッドシート標準に依存しているレガシーシステムと交換する必要がある場合に便利です。
+
+自動化のために、DOCM から SXC への変換は、定期的なデータ抽出、下位互換性、および文書テーブルをレガシー対応のスプレッドシート出力にスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **レガシースプレッドシート互換性**
+  確立された環境で使用されている古いスプレッドシート形式に文書コンテンツを変換します。
+
+* **構造化テーブルの再利用**
+  DOCM ドキュメントから表形式データをスプレッドシート ワークフローに移行するのに役立ちます。
+
+* **下位互換性のあるデータ交換**
+  新しいスプレッドシート形式へ完全に移行していないシステムをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レガシーエクスポート**
+  古いワークフロー要件のために、DOCM ソースから SXC ファイルを生成します。
+
+* **大量データ変換**
+  大量の文書テーブルを効率的にスプレッドシート用出力に変換します。
+
+* **互換性パイプラインサポート**
+  最新の文書ソースとレガシーなスプレッドシート処理システムをつなぎます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODS a MOBI trasforma i file di fogli di calcolo in un formato ottimizzato per i dispositivi di lettura digitale. Questo consente alle informazioni strutturate dei fogli di calcolo di essere distribuite come documenti leggibili adatti alla visualizzazione portatile.
+
+Le API Python consentono la trasformazione automatizzata del contenuto dei fogli di calcolo in formati pronti per gli ebook. Questo supporta flussi di lavoro di pubblicazione scalabili, la generazione automatica di documenti e i sistemi di distribuzione di contenuti digitali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione di dati per la lettura digitale**  
+  Converti le informazioni basate su fogli di calcolo in documenti digitali portatili.
+
+* **Distribuzione di contenuti strutturati**  
+  Trasforma i set di dati dei fogli di calcolo in formati leggibili per il consumo digitale.
+
+* **Pubblicazione di report**  
+  Converti i fogli di calcolo analitici in documenti digitali formattati.
+
+* **Riutilizzo dei contenuti**  
+  Adatta il contenuto dei fogli di calcolo per una documentazione in stile ebook.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di pubblicazione automatizzate**  
+  I flussi di lavoro Python convertono i fogli di calcolo in formati di lettura digitale automaticamente.
+
+* **Generazione di documenti digitali in blocco**  
+  I sistemi elaborano più fogli di calcolo in documenti di lettura portatili.
+
+* **Pubblicazione di contenuti dinamici**  
+  I flussi di lavoro programmatici generano documenti facili da leggere a partire da input di fogli di calcolo.
+
+* **Sistemi di distribuzione di contenuti digitali**  
+  Le pipeline di conversione supportano infrastrutture di pubblicazione automatizzate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

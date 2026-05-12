@@ -53,7 +53,41 @@ Usamos la API [Aspose.Words for Python via .NET](https://products.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversión de OTT a Imágenes en APIs de Python renderiza plantillas de texto OpenDocument en salidas de imagen para compartir visualmente, generar vistas previas y publicación estática. Esto es útil cuando el contenido del documento debe mostrarse de forma consistente en todas las plataformas sin depender de formatos de origen editables.
+
+Los beneficios de la conversión para la automatización al permitir pipelines de renderizado escalables para vistas previas, miniaturas, recursos web y capturas de documentos que pueden generarse programáticamente y distribuirse ampliamente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Generación de Vista Previa Visual**  
+  Crea representaciones estáticas del contenido del documento para una visualización rápida.
+
+* **Compartir entre Plataformas**  
+  Facilita la visualización del contenido donde el soporte de documentos es limitado.
+
+* **Soporte de Publicación**  
+  Produce recursos de imagen para la web, informes o uso de archivo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Pipelines de Creación de Miniaturas**  
+  Genera imágenes de vista previa a partir de archivos OTT en masa.
+
+* **Flujos de Trabajo de Publicación de Contenido**  
+  Convierte plantillas en recursos visuales para portales o sitios de documentación.
+
+* **Archivado Automatizado de Capturas**  
+  Preserva los estados del documento como salidas de imagen no editables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

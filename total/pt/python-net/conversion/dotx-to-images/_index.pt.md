@@ -53,7 +53,41 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para Imagens converte o conteúdo de modelos Word em saída visual para visualização, compartilhamento, publicação e fins de arquivamento. É útil quando os layouts de documentos precisam ser preservados como ativos de imagem para fácil acesso em várias plataformas.
+
+Esta conversão suporta automação ao permitir que APIs Python gerem versões baseadas em imagens de modelos para entrega de conteúdo, pré‑visualizações de documentos e fluxos de trabalho visuais que não dependem de formatos editáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Geração de Pré‑visualização de Documentos**
+  Renderiza o conteúdo do modelo como imagens para visualização rápida e distribuição.
+
+* **Arquivamento Visual**
+  Preserva a aparência do documento em um formato fácil de armazenar e referenciar.
+
+* **Compartilhamento Multiplataforma**
+  Compartilhe o conteúdo do documento visualmente sem exigir software de edição.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Miniaturas e Pré‑visualizações**
+  Cria automaticamente pré‑visualizações de imagens a partir de arquivos DOTX para portais e repositórios.
+
+* **Fluxos de Trabalho de Publicação**
+  Converte modelos em imagens para sites, relatórios ou sistemas de documentação visual.
+
+* **Tarefas de Renderização em Grande Escala**
+  Processa lotes de modelos em conjuntos de imagens para entrega de saída padronizada.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

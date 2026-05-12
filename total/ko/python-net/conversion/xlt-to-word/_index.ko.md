@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLT를 Word로 변환하면 Excel 템플릿 파일을 비즈니스 커뮤니케이션, 보고 및 구조화된 문서를 위한 Word 호환 문서로 변환할 수 있습니다. 이 변환은 스프레드시트 템플릿에 포함된 정보를 보다 서술적이고 인쇄 가능하거나 문서 지향적인 형식으로 제시해야 할 때 유용합니다.
+
+자동화 워크플로우 내에서 XLT를 Word로 변환하면 스프레드시트 기반 소스 파일을 널리 받아들여지는 문서 출력과 연결함으로써 프로세스 연속성을 향상시킵니다. 이는 확장 가능한 콘텐츠 변환, 원활한 협업 및 문서 생성·관리 시스템과의 쉬운 통합을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 문서 준비**  
+  XLT 템플릿을 보고서, 요약 및 공식 기록을 위한 Word 호환 파일로 변환합니다.
+
+* **가독성 높은 콘텐츠 변환**  
+  스프레드시트 기반 데이터를 검토 및 배포가 용이한 문서 형식으로 제공합니다.
+
+* **워크플로우 호환성 확대**  
+  스프레드시트보다 Word 중심 문서에 의존하는 비즈니스 프로세스를 지원합니다.
+
+* **템플릿 콘텐츠 재사용**  
+  기존 Excel 템플릿을 구조화된 문서 출력으로 재활용하여 운영 효율성을 높입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 문서 생성**  
+  Python API를 사용하여 반복 워크플로우에서 XLT 템플릿으로부터 Word 호환 출력을 생성합니다.
+
+* **통합 보고 시스템**  
+  템플릿 데이터를 더 큰 보고 및 문서 파이프라인의 일부로 Word 문서로 변환합니다.
+
+* **확장 가능한 파일 변환**  
+  최소한의 수작업으로 다수의 스프레드시트 템플릿을 일괄적으로 문서 출력으로 변환합니다.
+
+* **프로그래밍 방식 콘텐츠 게시**  
+  생성된 Word 문서를 저장소, 승인 또는 커뮤니케이션 시스템에 자동으로 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

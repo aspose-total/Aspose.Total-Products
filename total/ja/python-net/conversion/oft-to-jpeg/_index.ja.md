@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から JPEG への変換は、Outlook のメールテンプレートを保存、共有、埋め込みが容易な圧縮画像ファイルに変換します。テンプレートのビジュアルを効率的に配布しつつ、品質とファイルサイズの実用的なバランスを保つ必要がある場合に価値があります。
+
+この変換は、迅速な画像生成、効率的なコンテンツ配布、プレビューシステム、レポート、アーカイブでのスケーラブルな利用を可能にすることで自動化を支援します。コンパクトなビジュアル出力が求められるワークフローに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **コンパクトなビジュアル共有**  
+  OFT テンプレートを JPEG ファイルに変換し、チームやシステム間で効率的に配布します。
+
+* **埋め込みプレビュー資産**  
+  メールテンプレートのスナップショットを表示するレポート、ダッシュボード、ポータルで JPEG 出力を使用します。
+
+* **ストレージ効率の高いアーカイブ**  
+  大規模リポジトリに適した圧縮形式でテンプレートのビジュアルを保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動サムネイル作成**  
+  OFT ファイルから JPEG プレビューを生成し、コンテンツカタログや管理インターフェースで使用します。
+
+* **大量変換パイプライン**  
+  テンプレートライブラリをコンパクトな画像に変換し、スケーラブルな保存と取得を実現します。
+
+* **動的レポート統合**  
+  テンプレートの JPEG 表現を自動レポートやレビューのワークフローに挿入します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

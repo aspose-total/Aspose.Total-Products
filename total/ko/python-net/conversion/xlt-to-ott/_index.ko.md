@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLT를 OTT로 변환하면 Excel 템플릿 파일을 재사용 가능한 오픈 문서 텍스트 템플릿으로 변환할 수 있어 일관된 문서 생성을 지원합니다. 이는 스프레드시트 템플릿을 표준화된 오픈 포맷 문서 템플릿으로 전환하여 팀과 시스템 전반에 걸쳐 반복 가능한 콘텐츠 제작을 가능하게 할 때 유용합니다.
+
+자동화된 환경에서 XLT를 OTT로 변환하면 템플릿 거버넌스와 재사용 가능한 콘텐츠 워크플로를 강화합니다. 조직이 스프레드시트 소스에서 오픈하고 확장 가능한 템플릿 자산을 구축하고 이를 프로그래밍 방식의 문서 생성 파이프라인에 통합하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**  
+  XLT 파일을 OTT 템플릿으로 변환하여 재사용 가능하고 표준 기반의 문서 생성을 지원합니다.
+
+* **일관된 문서 디자인**  
+  오픈 텍스트 템플릿을 사용하여 출력물 전반에 걸쳐 일관된 서식과 구조를 유지합니다.
+
+* **템플릿 라이브러리 개발**  
+  스프레드시트 기반 콘텐츠에서 재사용 가능한 템플릿 자산을 구축하여 장기 운영에 활용합니다.
+
+* **유연한 워크플로 표준화**  
+  오픈 및 휴대 가능한 템플릿 형식의 이점을 활용하는 문서 생성 프로세스를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 자동화 파이프라인**  
+  Python API를 사용하여 XLT 템플릿에서 OTT 파일을 생성하고 반복 가능한 문서 워크플로를 구현합니다.
+
+* **재사용 가능한 문서 프레임워크**  
+  OTT 출력물을 시스템에 전달하여 운영 데이터로 템플릿을 동적으로 채웁니다.
+
+* **오픈 표준 통합**  
+  변환된 템플릿을 상호 운용 가능한 형식이 필요한 자동화 생태계에 통합합니다.
+
+* **확장 가능한 템플릿 마이그레이션**  
+  XLT 파일 배치를 OTT 템플릿으로 변환하여 중앙 집중식 재사용 및 프로세스 효율성을 높입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

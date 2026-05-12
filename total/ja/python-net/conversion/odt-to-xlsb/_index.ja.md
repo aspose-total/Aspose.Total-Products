@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODTからXLSBへの変換は、テキスト文書の内容をパフォーマンスと効率的な保存に最適化されたバイナリスプレッドシート形式に変換します。これは、抽出された文書データの大量を、ファイル効率が向上したスプレッドシートワークフローで処理する必要がある場合に有用です。
+
+Python API を使用して、ODT から XLSB への変換は、スケーラブルな文書データ抽出、バッチ処理、パフォーマンスを意識したスプレッドシート生成をサポートします。大量の運用および分析環境に適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **効率的なスプレッドシート保存**  
+  文書データをコンパクトなスプレッドシート形式に変換します。
+
+* **大量データの取り扱い**  
+  パフォーマンス特性が向上した大規模な抽出データセットをサポートします。
+
+* **運用レポート**  
+  文書由来のデータをスプレッドシートベースの分析用に準備するのに役立ちます。
+
+* **構造化コンテンツの再利用**  
+  抽出されたレコードをバイナリブック形式で管理しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **パフォーマンス指向のバッチ変換**  
+  Python ワークフローは多数の ODT ファイルから効率的に XLSB 出力を生成できます。
+
+* **大規模データセットの準備**  
+  自動抽出は文書中心のレポートパイプラインをサポートできます。
+
+* **ストレージ最適化エクスポートプロセス**  
+  システムは構造化された文書コンテンツをコンパクトなブックファイルに変換できます。
+
+* **スケーラブルなスプレッドシート生成**  
+  繰り返しの変換はプログラムで実行でき、継続的な運用ニーズに対応します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

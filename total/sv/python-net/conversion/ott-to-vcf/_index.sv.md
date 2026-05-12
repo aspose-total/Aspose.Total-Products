@@ -46,7 +46,41 @@ För en Python-utvecklare, vem försöker lägga till en OTT till VCF-konverteri
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT till VCF-omvandling i Python‑API:er omvandlar OpenDocument‑textmallar till kontaktkortfiler som används för att dela person‑ och organisationsuppgifter. Detta är värdefullt när mallinnehållet innehåller strukturerad kontaktinformation som måste bli portabel och klar för import.
+
+Omvandlingen stödjer automatisering genom att omvandla dokumenthanterade kontaktuppgifter till standardiserade utbytesfiler, vilket minskar manuell inmatning och förbättrar synkronisering i kommunikations‑ och katalogarbetsflöden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsfall" %}}
+
+* **Kontaktfilsgenerering**  
+  Omvandlar strukturerat kontaktinnehåll till importbara kortfiler.
+
+* **Delning av katalogdata**  
+  Gör kontaktinformation enklare att utbyta mellan system.
+
+* **Mallbaserad kontaktadministration**  
+  Återanvänder dokumentmallar för standardiserad kontaktutmatning.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* **Automatiserad kontaktexport**  
+  Skapar VCF‑filer från OTT‑mallar som innehåller person‑ eller organisationsdata.
+
+* **CRM‑ eller katalogintegration**  
+  Matar genererade kontaktfiler till nedströms informationssystem.
+
+* **Masspaketering av kontakter**  
+  Producerar standardiserade kontaktutdata för stora kontaktuppsättningar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

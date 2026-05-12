@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to FODS 변환은 OpenDocument Text 콘텐츠를 구조화된 데이터 교환 및 처리를 위해 설계된 평면 XML 스프레드시트 형식으로 변환합니다. 이는 문서 기반 표나 레코드를 개방형 기계 판독 가능한 스프레드시트 워크플로로 이동해야 할 때 유용합니다.
+
+Python API를 사용하면 ODT to FODS 변환이 자동화 친화적인 처리, 상호 운용성 및 대량 변환을 지원합니다. 투명한 형식과 구조화된 문서 추출을 우선시하는 시스템에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **오픈 스프레드시트 변환**  
+  문서 내용을 접근 가능한 스프레드시트 지향 XML 형식으로 변환합니다.
+
+* **구조화된 데이터 교환**  
+  추출된 문서 레코드를 시스템 간에 이동하는 것을 지원합니다.
+
+* **기계 판독 가능한 아카이빙**  
+  데이터를 검사 및 처리하기 쉬운 형식으로 보존합니다.
+
+* **워크플로 상호 운용성**  
+  문서 저장소를 오픈 데이터 파이프라인과 연결하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **XML 기반 데이터 파이프라인**  
+  Python 자동화를 통해 ODT 파일을 FODS로 변환하여 투명한 데이터 처리를 할 수 있습니다.
+
+* **대량 오픈 포맷 변환**  
+  대량의 문서를 오픈 스프레드시트 출력으로 표준화할 수 있습니다.
+
+* **데이터 검증 워크플로**  
+  추출된 콘텐츠를 FODS 내보내기 전에 검사하고 정규화할 수 있습니다.
+
+* **상호 운용 가능한 스토리지 자동화**  
+  시스템은 변환된 출력을 오픈 포맷으로 저장하여 장기 재사용이 가능합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

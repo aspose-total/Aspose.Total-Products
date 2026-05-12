@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji TIFF do VCF w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF to VCF conversion using Python APIs allows image-based documents containing contact information to be transformed into structured contact card formats for digital address books and communication systems. This is useful when scanned business cards, forms, or visual contact records need to become searchable and reusable contact entries.
+
+From an automation perspective, TIFF to VCF conversion improves contact capture efficiency, reduces manual data entry, and supports scalable integration between document imaging and contact management workflows. It helps convert static visual contact data into actionable business information.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Digitalizacja wizytówek**
+  Konwertuje obrazy TIFF kart kontaktowych na cyfrowe rekordy kontaktowe zgodne z formatem VCF.
+
+* **Ekstrakcja kontaktów z formularzy**
+  Umożliwia przekształcenie zeskanowanych dokumentów rejestracyjnych lub przyjęć w ponownie wykorzystywalne wpisy kontaktowe.
+
+* **Uzupełnianie książki adresowej**
+  Wspiera przenoszenie wizualnych danych kontaktowych do ustrukturyzowanych systemów zarządzania kontaktami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne pobieranie kontaktów**
+  Konwertuje dokumenty kontaktowe w formacie TIFF na pliki VCF gotowe do natychmiastowego importu do systemu.
+
+* **Procesy przechwytywania leadów**
+  Wspiera automatyczną transformację zeskanowanych materiałów kontaktowych w ustrukturyzowane rekordy potencjalnych klientów.
+
+* **Procesy synchronizacji katalogów**
+  Umożliwia programowe tworzenie cyfrowych kart kontaktowych z plików źródłowych opartych na obrazach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

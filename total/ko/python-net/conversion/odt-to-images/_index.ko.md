@@ -53,7 +53,47 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to Images 변환은 문서 페이지 또는 콘텐츠 섹션을 미리 보기, 공유, 삽입 또는 보관이 더 쉬운 시각적 형식으로 변환합니다. 레이아웃 정확도와 시각적 접근성이 편집 가능한 텍스트보다 더 중요할 때 특히 유용합니다.
+
+Python API 기반 자동화를 통해 ODT to Images 변환을 미리 보기, 콘텐츠 게시 및 문서 시각화 워크플로에 효과적으로 활용할 수 있습니다. 웹, 검토 및 승인 프로세스를 위한 페이지 수준 자산의 확장 가능한 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 미리 보기 생성**  
+  소스 파일을 열지 않고도 빠르게 볼 수 있도록 이미지 표현을 생성합니다.
+
+* **웹 게시 자산**  
+  포털, 목록 또는 삽입된 디스플레이에 적합한 시각적 콘텐츠를 생성합니다.
+
+* **보관 스냅샷**  
+  페이지 모양을 정적인 시각 형태로 보존합니다.
+
+* **검토 및 주석 지원**  
+  이미지 기반 워크플로에서 문서를 더 쉽게 검사할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 생성 파이프라인**  
+  Python 워크플로는 새로 업로드된 ODT 문서에 대한 미리 보기 이미지를 생성할 수 있습니다.
+
+* **배치 페이지 렌더링**  
+  대량 파일 컬렉션을 페이지별 시각 자료로 자동 렌더링할 수 있습니다.
+
+* **게시 자동화**  
+  이미지 출력은 웹사이트, 콘텐츠 관리 시스템 또는 검토 도구에 제공될 수 있습니다.
+
+* **시각적 승인 프로세스**  
+  변환된 페이지는 주석 및 승인 워크플로를 프로그래밍 방식으로 진행할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

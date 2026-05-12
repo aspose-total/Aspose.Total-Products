@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG から ICS への変換により、視覚的またはスケジュール関連のグラフィックを、イベントの共有、計画、スケジューリングワークフローをサポートするカレンダー データ形式に変換できます。これは、タイムラインベースまたはイベント指向の情報がベクター コンテンツとして生成され、カレンダー システムで機械可読にする必要がある場合に有用です。
+
+SVG から ICS への変換に Python API を使用すると、構造化されたビジュアル ソースからカレンダー エントリの生成を自動化できます。プログラムによるスケジューリング、イベント配信、そしてより広範な運用システムとの統合を可能にすることで、ワークフローの効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **イベント データ作成**  
+  SVG ベースのスケジュール ビジュアルを、カレンダー主導の使用のための ICS ファイルに変換します。
+
+* **計画ワークフロー支援**  
+  グラフィカルなイベント情報を、実行可能なスケジューリング文書に変換するのに役立ちます。
+
+* **カレンダー相互運用性**  
+  標準カレンダーファイルをサポートするシステム間で、イベント コンテンツの構造化された共有を可能にします。
+
+* **タイムラインの再利用**  
+  ビジュアル タイムラインを実用的なスケジューリング資産に変換しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された会議ファイル生成**  
+  Python アプリケーションは、SVG スケジュール資産を配布用の ICS ファイルに変換できます。
+
+* **イベント公開パイプライン**  
+  システムは、ビジュアル計画文書からカレンダー出力を自動的に生成できます。
+
+* **一括スケジュール変換**  
+  複数の SVG タイムライン ファイルをバッチ ワークフローで ICS 形式に変換できます。
+
+* **動的スケジューリングシステム**  
+  プログラムによる変換は、生成されたビジュアル データからカレンダー ファイルをリアルタイムで作成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

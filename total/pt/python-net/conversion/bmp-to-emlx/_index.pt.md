@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de BMP para EMLX permite que arquivos de imagem bitmap sejam incorporados ao formato de e‑mail EMLX, comumente usado por determinados sistemas de armazenamento de correio. Esse formato possibilita o armazenamento estruturado de mensagens de e‑mail que incluem conteúdo baseado em imagens.
+
+Fluxos de trabalho de conversão automatizados ajudam os sistemas a gerar arquivos EMLX a partir de imagens BMP para arquivamento, indexação e integração com plataformas de armazenamento de e‑mail. Isso suporta a gestão escalável de mensagens em infraestruturas automatizadas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Compatibilidade com Armazenamento de E‑mail**  
+  Imagens BMP podem ser armazenadas como mensagens EMLX para compatibilidade com sistemas de armazenamento de correio específicos.
+
+* **Sistemas de Arquivamento Automatizado**  
+  Sistemas de gerenciamento de documentos podem converter imagens para o formato EMLX para retenção estruturada.
+
+* **Registros Visuais de Mensagens**  
+  Organizações podem preservar comunicações visuais em formatos de armazenamento baseados em e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Caixas de Correio**  
+  Sistemas geram arquivos EMLX a partir de imagens BMP para criação automatizada de caixas de correio.
+
+* **Processamento em Massa de Registros de E‑mail**  
+  Fluxos de trabalho convertem grandes conjuntos de documentos BMP em arquivos EMLX para indexação e armazenamento.
+
+* **Criação Programática de Arquivos de E‑mail**  
+  Aplicações geram dinamicamente mensagens EMLX contendo anexos de imagem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

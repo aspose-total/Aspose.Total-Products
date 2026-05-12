@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to DIF 변환은 OpenDocument Text 콘텐츠를 스프레드시트 스타일 데이터 교환을 위해 설계된 데이터 교환 형식으로 변환합니다. 이는 텍스트 문서에 포함된 정보를 구조화된 숫자 또는 표 형식 표현에 의존하는 시스템으로 이동해야 할 때 유용합니다.
+
+자동화 관점에서 ODT to DIF 변환은 문서 기반 콘텐츠와 레거시 또는 특수 데이터 처리 환경을 연결하는 데 도움을 줍니다. Python API를 사용하면 최소한의 수동 작업으로 대규모 추출, 포맷팅 및 전달을 자동화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 데이터 전송**  
+  문서 표를 구조화된 데이터 워크플로에 적합한 교환 형식으로 이동합니다.
+
+* **레거시 시스템 호환성**  
+  여전히 데이터 교환에 DIF를 사용하는 환경을 지원합니다.
+
+* **구조화된 콘텐츠 마이그레이션**  
+  문서 기반 레코드를 재사용 가능한 데이터 자산으로 변환합니다.
+
+* **상호 운용 데이터 처리**  
+  다양한 플랫폼 간 표 형식 정보 이동을 개선합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 표 내보내기**  
+  Python 스크립트를 사용하여 ODT 파일의 표 섹션을 감지하고 DIF 형식으로 내보낼 수 있습니다.
+
+* **레거시 파이프라인 공급**  
+  자동화된 워크플로는 오래된 스프레드시트 또는 분석 시스템을 위한 데이터를 준비할 수 있습니다.
+
+* **배치 문서 정규화**  
+  여러 ODT 파일을 일괄 작업으로 일관된 DIF 출력으로 처리할 수 있습니다.
+
+* **데이터 교환 일정 관리**  
+  정기적인 변환을 통해 구조화된 문서 콘텐츠의 일상적인 전송을 지원할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLT를 MOBI로 변환하면 Excel 템플릿 파일을 휴대용 읽기와 디지털 배포에 적합한 전자책 친화 형식으로 변환할 수 있습니다. 스프레드시트 기반 콘텐츠를 텍스트 중심 출력물로 재구성해야 할 때, 읽기 장치나 경량 콘텐츠 플랫폼에서 더 쉽게 접근할 수 있어 유용합니다.
+
+현대 자동화 시스템에서 XLT를 MOBI로 변환하면 콘텐츠 재출판 및 다중 형식 전달을 지원합니다. 구조화된 템플릿 데이터를 대량으로 생성하고 디지털 채널을 통해 프로그래밍 방식으로 배포할 수 있는 휴대용 읽기 자산으로 변환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대용 콘텐츠 게시**  
+  XLT 기반 정보를 지원되는 디지털 장치에서 읽을 수 있는 MOBI 파일로 변환합니다.
+
+* **지식 배포**  
+  스프레드시트 템플릿 콘텐츠를 경량 형식으로 재구성하여 더 넓은 콘텐츠 접근성을 제공합니다.
+
+* **구조화된 데이터 재패키징**  
+  템플릿 기반 정보를 순차적이며 문서 스타일의 읽기 경험으로 변환합니다.
+
+* **디지털 아카이브 준비**  
+  스프레드시트에서 파생된 자료의 휴대용 콘텐츠 버전을 만들어 장기 사용성을 확보합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **다중 형식 게시 파이프라인**  
+  Python API를 사용하여 자동화된 게시 워크플로우에서 XLT 템플릿으로부터 MOBI 출력을 생성합니다.
+
+* **대량 콘텐츠 변환**  
+  대규모 스프레드시트 템플릿 컬렉션을 프로그래밍 방식으로 휴대용 읽기 파일로 변환합니다.
+
+* **자동화 배포 시스템**  
+  생성된 MOBI 파일을 디지털 라이브러리, 전달 시스템 또는 콘텐츠 저장소로 라우팅합니다.
+
+* **문서 재활용**  
+  운영 스프레드시트 콘텐츠를 확장 가능한 자동화를 통해 읽을 수 있는 디지털 문서로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

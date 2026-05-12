@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para MD usando APIs Python transforma modelos de e‑mail do Outlook em arquivos Markdown para gerenciamento de conteúdo baseado em texto, leve, estruturado e portátil. Isso é útil quando o conteúdo do modelo precisa ser reutilizado em sistemas de documentação, fluxos de trabalho de desenvolvedores ou pipelines de publicação de conteúdo.
+
+Em ambientes impulsionados por automação, a conversão de OFT para MD suporta controle de versão, edição fácil e integração perfeita com geradores de sites estáticos e plataformas de documentação. Ela melhora a portabilidade do conteúdo e simplifica o processamento programático.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Reuso de Documentação**  
+  Converta modelos OFT em Markdown para inclusão em guias, bases de conhecimento ou documentos internos.
+
+* **Gerenciamento de Conteúdo com Controle de Versão**  
+  Armazene o conteúdo convertido em repositórios baseados em texto para rastreamento e edição colaborativa.
+
+* **Preparação de Publicação Estruturada**  
+  Prepare o conteúdo originado de e‑mail para sites estáticos ou sistemas de publicação baseados em markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação do Pipeline de Conteúdo**  
+  Transforme arquivos OFT em Markdown automaticamente para fluxos de trabalho de publicação e documentação.
+
+* **Gerenciamento de Modelos Baseado em Repositório**  
+  Envie arquivos MD convertidos para sistemas controlados por fonte para manutenção escalável.
+
+* **Transformação Programática de Conteúdo**  
+  Use APIs Python para normalizar e distribuir o conteúdo do modelo em plataformas modernas baseadas em texto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

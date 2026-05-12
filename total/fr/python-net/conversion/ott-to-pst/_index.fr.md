@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT en PST dans les API Python convertit les modèles de texte OpenDocument en structures de boîte aux lettres de stockage personnel pour des flux de travail d'archivage et de transport orientés courriel. Ceci est utile lorsque les communications générées à partir de documents doivent être conservées dans un format centré sur la boîte aux lettres.
+
+La conversion prend en charge l'automatisation en aidant les organisations à transférer le contenu des messages basés sur des modèles vers des flux de travail de stockage qui supportent l'archivage, la migration et la gestion de communications à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création d'archive de boîte aux lettres**  
+  Regroupe le contenu de communication généré dans un format de courrier orienté stockage.
+
+* **Support de rétention et de transfert**  
+  Aide à préserver et à déplacer le contenu basé sur les messages de manière efficace.
+
+* **Stockage de communication piloté par des modèles**  
+  Réutilise les modèles de documents pour une sortie compatible avec les boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'archive automatisée**  
+  Convertit le contenu des messages basés sur OTT en sorties PST en masse.
+
+* **Flux de travail orientés conformité**  
+  Prend en charge la rétention des enregistrements et les processus de stockage structuré du courrier.
+
+* **Pipelines de migration de communication**  
+  Alimente le contenu généré dans les flux de travail de transfert de courrier d'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

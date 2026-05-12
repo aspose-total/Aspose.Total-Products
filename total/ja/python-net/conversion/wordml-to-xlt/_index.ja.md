@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から XLT への変換は、構造化された文書コンテンツをスプレッドシートテンプレートファイルに変換し、再利用可能なワークブックの出発点として機能します。文書駆動のデータレイアウトや定期的なレポートで標準化されたスプレッドシートテンプレートが必要な場合に便利です。
+
+Python API は、テンプレート作成を自動化し、構造化されたソース文書から繰り返し可能なスプレッドシート生成を実現することで、WordML から XLT への変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **ワークブックテンプレート作成**
+  WordML コンテンツを XLT ファイルに変換し、再利用可能なスプレッドシート構造を提供します。
+
+* **定期レポートの標準化**
+  文書パターンに基づいて一貫したワークブックレイアウトの定義を支援します。
+
+* **プロセスの一貫性**
+  承認されたソースコンテンツからの繰り返し可能なスプレッドシート作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成ワークフロー**
+  WordML レポート、フォーム、または構造化テーブルから XLT の作成を自動化します。
+
+* **スプレッドシート作成の標準化**
+  共通テンプレートから定期的なワークブックを作成するチームを支援します。
+
+* **文書駆動レイアウトの自動化**
+  構造化された文書コンテンツを再利用可能なスプレッドシートの基盤に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

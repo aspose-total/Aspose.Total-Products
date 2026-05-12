@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から MBOX への変換は、Word テンプレートのコンテンツを、メッセージのコレクションを保存するために使用されるメールボックス指向のメールアーカイブ形式に変換します。テンプレートから生成されたコミュニケーションを大量に保持する必要がある保持または移行ワークフローで役立ちます。
+
+Python API を使用することで、この変換はメッセージのパッケージ化、アーカイブ操作、長期保存プロセスを自動化し、構造化された文書コンテンツがメールベースの記録の一部になることを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **大量メッセージのアーカイブ**
+  テンプレート駆動のコミュニケーションをメールボックス形式のストレージに変換します。
+
+* **メールコレクション管理**
+  複数の生成されたメッセージを単一のアーカイブ構造に保存します。
+
+* **移行準備**
+  文書由来のコミュニケーションをメールアーカイブに移行するワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動アーカイブ作成**
+  スケジュールされたジョブで DOTX ベースのメールコンテンツから MBOX 出力を生成します。
+
+* **保持ワークフロー**
+  変換されたコミュニケーションをガバナンス目的で集中アーカイブに保存します。
+
+* **文書からメールへの統合**
+  繰り返し生成されるテンプレート出力をプログラムでメールボックスコレクションにパッケージ化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

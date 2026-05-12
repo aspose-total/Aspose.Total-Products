@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 XLAM에서 DOCM으로의 변환은 Excel 추가 기능 콘텐츠를 매크로 사용이 가능한 Word 문서로 변환하여 고급 문서 동작 및 스크립트 작업을 지원합니다. 이는 조직이 자동화 가능성을 유지하면서 스프레드시트 기반 도구의 콘텐츠를 Word 중심 운영 환경으로 이동해야 할 때 유용합니다.
+
+자동화 중심 시스템의 경우, XLAM에서 DOCM으로의 변환은 생성된 문서가 하위 단계의 매크로 기반 검토, 서식 지정 또는 승인 프로세스에 참여하도록 함으로써 워크플로 연속성을 향상시킵니다. 이는 콘텐츠 생성과 문서 작업이 함께 작동하는 확장 가능한 문서 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 보고**  
+  매크로 또는 스크립트 작업에 의존하는 보고 프로세스를 위해 XLAM 콘텐츠를 DOCM 파일로 변환합니다.
+
+* **워크플로 준비 문서**  
+  자동 서식 지정, 검증 또는 안내된 사용자 상호 작용을 지원할 수 있는 Word 문서를 준비합니다.
+
+* **논리 포함 프로세스 문서**  
+  매크로 기반 기업 워크플로와의 호환성을 유지할 수 있는 구조화된 문서를 가능하게 합니다.
+
+* **운영 인계**  
+  변환 후 자동 작업에 의존하는 문서 시스템으로 스프레드시트 기반 콘텐츠를 이동하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서 처리 파이프라인**  
+  Python API를 사용해 XLAM 파일을 자동으로 DOCM 출력물로 변환하여 매크로 지원 내부 워크플로에 활용합니다.
+
+* **승인 및 검토 자동화**  
+  생성된 DOCM 파일이 매크로가 서식 지정 또는 검증 단계를 지원하는 자동 검토 사이클에 들어갈 수 있습니다.
+
+* **기업 양식 생성**  
+  변환 워크플로를 통해 스프레드시트 기반 비즈니스 로직에서 매크로 사용이 가능한 양식이나 보고서를 생성합니다.
+
+* **반복 콘텐츠 게시**  
+  예약된 변환을 통해 정기 보고 및 운영 업데이트를 위한 동적 DOCM 문서 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Voor een Python-ontwikkelaar, die probeert een ODT naar VCF-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT-naar-VCF-conversie zet documentgebaseerde contact- of profielinformatie om in een standaard contactkaartformaat dat geschikt is voor adresboeken en contactbeheersystemen. Dit is nuttig wanneer documenten gestructureerde persoonlijke of organisatorische contactgegevens bevatten.
+
+Python-API's maken ODT-naar-VCF-conversie mogelijk in geautomatiseerde workflows voor contactextractie, migratie en synchronisatie. Het helpt organisaties statische tekstreeksen om te zetten in herbruikbare contactgegevens met meer snelheid en nauwkeurigheid.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Contactinformatie‑extractie**  
+  Converteert namen, nummers en adressen uit documenten naar contactkaarten.
+
+* **Ondersteuning bij directorymigratie**  
+  Helpt contactgegevens van tekstdocumenten naar gestructureerde adresboeken te verplaatsen.
+
+* **Profielstandaardisatie**  
+  Zet informele contactlijsten om in herbruikbare digitale contactrecords.
+
+* **CRM‑voorbereiding**  
+  Ondersteunt een schonere import van contactgegevens in bedrijfssystemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactparsing**  
+  Python-scripts kunnen contactvelden in ODT‑bestanden identificeren en VCF‑uitvoer genereren.
+
+* **Bulkdirectoryconversie**  
+  Grote contactlijsten kunnen in batchtaken worden omgezet in herbruikbare kaarten.
+
+* **Synchronisatieworkflows**  
+  Geconverteerde contacten kunnen importpijplijnen voor adresboeken en gerelateerde systemen voeden.
+
+* **Voorbereiding van data‑verrijking**  
+  Gestructureerde VCF‑uitvoer kan downstream validatie‑ en integratieprocessen ondersteunen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OFT do DOT w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OFT do DOT przy użyciu interfejsów API Pythona umożliwia konwersję szablonów wiadomości e‑mail Outlook do starszych plików szablonów Word w celu standaryzacji tworzenia dokumentów. Jest to przydatne, gdy organizacje opierają się na wielokrotnego użytku strukturach dokumentów i muszą przekształcać treść wiadomości w formaty oparte na szablonach.
+
+W środowiskach skoncentrowanych na automatyzacji konwersja OFT do DOT pomaga dopasować treść pochodzącą z e‑maili do powtarzalnych procesów tworzenia dokumentów. Poprawia spójność, wspiera zarządzanie szablonami i upraszcza zadania generacji w dalszych etapach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie wielokrotnego użytku szablonów dokumentów**  
+  Konwertuj zawartość OFT do plików DOT w celu powtarzalnego generowania dokumentów na podstawie stałej struktury.
+
+* **Zgodność ze starszymi przepływami pracy**  
+  Wspieraj systemy, które nadal zależą od starszych formatów szablonów Word w operacjach biznesowych.
+
+* **Standaryzowana dystrybucja treści**  
+  Dostarczaj pliki gotowe do użycia jako szablony, które zachowują spójne formatowanie we wszystkich generowanych dokumentach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane biblioteki szablonów**  
+  Twórz i utrzymuj repozytoria szablonów dokumentów z zawartości OFT przy użyciu interfejsów API Pythona.
+
+* **Spójne generowanie formularzy**  
+  Używaj skonwertowanych plików DOT w zautomatyzowanych systemach, które tworzą powtarzające się raporty lub formularze.
+
+* **Strukturalna transformacja treści**  
+  Konwertuj szablony e‑maili na wielokrotnego użytku wzorce dokumentów, aby umożliwić skalowalne przepływy operacyjne.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

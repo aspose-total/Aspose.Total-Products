@@ -53,7 +53,44 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCX para Imagens transforma documentos de processamento de texto em formatos de imagem que capturam o layout visual e a formatação das páginas do documento. Esse processo permite que o conteúdo do documento seja compartilhado ou arquivado como arquivos visuais estáticos.
+
+Usando APIs Python, a conversão de DOCX para imagem pode ser automatizada para sistemas de pré‑visualização de documentos, plataformas de publicação de conteúdo e processos de arquivamento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Geração de Pré‑visualização de Documentos**  
+  Converte páginas DOCX em imagens para visualizações rápidas.
+
+* **Arquivamento Visual de Documentos**  
+  Preserva a aparência do documento em formato de imagem.
+
+* **Fluxos de Trabalho de Publicação de Conteúdo**  
+  Permite que o conteúdo do documento seja incorporado como imagens.
+
+* **Criação de Captura de Página**  
+  Gera representações visuais das páginas do documento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Miniaturas de Documentos**  
+  Os sistemas podem converter arquivos DOCX em pré‑visualizações de imagem.
+
+* **Pipelines de Exportação em Lote de Imagens**  
+  Scripts Python podem gerar imagens a partir de grandes coleções de documentos.
+
+* **Plataformas de Distribuição de Conteúdo**  
+  Documentos podem ser convertidos em imagens para fluxos de trabalho de publicação ou compartilhamento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

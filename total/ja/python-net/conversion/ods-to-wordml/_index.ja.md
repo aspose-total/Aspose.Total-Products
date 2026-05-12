@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODSからWORDMLへの変換は、スプレッドシートファイルをWordprocessingMLに変換します。WordprocessingMLは、構造化文書表現に使用されるXMLベースの文書形式です。これにより、スプレッドシートデータを機械可読な文書構造で表現できます。
+
+Python APIを使用すると、スプレッドシート入力からWordprocessingML文書を自動的に生成できます。これにより、スケーラブルな文書処理、データ変換パイプライン、構造化文書ワークフローとの統合がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **構造化文書生成**  
+  スプレッドシートデータをXMLベースの文書構造に変換します。
+
+* **データ相互運用性**  
+  スプレッドシートから派生した機械可読な文書形式を可能にします。
+
+* **文書処理パイプライン**  
+  スプレッドシートの内容をXMLベースの文書ワークフローに統合します。
+
+* **コンテンツ変換**  
+  表形式のスプレッドシート情報を構造化文書データに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **プログラムによる文書生成**  
+  Pythonシステムはスプレッドシート入力から直接構造化文書を生成します。
+
+* **バッチXML文書変換**  
+  自動化されたパイプラインは大量のスプレッドシートをWordprocessingMLに変換します。
+
+* **データ統合ワークフロー**  
+  スプレッドシートから生成された構造化文書はエンタープライズシステムと統合します。
+
+* **動的コンテンツ変換**  
+  プログラムによるパイプラインはスプレッドシートデータセットをXMLベースの文書形式に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

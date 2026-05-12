@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de documento a OST prepara contenido derivado de documentos para flujos de trabajo asociados con datos de buzón fuera de línea y entornos de correo sincronizados. Es útil en escenarios donde la información del documento debe alinearse con las estructuras de almacenamiento de mensajería empresarial.
+
+El uso de APIs de Python para el procesamiento orientado de DOC a OST mejora la preparación para la automatización, soporta el manejo estandarizado y reduce el trabajo manual en operaciones empresariales relacionadas con el correo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Preparación de Datos del Buzón**
+  Convertir contenido basado en documentos para flujos de trabajo que interactúan con el almacenamiento de correo fuera de línea.
+
+* **Soporte de Comunicación Empresarial**
+  Alinear los resultados de los documentos con los entornos de mensajería utilizados en sistemas de correo sincronizados.
+
+* **Integración de Flujos de Trabajo de Retención**
+  Preservar o procesar contenido derivado de documentos dentro de operaciones orientadas al buzón.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Automatización del Almacenamiento de Correo**
+  Preparar programáticamente el contenido de documentos para flujos de trabajo empresariales relacionados con OST.
+
+* **Trabajos de Conversión a Gran Escala**
+  Automatizar la gestión de documentos donde se requiere procesamiento compatible con el buzón.
+
+* **Canales de Cumplimiento y Retención**
+  Utilizar pasos de conversión scriptados para apoyar entornos controlados de datos de mensajes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

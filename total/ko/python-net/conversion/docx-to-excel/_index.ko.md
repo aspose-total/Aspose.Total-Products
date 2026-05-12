@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX를 Excel로 변환하면 워드 프로세싱 문서를 수치 분석 및 구조화된 데이터 처리를 위한 스프레드시트 형식으로 변환할 수 있습니다. 이 프로세스는 DOCX 파일에서 표 형식 또는 구조화된 정보를 추출하여 스프레드시트 호환 형식으로 변환합니다.
+
+Python API를 사용하면 DOCX‑to‑Excel 변환을 자동화된 데이터 처리 시스템에 통합할 수 있어 보고, 분석 및 기업 데이터 워크플로를 위한 확장 가능한 문서 변환 파이프라인을 구현할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 표 추출**  
+  DOCX 표를 데이터 분석을 위한 스프레드시트 시트로 변환합니다.
+
+* **구조화된 데이터 변환**  
+  문서 기반 데이터를 스프레드시트 호환 형식으로 추출합니다.
+
+* **보고서 데이터 처리**  
+  문서 보고서를 스프레드시트 데이터 세트로 변환할 수 있게 합니다.
+
+* **콘텐츠를 스프레드시트 시스템으로 마이그레이션**  
+  구조화된 문서 콘텐츠를 스프레드시트 도구로 마이그레이션하는 것을 용이하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 데이터 보고 파이프라인**  
+  DOCX 보고서를 자동으로 스프레드시트로 변환하여 분석에 활용할 수 있습니다.
+
+* **배치 문서‑스프레드시트 변환**  
+  Python 자동화를 통해 대량의 DOCX 파일을 Excel 파일로 변환할 수 있습니다.
+
+* **기업 데이터 통합**  
+  문서 데이터를 동적으로 스프레드시트로 내보내어 비즈니스 인텔리전스 시스템에 활용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

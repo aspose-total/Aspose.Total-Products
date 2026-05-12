@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de documento para PST transforma o conteúdo de mensagens derivado do Word em um formato de armazenamento pessoal comumente usado para gerenciamento de caixas de correio em larga escala e cenários de arquivamento. É útil quando o conteúdo do documento precisa ser incorporado a fluxos de trabalho mais amplos de armazenamento de e‑mail.
+
+APIs Python tornam a conversão de DOC para PST mais eficiente para tarefas corporativas de retenção, migração e arquivamento, ajudando a padronizar os processos de armazenamento de documentos em e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Consolidação de Arquivo de Caixa de Correio**
+  Converta o conteúdo de comunicação derivado de documentos para PST para armazenamento e transferência.
+
+* **Fluxos de Trabalho de Migração**
+  Prepare ativos de mensagens baseados em documentos para cenários corporativos de migração de e‑mail.
+
+* **Suporte à Retenção**
+  Preserve o conteúdo estruturado em um formato de armazenamento de caixa de correio pessoal amplamente usado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Arquivo**
+  Gere programaticamente conteúdo PST a partir de fontes de mensagens baseadas em DOC.
+
+* **Empacotamento em Massa de Dados de E‑mail**
+  Converta grandes volumes de conteúdo derivado de documentos em contêineres de armazenamento de caixa de correio.
+
+* **Processamento Orientado à Conformidade**
+  Use a conversão automatizada para apoiar fluxos de trabalho controlados de retenção e arquivamento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to ODS conversion transforms Word content into OpenDocument spreadsheet files, making structured data easier to review, calculate, and share in open office workflows. It is useful when document tables or records need spreadsheet functionality in an open format.
+
+With Python APIs, DOC to ODS conversion becomes faster and more reliable, supporting repeatable data extraction and integration across reporting, analytics, and operational systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Konwersja do otwartego arkusza kalkulacyjnego**
+  Przenieś tabele dokumentu do ODS w celu sortowania, obliczeń i strukturalnego przeglądu.
+
+* **Wymiana danych interoperacyjnych**
+  Użyj wyjścia ODS, gdy preferowana jest wymiana arkuszy kalkulacyjnych w otwartym formacie.
+
+* **Operacyjne wydobywanie danych**
+  Konwertuj powtarzające się treści dokumentu na wielokrotnego użytku zasoby arkusza kalkulacyjnego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane eksporty danych**
+  Generuj pliki ODS z wejść DOC dla otwartych potoków raportowania w open office.
+
+* **Masowa obróbka arkuszy kalkulacyjnych**
+  Konwertuj rekordy oparte na dokumentach na wyjścia arkuszy kalkulacyjnych w dużej skali.
+
+* **Przepływy integracji systemowej**
+  Programowo połącz wydobywanie dokumentów z obsługą danych w otwartym formacie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

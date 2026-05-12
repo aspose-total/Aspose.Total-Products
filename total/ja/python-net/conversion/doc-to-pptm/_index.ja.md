@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to PPTM conversion converts Word content into macro-enabled presentation files that combine editable slides with automation-ready capabilities. It is valuable in advanced presentation workflows where repeatability and embedded functionality matter.
+
+Python APIs support DOC to PPTM conversion for scalable, controlled presentation generation, helping automate content production while preserving structured output.
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ有効プレゼンテーション作成**
+  高度なワークフローをサポートし、ドキュメントコンテンツを編集可能なプレゼンテーションに変換します。
+
+* **自動化スライドプロセス**
+  構造化されたプレゼンテーション出力と自動化が共存する必要がある場面で PPTM を使用します。
+
+* **エンタープライズコンテンツ標準化**
+  繰り返し使用されるドキュメントソースから一貫したプレゼンテーションファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **高度なプレゼンテーション自動化**
+  動的なレポーティング環境で DOC コンテンツから PPTM ファイルを自動的に作成します。
+
+* **スケーラブルなスライド生成**
+  プログラムでドキュメントリポジトリをマクロ有効プレゼンテーションに変換します。
+
+* **繰り返し可能なコンテンツ配信**
+  Python ワークフローを使用して自動化されたプレゼンテーション出力を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

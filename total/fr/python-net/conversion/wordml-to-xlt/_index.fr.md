@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers XLT transforme le contenu de documents structurés en fichiers de modèles de feuilles de calcul qui servent de points de départ réutilisables pour les classeurs. Ceci est utile lorsque des mises en page de données guidées par des documents ou des rapports récurrents nécessitent des modèles de feuilles de calcul standardisés.
+
+Les API Python prennent en charge la conversion WordML vers XLT en automatisant la création de modèles et en permettant la génération répétable de feuilles de calcul à partir de documents sources structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèle de classeur**  
+  Convertit le contenu WordML en fichiers XLT pour des structures de feuilles de calcul réutilisables.
+
+* **Standardisation des rapports récurrents**  
+  Aide à définir des mises en page de classeur cohérentes basées sur les modèles de documents.
+
+* **Cohérence des processus**  
+  Prend en charge la création répétable de feuilles de calcul à partir de contenu source approuvé.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Flux de travail de génération de modèles**  
+  Automatise la création de XLT à partir de rapports WordML, de formulaires ou de tableaux structurés.
+
+* **Standardisation de la production de feuilles de calcul**  
+  Soutient les équipes créant des classeurs récurrents à partir de modèles communs.
+
+* **Automatisation de la mise en page guidée par les documents**  
+  Convertit le contenu de documents structurés en bases de feuilles de calcul réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

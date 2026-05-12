@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to TSV 変換は、書式設定されたテキスト文書を、インポート、検査、分析および統合システム全体で処理しやすいタブ区切りデータファイルに変換します。これは、文書の内容をシンプルで構造化されたテキストに、明確なフィールド区切りで変換する必要がある場合に有用です。
+
+自動化のために、RTF to TSV は軽量なデータ変換パイプラインをサポートし、文書由来のコンテンツをスクリプト、データベース、プレーンテキストの表形式を好む処理ツールへ容易に移行できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **プレーンテキストデータ構造化**  
+  リッチテキストコンテンツをタブ区切りレコードに変換し、解析とインポートを容易にします。
+
+* **統合に適したエクスポート**  
+  軽量テキストベースのデータファイルを受け入れるシステム向けに、文書情報の準備を支援します。
+
+* **大量データ変換**  
+  RTF コンテンツを構造化された表形式出力に大量に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **スクリプト駆動データパイプライン**  
+  システムは RTF ファイルを TSV に変換し、下流の解析や変換タスクに利用できます。
+
+* **定期的なエクスポートワークフロー**  
+  プログラムによる変換は、文書フィードから構造化テキスト出力をスケジュール作成することをサポートします。
+
+* **システム間データ交換**  
+  動的プロセスは TSV を中間フォーマットとして使用し、文書コンテンツを分析ツールや運用ツールへ移行できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

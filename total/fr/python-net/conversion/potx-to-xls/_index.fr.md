@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de POTX en XLS avec les API Python convertit le contenu des modèles PowerPoint en fichiers tableur qui prennent en charge la saisie et l'analyse de données structurées. Cela est utile pour les organisations qui doivent transférer des informations basées sur des présentations vers des formats de feuilles de calcul pour des besoins opérationnels ou de reporting.
+
+Dans les pipelines d'automatisation, la conversion de POTX en XLS réduit le travail d'extraction manuel et permet une transformation évolutive en sorties de tableur. Elle prend en charge la compatibilité avec les tableurs anciens tout en améliorant l'efficacité des flux de travail centrés sur les données.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Conversion de feuille de calcul**
+  Transforme le contenu des modèles de présentation en fichiers basés sur des feuilles de calcul pour une utilisation structurée.
+
+* **Prise en charge des tableurs anciens**
+  Aide à fournir des sorties dans des formats de tableur plus anciens requis par les systèmes établis.
+
+* **Gestion des données opérationnelles**
+  Prend en charge la réutilisation des informations de présentation dans les tâches d'analyse et de reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation automatisée des anciens formats**
+  Génère des fichiers XLS à partir de sources POTX pour les systèmes qui dépendent de formats de tableur plus anciens.
+
+* **Production de tableurs en lot**
+  Prend en charge la conversion à haut volume de fichiers modèles en feuilles de calcul structurées.
+
+* **Intégration du traitement des données**
+  Connecte les sorties de tableur converties aux flux de travail de reporting et de validation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

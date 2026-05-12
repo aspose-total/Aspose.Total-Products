@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF에서 이미지로 변환은 서식이 적용된 텍스트 문서를 시각적 출력물(예: 페이지 이미지)로 변환하여 보기, 공유, 미리보기 또는 삽입에 사용할 수 있게 합니다. 이는 편집 가능한 텍스트 구조보다 문서 충실도, 레이아웃 보존 및 쉬운 크로스 플랫폼 접근성이 더 중요할 때 유용합니다.
+
+자동화 워크플로우에서 RTF에서 이미지로 변환은 미리보기, 아카이브, 퍼블리싱 시스템 및 시각적 검토 프로세스를 위해 대규모 문서 렌더링을 지원하며, 장치와 환경 전반에 걸쳐 일관된 외관이 중요할 때 활용됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 미리보기 생성**  
+  포털, 앱 또는 콘텐츠 시스템에 쉽게 표시할 수 있는 이미지로 페이지를 변환합니다.
+
+* **레이아웃 보존**  
+  공유 및 검토를 위해 풍부한 텍스트 콘텐츠의 시각적 모습을 유지하는 데 도움이 됩니다.
+
+* **아카이브 시각화**  
+  장기 참조를 위해 문서를 보기 가능한 스냅샷으로 저장하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 썸네일 및 미리보기 워크플로우**  
+  시스템은 검색 결과, 대시보드 또는 문서 라이브러리를 위해 RTF 파일을 이미지로 렌더링할 수 있습니다.
+
+* **퍼블리싱 및 배포 파이프라인**  
+  프로그래밍 방식 변환을 통해 이미지 자산을 선호하는 채널에서 콘텐츠를 시각적으로 전달할 수 있습니다.
+
+* **배치 렌더링 프로세스**  
+  대규모 문서 세트를 일관된 페이지 이미지로 변환하여 규정 준수, 검토 또는 웹 프레젠테이션에 활용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

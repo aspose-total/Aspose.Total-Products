@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MSG를 MD로 변환 기
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to MD 변환은 이메일 메시지를 Markdown으로 변환하여 깔끔하고 가볍고 휴대 가능한 텍스트 기반 문서를 만들 수 있습니다. 이메일 콘텐츠를 지식 베이스, 개발자 문서 또는 콘텐츠 게시 워크플로우에서 재사용해야 할 때 특히 유용합니다.
+
+자동화 파이프라인에서 MSG to MD 변환은 버전 관리 문서, 콘텐츠 정규화 및 간소화된 텍스트 처리를 지원합니다. 이는 이메일 커뮤니케이션을 현대적인 콘텐츠 운영 및 게시 시스템과 연결하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **지식 베이스 통합**  
+  구조화된 내부 문서를 위해 이메일을 Markdown으로 변환합니다.
+
+* **개발자 친화적 콘텐츠 재사용**  
+  레포지토리와 문서 시스템에 적합한 형식으로 메시지 텍스트를 보존합니다.
+
+* **경량 퍼블리싱 준비**  
+  정적 사이트 또는 콘텐츠 워크플로우 사용을 위해 이메일에서 파생된 콘텐츠를 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서 파이프라인 자동화**  
+  자동 게시 또는 인덱싱을 위해 MSG 파일을 Markdown으로 변환합니다.
+
+* **레포지토리 기반 콘텐츠 관리**  
+  버전 관리 문서 워크플로우에 변환된 이메일 콘텐츠를 저장합니다.
+
+* **텍스트 정규화 프로세스**  
+  인바운드 커뮤니케이션을 경량의 기계 친화적인 텍스트 콘텐츠로 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

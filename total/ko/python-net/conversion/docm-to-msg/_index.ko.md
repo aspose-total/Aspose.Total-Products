@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 MSG로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to MSG 변환은 매크로가 포함된 문서를 개별 이메일 메시지 파일로 변환하여 메시지 기반 저장 및 교환 워크플로에 적합하게 합니다. 이는 문서 내용이 커뮤니케이션, 검토 또는 보존을 위한 구조화된 이메일 아티팩트로 보존되어야 할 때 유용합니다.
+
+자동화를 위해 DOCM to MSG 워크플로는 프로세스 처리를 위해 개별 메일 항목에 의존하는 시스템에서 메시지 생성, 저장 및 전송을 간소화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **단일 메시지 패키징**
+  문서 내용으로부터 독립형 메시지 파일을 생성하여 체계적인 커뮤니케이션 워크플로를 지원합니다.
+
+* **보관 및 검토**
+  문서에서 파생된 서신을 구조화된 메시지 형식으로 보존합니다.
+
+* **메일 시스템 호환성**
+  커뮤니케이션을 개별 메시지 객체로 처리하거나 저장하는 환경을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 메시지 파일 생성**
+  반복 가능한 워크플로의 일환으로 DOCM 문서에서 직접 MSG 출력을 생성합니다.
+
+* **워크플로 기반 보존**
+  변환된 메시지 파일을 컴플라이언스, 감사 또는 아카이브 시스템으로 라우팅합니다.
+
+* **확장 가능한 배치 처리**
+  대량의 DOCM 파일을 프로그래밍 방식으로 메시지 아티팩트로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

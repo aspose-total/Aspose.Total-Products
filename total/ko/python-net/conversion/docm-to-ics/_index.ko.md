@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 ICS로 변환하면 매크로가 포함된 문서 내용을 캘린더와 호환되는 데이터로 전환하여 일정, 이벤트 세부 정보 또는 날짜‑기반 콘텐츠를 계획 워크플로우에서 재사용할 수 있게 합니다. 특히 문서에 구조화된 이벤트 정보가 포함되어 더 넓은 접근성이 필요할 때 유용합니다.
+
+자동화 관점에서 DOCM to ICS 변환은 작성된 일정을 캘린더 시스템과 연결하여 자동 이벤트 생성, 동기화, 시간‑기반 워크플로 조정을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **일정 추출**
+  이벤트 관련 문서 내용을 계획에 사용할 수 있는 캘린더‑준비 데이터로 변환합니다.
+
+* **회의 및 마감일 게시**
+  문서에 정의된 일정표를 표준화된 캘린더 파일을 통해 배포하는 데 도움을 줍니다.
+
+* **크로스 플랫폼 일정 관리**
+  날짜‑기반 정보를 호환 가능한 캘린더 도구로 이식하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이벤트 생성**
+  회의 또는 마감일 세부 정보가 포함된 DOCM 콘텐츠에서 ICS 파일을 생성합니다.
+
+* **캘린더 동기화 워크플로**
+  문서에서 파생된 일정을 계획 시스템으로 자동 가져오기를 지원합니다.
+
+* **반복 배치 일정**
+  다수의 일정 문서를 대규모로 표준화된 캘린더 출력으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

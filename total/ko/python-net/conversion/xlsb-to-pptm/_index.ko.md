@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB에서 PPTM으로 변환하면 이진 스프레드시트 데이터를 매크로 사용 프레젠테이션 파일로 바꾸어, 구조화된 스프레드시트 콘텐츠와 프레젠테이션 자동화 기능을 결합한 고급 슬라이드 워크플로를 지원합니다. 이는 동적이거나 스크립트 기반 프레젠테이션 동작이 필요한 상황에서 유용합니다.
+
+자동화 파이프라인에서 XLSB에서 PPTM으로의 변환은 조직이 데이터 기반이면서 자동화 준비가 된 프레젠테이션 출력을 생성하도록 하여, 반복 보고, 가이드형 프레젠테이션 및 운영 브리핑의 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 프레젠테이션**  
+  스프레드시트 콘텐츠를 프레젠테이션 자동화를 지원하는 슬라이드 덱으로 변환합니다.
+
+* **고급 보고서 덱**  
+  동적 비즈니스 프레젠테이션을 위한 구조화된 시각적 출력을 준비하는 데 도움이 됩니다.
+
+* **자동화된 프레젠테이션 워크플로**  
+  데이터와 스크립트 동작이 함께 작동하는 프레젠테이션 생성을 지원합니다.
+
+* **재사용 가능한 시각 자산**  
+  스프레드시트 기반 입력으로 향상된 프레젠테이션을 만들 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **스크립트 기반 덱 생성**  
+  시스템이 XLSB 파일을 PPTM 출력으로 변환하여 자동 슬라이드 워크플로를 수행할 수 있습니다.
+
+* **반복 데이터 프레젠테이션**  
+  스프레드시트 기반 보고서를 프로그래밍 방식으로 매크로 사용 프레젠테이션으로 변환할 수 있습니다.
+
+* **배치 시각 처리**  
+  여러 XLSB 소스를 대규모로 고급 프레젠테이션 파일로 변환할 수 있습니다.
+
+* **운영 슬라이드 자동화**  
+  자동화 워크플로가 비즈니스 팀을 위한 풍부한 프레젠테이션 출력을 준비하도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

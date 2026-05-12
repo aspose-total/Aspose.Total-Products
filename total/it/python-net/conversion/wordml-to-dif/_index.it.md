@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a DIF consente di esportare i dati strutturati dei documenti nel Data Interchange Format per garantire la compatibilità con fogli di calcolo legacy e sistemi di elaborazione dati. Questo è utile quando le organizzazioni devono preservare contenuti strutturati in formati di scambio più vecchi ma ancora supportati.
+
+Le API Python rendono efficiente la conversione da WordML a DIF estraendo le tabelle, preservando le relazioni logiche dei dati e automatizzando la trasformazione dei documenti per progetti di migrazione e interoperabilità.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Scambio di fogli di calcolo legacy**
+  Converte il contenuto delle tabelle WordML in DIF per la compatibilità con ambienti di fogli di calcolo più vecchi.
+
+* **Progetti di migrazione dei dati**
+  Aiuta a trasferire informazioni strutturate dai documenti in formati di archiviazione o trasferimento interoperabili.
+
+* **Preservazione di record strutturati**
+  Supporta la conservazione a lungo termine del contenuto tabellare in un formato progettato per lo scambio di dati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione massiva legacy**
+  Automatizza la conversione delle tabelle basate su documenti in DIF per grandi set di dati storici.
+
+* **Supporto al flusso di lavoro di migrazione**
+  Si integra con progetti di modernizzazione automatizzati che richiedono formati di scambio più vecchi.
+
+* **Attività di standardizzazione dei dati**
+  Consente routine di conversione ripetibili per la normalizzazione di contenuti strutturati attraverso i repository.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

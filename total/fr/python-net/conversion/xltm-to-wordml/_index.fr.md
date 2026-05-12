@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLTM vers WordML en Python prend en charge la conversion de modèles Excel avec macros en balisage Word basé sur XML pour un traitement de documents structuré et lisible par machine. Ceci est utile lorsque le contenu piloté par des feuilles de calcul doit être représenté dans un format adapté à la manipulation avancée de documents et à l'intégration système.
+
+Dans les environnements axés sur l'automatisation, la conversion XLTM vers WordML améliore l'interopérabilité, prend en charge les flux de travail de documents structurés et permet un contrôle plus approfondi des processus de génération de documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Génération de documents basée sur XML**  
+  Convertit les modèles de classeur en balisage Word structuré pour une gestion de documents adaptée aux systèmes.
+
+* **Traitement de contenu lisible par machine**  
+  Prend en charge les flux de travail nécessitant que la sortie du document soit analysée, validée ou transformée de manière programmatique.
+
+* **Intégration avancée de documents**  
+  Aide à connecter les données provenant de feuilles de calcul avec des écosystèmes de documents structurés et des pipelines de traitement personnalisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de documents structurés**  
+  Génère des fichiers WordML à partir de modèles XLTM pour des flux de travail de publication pilotés par XML.
+
+* **Échange de contenu système à système**  
+  Permet aux applications Python de produire du balisage de document qui s'intègre aux outils de traitement en aval.
+
+* **Pipelines de transformation programmatiques**  
+  Prend en charge des processus de conversion évolutifs où une sortie de document lisible par machine est requise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

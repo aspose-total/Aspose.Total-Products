@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から EMLX への変換は、Word テンプレートのコンテンツを、特定のデスクトップメール環境で一般的に使用されるメールファイル形式に変換します。これにより、組織は構造化された文書コンテンツをローカライズされたメール保存やクライアント固有のワークフローに適応させることができます。
+
+Python API を使用して、この変換は、文書テンプレートを処理、配信準備、またはアーカイブのためにクライアント互換のメール資産に変換する必要がある自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **クライアント固有のメール出力**
+  文書コンテンツを、サポートされているデスクトップ環境に合わせたメール形式に変換します。
+
+* **ローカライズされたメッセージ保存**
+  メール準備ができたコンテンツを、メールボックスレベルの保存に適した形式で保持します。
+
+* **テンプレートベースのコミュニケーション**
+  Word テンプレートを再利用し、構造化されたメール生成の基盤とします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **メールボックス準備ワークフロー**
+  DOTX テンプレートから EMLX ファイルを自動的に生成し、下流の処理に利用します。
+
+* **自動化されたメールパッケージング**
+  コミュニケーション処理タスク中に、クライアント指向のメールファイルを生成します。
+
+* **文書からメールへのアーカイブ**
+  変換されたテンプレートコンテンツを、参照用にメール互換のアーカイブに保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

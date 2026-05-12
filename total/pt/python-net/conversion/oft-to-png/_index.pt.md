@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para PNG usando APIs Python renderiza modelos de e‑mail do Outlook em imagens raster de alta qualidade com compressão sem perdas. Isso é útil quando os visuais dos modelos precisam ser preservados claramente para pré‑visualizações, documentação e compartilhamento digital sem introduzir artefatos de compressão.
+
+Essa conversão suporta automação ao possibilitar a geração confiável de imagens para bibliotecas de conteúdo, sistemas de revisão e fluxos de trabalho de arquivamento. É especialmente valiosa onde clareza, suporte à transparência e apresentação digital estável são importantes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preservação Visual de Alta Qualidade**  
+  Converta modelos OFT em imagens PNG para saída digital nítida e consistente.
+
+* **Documentação e Ativos de Pré‑visualização**  
+  Use arquivos PNG em manuais, painéis ou repositórios que exigem capturas claras dos modelos.
+
+* **Imagens de Arquivo Sem Perdas**  
+  Preserve layouts de e‑mail em um formato de imagem que mantém os detalhes visuais de forma eficaz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Capturas**  
+  Crie pré‑visualizações PNG a partir de arquivos OFT para ferramentas de revisão e gerenciamento de conteúdo.
+
+* **Fluxos de Trabalho Escaláveis de Ativos Digitais**  
+  Direcione as saídas PNG renderizadas para armazenamento, publicação ou sistemas de indexação automaticamente.
+
+* **Preservação Programática de Qualidade**  
+  Use APIs Python para produzir ativos de imagem consistentes para fluxos de trabalho visuais de alta fidelidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から PPTX への変換は、文書コンテンツを編集、共同作業、そしてプロフェッショナルな配信に適した最新のプレゼンテーションファイルに変換します。特に、レポート、アウトライン、正式な文書を視覚的に構造化されたスライドデッキに変換する際に有用です。
+
+Python API を使用すると、WordML から PPTX への変換を効率的に行うことができ、コンテンツをプログラムでスライドに整理し、レポートや出版ワークフロー全体でスケーラブルな自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **モダンなスライドデック作成**
+  WordML 文書を PPTX プレゼンテーションに変換し、プロフェッショナルなコミュニケーションを実現します。
+
+* **共同コンテンツ再利用**
+  書面資料から編集可能でプレゼンテーション用の出力が必要なチームをサポートします。
+
+* **構造化情報配信**
+  レポートや要約を簡潔なビジュアル形式で提示するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動プレゼンテーション作成**
+  繰り返し使用されるソース文書から手動でスライドを作成せずに PPTX デッキを生成します。
+
+* **レポートワークフロー統合**
+  ビジネスプロセスにおいて、文書の更新をプレゼンテーション生成に結び付けます。
+
+* **スケーラブルなスライド公開**
+  標準化された WordML ソースから大量のプレゼンテーション資産を作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から XLTM への変換は、ワードプロセッシング文書をマクロ対応スプレッドシートテンプレートファイルに変換し、高度で繰り返し可能なブック生成を実現します。文書の内容を自動化機能を含むスプレッドシートワークフローのテンプレート基盤として再利用する必要がある場合に有用です。
+
+自動化とスケールを考慮した場合、この変換は組織が書面のソース素材から再利用可能でロジック対応のブックテンプレートを作成できるよう支援し、繰り返しプロセスにおける手動設定を削減します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ対応テンプレート生成**
+  文書を高度な自動化をサポートするスプレッドシートテンプレートに変換します。
+
+* **再利用可能なロジック駆動ブック**
+  組み込みの操作動作を持つブックの繰り返し作成をサポートします。
+
+* **高度なレポーティングフレームワーク**
+  文書の内容から始める複雑なスプレッドシートプロセスの標準化に役立ちます。
+
+* **高い一貫性のプロセス設計**
+  承認された文書構造と繰り返し可能なブック自動化資産をつなぎます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレートライブラリ作成**
+  繰り返しのビジネスワークフロー向けに Word 文書から XLTM ファイルを生成します。
+
+* **ロジックベースのブック提供**
+  マクロ対応テンプレートを使用して繰り返しのスプレッドシート生成を効率化します。
+
+* **スケーラブルなプロセス標準化**
+  書面のソース素材を高度な再利用可能ブック資産に変換します。
+
+* **ワークフローの加速**
+  テンプレート変換をより広範なスプレッドシート自動化パイプラインに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

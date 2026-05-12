@@ -65,7 +65,35 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a XLAM converte la logica o i dati strutturati derivati da documenti in flussi di lavoro di fogli di calcolo legati a componenti aggiuntivi, dove sono necessarie funzionalità riutilizzabili e risorse confezionate. È preziosa negli ecosistemi avanzati di fogli di calcolo che dipendono da estensioni modulari e da asset di automazione ripetibili.
+
+Le API Python supportano i flussi di lavoro relativi a WordML a XLAM preparando contenuti strutturati per soluzioni di fogli di calcolo orientate all'automazione e per l'elaborazione scalabile basata su documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione Componenti Aggiuntivi per Fogli di Calcolo** Utilizza il contenuto del documento come input per flussi di lavoro di estensione di fogli di calcolo riutilizzabili.
+
+* **Supporto Avanzato all'Automazione** Aiuta a strutturare gli asset derivati da documenti per ambienti di fogli di calcolo guidati da funzioni.
+
+* **Imballaggio di Logica Riutilizzabile** Supporta la trasformazione di contenuti ricorrenti in risorse allineate ai componenti aggiuntivi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Generazione di Asset di Automazione** Integra il contenuto derivato da WordML nei pipeline di preparazione dei componenti aggiuntivi.
+
+* **Imballaggio di Flussi di Lavoro Riutilizzabili** Supporta processi di conversione ricorrenti per componenti di automazione di fogli di calcolo strutturati.
+
+* **Abilitazione di Fogli di Calcolo Aziendali** Connette i repository di documenti con flussi di lavoro avanzati di estensione dei fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to PCL 変換は、メールメッセージファイルをデバイス指向の印刷ワークフロー向けのプリンタコマンド言語出力に変換します。メッセージ内容を印刷パイプライン、ハードウェア駆動環境、またはプリンタ対応フォーマットに依存する出力プロセスに送る必要がある場合に便利です。
+
+自動化のために、MSG to PCL 変換は大量印刷、運用ディスパッチ、システム制御の文書出力をサポートします。メールベースのコンテンツを生産印刷やデバイス管理ワークフローに統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プリンタ対応メール出力**  
+  印刷指向の環境で直接使用できるようにメッセージ内容を準備します。
+
+* **運用印刷パイプライン**  
+  変換されたコンテンツを印刷システムへルーティングするワークフローをサポートします。
+
+* **デバイス互換レンダリング**  
+  プリンタコマンド処理用に設計されたフォーマットでメッセージ出力を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量印刷自動化**  
+  運用システム全体でバッチ印刷を行うために、MSG ファイルを PCL に変換します。
+
+* **デバイスルーティングワークフロー**  
+  メッセージ由来の印刷ジョブを自動化されたハードウェア出力パイプラインを通じて送信します。
+
+* **印刷キュー標準化**  
+  メールコンテンツをプリンタ互換の出力に正規化し、一貫した処理を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

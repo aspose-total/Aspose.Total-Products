@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para TIFF transforma o conteúdo da caixa de correio em um formato de imagem de alta qualidade, comumente usado em fluxos de trabalho de arquivamento, digitalização e preservação de documentos. É útil para organizações que precisam de representações duráveis e baseadas em imagem dos registros de e‑mail.
+
+As APIs Python suportam a conversão escalável de OST para TIFF para preservação automatizada, conformidade e operações de imagem. Isso ajuda a manter a qualidade de saída consistente ao possibilitar a integração eficiente com sistemas de arquivamento e gerenciamento de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preservação de Imagens de Arquivo**  
+  Converte o conteúdo da caixa de correio em TIFF para armazenamento durável e de alta fidelidade.
+
+* **Imagens de Conformidade**  
+  Suporta fluxos de trabalho de retenção que dependem de padrões de preservação baseados em imagens.
+
+* **Suporte à Revisão de Documentos**  
+  Ajuda equipes a inspecionar registros de e‑mail como imagens estáticas em ambientes controlados.
+
+* **Saída de Registro Compatível com Sistemas**  
+  Permite que o conteúdo da caixa de correio se ajuste a plataformas de imagem e arquivamento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Pipeline de Preservação**  
+  Scripts Python convertem arquivos OST em TIFF para gerenciamento de registros a longo prazo.
+
+* **Integração de Fluxo de Trabalho de Imagem**  
+  Sistemas automatizados preparam visuais derivados da caixa de correio para plataformas de arquivo de documentos.
+
+* **Processamento de Conformidade em Grande Volume**  
+  Conversão programática suporta a geração escalável de registros de comunicação baseados em imagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

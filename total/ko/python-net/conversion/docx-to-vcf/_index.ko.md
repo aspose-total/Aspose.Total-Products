@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCX를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to VCF 변환은 문서 기반 연락처 정보를 주소록 및 연락처 관리 시스템에서 사용되는 디지털 연락처 카드 파일로 변환합니다. 이 프로세스를 통해 이름, 전화번호, 이메일 주소 및 관련 연락처 필드를 문서에서 추출하여 휴대 가능한 표준 형식으로 만들 수 있습니다.
+
+Python API를 사용하면 DOCX-to-VCF 변환을 고객 데이터 워크플로, 연락처 마이그레이션 파이프라인 및 자동화된 커뮤니케이션 시스템에 통합할 수 있습니다. 이는 문서에서 구조화된 연락처 데이터를 재사용 가능한 연락처 레코드로 확장 가능하게 변환하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 데이터 추출**  
+  DOCX 파일에 저장된 연락처 정보를 휴대용 디지털 연락처 카드로 변환합니다.
+
+* **주소록 마이그레이션**  
+  문서 기반 연락처 목록을 연락처 관리 시스템으로 가져올 수 있게 합니다.
+
+* **고객 정보 재사용**  
+  통신 워크플로를 위한 구조화된 연락처 레코드 변환을 지원합니다.
+
+* **휴대용 연락처 파일 생성**  
+  광범위하게 받아들여지는 형식으로 연락처 세부 정보를 배포하고 저장하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 파일 생성**  
+  시스템은 DOCX 파일에서 연락처 필드를 추출하고 VCF 레코드를 자동으로 생성할 수 있습니다.
+
+* **배치 연락처 마이그레이션 파이프라인**  
+  Python 스크립트는 여러 문서를 디지털 연락처 카드로 처리할 수 있습니다.
+
+* **CRM 및 커뮤니케이션 자동화**  
+  문서에서 파생된 연락처 데이터는 동기화된 아웃리치 워크플로를 위해 VCF 파일로 변환될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

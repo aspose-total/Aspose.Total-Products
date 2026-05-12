@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から PCL への変換は、メールボックスアーカイブをプリンタ制御言語の出力に変換し、メールコンテンツを印刷重視のシステムやデバイス指向のワークフローに適した形にします。アーカイブされたメッセージを直接制御された印刷環境に配信する必要がある場合に役立ちます。
+
+Python API を使用することで、チームは mailbox から PCL への変換を自動化し、印刷キュー、高容量文書処理、エンタープライズ出力システムとの統合をサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **印刷指向のメールエクスポート**
+  メッセージを PCL ファイルに変換し、印刷準備が整った形で処理します。
+
+* **デバイスワークフロー互換性**
+  制御された印刷出力を中心に構築されたシステム向けにメールボックスコンテンツを準備します。
+
+* **運用印刷アーカイブ**
+  生産印刷ワークフローに合わせた形式でメール記録を保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動印刷キュー生成**
+  メールボックスアーカイブを PCL 出力に変換し、スケジュールされた印刷ワークフローに使用します。
+
+* **エンタープライズ出力統合**
+  変換されたメールファイルをデバイス管理および印刷処理システムにルーティングします。
+
+* **高容量文書レンダリング**
+  Python を使用して、印刷が多い運用環境向けにメールボックス変換をスケールさせます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

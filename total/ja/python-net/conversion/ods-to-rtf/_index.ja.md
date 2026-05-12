@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS から RTF への変換は、スプレッドシートファイルをリッチテキスト文書形式に変換します。これにより、スプレッドシートデータを、書式とテキスト構造を保持した、広くサポートされている文書形式で共有できるようになります。
+
+Python API を通じて、ODS から RTF への変換を自動化されたデータ処理ワークフローに組み込むことができます。これにより、スケーラブルな文書変換、バッチ処理、さまざまなシステムとの柔軟な統合が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **書式化された文書の共有**  
+  スプレッドシート情報をリッチな書式のテキスト文書に変換します。
+
+* **クロスプラットフォーム互換性**  
+  スプレッドシートのコンテンツを、複数のプラットフォームでサポートされている形式で共有します。
+
+* **レポート文書化**  
+  スプレッドシートデータを読みやすいテキストベースのレポートに変換します。
+
+* **コンテンツ移行**  
+  スプレッドシートのアーカイブをリッチテキスト文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書変換パイプライン**  
+  Python ワークフローがスプレッドシートデータセットをリッチテキスト文書に変換します。
+
+* **バッチデータ処理**  
+  システムが複数のスプレッドシートを RTF 形式に自動的に変換します。
+
+* **動的レポート生成**  
+  スプレッドシートの入力がプログラムで書式化されたテキストレポートを生成します。
+
+* **エンタープライズ文書統合**  
+  変換サービスが文書処理システムと統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

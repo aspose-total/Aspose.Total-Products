@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 XLT로의 변환은 워드 프로세싱 콘텐츠를 클래식 스프레드시트 템플릿 파일로 변환하여 반복적인 워크북 생성을 가능하게 합니다. 문서 기반 구조나 반복되는 데이터 레이아웃을 레거시 환경에서 재사용 가능한 스프레드시트 템플릿으로 만들어야 할 때 유용합니다.
+
+자동화 환경에서 이 변환은 문서에서 작성된 콘텐츠를 반복 가능한 워크북 프레임워크로 전환하여 일관성과 확장성을 지원하고 지속적인 운영에 활용됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 템플릿 생성**
+  문서 콘텐츠를 클래식 스프레드시트 템플릿으로 변환하여 반복적으로 사용할 수 있게 합니다.
+
+* **표준화된 워크북 프레임워크**
+  반복되는 스프레드시트 출력 전반에 걸쳐 일관성을 유지하도록 돕습니다.
+
+* **재사용 가능한 보고 레이아웃**
+  승인된 콘텐츠 구조에서 워크시트를 반복적으로 생성하는 것을 지원합니다.
+
+* **구형 시스템과의 호환성**
+  전통적인 스프레드시트 환경에서 템플릿 기반 워크플로를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 제공 워크플로**
+  워드 문서에서 XLT 파일을 자동으로 생성하여 정기적인 운영에 활용합니다.
+
+* **반복 스프레드시트 자동화**
+  문서에서 파생된 템플릿을 사용하여 워크북 생성을 표준화합니다.
+
+* **레거시 프로세스 지원**
+  구형 스프레드시트 표준에 의존하는 기존 시스템에 템플릿 출력을 통합합니다.
+
+* **배치 재사용 자산 생성**
+  표준화된 원본 문서에서 여러 템플릿 파일을 효율적으로 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

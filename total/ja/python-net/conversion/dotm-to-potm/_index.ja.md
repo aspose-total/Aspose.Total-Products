@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から POTM への変換は、マクロ対応の Word テンプレートをマクロ対応のプレゼンテーションテンプレートに変換し、高度で再利用可能なスライドワークフローを実現します。構造化された文書ソースから生成される際に、プレゼンテーションテンプレートが自動化に適した動作を保持する必要がある場合に有用です。
+
+DOTM から POTM への変換に Python API を使用することで、文書テンプレートを再利用可能なマクロ対応スライド資産に変換し、スケーラブルな自動化をサポートします。プレゼンテーション生成の標準化に寄与し、より動的なテンプレート駆動型ビジネスコミュニケーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応プレゼンテーションテンプレート**
+  DOTM ファイルを POTM に変換し、先進的なプレゼンテーション動作を持つ再利用可能なテンプレートをサポートします。
+
+* **テンプレートの標準化**
+  文書構造を再利用可能なプレゼンテーション資産に変換し、チームやワークフローで繰り返し使用できるようにします。
+
+* **自動スライド生成の基盤**
+  承認済みの文書コンテンツからプレゼンテーション生成の一貫した出発点を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **動的テンプレート自動化**
+  ワークフローは DOTM ソースから POTM ファイルを生成し、先進的なプレゼンテーション操作をサポートできます。
+
+* **プレゼンテーションファクトリーパイプライン**
+  この変換により、スケールでマクロ対応スライドテンプレートの自動生成が可能になります。
+
+* **バッチ再利用可能資産生成**
+  プログラムによる処理により、複数の DOTM テンプレートを効率的に POTM に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PNG para MBOX permite que conteúdo baseado em imagens seja incorporado em arquivos de arquivo de caixa de correio, facilitando a consolidação de registros de comunicação visual em um formato amplamente usado para armazenamento e migração de e‑mail. Isso é útil para organizações que precisam preservar ou transferir mensagens derivadas de imagens em arquivos de e‑mail em massa.
+
+Usando APIs Python, as equipes podem automatizar a geração de MBOX a partir de entradas PNG, melhorando a consistência, suportando o processamento de alto volume e simplificando a integração com fluxos de trabalho de arquivamento, migração e retenção de dados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Arquivo de Caixa de Correio**  
+  Converte conteúdo de comunicação baseado em PNG em arquivos MBOX para armazenamento de longo prazo.
+
+* **Empacotamento de Dados de E‑mail em Massa**  
+  Ajuda a agrupar mensagens derivadas de imagens em um único arquivo de caixa de correio para portabilidade e revisão.
+
+* **Suporte a Fluxos de Trabalho de Migração**  
+  Suporta projetos de migração de e‑mail que exigem saídas de caixa de correio arquivadas geradas a partir de conteúdo visual.
+
+* **Preservação Centralizada de Mensagens**  
+  Permite que registros de comunicação visual sejam mantidos em contêineres de caixa de correio consolidados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Arquivo em Lote**  
+  APIs Python podem automatizar a criação de arquivos MBOX a partir de grandes volumes de conteúdo PNG.
+
+* **Fluxos de Trabalho de Políticas de Retenção**  
+  Sistemas podem converter registros baseados em imagens em arquivos de caixa de correio para retenção estruturada e processos de conformidade.
+
+* **Preparação para Importação de Caixa de Correio**  
+  Pipelines automatizados podem preparar saídas MBOX para ingestão em sistemas de e‑mail subsequentes.
+
+* **Processos de Consolidação de Conteúdo**  
+  As organizações podem combinar dinamicamente mensagens derivadas de PNG em arquivos MBOX unificados por meio de fluxos de trabalho programáticos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

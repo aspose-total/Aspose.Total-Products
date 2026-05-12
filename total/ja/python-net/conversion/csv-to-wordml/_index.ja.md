@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した CSV から WordML への変換は、構造化された表形式データを XML ベースのワードプロセッシング文書に変換し、構造化出版やシステムに優しい文書処理をサポートします。  
+この変換は、機械可読な文書出力を生成し、変換パイプライン、検証ステップ、スケーラブルなコンテンツシステムとよく統合できるため、特に自動化に有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化XML文書出力**  
+  XMLベースの文書構造の恩恵を受けるワークフロー向けに、CSV データを WordML ファイルに変換します。
+
+* **システムから文書への統合**  
+  文書が変換、検証、または処理パイプラインに組み込まれる必要がある場合に、WordML 出力を生成します。
+
+* **データ駆動型出版ワークフロー**  
+  表形式の CSV 入力を構造化された WordML 文書に変換し、繰り返し可能なコンテンツ生成を実現します。
+
+* **交換可能な文書処理**  
+  統合が多い環境で制御された文書取り扱いをサポートする WordML ファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたXML文書生成**  
+  Python API を使用して CSV データセットを WordML ファイルに変換し、構造化出版ワークフローに活用します。
+
+* **パイプライン指向のコンテンツ変換**  
+  機械可読な文書出力が必要な自動化システムに、CSV から WordML への変換を統合します。
+
+* **大量の構造化文書エクスポート**  
+  多数の CSV ファイルを一貫性を保ちつつ、最小限の手作業で WordML 形式に変換します。
+
+* **ルールベースのXML組み立て**  
+  CSV コンテンツからプログラム的に WordML 文書を構築し、スケーラブルな自動処理を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

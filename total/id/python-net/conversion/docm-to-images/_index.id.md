@@ -53,7 +53,41 @@ Kami menggunakan API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi DOCM ke Gambar mengubah dokumen yang mendukung makro menjadi output file visual, memudahkan pratinjau, berbagi, mengarsipkan, atau menyematkan halaman di sistem lain. Ini berguna ketika kesetiaan dokumen harus dipertahankan secara visual di platform yang tidak secara native mendukung format dokumen yang dapat diedit.
+
+Dalam alur kerja yang didorong otomatisasi, konversi DOCM ke Gambar mendukung pipeline rendering dokumen, pembuatan thumbnail, sistem tinjauan visual, dan proses penerbitan yang dapat diskalakan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pratinjau Dokumen Visual**
+  Mengonversi halaman menjadi file gambar yang mudah ditampilkan di peramban dan aplikasi.
+
+* **Berbagi Konten**
+  Memungkinkan distribusi cepat snapshot dokumen di mana kemampuan mengedit tidak diperlukan.
+
+* **Kesetiaan Arsip**
+  Mempertahankan tampilan visual dokumen asli untuk referensi dan kepatuhan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Thumbnail dan Pratinjau**
+  Secara otomatis membuat gambar untuk galeri dokumen, daftar, atau portal.
+
+* **Pipeline Penerbitan**
+  Mendukung ekspor visual untuk situs web, basis pengetahuan, dan penampil dokumen.
+
+* **Alur Kerja Rendering Batch**
+  Memproses sejumlah besar file DOCM menjadi output gambar tanpa intervensi manual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

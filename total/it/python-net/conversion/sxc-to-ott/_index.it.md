@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a OTT trasforma contenuti basati su fogli di calcolo in un formato di modello di documento aperto progettato per la creazione di documenti di testo ripetibili e strutturati. Questo è utile quando le informazioni dei fogli di calcolo devono popolare modelli riutilizzabili per report, avvisi, riepiloghi o documenti interni standardizzati.
+
+Con le API Python, la conversione da SXC a OTT supporta un'automazione efficiente consentendo flussi di lavoro incentrati sui modelli che migliorano la coerenza, riducono la formattazione manuale e semplificano la generazione di documenti su larga scala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli Aperti**  
+  Trasforma i dati del foglio di calcolo in modelli riutilizzabili per la generazione futura di documenti.
+
+* **Layout di Documenti Coerenti**  
+  Aiuta a mantenere una formattazione uniforme nei compiti di documentazione aziendale ripetuti.
+
+* **Asset di Processo Riutilizzabili**  
+  Supporta la creazione di file modello che semplificano la preparazione operativa dei documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Pipeline di Automazione dei Modelli**  
+  Genera modelli OTT da file SXC tramite flussi di lavoro di conversione basati su Python.
+
+* **Generazione di Output Standardizzato**  
+  Consente la creazione ripetuta di documenti da un unico modello riutilizzabile a formato aperto.
+
+* **Miglioramento dell'Efficienza di Processo**  
+  Riduce il tempo di configurazione manuale preparando programmaticamente modelli strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

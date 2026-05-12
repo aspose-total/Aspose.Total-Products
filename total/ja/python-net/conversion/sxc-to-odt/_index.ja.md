@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から ODT への変換は、スプレッドシートのコンテンツを、編集可能な文書、レポート、相互運用可能なテキストベースのワークフローに適したオープンドキュメントテキスト形式に変換します。組織が柔軟な文書出力を求め、かつオープン標準との互換性を維持したい場合に実用的な選択肢です。
+
+Python API を使用することで、SXC から ODT への変換は、レポート作成、記録保持、コンテンツ準備のためにスプレッドシートソースから編集可能な文書を自動的に生成し、ワークフローの効率を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンドキュメントレポーティング**  
+  スプレッドシートデータを、オープンドキュメントワークフローに合わせた編集可能なレポートに変換します。
+
+* **相互運用可能な文書化**  
+  組織がオープン標準をサポートするシステム間で文書出力を共有できるよう支援します。
+
+* **編集可能なレコード作成**  
+  レビュー、修正、アーカイブが容易な文書の作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンワークフロー自動化**  
+  Python API を使用して、標準化されたパイプライン内で SXC ソースから ODT ファイルを自動的に生成します。
+
+* **コンテンツ変換システム**  
+  スプレッドシート主導のコンテンツを、文書中心のレビューおよび編集ワークフローへ移行できるようにします。
+
+* **スケーラブルな文書出力**  
+  最小限の手作業で、編集可能なオープンフォーマット文書の大量生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

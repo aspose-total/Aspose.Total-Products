@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji BMP do MSG w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja BMP do MSG umożliwia osadzanie lub dołączanie obrazów bitmapowych w formacie wiadomości e‑mail MSG. Format ten jest powszechnie używany do przechowywania pojedynczych wiadomości e‑mail wraz z pełnymi metadanymi.
+
+W środowiskach zautomatyzowanych konwertowanie obrazów BMP na pliki MSG pomaga programowo generować ustrukturyzowane wiadomości e‑mail. Umożliwia to automatyczne raportowanie, archiwizację i przepływy komunikacyjne.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Automatyczne tworzenie wiadomości**  
+  Systemy mogą generować pliki e‑mail MSG zawierające obrazy BMP w ramach przepływów komunikacyjnych.
+
+* **Wizualna dystrybucja dokumentów**  
+  Aplikacje mogą wysyłać informacje oparte na obrazach za pośrednictwem ustrukturyzowanych wiadomości e‑mail.
+
+* **Zachowanie rekordów e‑mail**  
+  Organizacje mogą przechowywać komunikację opartą na obrazach w formacie MSG w celu dokumentacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Programowe generowanie e‑maili**  
+  Aplikacje automatycznie tworzą wiadomości MSG z obrazów BMP.
+
+* **Zautomatyzowane systemy powiadamiania**  
+  Narzędzia monitorujące generują alerty oparte na obrazach, pakowane jako pliki MSG.
+
+* **Przetwarzanie wiadomości wsadowych**  
+  Duże zestawy obrazów BMP mogą być konwertowane na wiadomości MSG za pomocą zautomatyzowanych potoków.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

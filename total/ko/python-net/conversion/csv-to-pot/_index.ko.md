@@ -64,7 +64,46 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV를 Python API로 변환하여 CSV에서 POT로 변환하면 구조화된 표형 데이터를 프레젠테이션 템플릿으로 변환하여 반복 가능한 슬라이드 생성 및 일관된 시각적 구성을 지원합니다.  
+이 변환은 데이터 소스를 재사용 가능한 템플릿 자산으로 전환함으로써 자동화를 향상시키고 수동 슬라이드 준비를 줄이며 확장 가능한 프레젠테이션 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션 템플릿 생성**  
+  CSV 데이터를 POT 파일로 변환하여 재사용 가능한 슬라이드 레이아웃 및 표준화된 프레젠테이션 구조를 제공합니다.
+
+* **일관된 보고 디자인**  
+  반복되는 보고 주기 전반에 걸쳐 일관된 프레젠테이션 형식을 보장하는 템플릿을 생성합니다.
+
+* **템플릿 기반 슬라이드 워크플로**  
+  구조화된 CSV 입력을 사용하여 반복 가능한 콘텐츠 생성을 지원하는 POT 파일을 준비합니다.
+
+* **레거시 프레젠테이션 지원**  
+  여전히 오래된 프레젠테이션 템플릿 형식에 의존하는 환경을 위한 POT 템플릿을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드 템플릿 제작**  
+  Python API를 사용하여 CSV 데이터세트를 POT 템플릿으로 변환하고 지속적인 프레젠테이션 워크플로에 활용합니다.
+
+* **데이터-프레젠테이션 파이프라인**  
+  CSV를 POT로 변환하는 과정을 재사용 가능한 데크와 보고 자산을 자동으로 준비하는 시스템에 통합합니다.
+
+* **대량 템플릿 생성**  
+  여러 CSV 소스를 POT 템플릿으로 처리하여 규모와 일관성을 지원합니다.
+
+* **프로그래밍 방식 레이아웃 조립**  
+  CSV 기반 규칙, 섹션 및 콘텐츠 패턴을 사용하여 POT 템플릿을 동적으로 구축합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

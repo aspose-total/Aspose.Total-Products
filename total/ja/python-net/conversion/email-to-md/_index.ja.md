@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による Email から MD への変換は、メッセージ内容を軽量でポータブル、かつバージョン管理に適したテキストドキュメント用の Markdown に変換します。メール情報をドキュメント、ナレッジベース、開発者ワークフロー、または出版システムで再利用する必要がある場合に特に有用です。
+
+この変換により、メール内容の解析、保存、変換、公開が容易になり、テキストファーストのパイプライン全体で最小限の書式オーバーヘッドで自動化が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ナレッジベース公開**
+  メールを Markdown に変換し、ドキュメントポータルや社内ウィキで使用します。
+
+* **バージョン管理アーカイブ**
+  重要なコミュニケーションを、リポジトリで追跡可能なテキスト形式で保存します。
+
+* **コンテンツ簡素化**
+  複雑なメールフォーマットを、再利用可能なクリーンでポータブルなマークアップに削減します。
+
+* **開発者中心のワークフロー**
+  技術チームがテキストベースのシステムでコンテンツを管理する際に、Markdown 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **受信箱からウィキへの自動化**
+  選択したメールを Markdown ページに変換し、検索可能なナレッジプラットフォームで利用します。
+
+* **リポジトリベースのドキュメント更新**
+  変換されたメッセージコンテンツを自動的にバージョン化されたコンテンツパイプラインにコミットします。
+
+* **静的パブリッシングワークフロー**
+  Markdown メール出力をジェネレータやコンテンツ自動化システムに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

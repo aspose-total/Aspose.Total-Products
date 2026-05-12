@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG から VCF への変換により、スキャンした名刺やビジュアル連絡先シートなどの画像ベースの連絡情報を、保存、共有、同期が容易な構造化された連絡先ファイルに変換できます。これは、連絡先データをデジタル化し、最新のアドレス帳や CRM ワークフローで活用できるようにするために重要です。
+
+Python API を使用すると、システムが PNG ファイルから連絡先情報を抽出・変換して VCF 出力にできるため、プロセスがスケーラブルかつ自動化に適し、手動入力を削減し、連絡先管理の効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **名刺のデジタル化**  
+  連絡先カードの PNG 画像を再利用可能な VCF 連絡先ファイルに変換します。
+
+* **連絡先データ抽出**  
+  ビジュアルな連絡情報を構造化されたデジタルアドレス帳エントリに変換するのに役立ちます。
+
+* **CRM データ準備**  
+  画像ベースの連絡先詳細をインポート可能な連絡先レコードに変換する必要があるワークフローをサポートします。
+
+* **ディレクトリの近代化**  
+  組織がスキャンしたりビジュアルの連絡資産を標準化された連絡先ファイル形式に移行できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先取得**  
+  Python API は、受信した PNG 名刺を即座に連絡先を作成できる VCF ファイルに変換できます。
+
+* **大量連絡先インポートワークフロー**  
+  大量のビジュアル連絡先レコードをデータベースやアドレス帳へのインポート用 VCF 出力に変換できます。
+
+* **リード収集パイプライン**  
+  システムは、画像ベースの連絡先提出をプログラムで構造化された連絡先ファイルに変換できます。
+
+* **モバイル・クラウド同期の準備**  
+  自動変換により、PNG 由来の連絡先データをプラットフォームやアプリケーション間で同期できるように準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

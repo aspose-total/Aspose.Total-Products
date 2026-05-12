@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers VCF transforme le contenu des modèles Word en un format de carte de contact utilisé pour stocker et partager des informations de contact personnelles ou organisationnelles. Elle est utile lorsque les modèles contiennent des détails de contact structurés qui doivent être réutilisés dans les systèmes de communication.
+
+En utilisant les API Python, cette conversion prend en charge l'automatisation en permettant l'extraction de contacts, la génération de carnets d'adresses numériques et la synchronisation évolutive des enregistrements de contacts basés sur des documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction d'informations de contact**
+  Convertir les détails de contact structurés des modèles en cartes numériques réutilisables.
+
+* **Préparation d'annuaire**
+  Construire des enregistrements de contact portables à partir d'informations basées sur des documents.
+
+* **Intégration du système de communication**
+  Réutiliser le contenu des modèles dans les carnets d'adresses et les flux de travail de partage de contacts.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de contacts**
+  Créer des fichiers VCF à partir de modèles DOTX pour les processus d'intégration ou d'annuaire.
+
+* **Exportation massive de contacts**
+  Convertir des enregistrements documentaires répétés en cartes de contact partageables.
+
+* **Flux de travail de contacts synchronisés**
+  Alimenter les données de contact converties dans les systèmes de communication et de CRM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

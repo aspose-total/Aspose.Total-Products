@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para PCL em Python transforma o conteúdo da mensagem em saída de linguagem de comando de impressora, adequada para fluxos de trabalho de impressão orientados a dispositivos. Isso é útil quando os e‑mails precisam ser renderizados diretamente para impressão consistente em ambientes operacionais ou legados.
+
+Ele suporta automação ao permitir que o conteúdo da mensagem vá diretamente para pipelines de impressão, reduzindo etapas de preparação e simplificando a geração de saída em larga escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Suporte a Fluxo de Trabalho de Impressão Direta**
+  Converta e‑mails para PCL em sistemas que dependem de saída pronta para impressão.
+
+* **Impressão de Mensagens Operacionais**
+  Use saídas PCL onde as comunicações precisam ser impressas em formatos padronizados.
+
+* **Compatibilidade com Ambientes Legados**
+  Suporte infraestruturas de impressão mais antigas com renderização direta de e‑mail.
+
+* **Filas de Impressão Centralizadas**
+  Alimente arquivos de e‑mail convertidos em processos de impressão de alto volume.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Despacho de Impressão Automatizado**
+  Converta e‑mails recebidos para PCL e envie‑os para filas de impressão programadas.
+
+* **Saída Operacional em Lote**
+  Produza registros de e‑mail prontos para impressão para logística, administração ou revisão.
+
+* **Entrega de Documentos Orientada por Dispositivo**
+  Integre a conversão de e‑mail com sistemas automatizados de gerenciamento de impressão.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

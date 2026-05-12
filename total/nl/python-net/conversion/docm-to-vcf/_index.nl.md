@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOCM naar VCF-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM-naar-VCF-conversie zet macro‑ondersteunde documentinhoud om in contactkaartbestanden, waardoor namen, adressen en communicatiedetails gemakkelijker kunnen worden hergebruikt in contactbeheer‑workflows. Het is waardevol wanneer documenten gestructureerde persoonlijke of organisatorische contactinformatie bevatten.
+
+Voor automatisering en schaalbaarheid ondersteunt DOCM-naar-VCF-conversie contactextractie, gesynchroniseerde adresboekupdates en herhaalbare transformatie van in documenten opgeslagen details naar draagbare contactrecords.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Contactinformatie‑extractie**
+  Zet gestructureerde contactgegevens uit documenten om in draagbare kaartbestanden.
+
+* **Adresboekupdates**
+  Helpt documentgebaseerde contactrecords over te brengen naar contactbeheeromgevingen.
+
+* **Draagbare contactdeling**
+  Ondersteunt gestandaardiseerde uitwisseling van persoonlijke of zakelijke contactinformatie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactgeneratie**
+  Maakt VCF‑bestanden aan vanuit DOCM‑documenten met contactgegevens.
+
+* **CRM‑ en directory‑integratie**
+  Ondersteunt workflow‑gebaseerde import van uit documenten afgeleide contactrecords.
+
+* **Bulkcontactconversie**
+  Verwerkt meerdere documenten efficiënt naar gestandaardiseerde contactbestanden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to EML 変換は、マクロ対応ドキュメントを標準的なメールメッセージファイルに変換し、ドキュメントの内容をメール対応環境で保存、送信、または処理しやすくします。特に、ドキュメントを単独のメッセージアーティファクトとして保存する必要がある場合に有用です。
+
+自動化と統合のために、DOCM から EML へのワークフローは、オープンなメールファイル構造に依存する通信システム全体で、繰り返し可能なメッセージ生成、アーカイブ、ルーティングをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **メッセージファイル作成**
+  ドキュメントの内容を、保存または配布用のポータブルなメールメッセージファイルに変換します。
+
+* **コミュニケーションアーカイブ**
+  ドキュメント由来の通信をメール形式で保持する必要がある環境をサポートします。
+
+* **システム間ポータビリティ**
+  互換性のあるメールプラットフォーム間で、ドキュメントベースの通信を移行するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動メールパッケージング**
+  DOCM ドキュメントから手動でメッセージを組み立てることなく EML ファイルを生成します。
+
+* **ワークフロードリブンアーカイブ**
+  ドキュメント由来の通信を、記録保持システム用のメッセージファイルとして保存します。
+
+* **一括エクスポート操作**
+  複数の DOCM ファイルをスケーラブルな処理パイプラインで EML 出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

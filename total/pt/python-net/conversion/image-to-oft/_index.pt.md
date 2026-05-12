@@ -46,7 +46,53 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de imagens para OFT usando APIs Python permite transformar conteúdo baseado em imagens em arquivos de modelo de e‑mail reutilizáveis que suportam a criação consistente de comunicações. Isso é útil quando mensagens recorrentes precisam incorporar material visual, como banners, avisos, gráficos de marca ou layouts estruturados baseados em imagens.
+
+Para fluxos de trabalho automatizados, converter imagens para OFT apoia comunicações orientadas por modelos, reduz o trabalho repetitivo de formatação e melhora a consistência dos resultados. Isso possibilita processos escaláveis de geração de e‑mails onde o conteúdo visual é reutilizado em cenários operacionais ou de negócios recorrentes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Modelos de Comunicação Reutilizáveis**  
+  Converta layouts baseados em imagens em modelos OFT para fluxos de mensagens repetidas.
+
+* **Padronização de Avisos Visuais**  
+  Crie modelos de e‑mail consistentes a partir de avisos de políticas, anúncios ou gráficos promocionais.
+
+* **Preparação de Mensagens Operacionais**  
+  Crie modelos que incluam instruções ou material de referência baseados em imagens.
+
+* **Consistência no Alcance ao Cliente**  
+  Use modelos de e‑mail visuais para manter comunicação uniforme em interações repetidas.
+
+* **Design de Anúncios Internos**  
+  Transforme formatos de mensagem guiados por imagens em modelos reutilizáveis para comunicação em toda a equipe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de E‑mail Baseada em Modelos**  
+  Sistemas podem gerar comunicações recorrentes a partir de modelos OFT construídos a partir de conteúdo de imagem.
+
+* **Suporte ao Fluxo de Trabalho de Campanhas**  
+  Modelos ricos em imagens podem ser preparados uma vez e reutilizados em processos de alcance programados.
+
+* **Padronização de Alertas Operacionais**  
+  Formatos comuns de atualização podem ser automatizados usando saídas OFT reutilizáveis derivadas de ativos visuais.
+
+* **Comunicação de Processos Documentados**  
+  Equipes podem automatizar e‑mails instrucionais usando modelos gerados a partir de conteúdo de referência baseado em imagens.
+
+* **Personalização de Mensagens Escalável**  
+  Modelos OFT criados a partir de imagens podem ser preenchidos dinamicamente com dados em fluxos de trabalho automatizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

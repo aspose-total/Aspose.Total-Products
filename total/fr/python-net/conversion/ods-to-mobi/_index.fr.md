@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to MOBI conversion transforms spreadsheet files into a format optimized for digital reading devices. This allows structured spreadsheet information to be distributed as readable documents suitable for portable viewing.
+
+Python APIs enable automated transformation of spreadsheet content into ebook-ready formats. This supports scalable publishing workflows, automated document generation, and digital content distribution systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Publication de données pour la lecture numérique**  
+  Convertir les informations basées sur des feuilles de calcul en documents numériques portables.
+
+* **Distribution de contenu structuré**  
+  Transformer les ensembles de données de feuilles de calcul en formats lisibles pour la consommation numérique.
+
+* **Publication de rapports**  
+  Convertir les feuilles de calcul analytiques en documents numériques formatés.
+
+* **Réutilisation de contenu**  
+  Adapter le contenu des feuilles de calcul pour une documentation de type ebook.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Chaînes de publication automatisées**  
+  Les flux de travail Python convertissent automatiquement les feuilles de calcul en formats de lecture numérique.
+
+* **Génération massive de documents numériques**  
+  Les systèmes traitent plusieurs feuilles de calcul en documents de lecture portables.
+
+* **Publication dynamique de contenu**  
+  Les flux de travail programmatiques génèrent des documents conviviaux à partir des entrées de feuilles de calcul.
+
+* **Systèmes de distribution de contenu numérique**  
+  Les pipelines de conversion soutiennent les infrastructures de publication automatisées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

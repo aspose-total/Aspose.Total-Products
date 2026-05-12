@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による Email から PCL への変換は、メッセージ内容をデバイス指向の印刷ワークフローに適したプリンタコマンド言語の出力に変換します。これは、メールを直接レンダリングして、運用環境やレガシー印刷環境で一貫した印刷を行う必要がある場合に有用です。
+
+メッセージ内容を直接印刷パイプラインに流すことで自動化を支援し、準備工程を削減し、大規模な出力生成を簡素化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **直接印刷ワークフローサポート**
+  プリンタ準備済み出力に依存するシステム向けに、メールを PCL に変換します。
+
+* **運用メッセージ印刷**
+  通信を標準化された形式で印刷する必要がある場合に、PCL 出力を使用します。
+
+* **レガシー環境互換性**
+  直接メールをレンダリングすることで、古い印刷インフラストラクチャをサポートします。
+
+* **集中型印刷キュー**
+  変換されたメールファイルを大量印刷プロセスに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動印刷配信**
+  受信メールを PCL に変換し、スケジュールされた印刷キューに送ります。
+
+* **バッチ運用出力**
+  物流、管理、またはレビュー用に、プリンタ準備済みのメールレコードを生成します。
+
+* **デバイス駆動型文書配信**
+  メール変換を自動印刷管理システムと統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

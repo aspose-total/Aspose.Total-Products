@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'Excel en PPSM avec Python transforme le contenu des feuilles de calcul en fichiers de diaporama activés par macro pour des flux de travail de présentation avancés. Elle est utile lorsque les fichiers prêts à être présentés doivent également prendre en charge des interactions ou des fonctionnalités d'automatisation basées sur des macros.
+
+Cette conversion est pertinente pour l'automatisation car elle relie les données des feuilles de calcul aux sorties de diaporama qui peuvent s'intégrer à des environnements de présentation plus dynamiques et programmables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Diaporamas avec macros**  
+  Convertissez le contenu d'Excel en fichiers PPSM pour une présentation directe avec un support d'automatisation étendu.
+
+* **Livraison de présentations interactives**  
+  Préparez des sorties de diaporama pouvant incorporer un comportement programmable selon les besoins.
+
+* **Fichiers de briefing opérationnel**  
+  Utilisez les données des feuilles de calcul pour créer des fichiers prêts à être présentés avec un potentiel de flux de travail avancé.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Présentations interactives automatisées**  
+  Générez des sorties PPSM à partir de sources Excel pour des flux de travail nécessitant l'automatisation des diaporamas.
+
+* **Pipelines de présentation programmatiques**  
+  Intégrez la création de diaporamas activés par macro dans les systèmes de reporting Python.
+
+* **Préparation de livraison évolutive**  
+  Produisez des fichiers de présentation prêts à l'emploi à partir des données de feuilles de calcul avec un minimum d'intervention manuelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

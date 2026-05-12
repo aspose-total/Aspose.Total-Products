@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 XPS를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 XPS에서 ICS로의 변환은 고정 레이아웃 문서의 정보를 일정 관리와 이벤트 배포를 지원하는 캘린더 호환 파일로 변환할 수 있게 합니다. 이는 XPS 문서에 회의 세부 정보, 약속 데이터, 이벤트 일정 또는 마감 관련 정보가 포함되어 있어 구조화된 캘린더 형식으로 공유해야 할 때 유용합니다.
+
+자동화된 환경에서는 이 변환이 일정 효율성을 향상시키고 수동 이벤트 생성을 줄이며, 문서 기반 프로세스가 캘린더 워크플로, 알림 및 계획 시스템과 직접 연결될 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **일정 추출 및 공유**  
+  XPS 파일의 시간 기반 정보를 캘린더 이벤트로 배포할 수 있는 ICS 항목으로 변환합니다.
+
+* **회의 및 약속 자동화**  
+  문서 기반 회의 통보 또는 예약 확인서에서 캘린더 준비 파일 생성을 지원합니다.
+
+* **마감일 조정**  
+  문서에 저장된 마일스톤이나 기한을 실행 가능한 캘린더 기록으로 변환하는 데 도움을 줍니다.
+
+* **시스템 간 일정 지원**  
+  문서 데이터를 캘린더 호환 워크플로로 흐르게 하여 보다 넓은 조정을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이벤트 파일 생성**  
+  시스템은 새로운 이벤트 문서가 생성될 때마다 XPS 일정을 ICS 파일로 변환할 수 있습니다.
+
+* **알림 워크플로 통합**  
+  변환된 캘린더 파일은 자동 알림 및 알림 파이프라인에 사용할 수 있습니다.
+
+* **반복 일정 처리**  
+  배치 작업은 여러 날짜 기반 XPS 파일을 추출하고 변환하여 캘린더 준비 출력물로 만들 수 있습니다.
+
+* **문서‑계획 파이프라인**  
+  운영 워크플로는 프로그래밍 방식의 ICS 생성을 통해 문서 생성과 일정 시스템을 직접 연결할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

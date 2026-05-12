@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da EPUB a VCF in Python consente di trasformare il contenuto dei documenti in file di dati orientati ai contatti quando il materiale di pubblicazione contiene directory, profili o dettagli di contatto. Ciò è utile per i flussi di lavoro che necessitano di estrarre e riutilizzare informazioni di identità strutturate da pubblicazioni digitali.
+
+Nei sistemi incentrati sull'automazione, la conversione da EPUB a VCF migliora la portabilità dei dati, riduce l'inserimento manuale dei contatti e consente alle applicazioni Python di integrare le informazioni di contatto derivate dalle pubblicazioni nei moderni flussi di lavoro di comunicazione e sincronizzazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione delle informazioni di contatto**  
+  Converti il contenuto EPUB contenente persone o dettagli di directory in file VCF per un utilizzo basato sui contatti.
+
+* **Trasformazione dei dati della directory**  
+  Riutilizza le informazioni strutturate della pubblicazione in record di contatto portatili.
+
+* **Supporto CRM e Rubrica**  
+  Utilizza l'output VCF per trasferire i dati di contatto pertinenti nei sistemi che gestiscono le relazioni di comunicazione.
+
+* **Condivisione dei dati basata su profili**  
+  Condividi il contenuto della pubblicazione orientato ai contatti in un formato facile da importare e distribuire.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di contatti**  
+  I flussi di lavoro Python possono creare file VCF da documenti EPUB che includono contenuti relativi ai contatti.
+
+* **Pipeline di sincronizzazione della directory**  
+  I sistemi automatizzati possono estrarre e convertire i dati della directory basati sulla pubblicazione in record di contatto portatili.
+
+* **Elaborazione di contatti in blocco**  
+  Grandi volumi di file EPUB ricchi di contatti possono essere trasformati programmaticamente per un riutilizzo efficiente.
+
+* **Integrazione dinamica dei dati**  
+  La conversione da EPUB a VCF supporta i flussi di lavoro automatizzati che forniscono informazioni di contatto alle piattaforme di comunicazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

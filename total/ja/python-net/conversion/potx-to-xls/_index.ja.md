@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した POTX から XLS への変換は、PowerPoint テンプレートのコンテンツを構造化されたデータ入力と分析をサポートするスプレッドシート ファイルに変換します。これは、プレゼンテーションベースの情報を業務またはレポート作成のためにワークシート形式に移行する必要がある組織にとって有用です。
+
+自動化パイプラインにおいて、POTX から XLS への変換は手動での抽出作業を削減し、スプレッドシート出力へのスケーラブルな変換を可能にします。レガシーなスプレッドシートとの互換性をサポートしながら、データ中心のワークフローの効率を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **スプレッドシート変換**
+  プレゼンテーションテンプレートのコンテンツを、構造化された使用のためのワークシートベースのファイルに変換します。
+
+* **レガシースプレッドシートサポート**
+  既存システムが要求する古いスプレッドシート形式での出力提供を支援します。
+
+* **運用データ処理**
+  分析およびレポート作業におけるプレゼンテーション情報の再利用をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レガシーエクスポート**
+  古いスプレッドシート形式に依存するシステム向けに、POTX ソースから XLS ファイルを生成します。
+
+* **バッチスプレッドシート生成**
+  テンプレートファイルを大量に構造化されたワークシートに変換することをサポートします。
+
+* **データ処理統合**
+  変換されたスプレッドシート出力をレポートおよび検証ワークフローに接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

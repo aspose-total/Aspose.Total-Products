@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi MSG ke MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi MSG ke MD mengubah pesan email menjadi Markdown untuk dokumentasi berbasis teks yang bersih, ringan, dan portabel. Ini sangat berguna ketika konten email perlu digunakan kembali dalam basis pengetahuan, dokumentasi pengembang, atau alur kerja penerbitan konten.
+
+Dalam pipeline otomatisasi, konversi MSG ke MD mendukung dokumentasi yang dikontrol versi, normalisasi konten, dan pemrosesan teks yang disederhanakan. Ini membantu menjembatani komunikasi email dengan operasi konten modern dan sistem penerbitan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Integrasi Basis Pengetahuan**  
+  Ubah email menjadi Markdown untuk dokumentasi internal yang terstruktur.
+
+* **Penggunaan Kembali Konten Ramah Pengembang**  
+  Simpan teks pesan dalam format yang cocok untuk repositori dan sistem dokumentasi.
+
+* **Persiapan Penerbitan Ringan**  
+  Siapkan konten yang dihasilkan dari email untuk penggunaan situs statis atau alur kerja konten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomasi" %}}
+
+* **Otomasi Pipeline Dokumentasi**  
+  Ubah file MSG menjadi Markdown untuk penerbitan atau pengindeksan otomatis.
+
+* **Manajemen Konten Berbasis Repositori**  
+  Simpan konten email yang dikonversi dalam alur kerja dokumentasi yang dikontrol versi.
+
+* **Proses Normalisasi Teks**  
+  Standarisasi komunikasi masuk menjadi konten teks yang ringan dan ramah mesin.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

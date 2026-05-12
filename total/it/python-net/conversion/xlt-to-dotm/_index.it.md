@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a DOTM in Python consente la conversione dei file modello di Excel in modelli Word con macro, che combinano una struttura riutilizzabile con il supporto per comportamenti avanzati del documento. Ciò è utile per le organizzazioni che desiderano trasformare i modelli di foglio di calcolo in modelli Word intelligenti, adatti a flussi di lavoro documentali ripetibili ed estensibili.
+
+Per i casi d'uso di automazione, la conversione da XLT a DOTM aiuta a creare risorse modello scalabili che possono essere integrate in sistemi documentali dinamici. Supporta la generazione strutturata, il riutilizzo ripetuto e la capacità di estendere i risultati con logica automatizzata in ambienti incentrati sui documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli con macro**  
+  Converti i file XLT in modelli DOTM per documenti riutilizzabili con potenziale di funzionalità avanzate.
+
+* **Framework per documenti intelligenti**  
+  Crea risorse modello Word da fonti di fogli di calcolo per la creazione di contenuti strutturati e ripetibili.
+
+* **Modernizzazione dei modelli di flusso di lavoro**  
+  Sostituisci i modelli basati solo su fogli di calcolo con modelli Word adatti a un'integrazione di processo più ricca.
+
+* **File riutilizzabili pronti per l'automazione**  
+  Prepara modelli di documento che supportano miglioramenti futuri tramite comportamenti scriptati o guidati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Librerie di modelli dinamici**  
+  Genera file DOTM da modelli XLT per sistemi di creazione documenti centralizzati e automatizzati.
+
+* **Automazione di documenti di processo ripetibili**  
+  Utilizza le API Python per creare modelli con macro riutilizzabili per documenti operativi ricorrenti.
+
+* **Motori di contenuto basati su modelli**  
+  Integra le risorse DOTM convertite in sistemi che popolano e distribuiscono documenti in modo programmatico.
+
+* **Migrazione da modelli legacy a modelli intelligenti**  
+  Converti i tradizionali modelli di foglio di calcolo in modelli Word flessibili per un'automazione scalabile.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

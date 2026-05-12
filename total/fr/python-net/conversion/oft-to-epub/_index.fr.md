@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OFT vers EPUB à l'aide des API Python convertit les modèles d’e‑mail Outlook en fichiers de publication numérique réflowables adaptés à une lecture structurée et à la distribution. Cela est précieux lorsque le contenu basé sur les e‑mails doit être réutilisé sous forme de documents numériques longs, portables et conviviaux pour le lecteur.
+
+Dans les environnements automatisés, la conversion OFT vers EPUB prend en charge les pipelines de transformation de contenu qui déplacent les informations des modèles de messagerie vers les flux de travail de publication. Elle améliore la réutilisation du contenu, l’accessibilité et la distribution numérique à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Réutilisation de la publication numérique**  
+  Convertir le contenu OFT en fichiers EPUB pour une distribution électronique portable et conviviale.
+
+* **Livraison de contenu structuré**  
+  Utiliser la sortie EPUB lorsque les informations du modèle d’e‑mail doivent être consommées comme une publication numérique.
+
+* **Conditionnement de contenu de connaissance**  
+  Emballer le contenu de communication réutilisable dans un format adapté aux manuels ou guides.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de publication automatisés**  
+  Transformer les modèles OFT en fichiers EPUB dans le cadre des flux de production de contenu numérique.
+
+* **Distribution de contenu multicanal**  
+  Réutiliser les modèles de messagerie en actifs prêts à publier pour des canaux de diffusion plus larges.
+
+* **Conversion d'archives programmatique**  
+  Convertir les modèles de communication en livres numériques structurés pour des dépôts consultables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

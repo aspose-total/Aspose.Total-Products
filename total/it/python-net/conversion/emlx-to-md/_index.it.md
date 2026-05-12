@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX to MD conversion in Python transforms email content into Markdown files that are easy to read, edit, version, and publish. This is useful when message-based information needs to be repurposed into lightweight text documents for documentation or content workflows.
+
+In automation scenarios, converting EMLX to MD supports clean text extraction, streamlined publishing, and efficient integration with developer-friendly systems. It is especially effective for scalable knowledge management and content transformation pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Documentazione leggera**  
+  Converti i file EMLX in Markdown per documenti testuali semplici e leggibili.
+
+* **Contenuto sotto controllo di versione**  
+  Archivia le informazioni derivanti dalle email in un formato adatto per aggiornamenti tracciati.
+
+* **Preparazione della base di conoscenza**  
+  Riutilizza il contenuto dei messaggi in sistemi di documentazione strutturata.
+
+* **Prontezza alla pubblicazione**  
+  Prepara il contenuto convertito per siti statici o piattaforme di contenuto incentrate sul testo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di documentazione automatizzata**  
+  Converti in batch i file EMLX in Markdown per il riutilizzo scalabile dei contenuti.
+
+* **Flussi di lavoro di pubblicazione statica**  
+  Alimenta gli output MD nella generazione automatica di siti e nei sistemi di pubblicazione.
+
+* **Processi di normalizzazione del testo**  
+  Utilizza script Python per standardizzare il contenuto dei messaggi nella struttura markdown.
+
+* **Gestione dei contenuti basata su repository**  
+  Integra i file Markdown convertiti nelle pipeline di automazione versionate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLAM a DOCM tramite le API Python consente di trasformare il contenuto di componenti aggiuntivi Excel in documenti Word abilitati alle macro, che supportano comportamenti avanzati del documento e azioni scriptate. Questo è utile quando le organizzazioni devono preservare il potenziale di automazione spostando il contenuto da strumenti basati su fogli di calcolo a ambienti operativi incentrati su Word.
+
+Per i sistemi focalizzati sull'automazione, la conversione da XLAM a DOCM migliora la continuità del flusso di lavoro consentendo ai documenti generati di partecipare a revisioni, formattazioni o processi di approvazione a valle guidati dalle macro. Supporta un'automazione documentale scalabile in cui la creazione di contenuti e le azioni sui documenti lavorano insieme.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Reportistica con macro**  
+  Converte il contenuto XLAM in file DOCM per processi di reporting che dipendono da macro o azioni scriptate nei documenti.
+
+* **Documenti pronti per il flusso di lavoro**  
+  Prepara documenti Word che possono supportare formattazione automatica, convalida o interazione guidata dell'utente.
+
+* **Documentazione di processo con logica**  
+  Consente una documentazione strutturata che può mantenere la compatibilità con flussi di lavoro aziendali guidati dalle macro.
+
+* **Passaggi operativi**  
+  Aiuta a trasferire contenuti basati su fogli di calcolo in sistemi documentali che si affidano ad azioni automatizzate dopo la conversione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di elaborazione documenti**  
+  Le API Python possono convertire automaticamente i file XL M in output DOCM per flussi di lavoro interni assistiti da macro.
+
+* **Automazione di approvazione e revisione**  
+  I file DOCM generati possono entrare in cicli di revisione automatizzati dove le macro assistono nelle fasi di formattazione o convalida.
+
+* **Generazione di moduli aziendali**  
+  I flussi di conversione possono produrre moduli o report abilitati alle macro a partire da logiche di business basate su fogli di calcolo.
+
+* **Pubblicazione ricorrente di contenuti**  
+  Le conversioni programmate supportano la creazione dinamica di documenti DOCM per report periodici e aggiornamenti operativi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

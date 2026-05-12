@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から ICS への変換は、OpenDocument テキストテンプレートをスケジュールやイベント交換に使用されるカレンダーデータファイルに変換します。文書の内容に予定、締め切り、または日付に基づく構造化情報が含まれ、カレンダー対応にする必要がある場合に有用です。
+
+この変換は自動化に適しており、テンプレートからイベント情報を生成し、手動でカレンダーに入力することなく、スケジューリングワークフロー、リマインダー、同期プロセスへとプッシュできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **イベントファイル作成**  
+  スケジュール関連の文書内容をカレンダー互換のファイルに変換します。
+
+* **締め切り配布**  
+  重要な日付やマイルストーンを標準的なカレンダー形式で共有します。
+
+* **計画ワークフロー支援**  
+  構造化されたイベントデータをポータブルなスケジューリング資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダー生成**  
+  繰り返し使用される OTT ベースのイベントテンプレートから ICS ファイルを作成します。
+
+* **リマインダー ワークフロー統合**  
+  生成されたイベントを通知をトリガーするシステムに供給します。
+
+* **スケジュール同期**  
+  チームやツール間でカレンダーデータをプログラム的に共有することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

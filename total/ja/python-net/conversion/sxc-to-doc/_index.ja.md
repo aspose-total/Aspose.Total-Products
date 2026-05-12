@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から DOC への変換は、スプレッドシートベースのコンテンツを、レビューや共有、テキスト中心のワークフローでのアーカイブが容易な従来の文書形式に変換します。構造化された表形式の情報を、読みやすいビジネス文書、要約、またはレポートとして提示し、より広いアクセシビリティを実現する必要がある場合に有用です。
+
+自動化環境において、SXC から DOC への変換は、出力生成の標準化、手動による文書作成の削減、そして Python API を通じた下流の出版、承認、またはコンプライアンスプロセスを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レポート生成**  
+  スプレッドシートのコンテンツを読みやすい文書に変換し、正式なレポート作成やステークホルダーとのコミュニケーションに利用します。
+
+* **コンテンツ配布**  
+  データ駆動型コンテンツを、スプレッドシートより文書形式を好むユーザーと共有しやすくします。
+
+* **アーカイブ作成**  
+  長期的な文書化ワークフローで一般的に使用される形式で、ビジネス記録の保存を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ文書作成**  
+  複数の SXC ファイルを DOC 文書に変換し、定期的なレポートパイプラインを自動化します。
+
+* **データから文書への出版**  
+  Python ワークフローでスプレッドシートデータを物語性のある文書に変換し、出版やレビューに利用できるようにします。
+
+* **ワークフロー統合**  
+  承認、記録保持、コンテンツ配信パイプラインなど、より大きなシステム内での文書生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

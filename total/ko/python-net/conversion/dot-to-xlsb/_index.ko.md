@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 XLSB로의 변환은 문서 템플릿을 저장 및 성능 효율이 높은 이진 스프레드시트 워크북으로 변환합니다. 이는 대규모 또는 반복적인 워크북 생성이 컴팩트하고 실용적으로 유지되어야 할 때 유용합니다.
+
+Python API는 DOT 소스에서 자동화된 XLSB 생성을 지원하여 효율적인 출력 처리를 갖춘 확장 가능한 문서‑대‑스프레드시트 파이프라인을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **컴팩트 워크북 내보내기**
+  DOT 파일을 XLSB로 변환하여 효율적인 스프레드시트 저장 및 배포를 수행합니다.
+
+* **성능 중심 데이터 처리**
+  반복적이거나 대규모 스프레드시트 생성이 필요할 때 이진 워크북을 사용합니다.
+
+* **템플릿 콘텐츠 구조화**
+  문서 콘텐츠를 운영용으로 최적화된 워크북 출력으로 재구성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 이진 워크북 생성**
+  Python 워크플로우는 반복 작업에서 DOT 템플릿으로부터 XLSB 파일을 생성할 수 있습니다.
+
+* **대용량 스프레드시트 파이프라인**
+  변환은 대규모 문서 저장소에 대한 효율적인 출력 생성을 지원합니다.
+
+* **확장 가능한 데이터 내보내기 자동화**
+  프로그래밍 시스템은 템플릿에서 컴팩트한 스프레드시트 전달을 표준화하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

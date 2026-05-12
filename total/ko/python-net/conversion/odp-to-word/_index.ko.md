@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python을 사용한 ODP에서 Word로 변환은 프레젠테이션 기반 콘텐츠를 편집 가능한 Word 호환 문서로 변환하여 문서화, 분석 및 구조화된 커뮤니케이션에 활용할 수 있게 합니다. 이는 슬라이드 자료를 작성, 수정 및 공식적인 콘텐츠 관리에 더 적합한 형식으로 재사용하려는 팀에 중요합니다.
+
+자동화 중심 환경에서는 ODP에서 Word로의 변환이 프레젠테이션 자산을 문서 중심 시스템으로 직접 흐르게 하여 확장성을 향상시킵니다. 수동 작업을 줄이고 일관된 출력물을 지원하며 현대 워크플로우 전반에 걸쳐 프로그래밍 방식의 콘텐츠 변환을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션‑to‑Word 재활용**  
+  슬라이드 콘텐츠를 편집 가능한 Word 호환 문서로 변환하여 비즈니스 전반에서 활용합니다.
+
+* **공식 문서 준비**  
+  프레젠테이션을 기록 보관, 규정 준수 또는 협업을 위한 서면 문서로 변환합니다.
+
+* **콘텐츠 검토 및 수정**  
+  문서 중심 편집 워크플로우를 통해 프레젠테이션 자료를 보다 쉽게 수정할 수 있게 합니다.
+
+* **지식 재구성**  
+  프레젠테이션에 저장된 정보를 구조화된 Word 호환 콘텐츠로 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 콘텐츠 변환**  
+  반복 가능한 문서 워크플로우의 일부로 ODP 파일을 Word 호환 출력물로 변환합니다.
+
+* **통합 문서 처리**  
+  변환된 파일을 승인, 저장 또는 게시 시스템으로 자동 전송하여 수동 개입을 없앱니다.
+
+* **대량 변환 작업**  
+  대규모 프레젠테이션 컬렉션을 효율적으로 Word 호환 문서로 처리합니다.
+
+* **확장 가능한 엔터프라이즈 콘텐츠 파이프라인**  
+  Python API를 사용해 팀, 저장소 및 자동화 시스템 전반에 걸쳐 변환을 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 RTF를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to VCF 변환은 풍부한 텍스트 문서를 이름, 전화번호, 주소 및 관련 연락처 정보를 휴대 가능한 형식으로 저장할 수 있는 연락처 카드 파일로 변환합니다. 이는 문서에 포함된 연락처 세부 정보가 구조화되고 공유 가능한 레코드가 필요할 때 유용합니다.
+
+자동화 워크플로에서 RTF to VCF는 텍스트 기반 디렉터리 또는 목록을 시스템 및 팀을 위한 표준화된 연락처 자산으로 변환하여 효율적인 연락처 추출, 동기화 및 배포를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 레코드 생성**  
+  문서 기반 연락처 세부 정보를 휴대 가능한 디지털 연락처 카드로 변환합니다.
+
+* **디렉터리 현대화**  
+  작성된 연락처 목록을 가져오기 및 공유에 적합한 구조화된 레코드로 변환하는 데 도움을 줍니다.
+
+* **휴대용 연락처 교환**  
+  시스템 및 장치 간에 연락처 정보를 이동하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 추출 파이프라인**  
+  시스템은 RTF 문서를 파싱하고 식별된 연락처 세부 정보로부터 VCF 파일을 생성할 수 있습니다.
+
+* **대량 주소록 준비**  
+  프로그래밍 방식 변환은 텍스트 소스 파일에서 대규모 연락처 레코드 생성을 지원합니다.
+
+* **CRM 및 디렉터리 통합**  
+  동적 워크플로는 문서에 저장된 연락처 정보를 재사용 가능한 연락처 자산으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

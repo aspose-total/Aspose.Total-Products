@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para XLAM nas APIs Python converte modelos de texto OpenDocument em saídas de planilha orientadas a complementos, usadas para estender a funcionalidade de pastas de trabalho. Isso é útil em fluxos de trabalho especializados onde o conteúdo convertido contribui para ativos de automação reutilizáveis baseados em planilhas.
+
+A conversão suporta automação ao alinhar a lógica originada de documentos ou conteúdo estruturado com fluxos de trabalho de extensão de planilhas, ajudando a padronizar operações repetíveis em ambientes avançados de pastas de trabalho.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Suporte à Extensão de Planilha**  
+  Conecta o conteúdo do documento com fluxos de trabalho de planilhas orientados a complementos.
+
+* **Preparação de Ativos de Automação Reutilizáveis**  
+  Ajuda a empacotar conteúdo estruturado para uso repetido de pastas de trabalho.
+
+* **Integração Avançada de Fluxos de Trabalho**  
+  Faz a ponte entre modelos de texto e cenários de funcionalidade de planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Preparação Automatizada de Conteúdo de Complemento**  
+  Gera saídas relacionadas a XLAM a partir de modelos OTT programaticamente.
+
+* **Pipelines de Aprimoramento de Pastas de Trabalho**  
+  Suporta fluxos de trabalho que combinam conversão de conteúdo com automação de planilhas.
+
+* **Distribuição Reutilizável de Lógica de Negócio**  
+  Ajuda a escalar soluções de planilhas estruturadas entre equipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

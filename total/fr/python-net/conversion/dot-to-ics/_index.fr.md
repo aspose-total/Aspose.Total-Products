@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT en ICS transforme les modèles de documents en données compatibles avec les calendriers qui peuvent être utilisées pour la planification et l’échange d’événements. Ceci est important lorsque le contenu du modèle contient des informations basées sur des dates qui doivent être partagées via des flux de travail de calendrier.
+
+Avec les API Python, la conversion DOT en ICS peut être automatisée pour prendre en charge la génération d’événements, la distribution de rendez‑vous et l’intégration avec les systèmes de planification de manière fiable et reproductible.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création d’événements à partir de modèles**
+  Convertir les informations d’horaire basées sur DOT en fichiers ICS pour une utilisation dans les calendriers.
+
+* **Distribution de réunions et de chronologies**
+  Partager les dates et événements dérivés de documents dans un format de planification standard.
+
+* **Intégration de la planification de flux de travail**
+  Transformer le contenu structuré des modèles en artefacts de calendrier pour la planification opérationnelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération automatisée de calendriers**
+  Les scripts Python peuvent convertir les modèles DOT orientés date en fichiers ICS pour la distribution.
+
+* **Support du pipeline de planification**
+  La conversion permet aux systèmes de pousser les événements définis dans les documents vers les flux de travail de calendrier.
+
+* **Publication d’événements en lot**
+  Le traitement programmatique permet la création à grande échelle de fichiers ICS à partir de plusieurs modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から VCF への変換は、文書ベースの連絡先情報をアドレス帳や連絡先管理システムで使用されるデジタル連絡先カードファイルに変換します。このプロセスにより、名前、電話番号、メールアドレス、および関連する連絡先フィールドを文書から抽出し、汎用的な標準フォーマットに変換できます。
+
+Python API を使用すると、DOCX から VCF への変換を顧客データワークフロー、連絡先移行パイプライン、そして自動化されたコミュニケーションシステムに統合できます。これにより、文書から構造化された連絡先データをスケーラブルに変換し、再利用可能な連絡先レコードにすることがサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **連絡先データ抽出**  
+  DOCX ファイルに保存された連絡先情報を、汎用的なデジタル連絡先カードに変換します。
+
+* **アドレス帳の移行**  
+  文書ベースの連絡先リストを連絡先管理システムにインポートできるようにします。
+
+* **顧客情報の再利用**  
+  コミュニケーションワークフロー向けに構造化された連絡先レコードの変換をサポートします。
+
+* **汎用連絡先ファイルの生成**  
+  広く受け入れられているフォーマットで連絡先詳細を配布・保存するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された連絡先ファイル作成**  
+  システムは DOCX ファイルから連絡先フィールドを抽出し、VCF レコードを自動的に生成できます。
+
+* **バッチ連絡先移行パイプライン**  
+  Python スクリプトは複数の文書をデジタル連絡先カードに処理できます。
+
+* **CRM とコミュニケーションの自動化**  
+  文書由来の連絡先データは、同期されたアウトリーチワークフロー向けに VCF ファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

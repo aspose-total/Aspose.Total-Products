@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 POTX로의 변환은 Word 템플릿 콘텐츠를 재사용 가능한 슬라이드 작성을 위해 설계된 XML 기반 프레젠테이션 템플릿 형식으로 변환합니다. 매크로가 활성화된 동작에 의존하지 않고 문서 구조를 표준화된 프레젠테이션 자산으로 전환하는 데 유용합니다.
+
+이 변환은 Python 기반의 최신 프레젠테이션 템플릿 생성을 지원함으로써 자동화를 돕고, 팀, 부서 및 보고 주기 전반에 걸쳐 재사용할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 프레젠테이션 템플릿**
+  문서 콘텐츠를 재사용 가능한 슬라이드 템플릿으로 변환하여 표준화된 전달을 가능하게 합니다.
+
+* **템플릿 표준화**
+  반복되는 프레젠테이션이 일관된 구조 기반에서 시작하도록 보장합니다.
+
+* **콘텐츠 변환**
+  Word 템플릿을 보다 넓은 용도로 사용할 수 있는 슬라이드 제작 자산으로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 템플릿 생성**
+  자동화된 워크플로에서 여러 DOTX 템플릿으로부터 POTX 파일을 생성합니다.
+
+* **프레젠테이션 팩토리 파이프라인**
+  변환된 템플릿을 사용하여 대규모로 반복 가능한 슬라이드 생성을 지원합니다.
+
+* **부서 전체 표준화**
+  프로그래밍 방식으로 팀 전반에 일관된 프레젠테이션 템플릿을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

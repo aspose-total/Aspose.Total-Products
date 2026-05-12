@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTFからOFTへの変換は、書式設定されたテキスト文書を、標準化されたコミュニケーションに再利用できるメールテンプレートファイルに変換します。これは、組織が用意されたコンテンツを構造化されたテンプレートに変換し、一貫したアウトリーチ、サポート、または内部メッセージングを実現する必要がある場合に有用です。
+
+自動化ワークフローにおいて、RTFからOFTへの変換は、文書で作成されたコンテンツを再利用可能なテンプレートに変換し、動的にデータを埋め込んで通信プロセス全体に展開できることで、繰り返し可能なメール生成をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **再利用可能なメールテンプレートの作成**  
+  リッチテキストコンテンツをテンプレートファイルに変換し、一貫したメッセージ作成を可能にします。
+
+* **標準化された内部コミュニケーション**  
+  チームが定期的なメールや通知で統一された文言を維持できるよう支援します。
+
+* **事前に用意されたアウトリーチコンテンツ**  
+  承認済みのテキスト資産をテンプレート対応のコミュニケーション形式に変換することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート駆動型メッセージングパイプライン**  
+  システムはRTF文書をOFTテンプレートに変換し、自動化されたコミュニケーションワークフローに利用できます。
+
+* **動的コンテンツの投入**  
+  プログラム的なプロセスは再利用可能なテンプレートと可変データを組み合わせ、スケーラブルなメッセージングを実現します。
+
+* **承認ベースのコミュニケーション自動化**  
+  標準的な文書テキストを制御されたメールテンプレートに変換し、管理されたアウトリーチを実現できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

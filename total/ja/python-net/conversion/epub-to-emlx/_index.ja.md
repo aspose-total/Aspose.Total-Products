@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB から EMLX への変換は、Python でデジタル出版コンテンツを特定のメール保存環境で一般的に使用されるメールメッセージ形式に変換することを可能にします。この変換は、出版データをプラットフォーム固有のメールワークフローに合わせる必要がある場合や、構造化されたメッセージ形式で保存する必要がある場合に役立ちます。
+
+自動化システム向けに、EPUB から EMLX への変換は、制御されたコンテンツ変換をサポートし、手動でのフォーマット作業を削減し、Python ベースのアプリケーションが出版コンテンツを専門的な通信またはアーカイブパイプラインに供給できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プラットフォーム固有のメッセージ準備**  
+  このメール互換構造が必要な環境向けに、EPUB ファイルを EMLX 形式に変換します。
+
+* **文書からメールへの再利用**  
+  出版コンテンツを、メール指向システムでの処理に適したメッセージファイルに変換します。
+
+* **構造化コンテンツの保存**  
+  整理された保持と制御されたアクセスのために、EPUB 由来のコンテンツを EMLX 形式で保存します。
+
+* **ワークフローの互換性**  
+  メッセージベースのファイル処理に依存する文書パイプラインをサポートするために、EMLX 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動リポジトリ変換**  
+  Python の自動化により、保存された EPUB コレクションを下流システムとの互換性のために EMLX に変換できます。
+
+* **コンテンツ移行ワークフロー**  
+  自動ジョブは、データ移行や再構築プロジェクト中に出版ファイルを EMLX に変換できます。
+
+* **イベント駆動型処理**  
+  システムは新しいソースファイルが検出されたときに EPUB から EMLX への変換をトリガーできます。
+
+* **大量文書のパッケージ化**  
+  プログラムによる変換は、手動作業を最小限に抑えて、繰り返しまたは大規模な出力生成を管理するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

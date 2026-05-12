@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 PNG를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG를 VCF로 변환하면 스캔한 명함이나 시각적 연락처 시트와 같은 이미지 기반 연락처 정보를 구조화된 연락처 파일로 변환하여 저장, 공유 및 동기화를 보다 쉽게 할 수 있습니다. 이는 연락처 데이터를 디지털화하고 현대 주소록 및 CRM 워크플로우에서 활용할 수 있게 하는 데 중요합니다.
+
+Python API는 시스템이 PNG 파일에서 연락처 세부 정보를 추출하고 VCF 출력으로 변환하도록 함으로써 프로세스를 확장 가능하고 자동화에 친화적으로 만들어, 수동 데이터 입력을 줄이고 연락처 관리 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **명함 디지털화**  
+  연락처 카드의 PNG 이미지를 재사용 가능한 VCF 연락처 파일로 변환합니다.
+
+* **연락처 데이터 추출**  
+  시각적 연락처 정보를 구조화된 디지털 주소록 항목으로 변환하는 데 도움을 줍니다.
+
+* **CRM 데이터 준비**  
+  이미지 기반 연락처 세부 정보를 가져올 수 있는 연락처 레코드로 변환해야 하는 워크플로우를 지원합니다.
+
+* **디렉터리 현대화**  
+  조직이 스캔하거나 시각적인 연락처 자산을 표준화된 연락처 파일 형식으로 이동할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 캡처**  
+  Python API는 들어오는 PNG 명함을 VCF 파일로 변환하여 즉시 연락처를 생성할 수 있습니다.
+
+* **대량 연락처 가져오기 워크플로우**  
+  대량의 시각적 연락처 레코드를 데이터베이스 또는 주소록 가져오기를 위한 VCF 출력으로 변환할 수 있습니다.
+
+* **리드 수집 파이프라인**  
+  시스템은 이미지 기반 연락처 제출을 프로그래밍 방식으로 구조화된 연락처 파일로 변환할 수 있습니다.
+
+* **모바일 및 클라우드 동기화 준비**  
+  자동 변환은 PNG에서 파생된 연락처 데이터를 플랫폼 및 애플리케이션 간 동기화를 위해 준비하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para ODT converte o conteúdo da caixa de correio em arquivos de texto de documento aberto, fornecendo um formato editável e baseado em padrões para arquivamento e reutilização de documentos. Isso é valioso para ambientes que priorizam formatos abertos, interoperabilidade e acessibilidade de documentos a longo prazo.
+
+Usando APIs Python, as organizações podem automatizar a conversão de MBOX para ODT para simplificar a produção de documentos, apoiar padrões de fluxo de trabalho aberto e melhorar a usabilidade do conteúdo de e‑mail arquivado.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Documento em Formato Aberto**
+  Converta e‑mails em arquivos ODT para preservação de texto acessível e editável.
+
+* **Arquivamento Baseado em Padrões**
+  Preserve o conteúdo da caixa de correio em um formato alinhado com fluxos de trabalho de documentos abertos.
+
+* **Reuso de Documento entre Sistemas**
+  Facilite a troca de conteúdo derivado de e‑mail entre plataformas compatíveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Criação Automatizada de Documento Aberto**
+  Transforme entradas da caixa de correio em arquivos ODT por meio de processamento baseado em Python.
+
+* **Integração de Fluxo de Trabalho Interoperável**
+  Alimente documentos convertidos em sistemas de conteúdo e arquivamento de padrão aberto.
+
+* **Transformação em Massa de E‑mails**
+  Escalone a conversão de caixas de correio em saídas de documentos abertos editáveis com esforço mínimo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

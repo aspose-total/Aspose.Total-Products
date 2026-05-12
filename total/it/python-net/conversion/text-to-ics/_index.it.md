@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da testo a file ICS mediante le API Python consente di trasformare informazioni in testo semplice in file di eventi compatibili con i calendari. Questo è particolarmente rilevante per i sistemi di pianificazione, la generazione di appuntamenti e i flussi di lavoro che devono trasformare i dettagli testuali di un evento in voci di calendario condivisibili.
+
+Questa conversione migliora l’automazione permettendo alle applicazioni di generare inviti a riunioni, promemoria e programmi di eventi direttamente da input testuali, supportando un coordinamento efficiente e l’integrazione tra i sistemi di pianificazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di eventi del calendario**  
+  Converte i dettagli dell'evento in forma testuale in file ICS per la programmazione e la condivisione.
+
+* **Generazione di inviti a riunioni**  
+  Aiuta a creare inviti di calendario standardizzati a partire da contenuti di testo semplice.
+
+* **Pianificazione di promemoria**  
+  Supporta la trasformazione di promemoria basati su testo in file di eventi compatibili con i calendari.
+
+* **Integrazione del flusso di lavoro degli appuntamenti**  
+  Consente ai sistemi aziendali di generare automaticamente risorse di eventi prenotabili o tracciabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Appuntamenti auto-programmati**  
+  Il testo inserito in moduli o sistemi può essere convertito in file ICS per un uso immediato nel calendario.
+
+* **Flussi di lavoro per la distribuzione di eventi**  
+  L’automazione può generare e inviare file di calendario basati su programmi definiti in testo.
+
+* **Pipeline di pianificazione ricorrente**  
+  Processi programmatici possono convertire testo strutturato in eventi di calendario su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

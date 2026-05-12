@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から WordML への変換は、マクロ対応スプレッドシートの内容を、構造化文書表現のために設計された XML ベースのワードプロセッシング形式に変換します。組織が XML 中心のシステム、コンテンツ変換ワークフロー、または統合重視の環境に合わせた文書出力を必要とする場合に有用です。
+
+自動化の観点から、WordML はプログラムによる処理、構造化パース、XML ベースのコンテンツ交換に依存するシステムとの統合を容易にします。Python API により、XLSM から WordML への変換は、スケーラブルな文書変換と機械可読なワークフローパイプラインに効果的です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **XMLベースの文書生成**
+  スプレッドシートデータをシステム統合に適した構造化ワードプロセッシング形式に変換します。
+
+* **機械可読コンテンツワークフロー**
+  組織が解析および変換が容易な形式で文書出力を管理できるよう支援します。
+
+* **構造化文書交換**
+  スプレッドシート由来のコンテンツを XML 互換の処理環境へ移行することをサポートします。
+
+* **統合指向の出版**
+  構造化コンテンツモデルを重視するワークフロー向けに文書生成を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによる XML 文書パイプライン**
+  Python API は、システム駆動の文書ワークフロー向けに XLSM ファイルを WordML 出力に変換できます。
+
+* **バッチ構造化コンテンツ変換**
+  複数のスプレッドシートをプログラムでスケールに合わせて XML ベースの文書に変換できます。
+
+* **統合ワークフローサポート**
+  WordML 出力は、構造化かつ機械処理可能な文書を必要とする下流システムに供給できます。
+
+* **自動化コンテンツ交換**
+  変換は、スプレッドシートソースと XML ベースの出版、保存、変換プロセスを橋渡しするのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

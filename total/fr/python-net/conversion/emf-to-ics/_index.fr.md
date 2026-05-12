@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion EMF vers ICS en Python permet de transformer les graphiques Enhanced Metafile en fichiers ICS compatibles avec les calendriers, pouvant prendre en charge la planification, la distribution d’événements et les flux de travail de planification structurés. Ce type de conversion est pertinent lorsque le contenu visuel doit être associé à des données d’événement ou intégré dans des systèmes qui génèrent des sorties basées sur le calendrier.
+
+Dans les environnements d’automatisation, la conversion EMF vers ICS aide à connecter les informations graphiques aux processus de planification, améliorant la cohérence et réduisant le travail de formatage manuel. Elle prend en charge la génération de calendriers évolutive, les notifications d’événements et l’intégration entre les actifs documentaires et les systèmes de flux de travail basés sur le temps.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation du contenu d'événement**  
+  Convertir les visuels basés sur EMF en sorties compatibles ICS pour les flux de travail qui distribuent des informations liées aux événements.
+
+* **Communication guidée par le planning**  
+  Utiliser les fichiers convertis dans les systèmes où les données visuelles accompagnent les rendez‑vous ou les enregistrements de calendrier.
+
+* **Systèmes de planification et de coordination**  
+  Permettre l’intégration entre les actifs basés sur des diagrammes et les flux de travail de calendrier utilisés pour la planification opérationnelle.
+
+* **Distribution d'événements structurée**  
+  Prendre en charge le partage automatisé d’informations d’événement dans un format de calendrier largement reconnu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de fichiers de calendrier**  
+  Les flux de travail Python peuvent créer des sorties ICS à partir de contenu source EMF dans le cadre de pipelines de planification.
+
+* **Rappel et diffusion d'événements**  
+  Les systèmes peuvent générer automatiquement des fichiers prêts pour le calendrier lorsque les supports visuels d’événement sont préparés.
+
+* **Processus de planification par lots**  
+  Plusieurs actifs EMF peuvent être convertis programmatiquement en fichiers ICS pour des flux de travail d’événements récurrents ou à grande échelle.
+
+* **Pipelines de coordination intégrés**  
+  Les applications peuvent connecter la génération de documents, la préparation visuelle et la distribution de calendriers en un seul processus automatisé.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

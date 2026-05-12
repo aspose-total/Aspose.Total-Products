@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した TIFF から OFT への変換は、画像ドキュメントを再利用可能なメールテンプレート形式に変換し、繰り返し可能なコミュニケーションプロセスをサポートします。TIFF ベースのコンテンツやレイアウトを、一定のアウトバウンドメッセージングワークフローに適した構造化テンプレートに変換する必要がある場合に有用です。
+
+自動化の文脈において、TIFF から OFT への変換はテンプレートの標準化を促進し、繰り返しのコンテンツ作成を削減し、スケーラブルなコミュニケーション設計を支援します。特に、定期的な通知、フォーム主導のアウトリーチ、運用メッセージングフレームワークに有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **再利用可能なメッセージテンプレート**
+  TIFF 由来のコンテンツを OFT ファイルに変換し、繰り返し可能なメール作成ワークフローを実現します。
+
+* **標準化されたコミュニケーション資産**
+  繰り返し行われるメッセージプロセス全体で、一貫したフォーマットと構造を維持するのに役立ちます。
+
+* **テンプレートベースの運用**
+  画像ドキュメントを将来のコミュニケーションのための構造化された出発点に変換することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な通知ワークフロー**
+  TIFF ソースから OFT テンプレートの作成を自動化し、繰り返し行われる運用メッセージングを実現します。
+
+* **フォーム主導のメール作成**
+  視覚的なフォームコンテンツを再利用可能なメールテンプレートに変換し、構造化されたアウトリーチを支援します。
+
+* **テンプレート配布パイプライン**
+  TIFF 入力に基づくメールテンプレート資産の動的生成と配信を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

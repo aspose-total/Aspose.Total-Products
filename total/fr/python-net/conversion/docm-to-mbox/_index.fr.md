@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers MBOX transforme les documents contenant des macros en une sortie de stockage de type boîte aux lettres, facilitant le regroupement, l'archivage ou la migration des communications basées sur des documents dans des systèmes orientés courriel. Cela est précieux lorsque le contenu des documents doit être conservé au sein de dépôts de messages groupés.
+
+Pour l'automatisation et l'échelle, les flux de travail DOCM vers MBOX prennent en charge l'archivage par lots, l'emballage des communications et le transfert du contenu dérivé des documents vers des systèmes de rétention centrés sur les boîtes aux lettres.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Archivage de boîtes aux lettres**
+  Conserve le contenu dérivé des documents à l'intérieur des fichiers conteneurs de boîtes aux lettres pour un stockage à long terme.
+
+* **Regroupement de collections de messages**
+  Permet de regrouper les communications converties liées dans un fichier consolidé.
+
+* **Support de migration**
+  Facilite le déplacement du contenu de communication basé sur des documents vers des environnements d'archivage de courriels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'archives automatisée**
+  Convertit les fichiers DOCM en sorties MBOX pour des flux de travail de rétention planifiés.
+
+* **Préparation de référentiel de courriels en masse**
+  Emballe le contenu dérivé des documents dans des fichiers de boîtes aux lettres à travers de grands ensembles de données.
+
+* **Pipelines de stockage programmatiques**
+  Intègre la conversion de documents avec des systèmes d'archivage et de conformité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OST ke MD
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST to MD conversion mengubah data kotak surat menjadi format Markdown, menciptakan konten teks yang ringan, dapat dibaca, dan dapat dipindahkan, cocok untuk dokumentasi dan alur kerja pengetahuan. Ini berharga bagi tim yang menginginkan konten yang dihasilkan dari email dalam format teks polos terstruktur yang berfungsi baik di berbagai platform.
+
+Manfaat otomatisasi sangat kuat karena konversi OST ke MD secara alami cocok dalam pipeline konten, alur kerja pengembang, dan sistem dokumentasi. API Python memungkinkan transformasi cepat dan skalabel dari arsip kotak surat menjadi file Markdown untuk pengindeksan, penerbitan, dan penggunaan kembali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Dokumentasi Ringan**  
+  Mengonversi konten email menjadi Markdown untuk catatan berbasis teks sederhana dan terstruktur.
+
+* **Persiapan Basis Pengetahuan**  
+  Membantu penggunaan kembali informasi penting dari kotak surat dalam sistem dokumentasi internal.
+
+* **Ekspor Konten Ramah Pengembang**  
+  Mendukung alur kerja di mana format teks polos yang dapat dipindahkan lebih disukai.
+
+* **Catatan yang Dikontrol Versi**  
+  Membuat konten yang dihasilkan dari email lebih mudah dilacak dan dikelola dalam lingkungan berorientasi teks.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Otomatisasi Pipeline Dokumentasi**  
+  Skrip Python mengonversi konten OST menjadi Markdown untuk alur kerja penerbitan dan pengindeksan.
+
+* **Alur Kerja Ekstraksi Konten**  
+  Sistem otomatis menyiapkan teks kotak surat untuk repositori yang dapat dicari dan catatan terstruktur.
+
+* **Pembuatan Arsip Portabel**  
+  Konversi programatik menghasilkan aset teks yang dapat digunakan kembali dari data email yang disimpan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de DOCM en ODP transforme les documents contenant des macros en fichiers de présentation ouverts, permettant la réutilisation du contenu structuré dans les diaporamas et les flux de travail de présentation. Elle est utile lorsque les récits de documents, les résumés ou les informations structurées doivent être adaptés en actifs de présentation portables.
+
+Dans les systèmes axés sur l'automatisation, la conversion de DOCM en ODP aide à générer des sorties de présentation ouvertes pour le reporting, la formation et la publication de contenu évolutive sur les plateformes de présentation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de présentation**
+  Convertit le contenu du document en matériel prêt à être présenté pour les réunions et les revues.
+
+* **Distribution au format ouvert**
+  Prend en charge les flux de travail de présentation qui reposent sur des normes de fichiers ouvertes et portables.
+
+* **Réutilisation de contenu structuré**
+  Transforme les informations basées sur des documents en actifs de présentation visuels pour une communication plus large.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de diapositives**
+  Produit des fichiers ODP à partir de sources DOCM pour des flux de travail de présentation récurrents.
+
+* **Flux de formation et de reporting**
+  Convertit les documents rédigés en sorties de présentation utilisées par les équipes.
+
+* **Publication de contenu en lot**
+  Prend en charge la génération à grande échelle de fichiers de présentation ouverts sans formatage manuel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOTM naar VCF-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM-naar-VCF-conversie zet macro‑ondersteunde Word‑sjablonen om in vCard‑contactbestanden, waardoor documentgebaseerde contactinformatie gemakkelijker kan worden gedeeld en geïmporteerd in adresboeksystemen. Het is nuttig wanneer sjablonen persoonsgegevens, organisaties of communicatiedetails bevatten die moeten worden omgezet in gestructureerde contactrecords.
+
+Het gebruik van Python‑API’s voor DOTM-naar-VCF-conversie helpt bij het automatiseren van het genereren van contacten uit documentbronnen, waardoor handmatige invoer wordt verminderd en de gegevensconsistentie verbetert. Dit ondersteunt schaalbare onboarding, directorybeheer en CRM‑gerelateerde workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Contactrecordcreatie**
+  Converteer contactgegevens uit DOTM‑sjablonen naar VCF‑bestanden voor eenvoudig delen en importeren.
+
+* **Herbruik van directorygegevens**
+  Hergebruik gestructureerde documentinformatie in gestandaardiseerde digitale contactkaarten.
+
+* **Workflowvriendelijke contactuitwisseling**
+  Maak eenvoudige verplaatsing van contactgegevens tussen documenten en adresboeksystemen mogelijk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactextractie**
+  Workflows kunnen VCF‑bestanden genereren uit DOTM‑sjablonen die persoonlijke of organisatorische details bevatten.
+
+* **Ondersteuning voor directory‑synchronisatie**
+  De conversie helpt geautomatiseerde systemen om importklare contactrecords uit documenten te maken.
+
+* **Bulkcontactgeneratie**
+  Programmerende verwerking ondersteunt grootschalige transformatie van DOTM‑bestanden naar VCF‑bestanden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

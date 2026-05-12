@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e‑mails en Word avec Python permet de transformer le contenu des messages en documents de traitement de texte éditables pour la rédaction, le stockage et la collaboration. Elle est utile lorsque les communications par e‑mail doivent devenir des documents de travail dans le cadre de processus métier plus larges.
+
+Cette conversion améliore l'automatisation en transférant le contenu non structuré de la boîte de réception vers des flux de travail documentaires structurés qui prennent en charge l'édition, la réutilisation, l'approbation et la gestion des dépôts.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préservation des messages éditables**
+  Convertir les e‑mails en documents Word pour faciliter la révision et la réutilisation.
+
+* **Documentation des processus métier**
+  Transformer les communications importantes en fichiers de travail pour les équipes et les départements.
+
+* **Gestion collaborative du contenu**
+  Partager les e‑mails convertis dans un format qui prend en charge les modifications et les commentaires.
+
+* **Intégration au flux de travail**
+  Insérer les documents dérivés d’e‑mail dans des systèmes de stockage structuré et d’approbation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de conversion Boîte de réception → Word**
+  Générer automatiquement des documents Word à partir d’e‑mails sélectionnés pour le traitement.
+
+* **Flux de travail de normalisation du contenu**
+  Normaliser le contenu des e‑mails en documents métier éditables à grande échelle.
+
+* **Routage automatisé des révisions**
+  Envoyer les fichiers Word convertis à travers des pipelines éditoriaux ou opérationnels collaboratifs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

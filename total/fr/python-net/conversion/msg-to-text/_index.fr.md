@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MSG vers TEXTE extrait le contenu des messages électroniques en texte brut pour un stockage, une recherche et un traitement simples. Elle est précieuse lorsque l'accès à un contenu propre prime sur le formatage et lorsqu'une sortie légère est nécessaire pour l'indexation ou l'analyse.
+
+Pour l'automatisation, les flux de travail MSG vers TEXTE prennent en charge l'exploration de texte, les pipelines de recherche et l'ingestion de contenu normalisé. Ils aident à convertir les données de communication en un format minimal, adapté aux machines, propice à un traitement évolutif.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de texte brut**  
+  Isoler le contenu des e‑mails pour une lecture facile, un stockage ou une analyse en aval.
+
+* **Support de recherche et d'indexation**  
+  Préparer le texte du message pour les flux de travail de catalogage et de récupération.
+
+* **Traitement de données léger**  
+  Utiliser une sortie simplifiée dans les pipelines qui ne nécessitent pas la conservation du formatage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines d'ingestion de contenu**  
+  Convertir les fichiers MSG en texte brut pour les systèmes d'indexation et de classification.
+
+* **Flux de travail d'analyse de texte**  
+  Alimenter le contenu extrait du message dans des processus d'analyse ou de surveillance automatisés.
+
+* **Création d'archives normalisées**  
+  Stocker les enregistrements de communication sous forme de texte compact pour une conservation évolutive.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

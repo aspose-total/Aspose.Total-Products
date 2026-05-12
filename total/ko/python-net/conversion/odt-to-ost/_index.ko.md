@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 ODT를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 OST로의 변환은 문서 내용을 오프라인 메일함 데이터 워크플로와 연관된 형식으로 변환하며, 이때 내용은 저장, 마이그레이션 또는 커뮤니케이션 관련 패키징을 위해 재활용될 수 있습니다. 이는 특수한 보관 또는 기업 메세징 시나리오에서 유용할 수 있습니다.
+
+Python API를 사용하면 ODT에서 OST로의 변환이 메일함 형태 저장 프로세스와의 통합이 필요한 자동화된 문서 변환을 지원할 수 있습니다. 이는 메시지 중심 환경에서 반복성을 향상시키고 수동 준비 작업을 줄여줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 지향 패키징**  
+  오프라인 메세지 저장 워크플로에서 사용하기 위해 문서 내용을 변환합니다.
+
+* **보관 지원**  
+  커뮤니케이션 관련 저장 형식에서 재활용된 텍스트를 보존하는 데 도움을 줍니다.
+
+* **마이그레이션 준비**  
+  문서에서 파생된 내용을 메일함 생태계로 이동하는 것을 지원합니다.
+
+* **구조화된 레코드 변환**  
+  문서와 메세징 아티팩트를 결합하는 기업 프로세스를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 콘텐츠 패키징**  
+  Python 스크립트를 사용하여 정의된 워크플로에서 ODT 파일을 메일함 관련 출력으로 변환할 수 있습니다.
+
+* **배치 보관 처리**  
+  대규모 문서 저장소를 커뮤니케이션 중심 저장 작업을 위해 변환할 수 있습니다.
+
+* **마이그레이션 파이프라인 통합**  
+  자동화된 작업이 변환된 내용을 하위 메일함 처리에 준비할 수 있습니다.
+
+* **보존 워크플로우 지원**  
+  문서에서 파생된 출력은 장기 기록 보관을 위해 일관되게 생성될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

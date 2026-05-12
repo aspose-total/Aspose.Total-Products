@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MOBI a SXC in Python supporta la trasformazione del contenuto degli ebook in un formato di foglio di calcolo aperto legacy utilizzato in ambienti d'ufficio più vecchi. Questo è rilevante quando le organizzazioni devono preservare la compatibilità con sistemi storici o mantenere la continuità nei processi documentali di lunga durata.
+
+Per i casi d'uso di automazione, la conversione da MOBI a SXC consente un supporto scriptato per ambienti legacy, una conversione sistematica dei formati e flussi di lavoro di archiviazione controllati. Aiuta a collegare la logica di estrazione moderna con ecosistemi di fogli di calcolo più vecchi che sono ancora operativi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Compatibilità OpenOffice Legacy**
+  Converti il contenuto MOBI in SXC per ambienti che dipendono ancora da standard di fogli di calcolo più vecchi.
+
+* **Supporto ai flussi di lavoro storici**
+  Mantieni output di fogli di calcolo utilizzabili per sistemi a lungo termine con requisiti di formati legacy.
+
+* **Preservazione e migrazione**
+  Estrai il contenuto dell'ebook in SXC come passo intermedio in progetti di archiviazione o migrazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione dell'esportazione legacy**
+  Genera automaticamente file SXC da sorgenti MOBI per flussi di lavoro d'ufficio più vecchi.
+
+* **Pipeline di elaborazione retrocompatibili**
+  Includi la conversione SXC nell'automazione dei documenti dove la compatibilità è più importante delle nuove funzionalità.
+
+* **Supporto alla modernizzazione degli archivi**
+  Usa routine Python per preparare output compatibili con i sistemi legacy mentre modernizzi i processi di estrazione sottostanti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

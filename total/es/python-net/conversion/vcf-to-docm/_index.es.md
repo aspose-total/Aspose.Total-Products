@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de VCF a DOCM transforma los datos de tarjetas de contacto en documentos de procesamiento de texto con macros habilitadas, permitiendo la entrega de contenido estructurado donde se requiera un comportamiento avanzado del documento. Esto es útil para organizaciones que trabajan con flujos de trabajo de documentos dinámicos y salidas editables.
+
+En sistemas centrados en la automatización, la conversión de VCF a DOCM permite que las API de Python generen documentos basados en contactos que se integren en procesos programables más amplios, especialmente donde la lógica del documento, el formato repetible o las acciones integradas forman parte de las operaciones.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Documentos de Contacto Dinámicos**  
+  Convierta registros VCF en archivos DOCM editables para flujos de trabajo de documentos avanzados.
+
+* **Procesamiento Interno Estructurado**  
+  Prepare la información de contacto en documentos con macros habilitadas para un uso empresarial controlado.
+
+* **Documentación Programable**  
+  Apoye entornos de documentos donde la automatización y el contenido editable deben coexistir.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Creación Automatizada de DOCM**  
+  Genere documentos con macros habilitadas a partir de archivos de contacto en operaciones por lotes.
+
+* **Flujos de Trabajo de Documentos Basados en Reglas**  
+  Rutee los archivos DOCM convertidos a procesos empresariales automatizados con un formato consistente.
+
+* **Empaquetado Escalable de Contactos**  
+  Empaquete programáticamente los datos de contacto en salidas DOCM reutilizables para flujos de trabajo empresariales.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

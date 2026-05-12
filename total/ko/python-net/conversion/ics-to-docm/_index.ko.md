@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 ICS를 DOCM로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS to DOCM 변환을 Python API로 수행하면 캘린더 이벤트 데이터를 매크로 사용 워드 문서로 변환합니다. 이를 통해 일정 정보를 매크로가 포함된 문서에 삽입하여 고급 자동화를 지원할 수 있습니다.
+
+Python으로 이 변환을 자동화하면 조직이 캘린더 데이터를 매크로 기반 워크플로에 통합할 수 있어, 이벤트 일정이 문서 자동화 또는 보고 프로세스를 트리거하도록 할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **자동화된 문서 템플릿**  
+  자동화된 보고를 위해 매크로 사용 문서에 캘린더 데이터를 삽입합니다.
+
+* **워크플로 통합**  
+  자동화된 프로세스를 트리거하는 문서 내에서 이벤트 정보를 사용합니다.
+
+* **고급 보고**  
+  캘린더 일정과 매크로 기반 분석 또는 서식을 결합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **매크로 기반 보고 시스템**  
+  ICS 일정에서 DOCM 파일을 자동으로 생성합니다.
+
+* **문서 자동화 파이프라인**  
+  이벤트 데이터를 매크로 워크플로와 통합하여 문서를 자동으로 업데이트합니다.
+
+* **엔터프라이즈 일정 도구**  
+  대규모로 캘린더 데이터를 매크로 사용 보고서로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

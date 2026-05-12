@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLTM을 ODT로 변환하면 매크로가 포함된 Excel 템플릿을 편집 가능하고 표준 기반 문서 워크플로우를 위한 오픈 문서 텍스트 파일로 변환할 수 있습니다. 이는 오픈 포맷, 상호 운용성 및 유연한 문서 처리를 우선시하는 환경에 중요합니다.
+
+자동화 사용 사례에서 XLTM을 ODT로 변환하면 플랫폼에 구애받지 않는 콘텐츠 교환을 지원하고, 형식 의존성을 줄이며, 문서 생성 시스템의 확장성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 문서 편집**  
+  스프레드시트 템플릿을 오픈 문서 표준에 맞는 편집 가능한 텍스트 문서로 변환합니다.
+
+* **상호 운용 가능한 콘텐츠 공유**  
+  오픈 및 접근 가능한 파일 포맷에 의존하는 시스템 전반에 걸쳐 더 넓은 호환성을 지원합니다.
+
+* **구조화된 데이터 문서화**  
+  정리된 스프레드시트 기반 정보를 텍스트 중심의 오픈 문서 출력물로 옮기는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **표준 기반 변환 파이프라인**  
+  오픈 문서 호환성이 필요한 시스템을 위해 XLTM을 ODT로 변환하는 작업을 자동화합니다.
+
+* **크로스 플랫폼 문서 워크플로우**  
+  다양한 소프트웨어 환경에서 변환된 텍스트 문서를 효율적으로 공유할 수 있게 합니다.
+
+* **배치 오픈 포맷 퍼블리싱**  
+  재사용 가능한 스프레드시트 템플릿으로부터 ODT 파일을 대량으로 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de BMP para OST permite que arquivos de imagem bitmap sejam incluídos em arquivos de armazenamento de e‑mail offline usados por clientes de mensagens. Os arquivos OST mantêm cópias sincronizadas dos dados da caixa de correio para acesso offline.
+
+Fluxos de trabalho de conversão automatizados ajudam os sistemas a integrar mensagens baseadas em imagens ao armazenamento de caixa de correio offline. Isso suporta arquivamento corporativo, sincronização e processos automatizados de gerenciamento de caixas de correio.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Armazenamento de caixa de correio offline**  
+  Mensagens baseadas em BMP podem ser armazenadas em arquivos de caixa de correio offline.
+
+* **Arquivamento de e‑mail corporativo**  
+  As organizações podem preservar comunicações visuais dentro dos sistemas de armazenamento de caixas de correio.
+
+* **Sincronização de dados da caixa de correio**  
+  Conteúdo visual pode ser integrado a registros de caixa de correio sincronizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de automação" %}}
+
+* **População automatizada da caixa de correio**  
+  Os sistemas geram mensagens baseadas em BMP e as armazenam em arquivos OST.
+
+* **Fluxos de trabalho de migração de caixa de correio**  
+  Conteúdo visual de e‑mail pode ser convertido em armazenamento de caixa de correio offline durante a migração.
+
+* **Gerenciamento programático da caixa de correio**  
+  Aplicações atualizam dinamicamente arquivos OST com comunicações baseadas em imagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

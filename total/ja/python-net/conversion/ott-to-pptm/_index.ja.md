@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PPTM 変換（Python API）は、OpenDocument テキストテンプレートをマクロ対応プレゼンテーションファイルに変換し、スライドベースのワークフロー内で高度な自動化をサポートします。生成されたプレゼンテーションに再利用可能なロジックやスクリプト化されたアクションを組み込む必要がある場合に有用です。
+
+この変換は、ドキュメント駆動型のコンテンツ生成と、より動的で機能豊富なレポートや配信シナリオに参加できるプレゼンテーションファイルを組み合わせることで、自動化を強化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応プレゼンテーション作成**  
+  高度な自動化動作に適したプレゼンテーションを生成します。
+
+* **動的レポート支援**  
+  静的スライドコンテンツを超えるプレゼンテーションの構築を支援します。
+
+* **テンプレートコンテンツの再利用**  
+  テキストテンプレートをよりリッチなプレゼンテーション出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スクリプト対応デッキ生成**  
+  繰り返し可能なワークフローで OTT テンプレートから PPTM ファイルを作成します。
+
+* **高度なプレゼンテーションパイプライン**  
+  拡張されたスライド機能を必要とするレポートシステムをサポートします。
+
+* **スケーラブルな自動ブリーフィング**  
+  ユースケース全体で一貫したマクロ対応プレゼンテーションを提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

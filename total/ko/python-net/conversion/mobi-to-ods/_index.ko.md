@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MOBI를 ODS로 변환하면 전자책에서 추출한 콘텐츠를 분석, 재사용 및 협업 편집에 적합한 개방형 스프레드시트 형식으로 변환할 수 있습니다. 이는 개방형 표준을 선호하면서도 구조화된 스프레드시트 기능이 필요한 조직에 유용합니다.
+
+자동화 관점에서 MOBI를 ODS로 변환하면 확장 가능한 개방 문서 워크플로우, 비용 효율적인 상호 운용성 및 프로그래밍 가능한 내보내기 루틴을 지원합니다. 이는 팀이 원본 출판 파일을 자동화된 사무 및 데이터 시스템과 원활하게 통합되는 구조화된 자산으로 전환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **개방형 표준 스프레드시트 출력**
+  MOBI 파일을 ODS로 변환하여 개방형 문서 환경에서 구조화된 편집 및 분석을 수행합니다.
+
+* **팀을 위한 콘텐츠 구조화**
+  추출된 전자책 정보를 운영용 협업 스프레드시트 형식으로 준비합니다.
+
+* **재사용 가능한 데이터 패키징**
+  콘텐츠를 오픈소스 및 표준 기반 플랫폼 전반에서 재사용할 수 있는 형식으로 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 개방 문서 내보내기**
+  예약된 콘텐츠 처리 작업 내에서 MOBI 입력으로부터 ODS 파일을 생성합니다.
+
+* **크로스 플랫폼 워크플로우 통합**
+  변환된 스프레드시트 출력을 개방형 오피스 문서 표준에 의존하는 시스템에 공급합니다.
+
+* **반복 가능한 콘텐츠 구조화**
+  Python 자동화를 사용하여 전자책 콘텐츠를 일관되게 스프레드시트 준비가 된 개방형 파일로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

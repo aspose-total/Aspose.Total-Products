@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 TSV로 변환하면 문서 템플릿을 간단하고 휴대 가능하며 처리하기 쉬운 탭으로 구분된 데이터 파일로 바꿉니다. 이는 구조화된 템플릿 콘텐츠를 신뢰할 수 있는 데이터 교환을 지원하는 구분자 기반 형식으로 내보내야 할 때 유용합니다.
+
+Python API를 사용하면 DOT를 TSV로 변환하는 워크플로를 자동화하여 깨끗한 데이터 추출, 시스템 상호 운용성 및 확장 가능한 문서-데이터 처리를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 텍스트 내보내기**
+  DOT 파일을 TSV로 변환하여 깔끔한 구분자 기반 데이터 처리를 수행합니다.
+
+* **시스템 친화적인 데이터 교환**
+  예측 가능한 필드 구분을 위해 탭이 선호되는 경우 TSV 출력을 사용합니다.
+
+* **템플릿 콘텐츠 추출**
+  스크립트와 운영 도구를 위해 문서 정보를 간단한 형식으로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 데이터 추출**
+  Python 스크립트를 사용하여 DOT 템플릿을 TSV 파일로 변환하고 반복적인 처리 작업에 활용할 수 있습니다.
+
+* **ETL 워크플로 지원**
+  변환은 템플릿에서 파생된 데이터를 파이프라인 및 통합 시스템에 공급하는 데 도움이 됩니다.
+
+* **확장 가능한 텍스트 기반 내보내기**
+  프로그램 방식 변환을 통해 문서 저장소에서 대량의 TSV를 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

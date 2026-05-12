@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から PPS への変換は、ワードプロセッシングのコンテンツを直接プレゼンテーション再生用に設計されたスライドショーファイルに変換します。これは、書面コンテンツを表示前に追加編集することなく、すぐに表示できる形式で提供する必要がある場合に役立ちます。
+
+自動化されたワークフローにおいて、この変換は文書ソースからプレゼンテーション用の出力を効率的に公開できるよう支援し、トレーニング、会議、または公共展示向けの最終的なビジュアル資料の配布を容易にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **すぐに表示できるスライド出力**
+  文書を即座にプレゼンテーションで使用できるスライドショーファイルに変換します。
+
+* **トレーニング資料の公開**
+  書面リソースから表示指向のコンテンツを迅速に作成します。
+
+* **会議プレゼンテーションの準備**
+  レポートや要約を迅速に配信できるプレゼンテーション再生形式に変換します。
+
+* **最終ビジュアルコンテンツの配布**
+  編集ではなく閲覧に重点を置いた形式で受取人に提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー公開**
+  承認済みの Word コンテンツを直接プレゼンテーションワークフロー用の PPS ファイルに変換します。
+
+* **バッチ再生ファイル作成**
+  複数のソース文書からすぐに実行できるスライドショーを生成します。
+
+* **イベント・キオスクコンテンツ生成**
+  スライドショー出力を自動表示・ブリーフィングシステムで使用します。
+
+* **最終出力のパッケージ化**
+  プレゼンテーション配布パイプラインに Word から PPS への変換を統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

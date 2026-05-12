@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een ICS naar DOT-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS-naar-DOT-conversie met behulp van Python‑API's maakt het mogelijk om agenda‑gegevens om te zetten naar Word‑sjabloonbestanden. Deze aanpak stelt u in staat om planningsinformatie op te nemen in herbruikbare documentsjablonen voor gestructureerde rapportage.
+
+Geautomatiseerde Python‑workflows maken het mogelijk om ICS‑bestanden te converteren naar sjabloonformaten die hergebruikt kunnen worden in meerdere documentgeneratieprocessen, waardoor consistentie en efficiëntie worden verbeterd.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste toepassingsgevallen" %}}
+
+* **Herbruikbare planningssjablonen**  
+  Converteer agenda‑gegevens naar documentsjablonen voor consistente rapportage.
+
+* **Sjabloon‑gedreven documentatie**  
+  Integreer gebeurtenisstructuren in herbruikbare Word‑sjabloonformaten.
+
+* **Gestructureerd workflow‑ontwerp**  
+  Maak sjablonen die gestandaardiseerde documentcreatie ondersteunen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Sjabloon‑generatiepijplijnen**  
+  Automatisch DOT‑sjablonen maken van ICS‑bestanden.
+
+* **Documentautomatiseringssystemen**  
+  Gebruik agenda‑sjablonen in geautomatiseerde documentgeneratie.
+
+* **Schaalbare rapportage‑infrastructuur**  
+  Converteer grote hoeveelheden agenda‑gegevens naar herbruikbare sjablonen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

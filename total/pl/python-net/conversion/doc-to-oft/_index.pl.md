@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOC do OFT w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja dokumentu do OFT zamienia zawartość Worda w pliki szablonów e‑mail, które można ponownie wykorzystać w przepływach wiadomości i komunikacji. Jest to szczególnie przydatne, gdy treść dokumentu stanowi podstawę powtarzalnych działań outreach, powiadomień lub standaryzowanej korespondencji.
+
+Interfejsy API w Pythonie umożliwiają konwersję DOC do OFT w ramach automatycznego generowania treści, pomagając zespołom tworzyć spójne szablony wiadomości i zwiększać efektywność komunikacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Szablony e‑mail wielokrotnego użytku**
+  Konwertuj szkice dokumentów na szablony OFT do powtarzalnej komunikacji.
+
+* **Ustandaryzowana komunikacja**
+  Zapewnij spójną strukturę i sformułowania w powtarzających się przepływach e‑mail.
+
+* **Outreach oparty na szablonach**
+  Wykorzystaj ponownie formalną treść dokumentu w wielokrotnego użytku ramach wiadomości.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowana produkcja szablonów**
+  Generuj pliki OFT z treści DOC dla systemów kampanii lub powiadomień.
+
+* **Rurociągi wiadomości oparte na dokumentach**
+  Konwertuj zatwierdzony tekst dokumentu na szablony gotowe do dalszej personalizacji.
+
+* **Skalowalne operacje komunikacyjne**
+  Programowo utrzymuj duże biblioteki wielokrotnego użytku formatów wiadomości.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi BMP ke IC
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi BMP ke ICS memungkinkan gambar bitmap dimasukkan ke dalam file acara kalender menggunakan format ICS. Pendekatan ini memungkinkan materi visual seperti jadwal, spanduk acara, atau diagram menyertai entri kalender.
+
+Dalam sistem otomatis, mengonversi file BMP menjadi acara ICS membantu mengintegrasikan informasi visual dengan alur kerja penjadwalan. Ini mendukung distribusi acara otomatis, pengingat, dan kolaborasi lintas platform kalender.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Distribusi Pengumuman Acara**  
+  Undangan kalender dapat menyertakan gambar BMP seperti poster acara atau diagram.
+
+* **Dokumentasi Penjadwalan Visual**  
+  Organisasi dapat melampirkan referensi visual ke acara yang dijadwalkan.
+
+* **Komunikasi Berbasis Kalender**  
+  Tim dapat mendistribusikan grafik terkait acara dalam entri kalender.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Acara Kalender Otomatis**  
+  Sistem menghasilkan file ICS dengan visual BMP yang disematkan untuk penjadwalan otomatis.
+
+* **Pemberitahuan Acara Berbasis Alur Kerja**  
+  Pipeline otomatis mengonversi materi berbasis gambar menjadi acara kalender.
+
+* **Undangan Rapat Programatik**  
+  Aplikasi secara dinamis membuat undangan ICS yang berisi referensi visual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

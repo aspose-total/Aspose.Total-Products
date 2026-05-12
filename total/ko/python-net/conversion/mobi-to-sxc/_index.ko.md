@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서의 MOBI to SXC 변환은 전자책 콘텐츠를 오래된 사무 환경에서 사용되는 레거시 오픈 스프레드시트 형식으로 변환하는 것을 지원합니다. 이는 조직이 과거 시스템과의 호환성을 유지하거나 오랜 문서 프로세스의 연속성을 보존해야 할 때 관련됩니다.
+
+자동화 사용 사례에서는 MOBI to SXC 변환이 레거시 환경에 대한 스크립트 지원, 체계적인 형식 변환 및 제어된 아카이브 워크플로를 가능하게 합니다. 이는 여전히 운영 중인 오래된 스프레드시트 생태계와 현대적인 추출 로직을 연결하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **레거시 OpenOffice 호환성**
+  오래된 스프레드시트 표준에 여전히 의존하는 환경을 위해 MOBI 콘텐츠를 SXC로 변환합니다.
+
+* **역사적 워크플로우 지원**
+  레거시 형식 요구 사항을 가진 장기 운영 시스템을 위해 사용 가능한 스프레드시트 출력을 유지합니다.
+
+* **보존 및 마이그레이션**
+  아카이브 또는 마이그레이션 프로젝트에서 중간 단계로 전자책 콘텐츠를 SXC로 추출합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **레거시 내보내기 자동화**
+  오래된 사무 기반 워크플로를 위해 MOBI 소스에서 SXC 파일을 자동으로 생성합니다.
+
+* **역호환 처리 파이프라인**
+  새로운 기능보다 호환성이 더 중요한 문서 자동화에 SXC 변환을 포함합니다.
+
+* **아카이브 현대화 지원**
+  기본 추출 프로세스를 현대화하면서 레거시 친화적인 출력을 준비하기 위해 Python 루틴을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から MSG への変換は、文書コンテンツをメッセージ中心のワークフローやアーカイブプロセスで使用されるメールメッセージファイル形式に変換します。これは、正式なテキストコンテンツを保存、転送、または通信のユースケースのためにメッセージオブジェクトとして再利用する必要がある場合に便利です。
+
+Python API を使用すると、ODT から MSG への変換が自動メッセージ生成、レコードパッケージング、バッチ文書の再利用に適したものになります。コンテンツ変換を標準化し、スケーラブルなエンタープライズスタイルのワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メッセージファイル作成**  
+  文書テキストを再利用可能なメッセージベースのファイル形式に変換します。
+
+* **アーカイブと保持**  
+  文書由来の通信アーティファクトの保存をサポートします。
+
+* **ワークフローメッセージングサポート**  
+  文書コンテンツがメール指向の処理ストリームに入ることを可能にします。
+
+* **構造化コンテンツパッケージング**  
+  テキストを通信準備が整ったオブジェクト形式で保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによるメッセージ生成**  
+  Python の自動化により、承認された文書をオンデマンドで MSG ファイルに変換できます。
+
+* **大量レコード変換**  
+  大量のテキスト文書をメッセージアーティファクトに変換できます。
+
+* **通信アーカイブの準備**  
+  システムは、長期保存のためにメッセージ互換形式でコンテンツをパッケージできます。
+
+* **メッセージングパイプラインとの統合**  
+  変換された出力は、下流のレビュー、ルーティング、またはアーカイブシステムに供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

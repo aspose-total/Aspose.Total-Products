@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 PST를 DOC로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST를 DOC로 변환하는 Python API는 메일함 콘텐츠를 편집 가능한 문서 워크플로우에서 더 쉽게 재사용할 수 있게 합니다. 이메일, 메시지 스레드 또는 추출된 텍스트를 검토, 편집 및 구조화된 문서화가 가능한 워드 프로세싱 형식으로 변환해야 할 때 유용합니다.
+
+자동화 관점에서 PST를 DOC로 변환하면 보관된 커뮤니케이션을 비즈니스 문서 시스템과 연결하는 데 도움이 됩니다. 메일함 데이터를 템플릿, 보고 파이프라인 및 협업 편집 프로세스로 흐르게 함으로써 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **편집 가능한 메시지 내보내기**
+  메일함 콘텐츠를 직접 수정 및 서식 지정이 가능한 문서 형식으로 변환합니다.
+
+* **문서 준비**
+  이메일 기록을 내부 또는 외부 사용을 위한 구조화된 파일로 변환하는 데 도움이 됩니다.
+
+* **콘텐츠 재사용 워크플로우**
+  추출된 커뮤니케이션을 운영 문서에서 재활용하기 쉽게 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 이메일-문서 파이프라인**
+  시스템은 PST 콘텐츠를 하위 편집 및 승인용 DOC 파일로 변환할 수 있습니다.
+
+* **템플릿 기반 보고**
+  변환된 콘텐츠를 편집 가능한 원본 자료가 필요한 문서 워크플로우에 삽입할 수 있습니다.
+
+* **확장 가능한 레코드 패키징**
+  프로그래밍 방식 처리는 메일함 데이터를 대량으로 내보내어 관리 가능한 문서 출력물로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'EPUB en VCF avec Python permet de transformer le contenu d'un document en fichiers de données orientés contacts lorsque le matériel de publication contient un annuaire, un profil ou des coordonnées. Cela est utile pour les flux de travail qui doivent extraire et réutiliser des informations d'identité structurées provenant de publications numériques.
+
+Dans les systèmes axés sur l'automatisation, la conversion d'EPUB en VCF améliore la portabilité des données, réduit la saisie manuelle des contacts et permet aux applications Python d'intégrer les informations de contact dérivées des publications dans des flux de travail modernes de communication et de synchronisation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction d'informations de contact**  
+  Convertir le contenu EPUB contenant des personnes ou des détails d'annuaire en fichiers VCF pour une utilisation basée sur les contacts.
+
+* **Transformation des données d'annuaire**  
+  Réutiliser les informations structurées de la publication en enregistrements de contacts portables.
+
+* **Support CRM et carnet d'adresses**  
+  Utiliser la sortie VCF pour transférer les données de contact pertinentes vers les systèmes qui gèrent les relations de communication.
+
+* **Partage de données basé sur les profils**  
+  Partager le contenu de publication orienté contacts dans un format facile à importer et à distribuer.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de contacts**  
+  Les flux de travail Python peuvent créer des fichiers VCF à partir de documents EPUB contenant du contenu lié aux contacts.
+
+* **Pipelines de synchronisation d'annuaire**  
+  Les systèmes automatisés peuvent extraire et convertir les données d'annuaire basées sur la publication en enregistrements de contacts portables.
+
+* **Traitement en masse de contacts**  
+  De gros volumes de fichiers EPUB riches en contacts peuvent être transformés programmatiquement pour une réutilisation efficace.
+
+* **Intégration dynamique des données**  
+  La conversion d'EPUB en VCF prend en charge les flux de travail automatisés qui alimentent les plateformes de communication en informations de contact.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

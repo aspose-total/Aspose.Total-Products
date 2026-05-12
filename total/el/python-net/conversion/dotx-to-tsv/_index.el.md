@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή DOTX σε TSV μετατρέπει το περιεχόμενο προτύπου Word σε τιμές διαχωρισμένες με καρτέλες για διαμοιρασμό δομημένων δεδομένων και απλοποιημένη εισαγωγή σε λογιστικά φύλλα ή εργαλεία επεξεργασίας. Είναι χρήσιμη όταν το περιεχόμενο εγγράφου σε μορφή πίνακα πρέπει να εξαχθεί σε καθαρή μορφή κειμένου.
+
+Με τις Python API, αυτή η μετατροπή βελτιώνει την αυτοματοποίηση επιτρέποντας αξιόπιστη ανταλλαγή δεδομένων βασισμένη σε κείμενο, ελαφριά επεξεργασία και μετασχηματισμό μεγάλης κλίμακας του περιεχομένου που βασίζεται σε πρότυπα.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες περιπτώσεις χρήσης" %}}
+
+* **Εξαγωγή δεδομένων απλού κειμένου**
+  Μετατρέπει το δομημένο περιεχόμενο εγγράφου σε ελαφρύ μορφότυπο πίνακα.
+
+* **Ροές εργασίας εισαγωγής σε λογιστικό φύλλο**
+  Προετοιμάζει τις πληροφορίες που προέρχονται από πρότυπο για γρήγορη φόρτωση σε εργαλεία δεδομένων.
+
+* **Ανταλλαγή δεδομένων φιλική προς το σύστημα**
+  Υποστηρίζει τη μεταφορά δομημένου περιεχομένου μεταξύ αγωγών αυτοματοποίησης.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια αυτοματοποίησης" %}}
+
+* **Προγραμματισμένη εξαγωγή δεδομένων**
+  Μετατρέπει αυτόματα τα πρότυπα DOTX σε αρχεία TSV για επαναλαμβανόμενες ροές εργασίας.
+
+* **Προετοιμασία ETL**
+  Χρησιμοποιεί την έξοδο TSV ως στρώση εισόδου για αυτοματοποιημένους αγωγούς μετασχηματισμού.
+
+* **Μετατροπή μεγάλης κλίμακας βασισμένη σε κείμενο**
+  Επεξεργάζεται μεγάλες παρτίδες προτύπων σε συμπαγείς δομημένες εξόδους.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

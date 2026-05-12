@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a TSV converte il contenuto del documento in un formato di testo a tabulazione separata, adatto per lo scambio di dati strutturati e per l'elaborazione leggera. È utile quando tabelle o record basati su documenti devono essere trasferiti in una struttura semplice e leggibile da macchine.
+
+Utilizzando le API Python, la conversione da ODT a TSV supporta l'estrazione scalabile dei dati, le pipeline di ingestione e l'elaborazione interoperabile dei documenti. Semplifica il trasferimento di contenuti strutturati verso analisi, archiviazione e flussi di trasformazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione strutturata semplice**  
+  Converte le tabelle del documento in un formato leggero delimitato da tabulazioni.
+
+* **Preparazione della pipeline dati**  
+  Supporta l'ingestione facile nei sistemi di elaborazione e analisi.
+
+* **Normalizzazione dei record**  
+  Aiuta a standardizzare il contenuto estratto per l'uso a valle.
+
+* **Scambio testuale interoperabile**  
+  Rende più semplice spostare il contenuto strutturato del documento tra piattaforme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Estrazione automatizzata delle tabelle**  
+  I flussi di lavoro Python possono convertire il contenuto ODT in TSV per output pronti per la pipeline.
+
+* **Conversione batch per l'analisi**  
+  Grandi insiemi di documenti possono essere esportati in testo strutturato semplice automaticamente.
+
+* **Flussi di lavoro di pulizia e esportazione dei dati**  
+  I valori estratti possono essere convalidati prima di essere scritti nei file TSV.
+
+* **Pipeline di integrazione di sistema**  
+  Gli output TSV convertiti possono alimentare database, script o processi di reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

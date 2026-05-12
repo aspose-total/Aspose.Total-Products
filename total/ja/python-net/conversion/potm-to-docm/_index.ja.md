@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における POTM から DOCM への変換は、マクロ対応のプレゼンテーションファイルをマクロ対応のワードプロセッシング文書に変換し、高度な文書動作の必要性を維持します。インタラクティブまたはスクリプト対応の文書ワークフローを、プレゼンテーション形式ではなく文書環境で継続する必要がある場合に有益です。
+
+自動化重視のシステムにおいて、POTM から DOCM への変換は、Python 主導のパイプラインが運用およびエンタープライズのユースケース向けに、スケールで編集可能かつマクロ対応の文書を生成できるようにすることで、プロセスの継続性をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応コンテンツの移行**
+  プレゼンテーションのコンテンツをマクロ対応の文書構造に移行します。
+
+* **インタラクティブ文書の作成**
+  変換された出力が自動ロジックや組み込みスクリプトを必要とするワークフローをサポートします。
+
+* **エンタープライズテンプレートの適応**
+  文書ベースの業務プロセス向けにプレゼンテーション資料を再利用するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動マクロ対応エクスポート**
+  スクリプト化された文書ワークフロー向けに、POTM ソースから DOCM ファイルを生成します。
+
+* **パイプラインベースの文書組み立て**
+  変換されたファイルを Python 管理の文書生成システムに統合します。
+
+* **繰り返し可能なコンプライアンス処理**
+  繰り返し行われる内部プロセスや管理された環境向けに、マクロ対応の文書を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

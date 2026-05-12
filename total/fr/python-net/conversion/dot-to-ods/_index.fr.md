@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT vers ODS transforme les modèles de traitement de texte en feuilles de calcul OpenDocument pour la gestion structurée des données et la compatibilité avec les flux de travail ouverts. Cela est important lorsque le contenu d’un document doit être transféré dans un format de feuille de calcul qui prend en charge l’analyse, le suivi ou le reporting.
+
+Les API Python permettent d’automatiser la conversion DOT vers ODS afin que les équipes puissent transformer les documents en actifs de feuilles de calcul ouvertes rapidement et de manière cohérente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération de feuilles de calcul ouvertes**
+  Convertir les fichiers DOT en ODS pour une révision et une manipulation centrées sur les données.
+
+* **Structuration des données de modèle**
+  Déplacer le contenu réutilisable des documents sous forme de feuille de calcul pour une utilisation opérationnelle.
+
+* **Échange multiplateforme**
+  Partager les informations extraites dans un format ouvert adapté à divers environnements.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Flux de travail de feuilles de calcul automatisés**
+  Les scripts Python peuvent transformer les modèles DOT en fichiers ODS dans des pipelines planifiés.
+
+* **Intégration de données ouvertes**
+  La conversion prend en charge les systèmes qui s'appuient sur des formats de feuilles de calcul ouverts pour le traitement.
+
+* **Transformation massive de documents**
+  L'automatisation programmatique aide à générer efficacement des sorties ODS à partir de nombreux modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

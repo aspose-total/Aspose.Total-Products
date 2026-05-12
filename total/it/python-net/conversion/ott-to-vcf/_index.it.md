@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a VCF nelle API Python trasforma i modelli di testo OpenDocument in file di schede di contatto utilizzati per condividere i dettagli di persone e organizzazioni. Ciò è utile quando il contenuto del modello contiene informazioni di contatto strutturate che devono diventare portabili e pronte per l'importazione.
+
+La conversione supporta l'automazione trasformando i dettagli di contatto gestiti nei documenti in file di scambio standardizzati, riducendo l'inserimento manuale e migliorando la sincronizzazione nei flussi di lavoro di comunicazione e directory.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di file di contatto**  
+  Converte il contenuto di contatto strutturato in file di schede importabili.
+
+* **Condivisione di dati di directory**  
+  Rende più semplice lo scambio di informazioni di contatto tra i sistemi.
+
+* **Gestione dei contatti basata su modelli**  
+  Riutilizza i modelli di documento per un output di contatto standardizzato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione automatizzata dei contatti**  
+  Crea file VCF da modelli OTT contenenti dati di persone o organizzazioni.
+
+* **Integrazione CRM o Directory**  
+  Alimenta i file di contatto generati nei sistemi informativi a valle.
+
+* **Imballaggio di contatti in blocco**  
+  Produce output di contatto standardizzati per grandi insiemi di contatti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a XLSM trasforma i modelli Word con macro in cartelle di lavoro Excel con macro per un'automazione avanzata dei fogli di calcolo e flussi di dati riutilizzabili. È utile quando il contenuto del documento deve essere trasferito in forma di foglio di calcolo mantenendo il supporto per un comportamento più dinamico della cartella di lavoro.
+
+L'utilizzo delle API Python per la conversione da DOTM a XLSM consente la creazione automatizzata di cartelle di lavoro avanzate a partire da modelli strutturati. Ciò migliora la coerenza, supporta l'automazione aziendale scalabile e aiuta a integrare i processi guidati dai documenti con le operazioni sui fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di cartelle di lavoro con macro**
+  Converti il contenuto DOTM in XLSM per flussi di lavoro avanzati dei fogli di calcolo.
+
+* **Automazione da documento a foglio di calcolo**
+  Riutilizza il contenuto dei modelli strutturati in cartelle di lavoro riutilizzabili per la gestione dei dati.
+
+* **Supporto ai flussi di lavoro operativi**
+  Abilita processi più ricchi basati su fogli di calcolo a partire da input basati su documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di cartelle di lavoro avanzate**
+  I flussi di lavoro possono creare file XLSM da modelli DOTM per l'elaborazione dinamica dei fogli di calcolo.
+
+* **Integrazione della logica di business**
+  La conversione supporta pipeline automatizzate che collegano i documenti all'uso avanzato delle cartelle di lavoro.
+
+* **Produzione batch di cartelle di lavoro**
+  L'elaborazione programmatica consente una trasformazione scalabile dei file DOTM in XLSM in modo coerente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

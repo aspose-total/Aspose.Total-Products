@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a XLT nelle API Python trasforma i modelli di testo OpenDocument in file di modello di foglio di calcolo utilizzati per standardizzare la creazione futura di cartelle di lavoro. Questo è utile quando il contenuto del documento deve diventare un progetto tabellare riutilizzabile anziché un singolo file di output.
+
+La conversione aggiunge valore di automazione consentendo la generazione coerente di fogli di calcolo da strutture basate su modelli, riducendo le configurazioni ripetitive e migliorando l'uniformità operativa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli di foglio di calcolo**  
+  Converte i documenti sorgente in modelli di cartella di lavoro riutilizzabili.
+
+* **Quadri standardizzati per l'inserimento dati**  
+  Aiuta a definire strutture di foglio di calcolo ripetibili per usi futuri.
+
+* **Coerenza dei processi**  
+  Supporta la generazione uniforme di cartelle di lavoro tra team e flussi di lavoro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di una libreria di modelli**  
+  Produce file XLT da documenti OTT standardizzati.
+
+* **Configurazione ricorrente di cartelle di lavoro**  
+  Automatizza la preparazione di fondamenta di fogli di calcolo riutilizzabili.
+
+* **Flussi di raccolta dati scalabili**  
+  Supporta la creazione ripetibile di cartelle di lavoro con struttura predefinita.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

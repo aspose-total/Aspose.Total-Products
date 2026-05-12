@@ -53,7 +53,47 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PDF en images à l'aide des API Python permet de rendre les pages de documents sous forme de fichiers image pour l'aperçu, le partage, l'archivage visuel et le traitement en aval basé sur les images. Cela est utile lorsque le contenu du document doit être affiché dans des environnements où les formats image sont plus faciles à distribuer ou à intégrer.
+
+L'automatisation améliore ce processus en permettant un rendu rapide des pages, une conversion par lots et une intégration aux flux de travail visuels tels que les vignettes, les aperçus ou les systèmes de révision de documents. Elle prend en charge la gestion évolutive du contenu des documents sur les plateformes numériques.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération d'aperçus de pages**  
+  Convertir les pages PDF en images pour des aperçus visuels dans les applications web et mobiles.
+
+* **Archivage de documents**  
+  Stocker les pages de documents sous forme d'actifs image pour un accès rapide et une référence visuelle.
+
+* **Partage de contenu**  
+  Utiliser les images générées pour des présentations, des communications ou des instantanés de documents intégrés.
+
+* **Flux de travail de traitement visuel**  
+  Préparer les pages PDF comme entrées image pour l'analyse, l'annotation ou les systèmes de reconnaissance.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de création de vignettes**  
+  L'automatisation Python peut générer des aperçus d'images à partir de PDF téléchargés en temps réel.
+
+* **Rendu de pages en masse**  
+  De grandes collections de PDF peuvent être converties en ensembles d'images via des flux de travail planifiés.
+
+* **Intégration de visionneuse de documents**  
+  Les systèmes peuvent créer des images à la demande pour les interfaces de navigation de documents.
+
+* **Distribution dynamique de médias**  
+  Les services automatisés peuvent distribuer efficacement les images dérivées de PDF sur les plateformes de contenu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

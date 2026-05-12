@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents Word en ODP transforme le contenu Word en fichiers de présentation OpenDocument qui prennent en charge la communication basée sur des diapositives dans les écosystèmes OpenOffice. C’est utile lorsque le contenu narratif ou de rapport doit être converti en présentations modifiables.
+
+L’automatisation via l’API Python pour la conversion DOC vers ODP aide à rationaliser la production de présentations, à réduire le temps de mise en forme manuelle et à intégrer le contenu issu de documents dans des flux de travail collaboratifs de diapositives.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de présentation**
+  Convertir le contenu du document en diapositives ODP pour des réunions, des formations ou des briefings.
+
+* **Collaboration au format ouvert**
+  Prendre en charge les flux de travail de présentation qui reposent sur des formats bureautiques basés sur des standards.
+
+* **Réutilisation de rapports**
+  Réutiliser le matériel existant du document dans une structure prête à être présentée sous forme de diapositives pour une diffusion visuelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de jeu de diapositives**
+  Convertir automatiquement les rapports DOC en présentations ODP pour une utilisation récurrente.
+
+* **Flux de travail bureautiques multiplateformes**
+  Utiliser la conversion basée sur Python pour prendre en charge les environnements OpenOffice à grande échelle.
+
+* **Publication guidée par des modèles**
+  Produire programmatiquement des fichiers de présentation à partir de sources de documents structurés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

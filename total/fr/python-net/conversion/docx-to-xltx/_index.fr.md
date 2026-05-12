@@ -65,7 +65,44 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers XLTX permet la transformation des documents de traitement de texte en fichiers de modèle de feuille de calcul modernes utilisés pour la création de feuilles de calcul standardisées. Ce processus prend en charge une mise en forme cohérente des feuilles de calcul et la réutilisation du contenu structuré du document.
+
+En utilisant les API Python, la conversion DOCX‑to‑XLTX peut être intégrée aux plateformes de reporting, aux systèmes de distribution de modèles et aux pipelines de génération automatisée de feuilles de calcul. Elle aide les organisations à créer des actifs de feuille de calcul réutilisables à partir de sources basées sur des documents de manière efficace.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles de feuilles de calcul modernes**  
+  Convertit le contenu DOCX en modèles réutilisables pour les environnements de feuilles de calcul actuels.
+
+* **Standardisation cohérente des feuilles de calcul**  
+  Prend en charge la création répétable de feuilles de calcul avec une structure et une mise en forme uniformes.
+
+* **Réutilisation document‑vers‑modèle**  
+  Aide à transformer le contenu écrit et structuré en actifs de feuilles de calcul pilotés par des modèles.
+
+* **Préparation d'actifs de reporting évolutive**  
+  Permet la production de modèles pour les analyses et les tâches de reporting récurrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Export XLTX automatisé**  
+  Les systèmes peuvent convertir les fichiers DOCX en modèles de feuilles de calcul modernes de manière programmatique.
+
+* **Flux de travail de génération de modèles en lot**  
+  Les scripts Python peuvent produire des modèles de feuilles de calcul réutilisables à partir de grandes collections de documents.
+
+* **Standardisation du reporting d'entreprise**  
+  Le contenu des documents peut être transformé en fichiers XLTX pour des opérations de feuilles de calcul cohérentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

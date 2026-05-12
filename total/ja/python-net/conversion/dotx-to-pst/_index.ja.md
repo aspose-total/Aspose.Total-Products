@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から PST への変換は、Word テンプレートのコンテンツを、メールボックスおよびメッセージアーカイブワークフローに関連付けられた個人用ストレージ テーブル形式に変換します。生成されたコミュニケーション コンテンツをポータブルなメール ストレージ構造にパッケージ化する必要がある場合に便利です。
+
+Python API を使用して、この変換は、構造化されたドキュメント テンプレートから派生するメール アーカイブ、メッセージの整理、および大規模なコミュニケーション保持に関する自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ポータブルメールアーカイブ**
+  ドキュメント由来のコミュニケーションを構造化されたメールストレージ形式にパッケージ化します。
+
+* **メッセージ保持ワークフロー**
+  生成されたコミュニケーションをレビューとコンプライアンスのために保存します。
+
+* **コミュニケーションパッケージング**
+  再利用可能なドキュメントベースのメッセージをアーカイブ指向の出力に統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化メールアーカイブ生成**
+  保持パイプラインで DOTX ベースのコミュニケーション コンテンツから PST 出力を作成します。
+
+* **大量メッセージストレージ**
+  構造化されたアーカイブを通じて大量の生成された通信を処理します。
+
+* **ドキュメントからアーカイブへの自動化**
+  定期的なテンプレート出力をプログラムでポータブルなメールボックス資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

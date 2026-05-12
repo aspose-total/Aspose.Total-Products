@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOCM naar MBOX-conversiefunctie t
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM-naar-MBOX-conversie zet macro‑ondersteunde documenten om in mailbox‑achtige opslagoutput, waardoor documentgebaseerde communicatie gemakkelijker kan worden gegroepeerd, gearchiveerd of gemigreerd in op e‑mail gerichte systemen. Dit is waardevol wanneer de documentinhoud bewaard moet blijven binnen samengestelde berichtopslagplaatsen.
+
+Voor automatisering en schaalbaarheid ondersteunen DOCM-naar-MBOX-workflows batcharchivering, communicatieverpakking en de overdracht van documentafgeleide inhoud naar mailbox‑centrische retentiesystemen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Mailbox‑archivering**
+  Bewaart documentafgeleide inhoud binnen mailboxcontainerbestanden voor langdurige opslag.
+
+* **Berichtverzameling verpakken**
+  Ondersteunt het groeperen van gerelateerde geconverteerde communicatie in één geconsolideerd bestand.
+
+* **Migratieondersteuning**
+  Helpt documentgebaseerde communicatie‑inhoud over te brengen naar e‑mailarchiefomgevingen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde archiefgeneratie**
+  Zet DOCM‑bestanden om in MBOX‑uitvoer voor geplande retentie‑workflows.
+
+* **Voorbereiding van bulkmailrepository**
+  Verpakt documentafgeleide inhoud in mailboxbestanden over grote datasets.
+
+* **Programmeerbare opslagpijplijnen**
+  Integreert documentconversie met archiverings‑ en compliancegerichte systemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX에서 DOC로 변환하면 스프레드시트 데이터를 보고서, 문서화 및 콘텐츠 공유를 위한 구조화된 Word 호환 문서로 변환할 수 있습니다. 표 형식의 비즈니스 데이터를 내러티브 형식이나 인쇄 친화적인 형식으로 제시해야 할 때 조직 전체에서 유용합니다.
+
+현대 워크플로에서 XLSX에서 DOC로의 자동 변환은 수동 서식 작업을 줄이고, 생성된 문서 간 일관성을 향상시키며, 보고 및 규정 준수 파이프라인에서 확장 가능한 문서 생산을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 보고서 생성**  
+  스프레드시트 기반 데이터를 요약, 검토 및 공식 보고를 위한 읽기 쉬운 문서 레이아웃으로 변환합니다.
+
+* **스프레드시트 사용자가 아닌 사용자를 위한 데이터 공유**  
+  문서 기반 형식을 선호하는 독자들이 스프레드시트 정보를 더 쉽게 활용할 수 있도록 합니다.
+
+* **인쇄 준비 문서**  
+  운영 환경에서 보관, 인쇄 및 배포가 용이한 문서 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 보고서 발행**  
+  자동화를 통해 정기적인 스프레드시트 출력물을 DOC 파일로 변환하여 이해관계자에게 정기적으로 배포할 수 있습니다.
+
+* **워크플로 기반 문서 생성**  
+  처리 파이프라인에서 데이터가 업데이트된 후 자동으로 XLSX에서 DOC로 변환을 트리거할 수 있습니다.
+
+* **템플릿 기반 출력 생성**  
+  프로그래밍 방식 변환은 대량의 스프레드시트 기반 콘텐츠에 걸쳐 문서 구조를 표준화하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

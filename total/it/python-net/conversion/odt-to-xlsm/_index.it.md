@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a XLSM converte il contenuto del documento in un formato di foglio di calcolo abilitato alle macro, adatto a flussi di lavoro avanzati e a ambienti con forte automazione. Ciò è vantaggioso quando i dati estratti devono essere utilizzati in fogli di calcolo che supportano logica scriptata e funzionalità avanzate.
+
+Le API Python consentono la conversione da ODT a XLSM come parte di pipeline di elaborazione dei documenti, sistemi di reportistica ricorrente e preparazione avanzata di cartelle di lavoro. Aiuta a collegare il contenuto scritto con ambienti di fogli di calcolo capaci di automazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di cartelle di lavoro con macro**  
+  Converte i dati del documento in fogli di calcolo con supporto a funzionalità avanzate.
+
+* **Preparazione automatizzata di report**  
+  Aiuta a preparare il contenuto per flussi di lavoro su fogli di calcolo che utilizzano logica incorporata.
+
+* **Riutilizzo di dati strutturati**  
+  Trasforma le tabelle basate su documenti in cartelle di lavoro modificabili ed estensibili.
+
+* **Analisi operativa avanzata**  
+  Supporta ambienti in cui l'automazione dei fogli di calcolo è importante.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline documento‑a‑cartella di lavoro**  
+  Gli script Python possono generare file XLSM da contenuti strutturati basati su ODT.
+
+* **Automazione di report ricorrenti**  
+  Le conversioni programmate possono alimentare flussi di lavoro su fogli di calcolo capaci di automazione.
+
+* **Generazione massiva di cartelle di lavoro avanzate**  
+  Grandi insiemi di documenti possono essere trasformati automaticamente in fogli di calcolo abilitati alle macro.
+
+* **Flussi di elaborazione dati integrati**  
+  Gli output convertiti possono entrare in sistemi operativi e analitici più ampi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

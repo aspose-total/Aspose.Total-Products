@@ -53,7 +53,41 @@ DOC から MHTML (Web アーカイブ形式) への変換機能または HtmlFix
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to MHTML 変換は、Word コンテンツを自己完結型の Web アーカイブ形式に変換し、マークアップとリソースをまとめて、共有や保存を容易にします。ブラウザベースの閲覧、Web アーカイブ、ポータブルなコンテンツ配布に有用です。
+
+Python API は、出版、コンプライアンス、Web 配信ワークフロー向けに DOC から MHTML への変換を自動化し、一貫した出力と効率的な文書パッケージングを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **Web アーカイブエクスポート**
+  文書を MHTML に変換し、ポータブルでブラウザフレンドリーな閲覧を可能にします。
+
+* **自己完結型共有**
+  文書のコンテンツとリソースを単一の Web アーカイブファイルにパッケージ化します。
+
+* **レイアウトの保存**
+  文書の表示を、Web 向け保存に適した形式で保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Web パッケージング**
+  配布およびアーカイブワークフロー向けに、DOC コンテンツから MHTML ファイルを生成します。
+
+* **ブラウザベースのアクセスパイプライン**
+  ポータルや文書リポジトリ用に、文書を Web 読み取り可能なアーカイブに変換します。
+
+* **スケーラブルなフォーマット標準化**
+  大規模データセット全体で、Word コンテンツをプログラム的に標準化し、ポータブルな MHTML に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

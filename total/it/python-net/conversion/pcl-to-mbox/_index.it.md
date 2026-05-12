@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da PCL a MBOX tramite le API Python consente di trasformare i documenti generati dalla stampante in formati di archivio mailbox adatti per collezioni di messaggi e per la conservazione a lungo termine. È utile per le organizzazioni che desiderano consolidare le comunicazioni basate su documenti in contenitori di posta pronti per l'archiviazione.
+
+Con l'automazione, la conversione da PCL a MBOX supporta l'elaborazione ad alto volume, la conservazione standardizzata e una migrazione più fluida degli output legacy in flussi di lavoro di archiviazione strutturati. Aiuta a collegare i sistemi incentrati sulla stampa con le pratiche moderne di archiviazione e gestione della posta elettronica.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivi mailbox**  
+  Converte il contenuto PCL in formato MBOX per l'archiviazione consolidata dei messaggi.
+
+* **Preservazione dei registri storici**  
+  Supporta l'archiviazione delle comunicazioni di origine stampata in una struttura mailbox ampiamente utilizzata.
+
+* **Migrazione degli output legacy**  
+  Aiuta a spostare i documenti basati su stampante negli ecosistemi di archiviazione email.
+
+* **Imballaggio di messaggi in blocco**  
+  Consente di raggruppare il contenuto convertito in archivi di posta basati su contenitori.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Flussi di lavoro di archiviazione automatizzati**  
+  I file PCL possono essere convertiti in batch in archivi MBOX per processi di conservazione e conformità.
+
+* **Consolidamento dei sistemi legacy**  
+  Le pipeline automatizzate possono centralizzare gli output di stampa all'interno di repository basati su mailbox.
+
+* **Trasformazione di record ad alto volume**  
+  Grandi insiemi di documenti PCL possono essere convertiti in file MBOX senza imballaggio manuale.
+
+* **Pipeline di conservazione programmatica**  
+  Gli archivi convertiti possono essere spostati direttamente in sistemi di archiviazione, indicizzazione o audit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

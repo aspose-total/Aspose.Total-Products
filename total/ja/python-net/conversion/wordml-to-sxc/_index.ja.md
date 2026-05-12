@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to SXC 変換は、文書ベースの構造化コンテンツを、レガシーなオープンスプレッドシートワークフローと互換性のあるスプレッドシートファイルに変換します。これは、古いオープンオフィス環境との互換性を維持する組織にとって有用です。
+
+Python API は、テーブルを抽出し、移行や相互運用性のニーズに合わせてスプレッドシート指向のフォーマットへ自動変換することで、WordML から SXC への変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **レガシーオープンスプレッドシート出力**
+  WordML テーブルを、古いスプレッドシート環境向けの SXC ファイルに変換します。
+
+* **文書からのデータ再利用**
+  構造化された文書コンテンツを、レガシーなスプレッドシートツールで編集可能にします。
+
+* **互換性の維持**
+  依然として古いオープンフォーマットに依存するロングテールワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **レガシーエクスポート自動化**
+  互換性重視のワークフローで、WordML ファイルから SXC 出力を生成します。
+
+* **移行サポートタスク**
+  文書リポジトリと古いスプレッドシート処理環境をつなぎます。
+
+* **大量テーブル変換**
+  文書データの抽出とパッケージ化を自動化し、レガシーなスプレッドシートファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

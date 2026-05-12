@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から OTT への変換は、スプレッドシートのコンテンツをオープンドキュメントのテキストテンプレートに変換し、標準化された文書作成に再利用できるようにします。スプレッドシートで管理された構造を、オープンフォーマットのワークフローで繰り返し使用できるテンプレート資産にする必要がある場合に便利です。
+
+自動化重視の環境では、XLSX から OTT への変換が効率的なテンプレート生成を支援し、一貫性を向上させ、オープンで再利用可能な文書標準を使用してチームが文書作成をスケールできるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープンテンプレート作成**  
+  スプレッドシート情報を再利用可能なテキストテンプレートに変換し、繰り返し必要とされる文書に対応します。
+
+* **標準化された文書フレームワーク**  
+  チームがレポート、フォーム、業務文書の一貫した開始レイアウトを構築できるよう支援します。
+
+* **相互運用可能なテンプレート管理**  
+  複数のツールやシステム間でオープンフォーマットのテンプレートが必要なワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート展開**  
+  システムはスプレッドシートソースから OTT テンプレートを生成し、チーム全体に配布できます。
+
+* **再利用可能なワークフロー資産**  
+  変換は、オープンフォーマットのテンプレートファイルに依存する文書自動化プロセスをサポートします。
+
+* **動的テンプレート更新**  
+  プログラムによる変換により、スプレッドシート主導の要件が変わった際にテンプレートを更新しやすくなります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

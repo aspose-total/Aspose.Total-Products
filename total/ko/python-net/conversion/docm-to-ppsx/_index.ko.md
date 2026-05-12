@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 PPSX로의 변환은 매크로가 포함된 문서를 직접 보기와 간소화된 프레젠테이션 전달을 위해 설계된 최신 슬라이드쇼 파일로 변환합니다. 문서 내용을 휴대 가능하고 재생 중심의 형식으로 시각적으로 제공해야 할 때 유용합니다.
+
+자동화 환경에서는 DOCM에서 PPSX로의 변환이 표시 전에 수동으로 형식 지정이나 편집이 필요 없이 프레젠테이션 준비된 출력물을 확장 가능하게 배포하도록 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 슬라이드쇼 전달**
+  문서 자료를 프레젠테이션 사용을 위한 직접 보기 슬라이드쇼 파일로 변환합니다.
+
+* **휴대용 시각 커뮤니케이션**
+  문서 기반 인사이트를 가벼운 프레젠테이션 형식으로 공유하는 데 도움이 됩니다.
+
+* **재생 중심 출력**
+  편집보다 보기(시청)가 우선인 프레젠테이션 시나리오를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 생성**
+  DOCM 소스에서 PPSX 파일을 생성하여 예정된 프레젠테이션 워크플로에 사용합니다.
+
+* **워크플로 기반 콘텐츠 게시**
+  문서 작성과 프레젠테이션 전달 시스템을 연결합니다.
+
+* **대량 프레젠테이션 내보내기**
+  대량의 DOCM 파일을 프로그래밍 방식으로 슬라이드쇼 준비 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

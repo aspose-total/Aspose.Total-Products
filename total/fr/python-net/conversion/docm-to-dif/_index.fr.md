@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers DIF transforme les documents contenant des macros en un format d'échange de données adapté à l'échange de tables structurées entre les systèmes hérités et analytiques. Cela est utile lorsque les données contenues dans le document doivent être conservées dans un format compatible avec les anciens flux de travail de tableur et de base de données.
+
+Du point de vue de l'automatisation, la conversion DOCM vers DIF prend en charge le transfert répétable de contenu structuré vers des systèmes qui s'appuient sur des formats d'échange tabulaire standardisés pour l'importation et la réconciliation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Échange de données héritées**
+  Convertit les tables du document en un format adapté aux anciens tableurs et outils d'entreprise.
+
+* **Migration d'enregistrements structurés**
+  Facilite le déplacement des données des documents DOCM vers des systèmes qui dépendent de formats orientés échange.
+
+* **Préservation tabulaire**
+  Conserve l'organisation en lignes et colonnes lorsque le contenu du document doit être réutilisé ailleurs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Conversion de données planifiée**
+  Automatise les exportations récurrentes des fichiers DOCM vers DIF pour assurer la cohérence opérationnelle.
+
+* **Intégration de flux de travail hérités**
+  Prend en charge le transfert automatisé vers d'anciens environnements financiers, administratifs ou de reporting.
+
+* **Normalisation massive de documents**
+  Convertit plusieurs documents sources en un format structuré commun pour le traitement en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

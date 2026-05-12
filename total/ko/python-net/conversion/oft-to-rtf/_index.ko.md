@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 RTF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 RTF로의 변환은 Outlook 이메일 템플릿을 서식 지원과 광범위한 호환성을 균형 있게 갖춘 리치 텍스트 문서로 변환합니다. 이는 콘텐츠를 편집 가능하게 유지하면서 다양한 문서 도구 전반에 걸쳐 핵심 스타일을 보존해야 할 때 유용합니다.
+
+자동화 관점에서 OFT를 RTF로 변환하면 유연한 콘텐츠 재사용, 시스템 간 간소화된 교환, 효율적인 문서 준비를 지원합니다. 이는 상호 운용 가능하고 텍스트 중심 워크플로에 실용적인 선택입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **편집 가능한 서식 있는 콘텐츠**  
+  OFT 템플릿을 RTF 파일로 변환하여 편집 가능한 문서 형식에서 스타일을 보존합니다.
+
+* **광범위한 호환성 공유**  
+  다수의 문서 편집기를 지원해야 하는 워크플로에 RTF 출력을 사용합니다.
+
+* **템플릿 콘텐츠 재사용**  
+  이메일 메시지를 보고서, 기록 또는 문서 작성을 위한 리치 텍스트 파일로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 텍스트 문서 파이프라인**  
+  OFT 파일을 RTF로 자동 변환하여 하위 편집 및 배포 프로세스에 활용합니다.
+
+* **크로스 플랫폼 콘텐츠 교환**  
+  다양한 문서 지원 요구 사항을 가진 시스템 간에 RTF 출력을 라우팅합니다.
+
+* **확장 가능한 서식 보존**  
+  Python API를 사용하여 대규모 템플릿 변환 배치에서 구조화된 텍스트 출력을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

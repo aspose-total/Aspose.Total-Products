@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 TEXT를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 텍스트를 OST로 변환하는 것은 일반 텍스트 콘텐츠를 오프라인 메일함 스타일 저장 워크플로에 적합한 데이터로 변환하는 것을 의미합니다. 이는 동기화된 커뮤니케이션 환경, 아카이브 준비, 또는 구조화된 메일함 접근을 위한 시스템 생성 메시지 데이터셋과 관련된 시나리오에서 관련이 있습니다.
+
+자동화 환경에서 이 변환은 텍스트 기반 커뮤니케이션 데이터를 조직된 저장 모델에 준비하는 데 도움을 주며, 대규모 처리, 운영 연속성 및 관리되는 메시징 생태계와의 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오프라인 메일 데이터 준비**  
+  텍스트 콘텐츠를 오프라인 메일함 워크플로에 적합한 구조화된 형태로 변환합니다.
+
+* **메시지 저장 지원**  
+  동기화된 메일함 접근을 중심으로 설계된 시스템을 위한 커뮤니케이션 데이터를 정리하는 데 도움을 줍니다.
+
+* **아카이브 데이터 구조화**  
+  관리되는 저장 환경을 위한 텍스트 기반 레코드 준비를 지원합니다.
+
+* **기업 커뮤니케이션 처리**  
+  텍스트 콘텐츠를 메일함 지향 형식으로 대규모 처리할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **메일함 데이터 생성**  
+  자동화는 텍스트 기반 커뮤니케이션 데이터를 오프라인 접근 워크플로에 맞게 구조화할 수 있습니다.
+
+* **대량 처리 파이프라인**  
+  대규모 텍스트 데이터셋을 프로그래밍 방식으로 메일함 스타일 저장 작업에 준비할 수 있습니다.
+
+* **운영 연속성 시스템**  
+  자동 변환은 관리되는 환경 전반에 걸쳐 커뮤니케이션 레코드의 일관된 처리를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

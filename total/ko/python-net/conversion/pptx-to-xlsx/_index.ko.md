@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 XLSX로 변환하면 프레젠테이션 콘텐츠가 구조화된 데이터 관리, 보고 및 분석에 적합한 최신 스프레드시트 형식으로 바뀝니다. 특히 표와 데이터가 풍부한 요소와 같은 슬라이드의 정보를 운영 또는 분석용 워크시트로 재활용해야 할 때 유용합니다.
+
+Python API를 사용해 PPTX를 XLSX로 자동 변환하면 데이터 접근성이 향상되고 최신 스프레드시트 워크플로와의 원활한 통합을 지원합니다. 이를 통해 프레젠테이션 콘텐츠를 분석, 협업 및 시스템 상호 운용성을 위한 잘 구조화된 파일로 확장 가능하게 처리할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 스프레드시트 출력**
+  프레젠테이션 콘텐츠를 일상 비즈니스에 널리 지원되는 워크시트로 변환합니다.
+
+* **표 및 텍스트 추출**
+  슬라이드 데이터를 스프레드시트 셀로 재구성하여 정렬 및 분석을 용이하게 합니다.
+
+* **보고 및 감사 지원**
+  추출된 정보를 구조화된 검토 및 조정 작업을 위해 준비합니다.
+
+* **시스템 간 데이터 재사용**
+  XLSX 파일을 프레젠테이션 워크플로와 데이터 플랫폼 간의 다리로 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 워크시트 생성**
+  수신된 PPTX 파일을 표준화된 데이터 워크플로를 위한 XLSX 출력으로 변환합니다.
+
+* **배치 데이터 추출**
+  다수의 프레젠테이션을 스프레드시트로 처리하여 대량 분석 작업에 활용합니다.
+
+* **분석 통합**
+  변환된 XLSX 파일을 비즈니스 인텔리전스 및 보고 환경에 전달합니다.
+
+* **확장 가능한 콘텐츠 구조화**
+  프로그래밍 방식으로 슬라이드 기반 정보를 조직된 스프레드시트 데이터셋으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

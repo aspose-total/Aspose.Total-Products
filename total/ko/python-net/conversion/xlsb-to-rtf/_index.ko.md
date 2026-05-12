@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB에서 RTF로 변환은 이진 스프레드시트 콘텐츠를 리치 텍스트 문서로 변환하여 구조화된 데이터를 가볍고 널리 지원되는 텍스트 형식으로 공유할 수 있게 합니다. 이는 스프레드시트 기반 콘텐츠가 문서 처리 환경 전반에 걸쳐 광범위한 호환성이 필요할 때 유용합니다.
+
+자동화 워크플로우에서 XLSB를 RTF로 변환하면 유연한 문서 생성을 지원하여 스프레드시트 데이터로부터 휴대 가능한 텍스트 기반 출력물을 보다 쉽게 생성하면서 가독성, 서식 및 확장 가능한 처리를 유지합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **휴대용 리치 텍스트 출력**  
+  스프레드시트 콘텐츠를 널리 지원되는 서식 있는 텍스트 문서로 변환합니다.
+
+* **시스템 간 공유**  
+  스프레드시트 기반 정보를 다양한 문서 환경에 배포하는 데 도움을 줍니다.
+
+* **경량 문서화**  
+  호환성과 단순함이 중요한 경우 문서 생성을 지원합니다.
+
+* **가독성 높은 데이터 내보내기**  
+  스프레드시트 정보를 텍스트 친화적인 출력물로 재활용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동 텍스트 문서 생성**  
+  시스템은 반복 가능한 워크플로우를 위해 XLSB 파일을 RTF 문서로 변환할 수 있습니다.
+
+* **배치 호환성 처리**  
+  여러 스프레드시트 파일을 휴대용 리치 텍스트 출력물로 변환할 수 있습니다.
+
+* **데이터 교환 파이프라인**  
+  자동화된 워크플로우는 스프레드시트 콘텐츠를 널리 읽을 수 있는 형식으로 전달할 수 있습니다.
+
+* **보관 및 배포 흐름**  
+  구조화된 스프레드시트 데이터를 유연한 공유 및 저장을 위해 준비할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

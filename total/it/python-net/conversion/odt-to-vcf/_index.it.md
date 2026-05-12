@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a VCF trasforma le informazioni di contatto o profilo basate su documenti in un formato standard di scheda di contatto adatto a rubriche e sistemi di gestione dei contatti. Questo è utile quando i documenti contengono dettagli di contatto personali o organizzativi strutturati.
+
+Le API Python consentono la conversione da ODT a VCF in flussi di lavoro automatizzati di estrazione, migrazione e sincronizzazione dei contatti. Aiuta le organizzazioni a trasformare i record di testo statici in dati di contatto riutilizzabili con maggiore velocità e precisione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione delle informazioni di contatto**  
+  Converte nomi, numeri e indirizzi dai documenti in schede di contatto.
+
+* **Supporto alla migrazione di directory**  
+  Aiuta a spostare i dati di contatto da documenti di testo a rubriche strutturate.
+
+* **Standardizzazione dei profili**  
+  Trasforma elenchi di contatti informali in record di contatto digitali riutilizzabili.
+
+* **Preparazione per CRM**  
+  Supporta un'ingestione più pulita dei dati di contatto nei sistemi aziendali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Parsing automatizzato dei contatti**  
+  Gli script Python possono identificare i campi di contatto nei file ODT e generare output VCF.
+
+* **Conversione di directory in blocco**  
+  Grandi elenchi di contatti possono essere trasformati in schede riutilizzabili in lavori batch.
+
+* **Flussi di lavoro di sincronizzazione**  
+  I contatti convertiti possono alimentare pipeline di importazione per rubriche e sistemi correlati.
+
+* **Preparazione per l'arricchimento dei dati**  
+  Gli output VCF strutturati possono supportare processi di validazione e integrazione a valle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

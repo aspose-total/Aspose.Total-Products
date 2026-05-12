@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+POTX から DOCX への変換（Python API 使用）は、PowerPoint テンプレートのコンテンツを、編集・共有・管理が容易な最新の Word 文書に変換します。これは、構造化されたプレゼンテーション資料を、コミュニケーション、コンプライアンス、または文書化のために文書中心のフォーマットに再利用する必要があるチームにとって重要です。
+
+自動化の観点からは、POTX から DOCX への変換により、テンプレート駆動のソースから編集可能な文書をプログラム的に繰り返し作成でき、効率が向上します。コンテンツ公開、レポート作成、文書ライフサイクル管理のスケーラブルなワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **編集可能な文書生成**
+  プレゼンテーションテンプレートから最新のテキスト文書を生成し、簡単に改訂・共同作業が可能です。
+
+* **フォーマット間のコンテンツ再利用**
+  手作業でコンテンツを作り直すことなく、チームがテンプレート素材を再利用できます。
+
+* **文書化ワークフロー**
+  スライドベースの構造を正式な文書出力に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量変換ジョブ**
+  複数の POTX テンプレートから DOCX ファイルをバッチ処理で自動的に作成します。
+
+* **テンプレートベースの出版**
+  プレゼンテーションソースから洗練された文書出力を生成するシステムをサポートします。
+
+* **統合コンテンツパイプライン**
+  変換ステップをストレージ、検証、配布ワークフローと連携させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

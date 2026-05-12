@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PDF en MBOX à l'aide des API Python permet de transformer le contenu PDF en un format d'archive de boîte aux lettres utilisé pour stocker des collections de messages électroniques. Cela est utile lorsque les informations des documents doivent être intégrées aux flux de travail d'archivage des e‑mails ou conservées dans des dépôts de messages en masse.
+
+L'automatisation de cette conversion prend en charge des opérations d'archivage évolutives, des processus de migration et le stockage structuré des communications. Elle réduit l'effort manuel en permettant aux documents PDF d'être préparés de manière programmatique pour les systèmes qui s'appuient sur des formats de données de boîte aux lettres consolidés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d'archive de boîte aux lettres**  
+  Convertir le contenu PDF en enregistrements compatibles MBOX à des fins d'archivage et de stockage.
+
+* **Regroupement de communications en masse**  
+  Organiser les messages dérivés de documents en collections de boîtes aux lettres pour la portabilité du système.
+
+* **Intégration d'archive d'e‑mail**  
+  Utiliser les sorties converties dans des environnements qui gèrent les données via des conteneurs MBOX.
+
+* **Préservation des enregistrements**  
+  Conserver les informations basées sur PDF au sein des flux de travail d'archivage des messages.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'archives par lots**  
+  Les flux de travail Python peuvent traiter de nombreux PDF en sorties compatibles MBOX automatiquement.
+
+* **Pipelines de conservation conformes**  
+  Le contenu converti peut être inséré dans des dépôts d'archivage pour un stockage à long terme.
+
+* **Préparation à la migration**  
+  Les systèmes peuvent empaqueter le contenu dérivé de PDF pour le transférer vers des plateformes basées sur des boîtes aux lettres.
+
+* **Mises à jour automatisées du dépôt**  
+  Les documents PDF entrants peuvent être continuellement convertis et ajoutés aux flux de travail d'archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

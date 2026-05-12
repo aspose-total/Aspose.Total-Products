@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から WordML への変換は、Outlook のメールテンプレートを XML ベースのワードプロセッシングマークアップに変換し、構造化された機械可読ドキュメントの取り扱いを可能にします。これは、ドキュメントの内容を検査、変換、またはマークアップ対応システムを通じて統合する必要がある場合に有用です。
+
+この変換は、WordML が XML 主導のワークフローにおいて詳細な処理、検証、相互運用性をサポートするため、オートメーションに非常に関連しています。これにより、最新のシステムはドキュメント内容をより高い制御性と透明性をもって管理できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **構造化マークアップ変換**  
+  OFT テンプレートを WordML に変換し、機械可読なドキュメント表現を実現します。
+
+* **XML ワークフロー統合**  
+  WordML の出力を、ドキュメントマークアップを処理、変換、または検証するシステムで使用します。
+
+* **詳細なコンテンツ検査**  
+  プログラムによる分析と操作に適した形式でドキュメント構造を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML ベースの変換パイプライン**  
+  WordML の出力を自動化システムに供給し、再構築やコンテンツ抽出を行います。
+
+* **マークアップ検証ワークフロー**  
+  Python API を使用して、ドキュメント構造とコンテンツルールをプログラム的にチェックします。
+
+* **相互運用可能なコンテンツ交換**  
+  OFT ファイルを WordML に変換し、構造化 XML ドキュメントに依存するプラットフォームとの統合を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

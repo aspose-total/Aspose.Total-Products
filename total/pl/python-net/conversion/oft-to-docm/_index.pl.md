@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OFT do DOCM w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OFT do DOCM przy użyciu interfejsów API Pythona umożliwia przekształcenie szablonów e‑mail Outlooka w dokumenty Word z włączonymi makrami, co wspiera zaawansowane przepływy pracy dokumentów. Jest to istotne, gdy przekonwertowana treść musi być połączona z logiką automatyzacji, skryptowanymi działaniami lub niestandardowymi zachowaniami dokumentu.
+
+Ta konwersja wspiera środowiska skoncentrowane na automatyzacji, łącząc wielokrotnego użytku treść e‑maili z programowalnymi procesami dokumentów. Pomaga organizacjom standaryzować operacje oparte na szablonach, zwiększając elastyczność, powtarzalność i kontrolę nad przepływem pracy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie dokumentów z włączonymi makrami**  
+  Konwertuj szablony OFT do plików DOCM dla przepływów pracy wymagających wbudowanej logiki automatyzacji.
+
+* **Zaawansowane ponowne wykorzystanie szablonów**  
+  Wykorzystaj ponownie treść e‑maili w dokumentach obsługujących niestandardowe akcje przetwarzania.
+
+* **Strukturalna dokumentacja biznesowa**  
+  Używaj wyników DOCM, gdy treść oparta na e‑mailach musi zasilać dynamiczne systemy dokumentacyjne.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane przepływy działań dokumentów**  
+  Łącz przekonwertowaną treść szablonu z procesami z włączonymi makrami w celu realizacji powtarzalnych zadań biznesowych.
+
+* **Transformacja szablonu w przepływ pracy**  
+  Przekształcaj pliki OFT w dokumenty DOCM, które uczestniczą w obsłudze dokumentów opartej na regułach.
+
+* **Programowe wsparcie raportowania**  
+  Generuj pliki z włączonymi makrami z szablonów e‑maili dla rutyn dokumentów wypełnianych danymi lub kontrolowanych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

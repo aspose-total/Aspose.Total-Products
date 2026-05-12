@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 XLSM으로 변환하면 문서 템플릿이 구조화된 데이터 처리를 위한 매크로 사용 가능 스프레드시트 워크북으로 바뀝니다. 이는 스프레드시트 출력이 데이터 조직과 향상된 기능을 모두 지원해야 할 때 유용합니다.
+
+Python API를 사용하면 DOT를 XLSM으로 변환하는 작업을 자동화하여 재사용 가능한 문서 템플릿으로부터 반복 가능한 고급 워크북 출력을 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 가능 워크북 생성**
+  고급 스프레드시트 워크플로를 위해 DOT 파일을 XLSM으로 변환합니다.
+
+* **문서-워크북 재사용**
+  템플릿 내용을 편집 가능하고 기능이 풍부한 스프레드시트 출력으로 전환합니다.
+
+* **운영 자동화 지원**
+  보다 강력한 스프레드시트 기반 비즈니스 프로세스에 적합한 워크북 파일을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 고급 워크북 생성**
+  Python 스크립트를 사용하면 DOT 템플릿을 반복 사용 사례에 맞는 XLSM 파일로 변환할 수 있습니다.
+
+* **스프레드시트 워크플로 통합**
+  변환은 문서 저장소를 향상된 워크북 처리 파이프라인과 연결합니다.
+
+* **확장 가능한 매크로 준비 출력 생성**
+  프로그래밍 시스템은 고급 스프레드시트 자산의 일관된 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

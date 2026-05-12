@@ -65,7 +65,44 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers XLT transforme les documents de traitement de texte en fichiers de modèles de feuilles de calcul utilisés pour la création de feuilles de calcul répétitives. Ce processus permet au contenu structuré des documents de devenir des bases de feuilles de calcul réutilisables pour les rapports et les tâches opérationnelles.
+
+Les API Python rendent la conversion DOCX‑vers‑XLT adaptée aux systèmes de génération automatisée de modèles, aux pipelines de reporting récurrents et aux flux de travail de normalisation des feuilles de calcul. Elles assurent la cohérence de la création de feuilles de calcul au sein des équipes et des processus.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles de feuilles de calcul réutilisables**  
+  Convertit le contenu DOCX en fichiers de modèles pour la génération répétée de feuilles de calcul.
+
+* **Structures de reporting standardisées**  
+  Aide les organisations à maintenir des mises en page de feuilles de calcul cohérentes et une organisation des données uniforme.
+
+* **Flux de travail Document‑vers‑Modèle**  
+  Prend en charge la réutilisation des actifs de documents structurés dans les environnements de feuilles de calcul.
+
+* **Distribution opérationnelle de modèles**  
+  Permet la création évolutive de modèles de feuilles de calcul à partir de sources écrites.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation automatisée de modèles**  
+  Les systèmes peuvent convertir les fichiers DOCX en modèles XLT pour des flux de travail de feuilles de calcul récurrents.
+
+* **Production en lot de modèles de feuilles de calcul**  
+  Les scripts Python peuvent générer des modèles de feuilles de calcul réutilisables à partir de plusieurs documents.
+
+* **Pipelines de standardisation d'entreprise**  
+  Le contenu des documents peut être transformé en modèles de feuilles de calcul pour des opérations de reporting cohérentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

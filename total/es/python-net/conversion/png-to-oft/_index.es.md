@@ -46,7 +46,47 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de PNG a OFT permite que el contenido basado en imágenes se transforme en archivos de plantillas de correo electrónico reutilizables, ayudando a las organizaciones a estandarizar la comunicación construida alrededor de entradas visuales. Esto es valioso cuando los mensajes recurrentes necesitan una estructura consistente mientras incorporan gráficos, avisos o información basada en imágenes PNG.
+
+Con las API de Python, la generación de OFT puede automatizarse para soportar la creación de plantillas a gran escala, mejorar la consistencia en los flujos de trabajo de mensajería y optimizar los sistemas que dependen de formatos de comunicación repetibles.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Creación de Plantillas de Correo Electrónico Reutilizables**  
+  Convierte contenido PNG en plantillas basadas en OFT para comunicaciones recurrentes.
+
+* **Mensajería Visual Estandarizada**  
+  Ayuda a los equipos a crear formatos de correo repetibles que incluyan información basada en imágenes.
+
+* **Diseño de Comunicación Operativa**  
+  Soporta flujos de trabajo que requieren plantillas estructuradas generadas a partir de recursos PNG.
+
+* **Alcance Impulsado por Plantillas**  
+  Permite preparar plantillas de correo visualmente informadas para su envío o edición futura.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Generación Dinámica de Plantillas**  
+  Las API de Python pueden crear plantillas OFT a partir de entradas PNG para sistemas de comunicación automatizados.
+
+* **Preparación por Lotes de Plantillas**  
+  Múltiples diseños de mensajes basados en PNG pueden convertirse en archivos OFT para operaciones a gran escala.
+
+* **Estandarización de Flujos de Trabajo**  
+  Los sistemas pueden producir automáticamente plantillas de correo visualmente consistentes en todos los departamentos o procesos.
+
+* **Canales de Comunicación Activados por Eventos**  
+  Las aplicaciones pueden generar plantillas OFT bajo demanda cuando nuevos recursos basados en PNG ingresan al flujo de trabajo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

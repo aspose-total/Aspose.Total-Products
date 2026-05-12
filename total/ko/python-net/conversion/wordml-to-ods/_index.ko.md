@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 ODS로 변환은 문서 기반 구조화된 콘텐츠를 OpenDocument 스프레드시트 파일로 변환하여 개방형 표준 데이터 처리 및 스프레드시트 편집을 가능하게 합니다. 이는 조직이 독점 형식에 의존하지 않고 편집 가능한 스프레드시트 출력을 필요로 할 때 유용합니다.
+
+Python API는 표를 추출하고 이를 협업 가능하고, 이동성이 뛰어나며, 확장 가능한 워크플로에 적합한 스프레드시트 시트로 매핑함으로써 WordML에서 ODS로의 변환을 자동화하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 출력**
+  WordML 표를 편집 가능한 ODS 파일로 변환하여 개방형 표준 스프레드시트 워크플로에 활용합니다.
+
+* **휴대용 데이터 교환**
+  구조화된 콘텐츠를 상호 운용 가능한 스프레드시트 환경으로 이동하는 것을 지원합니다.
+
+* **문서 표 재사용**
+  문서에 포함된 데이터를 보다 쉽게 분석하고 유지 관리할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 스프레드시트 변환**
+  여러 WordML 문서에서 ODS 파일을 자동으로 생성합니다.
+
+* **오픈 워크플로 통합**
+  변환된 스프레드시트를 표준 기반 처리 환경에 전달합니다.
+
+* **확장 가능한 데이터 추출**
+  문서 표를 재사용 가능한 스프레드시트 자산으로 대규모 변환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

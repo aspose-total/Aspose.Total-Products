@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST en GIF via les API Python permet de convertir le contenu d’une boîte aux lettres en fichiers image légers adaptés aux aperçus, aux archives visuelles et au partage simple. Elle est utile lorsque le contenu des messages doit être présenté sous forme de graphiques statiques, compacts et largement pris en charge.
+
+Dans les flux de travail automatisés, la conversion PST en GIF aide à générer des ressources d’aperçu cohérentes à partir des archives d’e‑mail et facilite la manipulation visuelle rapide entre les systèmes. Elle est particulièrement utile pour le rendu simplifié et la génération d’outputs légers à grande échelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Export visuel léger**
+  Convertit le contenu PST en images GIF pour une distribution compacte et facile.
+
+* **Création d'aperçu de boîte aux lettres**
+  Aide à générer rapidement des représentations visuelles des messages et des enregistrements.
+
+* **Support d'archive statique**
+  Préserve le contenu des communications dans un format image non modifiable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'aperçus en masse**
+  Des tâches automatisées peuvent produire des aperçus GIF à partir de grandes archives PST.
+
+* **Sortie d'image adaptée aux flux de travail**
+  Les fichiers GIF peuvent être intégrés dans des systèmes nécessitant des ressources visuelles légères.
+
+* **Pipelines de rendu simplifiés**
+  La conversion programmatique prend en charge la création efficace de visuels statiques de boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

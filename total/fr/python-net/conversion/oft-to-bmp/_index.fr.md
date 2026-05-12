@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OFT en BMP à l'aide des API Python permet de transformer le contenu des modèles d'e‑mail en images bitmap pour l'archivage, la génération d'aperçus et le partage de mises en page fixes. Ce processus est précieux lorsque la cohérence visuelle est importante et que le contenu basé sur les messages doit être conservé sous forme d'image statique, largement lisible.
+
+Dans les flux de travail modernes, la conversion OFT en BMP prend en charge l'automatisation en transformant les modèles d'e‑mail réutilisables en actifs image qui peuvent être indexés, examinés et distribués sans nécessiter de clients de messagerie. Elle améliore l'efficacité opérationnelle dans la gestion des documents, les pipelines de reporting et la gestion des enregistrements visuels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Archivage d'aperçus de modèles**  
+  Convertir les fichiers OFT en images BMP afin de conserver les mises en page des modèles d'e‑mail comme des enregistrements visuels statiques.
+
+* **Examen de conformité visuelle**  
+  Utiliser les sorties bitmap pour une inspection manuelle ou automatisée du formatage, des mentions légales et des éléments de marque.
+
+* **Distribution d'images hors ligne**  
+  Partager le contenu d'e‑mail rendu sous un format image simple pour la révision interne ou à des fins de documentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Rendu par lots de modèles d'e‑mail**  
+  Automatiser la conversion de plusieurs modèles OFT en fichiers BMP pour le catalogage et les contrôles de qualité.
+
+* **Intégration du flux de travail documentaire**  
+  Acheminer les sorties BMP converties vers des dépôts de documents, des systèmes d'audit ou des pipelines d'approbation.
+
+* **Pipelines de génération d'aperçus**  
+  Générer dynamiquement des aperçus visuels à partir de modèles OFT pour les tableaux de bord, les portails ou les bibliothèques de contenu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

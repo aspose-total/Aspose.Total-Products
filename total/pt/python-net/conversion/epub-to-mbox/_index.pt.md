@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de EPUB para MBOX em Python permite a transformação do conteúdo de publicações digitais em um formato de arquivo estilo caixa de correio usado para armazenar coleções de mensagens. Isso é valioso quando organizações precisam agrupar conteúdo convertido para fluxos de trabalho de arquivamento, migração ou armazenamento orientado à comunicação.
+
+Para operações impulsionadas por automação, a conversão de EPUB para MBOX oferece uma maneira eficiente de empacotar múltiplos itens de conteúdo em arquivos de correio estruturados, tornando as aplicações Python mais eficazes para processos escaláveis de preservação e transferência de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Arquivo de Caixa de Correio**  
+  Converter o conteúdo EPUB para o formato MBOX para armazenamento em sistemas e repositórios de arquivos de correio.
+
+* **Empacotamento em Massa de Conteúdo**  
+  Agrupar conteúdo derivado de publicações em uma estrutura de arquivo consolidada para facilitar a gestão.
+
+* **Suporte à Migração**  
+  Usar a saída MBOX ao mover conteúdo para sistemas que aceitam dados arquivados em estilo caixa de correio.
+
+* **Habilitação de Fluxo de Trabalho de Retenção**  
+  Preservar o conteúdo de publicação transformado em coleções de mensagens amigáveis a arquivos para fins de auditoria ou referência.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Geração de Arquivo**  
+  Aplicações Python podem produzir automaticamente arquivos MBOX a partir de fontes EPUB durante fluxos de trabalho de ingestão.
+
+* **Processos de Conversão em Lote**  
+  Jobs automatizados podem transformar muitos documentos EPUB em arquivos de caixa de correio com formatação consistente.
+
+* **Sincronização de Repositório**  
+  A conversão pode ser acionada como parte da sincronização de conteúdo entre armazenamentos de documentos e plataformas de arquivamento.
+
+* **Tarefas de Preservação Escaláveis**  
+  O processamento programático suporta operações de arquivamento de alto volume sem intervenção manual repetitiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

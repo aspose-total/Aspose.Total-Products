@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から PPSM への変換は、Word 文書をマクロ対応スライドショーファイルに変換し、先進的なプレゼンテーション動作で直接再生できるようにします。これは、文書の内容をプレゼンテーション用のファイルに変換し、埋め込み自動化やインタラクティブなロジックもサポートする必要がある場合に有用です。
+
+自動化と運用効率の向上のために、この変換はテキストソースから動的なスライドショー出力を作成し、先進的なプレゼンテーション資産のスケーラブルな生成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スライドショー作成**
+  文書を自動化機能を備えた再生可能なスライドショーファイルに変換します。
+
+* **インタラクティブなプレゼンテーション配信**
+  埋め込みロジックに依存する先進的なプレゼンテーションワークフローをサポートします。
+
+* **運用ブリーフィング自動化**
+  繰り返しまたは制御されたプレゼンテーション環境向けに直接実行可能なスライド出力の生成を支援します。
+
+* **動的コンテンツ再利用**
+  文書の価値を拡張し、より高度なスライドショー成果物を駆動できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された高度なスライドショー生成**
+  ロジック対応のプレゼンテーションワークフロー向けに、Word 文書から PPSM ファイルを生成します。
+
+* **繰り返しプレゼンテーションパイプライン**
+  繰り返し可能なビジネスプロセスでマクロ対応スライドショー出力を使用します。
+
+* **制御された再生ワークフロー**
+  必要に応じて埋め込み自動化を備えた直接実行可能なプレゼンテーションを提供します。
+
+* **文書から動的プレゼンテーションへの変換**
+  テキストソースファイルをインタラクティブなプレゼンテーション制作システムに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 PNG를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG를 ICS로 변환하면 시각 일정 정보, 이벤트 그래픽 또는 이미지 기반 캘린더 세부 정보를 구조화된 캘린더 파일로 변환하여 이벤트 공유 및 일정 관리 워크플로를 지원합니다. 이는 이벤트 데이터가 이미지 형태로 존재하지만 기계가 읽을 수 있고 상호 운용 가능해야 할 때 특히 유용합니다.
+
+Python API는 시스템이 PNG 기반 입력으로부터 프로그래밍 방식으로 ICS 파일을 생성하도록 함으로써 자동화에 친화적으로 만들고, 일정 효율성을 향상하고 수동 입력을 줄이며 애플리케이션 전반에 걸친 확장 가능한 캘린더 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **이벤트 그래픽 변환**  
+  PNG 이벤트 공지를 ICS 캘린더 파일로 변환하여 일정 관리 및 배포를 더 쉽게 합니다.
+
+* **캘린더 항목 생성**  
+  이미지 기반 일정 정보를 구조화된 캘린더 이벤트로 변환하는 데 도움을 줍니다.
+
+* **회의 초대 준비**  
+  시각적인 회의 세부 정보를 공유 가능한 캘린더 파일로 변환해야 하는 워크플로를 지원합니다.
+
+* **일정 디지털화**  
+  이미지 형태로 저장된 이벤트 정보를 디지털 캘린더 시스템에서 재사용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 캘린더 생성**  
+  Python API는 이벤트 관리 파이프라인에서 PNG 기반 이벤트 입력으로부터 ICS 파일을 생성할 수 있습니다.
+
+* **대량 일정 처리**  
+  여러 PNG 일정 이미지를 변환하여 간소화된 캘린더 게시를 위한 ICS 출력으로 만들 수 있습니다.
+
+* **워크플로 기반 초대 전달**  
+  시스템은 이벤트 정보를 추출하고 변환하여 자동 초대를 위한 ICS 첨부 파일로 만들 수 있습니다.
+
+* **통합 일정 시스템**  
+  애플리케이션은 PNG를 ICS로 변환하여 시각적 이벤트 소스와 캘린더 플랫폼을 연결할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

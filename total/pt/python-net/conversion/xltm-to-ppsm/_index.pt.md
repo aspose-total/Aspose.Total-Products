@@ -64,7 +64,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLTM para PPSM em Python possibilita converter modelos do Excel com macros em arquivos de apresentação de slides também com macros. Isso é útil para fluxos de trabalho onde o conteúdo fonte baseado em planilhas deve ser entregue como arquivos de apresentação que suportam automação avançada ou comportamento de apresentação aprimorado.
+
+Para fins de automação, a conversão de XLTM para PPSM ajuda a unificar fluxos de trabalho de escritório, suporta a criação programática de apresentações de slides e melhora a prontidão de saída para sistemas centrados em apresentações.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Apresentação de Slides com Macro**  
+  Produz arquivos de apresentação que se adequam a ambientes avançados de apresentação que exigem funcionalidade estendida.
+
+* **Saída de Apresentação Baseada em Modelo**  
+  Converte modelos de pastas de trabalho em arquivos prontos para apresentação de slides para comunicação estruturada.
+
+* **Automação Operacional de Apresentações**  
+  Suporta equipes que automatizam a preparação e entrega de ativos de apresentação recorrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Programática de Apresentação de Slides**  
+  Automatiza a produção de arquivos PPSM a partir de modelos XLTM dentro de fluxos de trabalho de relatórios.
+
+* **Automação de Escritório Multiformato**  
+  Conecta modelos baseados em planilhas com destinos de apresentação de slides em sistemas integrados.
+
+* **Distribuição Repetível de Apresentações**  
+  Suporta a geração recorrente de arquivos de apresentação de slides com macro para comunicações padronizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

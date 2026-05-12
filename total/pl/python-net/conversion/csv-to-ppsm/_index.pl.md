@@ -64,7 +64,46 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Cells for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja CSV do PPSM przy użyciu interfejsów API Pythona umożliwia przekształcenie ustrukturyzowanych danych tabelarycznych w pliki prezentacji z włączonymi makrami, które łączą dostarczanie prezentacji z zachowaniem ukierunkowanym na automatyzację.  
+Ta konwersja jest cenna w nowoczesnych przepływach pracy, ponieważ wspiera automatyczne generowanie prezentacji, jednocześnie zachowując zaawansowane możliwości pokazu slajdów dla interaktywnych lub procesowo sterowanych przypadków użycia.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie prezentacji z włączonymi makrami**  
+  Konwertuj dane CSV do plików PPSM dla prezentacji, które wymagają wbudowanego wsparcia automatyzacji.
+
+* **Interaktywne przepływy prezentacji**  
+  Generuj wyjście prezentacji, które łączy ustrukturyzowane dane z zaawansowanym zachowaniem dla kontrolowanych środowisk.
+
+* **Zautomatyzowane zasoby dostawcze**  
+  Przekształcaj zawartość CSV w pliki PPSM w celu powtarzalnego generowania i dystrybucji prezentacji.
+
+* **Zaawansowana prezentacja danych**  
+  Użyj danych wejściowych CSV do tworzenia plików prezentacji dopasowanych do przepływów pracy, które zależą od formatów prezentacji gotowych do automatyzacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane interaktywne prezentacje**  
+  Użyj interfejsów API Pythona do generowania plików PPSM z zestawów danych CSV dla przepływów prezentacji uwzględniających automatyzację.
+
+* **Zintegrowana systemowo produkcja prezentacji**  
+  Wbuduj konwersję CSV do PPSM w systemy raportowania, które automatycznie przygotowują wyjście prezentacji.
+
+* **Masowa kreacja prezentacji z makrami**  
+  Konwertuj duże ilości plików CSV do formatu PPSM z jednolitą układą i wbudowanym wsparciem funkcji.
+
+* **Montaż prezentacji sterowany regułami**  
+  Programowo komponuj prezentacje PPSM z ustrukturyzowanej zawartości CSV i logiki przepływu pracy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

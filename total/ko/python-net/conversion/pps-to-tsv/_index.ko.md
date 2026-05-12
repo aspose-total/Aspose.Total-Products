@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}}
+
+Python에서 PPS를 TSV로 변환하면 프레젠테이션 콘텐츠를 구조화된 데이터 처리 및 시스템 상호 운용성을 위해 탭으로 구분된 값으로 내보낼 수 있습니다. 이 형식은 변환된 정보가 기술 워크플로에서 단순하고 가볍으며 파싱하기 쉬워야 할 때 특히 유용합니다.
+
+자동화 관점에서 PPS를 TSV로 변환하면 확장 가능한 추출, 스크립트 및 도구로의 수집, 프레젠테이션에서 파생된 데이터의 효율적인 처리를 지원합니다. 깨끗한 표형 출력과 최소한의 포맷 오버헤드가 우선인 파이프라인에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 텍스트 내보내기**
+  프레젠테이션 데이터를 재사용을 위해 간단한 표 형식으로 변환합니다.
+
+* **시스템 상호 운용성**
+  구분자 기반 입력을 기대하는 도구를 위해 슬라이드에서 파생된 정보를 준비합니다.
+
+* **대량 데이터 준비**
+  다수의 프레젠테이션을 가볍고 구조화된 레코드로 변환합니다.
+
+* **기술 워크플로 지원**
+  스크립트, 가져오기 및 변환을 위해 탭 구분 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **데이터 파이프라인 수집**
+  하위 파싱 및 변환 작업을 위해 PPS를 TSV로 변환을 자동화합니다.
+
+* **배치 추출 서비스**
+  프레젠테이션 컬렉션을 정기적으로 TSV 파일로 처리합니다.
+
+* **스크립트 친화적 내보내기 자동화**
+  명령줄 및 프로그래밍 워크플로를 위해 깨끗한 표형 출력을 생성합니다.
+
+* **경량 아카이브 처리**
+  슬라이드 콘텐츠를 확장 가능한 저장 및 전송을 위해 압축된 구조화 텍스트로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

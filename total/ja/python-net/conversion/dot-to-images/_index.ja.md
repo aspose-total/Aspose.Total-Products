@@ -53,9 +53,43 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から画像への変換は、文書テンプレートをプレビューや共有、デジタルワークフローへの埋め込みが容易なビジュアル形式に変換します。元の編集可能な文書を静的なビジュアル資産として配布する必要がある場合に価値があります。
+
+Python API を使用すると、DOT ファイルを画像出力に自動的にレンダリングでき、組織がプレビュー、アーカイブ、コンテンツ公開、文書レビューのプロセスを大規模にサポートするのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ビジュアル文書プレビュー**
+  DOT テンプレートを画像に変換し、迅速な検査やブラウザでの閲覧を可能にします。
+
+* **静的コンテンツ共有**
+  文書コンテンツを編集不可の画像ファイルとして配布し、制御されたプレゼンテーションを実現します。
+
+* **公開サポート**
+  ポータル、レポート、コンテンツ配信システムでレンダリングされた出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイルとプレビューの生成**
+  Python ワークフローは、インデックス作成や表示システム向けに文書画像を自動的に生成できます。
+
+* **コンテンツ公開パイプライン**
+  変換は、再利用可能なテンプレートからビジュアル資産を自動的に準備することをサポートします。
+
+* **大量レンダリング操作**
+  プログラム的なプロセスは、大規模なテンプレートコレクションから一貫して画像出力を生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MOBI から XLTX への変換は、電子書籍のコンテンツを一貫したワークブック作成を目的とした最新のスプレッドシートテンプレート形式に変換します。これは、組織がマクロ機能なしでクリーンで再利用可能なスプレッドシート構造を必要とし、かつレイアウトや書式設定の標準を維持したい場合に有用です。
+
+自動化システムにおいて、MOBI から XLTX への変換は、標準化されたスプレッドシート生成、スケーラブルなレポート設計、繰り返し可能な文書出力を支援します。チームが出版ベースのコンテンツを、最新のビジネス自動化および文書組み立てワークフローに適合する構造化テンプレートに変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **モダンテンプレート標準化**
+  事前定義されたレイアウトを使用して、MOBI コンテンツを XLTX に変換し、一貫したスプレッドシート作成を実現します。
+
+* **再利用可能なレポート構造**
+  テンプレートベースの出力を構築し、繰り返しのレポート作成と文書化プロセスをサポートします。
+
+* **制御されたワークブックの書式設定**
+  生成されたファイルや事業部門全体で、クリーンで統一されたスプレッドシートデザインを維持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート駆動型スプレッドシート自動化**
+  MOBI コンテンツから XLTX ファイルを自動的に生成し、標準化された下流利用を実現します。
+
+* **繰り返し可能な文書組み立て**
+  Python の変換ルーチンを使用して、繰り返し発生する業務フロー向けのスプレッドシートテンプレートを作成します。
+
+* **スケーラブルな構造化出力**
+  自動化システム全体で、一貫したワークブックテンプレートの大規模生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

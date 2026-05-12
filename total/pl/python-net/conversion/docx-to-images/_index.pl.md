@@ -53,7 +53,44 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCX na obrazy przekształca dokumenty edytorów tekstu w formaty graficzne, które zachowują wizualny układ i formatowanie stron dokumentu. Ten proces umożliwia udostępnianie lub archiwizowanie treści dokumentu jako statycznych plików wizualnych.
+
+Korzystając z interfejsów API Pythona, konwersję DOCX na obrazy można zautomatyzować dla systemów podglądu dokumentów, platform publikacji treści oraz procesów archiwizacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie podglądu dokumentu**  
+  Konwertuje strony DOCX na obrazy w celu szybkich podglądów.
+
+* **Wizualne archiwizowanie dokumentów**  
+  Zachowuje wygląd dokumentu w formacie obrazu.
+
+* **Procesy publikacji treści**  
+  Umożliwia osadzenie treści dokumentu jako obrazy.
+
+* **Tworzenie migawki strony**  
+  Generuje wizualne reprezentacje stron dokumentu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie miniatur dokumentów**  
+  Systemy mogą konwertować pliki DOCX na podglądy obrazów.
+
+* **Potoki eksportu obrazów wsadowych**  
+  Skrypty Pythona mogą generować obrazy z dużych zbiorów dokumentów.
+
+* **Platformy dystrybucji treści**  
+  Dokumenty mogą być konwertowane na obrazy w celu publikacji lub udostępniania w procesach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

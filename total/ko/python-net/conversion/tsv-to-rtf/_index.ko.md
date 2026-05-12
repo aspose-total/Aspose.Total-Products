@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV를 RTF로 변환하면 구조화된 표 형식 콘텐츠를 휴대성, 가독성 및 편집 가능한 서식을 균형 있게 갖춘 리치 텍스트 문서로 변환합니다. TSV 데이터를 문서 구조와 프레젠테이션 가치를 유지하면서도 가벼운 텍스트 문서 형식으로 공유해야 할 때 유용합니다.
+
+Python API를 사용하면 TSV를 RTF로 변환하는 작업을 자동화하여 효율적인 텍스트 기반 보고, 확장 가능한 내보내기 워크플로, 그리고 구조화된 데이터를 문서 중심 시스템으로 원활하게 이동할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **가벼운 문서 내보내기**  
+  TSV 데이터를 공유 및 편집이 쉬운 형식화된 텍스트 문서로 변환합니다.
+
+* **가독성 높은 구조화된 콘텐츠**  
+  원시 표 레코드를 보다 사용자 친화적인 문서 형태로 제시하는 데 도움이 됩니다.
+
+* **다중 환경 호환성**  
+  광범위하게 지원되는 텍스트 형식의 이점을 활용하는 문서 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 텍스트 보고서 생성**  
+  Python API를 사용하면 반복적인 문서 작업을 위해 TSV 입력으로부터 RTF 파일을 생성할 수 있습니다.
+
+* **데이터-문서 변환**  
+  자동화를 통해 원시 구조화된 내보내기를 형식화된 텍스트 출력으로 전환할 수 있습니다.
+
+* **배치 변환 작업**  
+  대용량 TSV 파일을 효율적으로 RTF 형식으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から CSV への変換は、OpenDocument Text ファイルの構造化または半構造化テキストコンテンツを、分析、インポート、処理が容易なフラットな区切り形式に変換します。特に、文書ベースの情報をレポート作成、レビュー、または下流統合のために抽出する必要がある場合に有用です。
+
+自動化ワークフローにおいて、ODT から CSV への変換は、繰り返し可能なデータ抽出、バッチ正規化、分析や処理パイプラインへのスケーラブルな取り込みをサポートします。Python API を使用することで、チームは文書処理を効率化し、手動での再フォーマットを削減し、一貫性を向上させることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **表形式データ抽出**  
+  文書ベースの表を CSV に変換し、処理と保存を容易にします。
+
+* **レポート作成準備**  
+  文書コンテンツを分析、ダッシュボード、構造化されたレビュー ワークフロー向けに準備します。
+
+* **大量データ移行**  
+  大量のテキストベースレコードを相互運用可能なデータ形式に移行するのに役立ちます。
+
+* **システム統合サポート**  
+  CSV を入力形式として受け入れるツールやサービスとの互換性を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされた文書解析**  
+  自動化により、受信した ODT ファイルを定期的に CSV に変換し、レポート パイプラインに供給できます。
+
+* **データ取り込みワークフロー**  
+  Python ベースのプロセスで文書コンテンツを抽出・標準化し、データベースにロードする前に整形できます。
+
+* **バッチ変換操作**  
+  大量の ODT 文書をプログラムで変換でき、手動介入が不要です。
+
+* **コンプライアンス記録の構造化**  
+  自動変換により、監査可能なコンテンツを機械可読形式で準備できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 ODS로 변환하면 워드 프로세싱 템플릿을 구조화된 데이터 처리와 개방형 워크플로 호환성을 위한 OpenDocument 스프레드시트로 변환합니다. 이는 문서 내용이 분석, 추적 또는 보고를 지원하는 스프레드시트 형식으로 이동해야 할 때 중요합니다.
+
+Python API를 사용하면 DOT를 ODS로 변환하는 작업을 자동화할 수 있어 팀이 문서를 빠르고 일관되게 개방형 스프레드시트 자산으로 변환할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 생성**
+  데이터 중심 검토 및 조작을 위해 DOT 파일을 ODS로 변환합니다.
+
+* **템플릿 데이터 구조화**
+  재사용 가능한 문서 내용을 운영용 스프레드시트 형태로 이동합니다.
+
+* **크로스 플랫폼 교환**
+  다양한 환경에 적합한 개방형 형식으로 추출된 정보를 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 스프레드시트 워크플로**
+  Python 스크립트를 사용하면 예약된 파이프라인에서 DOT 템플릿을 ODS 파일로 변환할 수 있습니다.
+
+* **오픈 데이터 통합**
+  변환은 처리에 개방형 스프레드시트 형식을 사용하는 시스템을 지원합니다.
+
+* **대량 문서 변환**
+  프로그래밍 자동화를 통해 다수의 템플릿에서 ODS 출력을 효율적으로 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

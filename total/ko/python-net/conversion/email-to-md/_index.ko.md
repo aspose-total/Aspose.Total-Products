@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 EMAIL를 MD로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 이메일을 MD로 변환하면 메시지 내용을 가볍고 휴대 가능하며 버전 친화적인 텍스트 문서인 Markdown으로 바꿉니다. 이는 이메일 정보를 문서화, 지식 베이스, 개발자 워크플로우 또는 출판 시스템에서 재사용해야 할 때 특히 유용합니다.
+
+이 변환은 이메일 내용을 더 쉽게 파싱하고, 저장하고, 변환하고, 텍스트 중심 파이프라인 전반에 걸쳐 최소한의 포맷팅 오버헤드로 게시할 수 있게 하여 자동화를 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **지식 베이스 게시**
+  이메일을 Markdown으로 변환하여 문서 포털 및 내부 위키에 사용합니다.
+
+* **버전 관리 아카이브**
+  중요한 커뮤니케이션을 저장소 추적에 적합한 텍스트 형식으로 보존합니다.
+
+* **콘텐츠 단순화**
+  복잡한 이메일 포맷을 깔끔하고 휴대 가능한 마크업으로 줄여 재사용합니다.
+
+* **개발자 중심 워크플로우**
+  기술 팀이 텍스트 기반 시스템에서 콘텐츠를 관리하는 곳에 Markdown 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **받은편지함-위키 자동화**
+  선택된 이메일을 검색 가능한 지식 플랫폼용 Markdown 페이지로 변환합니다.
+
+* **저장소 기반 문서 업데이트**
+  변환된 메시지 내용을 자동으로 버전된 콘텐츠 파이프라인에 커밋합니다.
+
+* **정적 출판 워크플로우**
+  Markdown 이메일 출력을 생성기와 콘텐츠 자동화 시스템에 공급합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

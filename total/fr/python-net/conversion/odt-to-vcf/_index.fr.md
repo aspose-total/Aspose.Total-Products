@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODT vers VCF transforme les informations de contact ou de profil basées sur des documents en un format de carte de contact standard adapté aux carnets d'adresses et aux systèmes de gestion de contacts. Ceci est utile lorsque les documents contiennent des détails de contact personnels ou organisationnels structurés.
+
+Les API Python permettent la conversion ODT vers VCF dans des flux de travail automatisés d'extraction, de migration et de synchronisation de contacts. Elles aident les organisations à transformer des enregistrements texte statiques en données de contact réutilisables avec plus de rapidité et de précision.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction d'informations de contact**  
+  Convertit les noms, numéros et adresses des documents en cartes de contact.
+
+* **Support de migration d'annuaire**  
+  Facilite le déplacement des données de contact des documents texte vers des carnets d'adresses structurés.
+
+* **Standardisation de profil**  
+  Transforme les listes de contacts informelles en enregistrements numériques de contact réutilisables.
+
+* **Préparation CRM**  
+  Favorise une ingestion plus propre des données de contact dans les systèmes d'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Analyse automatisée des contacts**  
+  Les scripts Python peuvent identifier les champs de contact dans les fichiers ODT et générer des sorties VCF.
+
+* **Conversion massive d'annuaire**  
+  De grandes listes de contacts peuvent être transformées en cartes réutilisables lors de traitements par lots.
+
+* **Flux de travail de synchronisation**  
+  Les contacts convertis peuvent alimenter les pipelines d'importation pour les carnets d'adresses et les systèmes associés.
+
+* **Préparation à l'enrichissement des données**  
+  Les sorties VCF structurées peuvent soutenir les processus de validation et d'intégration en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 MBOX로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to MBOX 변환은 매크로가 포함된 문서를 메일함 스타일 저장 출력으로 변환하여 문서 기반 커뮤니케이션을 메일 지향 시스템에서 그룹화, 보관 또는 마이그레이션하기 쉽게 합니다. 이는 문서 내용이 번들된 메시지 저장소 내에 보존되어야 할 때 유용합니다.
+
+자동화와 확장을 위해, DOCM to MBOX 워크플로는 배치 보관, 커뮤니케이션 패키징, 그리고 문서 기반 콘텐츠를 메일함 중심 보존 시스템으로 전송하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 보관**
+  문서 기반 콘텐츠를 메일함 컨테이너 파일 내에 장기 보관을 위해 보존합니다.
+
+* **메시지 컬렉션 패키징**
+  관련된 변환된 커뮤니케이션을 하나의 통합 파일로 그룹화하는 것을 지원합니다.
+
+* **마이그레이션 지원**
+  문서 기반 커뮤니케이션 콘텐츠를 이메일 아카이브 환경으로 이동하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 보관 생성**
+  DOCM 파일을 MBOX 출력으로 변환하여 예약된 보존 워크플로에 사용합니다.
+
+* **대량 메일 저장소 준비**
+  대규모 데이터셋에 걸쳐 문서 기반 콘텐츠를 메일함 파일로 패키징합니다.
+
+* **프로그래밍식 저장 파이프라인**
+  문서 변환을 보관 및 규정 준수 중심 시스템과 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

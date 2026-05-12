@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から画像への変換は、OpenDocument テキストテンプレートを画像出力に変換し、視覚的な共有、プレビュー生成、静的な公開を実現します。これは、編集可能なソース形式に依存せず、プラットフォーム間で文書内容を一貫して表示する必要がある場合に有用です。
+
+この変換は、プレビュー、サムネイル、Web 資産、文書スナップショットをプログラムで生成し、広く配布できるスケーラブルなレンダリングパイプラインを可能にすることで、オートメーションにメリットをもたらします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ビジュアルプレビュー生成**  
+  文書内容の静的な表現を作成し、すばやく閲覧できるようにします。
+
+* **クロスプラットフォーム共有**  
+  文書サポートが限定的な環境でも、コンテンツの表示が容易になります。
+
+* **公開サポート**  
+  Web、レポート、アーカイブ用途の画像資産を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイル作成パイプライン**  
+  OTT ファイルから大量にプレビュー画像を生成します。
+
+* **コンテンツ公開ワークフロー**  
+  テンプレートをポータルやドキュメントサイト向けの視覚資産に変換します。
+
+* **自動スナップショットアーカイブ**  
+  文書の状態を編集不可の画像出力として保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

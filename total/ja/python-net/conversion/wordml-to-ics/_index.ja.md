@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から ICS への変換は、文書情報をスケジュール、リマインダー、イベントベースのワークフローをサポートできるカレンダー互換データに変換します。文書に保存された会議の詳細、タイムライン、または議題項目をカレンダーエントリに変換する必要がある場合に価値があります。
+
+Python API を使用すると、WordML から ICS への変換を自動化してイベント情報を抽出し、スケジューリングシステムや時間ベースのプロセス自動化向けに再利用可能なカレンダーファイルを生成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **イベント抽出**
+  WordML ファイルからスケジュール関連のコンテンツをカレンダー対応の ICS データに変換します。
+
+* **会議ワークフロー支援**
+  議題や計画文書をインポート可能なイベントレコードに変換します。
+
+* **カレンダー相互運用性**
+  標準フォーマットを使用して文書コンテンツをスケジューリングプラットフォームに移行できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダーファイル生成**
+  繰り返しのワークフローで WordML の会議またはイベント文書から ICS ファイルを作成します。
+
+* **スケジュール同期**
+  文書ベースのイベント詳細をカレンダーインポートパイプラインに統合します。
+
+* **リマインダーと計画の自動化**
+  構造化された文書コンテンツから時間制限付きレコードをプログラム的に作成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

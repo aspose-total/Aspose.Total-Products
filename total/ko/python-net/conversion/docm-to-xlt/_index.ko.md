@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 XLT 변환은 매크로가 포함된 문서를 스프레드시트 템플릿 파일로 변환하여 구조화된 문서 내용을 반복 사용을 위한 재사용 가능한 워크북 레이아웃으로 만들 수 있게 합니다. 이는 반복적인 스프레드시트 생성 과정에서 일관성이 중요할 때 유용합니다.
+
+자동화 시스템에서는 DOCM에서 XLT 변환이 표준화된 워크북 생성, 프로세스 반복성 및 문서를 재사용 가능한 스프레드시트 템플릿으로 확장 가능한 변환을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 워크북 템플릿**
+  문서 자료를 스프레드시트 템플릿으로 변환하여 반복적인 운영에 사용합니다.
+
+* **표준화된 스프레드시트 구조**
+  반복적인 워크북 생성 작업에서 일관성을 유지하도록 돕습니다.
+
+* **콘텐츠-템플릿 재사용**
+  문서 데이터와 레이아웃을 구조화된 스프레드시트 청사진으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 생성**
+  반복 가능한 스프레드시트 워크플로를 위해 DOCM 소스에서 XLT 파일을 생성합니다.
+
+* **일관된 워크북 제공**
+  표준화된 스프레드시트 템플릿의 프로그래밍 방식 생성을 지원합니다.
+
+* **확장 가능한 템플릿 배포**
+  소스 문서에서 생성된 스프레드시트 레이아웃을 광범위하게 재사용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

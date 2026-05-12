@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers ICS dans les API Python transforme les modèles de texte OpenDocument en fichiers de données de calendrier utilisés pour la planification et l'échange d'événements. Ceci est précieux lorsque le contenu du document comprend des rendez‑vous, des échéances ou des informations structurées basées sur des dates qui doivent être prêtes pour le calendrier.
+
+Cette conversion est adaptée à l'automatisation car elle permet de générer les informations d'événement à partir de modèles et de les injecter dans les flux de travail de planification, les rappels et les processus de synchronisation sans saisie manuelle dans le calendrier.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de fichiers d'événement**  
+  Transforme le contenu de documents liés à la planification en fichiers compatibles avec les calendriers.
+
+* **Distribution des échéances**  
+  Partage les dates importantes et les jalons dans un format de calendrier standard.
+
+* **Support du flux de travail de planification**  
+  Convertit les données d'événement structurées en actifs de planification portables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de calendriers**  
+  Crée des fichiers ICS à partir de modèles d'événements récurrents basés sur OTT.
+
+* **Intégration du flux de travail de rappel**  
+  Alimente les systèmes qui déclenchent des notifications avec les événements générés.
+
+* **Synchronisation des plannings**  
+  Prend en charge le partage programmatique des données de calendrier entre équipes ou outils.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

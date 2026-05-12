@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para Word em Python permite que o conteúdo das mensagens seja convertido em documentos editáveis de processamento de texto para redação, armazenamento e colaboração. É útil quando as comunicações por e‑mail precisam se tornar documentos de trabalho dentro de processos empresariais mais amplos.
+
+Essa conversão melhora a automação ao mover o conteúdo não estruturado da caixa de entrada para fluxos de trabalho de documentos estruturados que suportam edição, reutilização, aprovação e gerenciamento de repositórios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preservação de Mensagens Editáveis**
+  Converta e‑mails em documentos Word para revisão e reutilização mais fáceis.
+
+* **Documentação de Processos de Negócio**
+  Transforme comunicações importantes em arquivos de trabalho para equipes e departamentos.
+
+* **Manipulação Colaborativa de Conteúdo**
+  Compartilhe e‑mails convertidos em um formato que suporta edições e comentários.
+
+* **Integração de Fluxo de Trabalho**
+  Insira documentos derivados de e‑mail em sistemas de armazenamento estruturado e aprovação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Conversão de Caixa de Entrada para Word**
+  Gere automaticamente documentos Word a partir de e‑mails selecionados para processamento.
+
+* **Fluxos de Trabalho de Padronização de Conteúdo**
+  Normalize o conteúdo de e‑mail em documentos empresariais editáveis em escala.
+
+* **Roteamento Automatizado de Revisão**
+  Envie arquivos Word convertidos através de pipelines colaborativos editoriais ou operacionais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e-mails en fichiers DOT avec Python permet de transformer les messages en modèles Word pour la création de documents standardisés. Cela est utile lorsque le contenu des e-mails sert de point de départ à des modèles réutilisables utilisés dans les processus administratifs, juridiques ou opérationnels.
+
+Elle favorise l'automatisation en aidant les organisations à convertir les schémas de communication en actifs de modèles réutilisables, ce qui améliore la cohérence et réduit la préparation manuelle des documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles à partir des communications**  
+  Convertir les structures d'e-mails récurrentes en modèles DOT pour une génération répétée de documents.
+
+* **Mises en page de contenu standardisées**  
+  Conserver les formats courants basés sur les e-mails sous forme de fichiers modèles réutilisables.
+
+* **Création de formulaires opérationnels**  
+  Transformer les modèles de messages en documents de départ pour les flux de travail internes.
+
+* **Cohérence de la mise en forme**  
+  Appliquer des règles de mise en page répétables en stockant les structures dérivées des e-mails sous forme de modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération de bibliothèque de modèles**  
+  Construire automatiquement des modèles DOT à partir de contenus d'e-mails structurés pour une utilisation départementale.
+
+* **Production de documents répétables**  
+  Utiliser les modèles convertis pour créer des sorties cohérentes à partir de communications récurrentes.
+
+* **Standardisation de formulaires guidée par les flux de travail**  
+  Alimenter les systèmes avec des modèles dérivés des e-mails afin de générer automatiquement des documents récurrents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

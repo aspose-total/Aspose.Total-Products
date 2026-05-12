@@ -53,7 +53,41 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM en images transforme les documents contenant des macros en fichiers visuels, facilitant la prévisualisation, le partage, l'archivage ou l'intégration des pages dans d'autres systèmes. Elle est utile lorsque la fidélité du document doit être préservée visuellement sur des plateformes qui ne prennent pas en charge nativement les formats de documents modifiables.
+
+Dans les flux de travail pilotés par l'automatisation, la conversion DOCM en images prend en charge les pipelines de rendu de documents, la génération de vignettes, les systèmes de révision visuelle et les processus de publication évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Prévisualisation visuelle de documents**
+  Convertit les pages en fichiers image faciles à afficher dans les navigateurs et les applications.
+
+* **Partage de contenu**
+  Permet une distribution rapide d'instantanés de documents lorsque l'éditabilité n'est pas requise.
+
+* **Fidélité d'archivage**
+  Préserve l'apparence visuelle du document original à des fins de référence et de conformité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de vignettes et de prévisualisations**
+  Crée automatiquement des images pour les galeries de documents, les listes ou les portails.
+
+* **Pipelines de publication**
+  Prend en charge l'exportation visuelle pour les sites web, les bases de connaissances et les visionneuses de documents.
+
+* **Flux de travail de rendu par lots**
+  Traite un grand nombre de fichiers DOCM en sorties image sans intervention manuelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から DOTM への変換は、構造化された表形式データを、繰り返し可能で高度な文書ワークフローをサポートするマクロ対応ドキュメントテンプレート形式に変換します。組織が構造化された出力に対して、強化された文書動作を備えた一貫したテンプレートを必要とする場合に有用です。
+
+Python API を使用すると、この変換を自動化パイプラインに組み込むことができ、TSV ソースからテンプレート対応ファイルを生成し、文書の標準化とプロセス効率の向上に寄与します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ対応テンプレート**  
+  TSV コンテンツから高度な再利用可能な文書テンプレートの作成をサポートします。
+
+* **構造化出力の標準化**  
+  繰り返し発生するビジネスユースケース全体で、均一な文書パターンの維持に役立ちます。
+
+* **テンプレートベースのデータ公開**  
+  構造化データセットが制御された文書生成プロセスに供給できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なテンプレート生成**  
+  自動化により、スケジュールされた TSV エクスポートから DOTM 対応の出力を作成できます。
+
+* **高度な文書ワークフロー**  
+  Python API は、データ変換をマクロ対応テンプレートシステムと統合できます。
+
+* **スケーラブルな変換ジョブ**  
+  大量の TSV 入力を自動化された操作の一環として DOTM ファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

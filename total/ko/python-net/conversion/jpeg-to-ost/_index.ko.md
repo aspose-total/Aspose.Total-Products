@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 JPEG를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 JPEG에서 OST 변환은 이미지 기반 콘텐츠를 오프라인 메일함 저장 워크플로에 적합한 데이터로 변환하는 것을 지원합니다. 이는 시각적 커뮤니케이션 기록을 동기화된 메일함 환경에 통합하여 접근, 연속성 또는 보존이 필요할 때 기업 시나리오에서 관련될 수 있습니다.
+
+자동화는 조직이 이러한 변환을 보다 효율적으로 관리하도록 도와주며, 수동 작업을 줄이고 이미지 기반 커뮤니케이션 자산을 더 큰 메일함 관리 프로세스 내에서 구조화된 방식으로 처리할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오프라인 메일함 준비**
+  오프라인 이메일 저장 워크플로에 포함하기 위해 JPEG 기반 커뮤니케이션 자산을 변환합니다.
+
+* **시각 기록 보존**
+  조직된 보존 및 접근을 위해 메일함 지향 구조로 이미지 콘텐츠를 표현합니다.
+
+* **기업 데이터 처리**
+  이미지 기반 커뮤니케이션이 메일함 저장 관행에 맞춰야 하는 워크플로를 지원합니다.
+
+* **연속성 및 접근 지원**
+  동기화된 또는 분리된 작업 환경에 적합한 형식으로 이미지 기반 기록을 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **기업 아카이브 자동화**
+  Python API는 JPEG 콘텐츠를 메일함 저장 프로세스에 통합하기 위한 구조화된 변환 워크플로를 지원할 수 있습니다.
+
+* **대량 데이터 준비**
+  대규모 이미지 컬렉션을 프로그래밍 방식으로 처리하여 메일함 지향 보존 작업에 활용할 수 있습니다.
+
+* **마이그레이션 지원 파이프라인**
+  자동 변환은 커뮤니케이션 기록의 이동 또는 재구성을 포함하는 프로젝트를 지원할 수 있습니다.
+
+* **운영 기록 동기화**
+  시스템은 시각 자산을 보다 넓은 자동화 메일함 관리 및 보존 워크플로에 통합할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

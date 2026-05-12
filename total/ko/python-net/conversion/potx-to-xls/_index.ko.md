@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 POTX에서 XLS로의 변환은 PowerPoint 템플릿 콘텐츠를 구조화된 데이터 입력 및 분석을 지원하는 스프레드시트 파일로 변환합니다. 이는 프레젠테이션 기반 정보를 운영 또는 보고 요구를 위해 워크시트 형식으로 이동해야 하는 조직에 유용합니다.
+
+자동화 파이프라인에서 POTX에서 XLS로의 변환은 수동 추출 작업을 줄이고 스프레드시트 출력으로의 확장 가능한 변환을 가능하게 합니다. 이는 데이터 중심 워크플로우의 효율성을 향상시키면서 레거시 스프레드시트 호환성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 변환**
+  프레젠테이션 템플릿 콘텐츠를 구조화된 사용을 위한 워크시트 기반 파일로 변환합니다.
+
+* **레거시 스프레드시트 지원**
+  기존 시스템에서 요구하는 오래된 스프레드시트 형식으로 출력물을 제공하는 데 도움을 줍니다.
+
+* **운영 데이터 처리**
+  분석 및 보고 작업에서 프레젠테이션 정보를 재사용하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 레거시 내보내기**
+  오래된 스프레드시트 형식에 의존하는 시스템을 위해 POTX 소스에서 XLS 파일을 생성합니다.
+
+* **배치 스프레드시트 생성**
+  템플릿 파일을 대량으로 구조화된 워크시트로 변환하는 것을 지원합니다.
+
+* **데이터 처리 통합**
+  변환된 스프레드시트 출력을 보고 및 검증 워크플로우에 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

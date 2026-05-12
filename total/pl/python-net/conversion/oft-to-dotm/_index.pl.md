@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OFT do DOTM w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OFT do DOTM przy użyciu interfejsów API Pythona przekształca szablony wiadomości e‑mail Outlook w szablony Word z włączonymi makrami, umożliwiając zaawansowaną automatyzację dokumentów. Jest to przydatne, gdy treść wielokrotnego użytku musi być osadzona w plikach szablonów obsługujących niestandardową logikę i powtarzalne akcje dokumentów.
+
+Ta konwersja wzmacnia strategie automatyzacji, łącząc standaryzowany projekt szablonu z programowalnym zachowaniem. Wspiera efektywne tworzenie dokumentów, kontrolowane przetwarzanie oraz skalowalne operacje oparte na szablonach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie szablonów z włączonymi makrami**  
+  Konwertuj pliki OFT do szablonów DOTM w celu automatycznego generowania dokumentów z osadzonymi akcjami.
+
+* **Powtarzalne przepływy pracy dokumentów biznesowych**  
+  Użyj skonwertowanych szablonów do standaryzacji powtarzających się zadań produkcji treści.
+
+* **Programowalne ponowne wykorzystanie treści**  
+  Przekształć zawartość szablonu e‑mail w ustrukturyzowane szablony wspierające niestandardową automatyzację dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja oparta na szablonach**  
+  Generuj szablony DOTM z plików OFT dla systemów automatycznie tworzących dokumenty.
+
+* **Przetwarzanie dokumentów oparte na regułach**  
+  Zintegruj skonwertowane szablony z przepływami pracy, które wyzwalają skrypty lub akcje wspomagane makrami.
+
+* **Skalowalna standaryzacja treści**  
+  Użyj interfejsów API Pythona, aby konsekwentnie tworzyć szablony z włączonymi makrami w całych działach lub projektach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

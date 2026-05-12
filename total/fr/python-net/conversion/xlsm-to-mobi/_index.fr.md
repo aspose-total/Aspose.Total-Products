@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLSM vers MOBI transforme le contenu de feuilles de calcul avec macros en un format adapté aux eBooks, conçu pour la lecture portable et la distribution numérique. Cela est utile lorsque les informations issues de feuilles de calcul doivent être réutilisées comme matériel de référence lisible, manuels ou guides structurés pour une consommation mobile.
+
+Du point de vue de l'automatisation, cette conversion aide à transformer le contenu opérationnel des feuilles de calcul en formats de lecture légers adaptés aux flux de travail de publication numérique. Les API Python prennent en charge la génération efficace de fichiers MOBI à partir de fichiers XLSM pour une diffusion de contenu évolutive et des cas d'utilisation d'archivage.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Publication de références numériques**
+  Transforme les informations issues de feuilles de calcul en matériel de lecture portable pour un accès plus large.
+
+* **Création de guides et manuels**
+  Prend en charge la conversion du contenu structuré des feuilles de calcul en documents lisibles de longue durée.
+
+* **Distribution de contenu mobile**
+  Facilite la diffusion d'informations dans un format optimisé pour des environnements de lecture compacts et portables.
+
+* **Conditionnement du savoir**
+  Permet de réutiliser le contenu opérationnel ou éducatif des feuilles de calcul sous forme d'actifs de type eBook.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée d'eBooks**
+  Les API Python peuvent convertir les données XLSM en fichiers MOBI pour des flux de travail de publication numérique répétables.
+
+* **Recyclage de contenu en lot**
+  Plusieurs feuilles de calcul peuvent être transformées programmatiquement en formats de lecture portables à grande échelle.
+
+* **Pipelines de distribution de documentation**
+  Les systèmes automatisés peuvent préparer des sorties MOBI pour la diffusion structurée de contenu sur divers appareils.
+
+* **Publication prête pour l'archivage**
+  Les flux de conversion peuvent produire des eBooks cohérents à partir de sources de connaissances basées sur des feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

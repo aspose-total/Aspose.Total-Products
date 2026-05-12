@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a SXC trasforma i modelli di elaborazione testi in file di foglio di calcolo adatti alla gestione di dati strutturati nei flussi di lavoro di OpenOffice più vecchi. Questo è utile quando è ancora necessaria la compatibilità con ambienti di foglio di calcolo legacy.
+
+Con le API Python, i team possono automatizzare la conversione da DOT a SXC per ridurre la riformattazione manuale e mantenere gli scambi di dati compatibili con i sistemi legacy efficienti e ripetibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Compatibilità con fogli di calcolo legacy**
+  Converti i file DOT in SXC per ambienti che dipendono da standard di fogli di calcolo più vecchi.
+
+* **Esportazione di dati strutturati**
+  Sposta il contenuto del documento in un formato a griglia per il tracciamento e l'analisi.
+
+* **Supporto alla transizione di sistema**
+  Collega i modelli di documento moderni con i flussi di lavoro basati su fogli di calcolo più vecchi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di formati legacy**
+  I flussi di lavoro Python possono creare output SXC dai modelli DOT per esigenze ricorrenti.
+
+* **Pipeline di dati retrocompatibili**
+  La conversione supporta i sistemi che richiedono ancora lo scambio di file di foglio di calcolo legacy.
+
+* **Elaborazione di esportazioni legacy in blocco**
+  L'automazione programmatica aiuta a generare in modo coerente molti file SXC dai documenti sorgente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

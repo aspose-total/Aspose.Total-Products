@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM から DOCX への変換は、Python API を使用してマクロ対応プレゼンテーションを、ビジネス文書作成、コラボレーション、構造化コンテンツ管理で広く使用される編集可能なドキュメント形式に変換します。スライドの内容を文書形式で書き直したり、拡張したり、保存したりする必要がある場合に実用的なソリューションです。
+
+この変換により、プレゼンテーション資産をコンテンツ管理、出版、レビューのワークフローに組み込みやすくなるため、オートメーションの準備が向上します。一貫性、編集可能性、相互運用性が重要なスケーラブルなドキュメント変換プロセスをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **編集可能なドキュメント作成**
+  プレゼンテーション資料を、執筆、編集、コラボレーションに適した形式に変換します。
+
+* **レポート用コンテンツの再利用**
+  スライド情報を、社内外で使用できるレポート用ドキュメントに変換します。
+
+* **構造化コンテンツの保存**
+  プレゼンテーションのコンテンツを、多くのシステムと互換性のあるドキュメント形式で保存するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量変換ワークフロー**
+  プレゼンテーションファイルを大規模に DOCX ドキュメントへ変換するプロセスを自動化します。
+
+* **レビューおよび承認パイプライン**
+  スライドの内容を文書レビューシステムに移行し、構造化されたフィードバックと改訂を可能にします。
+
+* **コンテンツ出版の自動化**
+  ポータル、アーカイブ、配信チャネル向けに、プレゼンテーションからドキュメントを生成することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

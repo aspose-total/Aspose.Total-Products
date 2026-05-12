@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para PST suporta a transformação de conteúdo derivado de documentos em fluxos de trabalho de tabelas de armazenamento pessoal usados para organização e migração de dados de caixa de correio. É relevante quando informações de documentos precisam ser incorporadas a operações maiores de armazenamento de e‑mail ou arquivamento.
+
+APIs Python podem auxiliar o processamento relacionado a WordML para PST estruturando o conteúdo para preparação escalável de mensagens e arquivos em ambientes de comunicação empresarial.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preparação de Arquivo de Caixa de Correio**
+  Usa o conteúdo do documento como material fonte para fluxos de trabalho de armazenamento de correio pessoal.
+
+* **Suporte à Migração e Retenção**
+  Ajuda a integrar texto estruturado em sistemas de comunicação orientados a arquivamento.
+
+* **Consolidação de Conteúdo Empresarial**
+  Suporta a embalagem de registros derivados de documentos em processos centrados em caixas de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Preparação de Arquivo**
+  Automatiza a transformação de conteúdo WordML para fluxos de trabalho de armazenamento em larga escala.
+
+* **Consolidação de Dados de Correio**
+  Suporta a integração repetível de comunicações baseadas em documentos em operações de arquivamento.
+
+* **Automação do Processo de Retenção**
+  Ajuda a padronizar a preparação de conteúdo de documento para caixa de correio em diferentes sistemas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

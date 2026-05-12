@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOC naar OST-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document-naar-OST-conversie bereidt documentafgeleide inhoud voor workflows die verband houden met offline mailboxgegevens en gesynchroniseerde mailomgevingen. Het is nuttig in scenario's waarin documentinformatie moet aansluiten bij de opslagstructuren van bedrijfscommunicatie.
+
+Het gebruik van Python-API's voor DOC-naar-OST-gerichte verwerking verbetert de automatiseringsgereedheid, ondersteunt gestandaardiseerde afhandeling en vermindert handmatig werk in mailgerelateerde bedrijfsprocessen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Mailbox-gegevensvoorbereiding**
+  Converteer documentgebaseerde inhoud voor workflows die interactie hebben met offline mailopslag.
+
+* **Ondersteuning van bedrijfscommunicatie**
+  Stem documentuitvoer af op de berichtomgevingen die worden gebruikt in gesynchroniseerde mailsystemen.
+
+* **Integratie van retentie-workflows**
+  Bewaar of verwerk documentafgeleide inhoud binnen mailboxgerichte operaties.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Automatisering van mailopslag**
+  Bereid documentinhoud programmatisch voor voor OST-gerelateerde bedrijfsworkflows.
+
+* **Groot-schalige conversieopdrachten**
+  Automatiseer documentafhandeling waar mailbox-compatibele verwerking vereist is.
+
+* **Compliance- en retentie-pijplijnen**
+  Gebruik gescripte conversiestappen om gecontroleerde berichtgegevensomgevingen te ondersteunen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

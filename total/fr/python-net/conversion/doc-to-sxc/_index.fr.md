@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en SXC transforme le contenu Word en un format de feuille de calcul associé aux anciens flux de travail OpenOffice, ce qui le rend utile pour l’interopérabilité héritée et l’extraction de données structurées. Elle prend en charge les organisations qui maintiennent la compatibilité avec les écosystèmes de feuilles de calcul antérieurs.
+
+En utilisant les API Python, la conversion de DOC en SXC peut être automatisée afin de réduire la saisie manuelle et de soutenir des flux de travail de données héritées répétables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Compatibilité avec les feuilles de calcul héritées**
+  Convertir les tableaux de documents en SXC pour les environnements OpenOffice plus anciens.
+
+* **Préservation des données structurées**
+  Conserver les valeurs basées sur le document dans un format hérité orienté feuille de calcul.
+
+* **Support de migration**
+  Faire le lien entre les documents Word et les systèmes qui dépendent encore des normes historiques de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Automatisation des flux de travail hérités**
+  Générer automatiquement des fichiers SXC à partir de sources DOC là où les anciens outils sont encore utilisés.
+
+* **Pipelines de conversion par lots**
+  Convertir plusieurs documents en fichiers de feuilles de calcul structurés sans manipulation manuelle.
+
+* **Tâches d’interopérabilité système**
+  Connecter programmatiquement les sources de documents modernes aux flux de travail de feuilles de calcul héritées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

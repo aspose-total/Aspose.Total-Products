@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PowerPointからTSVへの変換（Python）は、プレゼンテーションの内容を構造化テキスト処理やスプレッドシートへのインポートに適したタブ区切り形式に変換します。スライドの内容を解析しやすく、システム間で簡単に移動できる軽量な表形式にエクスポートする必要がある場合に便利です。
+
+自動化ワークフローにおいて、TSV変換はクリーンなデータ交換、効率的なパース、分析やコンテンツ処理システムへのスケーラブルな取り込みをサポートします。シンプルさと機械可読性が重要視される場面で特に価値があります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **構造化テキストエクスポート**
+  プレゼンテーションデータをタブ区切りのレコードに変換し、取り扱いを簡素化します。
+
+* **スプレッドシートインポートの準備**
+  スライドから派生したコンテンツをワークシートアプリケーションやデータツールで使用できるようにします。
+
+* **システム間データ交換**
+  構造化されたプレゼンテーションコンテンツをプラットフォーム間でポータブルに転送することをサポートします。
+
+* **パースおよび処理ワークフロー**
+  変換された出力をカスタムスクリプトや自動化ツールに取り込みやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **パイプラインフレンドリーなエクスポート**
+  軽量な構造化入力を必要とするシステム向けにTSV生成を自動化します。
+
+* **バッチデータ変換**
+  複数のプレゼンテーションをスケールでタブ形式テキストファイルに変換することをサポートします。
+
+* **ETL統合**
+  スライドコンテンツが抽出、変換、ロードのワークフローにより簡単に組み込めるようにします。
+
+* **コンテンツ正規化**
+  下流の処理や保存の前にプレゼンテーションデータを標準化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

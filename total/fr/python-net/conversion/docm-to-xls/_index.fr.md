@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to XLS conversion transforms macro-enabled documents into spreadsheet files that support structured data handling, review, and reporting. It is useful when tables and records inside DOCM files need to be moved into familiar spreadsheet workflows for further use.
+
+From an automation perspective, DOCM to XLS conversion supports repeatable document data extraction, legacy spreadsheet compatibility, and scalable reporting pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Réutilisation des données de tableur**
+  Convertit les tableaux de documents en format tableur pour l'analyse et la modification.
+
+* **Compatibilité avec les classeurs anciens**
+  Prend en charge les environnements qui dépendent encore des formats de tableur plus anciens.
+
+* **Reporting opérationnel**
+  Aide à réutiliser les données basées sur les documents pour des tâches récurrentes pilotées par des tableurs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation automatisée de classeur**
+  Produit des fichiers XLS à partir de sources DOCM dans des tâches de traitement routinières.
+
+* **Conversion massive de tableaux**
+  Convertit de grands ensembles de documents en sorties de tableur pour les opérations en aval.
+
+* **Intégration de systèmes anciens**
+  Alimente les flux de travail avec des données structurées qui dépendent des formats de classeur plus anciens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

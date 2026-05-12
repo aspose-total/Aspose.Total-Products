@@ -46,7 +46,53 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi IMAGE ke 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi gambar ke OFT menggunakan API Python memungkinkan mengubah konten berbasis gambar menjadi file templat email yang dapat digunakan kembali dan mendukung pembuatan komunikasi yang konsisten. Ini berguna ketika pesan berulang perlu menyertakan materi visual seperti spanduk, pemberitahuan, grafik bermerek, atau tata letak berbasis gambar yang terstruktur.
+
+Untuk alur kerja otomatis, mengonversi gambar ke OFT mendukung komunikasi berbasis templat, mengurangi pekerjaan pemformatan berulang, dan meningkatkan konsistensi output. Ini memungkinkan proses pembuatan email yang dapat diskalakan di mana konten visual digunakan kembali dalam skenario operasional atau bisnis yang berulang.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Templat Komunikasi yang Dapat Digunakan Kembali**
+  Ubah tata letak berbasis gambar menjadi templat OFT untuk alur kerja pesan berulang.
+
+* **Standarisasi Pemberitahuan Visual**
+  Buat templat email yang konsisten dari pemberitahuan kebijakan, pengumuman, atau grafik promosi.
+
+* **Persiapan Pesan Operasional**
+  Buat templat yang mencakup instruksi berbasis gambar atau materi referensi.
+
+* **Konsistensi Penjangkauan Pelanggan**
+  Gunakan templat email visual untuk mempertahankan komunikasi seragam dalam interaksi berulang.
+
+* **Desain Pengumuman Internal**
+  Ubah format pesan berbasis gambar menjadi templat yang dapat digunakan kembali untuk komunikasi seluruh tim.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Otomatisasi Email Berbasis Templat**
+  Sistem dapat menghasilkan komunikasi berulang dari templat OFT yang dibangun dari konten gambar.
+
+* **Dukungan Alur Kerja Kampanye**
+  Templat kaya gambar dapat disiapkan sekali dan digunakan kembali dalam proses penjangkauan terjadwal.
+
+* **Standarisasi Peringatan Operasional**
+  Format pembaruan umum dapat diotomatisasi menggunakan output OFT yang dapat digunakan kembali yang berasal dari aset visual.
+
+* **Komunikasi Proses Terdokumentasi**
+  Tim dapat mengotomatiskan email instruksional menggunakan templat yang dihasilkan dari konten referensi berbasis gambar.
+
+* **Personalisasi Pesan yang Dapat Diskalakan**
+  Templat OFT yang dibuat dari gambar dapat diisi secara dinamis dengan data dalam alur kerja otomatis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

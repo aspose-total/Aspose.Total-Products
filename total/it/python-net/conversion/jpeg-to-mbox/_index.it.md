@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da JPEG a MBOX usando le API Python supporta la trasformazione del contenuto immagine in formato archivio mailbox per l'archiviazione e la migrazione di messaggi raggruppati. Questo è utile quando i record visivi devono essere conservati in massa all'interno di un formato comunemente usato per la raccolta e il trasporto di email.
+
+L'automazione migliora questo processo consentendo la conversione sistematica della comunicazione basata su immagini in archivi mailbox, il che aiuta a scalare i flussi di lavoro di gestione degli archivi, del trasferimento e dei record storici.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivi mailbox**
+  Converti i file JPEG in collezioni di messaggi compatibili MBOX per una memorizzazione archivistica organizzata.
+
+* **Conservazione di comunicazioni di massa**
+  Raggruppa i record basati su immagini in archivi mailbox per una conservazione e revisione a lungo termine.
+
+* **Prontezza alla migrazione**
+  Prepara i contenuti di comunicazione visiva per il trasferimento in sistemi che supportano flussi di lavoro di importazione MBOX.
+
+* **Gestione dei record storici**
+  Archivia i messaggi derivati da immagini in forma di archivio per scopi di audit, riferimento e continuità operativa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di archivi in batch**
+  Le API Python possono automatizzare la conversione di numerosi file JPEG in archivi di messaggi basati su MBOX.
+
+* **Supporto al flusso di lavoro di conservazione**
+  I sistemi possono continuamente impacchettare i record basati su immagini in archivi mailbox per le esigenze di governance.
+
+* **Automazione del trasferimento cross‑platform**
+  Le pipeline automatizzate possono generare output MBOX per semplificare il trasferimento tra ambienti compatibili con email.
+
+* **Processi di raccolta delle prove**
+  I file visivi possono essere archiviati programmaticamente in strutture mailbox per i flussi di lavoro di revisione e documentazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de PowerPoint en DOCM avec Python permet d'exporter le contenu d'une présentation vers un format de document Word à macros activées. Cela est utile dans les environnements où l'automatisation de documents, les macros intégrées ou les flux de travail avancés basés sur des modèles sont requis après la conversion.
+
+En associant la conversion de présentations à une logique de document programmable, ce format prend en charge des processus métier plus dynamiques et reproductibles. Il est pertinent pour les systèmes fortement automatisés qui s'appuient sur des scripts basés sur Word, l'assemblage de documents ou la modification en aval.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation de documents à macros activées**
+  Convertit le contenu de la présentation en un format compatible avec les fonctionnalités avancées d'automatisation de Word.
+
+* **Livraison de contenu basée sur des modèles**
+  Prend en charge les flux de travail où le contenu converti est inséré dans des modèles de documents pilotés par des macros.
+
+* **Documentation de processus**
+  Facilite le transfert du matériel des diapositives vers des documents nécessitant un formatage scripté ou des actions contrôlées.
+
+* **Rapports opérationnels**
+  Permet des sorties éditables pour les équipes utilisant des documents Word automatisés dans les rapports de routine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines d'assemblage de documents**
+  Automatise la création de fichiers DOCM à partir de présentations pour des processus de publication structurés.
+
+* **Flux de travail de formatage basés sur des règles**
+  Prend en charge les systèmes où les documents convertis déclenchent un formatage ou une validation basés sur des macros.
+
+* **Transformation de contenu d'entreprise**
+  Améliore les pipelines de conversion à grande échelle qui nécessitent des sorties Word éditables et prêtes pour l'automatisation.
+
+* **Extension de flux de travail avec des scripts**
+  Permet au contenu de la présentation converti de participer à des opérations de documents scriptées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

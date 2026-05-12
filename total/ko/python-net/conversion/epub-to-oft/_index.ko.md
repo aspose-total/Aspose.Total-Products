@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 EPUB를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EPUB to OFT 변환은 Python에서 디지털 출판 콘텐츠를 반복 가능한 커뮤니케이션 워크플로를 지원하는 이메일 템플릿 파일로 변환할 수 있게 합니다. 이는 문서 콘텐츠가 알림, 구조화된 메시징, 또는 템플릿 기반 문서 전달을 위한 재사용 가능한 기반으로 활용되어야 할 때 유용합니다.
+
+자동화 관점에서, EPUB to OFT 변환은 Python 시스템이 재사용 가능한 메시지 템플릿을 생성하고, 커뮤니케이션 프로세스의 중복을 줄이며, 문서 중심 환경 전반에 걸쳐 확장 가능한 워크플로 설계를 지원하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **재사용 가능한 메시지 템플릿**  
+  EPUB 콘텐츠를 OFT 파일로 변환하여 구조화된 커뮤니케이션 시나리오에서 반복적으로 사용합니다.
+
+* **템플릿 기반 알림**  
+  출판물에서 파생된 콘텐츠를 자동화 시스템의 표준화된 메시지 템플릿 기반으로 활용합니다.
+
+* **편집 및 승인 초안**  
+  디지털 출판물을 활용해 내부 워크플로 및 검토를 위한 재사용 가능한 메시지 레이아웃을 생성합니다.
+
+* **일관된 커뮤니케이션 디자인**  
+  원본 문서를 템플릿 준비 출력 파일로 변환하여 형식을 일관되게 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 템플릿 생성**  
+  Python 스크립트가 EPUB 콘텐츠에서 OFT 파일을 생성하여 반복적인 커뮤니케이션 워크플로에 활용합니다.
+
+* **동적 콘텐츠 삽입**  
+  템플릿 파일을 프로그래밍 방식으로 생성한 뒤 워크플로에 맞는 데이터를 나중에 삽입할 수 있습니다.
+
+* **표준화된 배치 준비**  
+  자동화 시스템이 최소한의 노력으로 출판물 세트에서 다수의 OFT 템플릿을 준비할 수 있습니다.
+
+* **워크플로 재사용성 향상**  
+  EPUB to OFT 변환은 반복 가능한 커뮤니케이션 자산이 필수적인 확장 가능한 프로세스를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

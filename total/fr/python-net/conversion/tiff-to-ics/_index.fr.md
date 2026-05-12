@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de TIFF en ICS à l’aide des API Python permet de transformer le contenu visuel des documents en sorties de données compatibles avec les calendriers, où le contexte de planification est dérivé des enregistrements basés sur des images. Cela peut être utile pour les avis de rendez‑vous, les numérisations d’événements ou les documents d’horaires qui doivent devenir des entrées de calendrier structurées.
+
+Dans le cadre d’initiatives d’automatisation, la conversion de TIFF en ICS favorise une meilleure intégration de la planification, réduit la saisie manuelle et améliore la coordination entre les systèmes de capture de documents et les flux de travail de calendrier. Elle permet le traitement image‑à‑événement dans des environnements où le timing et les rappels sont opérationnellement importants.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Conversion de documents de rendez‑vous**
+  Convertit les plannings ou avis de rendez‑vous basés sur des TIFF en sorties compatibles avec les calendriers.
+
+* **Structuration des enregistrements d'événements**
+  Aide à transformer les informations visuelles d'événements en artefacts de planification standardisés.
+
+* **Support du flux de travail de rappel**
+  Permet d’utiliser les détails d'événements dérivés d'images dans les systèmes de rappel et de planification.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Traitement des plannings numérisés**
+  Automatise la conversion des plannings TIFF en sorties ICS pour les flux de travail d’importation de calendriers.
+
+* **Automatisation de la prise de réunions**
+  Prend en charge l’extraction du contenu de documents liés aux événements et sa conversion en fichiers de planification utilisables.
+
+* **Pipelines de synchronisation de calendrier**
+  Permet la génération programmatique d’entrées de calendrier à partir de documents opérationnels basés sur des images.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,53 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji IMAGE do OFT w a
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja obrazu do formatu OFT przy użyciu interfejsów API Pythona umożliwia przekształcenie treści opartej na obrazach w wielokrotnego użytku pliki szablonów e‑mail, które wspierają tworzenie spójnych komunikacji. Jest to przydatne, gdy powtarzające się wiadomości muszą zawierać materiały wizualne, takie jak banery, ogłoszenia, grafiki firmowe lub ustrukturyzowane układy oparte na obrazach.
+
+W automatycznych przepływach pracy konwersja obrazów do OFT wspiera komunikację opartą na szablonach, redukuje powtarzalne prace formatowania i poprawia spójność wyników. Umożliwia skalowalne procesy generowania e‑maili, w których treści wizualne są ponownie wykorzystywane w powtarzających się scenariuszach operacyjnych lub biznesowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Wielokrotnego użytku szablony komunikacji**
+  Przekształć układy oparte na obrazach w szablony OFT dla powtarzalnych przepływów wiadomości.
+
+* **Standaryzacja wizualnych powiadomień**
+  Twórz spójne szablony e‑mail z powiadomień polityk, ogłoszeń lub grafik promocyjnych.
+
+* **Przygotowanie wiadomości operacyjnych**
+  Twórz szablony zawierające instrukcje lub materiały referencyjne oparte na obrazach.
+
+* **Spójność kontaktu z klientem**
+  Używaj wizualnych szablonów e‑mail, aby utrzymać jednolitą komunikację w powtarzających się interakcjach.
+
+* **Projektowanie wewnętrznych ogłoszeń**
+  Przekształcaj formaty wiadomości oparte na obrazach w wielokrotnego użytku szablony dla komunikacji w całym zespole.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja e‑mail oparta na szablonach**
+  Systemy mogą generować powtarzalne komunikaty z szablonów OFT utworzonych na podstawie treści obrazowych.
+
+* **Wsparcie przepływu kampanii**
+  Szablony bogate w obrazy mogą być przygotowane raz i ponownie użyte w zaplanowanych procesach kontaktu.
+
+* **Standaryzacja alertów operacyjnych**
+  Powszechne formaty aktualizacji mogą być automatyzowane przy użyciu wielokrotnego użytku wyników OFT pochodzących z zasobów wizualnych.
+
+* **Komunikacja udokumentowanych procesów**
+  Zespoły mogą automatyzować e‑maile instruktażowe, korzystając z szablonów wygenerowanych z referencyjnych treści obrazowych.
+
+* **Skalowalna personalizacja wiadomości**
+  Szablony OFT stworzone z obrazów mogą być dynamicznie wypełniane danymi w automatycznych przepływach pracy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

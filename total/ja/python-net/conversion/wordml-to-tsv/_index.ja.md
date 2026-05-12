@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to TSV 変換は、構造化された文書コンテンツを、シンプルでポータブル、かつデータワークフローで取り込みやすいタブ区切りテキストファイルに変換します。スプレッドシート固有のフォーマットなしで、クリーンな列分割が必要な場合に有用です。
+
+Python API を使用すると、テーブル構造を抽出し、データ処理や交換のための軽量で自動化に適した出力に変換することで、WordML から TSV への変換が効率的になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **区切りデータエクスポート**
+  WordML テーブルを TSV ファイルに変換し、クリーンなテキストベースのデータ交換を実現します。
+
+* **パイプラインフレンドリー出力**
+  解析や検証タスクに適したシンプルな構造化ファイルを生成します。
+
+* **文書テーブル抽出**
+  文書からの表形式コンテンツをプログラムで処理しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチテーブル変換**
+  文書テーブルを自動的に TSV ファイルに変換し、下流のワークフローで使用できるようにします。
+
+* **ETL ワークフローサポート**
+  TSV 出力を取り込み、マッピング、変換パイプラインに供給します。
+
+* **データ同期ジョブ**
+  更新された文書データをテキストベースの構造化ファイルに繰り返しエクスポートできるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

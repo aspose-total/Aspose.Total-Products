@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLT から DOCM への変換は、Excel テンプレートファイルをマクロ対応の Word 文書に変換でき、高度な文書動作や構造化されたビジネスロジックをサポートします。これは、スプレッドシート由来のコンテンツを Word に移行し、マクロ駆動の機能で文書を拡張できるようにしたい場合に有用です。
+
+自動化の観点から、XLT から DOCM への変換は、生成された文書が編集可能なコンテンツとプログラム可能なアクションの両方を必要とするワークフローを支援します。テンプレート駆動のデータソースと動的な Word 出力を結びつけることで、インテリジェントな処理パイプラインに適合する文書作成をスケールさせることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **動的ビジネス文書作成**  
+  高度なインタラクティブ性を必要とする文書向けに、スプレッドシートテンプレートをマクロ対応の Word ファイルに変換します。
+
+* **ワークフロー対応の出力準備**  
+  自動スクリプトや文書アクションが必要な環境向けに、XLT ソースから DOCM ファイルを準備します。
+
+* **構造化コンテンツの移行**  
+  組織化されたスプレッドシートテンプレートデータを、正式な業務利用に適した Word 形式へ移行します。
+
+* **プロセス指向の文書化**  
+  後でガイド付きアクションや自動化ルーチン向けに拡張できる文書形式をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書組み立て**  
+  Python 主導の文書作成システム内で、XLT テンプレートから DOCM ファイルを生成します。
+
+* **ルールベースの出力配信**  
+  変換されたマクロ対応文書を、条件処理やスクリプト動作に依存するワークフローへルーティングします。
+
+* **エンタープライズコンテンツ自動化**  
+  大量のプロセス文書を構築・管理するプラットフォームに XLT から DOCM への変換を統合します。
+
+* **テンプレート近代化パイプライン**  
+  レガシーなスプレッドシートテンプレートを、スケーラブルな自動化向けの柔軟な Word ベース出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

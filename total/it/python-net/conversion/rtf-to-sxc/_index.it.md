@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da RTF a SXC trasforma i documenti di testo formattato in file di foglio di calcolo compatibili con i flussi di lavoro dei vecchi fogli di calcolo open. Questo è utile quando il contenuto del documento deve essere organizzato in forma tabellare per analisi, reportistica o compatibilità con ambienti legacy di OpenOffice.
+
+Nei contesti di automazione, RTF a SXC supporta la conversione strutturata delle informazioni scritte in risorse di foglio di calcolo che possono partecipare a pipeline di elaborazione dati focalizzate su aspetti storici o di compatibilità.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione di fogli di calcolo open legacy**  
+  Converte il contenuto del documento in file tabellari adatti ai vecchi ambienti di fogli di calcolo open.
+
+* **Riorganizzazione strutturata dei dati**  
+  Aiuta a rimodellare le informazioni narrative in righe e colonne per la revisione e il tracciamento.
+
+* **Scambio di dati focalizzato sulla compatibilità**  
+  Supporta i flussi di lavoro che dipendono dal supporto dei file di foglio di calcolo legacy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Output automatizzato di fogli di calcolo legacy**  
+  I sistemi possono convertire le sorgenti RTF in file SXC per flussi di lavoro guidati dalla compatibilità.
+
+* **Processi di strutturazione dati batch**  
+  La conversione programmatica aiuta a standardizzare grandi insiemi di documenti in formati pronti per i fogli di calcolo.
+
+* **Integrazione di sistemi storici**  
+  I flussi di lavoro dinamici possono alimentare ambienti tabulari più vecchi utilizzando il contenuto del documento trasformato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

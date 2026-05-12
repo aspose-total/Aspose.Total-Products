@@ -65,7 +65,41 @@ Es principalmente en dos pasos. En primer lugar, use la API [Aspose.Words for Py
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de WordML a XLT transforma el contenido estructurado de documentos en archivos de plantilla de hoja de cálculo que sirven como puntos de partida reutilizables para libros de trabajo. Esto es útil cuando los diseños de datos impulsados por documentos o los informes recurrentes requieren plantillas de hoja de cálculo estandarizadas.
+
+Las API de Python admiten la conversión de WordML a XLT automatizando la creación de plantillas y permitiendo la generación repetible de hojas de cálculo a partir de documentos fuente estructurados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* **Creación de plantillas de libro de trabajo**  
+  Convierte el contenido de WordML en archivos XLT para estructuras de hoja de cálculo reutilizables.
+
+* **Estandarización de informes recurrentes**  
+  Ayuda a definir diseños de libros de trabajo consistentes basados en patrones de documentos.
+
+* **Consistencia del proceso**  
+  Soporta la autoría repetible de hojas de cálculo a partir de contenido fuente aprobado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* **Flujos de trabajo de generación de plantillas**  
+  Automatiza la creación de XLT a partir de informes, formularios o tablas estructuradas en WordML.
+
+* **Estandarización de la producción de hojas de cálculo**  
+  Apoya a los equipos que crean libros de trabajo recurrentes a partir de plantillas comunes.
+
+* **Automatización de diseños impulsados por documentos**  
+  Convierte el contenido estructurado de documentos en fundamentos reutilizables de hojas de cálculo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

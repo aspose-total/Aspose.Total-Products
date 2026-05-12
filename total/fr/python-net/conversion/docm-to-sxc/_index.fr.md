@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers SXC transforme les documents contenant des macros en fichiers de feuille de calcul compatibles avec les anciens flux de travail de feuilles de calcul ouvertes, permettant de réutiliser le contenu structuré sous forme tabulaire. Elle est utile lorsque des données basées sur des documents doivent être échangées avec des systèmes hérités qui dépendent encore des anciens standards de feuilles de calcul.
+
+Pour l'automatisation, la conversion DOCM vers SXC prend en charge l'extraction de données récurrente, la compatibilité descendante et la conversion évolutive des tableaux de documents en sorties de feuilles de calcul compatibles avec les systèmes hérités.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Compatibilité avec les feuilles de calcul héritées**
+  Convertit le contenu du document en un format de feuille de calcul plus ancien utilisé dans des environnements établis.
+
+* **Réutilisation de tables structurées**
+  Facilite le déplacement des données tabulaires des documents DOCM vers les flux de travail de feuilles de calcul.
+
+* **Échange de données rétrocompatible**
+  Prend en charge les systèmes qui ne sont pas encore entièrement passés aux nouveaux formats de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportations héritées automatisées**
+  Produit des fichiers SXC à partir de sources DOCM pour les exigences des flux de travail plus anciens.
+
+* **Transformation massive de données**
+  Convertit de grands ensembles de tables de documents en sorties prêtes pour les feuilles de calcul de manière efficace.
+
+* **Support de pipeline de compatibilité**
+  Fait le lien entre les sources de documents modernes et les systèmes de traitement de feuilles de calcul hérités.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da RTF a TSV trasforma i documenti di testo formattato in file di dati separati da tabulazioni, facili da importare, ispezionare e processare in sistemi di analisi e integrazione. Questo è utile quando il contenuto del documento deve essere convertito in testo semplice e strutturato con una chiara separazione dei campi.
+
+Per l'automazione, RTF a TSV supporta pipeline leggere di trasformazione dei dati, facilitando lo spostamento del contenuto derivato dai documenti verso script, database e strumenti di elaborazione che favoriscono formati tabulari in testo semplice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Strutturazione Dati Testuali**  
+  Converte il contenuto di testo formattato in record separati da tabulazioni per una più facile analisi e importazione.
+
+* **Esportazione Amichevole per l'Integrazione**  
+  Aiuta a preparare le informazioni del documento per i sistemi che accettano file di dati leggeri basati su testo.
+
+* **Trasformazione Massiva dei Dati**  
+  Supporta la conversione ad alto volume del contenuto RTF in output tabellare strutturato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Pipeline Dati Guidate da Script**  
+  I sistemi possono convertire i file RTF in TSV per attività di analisi e trasformazione a valle.
+
+* **Flussi di Lavoro di Esportazione Ricorrenti**  
+  La conversione programmatica supporta la creazione programmata di output di testo strutturato da flussi di documenti.
+
+* **Scambio Dati Inter‑Sistemi**  
+  I processi dinamici possono trasferire il contenuto dei documenti in strumenti analitici o operativi usando il TSV come formato intermedio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

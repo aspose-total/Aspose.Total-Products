@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX에서 MOBI로의 변환은 스프레드시트 템플릿 콘텐츠를 가벼운 독서 경험과 휴대용 디지털 배포에 적합한 전자책 친화적인 형식으로 변환합니다. 구조화된 템플릿 기반 자료를 지식 공유, 가이드 또는 참고 문서를 위한 읽기 쉽고 압축된 콘텐츠로 재활용해야 할 때 유용합니다.
+
+자동화 중심 시스템에서 XLTX에서 MOBI로의 변환은 구조화된 스프레드시트 템플릿을 프로그래밍 방식으로 생성하고 디지털 배포 채널을 통해 전달할 수 있는 휴대용 읽기 자산으로 전환함으로써 확장 가능한 콘텐츠 출판을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대용 가이드 생성**  
+  구조화된 스프레드시트 템플릿 콘텐츠를 모바일 친화적인 읽기 형식으로 변환합니다.
+
+* **참고 자료 출판**  
+  표 형식 또는 구조화된 지식을 디지털 독서에 최적화된 형식으로 배포하는 데 도움이 됩니다.
+
+* **콘텐츠 재활용 워크플로**  
+  운영 템플릿 콘텐츠를 재사용 가능한 전자책 스타일 리소스로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 전자책 생성**  
+  시스템은 반복적인 디지털 출판 작업을 위해 XLTX 템플릿을 MOBI 파일로 변환할 수 있습니다.
+
+* **지식 배포 파이프라인**  
+  이 주제는 가벼운 독자 전달을 위한 구조화된 콘텐츠의 자동 패키징을 지원합니다.
+
+* **대량 출판 작업**  
+  프로그래밍 방식 변환을 통해 대량의 스프레드시트 기반 콘텐츠를 휴대용 문서로 출판할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers XLSB dans les API Python convertit les modèles de texte OpenDocument en fichiers de classeur binaire optimisés pour un stockage efficace et une manipulation dans les scénarios de classeurs volumineux. Cela est utile lorsque les données converties doivent rester prêtes à être utilisées dans une feuille de calcul tout en bénéficiant d’une représentation de fichier compacte.
+
+La conversion prend en charge l’automatisation en permettant la génération évolutive de classeurs pour des processus lourds en données, contribuant à améliorer les performances et à réduire la surcharge de stockage dans les flux de travail d’exportation répétés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Sortie de feuille de calcul compacte**  
+  Produit des fichiers de classeur binaires pour un stockage et une manipulation efficaces.
+
+* **Prise en charge des flux de travail de données volumineuses**  
+  Convient aux scénarios où les feuilles de calcul générées peuvent augmenter en taille.
+
+* **Livraison de contenu structuré**  
+  Convertit le contenu du modèle en actifs de classeur performants.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération de classeurs à haut volume**  
+  Automatise l’exportation XLSB à partir de sources OTT à grande échelle.
+
+* **Rapports économes en stockage**  
+  Crée des sorties de feuilles de calcul compactes pour des processus récurrents.
+
+* **Pipelines de données orientés performance**  
+  Prend en charge une manipulation plus rapide dans les flux de travail de feuilles de calcul automatisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

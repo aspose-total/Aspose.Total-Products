@@ -46,7 +46,47 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji ODT do PST w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja ODT do PST przekształca zawartość dokumentu w format przechowywania oparty na skrzynce pocztowej, używany w scenariuszach komunikacji zbiorczej i archiwizacji. Jest to przydatne, gdy tekst źródłowy musi zostać ponownie wykorzystany w kontenerach związanych z wiadomościami w celu migracji, przechowywania lub zarządzania rekordami.
+
+Dzięki interfejsom API Pythona, konwersja ODT do PST może być zintegrowana z automatycznymi przepływami pracy archiwizacji i pakowania treści. Wspiera powtarzalne przygotowywanie zasobów pochodzących z dokumentów dla repozytoriów skoncentrowanych na komunikacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Przygotowanie kontenera archiwalnego**  
+  Konwertuje zawartość dokumentu do użycia w przepływach pracy archiwizacji w stylu skrzynki pocztowej.
+
+* **Wsparcie migracji treści**  
+  Ułatwia przenoszenie materiałów pochodzących z dokumentów do środowisk przechowywania ukierunkowanych na wiadomości.
+
+* **Konsolidacja rekordów**  
+  Wspiera łączenie skonwertowanej zawartości w strukturalne kontenery archiwalne.
+
+* **Umożliwienie przepływu pracy retencji**  
+  Przygotowuje wyniki odpowiednie do procesów długoterminowej konserwacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne pakowanie archiwum**  
+  Zadania Pythona mogą konwertować pliki ODT na wyniki ukierunkowane na PST w przepływach pracy przechowywania.
+
+* **Masowa konwersja dla retencji**  
+  Duże biblioteki dokumentów mogą być przetwarzane automatycznie w celu przygotowania archiwalnego.
+
+* **Integracja potoku migracji**  
+  Skonwertowane wyniki mogą być generowane jako część szerszych przejść systemów komunikacyjnych.
+
+* **Programowe zarządzanie rekordami**  
+  Zawartość pochodząca z dokumentów może przechodzić przez powtarzalne procesy archiwizacji w dużej skali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

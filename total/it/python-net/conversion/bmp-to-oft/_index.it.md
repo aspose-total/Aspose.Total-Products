@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da BMP a OFT consente di incorporare immagini bitmap nei file di template email utilizzando il formato OFT. Questi template sono spesso usati per standardizzare i processi di comunicazione via email.
+
+I sistemi di automazione traggono vantaggio dalla conversione da BMP a OFT creando template di messaggi riutilizzabili che includono contenuti visivi. Questo aiuta a semplificare i flussi di lavoro di comunicazione e a mantenere la coerenza nei sistemi di messaggistica automatizzata.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli di email**  
+  Le immagini BMP possono essere incorporate nei template email OFT riutilizzabili.
+
+* **Flussi di comunicazione standardizzati**  
+  Le organizzazioni possono progettare template visivi per la messaggistica automatizzata.
+
+* **Layout di messaggi riutilizzabili**  
+  I sistemi possono preparare template contenenti elementi immagine per un uso ripetuto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di template**  
+  Gli script generano template OFT da immagini BMP per i sistemi di messaggistica.
+
+* **Template di messaggistica basati su workflow**  
+  Le applicazioni creano template email dinamici con elementi visivi incorporati.
+
+* **Sistemi di distribuzione dei template**  
+  Le pipeline automatizzate generano e distribuiscono template email standardizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

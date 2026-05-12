@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de documento para PPS transforma o conteúdo do Word em arquivos de apresentação projetados para reprodução e entrega de apresentações. É útil quando as informações do documento precisam ser apresentadas diretamente em um formato pronto para visualização, em vez de um arquivo de trabalho editável.
+
+A automação da API Python para conversão de DOC para PPS melhora a velocidade de publicação, suporta fluxos de trabalho de apresentação repetíveis e reduz o esforço manual de preparação de slides.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Saída de Apresentação Pronta para Visualização**
+  Converta documentos em arquivos de apresentação destinados ao uso direto em apresentações.
+
+* **Preparação de Entrega de Reunião**
+  Prepare conteúdo derivado de documentos para cenários simples de reprodução de apresentações.
+
+* **Empacotamento de Conteúdo**
+  Distribua informações em um formato de apresentação que seja fácil de abrir e exibir.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Publicação de Slides**
+  Produza automaticamente arquivos PPS a partir de relatórios ou resumos em DOC.
+
+* **Pipelines de Entrega de Apresentação**
+  Converta o conteúdo de documentos aprovados em saídas de slides orientadas para reprodução.
+
+* **Padronização de Saída em Lote**
+  Crie programaticamente arquivos de apresentação consistentes a partir de grandes conjuntos de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

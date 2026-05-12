@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OST en DOTM transforme les données de boîte aux lettres en format de modèle macro‑activé, combinant une structure réutilisable avec un comportement de document prêt pour l’automatisation. Cela est précieux pour les organisations qui ont besoin de contenu dérivé d’e‑mail dans des modèles standardisés qui prennent également en charge les actions de document automatisées.
+
+Les API Python rendent la conversion OST en DOTM pratique pour les opérations à grande échelle en permettant une production cohérente et scriptable de modèles macro‑activés à partir des archives de boîtes aux lettres. Cela améliore l’efficacité de l’automatisation des documents, de l’orchestration des flux de travail métier et de la génération de contenu contrôlé.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Génération de modèles macro‑activés**  
+  Convertit les données de boîte aux lettres en fichiers DOTM pour des modèles réutilisables avec prise en charge d’automatisation intégrée.
+
+* **Cadres de documents automatisés**  
+  Aide les équipes à créer des processus pilotés par des modèles autour du contenu d’e‑mail archivé.
+
+* **Documents de flux de travail structurés**  
+  Prend en charge la création de sorties répétables où la logique et la mise en page du document doivent être préservées.
+
+* **Standardisation opérationnelle**  
+  Permet une gestion cohérente du contenu dérivé de boîtes aux lettres dans les environnements de documents automatisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Pipelines d’automatisation de modèles**  
+  Des scripts Python créent des modèles DOTM à partir du contenu OST pour des flux de travail documentaires évolutifs.
+
+* **Traitement de contenu piloté par macro**  
+  Les systèmes automatisés remplissent et gèrent les fichiers de modèle générés à partir des données de boîte aux lettres.
+
+* **Flux de documents d’entreprise répétables**  
+  La conversion programmatique améliore la cohérence des opérations métier basées sur des modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

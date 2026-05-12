@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to SXC conversion transforms Word template content into a legacy spreadsheet format used in older open office environments. It is relevant when structured document data must be exported for compatibility with earlier spreadsheet ecosystems.
+
+This conversion supports automation by enabling Python APIs to prepare document-derived spreadsheet output for archival, interoperability, and system compatibility workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Kompatybilność ze starszymi arkuszami kalkulacyjnymi**
+  Eksportuj zawartość dokumentu do formatu dopasowanego do starszych narzędzi arkuszy kalkulacyjnych.
+
+* **Ponowne wykorzystanie danych strukturalnych**
+  Przenieś informacje szablonu do tabelarycznych przepływów pracy, w których istotne jest wsparcie starszych wersji.
+
+* **Integracja z systemami historycznymi**
+  Wspieraj wymianę danych z środowiskami wciąż zależnymi od starszych otwartych formatów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane eksporty starszych formatów**
+  Generuj pliki SXC z szablonów DOTX w procesach skoncentrowanych na kompatybilności.
+
+* **Potoki migracji danych**
+  Użyj przekonwertowanego wyjścia, aby połączyć zawartość dokumentu ze starszymi systemami arkuszy kalkulacyjnych.
+
+* **Obsługa formatu archiwalnego**
+  Zachowaj dane strukturalne z szablonów w zasobach arkuszy kalkulacyjnych kompatybilnych ze starszymi wersjami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to XLTX conversion converts Word content into modern spreadsheet template files for reusable workbook creation and standardized data collection. It is useful when document structures need to become consistent spreadsheet blueprints.
+
+Using Python APIs for DOC to XLTX conversion supports efficient template generation, improves consistency, and helps scale spreadsheet-centric business processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **モダンテンプレート作成**
+  文書のレイアウトや表を再利用可能なスプレッドシートテンプレートに変換します。
+
+* **一貫したデータ収集**
+  XLTX の出力を使用して、チームやワークフロー全体でワークブックの構造を標準化します。
+
+* **文書の再利用**
+  既存の DOC コンテンツの価値を、再利用可能なスプレッドシート資産に変換することで拡張します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量テンプレート生成**
+  DOC 文書から XLTX ファイルを自動的に生成し、テンプレートライブラリを構築します。
+
+* **標準化されたスプレッドシートパイプライン**
+  構造化された文書コンテンツを繰り返し使用できるワークブックテンプレートに変換します。
+
+* **スケーラブルなプロセス自動化**
+  テンプレートベースの変換を通じて、繰り返し行われるスプレッドシートワークフローをプログラム的にサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

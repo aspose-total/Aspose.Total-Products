@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した ICS から DOC への変換により、カレンダーイベントデータを構造化された Word 文書に変換し、文書化やレポート作成に利用できます。この変換により、スケジュールやイベントの詳細を、プロフェッショナルなコミュニケーションや記録保持に適した読みやすい形式で提示できます。
+
+自動化された Python ワークフローを通じて、ICS ファイルを手動での書式設定なしに解析し、DOC 文書に変換できます。これにより、膨大なカレンダー データを管理する組織向けに、スケーラブルな文書生成がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **会議文書化**  
+  カレンダー イベントをフォーマットされた文書に変換し、会議の要約や記録として利用します。
+
+* **スケジュール レポート**  
+  イベントのタイムラインや計画スケジュールを含む読みやすい Word 文書を作成します。
+
+* **管理アーカイブ**  
+  イベント データを文書形式で保存し、長期参照やコンプライアンスに活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート生成**  
+  自動化されたレポート パイプライン内で、ICS カレンダーから DOC ファイルを生成します。
+
+* **イベント データ処理**  
+  スケジューリング データを文書に変換し、エンタープライズ システムとの統合に利用します。
+
+* **大量カレンダー変換**  
+  大量の ICS ファイルをプログラムで Word 文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

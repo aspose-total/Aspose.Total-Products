@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から MSG への変換は、OpenDocument テキストテンプレートをデスクトップメールエコシステムでの保存と交換に使用されるメッセージファイルに変換します。これは、構造化された文書コンテンツを単なる文書ではなく、再利用可能なメールアーティファクトにする必要がある場合に有用です。
+
+この変換は、チームがテンプレートからプログラム的にメッセージファイルを生成し、レビューやアーカイブ、または大規模なコミュニケーションワークフローへの統合を行うことで、自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **メッセージファイル作成**  
+  文書テンプレートを構造化されたメールメッセージファイルに変換します。
+
+* **コミュニケーションワークフローのサポート**  
+  メール指向の環境で文書コンテンツの再利用を可能にします。
+
+* **ポータブルメッセージストレージ**  
+  簡単に保存および転送できるメッセージ出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量メッセージ生成**  
+  標準化された OTT テンプレートから多数の MSG ファイルを生成します。
+
+* **承認ベースのメールワークフロー**  
+  配信またはアーカイブ前にレビュー可能なメッセージファイルを作成します。
+
+* **システム統合**  
+  文書生成パイプラインとメッセージ処理プロセスを接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

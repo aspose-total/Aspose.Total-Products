@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 ICS를 DOT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS to DOT 변환을 Python API로 수행하면 캘린더 데이터를 Word 템플릿 파일로 변환할 수 있습니다. 이 접근 방식은 일정 정보를 구조화된 보고를 위한 재사용 가능한 문서 템플릿에 통합할 수 있게 합니다.
+
+자동화된 Python 워크플로우를 통해 ICS 파일을 여러 문서 생성 프로세스에 재사용할 수 있는 템플릿 형식으로 변환할 수 있어 일관성과 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **재사용 가능한 일정 템플릿**  
+  캘린더 데이터를 일관된 보고를 위한 문서 템플릿으로 변환합니다.
+
+* **템플릿 기반 문서화**  
+  이벤트 구조를 재사용 가능한 Word 템플릿 형식에 삽입합니다.
+
+* **구조화된 워크플로우 설계**  
+  표준화된 문서 작성을 지원하는 템플릿을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **템플릿 생성 파이프라인**  
+  ICS 파일에서 DOT 템플릿을 자동으로 생성합니다.
+
+* **문서 자동화 시스템**  
+  자동 문서 생성에 캘린더 템플릿을 사용합니다.
+
+* **확장 가능한 보고 인프라**  
+  대량의 캘린더 데이터를 재사용 가능한 템플릿으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

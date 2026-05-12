@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から PPS への変換は、文書コンテンツを直接表示用のプレゼンテーションスライドショー形式に変換します。これは、執筆された資料を編集ではなく閲覧に最適化された形式に迅速に再利用する必要がある場合に便利です。
+
+Python API は、ODT から PPS への変換を自動化されたプレゼンテーション配信ワークフローで実現し、組織がソース文書から表示準備が整った出力を作成できるよう支援します。これにより、より迅速なコミュニケーションと標準化されたスライドの公開が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **表示準備済みスライド作成**  
+  執筆されたコンテンツからスライドショー指向の出力を生成します。
+
+* **プレゼンテーション配信サポート**  
+  レポートを直接閲覧用の形式に変換するのに役立ちます。
+
+* **会議コンテンツの準備**  
+  文書を共有可能なスライドショーに迅速に変換できます。
+
+* **コミュニケーション効率**  
+  プレゼンテーション用に執筆資料を再利用するための手間を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー公開**  
+  Python ワークフローは ODT ファイルを配布用の PPS 出力に変換できます。
+
+* **定期ブリーフィングの準備**  
+  スケジュールされたレポートは自動的に表示準備が整ったプレゼンテーションに変わります。
+
+* **バッチ変換パイプライン**  
+  複数の文書を大規模にスライドショー形式へ処理できます。
+
+* **レビューと配信の自動化**  
+  生成されたスライドショーは共有またはプレゼンテーションシステムに直接ルーティングできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers PST transforme les documents de traitement de texte en fichiers de stockage personnel utilisés pour gérer des collections de messages électroniques, de contacts et de données de boîte aux lettres associées. Ce processus prend en charge l'intégration de contenu dérivé de documents dans des flux de travail d'archivage et de migration orientés boîte aux lettres.
+
+En utilisant les API Python, la conversion DOCX‑to‑PST peut être automatisée pour les archives de communication d'entreprise, les systèmes de conformité et les processus de migration de contenu à grande échelle. Elle permet d'emballer les informations structurées des documents pour les environnements de stockage de données de messagerie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation d'archive de messagerie**  
+  Convertit le contenu des documents en structures de stockage utilisées pour les collections de données de messagerie.
+
+* **Flux de travail de rétention d'entreprise**  
+  Prend en charge le stockage à long terme du contenu de communication dérivé de documents.
+
+* **Support de migration de boîte aux lettres**  
+  Aide à déplacer le contenu vers des formats alignés avec les systèmes de stockage de messages personnels.
+
+* **Enregistrements de messagerie basés sur les documents**  
+  Permet d'incorporer le contenu écrit dans les collections de données de messagerie archivées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de PST**  
+  Les systèmes peuvent convertir le contenu DOCX en sorties de stockage de messagerie pour les flux de travail d'archivage.
+
+* **Traitement par lots des archives de communication**  
+  Les scripts Python peuvent traiter plusieurs documents dans des pipelines de stockage orientés PST.
+
+* **Automatisation de la conformité et de la rétention**  
+  Les informations des documents peuvent être transformées en fichiers de stockage personnel pour des systèmes d'archivage contrôlés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

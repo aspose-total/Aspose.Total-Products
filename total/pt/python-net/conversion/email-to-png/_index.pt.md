@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para PNG em Python converte o conteúdo da mensagem em imagens raster de alta qualidade, adequadas para visualizações, suporte à transparência e arquivamento visual. É útil quando os layouts de e‑mail precisam ser preservados claramente em um formato de imagem amplamente suportado.
+
+Essa conversão melhora a automação ao permitir a geração escalável de visualizações de e‑mail para interfaces web, sistemas de registros e fluxos de trabalho de relatórios, sem exigir formatos de documento editáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Visualizações de Mensagens de Alta Qualidade**
+  Converta e‑mails em arquivos PNG para exibição nítida em portais e painéis.
+
+* **Registros de Arquivamento Visual**
+  Preserve a aparência da mensagem como arquivos de imagem para referência rápida.
+
+* **Anexos de Fluxo de Trabalho**
+  Use as saídas PNG em sistemas de suporte, auditorias ou pipelines de revisão.
+
+* **Renderização Amigável para Web**
+  Gere visualizações de e‑mail para aplicações baseadas em navegador e sistemas de conteúdo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Serviços de Geração de Visualizações**
+  Crie automaticamente renderizações PNG a partir de e‑mails recebidos ou armazenados.
+
+* **Pipelines de Documentação Operacional**
+  Anexe imagens de mensagens a tickets, relatórios e logs automatizados.
+
+* **Automação de Distribuição Web**
+  Publique visualizações de e‑mail em sistemas de gerenciamento de conteúdo ou monitoramento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から VCF への変換は、Word 文書に含まれる連絡先情報を vCard ファイルに変換し、共有や連絡先管理システムへのインポートを容易にします。文書に保存されたディレクトリ、アドレスリスト、またはプロフィール情報を構造化された連絡先レコードに変換する必要がある場合に有用です。
+
+自動化ワークフローにおいて、この変換は連絡先データの確実な抽出とパッケージ化を可能にし、ディレクトリの同期、オンボーディング手順、そして効率的なコミュニケーション管理を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **連絡先レコード作成**
+  文書から連絡先情報をインポート可能な vCard ファイルに変換します。
+
+* **ディレクトリの近代化**
+  静的な Word ベースのリストを構造化されたデジタル連絡先資産に変換するのに役立ちます。
+
+* **情報共有**
+  標準化された連絡先レコードをシステム間で配布しやすくします。
+
+* **CRM および連絡先ツールの準備**
+  文書に保持された連絡先データを運用プラットフォームへ移行することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量連絡先抽出**
+  Word ベースのディレクトリを自動的に VCF ファイルに変換し、インポートワークフローに利用します。
+
+* **オンボーディングおよび配布パイプライン**
+  承認された文書から連絡先レコードを生成し、内部または外部で共有します。
+
+* **システム同期サポート**
+  VCF 出力を使用して、連絡先関連システムを文書ソースと同期させます。
+
+* **構造化データの再利用**
+  変換された連絡先ファイルを、より広範なコミュニケーション自動化プロセスに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

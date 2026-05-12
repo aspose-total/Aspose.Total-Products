@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XLAM から DOTM への変換は、Excel アドインのコンテンツを、再利用可能な構造と文書自動化機能を組み合わせたマクロ対応 Word テンプレートに変換します。これは、組織が標準化とスクリプト化された操作の両方をサポートするテンプレートベースの Word 出力を必要とする場合に有用です。
+
+最新の自動化ワークフローにおいて、XLAM から DOTM への変換は、スプレッドシート主導のコンテンツとマクロ対応ドキュメントテンプレートを橋渡しし、インタラクティブまたはプロセス認識型文書のスケーラブルな生成を可能にします。複雑な文書手順が存在する環境で、効率的なテンプレートの再利用を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**  
+  XLAM リソースを DOTM テンプレートに変換し、自動化された動作を持つ再利用可能な文書を作成します。
+
+* **プロセス指向ドキュメンテーション**  
+  構造化されたコンテンツと組み込み自動化を必要とするワークフローで使用されるテンプレートファイルをサポートします。
+
+* **制御された文書作成**  
+  マクロ駆動の Word 操作との互換性を保ちつつ、文書の標準化を支援します。
+
+* **再利用可能な業務フォーム**  
+  繰り返し使用されるフォーム、チェックリスト、または内部プロセス文書のための動的テンプレート作成を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート展開**  
+  Python API は、企業全体で使用できるように XLAM ソースから DOTM テンプレートを生成できます。
+
+* **ワークフロー統合文書作成**  
+  生成されたテンプレートは、検証、レビュー、または書式自動化などのマクロ支援プロセスに供給できます。
+
+* **大量フォーム生成**  
+  変換パイプラインは、繰り返し行われる業務タスクのために再利用可能なマクロ対応テンプレートを生成できます。
+
+* **動的コンテンツからテンプレートへのマッピング**  
+  スプレッドシートベースのコンテンツは、プログラムで構造化された Word テンプレートに変換され、自動化をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

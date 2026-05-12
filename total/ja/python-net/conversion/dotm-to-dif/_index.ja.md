@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to DIF 変換は、マクロ対応の Word テンプレートをデータ交換フォーマット (DIF) に変換し、文書由来の表形式コンテンツをレガシーなスプレッドシートや財務システムと容易にやり取りできるようにします。これは、古いデータツールや特化したインポートワークフローとの互換性が必要な場合に有用です。
+
+DOTM から DIF への変換に Python API を使用すると、文書テンプレートから構造化された交換ファイルへの繰り返し可能な変換を実現し、効率が向上します。アーカイブシステム、レガシー分析、または制御されたデータ転送が DIF 出力に依存するようなスケーラブルな自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レガシーデータ交換**
+  DOTM コンテンツを DIF に変換し、古いスプレッドシートソフトウェアやインポートユーティリティとの互換性を確保します。
+
+* **構造化コンテンツの移行**
+  文書ベースのテーブルや繰り返しフィールドを標準化された交換フォーマットに移行し、再利用可能にします。
+
+* **コンプライアンス指向のエクスポート**
+  古いが信頼できる交換標準が求められる環境で、テンプレートから一貫したデータ出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書からレガシーへのワークフロー自動化**
+  自動変換により、DOTM テンプレートを手動で再フォーマットすることなく、古いスプレッドシートシステムに供給できます。
+
+* **スケジュールされたデータ変換**
+  このトピックは、受信したテンプレート文書を DIF に変換し、制御された処理を行う定期ジョブをサポートします。
+
+* **アーカイブ互換処理**
+  プログラムによる変換は、レガシーリポジトリや長期ワークフローに適した形式で構造化コンテンツを保持するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

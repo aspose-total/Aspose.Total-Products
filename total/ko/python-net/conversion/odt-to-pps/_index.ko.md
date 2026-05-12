@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 PPS 변환은 문서 내용을 직접 표시용 프레젠테이션 슬라이드쇼 형식으로 변환합니다. 이는 작성된 자료를 편집보다 보기 최적화된 형식으로 신속하게 재활용해야 할 때 유용합니다.
+
+Python API는 자동화된 프레젠테이션 전달 워크플로우에서 ODT를 PPS로 변환할 수 있게 하여, 조직이 원본 문서에서 바로 표시 가능한 출력물을 준비하도록 돕습니다. 이는 더 빠른 커뮤니케이션과 표준화된 슬라이드 게시를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **표시 준비 슬라이드 생성**  
+  작성된 콘텐츠에서 슬라이드쇼 지향 출력물을 생성합니다.
+
+* **프레젠테이션 전달 지원**  
+  보고서를 직접 보기용 형식으로 변환하는 데 도움을 줍니다.
+
+* **회의 콘텐츠 준비**  
+  문서를 공유 가능한 슬라이드쇼로 신속하게 변환할 수 있게 합니다.
+
+* **커뮤니케이션 효율성**  
+  프레젠테이션을 위해 작성된 자료를 재활용하는 데 필요한 노력을 줄여줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드쇼 게시**  
+  Python 워크플로우는 ODT 파일을 배포용 PPS 출력물로 변환할 수 있습니다.
+
+* **정기 브리핑 준비**  
+  예정된 보고서는 자동으로 표시 준비된 프레젠테이션이 될 수 있습니다.
+
+* **배치 변환 파이프라인**  
+  다수의 문서를 대규모로 슬라이드쇼 형식으로 처리할 수 있습니다.
+
+* **검토 및 전달 자동화**  
+  생성된 슬라이드쇼는 공유 또는 프레젠테이션 시스템으로 직접 라우팅될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

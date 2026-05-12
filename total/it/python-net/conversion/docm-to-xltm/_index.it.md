@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a XLTM converte documenti abilitati alle macro in modelli di foglio di calcolo abilitati alle macro, combinando una struttura di cartella di lavoro riutilizzabile con un comportamento automatizzato avanzato. Questo è prezioso per le organizzazioni che richiedono sia coerenza sia logica di foglio di calcolo incorporata nei loro modelli.
+
+Per l'automazione e la scalabilità, la conversione da DOCM a XLTM supporta la creazione ripetibile di cartelle di lavoro guidate da modelli, preservando le capacità dinamiche necessarie per flussi di lavoro complessi su fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli Abilitati alle Macro**
+  Produce modelli di foglio di calcolo riutilizzabili che includono comportamenti pronti per l'automazione.
+
+* **Flussi di Lavoro Riutilizzabili Avanzati**
+  Supporta la creazione ripetuta di cartelle di lavoro con logica integrata o azioni scriptate.
+
+* **Standardizzazione con Flessibilità**
+  Aiuta a mantenere modelli coerenti senza perdere le funzionalità avanzate dei fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Supporto alla Pipeline di Modelli Automatizzati**
+  Converte file DOCM in output XLTM per la generazione ricorrente di cartelle di lavoro.
+
+* **Riutilizzo della Logica Incorporata**
+  Consente ai flussi di lavoro a valle di utilizzare modelli coerenti con comportamenti avanzati.
+
+* **Fornitura Scalabile di Fogli di Calcolo**
+  Supporta la distribuzione su larga scala di modelli abilitati alle macro attraverso le operazioni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

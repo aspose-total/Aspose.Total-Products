@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODS para MOBI transforma arquivos de planilha em um formato otimizado para dispositivos de leitura digital. Isso permite que informações estruturadas de planilhas sejam distribuídas como documentos legíveis adequados para visualização portátil.
+
+APIs Python permitem a transformação automatizada do conteúdo de planilhas em formatos prontos para e‑books. Isso suporta fluxos de trabalho de publicação escaláveis, geração automatizada de documentos e sistemas de distribuição de conteúdo digital.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Publicação de Dados para Leitura Digital**  
+  Converta informações baseadas em planilhas em documentos digitais portáteis.
+
+* **Distribuição de Conteúdo Estruturado**  
+  Transforme conjuntos de dados de planilhas em formatos legíveis para consumo digital.
+
+* **Publicação de Relatórios**  
+  Converta planilhas analíticas em documentos digitais formatados.
+
+* **Reaproveitamento de Conteúdo**  
+  Adapte o conteúdo de planilhas para documentação no estilo de e‑book.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Publicação Automatizados**  
+  Fluxos de trabalho Python convertem planilhas em formatos de leitura digital automaticamente.
+
+* **Geração em Massa de Documentos Digitais**  
+  Sistemas processam múltiplas planilhas em documentos de leitura portáteis.
+
+* **Publicação Dinâmica de Conteúdo**  
+  Fluxos de trabalho programáticos geram documentos amigáveis ao leitor a partir de entradas de planilhas.
+
+* **Sistemas de Distribuição de Conteúdo Digital**  
+  Pipelines de conversão suportam infraestruturas de publicação automatizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

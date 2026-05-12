@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TIFF a PST tramite le API Python consente alle organizzazioni di convertire documenti basati su immagini in formati di archivio di cassette postali portatili, utilizzati per l'archiviazione, il trasferimento e la gestione della comunicazione a lungo termine. Questo è particolarmente utile per preservare i record derivati da TIFF all'interno di contenitori di archivio strutturati che possono scalare nei flussi di lavoro aziendali.
+
+Nei sistemi di automazione, la conversione da TIFF a PST migliora la coerenza dell'archiviazione, riduce il lavoro manuale di consolidamento e supporta il trasferimento affidabile dei record visivi in archivi di dati email trasportabili. È una soluzione ideale per scenari di migrazione, conformità e conservazione storica dei record.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivio portatile**
+  Converte il contenuto TIFF in archivi compatibili PST per l'archiviazione in cassette postali trasportabili.
+
+* **Conservazione a lungo termine dei record**
+  Aiuta a preservare le risorse di comunicazione derivanti da immagini in contenitori di archivio strutturati.
+
+* **Supporto al flusso di lavoro di migrazione**
+  Consente di preparare i record dei documenti per il trasferimento in ambienti email basati su archivio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di archivi su larga scala**
+  Automatizza la conversione di lotti TIFF in output PST per i flussi di lavoro di conservazione aziendale.
+
+* **Pipeline di conservazione per la conformità**
+  Supporta l'archiviazione strutturata di documenti scansionati in formati di cassette postali portatili.
+
+* **Elaborazione di migrazione e backup**
+  Consente l'impacchettamento programmatico dei record derivati da TIFF per i flussi di lavoro di backup e di transizione del sistema.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

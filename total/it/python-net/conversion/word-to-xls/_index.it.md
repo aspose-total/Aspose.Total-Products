@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da Word a XLS tramite le API Python consente la trasformazione del contenuto di elaborazione testi in file di foglio di calcolo classici per l'uso di dati strutturati in ambienti di fogli di calcolo legacy. Questo è prezioso quando le informazioni dei documenti devono essere organizzate in fogli di lavoro per analisi, reportistica o monitoraggio operativo.
+
+Da una prospettiva di automazione, questa conversione supporta flussi di lavoro incentrati sulla compatibilità trasformando il contenuto di origine documentale in risorse di foglio di calcolo che rimangono utilizzabili nei sistemi più vecchi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione Foglio di Calcolo Legacy**
+  Converte il contenuto Word in XLS per flussi di lavoro tradizionali basati su fogli di lavoro.
+
+* **Strutturazione Dati Operativi**
+  Riorganizza le informazioni dei documenti in fogli per una più facile tracciabilità e analisi.
+
+* **Preservazione della Compatibilità**
+  Supporta ambienti in cui i formati di foglio di calcolo classici sono ancora richiesti.
+
+* **Supporto al Flusso di Lavoro di Reporting**
+  Rende più semplice la gestione dei dati derivati dai documenti negli strumenti di foglio di calcolo consolidati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione Batch di XLS**
+  Converte automaticamente i file Word in fogli di calcolo classici per operazioni continue.
+
+* **Pipeline di Integrazione Legacy**
+  Alimenta i dati dei fogli di lavoro derivati dai documenti nei sistemi aziendali più vecchi.
+
+* **Flussi di Lavoro di Conversione d'Archivio**
+  Preserva gli output strutturati in forma di foglio di calcolo per successiva estrazione e revisione.
+
+* **Automazione Documento‑a‑Foglio**
+  Collega i processi di estrazione dei documenti con le routine di reporting basate su fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -114,7 +154,7 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

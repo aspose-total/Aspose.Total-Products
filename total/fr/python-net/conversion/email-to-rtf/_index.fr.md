@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e‑mails en RTF avec Python transforme le contenu des messages en documents texte enrichi qui équilibrent éditabilité et large compatibilité. Elle est utile lorsque les organisations ont besoin d'un contenu d'e‑mail formaté dans un format de document plus léger qui fonctionne avec de nombreux outils d'édition.
+
+Cette conversion améliore l'automatisation en créant des sorties structurées et réutilisables qui peuvent être éditées, échangées et stockées efficacement dans des environnements de documents mixtes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Conservation du texte formaté**
+  Convertir les e‑mails en RTF pour conserver le style de base dans un format éditable.
+
+* **Compatibilité inter‑outils**
+  Utiliser les sorties RTF lorsque différentes applications d'édition doivent accéder au même contenu.
+
+* **Enregistrements de communication réutilisables**
+  Conserver le texte important des messages pour une édition ultérieure ou une inclusion dans des documents.
+
+* **Échange de documents légers**
+  Partager les documents dérivés d'e‑mail dans un format relativement simple et portable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation automatisée de texte enrichi**
+  Convertir les e‑mails sélectionnés en fichiers RTF pour le stockage et les flux de travail de collaboration.
+
+* **Routage de documents multi‑systèmes**
+  Déplacer le texte enrichi dérivé d'e‑mail entre les applications avec un minimum de friction.
+
+* **Pipelines de réutilisation de contenu**
+  Insérer les sorties RTF dans les résumés, brouillons et documentation interne automatiquement.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

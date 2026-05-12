@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から OFT への変換は、文書コンテンツをメールテンプレートファイルに変換し、メッセージ作成ワークフローで再利用できるようにします。これは、構造化された文書コンテンツに基づく定期的なコミュニケーションを標準化するのに役立ちます。
+
+Python API を使用して、WordML から OFT への変換は自動テンプレート生成をサポートし、チームが承認済み文書テキストを再利用可能なメール形式に変換して運用効率を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **メールテンプレート作成**
+  WordML コンテンツを再利用可能な OFT テンプレートに変換し、一貫したメッセージングを実現します。
+
+* **標準化されたコミュニケーション**
+  組織が定期的なメールワークフロー全体で統一された構造を維持できるよう支援します。
+
+* **コンテンツの再利用性**
+  文書で承認されたコンテンツをすぐに使用できるコミュニケーション資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**
+  ポリシー、サポート、またはアウトリーチ文書から OFT ファイルの作成を自動化します。
+
+* **メッセージワークフローの標準化**
+  再利用可能なメールテンプレートに依存する自動配信システムをサポートします。
+
+* **コンテンツガバナンス自動化**
+  承認された文書言語が運用メッセージング資産に変換されることを保証します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

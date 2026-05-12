@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 PDF를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PDF에서 VCF 변환은 PDF 문서에 포함된 연락처 관련 정보를 표준 연락처 카드 형식으로 변환할 수 있게 합니다. 이는 PDF로 저장된 명함, 디렉터리 또는 연락처 목록을 구조화되고 재사용 가능한 디지털 연락처 레코드로 만들어야 할 때 특히 유용합니다.
+
+자동화는 수동 데이터 입력을 줄이고 연락처 세부 정보를 상호 운용 가능한 형식으로 빠르게 추출함으로써 이 과정을 개선합니다. 이는 CRM 워크플로, 주소록 관리 및 최신 시스템 전반에 걸친 연락처 동기화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 데이터 추출**  
+  PDF 기반 연락처 세부 정보를 디지털 주소록용 VCF 파일로 변환합니다.
+
+* **명함 디지털화**  
+  연락처 카드의 PDF 버전을 구조화된 연락처 레코드로 변환합니다.
+
+* **디렉터리 변환**  
+  PDF에 저장된 연락처 목록을 가져오기 및 동기화에 적합한 형식으로 재사용합니다.
+
+* **CRM 데이터 준비**  
+  추출된 연락처 정보를 고객 및 관계 관리 워크플로에 맞게 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 가져오기 파이프라인**  
+  Python 스크립트는 PDF에서 연락처 필드를 추출하고 VCF 파일을 자동으로 생성할 수 있습니다.
+
+* **대량 디렉터리 처리**  
+  대규모 PDF 연락처 컬렉션을 대량으로 구조화된 연락처 레코드로 변환할 수 있습니다.
+
+* **주소록 동기화**  
+  변환된 VCF 파일은 공유 또는 개인 연락처 데이터를 관리하는 시스템에 제공될 수 있습니다.
+
+* **동적 데이터 캡처 워크플로**  
+  들어오는 PDF 연락처 문서를 즉시 재사용 가능한 디지털 프로필로 처리할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

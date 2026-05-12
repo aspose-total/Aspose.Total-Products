@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion VCF vers RTF transforme les données de cartes de contact en documents texte enrichi qui conservent la mise en forme tout en restant largement éditables dans les différents outils de traitement de documents. Cela est utile pour les flux de travail de documentation de contacts qui nécessitent flexibilité, lisibilité et compatibilité.
+
+Grâce à l'automatisation via l'API Python, la conversion VCF vers RTF aide les organisations à générer des documents basés sur les contacts qui peuvent circuler facilement à travers les étapes d'édition, de révision et de distribution sans perdre leur structure.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Sortie formatée et éditable**  
+  Transformez les données VCF en fichiers RTF pour une utilisation de documents lisibles et éditables.
+
+* **Compatibilité inter-outils**  
+  Partagez les informations de contact dans un format pris en charge par de nombreux éditeurs de texte et systèmes.
+
+* **Préparation flexible des enregistrements**  
+  Utilisez les documents RTF pour la communication interne et la documentation structurée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération groupée de RTF**  
+  Créez automatiquement des fichiers texte enrichi à partir de grands ensembles d'enregistrements VCF.
+
+* **Flux de travail de révision de documents**  
+  Insérez les documents de contact RTF convertis dans les processus d'édition et d'approbation.
+
+* **Automatisation évolutive du formatage**  
+  Utilisez les API Python pour fournir efficacement des sorties texte enrichi cohérentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

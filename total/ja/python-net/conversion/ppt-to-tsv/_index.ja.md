@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT から TSV への変換は、プレゼンテーションデータをタブ区切り形式に変換し、抽出されたスライドコンテンツをデータパイプライン、スプレッドシート、クリーンな区切りベースの構造を好むシステム統合での処理を容易にします。プレゼンテーション資料を構造化された機械可読ワークフローに転送する必要がある場合に役立ちます。
+
+自動化ユースケースでは、PPT から TSV への変換は大量処理、簡素化されたデータ交換、そしてプレゼンテーションコンテンツを分析または変換環境へ効率的に移行することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **構造化データエクスポート**  
+  スライドコンテンツを解析および変換に適したタブ区切り形式に変換します。
+
+* **システムフレンドリーなデータ交換**  
+  プレゼンテーションソースと下流ツール間の相互運用性をサポートします。
+
+* **スプレッドシートインポートの準備**  
+  変換されたコンテンツを表形式アプリケーションで簡単に開き、処理できるようにします。
+
+* **大規模コンテンツ処理**  
+  抽出されたプレゼンテーションデータを大量に管理するための軽量フォーマットを提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なデータ変換**  
+  処理パイプラインへの定期的な取り込みのために PPT から TSV への変換を自動化します。
+
+* **ETL ワークフローサポート**  
+  TSV 出力を構造化抽出およびロードタスクの中間フォーマットとして使用します。
+
+* **プレゼンテーションデータ正規化**  
+  スライドから抽出されたコンテンツを一貫した機械可読構造に標準化します。
+
+* **バッチ統合処理**  
+  プレゼンテーション由来のデータを運用システムへ大量に転送できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

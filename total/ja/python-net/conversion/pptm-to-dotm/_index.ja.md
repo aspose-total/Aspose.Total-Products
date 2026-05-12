@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM から DOTM への変換は、Python API を使用してマクロ対応プレゼンテーションをマクロ対応ドキュメントテンプレートに変換し、再利用可能な構造と組み込みの自動化ロジックの両方を必要とするワークフローに対応します。変換後のコンテンツが高度な文書動作をサポートしなければならない環境で関連性があります。
+
+この変換は、プレゼンテーション由来のコンテンツとプログラムで再利用可能な動的テンプレートシステムを連携させることでスケーラビリティを向上させます。標準化と自動化が連携する文書自動化フレームワークに最適です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**
+  自動化された文書アクションやロジックをサポートできる再利用可能なテンプレートを生成します。
+
+* **構造化コンテンツの標準化**
+  プレゼンテーション資料を制御された、繰り返し可能な文書フォーマットに変換するのに役立ちます。
+
+* **自動化対応ドキュメント基盤**
+  変換されたテンプレート資産に基づく下流の文書生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化ワークフロー**
+  自動化された文書作成のために、PPTM コンテンツから DOTM ファイルを生成します。
+
+* **ルールベースの文書組み立て**
+  変換されたテンプレートが繰り返し可能な出力生成を駆動するワークフローをサポートします。
+
+* **スケーラブルなコンテンツ配信**
+  プレゼンテーション由来のテンプレートを複数の文書で動的に再利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

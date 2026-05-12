@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 TSV 변환은 워드 프로세싱 콘텐츠를 구조화된 텍스트 기반 데이터 교환을 위한 탭 구분 값으로 변환합니다. 이는 문서에서 파생된 정보를 쉼표에 의존하지 않고 구분을 유지하는 간단하고 휴대 가능한 형식으로 내보내야 할 때 유용합니다.
+
+자동화 시나리오에서는 TSV 변환이 확장 가능한 데이터 처리를 지원하며, 특히 탭 구분 출력이 가져오기, 스크립팅 또는 구조화된 일반 텍스트를 처리하는 시스템과의 상호 운용성을 위해 선호되는 경우에 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 텍스트 내보내기**
+  문서 콘텐츠를 탭 구분 출력으로 변환하여 깔끔한 데이터 교환을 가능하게 합니다.
+
+* **데이터 가져오기 준비**
+  추출된 정보를 TSV 입력을 지원하는 도구에 더 쉽게 로드할 수 있게 합니다.
+
+* **스크립트 친화적 처리**
+  구문 분석 및 변환을 위한 경량 텍스트 기반 워크플로를 지원합니다.
+
+* **쉼표 구분 대안**
+  내보낸 값에 쉼표가 포함될 수 있을 때 명확성을 유지하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 구분 파일 생성**
+  워드 파일에서 TSV 출력을 생성하여 일상적인 가져오기 및 처리 작업에 사용합니다.
+
+* **배치 데이터 추출**
+  문서 컬렉션을 대규모로 구조화된 탭 구분 파일로 변환합니다.
+
+* **파이프라인 친화적 교환**
+  스크립트, 검증 루틴 및 하위 자동화에서 TSV 출력을 사용합니다.
+
+* **아카이브 현대화 워크플로**
+  레거시 문서 콘텐츠를 보다 넓은 재사용을 위해 접근 가능한 구조화된 텍스트로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

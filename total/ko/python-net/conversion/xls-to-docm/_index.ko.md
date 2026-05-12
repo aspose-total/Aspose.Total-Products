@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to DOCM 변환은 스프레드시트 콘텐츠를 구조화된 문서화와 고급 문서 동작을 지원하는 매크로 사용 워드 문서로 변환할 수 있게 합니다. 이는 스프레드시트 기반 정보가 문서 형태로 제공되어야 하면서 매크로 사용 템플릿에 의존하는 워크플로와 호환성을 유지해야 할 때 유용합니다.
+
+Python API 기반 XLS to DOCM 변환은 시스템이 프로그래밍 방식으로 문서 출력을 생성하도록 하여 자동화를 지원하고, 조직이 문서 조립, 템플릿화 및 제어된 콘텐츠 배포를 간소화하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 문서 준비**
+  매크로 지원 문서 형식에 의존하는 워크플로를 위해 XLS 데이터를 DOCM 파일로 변환합니다.
+
+* **템플릿 기반 출력**
+  스프레드시트 내용을 사용하여 반복 가능한 비즈니스 프로세스에 사용되는 구조화된 DOCM 문서를 채웁니다.
+
+* **운영 문서화**
+  스프레드시트 레코드를 내부 절차 안내에 적합한 편집 가능한 문서로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 템플릿 채우기**
+  Python API를 사용하여 XLS 데이터를 DOCM 문서 생성 파이프라인에 공급합니다.
+
+* **배치 변환 서비스**
+  표준화된 기업 처리에 맞게 여러 스프레드시트 파일을 DOCM 출력으로 변환합니다.
+
+* **통합 문서 전달**
+  승인, 보관 또는 보고 시스템의 일부로 DOCM 파일을 자동으로 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

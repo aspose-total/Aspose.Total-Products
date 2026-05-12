@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PDF から MBOX への変換により、PDF コンテンツをメールメッセージのコレクションを保存するために使用されるメールボックスアーカイブ形式に変換できます。これは、文書情報をメールアーカイブワークフローに組み込む必要がある場合や、大量のメッセージリポジトリに保存する必要がある場合に役立ちます。
+
+この変換を自動化することで、スケーラブルなアーカイブ操作、移行プロセス、構造化されたコミュニケーションの保存を支援します。統合されたメールボックスデータ形式に依存するシステム向けに PDF 文書をプログラムで準備できるため、手作業の負担が軽減されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールボックスアーカイブ作成**  
+  PDF コンテンツをアーカイブおよび保存目的の MBOX 互換レコードに変換します。
+
+* **大量コミュニケーションのパッケージ化**  
+  文書由来のメッセージをシステムのポータビリティのためにメールボックスコレクションに整理します。
+
+* **メールアーカイブ統合**  
+  MBOX コンテナを通じてデータを管理する環境で変換された出力を使用します。
+
+* **レコード保存**  
+  メッセージアーカイブワークフロー内で PDF ベースの情報を保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチアーカイブ生成**  
+  Python ワークフローは多数の PDF を自動的に MBOX 互換出力に処理できます。
+
+* **コンプライアンス保持パイプライン**  
+  変換されたコンテンツは長期保存のためにアーカイブリポジトリに挿入できます。
+
+* **移行準備**  
+  システムは PDF 派生コンテンツをメールボックスベースのプラットフォームへの転送用にパッケージ化できます。
+
+* **自動リポジトリ更新**  
+  受信した PDF 文書は継続的に変換され、アーカイブワークフローに追加できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

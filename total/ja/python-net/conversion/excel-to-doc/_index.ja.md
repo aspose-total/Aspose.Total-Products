@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PythonによるExcelからDOCへの変換は、構造化されたスプレッドシートの内容を、レポート作成、文書化、ビジネスコミュニケーション向けの編集可能なワードプロセッシング文書に変換します。表形式データをチーム、クライアント、または記録のために読みやすい文章形式で提示する必要がある場合に有用です。
+
+この変換は、データ駆動型スプレッドシートを再利用可能な文書出力に変換することで、レポートパイプライン、文書生成システム、ワークフローベースの公開環境における自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ビジネスレポート生成**  
+  スプレッドシートベースの要約をDOCファイルに変換し、内部またはクライアント向けの編集可能なレポートを作成します。
+
+* **文書作成ワークフロー**  
+  スプレッドシートデータをソースとして使用し、運用またはコンプライアンスのニーズをサポートする文書を作成します。
+
+* **データプレゼンテーション**  
+  表形式の情報を、レビュー、注釈、コラボレーションに適した形式に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期レポート公開**  
+  日次、週次、月次のレポートワークフロー向けに、ExcelからDOCへの変換を自動化します。
+
+* **テンプレートベースの文書作成**  
+  スプレッドシート入力から編集可能な文書を生成し、標準化されたビジネスプロセスをサポートします。
+
+* **パイプライン統合**  
+  Python駆動のシステムに変換を組み込み、承認、保存、配布のための文書を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

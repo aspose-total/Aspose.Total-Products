@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から OST への変換は、マクロ対応ドキュメントを、同期された通信ストレージが重要なオフラインのメールボックス形式ワークフローに適したデータに変換します。これは、ドキュメント由来のコンテンツがキャッシュされた通信環境や構造化されたメールストレージプロセスと整合する必要があるシナリオで有用です。
+
+自動化の観点から、DOCM から OST への変換は、アーカイブ準備、制御された同期ワークフロー、およびドキュメントコンテンツをメール指向の構造にスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オフラインメールストレージサポート**
+  同期されたメールボックスデータを含むワークフロー向けにドキュメントコンテンツを適応させるのに役立ちます。
+
+* **通信記録の保存**
+  メール指向のストレージコンテキスト内でドキュメント由来の情報を保持することをサポートします。
+
+* **エンタープライズワークフローの整合**
+  キャッシュされた通信リポジトリを中心に構築された環境とドキュメント資産を橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化メールデータ準備**
+  DOCM ファイルを構造化されたメールボックスワークフローに適した出力に変換します。
+
+* **保持と同期パイプライン**
+  プロセス駆動型のアーカイブおよび同期処理をサポートします。
+
+* **一括変換操作**
+  ドキュメントコレクションをメールストレージ互換の出力に効率的に処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

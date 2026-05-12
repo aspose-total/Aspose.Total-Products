@@ -53,7 +53,47 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja dokumentów Word na obrazy przy użyciu interfejsów API Pythona przekształca strony dokumentu w pliki graficzne do podglądu, udostępniania, publikacji i archiwizacji wizualnej. Jest to przydatne, gdy zawartość dokumentu musi być wyświetlana spójnie na różnych platformach bez konieczności używania oprogramowania do edycji dokumentów.
+
+W celu automatyzacji i skalowalności, ta konwersja wspiera pipeline'y renderowania dokumentów, które generują miniatury, podglądy, zasoby internetowe oraz rekordy oparte na obrazach dla systemów zarządzania treścią i dystrybucji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie podglądu dokumentu**  
+  Konwertuje strony na obrazy w celu szybkiego przeglądania w portalach, aplikacjach i repozytoriach.
+
+* **Archiwizacja wizualna**  
+  Zachowuje wygląd treści jako statyczne obrazy do referencji i przechowywania.
+
+* **Publikacja w sieci i na urządzeniach mobilnych**  
+  Ułatwia wyświetlanie stron dokumentu w środowiskach zoptymalizowanych pod obrazy.
+
+* **Udostępnianie prezentacji i recenzji**  
+  Upraszcza dystrybucję, gdy odbiorcy potrzebują jedynie podglądu, a nie edycji treści.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Pipeline'y tworzenia miniatur**  
+  Automatycznie renderuje strony dokumentu w obrazy podglądu dla interfejsów wyszukiwania i przeglądania.
+
+* **Batchowe renderowanie stron**  
+  Konwertuje duże ilości plików Word na zestawy obrazów do archiwizacji lub przepływów publikacji.
+
+* **Migawki w procesie zatwierdzania**  
+  Generuje stałe wersje wizualne dokumentów dla punktów kontrolnych przeglądu i rejestrów zgodności.
+
+* **Optymalizacja dostarczania treści**  
+  Wykorzystuje wyjścia graficzne w usługach internetowych i pipeline'ach automatyzacji, które wymagają szybkiego dostępu wizualnego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

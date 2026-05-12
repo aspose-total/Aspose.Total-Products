@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLT para DOT em Python permite que arquivos de modelo do Excel sejam convertidos em documentos de modelo do Word que podem servir como pontos de partida reutilizáveis para a geração futura de documentos. Isso é especialmente útil quando os modelos de planilha contêm informações estruturadas que precisam ser reempacotadas em modelos de documento para uso repetido.
+
+Em ambientes focados em automação, a conversão de XLT para DOT apoia a unificação de modelos e a criação escalável de documentos. Ela permite que sistemas baseados em Python transformem layouts de planilhas em ativos de modelo do Word reutilizáveis que podem ser preenchidos programaticamente em múltiplos processos de negócios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação Reutilizável de Modelos de Documento**  
+  Converter arquivos XLT em modelos DOT para produção padronizada de documentos.
+
+* **Alinhamento de Modelos de Processo**  
+  Transferir estruturas dirigidas por planilhas para formatos de modelo Word usados em fluxos de trabalho de documentação.
+
+* **Reutilização de Conteúdo Operacional**  
+  Criar modelos base que podem ser aplicados repetidamente para relatórios, formulários ou documentos internos.
+
+* **Transformação de Modelos Legados**  
+  Modernizar modelos de planilha antigos transformando-os em recursos de modelo Word reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Geração de Modelos**  
+  Converter automaticamente arquivos XLT em modelos DOT para fluxos de trabalho de documentos repetíveis.
+
+* **Inicialização Programática de Documentos**  
+  Usar APIs Python para gerar modelos Word base a partir do conteúdo de planilhas para posterior preenchimento.
+
+* **Sistemas de Saída Padronizados**  
+  Alimentar arquivos DOT convertidos em sistemas corporativos que exigem pontos de partida de documentos consistentes.
+
+* **Migração em Massa de Modelos**  
+  Automatizar a transformação de ativos XLT legados em bibliotecas de modelos Word em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

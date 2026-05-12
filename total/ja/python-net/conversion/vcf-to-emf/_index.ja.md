@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to EMF 変換は、連絡先カードデータを拡張メタファイル グラフィックに変換し、スケーラブルな表示特性を持つ視覚出力を保持できます。これは、連絡先情報をベクター対応のグラフィック形式でうまく機能する文書やシステムに埋め込む必要がある場合に有益です。
+
+自動化された文書パイプラインでは、VCF から EMF への変換により、Python API が連絡先データのコンパクトなグラフィカル表現を生成し、レポート、フォーム、その他の構造化資産に挿入できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **グラフィック連絡先埋め込み**  
+  VCF レコードを EMF グラフィックに変換して文書に統合します。
+
+* **スケーラブルな視覚表現**  
+  連絡先データがさまざまなサイズでも視覚的に明瞭である必要がある場合に EMF 出力を使用します。
+
+* **プレゼンテーション対応資産**  
+  レポートや社内資料用に連絡先情報をグラフィックとして準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチグラフィック生成**  
+  複数の VCF ファイルを自動的に EMF ビジュアルに変換し、構造化された再利用のために使用します。
+
+* **文書組み立てパイプライン**  
+  生成された EMF 連絡先グラフィックを自動レポートワークフローに挿入します。
+
+* **プログラム的資産生成**  
+  Python API を使用して、スケールでベクターフレンドリーな連絡先ビジュアルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

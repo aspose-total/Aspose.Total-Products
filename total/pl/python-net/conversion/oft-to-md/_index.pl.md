@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OFT do MD w apli
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OFT do MD przy użyciu API Pythona przekształca szablony e‑mail Outlooka w pliki Markdown, zapewniając lekkie, strukturalne i przenośne zarządzanie treścią tekstową. Jest to przydatne, gdy zawartość szablonu musi być ponownie wykorzystywana w systemach dokumentacji, przepływach pracy deweloperów lub pipeline'ach publikacji treści.
+
+W środowiskach napędzanych automatyzacją konwersja OFT do MD wspiera kontrolę wersji, łatwą edycję oraz płynną integrację z generatorami statycznych stron i platformami dokumentacyjnymi. Poprawia przenośność treści i upraszcza przetwarzanie programistyczne.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ponowne wykorzystanie dokumentacji**  
+  Konwertuj szablony OFT do Markdown, aby włączyć je do przewodników, baz wiedzy lub wewnętrznych dokumentów.
+
+* **Zarządzanie treścią kontrolowaną wersjami**  
+  Przechowuj przekonwertowaną treść w repozytoriach tekstowych w celu śledzenia i współpracy przy edycji.
+
+* **Strukturalne przygotowanie publikacji**  
+  Przygotuj treść pochodzącą z e‑maili do statycznych stron lub systemów publikacji opartych na Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja pipeline'u treści**  
+  Automatycznie przekształcaj pliki OFT w Markdown w celu publikacji i przepływów pracy dokumentacji.
+
+* **Zarządzanie szablonami oparte na repozytorium**  
+  Wysyłaj przekonwertowane pliki MD do systemów kontrolowanych źródłowo w celu skalowalnej konserwacji.
+
+* **Programowa transformacja treści**  
+  Użyj API Pythona, aby normalizować i dystrybuować treść szablonów na nowoczesnych platformach tekstowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

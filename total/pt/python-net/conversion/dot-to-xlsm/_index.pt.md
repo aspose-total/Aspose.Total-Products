@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para XLSM transforma modelos de documentos em pastas de trabalho de planilha habilitadas para macros, permitindo o tratamento estruturado de dados com comportamento avançado de planilha. Isso é valioso quando as saídas de planilha precisam suportar tanto a organização de dados quanto funcionalidades aprimoradas.
+
+Usando APIs Python, a conversão de DOT para XLSM pode ser automatizada para criar saídas de pastas de trabalho avançadas e repetíveis a partir de modelos de documentos reutilizáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Geração de Pasta de Trabalho com Macro**
+  Converta arquivos DOT em XLSM para fluxos de trabalho avançados de planilha.
+
+* **Reuso de Documento para Pasta de Trabalho**
+  Transforme o conteúdo do modelo em saídas de planilha editáveis e ricas em recursos.
+
+* **Suporte à Automação Operacional**
+  Prepare arquivos de pasta de trabalho adequados a processos empresariais baseados em planilhas mais avançados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Criação Automatizada de Pasta de Trabalho Avançada**
+  Scripts Python podem transformar modelos DOT em arquivos XLSM para casos de uso recorrentes.
+
+* **Integração de Fluxo de Trabalho de Planilha**
+  A conversão conecta repositórios de documentos com pipelines aprimorados de processamento de pastas de trabalho.
+
+* **Geração Escalável de Saídas Prontas para Macro**
+  Sistemas programáticos suportam a criação consistente de ativos avançados de planilha.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

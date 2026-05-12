@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a MOBI in Python consente ai file modello di Excel di essere trasformati in un formato adatto agli eBook, idoneo per la lettura portatile e la distribuzione digitale. Questo è utile quando i contenuti basati su fogli di calcolo devono essere riutilizzati in output incentrati sul testo, più facili da accedere su dispositivi di lettura o piattaforme di contenuti leggeri.
+
+Nei moderni sistemi di automazione, la conversione da XLT a MOBI supporta la ripubblicazione dei contenuti e la consegna multiformato. Aiuta a convertire i dati strutturati dei modelli in risorse di lettura portatili che possono essere generate in massa e distribuite programmaticamente attraverso canali digitali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione di contenuti portatili**  
+  Converti le informazioni basate su XLT in file MOBI per la lettura su dispositivi digitali supportati.
+
+* **Distribuzione della conoscenza**  
+  Riutilizza i contenuti dei modelli di fogli di calcolo in formati leggeri per un accesso più ampio ai contenuti.
+
+* **Riconfezionamento di dati strutturati**  
+  Trasforma le informazioni guidate da modelli in un'esperienza di lettura sequenziale, in stile documento.
+
+* **Preparazione di archivi digitali**  
+  Crea versioni di contenuti portatili dei materiali derivati da fogli di calcolo per un utilizzo a lungo termine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di pubblicazione multiformato**  
+  Usa le API Python per generare output MOBI dai modelli XLT nei flussi di lavoro di pubblicazione automatizzata.
+
+* **Trasformazione di contenuti in massa**  
+  Converti grandi collezioni di modelli di fogli di calcolo in file di lettura portatili in modo programmatico.
+
+* **Sistemi di distribuzione automatizzata**  
+  Invia i file MOBI generati a biblioteche digitali, sistemi di consegna o repository di contenuti.
+
+* **Riutilizzo della documentazione**  
+  Trasforma i contenuti operativi dei fogli di calcolo in documenti digitali leggibili tramite automazione scalabile.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

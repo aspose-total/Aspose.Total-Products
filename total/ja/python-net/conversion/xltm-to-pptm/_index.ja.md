@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から PPTM への変換は、マクロ対応の Excel テンプレートを高度なスライドベースのワークフロー向けのマクロ対応プレゼンテーションファイルに変換することをサポートします。スプレッドシート由来のコンテンツを、拡張機能と構造化された再利用をサポートするプレゼンテーション形式で提供する必要がある場合に有用です。
+
+自動化システムにおいて、XLTM から PPTM への変換は、フォーマット間の互換性を向上させ、プログラムによるプレゼンテーションの組み立てをサポートし、効率的なコンテンツ変換パイプラインの維持に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応プレゼンテーション出力**  
+  高度なプレゼンテーション動作に依存するワークフローに適したプレゼンテーションファイルを生成します。
+
+* **スプレッドシートからスライドへの変換**  
+  整理されたブックテンプレートをビジネスコミュニケーション向けの構造化されたプレゼンテーションコンテンツに変換します。
+
+* **再利用可能なプレゼンテーション作成**  
+  スプレッドシートベースのマスターテンプレートから繰り返しプレゼンテーションを生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたプレゼンテーション組み立て**  
+  レポートやコンテンツ配信ワークフローで XLTM ソースから PPTM ファイルを生成します。
+
+* **統合オフィスファイル変換**  
+  Python 自動化パイプライン内で Excel テンプレートとマクロ対応スライド出力を橋渡しします。
+
+* **大量スライド生成**  
+  構造化されたスプレッドシートコンテンツから大規模にプレゼンテーションファイルを生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

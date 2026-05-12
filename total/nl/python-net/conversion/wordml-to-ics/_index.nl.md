@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een WORDML naar ICS-conversiefunctie 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML‑naar‑ICS‑conversie zet documentinformatie om in kalender‑compatibele gegevens die planning, herinneringen en op gebeurtenissen gebaseerde workflows kunnen ondersteunen. Dit is waardevol wanneer vergaderdetails, tijdlijnen of agendapunten die in documenten zijn opgeslagen, moeten worden omgezet in agenda‑items.
+
+Met behulp van Python‑API’s kan WordML‑naar‑ICS‑conversie geautomatiseerd worden om gebeurtenisinformatie te extraheren en herbruikbare agenda‑bestanden te genereren voor planningssystemen en tijd‑gebaseerde procesautomatisering.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Evenementextractie**  
+  Converteert planningsgerelateerde inhoud van WordML‑bestanden naar kalenderklare ICS‑gegevens.
+
+* **Ondersteuning van vergaderworkflow**  
+  Transformeert agenda’s of planningsdocumenten naar importeerbare gebeurtenisrecords.
+
+* **Kalenderinteroperabiliteit**  
+  Stelt documentinhoud in staat om naar planningsplatformen te verplaatsen met behulp van een standaardformaat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde generatie van kalenderbestanden**  
+  Maakt ICS‑bestanden aan vanuit WordML‑vergader‑ of evenementdocumenten in terugkerende workflows.
+
+* **Synchronisatie van planning**  
+  Integreert op documenten gebaseerde gebeurtenisdetails in kalender‑importpijplijnen.
+
+* **Herinnerings‑ en planningsautomatisering**  
+  Ondersteunt programmatische creatie van tijdgebonden records uit gestructureerde documentinhoud.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

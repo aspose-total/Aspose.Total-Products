@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para POTM converte o conteúdo de documentos em modelos de apresentação com macro habilitada para ambientes que exigem slides reutilizáveis com recursos de automação incorporados. É valiosa quando apresentações modeladas também precisam de comportamentos programáveis.
+
+Usando APIs Python, a conversão de WordML para POTM suporta a geração escalável de ativos de apresentação baseados em modelos que alinham a reutilização de conteúdo com fluxos de trabalho de apresentação orientados à automação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo com Macro Habilitada**
+  Converte o conteúdo WordML em arquivos POTM reutilizáveis para fluxos de trabalho avançados de apresentação.
+
+* **Fundamentos de Apresentação Automatizada**
+  Suporta modelos que combinam conteúdo estruturado com lógica de automação incorporada.
+
+* **Produção Repetível de Slides**
+  Ajuda a padronizar a geração de apresentações em ambientes com suporte a macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Implantação Automatizada de Modelo**
+  Gera modelos POTM a partir de fontes WordML para processos recorrentes de apresentação.
+
+* **Criação de Slides Orientada por Fluxo de Trabalho**
+  Conecta o conteúdo reutilizável de documentos com os requisitos de automação de apresentações.
+
+* **Empacotamento de Conteúdo Escalável**
+  Permite a criação consistente de modelos com capacidade de macro a partir de documentos estruturados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

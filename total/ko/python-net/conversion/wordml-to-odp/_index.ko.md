@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 ODP로 변환은 문서 내용을 OpenDocument 프레젠테이션 파일로 변환하여 프레젠테이션 중심 검토, 배포 및 개방형 형식 협업을 가능하게 합니다. 이는 문서의 서술형 또는 구조화된 콘텐츠를 슬라이드 기반 커뮤니케이션에 재사용해야 할 때 유용합니다.
+
+Python API는 WordML에서 ODP 변환을 효율적으로 만들어, 프로그래밍 방식으로 콘텐츠를 프레젠테이션 구조로 재배치하고 확장 가능한 문서‑슬라이드 자동화를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션 재활용**
+  문서 내용을 시각적 전달을 위한 개방형 프레젠테이션 파일로 변환합니다.
+
+* **오픈 포맷 협업**
+  상호 운용 가능한 문서 표준을 기반으로 구축된 프레젠테이션 워크플로를 지원합니다.
+
+* **구조화된 콘텐츠 재사용**
+  WordML의 텍스트 및 개요 기반 자료를 슬라이드 형태로 이동합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **슬라이드 덱 생성**
+  보고서, 요약문 또는 개요에서 ODP 프레젠테이션 생성을 자동화합니다.
+
+* **콘텐츠 퍼블리싱 파이프라인**
+  문서‑프레젠테이션 변환을 배포 워크플로에 통합합니다.
+
+* **표준 기반 프레젠테이션 자동화**
+  구조화된 소스에서 개방형 형식 슬라이드의 확장 가능한 생성을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

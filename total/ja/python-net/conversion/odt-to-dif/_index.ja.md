@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から DIF への変換は、OpenDocument Text のコンテンツをスプレッドシート形式のデータ交換を目的としたデータインターチェンジ形式に変換します。これは、テキスト文書に埋め込まれた情報を、構造化された数値または表形式の表現に依存するシステムへ移行する必要がある場合に有用です。
+
+自動化の観点から、ODT から DIF への変換は、文書ベースのコンテンツとレガシーまたは特殊なデータ処理環境との橋渡しを支援します。Python API を使用すると、最小限の手作業で抽出、フォーマット、配信を大規模に自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシート データ転送**  
+  文書の表を構造化データワークフローに適した交換フォーマットに変換します。
+
+* **レガシーシステム互換性**  
+  DIF をデータ交換にまだ使用している環境をサポートします。
+
+* **構造化コンテンツの移行**  
+  文書ベースのレコードを再利用可能なデータ資産に変換します。
+
+* **相互運用データ処理**  
+  異種プラットフォーム間での表形式情報の移動を改善します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたテーブルエクスポート**  
+  Python スクリプトは ODT ファイルから表セクションを検出し、DIF 形式にエクスポートできます。
+
+* **レガシーパイプラインへの供給**  
+  自動化されたワークフローは、古いスプレッドシートや分析システム向けにデータを準備できます。
+
+* **バッチ文書正規化**  
+  複数の ODT ファイルを一括ジョブで一貫した DIF 出力に処理できます。
+
+* **データ交換スケジューリング**  
+  定期的な変換により、構造化文書コンテンツの定例転送をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

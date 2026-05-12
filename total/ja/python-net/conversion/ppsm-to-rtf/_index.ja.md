@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSM から RTF への変換は、Python でマクロ対応のプレゼンテーションコンテンツを、可搬性と基本的な書式保持のバランスが取れたリッチテキスト文書形式に変換することをサポートします。これは、スライドコンテンツを共有、アーカイブ、または広範な互換性が求められる環境で編集する必要がある場合に便利です。
+
+自動化システムにおいて、PPSM から RTF への変換は、軽量な文書生成、一貫したテキスト抽出、そしてリッチテキスト出力がプレゼンテーション固有形式よりも好まれるクロスプラットフォーム処理のスケーラビリティを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **リッチテキストコンテンツエクスポート**  
+  スライドコンテンツを、重要なテキストスタイルを保持した編集可能な形式に変換します。
+
+* **クロスプラットフォームドキュメント共有**  
+  さまざまなシステムに適した、広く互換性のある形式での配布をサポートします。
+
+* **軽量コンテンツアーカイブ**  
+  プレゼンテーション由来のテキストを、よりシンプルな文書構造で保存するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動リッチテキスト生成**  
+  Python API は、標準化されたコンテンツ配信のために PPSM ファイルから RTF 出力を作成できます。
+
+* **テキスト中心のワークフロー統合**  
+  変換により、プレゼンテーション由来のコンテンツを文書レビューおよび編集パイプラインに挿入できます。
+
+* **大量フォーマット適応**  
+  プログラムによる処理で、大量の変換を軽量リッチテキスト出力に対応させることができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

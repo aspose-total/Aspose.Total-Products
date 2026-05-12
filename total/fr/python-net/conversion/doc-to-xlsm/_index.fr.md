@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en XLSM transforme le contenu Word en classeurs Excel à macros qui combinent la structure de feuille de calcul avec des capacités d'automatisation avancées. Elle est précieuse pour les organisations qui ont besoin de données modifiables ainsi que d'un comportement de classeur prêt à l'automatisation.
+
+L'utilisation des API Python pour la conversion DOC en XLSM prend en charge la création de classeurs évolutifs, réduit le transfert manuel de données et permet l'intégration avec des processus avancés pilotés par des feuilles de calcul.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Classeur de données à macros**
+  Convertir le contenu du document en fichiers de feuille de calcul conçus pour un support avancé des flux de travail.
+
+* **Rapports d'entreprise automatisés**
+  Utiliser la sortie XLSM là où la logique de feuille de calcul et les données structurées doivent travailler ensemble.
+
+* **Modèles opérationnels réutilisables**
+  Réutiliser le contenu récurrent des documents dans des classeurs capables d'automatisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation avancée des classeurs**
+  Générer des fichiers XLSM à partir de sources DOC pour des flux de travail de feuilles de calcul intensifs en processus.
+
+* **Pipelines logiques Document-vers-Excel**
+  Convertir le contenu structuré en classeurs utilisés dans des modèles opérationnels automatisés.
+
+* **Transformation récurrente des données**
+  Standardiser de manière programmatique les exportations de documents en actifs de feuilles de calcul à macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

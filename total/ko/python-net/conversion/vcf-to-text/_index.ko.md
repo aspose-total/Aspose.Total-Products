@@ -46,9 +46,43 @@ Python 개발자의 경우 응용 프로그램 내에서 VCF를 TEXT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF를 텍스트로 변환하면 구조화된 연락처 카드 데이터를 단순 저장, 쉬운 파싱 및 광범위한 시스템 호환성을 위한 일반 텍스트 출력으로 바꿉니다. 이는 연락처 정보를 가볍고 보편적으로 접근 가능한 형식으로 추출해야 할 때 유용합니다.
+
+Python API를 사용하면 VCF를 텍스트로 변환하여 자동화를 지원하고, 일반 텍스트 데이터가 검증 및 통합하기 쉬운 하위 처리, 인덱싱 및 변환 워크플로를 단순화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **단순 연락처 추출**  
+  VCF 파일을 텍스트로 변환하여 간단히 읽고 처리합니다.
+
+* **보편적인 데이터 접근**  
+  형식 의존성을 최소화한 일반 텍스트 출력을 다양한 시스템에서 사용합니다.
+
+* **경량 레코드 저장**  
+  연락처 정보를 컴팩트하고 휴대 가능한 형태로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 텍스트 내보내기**  
+  VCF 레코드 배치를 텍스트 파일로 변환하여 효율적인 처리를 가능하게 합니다.
+
+* **검색 및 인덱스 파이프라인**  
+  일반 텍스트 연락처 데이터를 자동 검색 또는 분류 시스템에 공급합니다.
+
+* **유연한 통합 워크플로**  
+  Python API를 사용하여 하위 작업을 위한 경량 연락처 출력을 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

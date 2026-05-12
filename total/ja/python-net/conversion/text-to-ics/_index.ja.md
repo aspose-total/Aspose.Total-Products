@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用したテキストからICSへの変換により、プレーンテキスト情報をカレンダー互換のイベントファイルに変換できます。これは、スケジューリングシステム、予約生成、およびテキスト形式のイベント詳細を共有可能なカレンダーエントリに変換する必要があるワークフローに非常に関連しています。
+
+この変換により、アプリケーションがテキスト入力から直接会議招待、リマインダー、イベントスケジュールを生成できるようになり、プランニングシステム全体での効率的な調整と統合を支援し、オートメーションが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **カレンダーイベント作成**  
+  テキスト形式のイベント詳細をスケジューリングおよび共有用のICSファイルに変換します。
+
+* **会議招待生成**  
+  プレーンテキストコンテンツから標準化されたカレンダー招待を作成するのに役立ちます。
+
+* **リマインダーのスケジューリング**  
+  テキストベースのリマインダーをカレンダー互換のイベントファイルに変換することをサポートします。
+
+* **予約ワークフロー統合**  
+  ビジネスシステムが予約可能または追跡可能なイベント資産を自動的に生成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スケジュール予約**  
+  フォームやシステムに入力されたテキストを即座にカレンダーで使用できるICSファイルに変換できます。
+
+* **イベント配布ワークフロー**  
+  自動化により、テキストで定義されたスケジュールに基づいてカレンダー ファイルを生成・送信できます。
+
+* **定期的な計画パイプライン**  
+  プログラム的なプロセスにより、構造化されたテキストを大規模にカレンダーイベントに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers EPUB transforme les archives de boîtes aux lettres en fichiers de publication numérique réfluables, facilitant la distribution, la lecture et la préservation du contenu des e‑mails dans des environnements compatibles avec les liseuses. Cela s’avère précieux lorsque les communications archivées doivent être présentées sous forme de contenu numérique long et organisé.
+
+Grâce aux API Python, cette conversion peut être automatisée afin de créer des publications portables à partir des données de boîtes aux lettres, d’améliorer l’accessibilité du contenu et de soutenir des flux de travail de distribution numérique structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de publications numériques**
+  Convertir les archives d’e‑mail en fichiers EPUB pour des expériences de lecture structurées et portables.
+
+* **Assemblage de contenu long**
+  Combiner le contenu des boîtes aux lettres en formats numériques prêts à publier pour la référence ou la distribution.
+
+* **Livraison d’archives accessibles**
+  Présenter les collections de messages dans un format convivial adapté à plusieurs appareils.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération automatisée d’e‑books**
+  Transformer le contenu des boîtes aux lettres en publications EPUB via des flux de travail Python répétables.
+
+* **Distribution portable de connaissances**
+  Exporter des archives d’e‑mail sélectionnées en paquets de lecture numériques pour le partage interne.
+
+* **Publication de contenu structuré**
+  Intégrer la conversion boîte aux lettres vers EPUB dans des pipelines automatisés de publication et d’archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

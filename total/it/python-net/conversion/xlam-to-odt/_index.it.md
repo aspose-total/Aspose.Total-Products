@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLAM to ODT conversion using Python APIs enables conversion of Excel add-in content into open document text format for broader interoperability and long-term accessibility. This is helpful when organizations need editable text documents that align with open standards and support cross-platform document workflows.
+
+Per casi d'uso di automazione e integrazione, la conversione da XLAM a ODT riduce l'attrito tra sistemi basati su fogli di calcolo e ecosistemi di documenti aperti. Supporta la generazione scalabile di documenti, semplifica la trasformazione dati‑in‑documento e migliora la compatibilità tra diversi ambienti software.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti a standard aperto**  
+  Converte il contenuto XLAM in file ODT per flussi di lavoro basati su testo interoperabili e modificabili.
+
+* **Collaborazione multipiattaforma**  
+  Supporta i team che utilizzano ambienti di office diversi e richiedono la compatibilità con documenti aperti.
+
+* **Documentazione adatta all'archiviazione**  
+  Aiuta a creare output di documenti accessibili allineati a standard aperti e portabili.
+
+* **Condivisione di contenuti strutturati**  
+  Rende più semplice la distribuzione di contenuti derivati da fogli di calcolo in ecosistemi di documenti flessibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di pubblicazione di documenti aperti**  
+  Le API Python possono generare automaticamente file ODT dagli input XLAM per una distribuzione standardizzata.
+
+* **Automazione del flusso di lavoro tra sistemi**  
+  I documenti ODT convertiti possono passare attraverso diversi strumenti e piattaforme con problemi di compatibilità minimi.
+
+* **Servizi di documentazione scalabili**  
+  I sistemi automatizzati possono elaborare grandi volumi di contenuti basati su fogli di calcolo in documenti di testo aperti.
+
+* **Trasformazione dati‑in‑documento**  
+  I flussi di lavoro programmatici possono trasformare contenuti strutturati dei componenti aggiuntivi in output ODT portabili per report o archivi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

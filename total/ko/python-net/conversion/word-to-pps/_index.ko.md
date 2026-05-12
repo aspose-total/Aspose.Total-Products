@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 PPS 변환은 워드 프로세싱 콘텐츠를 직접 프레젠테이션 재생을 위해 설계된 슬라이드쇼 파일로 변환합니다. 이는 작성된 콘텐츠를 추가 편집 없이 바로 표시 가능한 형식으로 제공해야 할 때 유용합니다.
+
+자동화된 워크플로에서 이 변환은 문서 소스에서 프레젠테이션 준비된 출력물을 효율적으로 게시하도록 지원하여 교육, 회의 또는 공개 디스플레이용으로 최종 시각 자료를 배포하기 쉽게 만듭니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **즉시 표시 가능한 슬라이드 출력**
+  문서를 즉시 프레젠테이션에 사용할 수 있는 슬라이드 파일로 변환합니다.
+
+* **교육 자료 게시**
+  작성된 자료에서 디스플레이 중심 콘텐츠를 빠르게 생성하도록 지원합니다.
+
+* **회의 프레젠테이션 준비**
+  보고서와 요약을 빠른 전달을 위한 프레젠테이션 재생 형식으로 변환합니다.
+
+* **완성된 시각 콘텐츠 배포**
+  수신자에게 편집보다 보기 중심의 형식을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 게시**
+  승인된 Word 콘텐츠를 직접 프레젠테이션 워크플로에 사용할 PPS 파일로 변환합니다.
+
+* **배치 재생 파일 생성**
+  여러 소스 문서에서 즉시 실행 가능한 슬라이드쇼를 생성합니다.
+
+* **이벤트 및 키오스크 콘텐츠 생성**
+  자동 디스플레이 및 브리핑 시스템에서 슬라이드쇼 출력을 사용합니다.
+
+* **최종 출력 패키징**
+  Word에서 PPS 변환을 프레젠테이션 배포 파이프라인에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to XLTM conversion converte contenuti strutturati basati su documenti in modelli di foglio di calcolo abilitati alle macro per la generazione ripetibile di cartelle di lavoro con supporto all'automazione. È preziosa quando i fogli di calcolo standardizzati devono anche contenere comportamenti programmabili.
+
+Utilizzando le API Python, WordML to XLTM conversion aiuta le organizzazioni ad automatizzare la creazione di modelli di foglio di calcolo riutilizzabili allineati a flussi di lavoro di elaborazione avanzati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output del Modello Abilitato alle Macro**
+  Converte contenuti WordML in file XLTM per fondamenta di cartelle di lavoro automatizzate riutilizzabili.
+
+* **Automazione Ripetibile del Foglio di Calcolo**
+  Supporta la creazione ricorrente di cartelle di lavoro con capacità logiche incorporate.
+
+* **Standardizzazione del Modello Strutturato**
+  Aiuta a confezionare contenuti documentali approvati in modelli di foglio di calcolo pronti al processo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pubblicazione Automatizzata del Modello**
+  Genera file XLTM da input WordML per operazioni ricorrenti sui fogli di calcolo.
+
+* **Supporto al Flusso di Lavoro di Reporting Avanzato**
+  Collega contenuti guidati da documenti a modelli di cartelle di lavoro con macro.
+
+* **Imballaggio Scalabile dei Processi**
+  Consente la creazione coerente di modelli di foglio di calcolo pronti all'automazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

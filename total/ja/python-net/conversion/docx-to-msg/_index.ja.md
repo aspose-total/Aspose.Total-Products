@@ -46,9 +46,46 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から MSG への変換は、ワードプロセッシング文書をデスクトップメッセージングシステムで使用される個別のメールメッセージファイルに変換します。このプロセスにより、文書の内容をスタンドアロンのメールアイテムとしてパッケージ化し、保存、転送、またはコミュニケーションワークフローに利用できるようになります。
+
+Python API を使用すると、DOCX から MSG への変換を自動メッセージングシステム、アーカイブパイプライン、エンタープライズコミュニケーションプラットフォームに統合できます。書式設定されたコンテンツを再利用可能なメッセージファイルに変換する必要がある、スケーラブルな文書駆動型メール生成をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スタンドアロンメールメッセージ作成**  
+  DOCX コンテンツを通信システム用の個別メールメッセージファイルに変換します。
+
+* **文書ベースのコミュニケーション記録**  
+  文書情報をメッセージ指向の形式で保持し、レビューや配布に利用できます。
+
+* **エンタープライズメッセージング統合**  
+  構造化された文書コンテンツをメールワークフローやデスクトップメールプラットフォームで使用できるようにします。
+
+* **自動メッセージアーカイブ**  
+  文書をメッセージファイルに変換し、保存およびコンプライアンスプロセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メールファイル生成**  
+  システムは DOCX ファイルを MSG ファイルに変換し、下流のコミュニケーションワークフローで使用できます。
+
+* **バッチ文書メッセージングパイプライン**  
+  Python スクリプトは大量の文書コレクションを処理し、プログラムでメッセージファイルを生成できます。
+
+* **エンタープライズアーカイブ自動化**  
+  文書コンテンツを MSG 形式に変換し、自動保持および監査システムに利用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MSG para MD converte mensagens de e‑mail em Markdown para documentação baseada em texto limpa, leve e portátil. É especialmente útil quando o conteúdo de e‑mail precisa ser reutilizado em bases de conhecimento, documentação de desenvolvedores ou fluxos de trabalho de publicação de conteúdo.
+
+Em pipelines de automação, a conversão de MSG para MD suporta documentação versionada, normalização de conteúdo e processamento de texto simplificado. Ela ajuda a conectar a comunicação por e‑mail com operações de conteúdo modernas e sistemas de publicação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Integração de Base de Conhecimento**  
+  Converta e‑mails em Markdown para documentação interna estruturada.
+
+* **Reuso de Conteúdo Amigável a Desenvolvedores**  
+  Preserve o texto da mensagem em um formato adequado para repositórios e sistemas de documentação.
+
+* **Preparação de Publicação Leve**  
+  Prepare o conteúdo derivado de e‑mail para uso em sites estáticos ou fluxos de trabalho de conteúdo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Pipeline de Documentação**  
+  Transforme arquivos MSG em Markdown para publicação ou indexação automatizada.
+
+* **Gestão de Conteúdo Baseada em Repositório**  
+  Armazene o conteúdo de e‑mail convertido em fluxos de trabalho de documentação versionados.
+
+* **Processos de Normalização de Texto**  
+  Padronize a comunicação recebida em conteúdo de texto leve e amigável a máquinas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

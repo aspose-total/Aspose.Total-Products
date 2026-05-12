@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to ODS 変換は、マクロ対応ドキュメントをオープンなスプレッドシートファイルに変換し、ドキュメントからの構造化データをスプレッドシート主導のワークフローで分析、編集、共有しやすくします。これは、DOCM ファイル内のテーブルや繰り返しレコードをより広範な業務で利用する必要がある場合に有用です。
+
+自動化と相互運用性のために、DOCM to ODS 変換はオープンデータパイプライン、定期的なエクスポート、そしてドキュメントコンテンツをスプレッドシート対応資産へスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **オープンスプレッドシート分析**
+  ドキュメントのテーブルをスプレッドシート形式に変換し、フィルタリング、レビュー、更新ができるようにします。
+
+* **データポータビリティ**
+  オープンなスプレッドシート標準を使用した構造化コンテンツの交換をサポートします。
+
+* **運用再利用**
+  ドキュメント内のデータを計画やレポート作業でより利用しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **定期的なスプレッドシートエクスポート**
+  スケジュールされたワークフロー向けに、DOCM ファイルを ODS に変換するプロセスを自動化します。
+
+* **オープンフォーマットデータパイプライン**
+  オープン標準を基盤としたシステムへドキュメントデータをルーティングするのに役立ちます。
+
+* **大量変換**
+  大量のドキュメントセットをプログラムで処理し、再利用可能なスプレッドシートファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de MSG a MD convierte los mensajes de correo electrónico en Markdown para una documentación basada en texto limpia, ligera y portátil. Es especialmente útil cuando el contenido del correo electrónico necesita reutilizarse en bases de conocimiento, documentación para desarrolladores o flujos de trabajo de publicación de contenido.
+
+En los pipelines de automatización, la conversión de MSG a MD soporta documentación bajo control de versiones, normalización de contenido y procesamiento de texto simplificado. Ayuda a conectar la comunicación por correo electrónico con las operaciones y sistemas de publicación de contenido modernos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Integración de Base de Conocimiento**  
+  Convertir correos electrónicos a Markdown para documentación interna estructurada.
+
+* **Reutilización de Contenido Amigable para Desarrolladores**  
+  Conservar el texto del mensaje en un formato adecuado para repositorios y sistemas de documentación.
+
+* **Preparación de Publicación Ligera**  
+  Preparar el contenido derivado de correos electrónicos para su uso en sitios estáticos o flujos de trabajo de contenido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Automatización del Pipeline de Documentación**  
+  Transformar archivos MSG a Markdown para publicación o indexación automatizada.
+
+* **Gestión de Contenido Basada en Repositorios**  
+  Almacenar el contenido de correo convertido en flujos de trabajo de documentación bajo control de versiones.
+
+* **Procesos de Normalización de Texto**  
+  Estandarizar la comunicación entrante en contenido de texto ligero y amigable para máquinas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

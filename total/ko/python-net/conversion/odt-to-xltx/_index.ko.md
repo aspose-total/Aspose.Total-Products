@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 XLTX로 변환은 문서 내용을 재사용 가능한 워크북 생성 및 표준화된 데이터 워크플로에 사용되는 최신 스프레드시트 템플릿 형식으로 변환합니다. 반복되는 스프레드시트 출력에 소스 문서에서 파생된 일관된 구조가 필요할 때 유용합니다.
+
+Python API를 사용하면 ODT에서 XLTX로 변환이 효율적인 템플릿 생성, 문서 재활용 및 확장 가능한 스프레드시트 자동화를 지원합니다. 팀이 구조화된 텍스트 콘텐츠에서 반복 가능한 워크북 프로세스를 구축하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 워크북 템플릿 생성**  
+  문서에서 파생된 콘텐츠를 반복 가능한 스프레드시트 레이아웃으로 변환합니다.
+
+* **일관된 데이터 표현**  
+  반복되는 출력 전반에 걸쳐 표준화된 워크북 형식을 지원합니다.
+
+* **구조화된 콘텐츠 재사용**  
+  소스 문서 정보를 향후 사용을 위한 스프레드시트 템플릿으로 전환합니다.
+
+* **워크플로 효율성**  
+  워크북 준비 시 반복되는 서식 지정 및 설정 작업을 줄입니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 템플릿 변환**  
+  Python 스크립트를 사용하여 ODT 파일에서 XLTX 템플릿을 프로그래밍 방식으로 생성할 수 있습니다.
+
+* **반복 보고 프레임워크**  
+  반복되는 문서 입력으로부터 표준화된 워크북 템플릿을 생성할 수 있습니다.
+
+* **배치 템플릿 생성**  
+  대량의 소스 파일을 대규모로 스프레드시트 템플릿으로 변환할 수 있습니다.
+
+* **템플릿 기반 데이터 파이프라인**  
+  변환된 출력은 보다 광범위한 워크북 생성 및 보고 워크플로를 지원할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

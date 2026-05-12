@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Η μετατροπή OTT σε TSV στις Python APIs μετατρέπει πρότυπα κειμένου OpenDocument σε τιμές διαχωρισμένες με καρτέλα για καθαρή, ελαφριά, δομημένη ανταλλαγή δεδομένων. Αυτό είναι χρήσιμο όταν το περιεχόμενο βασισμένο σε πρότυπα πρέπει να μεταφερθεί σε συστήματα που προτιμούν απλή, κειμενική, πινάκων εξαγωγή.
+
+Η μετατροπή βελτιώνει τον αυτοματισμό επιτρέποντας εύκολη ανάλυση, μετασχηματισμό και φόρτωση σε ροές εργασίας που εκτιμούν ελάχιστο κόστος, φορητότητα και αξιόπιστη δομή βασισμένη σε διαχωριστικά.
+
+{{% blocks/products/pf/agp/feature-section-col title="Κύριες Περιπτώσεις Χρήσης" %}}
+
+* **Εξαγωγή Δεδομένων με Διαχωριστικό**  
+  Μετατρέπει το περιεχόμενο του εγγράφου σε δομημένη έξοδο διαχωρισμένη με καρτέλα.
+
+* **Μορφοποίηση Φιλική προς τις Γραμμές Επεξεργασίας**  
+  Υποστηρίζει συστήματα που επεξεργάζονται ελαφριά κειμενικά πίνακες.
+
+* **Προετοιμασία Δεδομένων**  
+  Κάνει το εξαγόμενο περιεχόμενο πιο εύκολο στην εισαγωγή σε αναλυτικά ή λειτουργικά εργαλεία.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Σενάρια Αυτοματοποίησης" %}}
+
+* **Μαζική Μετατροπή Πίνακα**  
+  Δημιουργεί αρχεία TSV από πρότυπα OTT σε κλίμακα.
+
+* **Τροφοδοσία Ροής Εργασίας ETL**  
+  Στέλνει δεδομένα προερχόμενα από το έγγραφο σε γραμμές ανάλυσης και μετασχηματισμού.
+
+* **Προγραμματισμένες Δομημένες Εξαγωγές**  
+  Υποστηρίζει επαναλαμβανόμενη δημιουργία απλών μηχανικά αναγνώσιμων συνόλων δεδομένων.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

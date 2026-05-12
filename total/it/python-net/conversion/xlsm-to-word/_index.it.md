@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLSM a Word trasforma il contenuto di fogli di calcolo con macro in un formato di documento di elaborazione testi per una lettura, modifica e comunicazione strutturata più semplici. È utile quando le informazioni dei fogli di calcolo devono essere rielaborate come report, riepiloghi, istruzioni o documentazione formale.
+
+Questa conversione supporta l'automazione consentendo flussi di lavoro basati su Python per trasformare il contenuto guidato da fogli di calcolo in output documentali adatti a approvazioni, collaborazione e pubblicazione scalabile. Aiuta le organizzazioni a semplificare il passaggio da file incentrati sui dati a processi incentrati sui documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti leggibili**
+  Converte le informazioni del foglio di calcolo in un formato più adatto alla comunicazione basata su testo.
+
+* **Preparazione di report e riepiloghi**
+  Aiuta a confezionare il contenuto strutturato dei fogli di lavoro in documenti aziendali rifiniti.
+
+* **Revisione collaborativa**
+  Supporta i team che necessitano di materiale originato da fogli di calcolo in un flusso di lavoro di documenti modificabili.
+
+* **Documentazione formale**
+  Consente ai dati operativi o analitici di essere consegnati come contenuto scritto strutturato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Output documentale automatizzato**
+  Le API Python possono convertire i file XLSM in documenti Word per flussi di lavoro aziendali ricorrenti.
+
+* **Generazione di report batch**
+  Un gran numero di file di fogli di calcolo può essere convertito programmaticamente in output documentali.
+
+* **Integrazione del flusso di approvazione**
+  La conversione aiuta a spostare i dati dei fogli di calcolo nei formati documentali utilizzati nei processi di revisione e approvazione.
+
+* **Standardizzazione della pipeline di contenuti**
+  I sistemi automatizzati possono generare file Word coerenti da fogli di calcolo con macro su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

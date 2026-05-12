@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para MD converte dados de caixa de correio em formato Markdown, criando conteúdo de texto leve, legível e portátil, adequado para documentação e fluxos de trabalho de conhecimento. É valioso para equipes que desejam conteúdo derivado de e‑mail em um formato de texto simples estruturado que funciona bem em várias plataformas.
+
+Os benefícios da automação são fortes porque a conversão de OST para MD se encaixa naturalmente em pipelines de conteúdo, fluxos de trabalho de desenvolvedores e sistemas de documentação. APIs Python permitem transformação rápida e escalável de arquivos de caixa de correio em arquivos Markdown para indexação, publicação e reutilização.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Documentação Leve**  
+  Converte o conteúdo de e‑mail em Markdown para registros simples e estruturados baseados em texto.
+
+* **Preparação de Base de Conhecimento**  
+  Ajuda a reutilizar informações importantes da caixa de correio em sistemas internos de documentação.
+
+* **Exportação de Conteúdo Amigável ao Desenvolvedor**  
+  Suporta fluxos de trabalho onde formatos de texto portátil são preferidos.
+
+* **Registros Versionados**  
+  Facilita o rastreamento e a gestão de conteúdo derivado de e‑mail em ambientes orientados a texto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Pipeline de Documentação**  
+  Scripts Python convertem conteúdo OST em Markdown para fluxos de publicação e indexação.
+
+* **Fluxos de Trabalho de Extração de Conteúdo**  
+  Sistemas automatizados preparam o texto da caixa de correio para repositórios pesquisáveis e notas estruturadas.
+
+* **Geração de Arquivo Portátil**  
+  Conversão programática cria ativos de texto reutilizáveis a partir de dados de e‑mail armazenados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

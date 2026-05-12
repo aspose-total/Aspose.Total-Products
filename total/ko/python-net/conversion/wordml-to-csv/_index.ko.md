@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 CSV로 변환하면 구조화된 WordprocessingML 콘텐츠를 평평하고 구분자 기반 데이터 파일로 변환하여 보고 및 데이터 파이프라인 전반에서 분석, 가져오기 및 처리하기 쉽습니다. 문서 기반 테이블을 가볍고 기계가 읽을 수 있는 레코드로 변환해야 할 때 유용합니다.
+
+Python API를 사용한 WordML을 CSV로 변환하면 테이블 추출을 자동화하고, 행과 열을 정규화하며, 비즈니스, 아카이브 및 통합 환경에서 확장 가능한 문서‑데이터 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **테이블 데이터 추출**
+  WordML 파일의 표 형식 콘텐츠를 CSV 형식으로 변환하여 다운스트림 처리를 용이하게 합니다.
+
+* **분석 준비**
+  문서 기반 데이터를 보고, 시각화 및 비즈니스 인텔리전스 워크플로에서 사용할 수 있게 합니다.
+
+* **시스템 상호 운용성**
+  문서 저장소와 스프레드시트 또는 데이터베이스 시스템 간의 데이터 교환을 간소화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 문서 파싱**
+  여러 WordML 파일에서 테이블을 추출하여 표준화된 CSV 출력으로 자동화합니다.
+
+* **데이터 파이프라인 통합**
+  변환된 CSV 파일을 ETL, 분석 또는 검증 워크플로에 자동으로 수집하는 것을 지원합니다.
+
+* **정기 콘텐츠 내보내기**
+  운영 보고 및 문서 기반 데이터 업데이트를 위한 반복 변환 작업을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

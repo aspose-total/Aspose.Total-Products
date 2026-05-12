@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en MBOX transforme le contenu Word en un format d'archive compatible avec les boîtes aux lettres, capable de regrouper des sorties de type message pour le stockage ou la migration. Elle est utile lorsque le contenu des documents doit être préservé ou livré dans le cadre de flux de travail d'archivage d'e‑mails.
+
+Avec les API Python, la conversion de DOC en MBOX peut être automatisée pour des opérations d'archivage à grande échelle, améliorant la répétabilité et prenant en charge les systèmes qui fonctionnent avec des conteneurs basés sur les boîtes aux lettres.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création d'archive de boîte aux lettres**
+  Convertir les messages dérivés de documents en MBOX pour un stockage groupé de type e‑mail.
+
+* **Préparation à la migration**
+  Utiliser la sortie MBOX lorsque les documents doivent être intégrés à des archives de messagerie ou à des flux de travail de transfert.
+
+* **Préservation de la communication**
+  Stocker le contenu du document converti dans un format consolidé compatible avec les boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de l'empaquetage d'archives**
+  Générer automatiquement des sorties MBOX à partir du contenu DOC pour la conformité ou la migration.
+
+* **Conversion par lots de conteneurs de messagerie**
+  Convertir plusieurs documents en archives de boîtes aux lettres avec un effort manuel minimal.
+
+* **Pont entre le flux de travail Document‑à‑Mail**
+  Préparer de manière programmatique le contenu basé sur les documents pour les écosystèmes d'archivage d'e‑mails.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

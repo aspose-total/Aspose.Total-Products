@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers WordML transforme les archives de boîtes aux lettres en balisage Word basé sur XML, permettant une représentation structurée et un traitement lisible par machine du contenu dérivé des e‑mails. Cela est précieux lorsque les flux de travail exigent transparence, personnalisation ou interaction programmatique avec la structure du document.
+
+Les API Python rendent la conversion WordML pratique à grande échelle en prenant en charge la transformation automatisée, le traitement au niveau XML et l'intégration avec les systèmes qui gèrent des données de documents structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Export de documents Word au format XML**
+  Convertir les e‑mails en WordML pour une gestion de documents structurée et lisible par machine.
+
+* **Traitement de documents personnalisé**
+  Permettre la manipulation de bas niveau du contenu dérivé des e‑mails en utilisant des flux de travail basés sur le balisage.
+
+* **Échange de données interopérable**
+  Conserver les données de la boîte aux lettres dans un format adapté aux systèmes de documents structurés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Conversion XML automatisée**
+  Générer des sorties WordML à partir d'archives MBOX pour des pipelines de traitement sensibles aux documents.
+
+* **Flux de travail de données structurées**
+  Utiliser Python pour inspecter, modifier ou valider les documents de boîte aux lettres convertis de manière programmatique.
+
+* **Intégration système évolutive**
+  Alimenter les documents XML dérivés des e‑mails dans les systèmes d'entreprise de gestion de contenu et de transformation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

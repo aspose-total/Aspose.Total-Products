@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS를 PowerPoint로 변환하면 스프레드시트 데이터를 프레젠테이션 준비가 된 콘텐츠로 전환하여 시각적 보고, 커뮤니케이션 및 이해관계자 업데이트를 지원할 수 있습니다. 구조화된 수치 또는 표 형식 정보가 회의 및 의사결정에 적합한 형식으로 변환되어야 할 때 유용합니다.
+
+Python API를 사용하면 XLS를 PowerPoint로 변환하는 작업이 반복 가능한 프로세스로 전환되어 생산성을 향상하고 자동 보고를 지원하며 스프레드시트 소스에서 확장 가능한 슬라이드 생성을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션 보고**
+  비즈니스 검토, 프로젝트 업데이트 및 경영진 요약을 위해 XLS 데이터를 프레젠테이션 형식으로 변환합니다.
+
+* **시각적 데이터 커뮤니케이션**
+  스프레드시트 정보를 슬라이드에 적합한 콘텐츠로 재구성하여 보다 쉽게 프레젠테이션할 수 있게 합니다.
+
+* **이해관계자 브리핑 자료**
+  스프레드시트 기반 입력을 사용하여 커뮤니케이션 워크플로에 필요한 프레젠테이션 자산을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드 데크 생성**
+  반복되는 보고서 및 업데이트를 위해 XLS 입력으로부터 프레젠테이션 파일을 생성합니다.
+
+* **데이터-프레젠테이션 파이프라인**
+  Python API를 사용하여 스프레드시트 출력물을 직접 프레젠테이션 결과물로 변환합니다.
+
+* **동적 보고 워크플로**
+  원본 스프레드시트 데이터가 변경될 때마다 프레젠테이션 콘텐츠를 자동으로 새로 고칩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

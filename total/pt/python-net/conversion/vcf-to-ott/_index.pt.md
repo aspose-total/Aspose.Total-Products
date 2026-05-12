@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de VCF para OTT transforma dados de cartões de contato em modelos de documentos abertos que suportam a criação de conteúdo repetível e padronizado. Isso é valioso quando as informações de contato precisam ser inseridas em layouts reutilizáveis para geração consistente de documentos.
+
+Em fluxos de trabalho automatizados, a conversão de VCF para OTT permite que APIs Python criem saídas prontas para modelos que melhoram a eficiência, reduzem o esforço de formatação e suportam processos escaláveis de montagem de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Modelo Aberto**  
+  Converta registros VCF em arquivos OTT para estruturas de documentos reutilizáveis.
+
+* **Layouts de Contato Padronizados**  
+  Prepare as informações de contato em um formato de modelo repetível.
+
+* **Documentação Pronta para Processos**  
+  Suporte fluxos de trabalho baseados em modelos com compatibilidade de documentos abertos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Automação de Modelos**  
+  Gere modelos OTT a partir de dados de contato em operações em massa.
+
+* **Montagem Consistente de Documentos**  
+  Use modelos convertidos em fluxos de trabalho que exigem formatação repetível.
+
+* **Processamento Escalável em Formato Aberto**  
+  Aplique APIs Python para criar ativos de modelo reutilizáveis de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

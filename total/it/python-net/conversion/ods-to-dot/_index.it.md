@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to DOT conversion transforms spreadsheet files into document template formats used for structured document creation. This allows spreadsheet-based data or structures to serve as the foundation for reusable document templates.
+
+Python-based conversion workflows enable automated creation of document templates from spreadsheet content. This approach supports scalable document generation, template standardization, and efficient automation across document systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli dai dati**  
+  Converti le strutture dei fogli di calcolo in modelli di documento riutilizzabili.
+
+* **Layout di documento standardizzati**  
+  Utilizza i dati del foglio di calcolo come base per una formattazione coerente del documento.
+
+* **Strutturazione del contenuto**  
+  Trasforma le informazioni tabulari in strutture di documento pronte per i modelli.
+
+* **Preparazione del flusso di lavoro del documento**  
+  Prepara documenti modello derivati da set di dati dei fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di generazione dei modelli**  
+  I flussi di lavoro Python convertono i fogli di calcolo in modelli di documento riutilizzabili.
+
+* **Gestione automatizzata dei modelli**  
+  I sistemi generano e mantengono i modelli derivati da dati di foglio di calcolo strutturati.
+
+* **Conversione di massa dei modelli**  
+  I servizi automatizzati elaborano più file ODS per creare modelli standardizzati.
+
+* **Sistemi di creazione dinamica di documenti**  
+  I modelli generati dai fogli di calcolo supportano la produzione automatizzata di documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

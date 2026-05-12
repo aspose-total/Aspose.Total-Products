@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python の Email から ODT への変換は、メッセージ内容を編集可能で標準指向のドキュメントワークフローに適したオープンドキュメントテキストファイルに変換します。相互運用性、オープンフォーマット、編集可能な保存が重要な要件である場合に有用です。
+
+この変換は、メール由来のコンテンツをオープンドキュメントエコシステム、共同編集プロセス、長期アーカイブ戦略に流すことで、自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンフォーマット編集**
+  メールを ODT ファイルに変換し、標準ベースの環境で編集可能なドキュメント処理を実現します。
+
+* **相互運用可能な記録管理**
+  通信をオープンフォーマットで保存し、交換や再利用に適した形にします。
+
+* **共同ドキュメンテーション**
+  変換されたメールを、編集可能なオープンドキュメントに依存するワークフローで使用します。
+
+* **長期的なアクセシビリティ**
+  重要なメッセージ内容を、オープンドキュメントの慣行に合わせた形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンドキュメントパイプライン**
+  メールメッセージを自動的に ODT ファイルに変換し、チームのワークフローで活用します。
+
+* **リポジトリとアーカイブの統合**
+  変換されたオープンドキュメントをストレージや記録システムへルーティングします。
+
+* **クロスプラットフォーム編集自動化**
+  ツール間でメール由来のコンテンツを一貫して編集・共有できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

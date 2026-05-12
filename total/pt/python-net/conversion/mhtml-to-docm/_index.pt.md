@@ -44,7 +44,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um MHTML e HtmlFixed
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MHTML para DOCM em Python permite que páginas da web arquivadas sejam transformadas em documentos Word com macros habilitadas para fluxos de trabalho avançados de documentos. Isso é útil quando o conteúdo convertido precisa ser combinado com ações scriptadas, modelos dinâmicos ou lógica de documento controlada.
+
+Em ambientes focados em automação, a saída DOCM suporta fluxos de trabalho escaláveis que vão além da conversão estática, permitindo automação pós-conversão dentro do próprio documento. É ideal para processos de alto volume que exigem tanto a preservação do conteúdo quanto o comportamento programável do documento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Relatórios com Macro Habilitada**  
+  Converta arquivos MHTML em documentos DOCM quando a saída final precisar de automação incorporada ou formatação scriptada.
+
+* **Modelos de Documentos Interativos**  
+  Use o conteúdo convertido dentro de modelos com macros habilitadas para edição guiada e geração estruturada de documentos.
+
+* **Fluxos de Trabalho Empresariais Avançados**  
+  Suporte processos de documentos que dependem de ações automatizadas, como validação, formatação ou preenchimento de dados.
+
+* **Documentos Operacionais Reutilizáveis**  
+  Transforme o conteúdo da web capturado em documentos que podem participar de fluxos de trabalho de escritório automatizados mais amplos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Sistemas de Montagem de Documentos**  
+  Converta MHTML para DOCM e acione formatação ou processamento baseado em macros após a geração.
+
+* **Preparação de Arquivos Orientada por Fluxo de Trabalho**  
+  Automatize a produção de arquivos com macros habilitadas para equipes que utilizam scripts de documentos em processos operacionais.
+
+* **Pipelines de Injeção de Modelos**  
+  Alimente o conteúdo da web convertido em modelos DOCM para criar entregáveis estruturados e automatizados.
+
+* **Automação de Escritório em Alta Volumetria**  
+  Use APIs Python para processar arquivos da web em documentos com suporte a macros em escala, com manuseio manual mínimo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

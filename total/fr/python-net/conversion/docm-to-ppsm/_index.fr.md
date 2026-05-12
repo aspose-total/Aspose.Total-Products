@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers PPSM transforme les documents contenant des macros en fichiers de diaporama contenant des macros pour une diffusion directe de la présentation avec un comportement d'automatisation intégré. Ceci est utile lorsque les présentations nécessitent à la fois une lecture immédiate et des fonctionnalités scriptées avancées.
+
+Pour les flux de travail axés sur l'automatisation, la conversion DOCM vers PPSM prend en charge la génération répétable de diaporamas tout en préservant les actions automatisées qui améliorent les expériences de présentation contrôlées.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Diaporamas macro prêts à la lecture**  
+  Crée des sorties de diaporama pouvant inclure un comportement interactif ou automatisé avancé.
+
+* **Diffusion automatisée de la présentation**  
+  Prend en charge les présentations prêtes à l'emploi générées à partir de contenu de document structuré.
+
+* **Expériences d'affichage contrôlées**  
+  Aide à préparer les ressources de diapositives pour les environnements où le comportement de lecture est important.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération programmatique de diaporamas**  
+  Convertit les fichiers DOCM en sorties PPSM dans le cadre de flux de travail visuels récurrents.
+
+* **Préservation de l'automatisation intégrée**  
+  Conserve le comportement de la présentation nécessaire pour une diffusion guidée ou scriptée des diapositives.
+
+* **Distribution évolutive de présentations**  
+  Prend en charge la création en masse de fichiers de diaporama contenant des macros prêts à être exécutés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

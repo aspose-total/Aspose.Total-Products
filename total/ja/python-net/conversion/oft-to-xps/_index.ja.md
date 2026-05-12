@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から XPS への変換は、Outlook のメールテンプレートを一貫した表示と印刷の忠実度を保つ固定レイアウト文書に変換します。これは、テンプレートの内容が表示および出力環境全体で正確な外観を保持する必要がある場合に有用です。
+
+自動化志向のワークフローにおいて、OFT から XPS への変換は信頼できるレンダリング、アーカイブの一貫性、そして制御されたデジタル配布をサポートします。これにより、最新のシステムは最小限の手動介入で視覚的に安定した文書出力を管理できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **固定レイアウト文書の保存**  
+  OFT テンプレートを XPS ファイルに変換し、システム間で視覚的一貫性を維持します。
+
+* **信頼できる表示と印刷**  
+  共有や出力制御で正確なレイアウト保持が重要な場合に XPS 出力を使用します。
+
+* **構造化デジタルアーカイブ**  
+  メールテンプレートの内容を安定した文書形式で保存し、長期的にアクセスできるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された固定形式エクスポート**  
+  OFT ファイルを XPS 文書に変換し、アーカイブまたは制御された配布ワークフローに使用します。
+
+* **レンダリング一貫性パイプライン**  
+  信頼できる視覚的再現が必要なシステムへ XPS 出力をルーティングします。
+
+* **プログラムによる文書公開**  
+  Python API を使用して、企業向け配信および記録保持のための安定した固定レイアウトファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de SXC para ODT transforma o conteúdo de planilhas em um formato de texto de documento aberto que é bem adequado para documentação editável, relatórios e fluxos de trabalho interoperáveis baseados em texto. É uma escolha prática quando as organizações desejam saída de documento flexível mantendo compatibilidade com padrões abertos.
+
+Usando APIs Python, a conversão de SXC para ODT melhora a eficiência do fluxo de trabalho ao permitir a criação automatizada de documentos editáveis a partir de fontes de planilha para relatórios, registro e preparação de conteúdo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Relatórios em Documento Aberto**  
+  Converte dados de planilha em relatórios editáveis que se alinham aos fluxos de trabalho de documentos abertos.
+
+* **Documentação Interoperável**  
+  Ajuda as organizações a compartilhar saídas de documentos entre sistemas que suportam padrões abertos.
+
+* **Criação de Registros Editáveis**  
+  Suporta a preparação de documentos que podem ser revisados, alterados e arquivados facilmente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Fluxo de Trabalho Aberto**  
+  Usa APIs Python para gerar arquivos ODT automaticamente a partir de fontes SXC em pipelines padronizados.
+
+* **Sistemas de Transformação de Conteúdo**  
+  Permite que conteúdo impulsionado por planilhas migre para fluxos de trabalho de revisão e edição centrados em documentos.
+
+* **Saída de Documentação Escalável**  
+  Suporta a geração em grande volume de documentos editáveis em formato aberto com intervenção manual mínima.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

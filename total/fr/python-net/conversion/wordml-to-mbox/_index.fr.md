@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers MBOX regroupe le contenu dérivé de documents dans un format d'archive de boîte aux lettres adapté au stockage groupé de messages et aux flux de travail de migration. Cela est précieux lorsque plusieurs communications basées sur des documents doivent être organisées dans des dépôts de type boîte aux lettres.
+
+Les API Python permettent la conversion WordML vers MBOX en transformant programmatiquement le contenu en enregistrements de messages et en les consolidant en sorties d'archive évolutives pour les systèmes centrés sur le courrier électronique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d'archive de boîte aux lettres**
+  Convertit le contenu des documents en collections de messages compatibles MBOX.
+
+* **Regroupement de communications en masse**
+  Regroupe plusieurs enregistrements convertis en un seul fichier d'archive pour le transfert ou la conservation.
+
+* **Support de migration d'e-mails**
+  Aide à préparer le contenu pour l'importation dans des environnements orientés boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'archives par lots**
+  Automatise la création de fichiers MBOX à partir de sources de documents WordML récurrentes.
+
+* **Intégration du flux de travail de rétention**
+  Prend en charge le stockage à long terme des communications dérivées de documents dans des archives de boîtes aux lettres.
+
+* **Activation du pipeline de migration**
+  Alimente les sorties MBOX converties dans des routines d'importation ou de migration automatisées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

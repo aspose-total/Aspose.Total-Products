@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTM를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM에서 OST로의 변환은 매크로가 포함된 Word 템플릿을 오프라인 메일 저장 시나리오 및 메시징 워크플로에 적합한 사서함 데이터로 변환합니다. 이는 문서 기반 콘텐츠가 동기화된 로컬 데이터 저장소에 의존하는 메일 중심 환경에 통합될 때 관련됩니다.
+
+DOTM에서 OST로 변환하기 위한 Python API를 사용하면 문서 템플릿으로부터 구조화된 메일 데이터 준비를 자동화할 수 있습니다. 이는 확장 가능한 처리를 지원하고, 수동 변환 작업을 줄이며, 문서 시스템과 엔터프라이즈 메시징 워크플로 간의 통합을 개선합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오프라인 메일 데이터 준비**
+  문서 기반 콘텐츠를 오프라인 메시징 저장 워크플로에 맞는 형식으로 변환합니다.
+
+* **템플릿 기반 커뮤니케이션 아카이빙**
+  메일 중심 처리 환경 내에서 재사용 가능한 템플릿 콘텐츠를 보존합니다.
+
+* **엔터프라이즈 메시징 통합**
+  문서 워크플로를 동기화된 사서함 데이터를 관리하는 시스템과 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 메일 스토어 생성**
+  워크플로는 DOTM 콘텐츠를 OST 호환 데이터 처리 프로세스로 변환할 수 있습니다.
+
+* **메시징 시스템 통합**
+  이 변환은 오프라인 액세스 시나리오를 위한 문서 기반 커뮤니케이션의 자동화된 준비를 지원합니다.
+
+* **배치 엔터프라이즈 처리**
+  프로그래밍 작업을 통해 메일 데이터 워크플로를 위한 DOTM 템플릿을 대규모로 처리할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

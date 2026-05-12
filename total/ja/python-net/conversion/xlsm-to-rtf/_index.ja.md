@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から RTF への変換は、マクロ対応のスプレッドシート コンテンツを、広範な互換性とシンプルな書式テキスト交換を目的としたリッチテキスト ドキュメント形式に変換します。スプレッドシートベースの情報を、さまざまなシステム間で軽量かつ編集可能なコンテンツとして共有する必要がある場合に便利です。
+
+自動化ワークフローでは、RTF はスプレッドシート ソースから可読性の高いテキスト ドキュメントを生成する実用的な形式を提供し、複雑なドキュメント依存関係を必要としません。Python API を使用すると、レポート作成、アーカイブ、相互運用可能なコンテンツ配布のために XLSM から RTF への変換を自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **軽量ドキュメント共有**
+  スプレッドシートのコンテンツを、配布や開くのが容易な書式付きテキストファイルに変換します。
+
+* **クロスプラットフォームテキスト交換**
+  ツール間でスプレッドシート由来のドキュメントを共有する際に、広範な互換性をサポートします。
+
+* **可読性の高いレポート出力**
+  構造化データを簡易的なドキュメント形式で提示し、迅速なレビューを支援します。
+
+* **アーカイブに適した書式**
+  テキストベースのスプレッドシート情報を、ポータブルなドキュメント形式で保存できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動リッチテキスト生成**
+  Python API を使用して、XLSM ファイルを RTF ドキュメントに変換し、定期的な出力ワークフローに利用できます。
+
+* **バッチドキュメントエクスポート**
+  大量のスプレッドシートをプログラムでリッチテキスト ファイルに変換できます。
+
+* **相互運用可能なコンテンツパイプライン**
+  変換により、スプレッドシートのコンテンツを混在システム環境に適した形式へ移行できます。
+
+* **定例レポート自動化**
+  自動化システムは、XLSM データから最小限の手動書式設定で RTF サマリーを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

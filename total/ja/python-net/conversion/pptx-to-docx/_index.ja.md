@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から DOCX への変換は、プレゼンテーションベースの資料をリッチテキスト、構造化レイアウト、広範な互換性をサポートする最新の編集可能なドキュメント形式に変換します。スライドの内容をレポート、提案書、文書、または共同作成の書面資産に拡張する必要がある場合に有用です。
+
+Python API を使用した PPTX から DOCX への変換を自動化することで、コンテンツの再利用が向上し、スケーラブルなドキュメントワークフローをサポートします。これにより、組織は視覚的なプレゼンテーションを編集、レビュー、インデックス付け、配布が可能な構造化ドキュメントに変換でき、最新のデジタル環境全体で活用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ビジネスレポート作成**
+  スライドデッキを編集可能なレポートに変換し、正式なコミュニケーションや記録保存に利用します。
+
+* **共同編集**
+  プレゼンテーションの内容を、チームでの改訂により適したドキュメント形式に移行します。
+
+* **提案書作成**
+  プレゼンテーション資料を再利用し、クライアント向けの完成した文書の基盤とします。
+
+* **コンテンツアーカイブ**
+  プレゼンテーション情報を、広くサポートされ検索可能なドキュメント形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ドキュメント生成パイプライン**
+  プレゼンテーション資産を自動的に DOCX ファイルに変換し、下流のレビューに活用します。
+
+* **大規模なコンテンツ再利用**
+  複数のスライドデッキをバッチ変換し、大規模リポジトリ全体で編集可能なドキュメントにします。
+
+* **ワークフロー統合**
+  変換された DOCX ファイルを承認、出版、またはコンプライアンスシステムに組み込みます。
+
+* **構造化ナレッジキャプチャ**
+  プログラムでプレゼンテーション内容を検索可能かつ再利用可能な文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

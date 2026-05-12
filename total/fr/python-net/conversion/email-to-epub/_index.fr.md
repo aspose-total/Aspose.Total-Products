@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e-mails en EPUB avec Python transforme le contenu des messages en publications numériques réajustables, plus faciles à consommer sur les appareils de lecture et les systèmes de contenu long. Elle est précieuse lorsque des collections d'e-mails, des newsletters ou des communications sérialisées doivent devenir des supports de lecture portables.
+
+Cette conversion prend en charge l'automatisation en permettant au contenu basé sur les messages d'être empaqueté, distribué et réutilisé dans des flux de travail d'édition numérique évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Emballage de newsletters**
+  Convertir une série d'e-mails en fichiers EPUB pour une lecture numérique structurée.
+
+* **Distribution portable de connaissances**
+  Transformer le contenu d'e-mails sélectionnés en publications portables pour des publics internes ou externes.
+
+* **Préservation de contenu long**
+  Conserver les communications importantes dans un format convivial pour la lecture à des fins de référence.
+
+* **Réutilisation de contenu**
+  Réutiliser les archives de messages comme ressources de type eBook pour la formation ou la documentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Assemblage automatisé de publications**
+  Combiner les e-mails sélectionnés en sorties EPUB pour une distribution de contenu planifiée.
+
+* **Emballage de base de connaissances**
+  Transformer les fils de discussion d'e-mails en manuels numériques lisibles via des pipelines automatisés.
+
+* **Distribution de contenu multiplateforme**
+  Générer des fichiers EPUB à partir de flux de messages pour un partage évolutif sur différents appareils.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

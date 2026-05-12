@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers ICS transforme les informations de document en données compatibles avec les calendriers, pouvant prendre en charge la planification, les rappels et les flux de travail basés sur les événements. Cela est précieux lorsque les détails de réunions, les échéances ou les points d’ordre du jour stockés dans les documents doivent être convertis en entrées de calendrier.
+
+En utilisant les API Python, la conversion WordML vers ICS peut être automatisée pour extraire les informations d’événement et générer des fichiers de calendrier réutilisables pour les systèmes de planification et l’automatisation des processus basés sur le temps.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Extraction d’événement**  
+  Convertit le contenu lié à la planification des fichiers WordML en données ICS prêtes pour le calendrier.
+
+* **Support du flux de travail de réunion**  
+  Transforme les ordres du jour ou les documents de planification en enregistrements d’événements importables.
+
+* **Interopérabilité des calendriers**  
+  Permet au contenu des documents d’être transféré vers des plateformes de planification en utilisant un format standard.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de fichiers de calendrier**  
+  Crée des fichiers ICS à partir de documents de réunion ou d’événement WordML dans des flux de travail récurrents.
+
+* **Synchronisation d’agenda**  
+  Intègre les détails d’événements basés sur les documents dans les pipelines d’importation de calendrier.
+
+* **Automatisation des rappels et de la planification**  
+  Prend en charge la création programmatique d’enregistrements temporels à partir de contenu de document structuré.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

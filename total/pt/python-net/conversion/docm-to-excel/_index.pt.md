@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para Excel transforma documentos habilitados para macro em pastas de trabalho prontas para planilhas, permitindo que o conteúdo do documento, como tabelas, listas e registros, seja analisado, editado e reutilizado de forma mais eficiente. É valiosa quando os dados empresariais capturados no formato DOCM precisam ser transferidos para ambientes mais adequados a cálculos.
+
+Para automação e escalabilidade, os fluxos de trabalho de DOCM para Excel suportam extração estruturada, pipelines de relatórios e transformação repetível do conteúdo do documento em planilhas operacionais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Análise Baseada em Planilhas**
+  Move os dados do documento para o formato de planilha para classificação, filtragem e revisão.
+
+* **Relatórios Operacionais**
+  Converte conteúdo estruturado em planilhas usadas em processos de relatórios recorrentes.
+
+* **Reutilização de Dados**
+  Facilita a edição e integração da informação contida no documento entre equipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Criação em Lote de Planilhas**
+  Converte automaticamente múltiplos arquivos DOCM em planilhas para processamento em escala.
+
+* **Preparação Analítica**
+  Alimenta dados derivados do documento em fluxos de trabalho automatizados de planilhas e relatórios.
+
+* **Troca Estruturada de Dados**
+  Suporta a transferência programática entre sistemas de documentos e ferramentas baseadas em planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

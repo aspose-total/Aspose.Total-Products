@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から PPSM への変換は、リッチテキスト文書をマクロ対応スライドショーファイルに変換し、プレゼンテーションの再生と拡張された自動化機能を組み合わせます。これは、ショー用にすぐ使えるプレゼンテーションに高度な動作や再利用可能な自動化要素が必要な場合に役立ちます。
+
+自動化のために、RTF から PPSM は、文書コンテンツがスライドショー資産となり、より動的で制御された、あるいはインタラクティブなプレゼンテーションプロセスに参加できるような、専門的なプレゼンテーションワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **高度なスライドショー生成**  
+  書かれたコンテンツをショー用にすぐ使えるプレゼンテーションに変換し、拡張機能をサポートします。
+
+* **インタラクティブなプレゼンテーション配信**  
+  より動的またはガイド付きのプレゼンテーションシナリオ向けにスライドショーファイルの準備を支援します。
+
+* **繰り返し可能な自動プレゼンテーション**  
+  強化された機能を備えたプレゼンテーション出力の一貫した作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **マクロ対応スライドショーパイプライン**  
+  システムは RTF 文書から PPSM ファイルを生成し、高度なプレゼンテーションワークフローを実現できます。
+
+* **自動化ガイド付きプレゼンテーション配信**  
+  プログラムによる変換は、よりリッチな動作を持つスライドショー出力が必要な環境をサポートします。
+
+* **スケーラブルなインタラクティブ表示プロセス**  
+  動的なワークフローは、ソース文書を繰り返し使用できる専門的なスライドショー資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 XLS로의 변환은 매크로가 포함된 문서를 구조화된 데이터 처리, 검토 및 보고를 지원하는 스프레드시트 파일로 변환합니다. DOCM 파일 내부의 표와 레코드를 익숙한 스프레드시트 워크플로우로 이동하여 추가로 활용해야 할 때 유용합니다.
+
+자동화 관점에서 DOCM에서 XLS로의 변환은 반복 가능한 문서 데이터 추출, 레거시 스프레드시트 호환성 및 확장 가능한 보고 파이프라인을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 데이터 재사용**
+  문서 표를 분석 및 편집을 위한 스프레드시트 형태로 변환합니다.
+
+* **레거시 워크북 호환성**
+  오래된 스프레드시트 형식에 여전히 의존하는 환경을 지원합니다.
+
+* **운영 보고**
+  문서 기반 데이터를 재활용하여 반복적인 스프레드시트 기반 작업에 활용하도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 워크북 내보내기**
+  일상적인 처리 작업에서 DOCM 소스로부터 XLS 파일을 생성합니다.
+
+* **대량 표 변환**
+  대규모 문서 세트를 스프레드시트 출력으로 변환하여 하위 작업에 활용합니다.
+
+* **레거시 시스템 통합**
+  오래된 워크북 형식에 의존하는 워크플로우에 구조화된 데이터를 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM을 이미지로 변환하면 매크로가 포함된 Word 템플릿을 미리 보기, 공유 및 디지털 채널 전반에 삽입하기 쉬운 시각적 형식으로 전환합니다. 문서 내용을 검토, 출판 또는 프레젠테이션 용도로 고정된 시각적 출력으로 배포해야 할 때 유용합니다.
+
+DOTM을 이미지로 변환하기 위한 Python API를 사용하면 템플릿 문서를 일관되게 렌더링된 시각적 자산으로 전환함으로써 자동화를 지원합니다. 이는 미리 보기 생성, 문서 출판 및 편집이 불가능한 시각적 표현이 선호되는 워크플로우에서 확장성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 미리 보기 생성**
+  DOTM 파일을 이미지로 변환하여 웹, 모바일 또는 대시보드 인터페이스에서 빠르게 볼 수 있습니다.
+
+* **시각적 보관**
+  템플릿 문서의 외관을 정적 이미지 형태로 보존하여 참고 및 공유에 활용합니다.
+
+* **콘텐츠 삽입**
+  포털, 프레젠테이션 또는 자동 보고 시스템에서 DOTM 파일의 이미지 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 및 미리 보기 자동화**
+  시스템은 탐색 및 인덱싱을 위해 DOTM 템플릿에서 이미지 미리 보기를 자동으로 생성할 수 있습니다.
+
+* **출판 워크플로우 지원**
+  이 변환은 콘텐츠 배포를 위해 문서 페이지를 이미지로 자동 렌더링할 수 있게 합니다.
+
+* **대량 시각적 출력**
+  프로그래밍 방식 처리를 통해 다수의 템플릿 파일을 효율적으로 이미지 세트로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

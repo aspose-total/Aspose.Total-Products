@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から XLS への変換は、ワードプロセッシングのコンテンツを従来のスプレッドシート形式のファイルに変換し、レガシーなスプレッドシート環境で構造化データとして利用できるようにします。これは、文書からの情報を分析、レポート作成、または業務追跡のためにワークシートに整理する必要がある場合に有用です。
+
+自動化の観点から、この変換は、文書由来のコンテンツをスプレッドシート資産に変換することで、古いシステムでも引き続き使用できる互換性重視のワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **レガシー スプレッドシート エクスポート**
+  Word のコンテンツを XLS に変換し、従来のワークシートベースのワークフローで利用します。
+
+* **業務データの構造化**
+  文書情報をシートに再編成し、追跡や分析を容易にします。
+
+* **互換性の維持**
+  従来のスプレッドシート形式が依然として必要とされる環境をサポートします。
+
+* **レポートワークフローの支援**
+  文書由来のデータを既存のスプレッドシートツールで管理しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ XLS 生成**
+  Word ファイルを自動的に従来のスプレッドシートに変換し、継続的な業務に活用します。
+
+* **レガシー統合パイプライン**
+  文書由来のワークシートデータを古い業務システムに供給します。
+
+* **アーカイブ変換ワークフロー**
+  構造化された出力をスプレッドシート形式で保存し、後の取得やレビューに備えます。
+
+* **文書からシートへの自動化**
+  文書抽出プロセスとスプレッドシートベースのレポート手順を連携させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

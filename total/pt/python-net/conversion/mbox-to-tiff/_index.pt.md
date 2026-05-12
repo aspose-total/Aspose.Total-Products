@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para TIFF converte o conteúdo da caixa de correio em arquivos de imagem etiquetados de alta qualidade, adequados para a digitalização de documentos, armazenamento de arquivos e preservação visual detalhada. Isso é valioso em fluxos de trabalho onde a digitalização de múltiplas páginas, alta fidelidade e captura estável de documentos são importantes.
+
+Com APIs Python, a conversão de MBOX para TIFF pode ser automatizada para arquivos no estilo de digitalização, repositórios de conformidade e pipelines de imagem corporativos que gerenciam grandes volumes de registros de e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preservação de Imagens de Arquivo**
+  Converta o conteúdo de e‑mail em arquivos TIFF para armazenamento visual confiável a longo prazo.
+
+* **Fluxos de Trabalho de Digitalização de Documentos**
+  Use imagens derivadas da caixa de correio em sistemas projetados para registros digitalizados ou capturados.
+
+* **Exportação de Mensagens de Alta Fidelidade**
+  Preserve a aparência do e‑mail em um formato de imagem focado em qualidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Renderização em Lote de TIFF**
+  Converta automaticamente as entradas da caixa de correio em imagens TIFF para saída pronta para arquivamento.
+
+* **Pipelines de Imagem de Conformidade**
+  Direcione as imagens de e‑mail convertidas para sistemas de gerenciamento de registros e captura de documentos.
+
+* **Preservação Visual Escalável**
+  Use automação em Python para processar grandes arquivos de correio em arquivos de imagem detalhados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

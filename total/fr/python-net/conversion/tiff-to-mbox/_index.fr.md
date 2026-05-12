@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de TIFF en MBOX à l'aide des API Python permet de transformer des documents basés sur des images en structures d'archives de boîtes aux lettres capables de contenir du contenu de type message à grande échelle. Cela est bénéfique pour les organisations qui doivent préserver ou organiser les enregistrements de communication dérivés de TIFF dans le cadre de flux de stockage d'e‑mails en masse.
+
+Dans les environnements axés sur l'automatisation, la conversion de TIFF en MBOX améliore l'efficacité de l'archivage et prend en charge le traitement à grande échelle des enregistrements visuels en collections compatibles avec les boîtes aux lettres. Elle est particulièrement pertinente lorsque le stockage consolidé, la préparation à la migration ou l'exportation structurée sont importants.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d'archive de boîte aux lettres**
+  Convertit le contenu TIFF en sorties compatibles MBOX pour un stockage consolidé de type e‑mail.
+
+* **Préservation massive des enregistrements**
+  Aide à organiser les documents dérivés d'images dans des structures de boîte aux lettres adaptées à l'archivage.
+
+* **Préparation à la migration**
+  Soutient la préparation des enregistrements de communication visuelle pour leur transfert vers des systèmes de messagerie compatibles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation d'archives à haut volume**
+  Convertit des lots de documents TIFF en sorties MBOX pour des flux de travail d'archivage évolutifs.
+
+* **Support du pipeline de rétention**
+  Permet la préservation automatisée des enregistrements basés sur des images au sein de formats de collection de messages.
+
+* **Traitement d'exportation et de transfert**
+  Soutient la génération dynamique d'archives de boîtes aux lettres à partir de sources TIFF pour les tâches de migration en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

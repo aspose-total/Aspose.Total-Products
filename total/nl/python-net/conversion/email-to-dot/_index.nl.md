@@ -46,7 +46,44 @@ Voor een Python-ontwikkelaar, die probeert een EMAIL naar DOT-conversiefunctie t
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+E-mail-naar-DOT-conversie in Python maakt het mogelijk berichten te transformeren naar Word-sjabloonbestanden voor gestandaardiseerde documentcreatie. Dit is nuttig wanneer e-mailinhoud dient als uitgangspunt voor herhaalbare sjablonen die worden gebruikt in administratieve, juridische of operationele processen.
+
+Het ondersteunt automatisering door organisaties te helpen communicatiepatronen om te zetten in herbruikbare sjabloon‑assets die de consistentie verbeteren en handmatige documentvoorbereiding verminderen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Sjablooncreatie vanuit communicatie**  
+  Converteer terugkerende e-mailstructuren naar DOT-sjablonen voor herhaalde documentgeneratie.
+
+* **Gestandaardiseerde inhoudsindelingen**  
+  Bewaar veelvoorkomende e-mailgebaseerde formaten als herbruikbare sjabloonbestanden.
+
+* **Operationele formulieropbouw**  
+  Zet berichtpatronen om in startdocumenten voor interne workflows.
+
+* **Opmaakconsistentie**  
+  Pas herhaalbare lay-outregels toe door e-mailafgeleide structuren op te slaan als sjablonen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Generatie van sjabloonbibliotheek**  
+  Bouw automatisch DOT-sjablonen vanuit gestructureerde e-mailinhoud voor afdelingsgebruik.
+
+* **Herhaalbare documentproductie**  
+  Gebruik geconverteerde sjablonen om consistente output te creëren uit terugkerende communicatie.
+
+* **Workflow‑gedreven formulierstandaardisatie**  
+  Voer e-mailafgeleide sjablonen in systemen die routinedocumenten automatisch genereren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

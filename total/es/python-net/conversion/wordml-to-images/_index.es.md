@@ -53,7 +53,41 @@ Usamos la API [Aspose.Words for Python via .NET](https://products.aspose.com/wor
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de WordML a Imágenes renderiza el contenido del documento en formatos de imagen para previsualizar, compartir, publicar y archivar visualmente. Es útil cuando las páginas del documento deben mostrarse de forma consistente en distintas plataformas sin requerir software de edición de documentos.
+
+Las API de Python simplifican la conversión de WordML a Imágenes al renderizar páginas de forma programática, lo que permite la generación masiva de miniaturas, vistas previas de páginas y flujos de trabajo de distribución visual de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Generación de Vista Previa de Documentos**
+  Convierte páginas WordML en imágenes para una visualización rápida y la indexación.
+
+* **Compartir Visualmente**
+  Facilita la distribución del contenido del documento en canales e interfaces compatibles con imágenes.
+
+* **Presentación Inmutable**
+  Preserva la apariencia de la página para revisión, publicación o propósitos de referencia.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Canales de Creación de Miniaturas**
+  Genera automáticamente imágenes de vista previa a partir de lotes de documentos WordML.
+
+* **Soporte de Flujo de Trabajo de Publicación**
+  Convierte páginas en imágenes para sitios web, sistemas de conocimiento o herramientas de revisión.
+
+* **Visualización de Archivos**
+  Permite el acceso basado en imágenes a documentos almacenados sin abrir el formato de archivo original.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

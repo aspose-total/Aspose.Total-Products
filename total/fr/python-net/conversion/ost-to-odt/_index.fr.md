@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OST vers ODT transforme le contenu d’une boîte aux lettres en un format texte de document ouvert qui prend en charge des flux de travail documentaires éditables et basés sur des normes. Cela est utile pour préserver les informations dérivées des e‑mails dans un format neutre vis‑à‑vis de la plateforme, adapté à un usage professionnel et d’archivage.
+
+Les API Python aident à automatiser la conversion OST vers ODT afin que les organisations puissent transférer les données de la boîte aux lettres vers des écosystèmes de documents ouverts de manière efficace. Cela améliore l’évolutivité, l’interopérabilité et l’intégration avec les systèmes modernes de traitement de contenu et de gestion de documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Édition de documents ouverts**  
+  Convertit le contenu de la boîte aux lettres en ODT pour une utilisation de documents éditables et conformes aux normes.
+
+* **Archivage neutre vis‑à‑vis de la plateforme**  
+  Prend en charge les stratégies de préservation à long terme basées sur les formats de documents ouverts.
+
+* **Collaboration inter‑environnements**  
+  Facilite l’utilisation du contenu dérivé des e‑mails à travers divers flux de travail bureautiques.
+
+* **Préparation structurée des enregistrements**  
+  Aide à transformer les archives de communication en documents texte ouverts et maintenables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de conversion en format ouvert**  
+  L’automatisation Python convertit les données OST en ODT pour des flux de travail documentaires interopérables.
+
+* **Processus de modernisation des archives**  
+  Les systèmes automatisés déplacent le contenu de la boîte aux lettres vers des formats éditables basés sur des normes.
+
+* **Intégration du système de documents**  
+  La conversion programmatique prend en charge les stratégies de gestion de contenu en documents ouverts.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

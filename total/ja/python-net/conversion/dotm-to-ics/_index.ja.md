@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から ICS への変換は、マクロ対応の Word テンプレートを、イベント、スケジュール、またはリマインダーを標準化された形式で表すカレンダー互換ファイルに変換します。文書テンプレートに予約情報のような内容が含まれ、スケジューリングシステム間で共有する必要がある場合に便利です。
+
+DOTM から ICS への変換に Python API を使用すると、テンプレートベースの文書からカレンダーエントリを直接作成できるため、オートメーションが向上します。これにより手動でのスケジューリング作業が削減され、プロセス駆動型のイベント生成をサポートし、文書ワークフローとカレンダープラットフォームの統合に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スケジュール抽出**
+  DOTM ファイルからイベント詳細を抽出し、カレンダーへのインポートと共有のために ICS に変換します。
+
+* **会議テンプレートの再利用**
+  文書ベースの議題や通知を再利用し、構造化されたカレンダーエントリに変換します。
+
+* **クロスプラットフォームスケジューリング**
+  多くのスケジューリングツールや環境で動作する標準的なカレンダー形式を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダーファイル生成**
+  ワークフローは DOTM テンプレートから日付や会議の詳細を抽出し、ICS ファイルを自動的に作成できます。
+
+* **プロセス駆動型イベント配信**
+  この変換により、システムは文書内容から直接スケジューリング情報を公開できます。
+
+* **バッチスケジューリング操作**
+  プログラムによる処理は、繰り返し使用されるテンプレートから大規模にカレンダーファイルを作成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

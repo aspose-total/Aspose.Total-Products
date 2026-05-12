@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a MSG trasforma i documenti abilitati alle macro in singoli file di messaggi email adatti a flussi di lavoro basati su archiviazione e scambio di messaggi. È utile quando il contenuto del documento deve essere conservato come artefatto email strutturato per comunicazione, revisione o conservazione.
+
+Per l’automazione, i flussi di lavoro DOCM‑to‑MSG semplificano la generazione, l’archiviazione e il trasferimento dei messaggi in sistemi che si basano su elementi di posta discreti per la gestione dei processi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso chiave" %}}
+
+* **Imballaggio di un singolo messaggio**  
+  Crea file di messaggio autonomi dal contenuto del documento per flussi di lavoro di comunicazione organizzati.
+
+* **Archiviazione e revisione**  
+  Conserva la corrispondenza derivata dal documento in un formato di messaggio strutturato.
+
+* **Compatibilità con i sistemi di posta**  
+  Supporta ambienti che elaborano o archiviano la comunicazione come oggetti di messaggio individuali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatica di file di messaggio**  
+  Genera output MSG direttamente dai documenti DOCM come parte di flussi di lavoro ripetibili.
+
+* **Conservazione basata sul flusso di lavoro**  
+  Instrada i file di messaggio convertiti verso sistemi di conformità, audit o archiviazione.
+
+* **Elaborazione batch scalabile**  
+  Converte grandi insiemi di file DOCM in artefatti di messaggio in modo programmatico.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

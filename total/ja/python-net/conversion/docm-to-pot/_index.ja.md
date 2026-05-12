@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to POT 変換は、マクロ対応ドキュメントをプレゼンテーションテンプレートファイルに変換し、ドキュメントの内容を再利用可能なスライド構造に変換しやすくします。これは、組織がトレーニング、レポート、または定期的なプレゼンテーションのために一貫したレイアウトが必要な場合に役立ちます。
+
+自動化主導のシステムにおいて、DOCM から POT への変換は、テンプレートの標準化、スケーラブルなスライド生成、そしてプレゼンテーションワークフロー向けの繰り返し可能なコンテンツ変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **プレゼンテーションテンプレート作成**
+  ドキュメント素材を再利用可能なプレゼンテーション設計図に変換し、繰り返し使用できるようにします。
+
+* **スライド間の一貫性**
+  プレゼンテーション出力における視覚的および構造的パターンの標準化に役立ちます。
+
+* **コンテンツの再利用**
+  ドキュメント情報をテンプレートに適応し、複数のプレゼンテーションシナリオに利用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化テンプレート生成**
+  DOCM ソースから POT ファイルを生成し、繰り返し可能なプレゼンテーションワークフローを実現します。
+
+* **スケーラブルなレポート資産**
+  チーム全体で使用されるプレゼンテーションテンプレートのプログラム的作成をサポートします。
+
+* **動的スライドパイプライン**
+  下流システムが更新されたコンテンツで再利用可能なテンプレートを埋め込むことを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

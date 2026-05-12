@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 XPS를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS를 OST로 변환하는 Python API는 고정 레이아웃 문서 내용을 동기화된 이메일 저장 워크플로와 연결된 메일함 데이터 형식으로 변환하는 데 도움을 줍니다. 이는 문서 기반 커뮤니케이션 내용을 구조화된 메일함 처리, 마이그레이션 지원 또는 엔터프라이즈 메시징 환경과의 통합이 필요할 때 유용합니다.
+
+자동화를 통해 변환을 반복 가능하게 만들고, 수동 메일함 준비 작업을 줄이며, 대규모 문서‑대‑메일 데이터 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 데이터 준비**
+  XPS 기반 커뮤니케이션 내용을 OST 지향 구조로 변환하여 워크플로에 활용합니다.
+
+* **엔터프라이즈 메시징 지원**
+  문서 변환을 동기화된 메일함 환경 및 저장 프로세스와 정렬합니다.
+
+* **마이그레이션 준비**
+  메일함 이동 또는 통합 워크플로와 관련된 문서 기반 커뮤니케이션 데이터를 준비합니다.
+
+* **구조화된 커뮤니케이션 보존**
+  메시지 중심 저장 전략 내에서 문서에서 유래한 내용을 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 메일 데이터 변환**
+  XPS 문서가 메시징 워크플로에 들어올 때 OST 관련 변환 단계를 트리거합니다.
+
+* **대량 처리 작업**
+  기업 환경에서 대규모 XPS 파일 컬렉션을 프로그래밍 방식으로 변환합니다.
+
+* **아카이브 파이프라인 통합**
+  변환된 출력을 관리형 저장소 및 동기화 프로세스로 라우팅합니다.
+
+* **시스템 전환 워크플로**
+  인프라 변경을 위한 커뮤니케이션 데이터 자동 준비를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

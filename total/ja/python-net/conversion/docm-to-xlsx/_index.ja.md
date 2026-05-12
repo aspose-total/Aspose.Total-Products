@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to XLSX 変換は、マクロ対応ドキュメントを最新のスプレッドシートファイルに変換し、構造化されたコンテンツの分析、編集、ビジネスシステム間での統合を容易にします。これは、ドキュメントの表やレコードを再利用可能な業務データに変換する最も実用的な方法の一つです。
+
+自動化重視の環境では、DOCM から XLSX への変換は、スケーラブルなレポート作成、分析準備、そしてドキュメント由来の情報を最新のワークブックワークフローへシームレスに移行することを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新スプレッドシート分析**
+  ドキュメントベースのデータをフィルタリング、計算、レビュー用にワークブック形式に移行します。
+
+* **業務プロセス統合**
+  レポートや業務ツール全体で構造化コンテンツの再利用をサポートします。
+
+* **データ変換ワークフロー**
+  スプレッドシート主導のタスクや意思決定のために DOCM コンテンツの再利用を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ワークブック作成**
+  スケジュール化および繰り返し可能なワークフロー向けに、DOCM ソースから XLSX ファイルを生成します。
+
+* **分析およびレポートパイプライン**
+  変換されたデータをダッシュボード、レビュー、業務レポートプロセスに供給します。
+
+* **大量ドキュメント変換**
+  多数の DOCM ファイルを最新のスプレッドシート出力にバッチ変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

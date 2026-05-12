@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de texto para OFT usando APIs Python permite que conteúdo em texto simples seja convertido em arquivos de modelo de e‑mail reutilizáveis. Isso é valioso para organizações que precisam de formatos de mensagem padronizados para comunicações recorrentes, fluxos de trabalho internos ou elaboração de mensagens guiada pelo usuário.
+
+A conversão suporta automação ao transformar texto em ativos prontos para modelo que podem ser reutilizados em campanhas, operações de serviço e sistemas de notificação, melhorando a consistência, a eficiência e a escalabilidade.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelos de E‑mail Reutilizáveis**  
+  Converte texto em modelos OFT para fluxos de comunicação repetíveis.
+
+* **Mensagens Padronizadas**  
+  Ajuda a garantir estrutura e linguagem consistentes em conteúdo de e‑mail recorrente.
+
+* **Preparação Operacional de Rascunhos**  
+  Suporta a geração de arquivos de modelo para equipes que personalizam mensagens antes do envio.
+
+* **Design de Comunicação Orientado a Processos**  
+  Permite que conteúdo de texto estruturado se torne ativos reutilizáveis para operações de negócios.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Geração de Modelos**  
+  A automação pode converter texto aprovado em modelos OFT para uso recorrente.
+
+* **Criação de Rascunhos Baseada em Fluxo de Trabalho**  
+  Sistemas podem gerar rascunhos de e‑mail reutilizáveis a partir de fontes de texto dinâmicas.
+
+* **Padronização de Mensagens Escalável**  
+  A conversão programática ajuda a manter a consistência dos modelos entre departamentos e processos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

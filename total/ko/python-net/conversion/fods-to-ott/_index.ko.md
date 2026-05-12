@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS to OTT 변환은 평면 OpenDocument 스프레드시트 파일을 OpenDocument 텍스트 템플릿으로 변환하여 구조화된 소스 데이터가 개방형 표준 환경에서 재사용 가능한 문서 레이아웃을 지원하도록 합니다. 이는 독점 형식에 의존하지 않고 일관된 문서 템플릿이 필요한 조직에 가치가 있습니다.
+
+자동화 환경에서 FODS to OTT 변환은 반복 가능한 문서 생성, 효율적인 템플릿 관리 및 확장 가능한 개방형 포맷 워크플로를 가능하게 합니다. Python API는 구조화된 데이터에서 템플릿 생성을 자동화하고 이 프로세스를 더 넓은 콘텐츠 시스템에 통합하는 것을 실용적으로 만들어 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**  
+  FODS 콘텐츠를 OTT 파일로 변환하여 재사용 가능한 텍스트 문서 템플릿을 만듭니다.
+
+* **표준화된 문서 레이아웃**  
+  반복되는 비즈니스 및 운영 문서를 위해 일관된 템플릿 구조를 구축합니다.
+
+* **재사용 가능한 개방형 포맷 자산**  
+  개방형 문서 생태계에서 반복 가능한 콘텐츠 생성을 지원하는 템플릿 파일을 생성합니다.
+
+* **프로세스 문서화 프레임워크**  
+  OTT 출력을 재사용 가능한 시작점으로 활용하여 지속적인 문서화 워크플로에 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 자동화 파이프라인**  
+  Python 스크립트를 사용하여 FODS 파일을 OTT 템플릿으로 변환하고 반복적인 문서 생성을 수행할 수 있습니다.
+
+* **대량 템플릿 제작**  
+  자동화 시스템은 구조화된 스프레드시트 소스에서 다수의 개방형 포맷 템플릿을 생성할 수 있습니다.
+
+* **일관된 출력 관리**  
+  변환 워크플로는 반복되는 문서 작업 전반에 걸쳐 표준 레이아웃을 적용할 수 있습니다.
+
+* **휴대용 자동화 워크플로**  
+  OTT 변환은 개방형 표준에 중점을 둔 환경에서 확장 가능한 문서 작업을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

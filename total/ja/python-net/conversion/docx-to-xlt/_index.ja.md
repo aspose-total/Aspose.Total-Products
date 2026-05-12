@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から XLT への変換は、ワードプロセッシング文書を、繰り返し使用できるワークシート作成に使用されるスプレッドシートテンプレートファイルに変換します。このプロセスにより、文書の構造化されたコンテンツが、レポートや業務タスク用の再利用可能なスプレッドシートの基盤となります。
+
+Python API により、DOCX から XLT への変換は、テンプレート自動生成システム、定期的なレポートパイプライン、スプレッドシート標準化ワークフローに適しています。これにより、チームやプロセス間でのスプレッドシート作成の一貫性がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **再利用可能なスプレッドシートテンプレート作成**  
+  DOCX コンテンツをテンプレートファイルに変換し、繰り返しワークシートを生成します。
+
+* **標準化されたレポート構造**  
+  組織が一貫したスプレッドシートのレイアウトとデータ構成を維持するのに役立ちます。
+
+* **文書からテンプレートへのワークフロー**  
+  スプレッドシート環境で構造化された文書資産の再利用をサポートします。
+
+* **運用テンプレート配布**  
+  書面ソースからスプレッドシートテンプレートをスケーラブルに作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレートエクスポート**  
+  システムは DOCX ファイルを XLT テンプレートに変換し、定期的なスプレッドシートワークフローに利用できます。
+
+* **バッチスプレッドシートテンプレート生成**  
+  Python スクリプトは複数の文書から再利用可能なワークシートテンプレートを生成できます。
+
+* **エンタープライズ標準化パイプライン**  
+  文書コンテンツをスプレッドシートテンプレートに変換し、一貫したレポート業務に活用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

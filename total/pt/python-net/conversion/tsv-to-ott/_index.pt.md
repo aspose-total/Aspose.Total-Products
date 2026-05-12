@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to OTT conversion transforms tabular data into open document template files used for standardized text document creation. This is valuable when structured inputs need to be aligned with repeatable template-driven workflows in open-format environments.
+
+Using Python APIs, TSV to OTT conversion supports automation by enabling reusable document structures, reducing repetitive formatting work, and improving consistency in scalable publishing systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Criação de Modelo Aberto**  
+  Converte o conteúdo TSV em modelos reutilizáveis para documentos de texto padronizados.
+
+* **Produção Consistente de Documentos**  
+  Suporta fluxos de trabalho recorrentes que dependem de estruturas de formatação fixas.
+
+* **Entrega de Conteúdo Baseada em Modelo**  
+  Ajuda organizações a converter conjuntos de dados estruturados em ativos de documentação reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de automação" %}}
+
+* **Fluxos de Trabalho de Modelo Automatizados**  
+  APIs Python podem gerar saídas compatíveis com OTT a partir de arquivos TSV estruturados.
+
+* **Sistemas de Documentação Repetíveis**  
+  A automação melhora a consistência na produção de modelos de formato aberto.
+
+* **Conversão de Modelo em Alta Volumetria**  
+  Arquivos TSV em massa podem ser transformados em saídas OTT de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

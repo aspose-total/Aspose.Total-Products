@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT vers XLTM transforme les modèles de documents en fichiers de modèles de feuilles de calcul avec macros, permettant la création répétable de classeurs avancés. Cela est utile lorsque les modèles de feuilles de calcul réutilisables doivent prendre en charge des fonctionnalités améliorées dans des flux de travail compatibles.
+
+Les API Python permettent la génération automatisée de fichiers XLTM à partir de sources DOT, aidant les organisations à créer efficacement des modèles de feuilles de calcul avancés et standardisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de modèle avec macros**
+  Convertir les fichiers DOT en modèles XLTM pour des flux de travail avancés de feuilles de calcul réutilisables.
+
+* **Conception réutilisable de classeurs avancés**
+  Réutiliser les structures de documents comme modèles de feuilles de calcul avec des capacités étendues.
+
+* **Modèles fonctionnels standardisés**
+  Prendre en charge la création répétable de classeurs à partir de sources de modèles basés sur des documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles avancés**
+  Les flux de travail Python peuvent produire des fichiers XLTM à partir de modèles DOT pour des processus métier récurrents.
+
+* **Standardisation de la bibliothèque de modèles**
+  La conversion aide à maintenir des modèles de feuilles de calcul avec macros cohérents entre les équipes.
+
+* **Préparation évolutive de classeurs fonctionnels**
+  Les systèmes programmatiques prennent en charge la création en masse d'actifs de modèles de feuilles de calcul avancés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から XLSB への変換は、マクロ対応ドキュメントを、ワークブック データの効率的な保存と取り扱いを目的としたバイナリ スプレッドシート ファイルに変換します。パフォーマンスに敏感なワークフローで、ドキュメント由来のコンテンツをコンパクトなスプレッドシート出力に移行する必要がある場合に有用です。
+
+自動化環境において、DOCM から XLSB への変換は、大規模なスプレッドシート生成、効率的なデータパッケージ化、構造化されたドキュメント コンテンツをワークブック パイプラインへスムーズに移行することを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **コンパクトなスプレッドシート出力**
+  ドキュメント データを、保存効率を最適化したバイナリ ワークブック ファイルに変換します。
+
+* **大量データの取り扱い**
+  大規模な構造化出力がコンパクトなスプレッドシート形式の恩恵を受けるシナリオをサポートします。
+
+* **運用ワークブックの再利用**
+  ドキュメント テーブルを高性能なスプレッドシート環境に取り込むのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **効率的なバッチ ワークブック生成**
+  スケーラブルな処理のために、DOCM ソースから XLSB ファイルを生成します。
+
+* **データ パイプラインの最適化**
+  コンパクトなスプレッドシートの保存と転送を優先するワークフローをサポートします。
+
+* **自動化された構造化エクスポート**
+  定期的なドキュメント コンテンツをプログラムでバイナリ ワークブック出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

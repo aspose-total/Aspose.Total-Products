@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DIF から DOCM への変換は、Python で構造化された DIF データをマクロ対応の Word ドキュメントにエクスポートし、高度な文書ワークフローを実現します。変換されたファイルが組織環境内で埋め込み自動化、テンプレートロジック、または文書動作をサポートする必要がある場合に有用です。
+
+Python API は、構造化データ変換とマクロ互換ドキュメント出力の両方を必要とするシステム向けに、DIF から DOCM への変換を効率的に行います。これにより、文書生成と下流の自動化が確実に連携するスケーラブルな処理パイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応レポート**
+  生成されたレポートがマクロベースのアクションや制御を必要とする場合、DIF ファイルを DOCM ドキュメントに変換します。
+
+* **エンタープライズテンプレートワークフロー**
+  内部業務でマクロ対応ドキュメント標準を使用する組織向けに DOCM ファイルを作成します。
+
+* **データ駆動型フォーム生成**
+  サポートされた Word 環境で自動化された動作をトリガーできるドキュメントに DIF データを変換します。
+
+* **プロセス制御ドキュメンテーション**
+  変換されたファイルが構造化されたレビューやタスク自動化システムの一部であるワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化コンプライアンス文書出力**
+  制御された繰り返し可能なコンプライアンスワークフローの一部として、DIF ソースから DOCM ファイルを生成します。
+
+* **プログラム的マクロ対応配信**
+  Python スクリプトを使用して、受信した DIF データセットをビジネスチーム向けのマクロ対応ドキュメントに変換します。
+
+* **大規模テンプレート投入**
+  事前定義されたドキュメント動作に依存する部門向けに、DOCM 出力の大量作成を自動化します。
+
+* **インテリジェントドキュメントパイプライン**
+  検証、ルーティング、ストレージを処理する大規模な自動化システムと DIF から DOCM への変換を接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

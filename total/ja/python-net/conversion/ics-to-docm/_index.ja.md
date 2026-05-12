@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS to DOCM 変換を Python API で行うと、カレンダー イベント データがマクロ対応の Word 文書に変換されます。これにより、埋め込みマクロによる高度な自動化をサポートする文書にスケジュール情報を組み込むことが可能になります。
+
+Python でこの変換を自動化すると、組織はカレンダー データをマクロ駆動のワークフローに統合でき、イベント スケジュールが文書の自動化やレポート作成プロセスをトリガーできるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要ユースケース" %}}
+
+* **自動化ドキュメントテンプレート**  
+  自動化レポート用に、マクロ対応ドキュメントにカレンダー データを埋め込む。
+
+* **ワークフロー統合**  
+  自動化プロセスをトリガーするドキュメント内でイベント情報を使用する。
+
+* **高度なレポート**  
+  カレンダー スケジュールとマクロ駆動の分析または書式設定を組み合わせる。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **マクロ駆動レポートシステム**  
+  ICS スケジュールから DOCM ファイルを自動的に生成する。
+
+* **ドキュメント自動化パイプライン**  
+  イベント データをマクロ ワークフローと統合し、ドキュメントの自動更新を行う。
+
+* **エンタープライズ スケジューリング ツール**  
+  カレンダー データを大規模にマクロ対応レポートに変換する。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

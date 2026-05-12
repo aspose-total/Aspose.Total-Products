@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODS vers OTT convertit les fichiers de feuille de calcul en modèles de texte OpenDocument. Ces modèles permettent des structures de documents réutilisables qui peuvent être utilisées pour une génération de documents cohérente.
+
+Les API Python permettent aux développeurs d’automatiser la création de documents modèles à partir du contenu des feuilles de calcul. Cela prend en charge des flux de travail documentaires évolutifs et une gestion efficace des modèles à travers les systèmes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles réutilisables**  
+  Convertir les structures de feuilles de calcul en modèles de documents réutilisables.
+
+* **Normalisation des documents**  
+  Assurer une mise en forme cohérente des documents grâce à des flux de travail basés sur des modèles.
+
+* **Structuration du contenu**  
+  Transformer les informations tabulaires des feuilles de calcul en documents prêts à être modélisés.
+
+* **Gestion des modèles Open Document**  
+  Maintenir des modèles standardisés dérivés des données de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles**  
+  Les flux de travail Python créent des modèles de documents à partir des entrées de feuilles de calcul.
+
+* **Traitement par lots des modèles**  
+  Les systèmes convertissent plusieurs fichiers ODS en modèles de documents réutilisables.
+
+* **Systèmes de documents dynamiques**  
+  Les flux de travail basés sur des modèles génèrent des documents de manière programmatique.
+
+* **Intégration de modèles dans les flux de travail**  
+  Les modèles dérivés des feuilles de calcul prennent en charge la création automatisée de documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

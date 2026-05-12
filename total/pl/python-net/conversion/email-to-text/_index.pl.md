@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji EMAIL do TEXT w 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja e‑maili na tekst w Pythonie wyodrębnia treść wiadomości do zwykłego tekstu w celu lekkiego przetwarzania, indeksowania i analizy. Jest przydatna, gdy formatowanie jest mniej istotne niż czytelność, możliwość wyszukiwania, interoperacyjność lub integracja z systemami opartymi na tekście.
+
+Ta konwersja jest bardzo przyjazna automatyzacji, ponieważ wyjścia w formie zwykłego tekstu są łatwe do parsowania, przekształcania, klasyfikacji i kierowania w ramach danych, wyszukiwania oraz potoków treści.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Wyszukiwalne wyodrębnianie wiadomości**
+  Konwertuj e‑maile do zwykłego tekstu w celu indeksowania i pełnotekstowego wyszukiwania.
+
+* **Proste archiwizowanie**
+  Zachowaj istotną treść wiadomości w kompaktowym i czytelnym formacie.
+
+* **Przygotowanie do przetwarzania danych**
+  Użyj wyjść tekstowych jako danych wejściowych do analiz, klasyfikacji lub przepływów pracy językowych.
+
+* **Interoperacyjność systemów**
+  Wymieniaj treść e‑maili łatwo między narzędziami opierającymi się na danych w formie zwykłego tekstu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki wydobywania tekstu**
+  Konwertuj strumienie e‑maili do zwykłego tekstu w celu automatycznego tagowania i analizy.
+
+* **Przepływy wydobywania wiedzy**
+  Wprowadzaj oczyszczoną treść e‑maili do systemów podsumowywania, wyszukiwania lub raportowania.
+
+* **Automatyzacja archiwizacji o niskim narzucie**
+  Przechowuj wersje tekstowe wiadomości w celu lekkiego przechowywania i odzyskiwania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

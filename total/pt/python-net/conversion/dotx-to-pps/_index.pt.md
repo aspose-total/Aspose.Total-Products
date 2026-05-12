@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para PPS converte o conteúdo de modelos do Word em um formato de apresentação de slides destinado à visualização direta. É útil quando o conteúdo do documento precisa ser distribuído como uma sequência visual pronta para apresentação, em vez de um arquivo de slide editável.
+
+Essa conversão suporta automação ao permitir a geração de apresentações de slides baseada em Python a partir de modelos, ajudando a simplificar os processos de publicação e entrega de apresentações.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Slides Prontos para Exibição**
+  Transforme o conteúdo do documento em ativos de apresentação de reprodução direta.
+
+* **Distribuição de Apresentação**
+  Compartilhe resultados visuais sem necessidade de edição adicional.
+
+* **Entrega Visual Baseada em Modelo**
+  Reutilize documentos estruturados como materiais de comunicação prontos para apresentação em slides.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Publicação Automatizada de Slides**
+  Gere arquivos PPS a partir de modelos DOTX para fluxos de trabalho de visualização direta.
+
+* **Briefings Visuais Recorrentes**
+  Produza apresentações de slides prontas para uso a partir de formatos de documento recorrentes.
+
+* **Padronização da Saída de Apresentação**
+  Entregue ativos de slides consistentes por meio de pipelines automatizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to Images 변환은 Word 템플릿 콘텐츠를 미리 보기, 공유, 게시 및 보관을 위한 시각적 출력으로 변환합니다. 문서 레이아웃을 이미지 자산으로 보존하여 다양한 플랫폼에서 쉽게 접근해야 할 때 유용합니다.
+
+이 변환은 Python API를 사용하여 템플릿의 이미지 기반 렌더링을 생성함으로써 자동화를 지원합니다. 이를 통해 콘텐츠 전달, 문서 미리 보기 및 편집 가능한 형식에 의존하지 않는 시각적 워크플로우를 구현할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 미리 보기 생성**
+  템플릿 콘텐츠를 이미지로 렌더링하여 빠른 조회 및 배포가 가능하도록 합니다.
+
+* **시각적 보관**
+  문서 외관을 저장 및 참조하기 쉬운 형식으로 보존합니다.
+
+* **크로스 플랫폼 공유**
+  편집 소프트웨어 없이 문서 콘텐츠를 시각적으로 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 및 미리 보기 파이프라인**
+  포털 및 저장소를 위해 DOTX 파일에서 이미지 미리 보기를 자동으로 생성합니다.
+
+* **게시 워크플로우**
+  템플릿을 웹사이트, 보고서 또는 시각적 문서 시스템용 이미지로 변환합니다.
+
+* **대규모 렌더링 작업**
+  표준화된 출력 제공을 위해 템플릿 배치를 이미지 세트로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

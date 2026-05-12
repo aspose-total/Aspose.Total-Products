@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC를 DOCX로 변환하면 스프레드시트 내용을 편집 가능하고 휴대 가능하며 구조화된 텍스트 기반 파일로 널리 사용되는 최신 문서 형식으로 바꿉니다. 스프레드시트 정보를 보고서, 요약, 제안서 또는 문서로 재활용해야 할 때 가독성과 호환성을 향상시켜 줍니다.
+
+Python API를 사용하면 SXC를 DOCX로 변환하여 표형 데이터를 디지털 워크플로, 콘텐츠 시스템 및 협업 검토 프로세스에 맞는 표준화된 출력물로 전환함으로써 확장 가능한 문서 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 보고서 작성**  
+  스프레드시트 기반 정보를 내부 및 외부 커뮤니케이션을 위한 정교한 문서로 변환합니다.
+
+* **편집 가능한 문서**  
+  소스 데이터를 문서 중심 환경에서 수정, 주석 달기 및 재사용하기 쉽게 만듭니다.
+
+* **형식 표준화**  
+  조직이 최신 문서 표준을 사용하여 팀 및 시스템 전반에 걸쳐 출력 형식을 통합하도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 보고 자동화**  
+  정기적인 보고 작업의 일환으로 SXC 소스에서 DOCX 파일을 자동으로 생성합니다.
+
+* **문서 워크플로 통합**  
+  변환된 파일을 수동 재포맷 없이 승인, 협업 또는 출판 시스템에 전달합니다.
+
+* **동적 콘텐츠 생성**  
+  Python 기반 서비스가 대규모로 개인화되거나 데이터 기반 문서를 생성하도록 허용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

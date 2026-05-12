@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPT를 TSV로 변환하면 프레젠테이션 데이터를 탭으로 구분된 형식으로 변환하여 추출된 슬라이드 콘텐츠를 데이터 파이프라인, 스프레드시트 및 깔끔한 구분자 기반 구조를 선호하는 시스템 통합에서 보다 쉽게 처리할 수 있습니다. 프레젠테이션 자료를 구조화된 기계 판독 워크플로우로 전송해야 할 때 유용합니다.
+
+자동화 사용 사례에서는 PPT를 TSV로 변환함으로써 대량 처리, 간소화된 데이터 교환, 그리고 프레젠테이션 콘텐츠를 분석 또는 변환 환경으로 효율적으로 이동할 수 있도록 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 데이터 내보내기**  
+  슬라이드 콘텐츠를 구문 분석 및 변환에 적합한 탭 구분 형식으로 변환합니다.
+
+* **시스템 친화적 데이터 교환**  
+  프레젠테이션 소스와 하위 도구 간의 상호 운용성을 지원합니다.
+
+* **스프레드시트 가져오기 준비**  
+  변환된 콘텐츠를 표 형식 애플리케이션에서 쉽게 열고 처리할 수 있게 합니다.
+
+* **대규모 콘텐츠 처리**  
+  추출된 프레젠테이션 데이터를 대량으로 관리하기 위한 경량 형식을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **반복적인 데이터 변환**  
+  PPT를 TSV로 변환하는 작업을 자동화하여 처리 파이프라인에 정기적으로 삽입합니다.
+
+* **ETL 워크플로우 지원**  
+  TSV 출력을 구조화된 추출 및 로드 작업을 위한 중간 형식으로 사용합니다.
+
+* **프레젠테이션 데이터 정규화**  
+  슬라이드에서 추출된 콘텐츠를 일관된 기계 판독 구조로 표준화합니다.
+
+* **배치 통합 처리**  
+  프레젠테이션에서 파생된 데이터를 운영 시스템으로 대량 전송할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

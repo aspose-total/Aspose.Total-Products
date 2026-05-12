@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+문서를 XLT로 변환하면 Word 콘텐츠가 반복 가능한 워크북 생성 및 표준화를 지원하는 스프레드시트 템플릿 파일로 바뀝니다. 문서에서 파생된 구조를 재사용 가능한 스프레드시트 기반으로 전환해야 할 때 유용합니다.
+
+Python API를 사용하면 DOC를 XLT로 변환하는 작업을 자동화하여 일관된 템플릿 생성, 운영 재사용 및 효율적인 스프레드시트 제작을 구현할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 템플릿 생성**
+  구조화된 문서 콘텐츠를 재사용 가능한 스프레드시트 템플릿으로 변환합니다.
+
+* **표준화된 워크북 설계**
+  XLT 출력물을 사용하여 일관된 레이아웃과 데이터 구조를 유지합니다.
+
+* **재사용 가능한 비즈니스 양식**
+  문서를 워크북 템플릿으로 재활용하여 반복적으로 사용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 라이브러리 자동화**
+  DOC 기반 원본 자료에서 XLT 파일을 자동으로 생성합니다.
+
+* **반복 가능한 스프레드시트 설정**
+  표준화된 문서에서 프로그래밍 방식으로 워크북 템플릿을 생성합니다.
+
+* **운영 콘텐츠 재사용**
+  반복되는 양식 및 보고서를 템플릿 기반 스프레드시트 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

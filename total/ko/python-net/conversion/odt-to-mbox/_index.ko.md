@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 ODT를 MBOX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to MBOX 변환은 문서 내용을 그룹화된 메시지 저장 및 보관 워크플로에 적합한 메일함 스타일 형식으로 변환합니다. 이는 문서 텍스트를 이메일과 같은 저장, 마이그레이션 또는 기록 통합을 위해 패키징해야 할 때 유용합니다.
+
+Python API를 사용하면 ODT to MBOX 변환을 자동화된 보관 및 커뮤니케이션 파이프라인에 통합할 수 있습니다. 이는 문서 내용을 다운스트림 처리용 메시지 지향 컨테이너로 일관되게 변환하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 준비**  
+  문서를 번들 메시지 저장에 적합한 형식으로 변환합니다.
+
+* **커뮤니케이션 기록 패키징**  
+  문서에서 파생된 콘텐츠를 이메일 중심 아카이브와 함께 정리하는 데 도움이 됩니다.
+
+* **마이그레이션 지원**  
+  콘텐츠를 메시지 기반 저장소로 이동하는 것을 용이하게 합니다.
+
+* **대량 콘텐츠 통합**  
+  여러 변환된 항목을 그룹화하여 저장할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **아카이브 생성 워크플로**  
+  Python 작업은 여러 ODT 파일을 메일함 스타일 출력으로 자동 변환할 수 있습니다.
+
+* **보존 파이프라인 지원**  
+  자동화 시스템은 문서에서 파생된 메시지를 장기 아카이브에 저장할 수 있습니다.
+
+* **대량 패키징 작업**  
+  대량 문서 배치를 전송 가능한 메일함 파일로 그룹화할 수 있습니다.
+
+* **콘텐츠 마이그레이션 자동화**  
+  변환 파이프라인은 메일함 컨테이너에 의존하는 시스템을 위한 레코드를 준비할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

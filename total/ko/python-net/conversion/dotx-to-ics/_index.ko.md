@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTX를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 ICS로 변환하면 Word 템플릿 콘텐츠를 이벤트 일정 및 시간 기반 워크플로에 사용할 수 있는 캘린더 호환 데이터로 변환합니다. 구조화된 문서 콘텐츠에 회의, 마감일 또는 일정 정보가 포함되어 캘린더 시스템에서 재사용해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환을 통해 템플릿에서 캘린더 항목을 자동으로 생성할 수 있어, 팀이 일정 관리, 알림 및 이벤트 배포를 통합 시스템 전반에 걸쳐 효율화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이벤트 추출**
+  일정 관련 문서 콘텐츠를 캘린더 준비 파일로 변환합니다.
+
+* **회의 배포**
+  구조화된 템플릿을 참가자를 위한 재사용 가능한 캘린더 항목으로 전환합니다.
+
+* **마감일 관리**
+  문서의 중요한 날짜를 추적 가능한 일정 자산으로 재구성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 캘린더 생성**
+  이벤트 기반 워크플로에서 DOTX 템플릿으로부터 ICS 파일을 생성합니다.
+
+* **알림 및 일정 파이프라인**
+  변환된 출력을 사용하여 자동화된 계획 및 알림 시스템을 채웁니다.
+
+* **템플릿 기반 이벤트 게시**
+  반복되는 문서 형식에서 일관된 캘린더 파일을 대규모로 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

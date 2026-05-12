@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to MOBI 変換は、構造化された表形式データをデジタル読書とポータブルコンテンツ配布をサポートする eBook 用フォーマットに変換します。これは、TSV ベースの情報を知識提供やドキュメントパッケージングのために長文の読みやすいコンテンツに再利用する必要がある場合に有用です。
+
+Python API を使用すると、TSV から MOBI への変換を自動化でき、デジタル出版ワークフローを効率化し、スケールで生データをポータブルな読書体験に変換することが容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **ポータブルナレッジ出版**  
+  構造化データを配布用の eBook 互換コンテンツに変換します。
+
+* **読みやすいリファレンス資料**  
+  表形式情報をよりアクセスしやすい読書フォーマットで提示するのに役立ちます。
+
+* **デジタルコンテンツパッケージング**  
+  TSV データをダウンロード可能なドキュメント資産に再利用することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化 eBook 生成**  
+  Python API は、繰り返し使用される TSV 入力をデジタル配信用の MOBI ファイルに変換できます。
+
+* **コンテンツ再利用パイプライン**  
+  自動化により、バックエンドデータを読者に優しい出版出力に変換することが支援されます。
+
+* **大量出版ワークフロー**  
+  複数の TSV データセットをプログラムで効率的に MOBI 形式に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

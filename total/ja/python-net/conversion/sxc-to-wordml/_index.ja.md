@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から WordML への変換は、スプレッドシートの内容を XML ベースのワードプロセッシング形式に変換し、構造化ドキュメントの生成、変換、システムレベルの相互運用性に役立ちます。特に、ドキュメントの内容を機械可読のまま保ち、XML 対応のワークフローに容易に統合できる必要がある場合に重要です。
+
+Python API を使用すると、SXC から WordML への変換は、データ駆動型の出版やエンタープライズ処理システム内で、プログラムによるドキュメント作成、検証、変換を可能にし、スケーラブルな自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **XMLベースのドキュメント生成**  
+  スプレッドシートデータを機械可読のドキュメントワークフローに適した構造化フォーマットに変換します。
+
+* **システム相互運用性**  
+  XML ベースの資産を処理または交換するプラットフォームにドキュメント内容を統合するのに役立ちます。
+
+* **構造化コンテンツ管理**  
+  変換が多用される環境におけるドキュメント構成の正確な制御をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **プログラムによるドキュメント組み立て**  
+  Python API を使用して、構造化自動化パイプラインに適合する WordML 出力を生成します。
+
+* **XML ワークフロー統合**  
+  スプレッドシート由来のコンテンツを検証、変換、または出版システムへ移行できるようにします。
+
+* **スケーラブルなデータからドキュメントへの処理**  
+  変化するスプレッドシート入力から機械可読ドキュメントを動的に生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

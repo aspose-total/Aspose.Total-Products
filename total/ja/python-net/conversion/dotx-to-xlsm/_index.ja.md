@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から XLSM への変換は、Word テンプレートのコンテンツをマクロ対応のスプレッドシート形式に変換し、高度なブックワークフローに対応します。構造化された文書データを、オートメーション対応の動作をサポートするスプレッドシートで再利用する必要がある場合に有用です。
+
+Python API を使用すると、この変換により、より複雑なエンタープライズや運用プロセスに適合したスプレッドシート出力をスケーラブルに生成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スプレッドシートの作成**
+  文書コンテンツを高度なワークフローに適したブック形式に変換します。
+
+* **運用データの再利用**
+  テンプレートから派生した情報を構造化されたスプレッドシート環境に移行します。
+
+* **複雑なレポート作成のサポート**
+  よりリッチな処理シナリオ向けにスプレッドシート出力を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたブックの作成**
+  定期的なレポートシステムで DOTX テンプレートから XLSM ファイルを生成します。
+
+* **高度なスプレッドシートパイプライン**
+  自動化対応ブック形式を必要とするワークフローで変換された出力を使用します。
+
+* **スケーラブルなデータ変換**
+  プログラムで繰り返し使用される文書構造を、充実したスプレッドシート資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

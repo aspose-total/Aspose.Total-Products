@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 PPSM 변환은 OpenDocument 텍스트 파일을 직접 프레젠테이션에 사용할 수 있도록 매크로가 포함된 슬라이드쇼 형식으로 변환합니다. 이는 프레젠테이션 출력에 슬라이드쇼 동작과 고급 자동화 기능이 모두 필요할 때 유용합니다.
+
+Python API를 사용하면 ODT에서 PPSM 변환이 특수 보고 및 전달 워크플로를 위한 프레젠테이션 준비 출력의 확장 가능한 생성을 지원합니다. 이는 고급 문서-슬라이드쇼 자동화 프로세스를 간소화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 슬라이드쇼 생성**  
+  작성된 문서를 고급 기능이 포함된 슬라이드쇼 출력으로 변환합니다.
+
+* **프레젠테이션 전달 자동화**  
+  직접 보기 프레젠테이션 파일을 생성하는 워크플로를 지원합니다.
+
+* **구조화된 커뮤니케이션 출력**  
+  소스 콘텐츠를 디스플레이 중심의 프레젠테이션 자산으로 전환합니다.
+
+* **고급 워크플로 통합**  
+  스크립트화되거나 향상된 프레젠테이션 동작이 필요한 시나리오에 적합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **특수 슬라이드쇼 파이프라인**  
+  Python 스크립트를 사용하여 ODT 콘텐츠를 자동 전달 프로세스를 위한 PPSM으로 변환할 수 있습니다.
+
+* **배치 프레젠테이션 게시**  
+  여러 파일을 최소한의 수동 작업으로 슬라이드쇼 출력으로 변환할 수 있습니다.
+
+* **템플릿 기반 출력 생성**  
+  구조화된 문서는 고급 슬라이드 프레젠테이션 워크플로에 자동으로 공급될 수 있습니다.
+
+* **운영 보고 전달**  
+  슬라이드쇼 파일은 반복되는 프레젠테이션 주기를 위해 프로그래밍 방식으로 생성될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

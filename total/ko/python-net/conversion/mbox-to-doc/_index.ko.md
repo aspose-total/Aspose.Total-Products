@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 DOC로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX를 DOC로 변환하면 메일함 데이터를 편집 가능한 Word 호환 문서로 전환하여 팀이 이메일 내용을 보고, 검토 및 구조화된 문서화에 재사용할 수 있도록 돕습니다. 메시지를 재포맷하거나 주석을 달거나 더 넓은 비즈니스 기록에 통합해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환을 자동화하여 문서 생성 효율을 높이고 수동 복사·붙여넣기 작업을 줄이며, 이메일 아카이브를 재사용 가능한 사무용 콘텐츠로 변환하는 확장 가능한 워크플로를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **편집 가능한 이메일 문서화**
+  보관된 이메일을 편집 가능한 문서 파일로 변환하여 수정 및 서식 지정에 활용합니다.
+
+* **비즈니스 기록 컴파일**
+  메시지 내용을 보고, 승인 또는 검토에 사용되는 문서로 결합합니다.
+
+* **지식 재사용**
+  중요한 메일함 콘텐츠를 운영 문서에 재활용하기 쉽게 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 보고서 조립**
+  선택된 이메일을 DOC 파일로 변환하여 정기 비즈니스 보고서에 포함합니다.
+
+* **콘텐츠 추출 파이프라인**
+  메일함 아카이브를 편집 가능한 문서로 변환하여 하위 검토 워크플로에 활용합니다.
+
+* **대량 사무 문서 생성**
+  Python 자동화를 사용해 대규모 이메일 데이터셋에서 정리된 DOC 출력물을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

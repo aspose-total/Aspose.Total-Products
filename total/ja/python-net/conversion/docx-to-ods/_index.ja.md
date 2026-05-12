@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から ODS への変換は、ワードプロセッシング文書を OpenDocument スプレッドシート ファイルに変換し、構造化されたまたは表形式のコンテンツをスプレッドシート ワークフローで再利用できるようにします。この変換は、データ抽出とオープンオフィスシステムとの相互運用性をサポートします。
+
+Python API を使用すると、DOCX から ODS への変換を自動レポート作成、分析、文書変換パイプラインに統合できます。組織がナラティブ文書から構造化データをスプレッドシート主導のプロセスに移行するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープン スプレッドシート エクスポート**  
+  構造化された DOCX コンテンツをオープン標準に基づくスプレッドシート ファイルに変換します。
+
+* **表形式データ抽出**  
+  文書の表や整理されたコンテンツを分析用に再利用できるようにします。
+
+* **クロスプラットフォーム データ相互運用性**  
+  オープン スプレッドシート形式を使用するオフィススイートとの互換性をサポートします。
+
+* **文書からデータへのワークフロー**  
+  構造化情報をスプレッドシート システムに移行することを容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動データ抽出パイプライン**  
+  DOCX ファイルを ODS スプレッドシートに変換し、下流の分析ワークフローで使用できます。
+
+* **バッチ オープン スプレッドシート生成**  
+  Python スクリプトで複数の文書を処理し、プログラムでスプレッドシート ファイルをエクスポートできます。
+
+* **相互運用可能なレポーティング システム**  
+  エンタープライズ ワークフローは、文書コンテンツを ODS 形式に変換し、より広いアクセシビリティを提供できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

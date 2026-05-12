@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de TSV para DOT transforma dados separados por tabulação em arquivos de modelo de processamento de texto que podem suportar a criação padronizada de documentos. Isso é útil quando dados estruturados precisam alimentar padrões de documentação repetíveis e fluxos de trabalho de publicação baseados em modelos.
+
+Com APIs Python, a conversão de TSV para DOT pode ser automatizada para produzir saídas reutilizáveis baseadas em modelos, melhorando a escalabilidade, consistência e eficiência em processos de geração de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preparação de Modelo**  
+  Converte o conteúdo TSV em formatos alinhados com estruturas de documentos reutilizáveis.
+
+* **Documentação Padronizada**  
+  Suporta formatação uniforme para tarefas repetidas de relatórios ou geração de registros.
+
+* **Fluxos de Trabalho de Distribuição de Conteúdo**  
+  Ajuda a preparar dados estruturados para sistemas de documentos centrados em modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Estruturas de Documentos Reutilizáveis**  
+  A automação pode transformar dados TSV em saídas orientadas a modelos para uso recorrente.
+
+* **Pipelines Operacionais de Documentos**  
+  APIs Python podem conectar exportações de dados a etapas padronizadas de geração de modelos.
+
+* **Processamento de Alto Volume**  
+  Vários conjuntos de dados TSV podem ser convertidos em arquivos DOT com lógica consistente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

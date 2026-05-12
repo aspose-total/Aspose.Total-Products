@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to OST conversion converte i documenti abilitati alle macro in dati adatti a flussi di lavoro offline in stile casella di posta, dove è importante l'archiviazione sincronizzata delle comunicazioni. È utile in scenari in cui il contenuto derivato dai documenti deve allinearsi con ambienti di comunicazione memorizzati nella cache e processi di archiviazione della posta strutturati.
+
+Dal punto di vista dell'automazione, la conversione da DOCM a OST supporta la preparazione dell'archiviazione, flussi di lavoro di sincronizzazione controllata e la trasformazione scalabile del contenuto dei documenti in strutture orientate alla posta.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Supporto per l'archiviazione offline della posta**
+  Aiuta ad adattare il contenuto dei documenti per flussi di lavoro che coinvolgono dati di caselle di posta sincronizzate.
+
+* **Conservazione dei registri di comunicazione**
+  Supporta la conservazione delle informazioni derivate dai documenti all'interno di contesti di archiviazione orientati alla posta.
+
+* **Allineamento dei flussi di lavoro aziendali**
+  Collega le risorse documentali con ambienti costruiti attorno a repository di comunicazione memorizzati nella cache.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Preparazione automatizzata dei dati di posta**
+  Converte i file DOCM in output adatti a flussi di lavoro di caselle di posta strutturate.
+
+* **Pipeline di conservazione e sincronizzazione**
+  Supporta la gestione dell'archiviazione e della sincronizzazione guidata dai processi.
+
+* **Operazioni di conversione in blocco**
+  Elabora collezioni di documenti in output compatibili con l'archiviazione della posta in modo efficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

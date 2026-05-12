@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 MOBI로의 변환은 스프레드시트 파일을 디지털 독서 기기에 최적화된 형식으로 변환합니다. 이를 통해 구조화된 스프레드시트 정보를 휴대용으로 볼 수 있는 읽기 가능한 문서로 배포할 수 있습니다.
+
+Python API는 스프레드시트 콘텐츠를 전자책 준비 형식으로 자동 변환할 수 있게 합니다. 이는 확장 가능한 출판 워크플로, 자동 문서 생성 및 디지털 콘텐츠 배포 시스템을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **디지털 독서를 위한 데이터 출판**  
+  스프레드시트 기반 정보를 휴대용 디지털 문서로 변환합니다.
+
+* **구조화된 콘텐츠 배포**  
+  스프레드시트 데이터 세트를 디지털 소비를 위한 읽기 가능한 형식으로 변환합니다.
+
+* **보고서 출판**  
+  분석 스프레드시트를 형식화된 디지털 문서로 변환합니다.
+
+* **콘텐츠 재활용**  
+  스프레드시트 콘텐츠를 전자책 스타일 문서에 맞게 조정합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동화된 출판 파이프라인**  
+  Python 워크플로가 스프레드시트를 자동으로 디지털 독서 형식으로 변환합니다.
+
+* **대량 디지털 문서 생성**  
+  시스템이 여러 스프레드시트를 휴대용 독서 문서로 처리합니다.
+
+* **동적 콘텐츠 출판**  
+  프로그래밍 워크플로가 스프레드시트 입력으로부터 독자 친화적인 문서를 생성합니다.
+
+* **디지털 콘텐츠 배포 시스템**  
+  변환 파이프라인이 자동화된 출판 인프라를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

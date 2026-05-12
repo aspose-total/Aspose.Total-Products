@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から PPSM への変換は、OpenDocument Text ファイルを直接プレゼンテーションで使用できるマクロ対応スライドショー形式に変換します。これは、プレゼンテーションの出力にスライドショーの動作と高度な自動機能の両方が必要な場合に有用です。
+
+Python API を使用すると、ODT から PPSM への変換は、専門的なレポート作成や配信ワークフロー向けにスケーラブルなプレゼンテーション対応出力の生成をサポートします。高度な文書からスライドショーへの自動化プロセスを効率化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応スライドショー作成**  
+  文書を高度な機能を備えたスライドショー出力に変換します。
+
+* **プレゼンテーション配信の自動化**  
+  直接表示可能なプレゼンテーションファイルを生成するワークフローをサポートします。
+
+* **構造化コミュニケーション出力**  
+  ソースコンテンツを表示重視のプレゼンテーション資産に変換します。
+
+* **高度なワークフロー統合**  
+  スクリプト化された、または拡張されたプレゼンテーション動作が必要なシナリオに適合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **専門的なスライドショーパイプライン**  
+  Python スクリプトは ODT コンテンツを PPSM に変換し、自動配信プロセスに利用できます。
+
+* **バッチプレゼンテーション公開**  
+  複数のファイルを最小限の手作業でスライドショー出力に変換できます。
+
+* **テンプレート駆動の出力生成**  
+  構造化された文書は高度なスライドプレゼンテーションワークフローに自動的に供給できます。
+
+* **運用レポート配信**  
+  スライドショーファイルは、定期的なプレゼンテーションサイクル向けにプログラムで作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

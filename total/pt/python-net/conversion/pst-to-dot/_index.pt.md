@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para DOT nas APIs Python converte o conteúdo da caixa de correio em arquivos de modelo Word para geração de documentos reutilizáveis. Isso é útil quando o conteúdo baseado em e‑mail precisa ser padronizado em layouts repetíveis que suportam formatação consistente e saída estruturada downstream.
+
+Em cenários de automação, a conversão de PST para DOT ajuda as organizações a criar fluxos de trabalho baseados em modelos a partir de comunicações arquivadas. Ela apoia a eficiência ao transformar os dados da caixa de correio em bases reutilizáveis para relatórios recorrentes, arquivos de caso ou documentos operacionais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo Reutilizável**
+  Converte o conteúdo derivado de PST em arquivos DOT para estruturas de documentos repetíveis.
+
+* **Layouts de Relatórios Padronizados**
+  Ajuda a manter formatação consistente em todas as saídas de documentos gerados a partir de e‑mails.
+
+* **Preparação de Fluxo de Trabalho de Documentos**
+  Suporta cenários onde os dados da caixa de correio servem como base para modelos recorrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Registros Baseada em Modelo**
+  Sistemas automatizados podem usar as saídas DOT para construir fluxos de documentação repetíveis.
+
+* **Pipelines de Formatação Consistente**
+  A conversão garante que o conteúdo de e‑mail arquivado esteja alinhado com regras de layout predefinidas.
+
+* **Montagem de Documentos Escalável**
+  O processamento programático torna a criação de modelos a partir de dados da caixa de correio mais rápida e uniforme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

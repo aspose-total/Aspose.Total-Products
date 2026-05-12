@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OFT vers MD à l'aide des API Python transforme les modèles d'e‑mails Outlook en fichiers Markdown pour une gestion de contenu textuel légère, structurée et portable. Ceci est utile lorsque le contenu des modèles doit être réutilisé dans des systèmes de documentation, des flux de travail de développeurs ou des pipelines de publication de contenu.
+
+Dans des environnements axés sur l'automatisation, la conversion OFT vers MD prend en charge le contrôle de version, la modification facile et l'intégration transparente avec les générateurs de sites statiques et les plateformes de documentation. Elle améliore la portabilité du contenu et simplifie le traitement programmatique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Réutilisation de la documentation**  
+  Convertir les modèles OFT en Markdown pour les inclure dans des guides, des bases de connaissances ou des documents internes.
+
+* **Gestion de contenu versionnée**  
+  Stocker le contenu converti dans des dépôts textuels pour le suivi et l'édition collaborative.
+
+* **Préparation de publication structurée**  
+  Préparer le contenu d'origine e‑mail pour des sites statiques ou des systèmes de publication basés sur Markdown.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation du pipeline de contenu**  
+  Transformer automatiquement les fichiers OFT en Markdown pour les flux de travail de publication et de documentation.
+
+* **Gestion de modèles basée sur le dépôt**  
+  Pousser les fichiers MD convertis dans des systèmes sous contrôle de source pour une maintenance évolutive.
+
+* **Transformation programmatique du contenu**  
+  Utiliser les API Python pour normaliser et distribuer le contenu des modèles sur des plateformes textuelles modernes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

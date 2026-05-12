@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 Excel을 DOCM으로 변환하면 스프레드시트 내용을 매크로 지원 워드 프로세싱 문서로 내보낼 수 있어 고급 문서 워크플로우에 활용됩니다. 변환된 파일이 편집 가능하면서 문서 환경에서 매크로 기반 작업을 지원해야 할 때 유용합니다.
+
+이 변환은 스프레드시트 데이터와 프로그래밍 가능한 문서 동작을 연결하여 자동화와 관련이 있으며, 인터랙티브하고 프로세스 인식 파일을 확장 가능하게 생성할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 보고**  
+  Excel 파일을 DOCM 문서로 변환하여 워드 프로세싱 워크플로우 내에서 자동화 작업을 지원할 수 있습니다.
+
+* **프로세스 문서**  
+  구조화된 데이터와 내장된 문서 자동화 기능을 결합한 편집 가능한 파일을 준비합니다.
+
+* **운영 템플릿**  
+  스프레드시트 데이터를 사용하여 반복 가능한 매크로 기반 작업을 위해 설계된 문서를 채웁니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 문서 조립**  
+  Excel 입력을 DOCM 출력으로 변환하여 편집 가능하고 스크립트 준비가 된 문서를 필요로 하는 워크플로우에 활용합니다.
+
+* **내부 프로세스 자동화**  
+  서식 지정, 검증 또는 안내된 완성을 위해 매크로 지원 파일에 의존하는 부서를 지원합니다.
+
+* **데이터-문서 파이프라인**  
+  Python API를 사용하여 스프레드시트 기반 원본 데이터에서 프로그래밍 방식으로 DOCM 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

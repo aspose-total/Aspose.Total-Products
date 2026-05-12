@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX를 XLSM으로 변환하면 프레젠테이션 콘텐츠가 구조화된 데이터 저장과 고급 스프레드시트 자동화 기능을 결합한 매크로 사용 스프레드시트 형식으로 바뀝니다. 프레젠테이션에서 파생된 정보가 수식, 논리 기반 처리 또는 워크플로 기반 스프레드시트 작업을 지원해야 할 때 유용합니다.
+
+현대 자동화 환경에서는 PPSX를 XLSM으로 변환함으로써 프레젠테이션 데이터를 프로그래밍 가능한 스프레드시트 생태계에 도입하고 Python API를 통한 확장 가능한 프로세스 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 스프레드시트 생성**  
+  슬라이드 콘텐츠를 고급 자동화 작업을 지원할 수 있는 스프레드시트로 변환합니다.
+
+* **동적 데이터 재사용**  
+  프레젠테이션에서 파생된 정보를 인터랙티브한 스프레드시트 워크플로에 적합하게 만듭니다.
+
+* **프로세스 기반 스프레드시트 출력**  
+  스프레드시트 로직이 운영 처리의 일부인 환경을 지원합니다.
+
+* **구조화된 자동화 준비**  
+  추출된 콘텐츠를 워크플로 준비된 스프레드시트 형식에 배치할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **스프레드시트 자동화 파이프라인**  
+  Python API를 사용하여 PPSX 파일을 고급 스프레드시트 워크플로를 위한 XLSM으로 변환할 수 있습니다.
+
+* **반복 데이터 처리 작업**  
+  자동화를 통해 필요에 따라 프레젠테이션 데이터에서 매크로 사용 스프레드시트를 생성할 수 있습니다.
+
+* **엔터프라이즈 워크플로 통합**  
+  변환된 파일은 대규모 프로세스 중심 스프레드시트 환경을 지원할 수 있습니다.
+
+* **동적 사용을 위한 대량 변환**  
+  프로그래밍 시스템은 대규모 프레젠테이션 세트를 자동화 준비된 스프레드시트로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 MSG로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to MSG 변환은 Python API에서 OpenDocument 텍스트 템플릿을 데스크톱 이메일 생태계에서 저장 및 교환에 사용되는 메시지 파일로 변환합니다. 이는 구조화된 문서 내용이 일반 문서가 아니라 재사용 가능한 이메일 아티팩트가 되어야 할 때 유용합니다.
+
+이 변환은 자동화를 지원하여 팀이 템플릿으로부터 프로그래밍 방식으로 메시지 파일을 생성하고 검토, 보관 또는 대규모 커뮤니케이션 워크플로에 통합할 수 있도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메시지 파일 생성**  
+  문서 템플릿을 구조화된 이메일 메시지 파일로 변환합니다.
+
+* **커뮤니케이션 워크플로 지원**  
+  이메일 중심 환경에서 문서 내용을 재사용할 수 있게 합니다.
+
+* **휴대 가능한 메시지 저장**  
+  쉽게 저장하고 전송할 수 있는 메시지 출력을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 메시지 생성**  
+  표준화된 OTT 템플릿에서 다수의 MSG 파일을 생성합니다.
+
+* **승인 기반 이메일 워크플로**  
+  전달 또는 보관 전에 검토 가능한 메시지 파일을 만듭니다.
+
+* **시스템 통합**  
+  문서 생성 파이프라인을 메시지 처리 프로세스와 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

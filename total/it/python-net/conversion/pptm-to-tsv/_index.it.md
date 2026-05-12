@@ -64,7 +64,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da PPTM a TSV con le API Python converte i dati delle presentazioni con macro in un formato di testo a valori separati da tabulazione ottimizzato per lo scambio semplice di dati strutturati. È utile quando le tabelle delle diapositive o i record estratti devono essere trasferiti in sistemi che preferiscono formati di testo semplice basati su delimitatori.
+
+La conversione è particolarmente adatta all'automazione perché i file TSV sono facili da generare, analizzare, convalidare e importare nei flussi di lavoro di analisi o ETL. Aiuta a semplificare il trasferimento dei dati dalle fonti di presentazione verso i sistemi a valle senza un pesante sovraccarico di formattazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di dati strutturati**
+  Converte i dati basati su diapositive in un semplice formato di testo orientato a colonne per l'elaborazione.
+
+* **Scambio di dati sistema‑a‑sistema**
+  Rende più semplice spostare i dati derivati dalle presentazioni tra script e applicazioni.
+
+* **Conservazione leggera dei dati**
+  Memorizza il contenuto delle tabelle estratte in una forma compatta e leggibile dalla macchina.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di input ETL**
+  Produce file TSV dalle presentazioni per l'ingestione automatizzata nei pipeline di dati.
+
+* **Trasformazione di dati in blocco**
+  Supporta l'esportazione su larga scala dei dati delle presentazioni in output di testo basati su delimitatori.
+
+* **Flussi di lavoro di convalida e parsing**
+  Consente un'elaborazione automatizzata ed efficiente dei record convertiti tra i sistemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

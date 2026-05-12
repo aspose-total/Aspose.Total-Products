@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a XLS trasforma i modelli Word abilitati alle macro in file di foglio di calcolo Excel classici per l'analisi di dati strutturati e la compatibilità con fogli di calcolo legacy. È utile quando le informazioni derivanti da documenti devono essere riutilizzate in ambienti di fogli di calcolo più vecchi.
+
+L'uso delle API Python per la conversione da DOTM a XLS migliora l'automazione estraendo il contenuto dai modelli in file di foglio di calcolo senza copia manuale. Questo supporta reportistica scalabile, migrazione dei dati e flussi di lavoro aziendali focalizzati sulla compatibilità.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di Foglio di Calcolo Legacy**
+  Converti il contenuto DOTM in XLS per flussi di lavoro che dipendono ancora da formati Excel più vecchi.
+
+* **Conversione di Tabelle Strutturate**
+  Sposta le tabelle dei documenti e i valori ripetuti in forma di foglio di calcolo per l'analisi.
+
+* **Condivisione Dati Orientata alla Compatibilità**
+  Consenti lo scambio di dati derivati da documenti con sistemi che richiedono file di foglio di calcolo classici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Creazione Automatizzata di Cartelle di Lavoro Legacy**
+  I flussi di lavoro possono generare file XLS dai modelli DOTM per la compatibilità con sistemi consolidati.
+
+* **Supporto alla Pipeline di Reporting**
+  La conversione aiuta ad automatizzare il trasferimento di dati strutturati dei documenti in fogli di calcolo per la revisione.
+
+* **Elaborazione Batch da Documento a Cartella di Lavoro**
+  I processi programmati supportano la conversione su larga scala di file DOTM in output XLS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

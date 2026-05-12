@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to PPTM 変換は、マクロ対応ドキュメントをマクロ対応プレゼンテーション ファイルに変換し、スライドベースのコミュニケーションと高度な自動化機能を組み合わせます。プレゼンテーションの出力で、変換されたコンテンツとともにインタラクティブまたはスクリプト化された要素を保持する必要がある場合に便利です。
+
+自動化重視のワークフローでは、DOCM to PPTM 変換は再利用可能で編集可能なプレゼンテーションをサポートし、より動的なレポート作成や配信パイプラインに参加できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応プレゼンテーション作成**
+  文書コンテンツを高度な自動化サポート付きの編集可能なプレゼンテーションに変換します。
+
+* **インタラクティブ レポート資産**
+  埋め込みロジックや自動化アクションを必要とするスライド出力をサポートします。
+
+* **再利用可能なプレゼンテーション ワークフロー**
+  公式文書ソースから動的なプレゼンテーション資料を構築するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された動的スライド生成**
+  DOCM 入力から PPTM ファイルを生成し、高度なプレゼンテーションプロセスを実現します。
+
+* **埋め込みロジックの保持**
+  変換された出力で自動化指向のスライド機能を維持します。
+
+* **スケーラブルなレポート パイプライン**
+  大量の変換をマクロ対応プレゼンテーション資産としてサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

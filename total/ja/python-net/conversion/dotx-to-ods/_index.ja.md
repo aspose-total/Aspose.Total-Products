@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から ODS への変換は、Word テンプレートのコンテンツを構造化データ処理とオープン標準ワークフローのための OpenDocument スプレッドシート形式に変換します。専有フォーマットに依存せず、文書情報を編集可能なスプレッドシート形式で表現する必要がある場合に役立ちます。
+
+この変換により、Python ベースでオープンなスプレッドシートファイルを生成できるようになり、レポート作成、レビュー、データ処理システムへ大規模に統合することで自動化が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープン スプレッドシート ワークフロー**
+  オープン標準を使用して、文書コンテンツを編集可能なスプレッドシートファイルに変換します。
+
+* **データ再利用**
+  テンプレートから構造化された情報を表形式の業務プロセスに転送します。
+
+* **相互運用可能なレポーティング**
+  オープンなスプレッドシート形式を使用するシステム間の協働を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なスプレッドシートエクスポート**
+  レポートサイクルのために、DOTX テンプレートから ODS ファイルを自動的に生成します。
+
+* **オープン データ パイプライン**
+  変換されたスプレッドシート出力を、標準ベースのフォーマットで構築されたシステムへルーティングします。
+
+* **文書からテーブルへの自動化**
+  繰り返し使用されるテンプレートコンテンツをスプレッドシート資産に変換する規模を拡大します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para GIF em APIs Python permite que o conteúdo da caixa de correio seja convertido em arquivos de imagem leves, adequados para visualizações, arquivos visuais e compartilhamento simples. É útil quando o conteúdo da mensagem precisa ser apresentado como gráficos estáticos em um formato compacto e amplamente suportado.
+
+Em fluxos de trabalho de automação, a conversão de PST para GIF ajuda a gerar ativos de visualização consistentes a partir de arquivos de e‑mail e suporta o manuseio visual rápido entre sistemas. É particularmente útil para renderização simplificada e geração de saída leve em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação Visual Leve**
+  Converte o conteúdo PST em imagens GIF para distribuição compacta e fácil.
+
+* **Criação de Pré‑visualização da Caixa de Correio**
+  Ajuda a gerar representações visuais rápidas de mensagens e registros.
+
+* **Suporte a Arquivo Estático**
+  Preserva o conteúdo da comunicação em um formato de imagem não editável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração em Massa de Pré‑visualizações**
+  Tarefas automatizadas podem produzir pré‑visualizações GIF a partir de grandes arquivos PST.
+
+* **Saída de Imagem Amigável ao Fluxo de Trabalho**
+  Arquivos GIF podem ser integrados a sistemas que exigem ativos visuais leves.
+
+* **Pipelines de Renderização Simplificados**
+  A conversão programática suporta a criação eficiente de visuais estáticos da caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

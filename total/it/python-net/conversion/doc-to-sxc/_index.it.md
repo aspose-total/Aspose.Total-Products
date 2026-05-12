@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a SXC trasforma il contenuto di Word in un formato di foglio di calcolo associato ai flussi di lavoro di OpenOffice più vecchi, rendendolo utile per l'interoperabilità legacy e l'estrazione di dati strutturati. Supporta le organizzazioni che mantengono la compatibilità con gli ecosistemi di fogli di calcolo precedenti.
+
+Utilizzando le API Python, la conversione da DOC a SXC può essere automatizzata per ridurre l'inserimento manuale e supportare flussi di lavoro di dati legacy ripetibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Compatibilità con fogli di calcolo legacy**
+  Converti le tabelle dei documenti in SXC per ambienti OpenOffice più vecchi.
+
+* **Conservazione dei dati strutturati**
+  Mantieni i valori basati sul documento in un formato legacy orientato ai fogli di calcolo.
+
+* **Supporto alla migrazione**
+  Collega i documenti Word a sistemi che si basano ancora su standard di fogli di calcolo storici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione dei flussi di lavoro legacy**
+  Genera automaticamente file SXC da sorgenti DOC dove gli strumenti più vecchi sono ancora in uso.
+
+* **Pipeline di conversione batch**
+  Converti più documenti in file di fogli di calcolo strutturati senza intervento manuale.
+
+* **Attività di interoperabilità di sistema**
+  Collega programmaticamente le fonti di documenti moderni ai flussi di lavoro di fogli di calcolo legacy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

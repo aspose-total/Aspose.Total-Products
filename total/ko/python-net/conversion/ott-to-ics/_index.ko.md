@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to ICS 변환은 Python API에서 OpenDocument 텍스트 템플릿을 일정 및 이벤트 교환에 사용되는 캘린더 데이터 파일로 변환합니다. 문서 내용에 약속, 마감일 또는 구조화된 날짜 기반 정보가 포함되어 캘린더 준비가 필요할 때 유용합니다.
+
+이 변환은 자동화에 친화적이며, 템플릿에서 이벤트 정보를 생성하여 수동으로 캘린더를 입력하지 않고도 일정 워크플로, 알림 및 동기화 프로세스로 푸시할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **이벤트 파일 생성**  
+  일정 관련 문서 내용을 캘린더 호환 파일로 변환합니다.
+
+* **마감일 배포**  
+  중요한 날짜와 마일스톤을 표준 캘린더 형식으로 공유합니다.
+
+* **계획 워크플로 지원**  
+  구조화된 이벤트 데이터를 휴대 가능한 일정 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동 캘린더 생성**  
+  반복되는 OTT 기반 이벤트 템플릿에서 ICS 파일을 생성합니다.
+
+* **알림 워크플로 통합**  
+  생성된 이벤트를 알림을 트리거하는 시스템에 전달합니다.
+
+* **일정 동기화**  
+  팀이나 도구 간에 캘린더 데이터를 프로그래밍 방식으로 공유하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

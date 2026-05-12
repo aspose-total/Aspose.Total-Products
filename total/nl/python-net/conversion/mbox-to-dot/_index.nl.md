@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een MBOX naar DOT-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX-naar-DOT-conversie zet mailboxinhoud om in Word-sjabloonbestanden, waardoor e‑mailafgeleide structuren kunnen worden hergebruikt als gestandaardiseerde documentfundamenten. Dit is nuttig wanneer gearchiveerde berichten moeten bijdragen aan herhaalbare documentlay-outs of sjabloongebaseerde rapportageprocessen.
+
+Met Python‑API's kunnen organisaties het maken van DOT‑bestanden uit MBOX‑archieven automatiseren om schaalbare sjabloongeneratie, consistente opmaak en documentworkflowautomatisering te ondersteunen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Sjablooncreatie vanuit e‑mails**  
+  Zet mailboxinhoud om in herbruikbare documentsjablonen voor terugkerend gebruik.
+
+* **Gestandaardiseerde opmaakworkflows**  
+  Behoud op e‑mail gebaseerde lay‑outs in een formaat dat is ontworpen voor consistente documentgeneratie.
+
+* **Opzetten van procesdocumentatie**  
+  Gebruik e‑mailinhoud als gestructureerde basis voor toekomstige documentcreatie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Herbruikbare sjabloongeneratie**  
+  Converteer geselecteerde e‑mails naar DOT‑bestanden die gestandaardiseerde documentatie ondersteunen.
+
+* **Geautomatiseerde lay‑outbehoud**  
+  Maak programmatisch sjabloonuitvoer vanuit mailboxarchieven voor herhaalde workflows.
+
+* **Schaalbare inhoudsstructurering**  
+  Gebruik Python om e‑mailrecords om te zetten in sjabloonklaar assets voor ondernemingsgebruik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

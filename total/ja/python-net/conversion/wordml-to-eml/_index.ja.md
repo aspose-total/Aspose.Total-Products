@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から EML への変換は、文書コンテンツを標準的なメールメッセージファイル形式に変換し、保存、転送、または互換性のあるメールクライアントで開くことができます。これは、アーカイブ、メール生成、メッセージベースのワークフロー自動化に役立ちます。
+
+Python API は、文書テキストをメール構造にプログラムでマッピングすることで WordML から EML への変換をサポートし、アーカイブおよびメッセージングシステム向けのスケーラブルなコンテンツ変換を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **メールファイル生成**
+  文書コンテンツをポータブルな EML ファイルに変換し、メッセージの保存と交換に使用します。
+
+* **アーカイブワークフロー**
+  文書由来の通信を標準的なメールファイル形式で保存します。
+
+* **クライアント互換性**
+  広く認識されたメッセージファイル標準に依存するメールワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メッセージファイル作成**
+  バッチ変換プロセスで WordML 文書から EML 出力を生成します。
+
+* **コンプライアンスアーカイブ**
+  文書由来の通信を EML ファイルとして保存し、保持および監査ワークフローに利用します。
+
+* **コンテンツ配信パイプライン**
+  変換されたメールファイルをメール処理、保存、またはレビューシステムに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

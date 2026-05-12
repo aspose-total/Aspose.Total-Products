@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PPTM から DOC への変換は、マクロ対応のプレゼンテーション コンテンツを、テキスト中心のレビュー、配布、文書化に適した編集可能なドキュメント形式に変換するのに役立ちます。スライド資料を物語形式の文書、要約、または記録に再利用する必要がある場合に便利です。
+
+プレゼンテーションを文書指向の出力に変換することで、組織は文書作成を効率化し、チーム間のコンテンツの受け渡しを簡素化できます。これにより、手動での書き直しを減らし、コンテンツリポジトリ全体で繰り返し可能な変換ワークフローを実現することで、オートメーションの目標を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **プレゼンテーションから文書への再利用**
+  スライド コンテンツを編集可能な文書に変換し、レビューや洗練に利用できます。
+
+* **社内文書の生成**
+  プレゼンテーションをチームやステークホルダー向けの書面参照資料に変換するのに役立ちます。
+
+* **テキストベースのコンテンツ配布**
+  文書中心のワークフローでプレゼンテーション情報を共有しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書作成**
+  プレゼンテーション資産から手動のコピー＆ペーストなしで文書ファイルを生成します。
+
+* **ワークフロー主導のコンテンツ変換**
+  スケジュールされた処理ジョブの一部として、PPTM ファイルを文書出力に変換します。
+
+* **ナレッジキャプチャ パイプライン**
+  長文ドキュメント アーカイブにプレゼンテーション資料をプログラム的に保存することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en images transforme les pages Word en fichiers image pour l’aperçu, le partage, la publication et l’archivage visuel. Ceci est utile lorsque le rendu à mise en page fixe, la visualisation facile ou la distribution basée sur des images sont nécessaires sur les environnements web et mobiles.
+
+Les API Python rendent la conversion de DOC en images efficace pour des pipelines de rendu évolutifs, la génération de vignettes, les systèmes d’aperçu de documents et les flux de travail de publication automatisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération d'aperçus de pages**  
+  Convertir les pages de documents en images pour des aperçus rapides dans les portails et les applications.
+
+* **Archivage visuel**  
+  Conserver l’apparence du document sous forme d’images statiques pour la révision et la référence.
+
+* **Support de publication Web**  
+  Utiliser la sortie image lorsque le contenu du document doit être intégré visuellement en ligne.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de création de vignettes**  
+  Rendre automatiquement les fichiers DOC en images de pages pour les interfaces de recherche et d’aperçu.
+
+* **Flux de travail de diffusion de contenu**  
+  Générer des images de documents pour les sites web, les tableaux de bord ou les systèmes de messagerie.
+
+* **Jobs de rendu par lots**  
+  Convertir de manière programmatique de grandes collections de documents en images à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

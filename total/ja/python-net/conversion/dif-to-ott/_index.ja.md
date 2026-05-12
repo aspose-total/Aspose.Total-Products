@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における DIF から OTT への変換は、構造化された DIF コンテンツを再利用可能で標準化された文書作成のためのオープンドキュメントテキストテンプレートに変換することを可能にします。これは、文書ワークフローがオープンフォーマット環境でテンプレートベースの生成を必要とする場合に有用です。
+
+DIF から OTT への変換のための Python API を使用することで、効率的なテンプレート自動化がサポートされ、組織が構造化データから再利用可能な文書構造を構築するのに役立ちます。テンプレートワークフローをオープンドキュメント標準に合わせながら、一貫性が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンテンプレート作成**
+  DIF ファイルを OTT テンプレートに変換し、再利用可能なテキスト文書の生成を行います。
+
+* **標準ベースの文書フレームワーク**
+  相互運用性を重視する組織向けに、オープンフォーマットのテンプレートを構築します。
+
+* **繰り返し可能な業務文書**
+  OTT テンプレートを使用して、定期的なフォーム、レポート、またはプロセス文書をサポートします。
+
+* **テンプレートライブラリ開発**
+  構造化されたソースからテンプレート資産を生成し、集中管理された文書管理を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**
+  DIF データセットからプログラム的に OTT ファイルを作成し、スケーラブルなテンプレート生産を実現します。
+
+* **オープンワークフローの標準化**
+  オープンドキュメントテンプレートを管理する Python システムに変換プロセスを統合します。
+
+* **再利用可能な出力資産の作成**
+  繰り返しの文書生成タスクのために、テンプレート準備済みファイルを自動的に生成します。
+
+* **クロスシステムテンプレート配信**
+  自動化された文書インフラストラクチャを通じて OTT テンプレートを変換・配布します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

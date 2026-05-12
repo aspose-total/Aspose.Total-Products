@@ -65,7 +65,41 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT-naar-TSV-conversie verandert documenttemplates in tab-gescheiden gegevensbestanden die eenvoudig, draagbaar en gemakkelijk te verwerken zijn. Dit is waardevol wanneer gestructureerde template-inhoud moet worden geëxporteerd in een op scheidingsteken gebaseerd formaat dat betrouwbare gegevensuitwisseling ondersteunt.
+
+Met behulp van Python-API's kunnen DOT-naar-TSV-workflows worden geautomatiseerd om schone gegevensextractie, systeeminteroperabiliteit en schaalbare document-naar-gegevensverwerking te ondersteunen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Gestructureerde Tekstexport**
+  Converteer DOT-bestanden naar TSV voor schone, op scheidingsteken gebaseerde gegevensverwerking.
+
+* **Systeemvriendelijke Gegevensuitwisseling**
+  Gebruik TSV-uitvoer waar tabs de voorkeur hebben voor voorspelbare veldscheiding.
+
+* **Template-inhoudsextractie**
+  Hergebruik documentinformatie in een eenvoudig formaat voor scripts en operationele tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde Gegevensextractie**
+  Python-scripts kunnen DOT-templates omzetten naar TSV-bestanden voor terugkerende verwerkingsopdrachten.
+
+* **ETL-werkstroomondersteuning**
+  Conversie helpt template-afgeleide gegevens te voeden in pijplijnen en integratiesystemen.
+
+* **Schaalbare Tekstgebaseerde Exporten**
+  Programmatransformatie maakt grootschalige TSV-generatie vanuit documentopslagplaatsen mogelijk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

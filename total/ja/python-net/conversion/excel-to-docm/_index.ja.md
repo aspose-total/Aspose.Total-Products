@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における Excel から DOCM への変換は、スプレッドシートの内容をマクロ対応のワードプロセッシング文書にエクスポートし、高度な文書ワークフローを実現します。変換されたファイルが編集可能なままで、文書環境でマクロベースのアクションをサポートする必要がある場合に便利です。
+
+この変換は自動化に関連しており、スプレッドシートデータとプログラム可能な文書動作を結び付け、インタラクティブでプロセス認識型のファイルをスケーラブルに生成できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応レポーティング**  
+  Excel ファイルを DOCM 文書に変換し、ワードプロセッシングワークフロー内で自動化アクションをサポートできるようにします。
+
+* **プロセス文書**  
+  構造化データと組み込みの文書自動化機能を組み合わせた編集可能なファイルを作成します。
+
+* **運用テンプレート**  
+  スプレッドシートデータを使用して、繰り返し可能なマクロ駆動タスク向けに設計された文書に入力します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書組み立て**  
+  編集可能でスクリプト対応の文書が必要なワークフロー向けに、Excel の入力を DOCM の出力に変換します。
+
+* **内部プロセス自動化**  
+  書式設定、検証、またはガイド付き完了のためにマクロ対応ファイルに依存する部門を支援します。
+
+* **データから文書へのパイプライン**  
+  Python API を使用して、スプレッドシートベースのソースデータからプログラム的に DOCM ファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

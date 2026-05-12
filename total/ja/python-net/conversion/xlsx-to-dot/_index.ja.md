@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX to DOT 変換は、スプレッドシート情報を Word テンプレート ファイルに変換し、繰り返し可能な文書生成を実現します。これは、スプレッドシート データが標準化されたフォーム、レター、またはレポートテンプレートの基盤となる場合に有用です。
+
+自動化環境において、XLSX to DOT 変換は、構造化データを再利用可能な文書設計図に変換することで、テンプレート駆動型システムを支援し、一貫性を向上させ、手作業を削減し、大規模な出力生成を簡素化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **繰り返し文書のテンプレート作成**  
+  スプレッドシートの内容を、繰り返し行われる業務フロー向けの再利用可能な文書テンプレートに変換します。
+
+* **標準化されたフォームの作成**  
+  スプレッドシートで定義された構造と内容に基づき、一貫した文書レイアウトの作成を支援します。
+
+* **プロセス文書テンプレート**  
+  チームや部門を超えて再利用できる文書フレームワークの生成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**  
+  システムは、維持されたスプレッドシート ソースから DOT テンプレートを作成し、集中管理された文書管理を実現できます。
+
+* **再利用可能なワークフロー資産**  
+  変換は、下流のコンテンツプロセスに供給される Word テンプレートの自動作成を支援します。
+
+* **スケーラブルな文書標準化**  
+  プログラムによる変換は、複数の事業部門やプロジェクトにわたって一貫したテンプレート作成を保証します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

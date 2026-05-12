@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTX a OST trasforma il contenuto dei modelli Word in un formato associato ai flussi di lavoro di archiviazione offline della casella di posta. È rilevante in scenari in cui il contenuto di comunicazione generato deve allinearsi con l'archiviazione sincronizzata della posta e i processi di archiviazione aziendale.
+
+Utilizzando le API Python, questa conversione può supportare l'automazione della preparazione dei dati orientata alla casella di posta, della gestione dell'archiviazione dei messaggi e della gestione della comunicazione derivata dai documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Supporto per l'archiviazione della casella di posta**
+  Adatta la comunicazione generata da documenti per contesti di archiviazione offline della posta.
+
+* **Archiviazione aziendale**
+  Prepara il contenuto per flussi di lavoro che coinvolgono repository di messaggi sincronizzati.
+
+* **Operazioni di posta guidate da modelli**
+  Riutilizza il contenuto dei documenti in ambienti di elaborazione legati alla casella di posta.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Preparazione automatizzata dell'archiviazione della posta**
+  Converti i modelli DOTX per l'uso nei processi di gestione orientati alla casella di posta.
+
+* **Pipeline di conservazione della comunicazione**
+  Supporta flussi di lavoro di archiviazione scalabili per il contenuto dei messaggi generati.
+
+* **Gestione del contenuto sincronizzato**
+  Integra la comunicazione basata su documenti nei sistemi di posta ad accesso offline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

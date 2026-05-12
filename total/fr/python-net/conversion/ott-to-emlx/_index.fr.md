@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT en EMLX dans les API Python transforme les modèles de texte OpenDocument en fichiers de message EMLX utilisés dans des environnements de stockage de courrier spécifiques. Elle est pertinente lorsque le contenu basé sur des modèles doit s'intégrer à des systèmes qui reposent sur cette structure de fichier email.
+
+Cette conversion renforce l'automatisation en permettant au contenu de communication issu de documents de circuler dans des écosystèmes de messagerie spécialisés sans réécriture manuelle, soutenant ainsi la préparation de messages à grande échelle et les flux de travail d'archivage.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Support de stockage de courrier spécialisé**  
+  Crée des fichiers de message compatibles avec les environnements basés sur EMLX.
+
+* **Communication pilotée par des modèles**  
+  Réutilise le contenu OTT pour la génération d'emails structurés.
+
+* **Sortie de message portable**  
+  Produit des fichiers pouvant être stockés ou transférés dans les flux de travail de messagerie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Production automatisée de fichiers email**  
+  Génère des sorties EMLX à partir de modèles de documents en masse.
+
+* **Flux de travail d'archivage**  
+  Stocke les communications dérivées de modèles dans des dépôts de courrier structurés.
+
+* **Préparation de contenu inter-systèmes**  
+  Fait le lien entre la génération de documents et la gestion d'emails propre à chaque plateforme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

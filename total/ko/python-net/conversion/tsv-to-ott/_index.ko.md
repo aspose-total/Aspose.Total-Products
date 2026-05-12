@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV에서 OTT로의 변환은 표 형식 데이터를 표준화된 텍스트 문서 작성을 위해 사용되는 오픈 문서 템플릿 파일로 변환합니다. 이는 구조화된 입력을 오픈 포맷 환경에서 반복 가능한 템플릿 기반 워크플로와 정렬해야 할 때 유용합니다.
+
+Python API를 사용하여 TSV에서 OTT로의 변환은 재사용 가능한 문서 구조를 가능하게 하고, 반복적인 서식 작업을 줄이며, 확장 가능한 출판 시스템에서 일관성을 향상시켜 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**  
+  TSV 콘텐츠를 표준화된 텍스트 문서를 위한 재사용 가능한 템플릿으로 변환합니다.
+
+* **일관된 문서 제작**  
+  고정된 서식 구조에 의존하는 반복 워크플로를 지원합니다.
+
+* **템플릿 기반 콘텐츠 제공**  
+  조직이 구조화된 데이터 세트를 재사용 가능한 문서 자산으로 변환하도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 워크플로**  
+  Python API를 사용하면 구조화된 TSV 파일에서 OTT 호환 출력을 생성할 수 있습니다.
+
+* **반복 가능한 문서 시스템**  
+  자동화는 오픈 포맷 템플릿 제작에서 일관성을 향상시킵니다.
+
+* **대량 템플릿 변환**  
+  대량의 TSV 파일을 효율적으로 OTT 출력으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

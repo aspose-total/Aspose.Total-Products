@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+POTX から DOTM への変換は、Python API を使用して PowerPoint テンプレートをマクロ対応の Word テンプレートに変換し、先進的で再利用可能な文書ワークフローを実現します。テンプレート駆動の文書に標準化された書式に加えて、Automation ロジックやインタラクティブな動作を組み込む必要がある場合に価値があります。
+
+最新の自動化パイプラインでは、POTX から DOTM への変換は、繰り返し可能でルール駆動の文書に依存する部門向けに、スケーラブルなテンプレート生成をサポートします。構造化されたコンテンツの再利用とプログラム可能な文書動作を組み合わせるのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **マクロ対応テンプレート作成**
+  プレゼンテーションテンプレートを自動化サポート付きの再利用可能な文書テンプレートに変換します。
+
+* **高度なテンプレートワークフロー**
+  埋め込みアクションやスクリプトロジックを必要とするプロセス向けにテンプレートを準備するのに役立ちます。
+
+* **標準化された動的文書**
+  一貫性がありながら機能的に強化された文書テンプレートの作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによるテンプレート配信**
+  内部文書システム向けに、POTX ソースから DOTM ファイルの生成を自動化します。
+
+* **繰り返し可能な文書自動化**
+  生成されるすべての文書が構造と自動化動作の両方を継承するワークフローをサポートします。
+
+* **テンプレートライブラリの近代化**
+  プレゼンテーション資産を機能的なマクロ対応テンプレートに自動変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

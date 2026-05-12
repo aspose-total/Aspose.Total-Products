@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a EMLX trasforma il contenuto del documento in un formato di messaggio email comunemente utilizzato in alcuni ambienti di archiviazione della posta. Questo è utile quando il contenuto WordML deve essere adattato per l'archiviazione email specifica della piattaforma o per esigenze di migrazione.
+
+L'utilizzo delle API Python per la conversione da WordML a EMLX consente l'estrazione programmatica del contenuto e l'impacchettamento dei messaggi, facilitando l'automazione della conversione nei flussi di lavoro email specializzati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output email specifico per piattaforma**
+  Converte il contenuto WordML in EMLX per ambienti di archiviazione email compatibili.
+
+* **Supporto alla migrazione della posta**
+  Aiuta a preparare le comunicazioni basate su documenti per i processi di migrazione delle caselle di posta.
+
+* **Conversione archivistica strutturata**
+  Preserva il contenuto testuale in un formato orientato ai messaggi adatto ai repository email.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Attività di preparazione della casella di posta**
+  Automatizza la generazione di EMLX da fonti documentali per routine di migrazione o importazione.
+
+* **Pipeline di trasformazione dell'archivio**
+  Converte i file WordML in file di messaggi per processi di conservazione controllata.
+
+* **Impacchettamento batch del contenuto**
+  Supporta la creazione scalabile di output EMLX da collezioni documentali ricorrenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

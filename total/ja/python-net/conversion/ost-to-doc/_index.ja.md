@@ -46,9 +46,46 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST から DOC への変換は、メールボックスのコンテンツを編集可能な文書形式に変換し、メールデータを再利用、構造化、そして慣れ親しんだワードプロセッシング環境で保存できるようにします。これは、文書作成、ビジネスレポート、メッセージ内容を変更可能な形で必要とするワークフローにとって価値があります。
+
+自動化主導のシステム向けに、OST から DOC への変換は、メールボックスアーカイブからのスケーラブルなコンテンツ抽出と文書生成をサポートします。Python API はこのプロセスを効率化し、エンタープライズコンテンツ管理やデジタルオペレーション向けの繰り返し可能な変換ワークフローを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **編集可能なメール文書化**  
+  メールボックスのメッセージを DOC ファイルに変換し、レビュー、改訂、再利用が可能です。
+
+* **レコード統合**  
+  メールコンテンツを、より広範な文書ベースのレポートやケース資料と統合するのに役立ちます。
+
+* **内部知識の取得**  
+  重要なメールボックス情報を、構造化された文書に適した形式で保存します。
+
+* **ワークフロー引き継ぎファイル**  
+  メール由来の情報を編集可能な形でチーム間で共有しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された文書作成**  
+  Python スクリプトが OST コンテンツから DOC ファイルを生成し、レポートや記録ワークフローに利用します。
+
+* **メールボックスコンテンツ処理**  
+  変換パイプラインがメッセージを抽出・変換し、ビジネス利用向けの編集可能な文書にします。
+
+* **アーカイブから文書への自動化**  
+  プログラムによる変換が、メールストレージから文書システムへのスケーラブルな移行をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

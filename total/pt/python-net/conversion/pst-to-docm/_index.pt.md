@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para DOCM em APIs Python permite que os dados da caixa de correio sejam exportados para documentos Word com macros habilitadas para fluxos de trabalho avançados de documentos. Isso é útil quando o conteúdo de e‑mail arquivado precisa ser combinado com comportamento automatizado de documentos, formatação estruturada ou lógica de modelo controlada.
+
+Em sistemas de automação modernos, a conversão de PST para DOCM suporta processos de geração de documentos que dependem de ações dinâmicas, formulários reutilizáveis ou modelos pré‑construídos com macros habilitadas. Ela ajuda a conectar arquivos de comunicação com operações de documentos empresariais orientadas por regras.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Saída de Documento com Macro Habilitada**
+  Exporta o conteúdo da caixa de correio para DOCM para fluxos de trabalho que dependem de automação de documentos incorporada.
+
+* **Montagem Estruturada de Registros**
+  Ajuda a combinar os dados das mensagens com modelos avançados baseados em Word e lógica.
+
+* **Padronização Operacional de Documentos**
+  Suporta formatação consistente do conteúdo derivado de e‑mail em arquivos empresariais controlados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Automação de Modelos**
+  Os dados PST podem ser encaminhados para modelos DOCM para criação repetível de documentos.
+
+* **Inserção de Conteúdo Orientada por Regras**
+  Sistemas automatizados podem preencher arquivos com macros habilitadas com o conteúdo selecionado da caixa de correio.
+
+* **Fluxos de Documentação Empresarial**
+  A conversão programática permite que comunicações arquivadas alimentem processos avançados de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

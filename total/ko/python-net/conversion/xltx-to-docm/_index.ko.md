@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX를 DOCM으로 변환하면 스프레드시트 템플릿 콘텐츠를 매크로가 포함된 워드 프로세싱 문서 형식으로 변환하여 고급 문서 로직 및 재사용 가능한 비즈니스 파일에 적합하게 합니다. 이는 템플릿 기반 스프레드시트 정보를 편집 가능한 문서로 제공하고, 대상 문서 내에 삽입된 자동화 동작을 지원해야 할 때 유용합니다.
+
+현대 자동화 워크플로우에서는 XLTX를 DOCM으로 변환함으로써 스프레드시트 기반 콘텐츠 생성과 동적 문서 프로세스를 연결하고, 반복 가능한 작업, 구조화된 편집 및 워크플로 효율성을 지원하는 지능형 파일의 확장 가능한 생산을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 문서 전달**  
+  템플릿 기반 스프레드시트 콘텐츠를 내장된 스크립트 동작을 지원하는 문서로 변환합니다.
+
+* **고급 보고 워크플로우**  
+  생성된 콘텐츠가 이후 문서 측 자동화를 트리거할 수 있는 편집 가능한 보고서를 만들 수 있게 합니다.
+
+* **재사용 가능한 비즈니스 템플릿**  
+  반복적인 운영 프로세스를 위해 스마트 문서 파일을 배포하는 조직을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 스마트 문서 생성**  
+  시스템은 더 큰 자동화 문서 파이프라인의 일환으로 XLTX 템플릿을 DOCM 파일로 변환할 수 있습니다.
+
+* **워크플로 기반 파일 생성**  
+  이 주제는 하위 검토 및 스크립트 처리용으로 설계된 파일의 자동 생성을 지원합니다.
+
+* **대량 운영 출력**  
+  프로그래밍 방식 변환을 통해 구조화된 스프레드시트 템플릿에서 다수의 매크로 지원 문서를 쉽게 만들 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から PPTM への変換は、ドキュメントテンプレートをマクロ対応のプレゼンテーションファイルに変換し、拡張機能を備えた編集可能なスライドワークフローを実現します。プレゼンテーションファイルを編集可能なままに保ち、強化された動作をサポートする必要があるシナリオで重要です。
+
+Python API を使用すれば、DOT から PPTM への変換を自動化でき、再利用可能なドキュメントコンテンツから高度なプレゼンテーション資産をスケーラブルに作成することが可能です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **高度な編集可能プレゼンテーション作成**
+  DOT テンプレートを PPTM ファイルに変換し、拡張機能を備えたプレゼンテーションを実現します。
+
+* **ドキュメント駆動型プレゼンテーション作成**
+  構造化されたドキュメントコンテンツを再利用し、拡張機能を備えた編集可能なスライドデッキを作成します。
+
+* **ワークフロー指向スライド制作**
+  編集可能性とよりリッチな動作の両方を必要とするプレゼンテーションプロセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたマクロ対応デッキ生成**
+  Python ワークフローは、繰り返し使用するために DOT テンプレートから PPTM ファイルを作成できます。
+
+* **高度なプレゼンテーションパイプライン**
+  変換は、ドキュメントリポジトリと高度なスライド制作システムの統合を支援します。
+
+* **スケーラブルな編集可能出力作成**
+  プログラムによる変換は、先進的なプレゼンテーションファイルの大規模生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

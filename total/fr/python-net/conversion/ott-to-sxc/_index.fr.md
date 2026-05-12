@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers SXC dans les API Python transforme les modèles de texte OpenDocument en fichiers de feuille de calcul adaptés aux flux de travail des anciennes versions d'OpenOffice. Cela est utile lorsque le contenu du document doit être converti en un format tabulaire structuré et éditable pour des environnements compatibles avec les anciens systèmes.
+
+La conversion prend en charge l'automatisation en permettant l'extraction standardisée des informations du document vers des flux de travail de feuilles de calcul qui continuent de dépendre des formats OpenOffice établis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Support des feuilles de calcul héritées**  
+  Crée des sorties de feuilles de calcul compatibles avec les anciens flux de travail OpenOffice.
+
+* **Structuration des données du document**  
+  Convertit le contenu textuel du modèle en tableaux éditables.
+
+* **Compatibilité opérationnelle**  
+  Facilite l'intégration des données générées avec les écosystèmes de feuilles de calcul établis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation automatisée legacy**  
+  Produit des fichiers SXC à partir de sources OTT pour des flux de travail axés sur la compatibilité.
+
+* **Transformation de données par lots**  
+  Convertit de nombreux fichiers de modèle en sorties tabulaires legacy de manière efficace.
+
+* **Intégration de continuité du système**  
+  Prend en charge les environnements qui conservent les chaînes de traitement de feuilles de calcul plus anciennes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

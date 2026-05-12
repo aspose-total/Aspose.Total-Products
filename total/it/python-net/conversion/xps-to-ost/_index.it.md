@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XPS a OST tramite le API Python aiuta a trasformare il contenuto di documenti a layout fisso in un formato di dati di casella di posta associato a flussi di lavoro di archiviazione email sincronizzati. Questo può essere utile in scenari in cui il contenuto di comunicazione derivato da documenti deve essere preparato per una gestione strutturata della casella di posta, supporto alla migrazione o integrazione con ambienti di messaggistica aziendale.
+
+L'automazione migliora il processo consentendo trasformazioni ripetibili, riducendo le attività manuali di preparazione della casella di posta e supportando flussi di lavoro su larga scala da documento a dati di posta.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dei dati della casella di posta**
+  Converti il contenuto di comunicazione derivato da XPS in strutture orientate a OST per l'uso nei flussi di lavoro.
+
+* **Supporto alla messaggistica aziendale**
+  Allinea la conversione dei documenti con ambienti di caselle di posta sincronizzate e processi di archiviazione.
+
+* **Prontezza alla migrazione**
+  Prepara i dati di comunicazione basati su documenti per flussi di lavoro che coinvolgono lo spostamento o la consolidazione delle caselle di posta.
+
+* **Conservazione strutturata delle comunicazioni**
+  Conserva il contenuto di origine documentale all'interno di strategie di archiviazione incentrate sui messaggi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Trasformazione automatizzata dei dati di posta**
+  Attiva i passaggi di conversione relativi a OST quando i documenti XPS entrano nei flussi di lavoro di messaggistica.
+
+* **Operazioni di elaborazione in blocco**
+  Converti collezioni di grandi dimensioni di file XPS in modo programmatico per la gestione aziendale.
+
+* **Integrazione della pipeline di archiviazione**
+  Instrada gli output convertiti verso archiviazione gestita e processi di sincronizzazione.
+
+* **Flussi di lavoro di transizione del sistema**
+  Supporta la preparazione automatizzata dei dati di comunicazione per i cambiamenti dell'infrastruttura.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

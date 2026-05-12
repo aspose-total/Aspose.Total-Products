@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'e-mails en PNG avec Python transforme le contenu des messages en images raster de haute qualité, bien adaptées aux aperçus, à la prise en charge de la transparence et à l'archivage visuel. Elle est utile lorsque la mise en page des e-mails doit être conservée clairement dans un format d'image largement supporté.
+
+Cette conversion améliore l'automatisation en permettant la génération évolutive d'illustrations d'e-mails pour les interfaces web, les systèmes d'enregistrement et les flux de travail de reporting, sans nécessiter de formats de documents éditables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Aperçus de messages de haute qualité**
+  Convertissez les e-mails en fichiers PNG pour un affichage net dans les portails et les tableaux de bord.
+
+* **Archives visuelles**
+  Conservez l'apparence des messages sous forme de fichiers image pour une référence rapide.
+
+* **Pièces jointes du flux de travail**
+  Utilisez les sorties PNG dans les systèmes de support, les audits ou les pipelines de révision.
+
+* **Rendu compatible web**
+  Générez des visuels d'e-mails pour les applications basées sur le navigateur et les systèmes de contenu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Services de génération d'aperçus**
+  Créez automatiquement des rendus PNG à partir d'e-mails entrants ou stockés.
+
+* **Chaînes de documentation opérationnelle**
+  Joignez les images des messages aux tickets, rapports et journaux automatisés.
+
+* **Automatisation de la distribution web**
+  Publiez les aperçus d'e-mails dans les systèmes de gestion de contenu ou de surveillance.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

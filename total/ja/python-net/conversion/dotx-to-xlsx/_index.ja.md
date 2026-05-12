@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から XLSX への変換は、Word テンプレートのコンテンツを編集、分析、レポート作成、構造化された再利用が可能な最新のスプレッドシート形式に変換します。テンプレートベースのコンテンツを表形式のワークフローで利用できるようにする際、最も実用的なオプションの一つです。
+
+Python API を使用することで、この変換は自動化をサポートし、ビジネスシステム、ダッシュボード、データパイプラインとスムーズに統合できる高速で繰り返し可能なスプレッドシート出力の生成を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新のスプレッドシートワークフロー**
+  文書のコンテンツを、幅広い用途向けの編集可能なスプレッドシートファイルに変換します。
+
+* **レポート作成と分析**
+  テンプレートから構造化データを作成し、レビューや意思決定に活用します。
+
+* **ビジネスシステム統合**
+  文書由来のデータが業務スプレッドシートプロセスに流れるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な XLSX 生成**
+  DOTX テンプレートをスケジュールされたジョブで自動的にスプレッドシート出力に変換します。
+
+* **文書から分析へのパイプライン**
+  変換されたワークブックデータをダッシュボードやビジネスインテリジェンスシステムに供給します。
+
+* **スケーラブルなテンプレート処理**
+  大量の文書変換を最新のスプレッドシート資産として処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から MOBI への変換は、スプレッドシート由来のコンテンツをデジタル読書やポータブル配布に適した電子書籍フレンドリーな形式に変換します。スプレッドシートの構造化された情報をマニュアル、ガイド、リファレンス資料などの読みやすい長文コンテンツに再パッケージ化する必要がある場合に有用です。
+
+自動化された環境では、Python API を使用した SXC から MOBI への変換により、ソースデータをポータブルな出版物に変換でき、規模に応じて効率的に生成、更新、配布することが可能です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **デジタルガイド作成**  
+  スプレッドシート情報をハンドブックやマニュアル形式の配信に適した形式に変換します。
+
+* **ポータブルコンテンツ配信**  
+  オフラインやデバイスフレンドリーな読書体験のために、構造化情報の公開を支援します。
+
+* **リファレンス資料のパッケージ化**  
+  表形式のコンテンツをエンドユーザー向けの読みやすいドキュメントに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された電子書籍出版**  
+  Python API を使用して、繰り返しのコンテンツワークフローで SXC ソースから MOBI 出力を作成します。
+
+* **ナレッジ配信パイプライン**  
+  構造化されたスプレッドシートデータを自動的にポータブルな読書形式に変換します。
+
+* **動的な出版更新**  
+  ソースのスプレッドシートデータが変更されるたびに、デジタルコンテンツの再生成を簡素化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

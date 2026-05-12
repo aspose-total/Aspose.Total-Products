@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODP から DOC への変換を Python で行うことで、チームはプレゼンテーションコンテンツを編集可能なワードプロセッシング文書に変換し、文書化、レビュー、アーカイブのワークフローに活用できます。プレゼンテーション資料を、改訂や注釈付け、配布が容易なテキスト中心の形式に再利用する必要がある場合に有用です。
+
+自動化重視のシステムでは、ODP から DOC への変換がコンテンツの再利用を支援し、手作業のコピーを削減し、文書生成パイプラインの標準化に寄与します。特に、プレゼンテーション資産をプログラムでレポート用またはプロセス用の文書に変換する必要があるスケーラブルなワークフローで有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーションから文書への再利用**  
+  スライドベースのコンテンツを、文書化および文書レビュー用の編集可能な DOC ファイルに変換します。
+
+* **内部レポートワークフロー**  
+  プレゼンテーションのドラフトを、内部での修正や配布が容易なワードプロセッシング文書に変換します。
+
+* **コンテンツアーカイブ**  
+  プレゼンテーション資料を、長期保存と参照に適した文書形式で保存します。
+
+* **編集レビューの準備**  
+  チームが変換されたコンテンツを従来の文書ワークフローで編集、コメント、洗練できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ文書生成**  
+  ODP ファイルを DOC 文書に大規模に自動変換し、継続的なコンテンツ操作を実現します。
+
+* **ワークフローベースのファイル変換**  
+  新しいプレゼンテーションファイルが処理パイプラインに入ると、DOC 出力を自動的にトリガーします。
+
+* **文書公開パイプライン**  
+  変換ロジックを使用して、下流のレビュー、承認、またはエクスポートワークフローに供給します。
+
+* **レガシー プレゼンテーションコンテンツの移行**  
+  古いプレゼンテーション資産を編集可能な文書ベースのシステムへスムーズに移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

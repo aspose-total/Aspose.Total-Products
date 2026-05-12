@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MSG para TEXTO extrai o conteúdo da mensagem de e‑mail em texto simples para armazenamento, pesquisa e processamento fáceis. É valiosa quando o acesso ao conteúdo limpo importa mais que a formatação e quando é necessário um output leve para indexação ou análise.
+
+Para automação, os fluxos de trabalho de MSG para TEXTO suportam mineração de texto, pipelines de pesquisa e ingestão de conteúdo normalizado. Eles ajudam a converter dados de comunicação em um formato mínimo, amigável à máquina, adequado para processamento escalável.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Extração de Texto Simples**  
+  Isola o conteúdo do e‑mail para leitura fácil, armazenamento ou análise subsequente.
+
+* **Suporte a Pesquisa e Indexação**  
+  Prepara o texto da mensagem para fluxos de trabalho de catalogação e recuperação.
+
+* **Processamento de Dados Leve**  
+  Utiliza saída simplificada em pipelines que não exigem retenção de formatação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Ingestão de Conteúdo**  
+  Converte arquivos MSG em texto simples para sistemas de indexação e classificação.
+
+* **Fluxos de Trabalho de Análise de Texto**  
+  Alimenta o conteúdo da mensagem extraído em processos automatizados de análise ou monitoramento.
+
+* **Criação de Arquivo Normalizado**  
+  Armazena registros de comunicação em forma de texto compacto para retenção escalável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MOBI を TSV に変換する Python スクリプトは、電子書籍のコンテンツをシンプルでコンパクトなタブ区切り構造に変換し、機械処理に適した形にします。この形式は、最小限の書式オーバーヘッドで構造化テキストを期待するシステム間でコンテンツをきれいにやり取りする必要がある場合に価値があります。
+
+自動化されたワークフローでは、TSV 出力が取り込み、パース、バルク変換タスクの効率化に役立ちます。MOBI を TSV に変換することで、速度、ポータビリティ、シンプルなデータ処理が統合や運用効率にとって重要なスケーラブルなパイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **構造化テキストのエクスポート**
+  MOBI コンテンツを TSV に変換し、シンプルなパースと軽量な構造化ストレージを実現します。
+
+* **パイプラインに適したデータ転送**
+  抽出した情報をスクリプト、インポートツール、または処理エンジンに移す際に TSV を使用します。
+
+* **大規模コンテンツの取り扱い**
+  バッチ処理や大量変換ワークフローに適したコンパクトな出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **取り込みパイプラインの準備**
+  内部処理システムにデータをロードする前に、MOBI ファイルを自動的に TSV に変換します。
+
+* **大量パースの自動化**
+  TSV 出力をスケジュールされたスクリプトに流し込み、検証、強化、または変換タスクを実行します。
+
+* **低オーバーヘッドのデータ交換**
+  Python の自動化を利用して、軽量な下流統合向けにクリーンな表形式出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

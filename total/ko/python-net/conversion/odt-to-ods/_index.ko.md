@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 ODS로 변환하면 텍스트 문서 내용을 구조화된 분석, 표 편집 및 데이터 관리를 위해 OpenDocument 스프레드시트 형식으로 변환합니다. 문서 정보를 행, 열 및 재사용 가능한 스프레드시트 구조로 추출해야 할 때 특히 유용합니다.
+
+Python API를 사용하면 ODT에서 ODS로 변환이 확장 가능한 문서 파싱, 개방형 포맷 처리 및 분석 또는 운영 워크플로와의 통합을 지원합니다. 자동화 시스템 전반에 걸쳐 표 형식 콘텐츠를 효율적으로 처리할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 추출 열기**  
+  문서 기반 표를 스프레드시트 준비 형식으로 이동합니다.
+
+* **데이터 검토 및 편집**  
+  추출된 콘텐츠를 더 쉽게 검사하고 다듬을 수 있습니다.
+
+* **구조화된 레코드 처리**  
+  행과 열 데이터에 의존하는 운영 워크플로를 지원합니다.
+
+* **상호 운용 가능한 데이터 처리**  
+  문서 저장소를 개방형 스프레드시트 생태계와 연결하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 표 변환**  
+  Python 워크플로를 통해 ODT 파일의 구조화된 섹션을 ODS 출력으로 추출할 수 있습니다.
+
+* **배치 개방형 포맷 처리**  
+  여러 문서를 한 번의 자동 실행으로 스프레드시트로 변환할 수 있습니다.
+
+* **데이터 준비 파이프라인**  
+  추출된 콘텐츠를 검증하고 정리한 후 스프레드시트로 내보낼 수 있습니다.
+
+* **운영 보고 워크플로**  
+  변환된 ODS 파일을 검토, 계획 또는 감사 시스템에 자동으로 제공할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

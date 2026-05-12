@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOC를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to OFT conversion turns Word content into email template files that can be reused in messaging and communication workflows. It is particularly useful when document content serves as the basis for repeatable outreach, notifications, or standardized correspondence.
+
+Python APIs enable DOC to OFT conversion as part of automated content generation, helping teams create consistent message templates and improve communication efficiency.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 이메일 템플릿**
+  문서 초안을 OFT 템플릿으로 변환하여 반복적인 커뮤니케이션에 활용합니다.
+
+* **표준화된 메시징**
+  반복되는 이메일 워크플로우 전반에 걸쳐 일관된 구조와 문구를 보장합니다.
+
+* **템플릿 기반 홍보**
+  정식 문서 내용을 재사용 가능한 메시지 프레임워크로 재구성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 제작**
+  캠페인 또는 알림 시스템을 위해 DOC 콘텐츠에서 OFT 파일을 생성합니다.
+
+* **문서 기반 메시징 파이프라인**
+  승인된 문서 텍스트를 하위 맞춤화를 위한 템플릿으로 변환합니다.
+
+* **확장 가능한 커뮤니케이션 운영**
+  프로그래밍 방식으로 재사용 가능한 메시지 형식의 대규모 라이브러리를 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Voor een Python-ontwikkelaar, die probeert een EMAIL naar ODT-conversiefunctie t
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Email‑naar‑ODT‑conversie in Python zet berichtinhoud om in open‑document‑tekstbestanden die geschikt zijn voor bewerkbare en op standaarden gerichte document‑workflows. Het is nuttig wanneer interoperabiliteit, open formaten en bewerkbare opslag belangrijke vereisten zijn.
+
+Deze conversie ondersteunt automatisering door e‑mail‑afgeleide inhoud te laten stromen naar open‑document‑ecosystemen, collaboratieve bewerkingsprocessen en langetermijn‑archiveringsstrategieën.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Openformaatbewerking**
+  Converteer e‑mails naar ODT‑bestanden voor bewerkbare documentafhandeling in op standaarden gebaseerde omgevingen.
+
+* **Interoperabele archivering**
+  Bewaar communicatie in een open formaat geschikt voor uitwisseling en hergebruik.
+
+* **Samenwerkende documentatie**
+  Gebruik geconverteerde e‑mails in workflows die afhankelijk zijn van bewerkbare open documenten.
+
+* **Langdurige toegankelijkheid**
+  Sla belangrijke berichtinhoud op in een formaat dat aansluit bij open documentpraktijken.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Open documentpijplijnen**
+  Transformeer e‑mailberichten automatisch naar ODT‑bestanden voor teamworkflows.
+
+* **Integratie van repository en archief**
+  Leid geconverteerde open documenten naar opslag‑ en registratiesystemen.
+
+* **Cross‑platform bewerkingsautomatisering**
+  Maak consistente bewerking en delen van e‑mailafgeleide inhoud mogelijk over verschillende tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

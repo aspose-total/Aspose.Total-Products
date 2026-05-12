@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST vers OTT dans les API Python convertit le contenu des boîtes aux lettres en modèles de documents ouverts qui prennent en charge le formatage réutilisable et la génération de documents structurés. Elle est utile lorsque les communications archivées doivent être transformées en actifs de modèles répétables pour des flux de travail opérationnels ou de reporting.
+
+Dans les environnements d’automatisation, la conversion PST vers OTT permet la génération de sorties pilotées par des modèles en utilisant des standards ouverts. Elle aide à transformer les archives d’e‑mail en mises en page réutilisables qui favorisent la cohérence, l’efficacité et la création de documents évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles ouverts**
+  Convertit le contenu provenant de la boîte aux lettres en fichiers OTT pour des structures de documents réutilisables.
+
+* **Conception de sortie standardisée**
+  Aide à maintenir des mises en page cohérentes pour les documents basés sur des communications archivées.
+
+* **Documentation pilotée par des modèles**
+  Prend en charge les flux de travail récurrents qui nécessitent un formatage répétable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Flux de travail réutilisables au format ouvert**
+  Les systèmes automatisés peuvent générer des modèles OTT à partir du contenu PST pour une utilisation répétée.
+
+* **Assemblage de documents cohérent**
+  La sortie basée sur des modèles aide à standardiser la documentation dérivée de la boîte aux lettres.
+
+* **Automatisation de mise en page évolutive**
+  La conversion programmatique facilite la création efficace de modèles ouverts réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

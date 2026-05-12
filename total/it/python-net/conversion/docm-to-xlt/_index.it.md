@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a XLT trasforma i documenti abilitati alle macro in file modello di foglio di calcolo, consentendo al contenuto strutturato del documento di diventare layout di cartelle di lavoro riutilizzabili per usi ripetuti. È utile quando la coerenza è importante nei processi ricorrenti di creazione di fogli di calcolo.
+
+Nei sistemi automatizzati, la conversione da DOCM a XLT supporta la generazione standardizzata di cartelle di lavoro, la ripetibilità dei processi e la trasformazione scalabile dei documenti in modelli di foglio di calcolo riutilizzabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Modelli di cartella di lavoro riutilizzabili**
+  Converte il materiale del documento in modelli di foglio di calcolo per un uso operativo ripetuto.
+
+* **Struttura del foglio di calcolo standardizzata**
+  Aiuta a mantenere la coerenza nei compiti ricorrenti di creazione di cartelle di lavoro.
+
+* **Riutilizzo contenuto‑in‑modello**
+  Adatta i dati e i layout del documento in progetti strutturati di foglio di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di modelli**
+  Produce file XLT da sorgenti DOCM per flussi di lavoro di fogli di calcolo ripetibili.
+
+* **Fornitura coerente di cartelle di lavoro**
+  Supporta la creazione programmatica di modelli di foglio di calcolo standardizzati.
+
+* **Distribuzione scalabile di modelli**
+  Consente un ampio riutilizzo dei layout di foglio di calcolo generati dai documenti sorgente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

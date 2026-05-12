@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a FODS converte il contenuto di Word nel formato di foglio di calcolo OpenDocument XML flat, che è particolarmente adatto a flussi di lavoro aperti, all'interoperabilità e all'archiviazione trasparente dei dati. È utile per le organizzazioni che preferiscono lo scambio di fogli di calcolo basato su XML.
+
+L'automazione tramite API Python per la conversione da DOC a FODS supporta pipeline scalabili in formato aperto, riduce la dipendenza dall'elaborazione manuale e aiuta a integrare i documenti in ecosistemi di dati strutturati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Flussi di lavoro con fogli di calcolo aperti**
+  Converti il contenuto del documento in FODS per una gestione dei fogli di calcolo basata su standard.
+
+* **Scambio di dati basato su XML**
+  Conserva le tabelle estratte in una struttura di foglio di calcolo XML flat leggibile.
+
+* **Reportistica interoperabile**
+  Supporta la conversione da documento a foglio di calcolo dove sono preferiti i formati aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione in formato aperto**
+  Trasforma automaticamente i file DOC in FODS per flussi di dati interoperabili.
+
+* **Esportazioni compatibili con gli schemi**
+  Utilizza la conversione programmatica per produrre fogli di calcolo XML flat dal contenuto del documento.
+
+* **Pipeline di reportistica batch**
+  Converti i report documentali ricorrenti in FODS per l'integrazione e l'automazione dell'archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

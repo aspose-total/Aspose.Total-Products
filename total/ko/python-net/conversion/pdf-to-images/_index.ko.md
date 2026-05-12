@@ -53,9 +53,49 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PDF를 Python API로 이미지로 변환하면 문서 페이지를 미리보기, 공유, 시각적 보관 및 하위 이미지 기반 처리를 위한 이미지 파일로 렌더링할 수 있습니다. 이는 문서 내용을 이미지 형식이 더 쉽게 배포되거나 삽입될 수 있는 환경에서 표시해야 할 때 유용합니다.
+
+자동화는 빠른 페이지 렌더링, 일괄 변환 및 썸네일, 미리보기, 문서 검토 시스템과 같은 시각적 워크플로와의 통합을 가능하게 하여 이 프로세스를 향상시킵니다. 이는 디지털 플랫폼 전반에 걸쳐 문서 콘텐츠를 확장 가능하게 처리하도록 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **페이지 미리보기 생성**  
+  PDF 페이지를 이미지로 변환하여 웹 및 모바일 애플리케이션에서 시각적 미리보기를 제공합니다.
+
+* **문서 보관**  
+  문서 페이지를 이미지 자산으로 저장하여 빠른 접근 및 시각적 참조를 가능하게 합니다.
+
+* **콘텐츠 공유**  
+  프레젠테이션, 커뮤니케이션 또는 삽입된 문서 스냅샷에 이미지 출력을 사용합니다.
+
+* **시각적 처리 워크플로**  
+  분석, 주석 또는 인식 시스템을 위한 이미지 입력으로 PDF 페이지를 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **썸네일 생성 파이프라인**  
+  Python 자동화를 통해 업로드된 PDF에서 실시간으로 이미지 미리보기를 생성할 수 있습니다.
+
+* **대량 페이지 렌더링**  
+  대규모 PDF 컬렉션을 예약된 워크플로를 통해 이미지 세트로 변환할 수 있습니다.
+
+* **문서 뷰어 통합**  
+  시스템은 문서 탐색 인터페이스를 위해 필요에 따라 이미지 출력을 생성할 수 있습니다.
+
+* **동적 미디어 전달**  
+  자동화된 서비스는 PDF에서 파생된 이미지를 콘텐츠 플랫폼 전반에 효율적으로 배포할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

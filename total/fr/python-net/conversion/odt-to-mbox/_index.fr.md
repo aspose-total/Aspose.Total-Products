@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'ODT en MBOX transforme le contenu des documents en un format de type boîte aux lettres, adapté au stockage groupé de messages et aux flux de travail d'archivage. Cela est utile lorsque le texte du document doit être empaqueté pour un stockage semblable à un courriel, une migration ou une consolidation d'enregistrements.
+
+En utilisant les API Python, la conversion d'ODT en MBOX peut être intégrée aux pipelines d'archivage et de communication automatisés. Elle prend en charge une transformation cohérente du contenu des documents en conteneurs orientés messages pour le traitement en aval.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation d'archive de boîte aux lettres**  
+  Convertit les documents en un format adapté au stockage groupé de messages.
+
+* **Emballage des enregistrements de communication**  
+  Aide à organiser le contenu dérivé des documents aux côtés des archives orientées courriel.
+
+* **Support de migration**  
+  Facilite le déplacement du contenu vers des dépôts basés sur les messages.
+
+* **Consolidation massive de contenu**  
+  Permet le stockage groupé de plusieurs éléments convertis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Flux de génération d'archives**  
+  Les tâches Python peuvent convertir automatiquement plusieurs fichiers ODT en sorties de type boîte aux lettres.
+
+* **Support du pipeline de rétention**  
+  Les systèmes automatisés peuvent stocker les messages dérivés des documents dans des archives à long terme.
+
+* **Opérations d'emballage en masse**  
+  De grands lots de documents peuvent être regroupés en fichiers de boîte aux lettres transférables.
+
+* **Automatisation de la migration de contenu**  
+  Les pipelines de conversion peuvent préparer les enregistrements pour les systèmes qui reposent sur des conteneurs de type boîte aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

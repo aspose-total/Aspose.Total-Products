@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para MBOX em APIs Python transforma modelos de texto OpenDocument em formato de arquivo de caixa de correio para armazenar coleções de mensagens no estilo e‑mail. Isso é útil quando as comunicações geradas precisam ser agrupadas, transferidas ou retidas em uma estrutura compatível com caixa de correio.
+
+A conversão suporta automação ao permitir que a geração de mensagens baseada em documentos flua diretamente para pipelines de arquivamento e migração que dependem de armazenamento no estilo caixa de correio para escala e organização.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Preparação de Arquivo de Caixa de Correio**  
+  Produz conteúdo de mensagem adequado para armazenamento de e‑mail agrupado.
+
+* **Registro de Comunicações**  
+  Preserva o conteúdo gerado em um formato de caixa de correio portátil.
+
+* **Empacotamento em Massa de Mensagens**  
+  Ajuda a organizar múltiplas mensagens geradas para transferência ou ingestão.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivo de Correio**  
+  Converte comunicações baseadas em modelos em contêineres MBOX.
+
+* **Suporte ao Fluxo de Trabalho de Migração**  
+  Prepara mensagens derivadas de documentos para processos de importação de caixa de correio.
+
+* **Pipelines de Retenção em Lote**  
+  Armazena mensagens geradas recorrentes para uso de conformidade ou auditoria.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

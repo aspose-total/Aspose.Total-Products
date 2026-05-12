@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a XLSB converte contenuti strutturati basati su documenti in file di foglio di calcolo binari ottimizzati per un'efficiente memorizzazione e per la gestione di grandi cartelle di lavoro. Questo è prezioso quando i dati convertiti necessitano di funzionalità di foglio di calcolo con caratteristiche di prestazioni migliorate.
+
+Le API Python aiutano ad automatizzare la conversione da WordML a XLSB estraendo e organizzando le tabelle dei documenti in output di cartelle di lavoro binarie adatti a flussi di lavoro dati scalabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Archiviazione efficiente della cartella di lavoro**
+  Converte il contenuto WordML in file XLSB per una gestione compatta dei fogli di calcolo.
+
+* **Supporto a flussi di lavoro con grandi dati**
+  Aiuta a gestire set di dati convertiti di grandi dimensioni in forma compatibile con i fogli di calcolo.
+
+* **Trasformazione strutturata delle tabelle**
+  Rende i dati del documento utilizzabili in ambienti di cartelle di lavoro orientati alle prestazioni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Conversione di fogli di calcolo ad alto volume**
+  Automatizza la generazione di XLSB da grandi insiemi di documenti WordML.
+
+* **Pipeline di dati focalizzate sulle prestazioni**
+  Supporta i flussi di lavoro che beneficiano di output di fogli di calcolo binari.
+
+* **Preparazione di report scalabili**
+  Consente la conversione ricorrente delle tabelle dei documenti in risorse di cartelle di lavoro efficienti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

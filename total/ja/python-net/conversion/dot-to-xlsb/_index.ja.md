@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から XLSB への変換は、文書テンプレートをバイナリ形式のスプレッドシートブックに変換し、スプレッドシート中心の操作において、保存とパフォーマンスの効率が高くなります。これは、大規模または繰り返しのブック生成をコンパクトかつ実用的に保つ必要がある場合に役立ちます。
+
+Python API は、DOT ソースからの自動化された XLSB 作成をサポートし、効率的な出力処理を備えたスケーラブルな文書からスプレッドシートへのパイプラインを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **コンパクトなワークブックエクスポート**
+  DOT ファイルを XLSB に変換し、スプレッドシートの保存と配布を効率化します。
+
+* **パフォーマンス指向のデータ処理**
+  繰り返しまたは大規模なスプレッドシート生成が必要な場合に、バイナリワークブックを使用します。
+
+* **テンプレートコンテンツの構造化**
+  文書コンテンツを再利用し、運用向けに最適化されたワークブック出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたバイナリワークブックの生成**
+  Python ワークフローは、定期的なジョブで DOT テンプレートから XLSB ファイルを生成できます。
+
+* **大量スプレッドシートパイプライン**
+  変換は、大規模な文書リポジトリ向けに効率的な出力生成をサポートします。
+
+* **スケーラブルなデータエクスポート自動化**
+  プログラムによるシステムは、テンプレートからのコンパクトなスプレッドシート配信を標準化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

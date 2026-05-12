@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 DOCM으로 변환하면 프레젠테이션 콘텐츠를 편집 가능한 텍스트와 고급 문서 자동화 기능을 지원하는 매크로 사용 문서 형식으로 전환합니다. 이는 프레젠테이션 자료를 스크립트 기반 문서 동작, 템플릿 또는 제어된 처리에 의존하는 워크플로에서 재사용해야 할 때 관련됩니다.
+
+Python API를 사용하면 PPTX를 DOCM으로 변환하는 작업을 콘텐츠 변환과 매크로 사용 문서 처리를 모두 필요로 하는 자동화된 기업 워크플로에 삽입할 수 있습니다. 이는 대용량 콘텐츠 환경에서 확장 가능한 문서 조립, 양식 기반 처리 및 운영 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 문서**
+  슬라이드 콘텐츠를 자동화 작업 및 스크립트 처리용으로 설계된 문서로 변환합니다.
+
+* **템플릿 기반 워크플로**
+  반복적인 비즈니스 작업을 지원하는 구조화된 문서에서 프레젠테이션 자료를 재사용합니다.
+
+* **운영 양식 생성**
+  문서 로직 또는 내장 자동화를 포함하는 워크플로를 위해 프레젠테이션에서 파생된 콘텐츠를 준비합니다.
+
+* **프로세스 기반 보고**
+  프레젠테이션을 고급 문서 수명 주기 관리에 적합한 편집 가능한 파일로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 문서 조립**
+  콘텐츠와 매크로 로직을 결합한 워크플로를 위해 PPTX 파일을 DOCM 출력으로 변환합니다.
+
+* **규칙 기반 콘텐츠 처리**
+  스크립트 검증 또는 업데이트를 적용하는 시스템을 통해 변환된 문서를 라우팅합니다.
+
+* **비즈니스 양식을 위한 배치 처리**
+  반복 가능한 운영 프로세스를 위해 프레젠테이션에서 매크로 사용 파일을 생성합니다.
+
+* **엔터프라이즈 문서 자동화**
+  제어된 문서 실행을 위해 프로그램 방식 변환을 보다 넓은 시스템에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から PPSM への変換は、バイナリのスプレッドシートデータをマクロ対応スライドショーファイルに変換し、プレゼンテーションの再生と高度な自動化プレゼンテーション機能のサポートを組み合わせます。スプレッドシートベースの情報を拡張機能付きのスライドショーとして提供する必要がある場合に便利です。
+
+自動化主導の環境では、XLSB から PPSM への変換は、インタラクティブまたはスクリプト化されたスライドショー出力のスケーラブルな作成をサポートし、組織が構造化されたデータ由来のコンテンツを保持しながらプレゼンテーション配信を自動化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スライドショー**  
+  スプレッドシートの内容を、高度な自動化動作をサポートするスライドショーファイルに変換します。
+
+* **自動化されたプレゼンテーション配信**  
+  データ駆動型のスライドショーコンテンツを直接再生用に準備するのに役立ちます。
+
+* **インタラクティブレポート**  
+  構造化データと自動化ロジックの両方を必要とするプレゼンテーションワークフローをサポートします。
+
+* **制御された表示出力**  
+  スプレッドシート由来の情報を、スクリプト化されたスライドショー環境向けにパッケージ化できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スクリプト化されたスライドショー生成**  
+  システムはXLSBファイルをPPSM出力に変換し、自動化されたプレゼンテーションフローに利用できます。
+
+* **定期的なプレゼンテーション自動化**  
+  スプレッドシートデータは、繰り返しマクロ対応スライドショーの作成を促進できます。
+
+* **バッチインタラクティブ出力**  
+  複数のスプレッドシートソースを、拡張されたスライドショーフォーマットに変換できます。
+
+* **運用プレゼンテーションパイプライン**  
+  自動化されたワークフローは、ビジネス利用向けに構造化されたスライドショー出力を準備できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

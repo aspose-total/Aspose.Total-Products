@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 CSV로 변환하면 프레젠테이션 기반 콘텐츠를 구조화된 구분 형식으로 전환하여 비즈니스 및 기술 워크플로 전반에서 분석, 처리 및 재사용이 더 쉬워집니다. 슬라이드 텍스트, 표 또는 추출된 데이터를 보고, 마이그레이션, 검증 또는 하위 시스템에서 사용하기 위해 재활용해야 할 때 유용합니다.
+
+자동화 중심 환경에서 Python API를 사용해 PPTX를 CSV로 변환하면 효율적인 데이터 추출, 배치 처리 및 분석 파이프라인과의 통합을 지원합니다. 시각적 프레젠테이션 콘텐츠를 기계가 읽을 수 있는 레코드로 전환함으로써 필터링, 변환 및 플랫폼 간 동기화가 가능해져 확장성이 향상됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **슬라이드 데이터 추출**
+  프레젠테이션 콘텐츠를 행 기반 레코드로 변환하여 분석 및 재사용을 용이하게 합니다.
+
+* **보고서 준비**
+  추출된 슬라이드 텍스트 또는 표를 대시보드, 요약 및 운영 보고서용으로 준비합니다.
+
+* **콘텐츠 마이그레이션**
+  프레젠테이션의 정보를 데이터베이스나 가져오기 도구와 같은 구조화된 시스템으로 이동합니다.
+
+* **대량 처리 워크플로**
+  여러 PPTX 파일을 CSV 출력으로 표준화하여 대규모 문서 처리를 수행합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **예약된 데이터 변환**
+  들어오는 PPTX 파일을 자동으로 CSV로 변환하여 반복적인 보고 워크플로에 활용합니다.
+
+* **프레젠테이션‑분석 파이프라인**
+  추출된 슬라이드 콘텐츠를 자동화된 분석 및 비즈니스 인텔리전스 프로세스로 전달합니다.
+
+* **메타데이터 정규화**
+  프레젠테이션 요소를 검증 및 인덱싱을 위한 표준화된 표 형식 레코드로 변환합니다.
+
+* **배치 아카이브 처리**
+  대규모 프레젠테이션 아카이브를 프로그래밍 방식으로 처리하여 검색 가능한 CSV 데이터세트를 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で DOTX に変換することで、構造化された表形式データを、デジタルワークフロー全体で標準化された文書作成をサポートする最新のワードプロセッシングテンプレートに変換できます。  
+この変換により、生の CSV コンテンツを再利用可能なテンプレート形式に変換し、一貫性を高め、繰り返しの設定を削減し、スケーラブルな文書生成を支援することで、オートメーションが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **モダンテンプレート生成**  
+  CSV データを DOTX テンプレートに変換し、構造化かつ繰り返し可能な文書作成を実現します。
+
+* **標準化された文書レイアウト**  
+  チームが出力全体で一貫した書式と構成を維持できるテンプレートを作成します。
+
+* **再利用可能な出版構造**  
+  CSV 入力を DOTX アセットに変換し、将来の文書化ワークフローの基盤として活用します。
+
+* **テンプレートベースのコンテンツシステム**  
+  DOTX 出力を使用して、構造化データからプロフェッショナルな文書をスケーラブルに生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート配信**  
+  CSV データセットからプログラム的に DOTX テンプレートを生成し、繰り返し可能なビジネスプロセスを実現します。
+
+* **スケーラブルなコンテンツインフラストラクチャ**  
+  CSV から DOTX への変換を、テンプレート作成を大量に管理する Python ベースのシステムに統合します。
+
+* **大量テンプレート生成**  
+  複数の CSV ファイルを一つのワークフローで DOTX テンプレートに変換し、時間を節約しながら均一性を向上させます。
+
+* **動的レイアウトの自動生成**  
+  データルールを使用して、変化する CSV フィールドやソース構造から DOTX テンプレートを自動的に組み立てます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

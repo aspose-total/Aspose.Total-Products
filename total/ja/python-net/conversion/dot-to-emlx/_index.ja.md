@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から EMLX への変換は、文書テンプレートを特定のメールエコシステムで一般的に使用されるメールファイル形式に変換します。これは、テンプレート駆動のコンテンツをプラットフォーム固有のメール保存や移行シナリオ向けに準備する必要がある場合に便利です。
+
+Python API を使用することで、チームは DOT ファイルから EMLX 出力の生成を自動化でき、メッセージ生成の標準化と対象メールワークフローとの統合を簡素化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **プラットフォーム固有のメールエクスポート**
+  サポートされているメール環境との互換性のために、DOT コンテンツを EMLX に変換します。
+
+* **テンプレートベースのメール移行**
+  システム移行中に、ワードプロセッシングテンプレートを構造化されたメール資産として再利用します。
+
+* **メッセージの保存**
+  再利用やレビューのために、文書由来のコミュニケーションを専用のメールファイル形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メール形式変換**
+  Python ジョブは、定期的なワークフローで DOT テンプレートから EMLX ファイルを生成できます。
+
+* **移行サポートプロセス**
+  変換により、最小限の手作業でテンプレートコンテンツをメールエコシステムに移行できます。
+
+* **バッチ出力生成**
+  プログラム的なパイプラインは、スケールで複数のソース文書から EMLX ファイルを作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

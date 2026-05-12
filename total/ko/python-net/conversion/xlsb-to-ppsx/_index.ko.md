@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB를 PPSX로 변환하면 이진 스프레드시트 파일을 직접 재생이 가능한 최신 슬라이드쇼 형식으로 전환하여 구조화된 데이터를 바로 볼 수 있는 시각적 커뮤니케이션 자산으로 변환합니다. 이는 스프레드시트 인사이트를 간소화된 프레젠테이션 형태로 공유해야 하는 팀에 유용합니다.
+
+자동화 워크플로우에서는 XLSB를 PPSX로 변환함으로써 스프레드시트 소스에서 슬라이드쇼 출력물을 확장 가능하게 생성할 수 있어, 더 빠른 보고 주기, 일관된 프레젠테이션 제공 및 효율적인 콘텐츠 배포를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 슬라이드쇼 제공**  
+  스프레드시트 콘텐츠를 재생 준비가 된 프레젠테이션 파일로 변환합니다.
+
+* **시각적 데이터 커뮤니케이션**  
+  구조화된 스프레드시트 정보를 슬라이드쇼 형태로 보다 쉽게 제시할 수 있게 합니다.
+
+* **비즈니스 브리핑 지원**  
+  운영 업데이트 및 검토를 위한 즉시 실행 가능한 프레젠테이션 제작을 돕습니다.
+
+* **프레젠테이션 게시**  
+  스프레드시트에서 파생된 자료를 제어된 보기 형식으로 배포하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드쇼 제작**  
+  시스템은 반복적인 프레젠테이션 요구에 맞춰 XLSB 파일을 PPSX 출력물로 변환할 수 있습니다.
+
+* **배치 재생 준비**  
+  여러 스프레드시트 문서를 슬라이드쇼 준비 파일로 변환할 수 있습니다.
+
+* **보고 배포 파이프라인**  
+  자동화된 워크플로우는 구조화된 스프레드시트 데이터에서 시각적 출력물을 게시할 수 있습니다.
+
+* **확장 가능한 커뮤니케이션 워크플로우**  
+  스프레드시트 기반 프레젠테이션을 프로그래밍 방식으로 생성하여 보다 넓은 용도로 활용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da FODS a DOTM trasforma i file di foglio di calcolo OpenDocument piatti in modelli Word abilitati alle macro, consentendo strutture di documento riutilizzabili con supporto per funzionalità di automazione avanzate. Questo formato è utile quando la generazione di documenti basata su modelli deve anche permettere comportamenti scriptati estesi o azioni dinamiche sui documenti.
+
+Per ambienti guidati dall'automazione, la conversione da FODS a DOTM combina la gestione di dati strutturati con la riusabilità dei modelli e flussi di lavoro documentali programmabili. Le API Python aiutano le organizzazioni ad automatizzare la preparazione dei modelli, migliorare la coerenza e supportare la generazione complessa di documenti su larga scala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli abilitati alle macro**  
+  Converti i dati FODS in modelli DOTM per documenti riutilizzabili con logica documentale avanzata.
+
+* **Moduli operativi standardizzati**  
+  Prepara modelli ripetibili per documenti aziendali che richiedono formattazione coerente e comportamento esteso.
+
+* **Strutture di documento dinamiche**  
+  Utilizza gli output DOTM dove i dati strutturati devono alimentare modelli progettati per la gestione automatizzata dei documenti.
+
+* **Modelli di flusso di lavoro aziendali**  
+  Supporta i team che necessitano di generazione di documenti basata su modelli in processi interni controllati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Preparazione automatizzata di modelli**  
+  Le API Python possono generare modelli DOTM da sorgenti FODS come parte dell'automazione del flusso di lavoro dei documenti.
+
+* **Framework di documenti riutilizzabili**  
+  I sistemi automatizzati possono creare risorse di modello per attività operative o di reporting ricorrenti.
+
+* **Conversione batch di modelli**  
+  File FODS ad alto volume possono essere convertiti programmaticamente in formati di modello abilitati alle macro.
+
+* **Abilitazione avanzata del flusso di lavoro**  
+  Le pipeline di conversione possono preparare documenti per ambienti che si basano su funzionalità di automazione strutturata.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

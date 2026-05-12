@@ -53,7 +53,41 @@ DOT를 MHTML(웹 아카이브 형식)로 변환 기능 또는 HtmlFixed에 추�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 MHTML로 변환하면 워드 프로세싱 템플릿을 단일 휴대 가능한 리소스로 콘텐츠를 묶는 웹 아카이브 파일로 변환합니다. 이는 레이아웃을 보존하고, 웹 호환 형식으로 문서 콘텐츠를 공유하며, 자체 포함 배포를 간소화하는 데 유용합니다.
+
+Python API를 사용하면 문서를 게시, 보관 또는 압축된 웹 준비 파일로 전송해야 하는 자동화된 환경에서 DOT를 MHTML로 변환하는 것이 실용적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **웹 아카이브 내보내기**
+  DOT 파일을 MHTML로 변환하여 휴대 가능하고 브라우저 친화적인 문서 공유를 가능하게 합니다.
+
+* **단일 파일 보존**
+  전송 및 접근을 간소화하는 자체 포함 형식으로 문서 콘텐츠를 저장합니다.
+
+* **레이아웃 중심 배포**
+  검토 또는 출판을 위해 웹 호환 아카이브에 문서 프레젠테이션을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 웹 패키징**
+  Python 워크플로우는 게시 파이프라인을 위해 DOT 템플릿에서 MHTML 파일을 생성할 수 있습니다.
+
+* **보관용 콘텐츠 생성**
+  변환은 문서 소스에서 휴대 가능한 웹 아카이브를 반복적으로 생성하는 것을 지원합니다.
+
+* **대량 문서 게시**
+  프로그래밍 방식 프로세스는 다수의 템플릿에서 MHTML 출력을 효율적으로 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

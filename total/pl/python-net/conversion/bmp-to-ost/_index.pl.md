@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji BMP do OST w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja BMP do OST umożliwia dołączanie plików graficznych bitmap do plików przechowywania poczty offline używanych przez klientów poczty. Pliki OST utrzymują zsynchronizowane kopie danych skrzynki pocztowej do dostępu offline.
+
+Zautomatyzowane przepływy konwersji pomagają systemom integrować wiadomości oparte na obrazach z przechowywaniem skrzynki pocztowej offline. Wspiera to archiwizację korporacyjną, synchronizację oraz procesy automatycznego zarządzania skrzynką pocztową.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Przechowywanie skrzynki pocztowej offline**  
+  Wiadomości oparte na BMP mogą być przechowywane w plikach skrzynki pocztowej offline.
+
+* **Korporacyjne archiwizowanie e‑maili**  
+  Organizacje mogą zachowywać komunikację wizualną w systemach przechowywania skrzynki pocztowej.
+
+* **Synchronizacja danych skrzynki pocztowej**  
+  Treść wizualna może być integrowana ze zsynchronizowanymi rekordami skrzynki pocztowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne wypełnianie skrzynki pocztowej**  
+  Systemy generują wiadomości oparte na BMP i przechowują je w plikach OST.
+
+* **Przepływy migracji skrzynki pocztowej**  
+  Wizualna treść e‑maili może być konwertowana do przechowywania skrzynki pocztowej offline podczas migracji.
+
+* **Programowe zarządzanie skrzynką pocztową**  
+  Aplikacje dynamicznie aktualizują pliki OST komunikatami opartymi na obrazach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

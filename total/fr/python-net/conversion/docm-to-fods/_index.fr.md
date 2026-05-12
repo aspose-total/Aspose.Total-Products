@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers FODS convertit les documents contenant des macros en fichiers de feuille de calcul ouverts et plats, permettant aux données structurées du document d'être réutilisées dans des flux de travail de feuilles de calcul ouverts et basés sur XML. Elle est utile lorsque la transparence, la portabilité et la représentation normalisée des données sont importantes.
+
+Dans les systèmes automatisés, la conversion DOCM vers FODS prend en charge l'extraction de données répétable et l'intégration dans des pipelines de documents ouverts qui privilégient des formats de feuille de calcul lisibles et structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Conversion de feuille de calcul ouverte**
+  Déplace les données du document vers un format de feuille de calcul plat adapté aux écosystèmes ouverts.
+
+* **Portabilité des données basée sur XML**
+  Aide à préserver le contenu structuré dans un format facile à inspecter et à échanger.
+
+* **Standardisation des flux de travail**
+  Soutient les organisations qui utilisent les standards de documents ouverts pour les opérations de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportations automatisées de formats ouverts**
+  Convertit les fichiers DOCM en sorties FODS pour un traitement standardisé.
+
+* **Intégration avec les pipelines XML**
+  Permet aux données du document de circuler vers des systèmes qui travaillent avec des feuilles de calcul structurées basées sur le balisage.
+
+* **Tâches de standardisation en masse**
+  Normalise les tables de documents en fichiers de feuille de calcul plats sur de grands lots.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

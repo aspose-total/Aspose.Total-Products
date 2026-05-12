@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to Images 変換は、マクロ対応ドキュメントを視覚的なファイル出力に変換し、ページのプレビュー、共有、アーカイブ、または他システムへの埋め込みを容易にします。編集可能なドキュメント形式をネイティブにサポートしないプラットフォーム間で、視覚的な文書忠実性を保持する必要がある場合に有用です。
+
+自動化主導のワークフローにおいて、DOCM to Images 変換は文書レンダリングパイプライン、サムネイル生成、視覚的レビューシステム、スケーラブルな出版プロセスをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ビジュアル文書プレビュー**
+  ページを画像ファイルに変換し、ブラウザやアプリケーションで簡単に表示できるようにします。
+
+* **コンテンツ共有**
+  編集可能性が不要な文書スナップショットを迅速に配布できるようにします。
+
+* **アーカイブの忠実性**
+  参照とコンプライアンスのために、元の文書の視覚的外観を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイルとプレビュー生成**
+  文書ギャラリー、リスト、ポータル用の画像を自動的に作成します。
+
+* **パブリッシングパイプライン**
+  ウェブサイト、ナレッジベース、文書ビューア向けのビジュアルエクスポートをサポートします。
+
+* **バッチレンダリングワークフロー**
+  大量のDOCMファイルを手動介入なしで画像出力に処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

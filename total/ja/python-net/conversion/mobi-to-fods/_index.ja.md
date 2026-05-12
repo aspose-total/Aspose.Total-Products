@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PythonでのMOBIからFODSへの変換は、電子書籍のコンテンツをフラットなXMLスプレッドシート形式に変換し、オープンなワークフロー、検査、システムレベルの処理に適しています。これは、チームが透明でバージョン管理や監査が容易なスプレッドシート互換の出力を必要とする場合に有益です。
+
+自動化の文脈では、MOBIからFODSへの変換はオープンドキュメントパイプライン、スケーラブルなXMLベースの変換、そして可読性のある構造化フォーマットから恩恵を受けるシステムとの統合をサポートします。相互運用性とフォーマットの透明性に重点を置く環境で特に有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープン スプレッドシート処理**
+  MOBIコンテンツをFODSに変換し、オープンなスプレッドシートエコシステムやXMLベースのワークフローで使用します。
+
+* **監査可能なデータ変換**
+  変換や品質チェックの際に検査・検証が容易なフォーマットを生成します。
+
+* **相互運用可能なコンテンツ交換**
+  構造化された電子書籍コンテンツを、オープンで標準ベースの文書処理を好むシステムへ移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XMLベースの変換パイプライン**
+  オープンな構造化文書フォーマットに依存する自動化ワークフローにMOBIからFODSへの変換を組み込みます。
+
+* **バージョン管理された文書フロー**
+  可読性のあるフラットファイルの変更が追跡しやすいスクリプト環境でFODS出力を使用します。
+
+* **標準指向のエクスポート自動化**
+  コンプライアンス、交換、統合タスクのためにオープンなスプレッドシート出力を自動的に生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

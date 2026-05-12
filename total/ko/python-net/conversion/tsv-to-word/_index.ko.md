@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to Word 변환은 탭으로 구분된 데이터를 편집 가능한 워드 프로세싱 문서로 변환하여 구조화된 정보를 보다 쉽게 검토, 서식 지정 및 배포할 수 있게 합니다. 원시 데이터 세트를 커뮤니케이션, 문서화 및 비즈니스 보고를 지원하는 전문 문서로 전환하는 데 유용합니다.
+
+Python API를 사용하면 TSV to Word 변환을 자동화하여 워크플로 효율성을 향상하고 수동 문서 준비를 줄이며 구조화된 데이터를 읽기 쉬운 출력물로 확장 가능하게 변환할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 문서 생성**  
+  TSV 레코드를 편집 가능한 Word 문서로 변환하여 보고 및 검토에 사용합니다.
+
+* **구조화된 데이터 프레젠테이션**  
+  문서 기반 워크플로에서 표 형식 콘텐츠를 보다 쉽게 접근할 수 있도록 돕습니다.
+
+* **운영 콘텐츠 전달**  
+  팀 및 시스템 전반에 데이터 기반 문서 배포를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 문서 생성**  
+  Python API를 사용하여 TSV 내보내기를 반복 가능한 워크플로에서 Word 파일로 변환할 수 있습니다.
+
+* **워크플로 통합**  
+  자동화는 소스 데이터를 하위 문서 제작 단계와 연결합니다.
+
+* **대량 보고 프로세스**  
+  대량의 TSV 파일을 대규모로 Word 출력으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から MOBI への変換は、スプレッドシート由来の情報をデジタル読書環境に適した eBook フレンドリーな形式に変換します。これは、スプレッドシートで管理された構造化データ、カタログ、マニュアル、または参照資料を、読みやすい長文コンテンツとして配布する必要がある場合に有用です。
+
+自動化主導の出版において、XLSX から MOBI への変換は、構造化データセットを携帯可能なデジタル出版物に変換し、スケーラブルなコンテンツ配信、標準化されたフォーマット、効率的な文書配布を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **デジタルカタログ出版**  
+  スプレッドシートで管理された製品または参照データを、携帯可能で読書準備が整ったコンテンツに変換します。
+
+* **リファレンスガイド作成**  
+  構造化されたスプレッドシート情報を、エンドユーザー向けの読みやすい eBook ドキュメントに変換するのに役立ちます。
+
+* **コンテンツ再利用**  
+  手動での再フォーマットなしに、デジタル出版ワークフローでスプレッドシートデータの再利用をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動 eBook 生成**  
+  システムは、更新されたスプレッドシートコンテンツを、定期的な出版サイクル向けに MOBI ファイルに変換できます。
+
+* **コンテンツ配信パイプライン**  
+  変換は、構造化情報をデジタル読書プラットフォームに公開するワークフローに組み込むことができます。
+
+* **大規模出版オペレーション**  
+  プログラム的な変換により、スプレッドシートベースのコンテンツソースから一貫した eBook の生成が可能になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

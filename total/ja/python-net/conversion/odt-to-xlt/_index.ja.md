@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODTからXLTへの変換は、文書コンテンツを繰り返し作成可能なワークブック作成をサポートするスプレッドシートテンプレート形式に変換します。これは、文書由来のデータ構造を継続的な運用で再利用可能なスプレッドシートレイアウトにする必要がある場合に有用です。
+
+Python API を使用して、ODT から XLT への変換はテンプレート駆動の自動化、標準化されたレポート作成、繰り返し可能なデータワークフローをサポートします。静的な文書コンテンツを再利用可能なスプレッドシート資産に変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **スプレッドシートテンプレート作成**  
+  抽出されたコンテンツを再利用可能なワークブック構造に変換します。
+
+* **標準化されたレポートレイアウト**  
+  繰り返し生成されるスプレッドシート出力全体で一貫性を保つのに役立ちます。
+
+* **再利用可能なデータフレームワーク**  
+  類似したソースコンテンツから繰り返しワークブックを生成することをサポートします。
+
+* **運用効率**  
+  スプレッドシートの準備における繰り返しの設定作業を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  Python スクリプトは ODT 由来のデータを XLT テンプレートに自動的に変換できます。
+
+* **繰り返しワークブックの準備**  
+  文書ベースの構造は、繰り返しのスプレッドシートワークフローで再利用できます。
+
+* **バッチテンプレートの標準化**  
+  複数のソースファイルを再利用可能なスプレッドシート形式に変換できます。
+
+* **プロセス駆動型レポート作成**  
+  テンプレート出力は、下流の自動化されたワークブック生成をサポートできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

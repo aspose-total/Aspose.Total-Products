@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から PPS への変換は、マクロ対応の Word テンプレートを直接プレゼンテーション再生用に設計された PowerPoint スライドショー（PPS）ファイルに変換します。これは、文書の内容を編集ではなくすぐに閲覧できるプレゼンテーション出力に変える必要がある場合に便利です。
+
+DOTM から PPS への変換に Python API を使用すると、構造化された文書テンプレートからショー用に準備されたプレゼンテーションファイルを生成し、自動化が強化されます。これにより、出版プロセスが効率化され、準備時間が短縮され、プレゼンテーションコンテンツのスケーラブルな配信が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ショー対応プレゼンテーション出力**
+  DOTM ファイルを PPS に変換し、直接プレゼンテーション表示できるようにします。
+
+* **文書からスライドショーへの出版**
+  テンプレートの内容を、編集ではなく再生に焦点を当てたプレゼンテーションファイルに再利用します。
+
+* **イベントおよびブリーフィング資料**
+  会議やデモンストレーション用に、文書テンプレートからプレゼンテーション対応の出力を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー生成**
+  システムは DOTM テンプレートから直接 PPS ファイルを作成し、プレゼンテーション配信ワークフローに利用できます。
+
+* **再生重視の出版**
+  この変換は、編集中心でないスライド出力の自動作成をサポートします。
+
+* **バッチプレゼンテーション展開**
+  プログラム的なジョブにより、テンプレート文書を大量に PPS ファイルへ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

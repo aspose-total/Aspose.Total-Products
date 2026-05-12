@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から ODT への変換は、連絡先カード情報を編集可能で標準に準拠したドキュメントをサポートするオープンドキュメントテキストファイルに変換します。これは、オープンで相互運用可能なドキュメント環境で柔軟な連絡先レコード管理を求めるチームにとって有用です。
+
+Python API を使用することで、VCF から ODT への変換は、編集、配布、アーカイブをサポートする構造化された連絡先ファイルを生成し、互換性のあるオフィスシステム全体で自動化されたドキュメント作成を効率化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンドキュメント編集**  
+  VCF データを ODT ファイルに変換し、編集可能で標準に準拠した使用を実現します。
+
+* **相互運用可能な連絡先レコード**  
+  連絡先情報をオープンドキュメントワークフローに適した形式で保存します。
+
+* **構造化された情報共有**  
+  互換性のあるオフィス環境全体で読みやすい連絡先ドキュメントを提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量 ODT 変換**  
+  大規模な VCF コレクションから ODT ドキュメントを自動的に作成します。
+
+* **オープンワークフロー統合**  
+  生成された連絡先ファイルをオープン標準に基づく自動化システムへルーティングします。
+
+* **効率的なドキュメント処理**  
+  Python API を使用して、スケールで再利用可能な ODT 連絡先出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,45 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to XLSX conversion in Python APIs converts OpenDocument text templates into modern spreadsheet workbooks for analysis, reporting, and structured data reuse. This is one of the most practical transformations when document content must become broadly accessible and editable in tabular form.
+
+La conversione da OTT a XLSX nelle API Python converte i modelli di testo OpenDocument in moderni workbook di fogli di calcolo per analisi, reportistica e riutilizzo strutturato dei dati. Questa è una delle trasformazioni più pratiche quando il contenuto dei documenti deve diventare ampiamente accessibile e modificabile in forma tabellare.
+
+The conversion supports automation by enabling repeatable creation of workbook outputs from templates, making it easier to integrate document-derived content into data pipelines, audits, and reporting operations.
+
+La conversione supporta l'automazione consentendo la creazione ripetibile di output di workbook a partire dai modelli, facilitando l'integrazione del contenuto derivato dai documenti nei flussi di dati, nelle verifiche e nelle operazioni di reportistica.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di fogli di calcolo moderni**  
+  Produce file di workbook attuali a partire da modelli basati su testo.
+
+* **Prontezza per l'analisi aziendale**  
+  Rende le informazioni più facili da ordinare, filtrare, calcolare e revisionare.
+
+* **Ampia compatibilità dei flussi di lavoro**  
+  Supporta la collaborazione e lo scambio di dati guidati da fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Produzione programmata di workbook**  
+  Converte i file OTT in output XLSX su cicli ricorrenti.
+
+* **Pipeline da modello a report**  
+  Alimenta i fogli di calcolo generati nei flussi di lavoro di reportistica e analisi.
+
+* **Imballaggio dati programmatico**  
+  Crea deliverable di workbook strutturati per team o sistemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para VCF nas APIs Python transforma modelos de texto OpenDocument em arquivos de cartão de contato usados para compartilhar detalhes de pessoas e organizações. Isso é valioso quando o conteúdo do modelo contém informações de contato estruturadas que precisam se tornar portáteis e prontas para importação.
+
+A conversão suporta automação ao transformar detalhes de contato gerenciados em documentos em arquivos de troca padronizados, reduzindo a entrada manual e melhorando a sincronização em fluxos de trabalho de comunicação e diretórios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Arquivo de Contato**  
+  Converte conteúdo de contato estruturado em arquivos de cartão importáveis.
+
+* **Compartilhamento de Dados de Diretório**  
+  Facilita a troca de informações de contato entre sistemas.
+
+* **Gerenciamento de Contato Baseado em Modelo**  
+  Reutiliza modelos de documento para saída de contato padronizada.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação Automatizada de Contato**  
+  Cria arquivos VCF a partir de modelos OTT contendo dados de pessoas ou organizações.
+
+* **Integração com CRM ou Diretório**  
+  Alimenta os arquivos de contato gerados em sistemas de informação downstream.
+
+* **Empacotamento em Massa de Contatos**  
+  Produz saídas de contato padronizadas para grandes conjuntos de contatos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

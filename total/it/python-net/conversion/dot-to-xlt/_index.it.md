@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a XLT trasforma i modelli di documento in file modello di foglio di calcolo che possono essere riutilizzati per la creazione coerente di cartelle di lavoro. Questo è prezioso quando il contenuto strutturato del documento deve fungere da base ripetibile per i flussi di lavoro dei fogli di calcolo.
+
+Con le API Python, la generazione di modelli XLT da sorgenti DOT può essere automatizzata per migliorare la standardizzazione e ridurre lo sforzo ripetitivo di progettazione delle cartelle di lavoro.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli di Foglio di Calcolo Riutilizzabili**
+  Converti i file DOT in modelli XLT per la generazione ripetuta di cartelle di lavoro.
+
+* **Layout Dati Coerenti**
+  Trasforma le strutture dei documenti in modelli di foglio di calcolo che preservano formato e organizzazione.
+
+* **Standardizzazione Operativa**
+  Supporta la creazione ripetibile di fogli di calcolo da modelli di documento gestiti centralmente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Pubblicazione Automatizzata di Modelli**
+  Gli script Python possono generare file XLT da documenti DOT per un uso operativo ricorrente.
+
+* **Pipeline Standard per Cartelle di Lavoro**
+  La conversione supporta i sistemi che necessitano di modelli di foglio di calcolo coerenti su larga scala.
+
+* **Generazione di Modelli in Massa**
+  Processi programmatici aiutano a costruire grandi librerie di modelli di cartelle di lavoro riutilizzabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

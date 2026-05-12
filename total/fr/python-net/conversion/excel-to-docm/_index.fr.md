@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'Excel en DOCM avec Python permet d'exporter le contenu des feuilles de calcul vers des documents de traitement de texte compatibles avec les macros, pour des flux de travail documentaires avancés. Elle est utile lorsque les fichiers convertis doivent rester modifiables tout en prenant en charge des actions basées sur des macros dans les environnements de documents.
+
+Cette conversion est pertinente pour l'automatisation car elle relie les données des feuilles de calcul au comportement programmable des documents, permettant la génération évolutive de fichiers interactifs et conscients des processus.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rapports avec macros**  
+  Convertir des fichiers Excel en documents DOCM pouvant prendre en charge des actions automatisées dans les flux de travail de traitement de texte.
+
+* **Documents de processus**  
+  Préparer des fichiers modifiables qui combinent des données structurées avec des capacités d'automatisation de documents intégrées.
+
+* **Modèles opérationnels**  
+  Utiliser les données des feuilles de calcul pour remplir des documents conçus pour des tâches répétitives pilotées par des macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Assemblage de documents automatisé**  
+  Convertir les entrées Excel en sorties DOCM pour des flux de travail nécessitant des documents modifiables et prêts à être scriptés.
+
+* **Automatisation des processus internes**  
+  Soutenir les départements qui s'appuient sur des fichiers compatibles avec les macros pour le formatage, la validation ou le remplissage guidé.
+
+* **Pipelines données-vers-document**  
+  Utiliser les API Python pour générer des fichiers DOCM de manière programmatique à partir de données sources basées sur des feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

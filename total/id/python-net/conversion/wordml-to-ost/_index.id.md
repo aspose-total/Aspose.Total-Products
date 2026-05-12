@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi WORDML ke
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi WordML ke OST mendukung transformasi konten berbasis dokumen ke dalam format yang dapat digunakan dalam alur kerja data kotak surat offline dan ekosistem penyimpanan email. Ini relevan dalam skenario migrasi atau arsip khusus di mana informasi dokumen menjadi bagian dari penanganan konten yang berorientasi pada kotak surat.
+
+API Python dapat membantu menyiapkan dan menyusun konten untuk otomatisasi terkait WordML ke OST, meningkatkan keterulangan dalam proses pesan perusahaan dan migrasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Persiapan Data Kotak Surat**
+  Menggunakan konten dokumen sebagai input untuk penyimpanan surat offline dan alur kerja migrasi.
+
+* **Dukungan Arsip Perusahaan**
+  Membantu menyelaraskan komunikasi yang berasal dari dokumen dengan proses retensi yang berfokus pada kotak surat.
+
+* **Pengemasan Konten Terstruktur**
+  Mendukung transformasi teks yang disetujui ke dalam konteks penyimpanan yang berorientasi pesan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipa Dukungan Migrasi**
+  Mengotomatiskan persiapan konten WordML untuk alur kerja pemrosesan kotak surat offline.
+
+* **Tugas Konsolidasi Arsip**
+  Mengintegrasikan catatan yang berasal dari dokumen ke dalam operasi arsip email yang lebih luas.
+
+* **Strukturisasi Konten Perusahaan**
+  Memungkinkan penanganan berulang konten dokumen siap pesan secara skala besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

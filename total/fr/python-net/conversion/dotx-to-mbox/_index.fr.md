@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers MBOX transforme le contenu des modèles Word en un format d’archive de courriels orienté boîte aux lettres, utilisé pour stocker des collections de messages. Elle est utile lorsque les communications générées à partir de modèles doivent être conservées en masse pour des flux de travail de rétention ou de migration.
+
+En utilisant les API Python, cette conversion aide à automatiser l’empaquetage des messages, les opérations d’archivage et les processus de stockage à long terme où le contenu structuré des documents devient partie intégrante des dossiers basés sur les courriels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Archivage en masse des messages**
+  Convertir les communications générées à partir de modèles en formats de stockage de type boîte aux lettres.
+
+* **Gestion de la collection d’e‑mails**
+  Conserver plusieurs messages générés dans une structure d’archivage unique.
+
+* **Préparation à la migration**
+  Prendre en charge les flux de travail qui déplacent les communications dérivées de documents vers des archives de courriels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création d’archive automatisée**
+  Générer des sorties MBOX à partir de contenu e‑mail basé sur DOTX dans des tâches planifiées.
+
+* **Flux de travail de rétention**
+  Stocker les communications converties dans des archives centralisées à des fins de gouvernance.
+
+* **Consolidation document‑mail**
+  Regrouper les sorties de modèles répétées en collections de boîtes aux lettres de manière programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

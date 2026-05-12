@@ -53,7 +53,41 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do MHTML w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w pliki archiwum internetowego, które łączą zawartość w jednorodny, przenośny format przypominający stronę. Jest to przydatne, gdy wynikowy dokument musi być wyświetlany w przeglądarkach lub zachowany jako samodzielna treść internetowa.
+
+Konwersja usprawnia automatyzację, umożliwiając spójną generację udostępnialnych, lekkich artefaktów gotowych do publikacji w sieci z szablonów, które mogą być przechowywane, przesyłane lub osadzane w szerszych cyfrowych przepływach pracy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie archiwum internetowego**  
+  Tworzy samodzielne wyjścia stron z szablonów dokumentów.
+
+* **Przenośne przeglądanie**  
+  Ułatwia otwieranie treści w środowiskach przyjaznych przeglądarkom.
+
+* **Jednoplikowa archiwizacja**  
+  Pakietuje sformatowany wynik dokumentu w jeden przenośny plik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne tworzenie migawki internetowej**  
+  Renderuje pliki OTT do zarchiwizowanych dokumentów internetowych masowo.
+
+* **Dystrybucja oparta na przeglądarce**  
+  Wspiera przepływy pracy, które udostępniają wynik szablonu jako pliki widoczne w przeglądarce.
+
+* **Rurociągi zachowania treści**  
+  Przechowuje sformatowane stany dokumentu w kompaktowym, przenośnym formacie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

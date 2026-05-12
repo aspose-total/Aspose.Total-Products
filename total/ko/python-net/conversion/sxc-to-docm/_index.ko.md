@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 DOCM으로의 변환은 스프레드시트에서 유래한 콘텐츠를 매크로가 포함된 문서 형식으로 변환하여, 내장 자동화 기능이 필요한 고급 문서 워크플로에 적합합니다. 이는 스프레드시트 데이터가 스크립트 기반 서식, 논리 또는 반복 작업을 지원하는 문서로 전달되어야 할 때 유용합니다.
+
+Python API를 사용하면 SXC에서 DOCM으로의 변환이 구조화된 기업 워크플로 내에서 인터랙티브하거나 매크로 준비된 문서를 자동으로 생성함으로써 운영 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 준비 보고**  
+  스프레드시트 콘텐츠를 매크로 기반 서식 또는 처리 작업을 위해 준비된 문서로 변환합니다.
+
+* **재사용 가능한 문서 템플릿**  
+  스프레드시트 데이터가 반복적인 자동 사용을 위해 설계된 문서를 채워야 하는 워크플로를 지원합니다.
+
+* **운영 문서화**  
+  가져온 콘텐츠와 내장 로직을 결합하여 내부 프로세스 실행을 위한 문서를 만드는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 템플릿 채우기**  
+  Python API를 사용하여 최소한의 수작업으로 스프레드시트 데이터를 매크로가 포함된 문서 워크플로에 전달합니다.
+
+* **문서 처리 파이프라인**  
+  생성된 DOCM 파일이 승인 또는 변환 시스템으로 전달되는 엔드투엔드 자동화를 가능하게 합니다.
+
+* **규칙 기반 콘텐츠 조립**  
+  변환 후 스크립트된 동작이 필요한 시나리오를 위한 동적 문서 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

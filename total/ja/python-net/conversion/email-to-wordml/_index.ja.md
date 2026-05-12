@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における Email から WordML への変換は、メッセージを XML ベースの Wordprocessing コンテンツに変換し、構造化ドキュメントの相互運用性と変換を実現します。メール由来の文書を、明示的なマークアップとプログラム制御を重視するシステムで扱う必要がある場合に有用です。
+
+これにより、メッセージ内容の検査、変換、検証、XML 指向の出版やエンタープライズワークフローへの統合が容易になり、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **構造化 XML ドキュメント生成**
+  メールを WordML に変換し、マークアップベースの文書ワークフローに利用します。
+
+* **XML システムとの相互運用性**
+  構造化 XML に依存するプラットフォームを通じて、メッセージ由来のコンテンツを交換します。
+
+* **細粒度コンテンツ処理**
+  メールメッセージから生成された文書要素を検査・操作します。
+
+* **スキーマ指向変換**
+  明示的な XML 構造を必要とする変換チェーン向けにメールコンテンツを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML 変換パイプライン**
+  メールを WordML に変換し、自動化されたコンテンツ変換を適用します。
+
+* **検証中心のワークフロー**
+  構造をチェックし、メール由来の XML 文書に対してビジネスルールを適用します。
+
+* **出版および交換の自動化**
+  構造化された出力をエンタープライズの文書・出版システムへルーティングします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

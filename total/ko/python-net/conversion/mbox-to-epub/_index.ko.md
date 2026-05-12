@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 EPUB로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to EPUB 변환은 메일함 아카이브를 재흐름 가능한 디지털 출판 파일로 변환하여 이메일 콘텐츠를 전자책 호환 환경에서 더 쉽게 배포하고, 읽고, 보존할 수 있게 합니다. 이는 아카이브된 커뮤니케이션을 조직된 장문 디지털 콘텐츠로 제시해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환을 자동화하여 메일함 데이터에서 휴대 가능한 출판물을 만들고, 콘텐츠 접근성을 향상시키며, 구조화된 디지털 배포 워크플로를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 출판물 생성**
+  이메일 아카이브를 EPUB 파일로 변환하여 구조화되고 휴대 가능한 읽기 경험을 제공합니다.
+
+* **장문 콘텐츠 패키징**
+  메일함 콘텐츠를 출판 준비가 된 디지털 형식으로 결합하여 참고 또는 배포에 활용합니다.
+
+* **접근 가능한 아카이브 제공**
+  여러 기기에 적합한 독자 친화적인 형식으로 메시지 컬렉션을 제시합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 eBook 생성**
+  반복 가능한 Python 워크플로를 통해 메일함 콘텐츠를 EPUB 출판물로 변환합니다.
+
+* **휴대 가능한 지식 배포**
+  선별된 이메일 아카이브를 내부 공유용 디지털 읽기 패키지로 내보냅니다.
+
+* **구조화된 콘텐츠 출판**
+  메일함‑to‑EPUB 변환을 자동화된 출판 및 아카이브 파이프라인에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

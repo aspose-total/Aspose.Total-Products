@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF からテキストへの変換は、構造化された連絡先カードデータをシンプルな保存、容易な解析、そして幅広いシステム互換性のためのプレーンテキスト出力に変換します。これは、連絡先情報を軽量で普遍的にアクセス可能な形式に抽出する必要がある場合に有用です。
+
+Python API を使用することで、VCF からテキストへの変換は、下流の処理、インデックス作成、変換ワークフローを簡素化し、プレーンテキストデータの検証と統合が容易になるため、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **プレーン連絡先抽出**  
+  VCF ファイルをテキストに変換し、シンプルな読み取りと処理を可能にします。
+
+* **ユニバーサルデータアクセス**  
+  最小限のフォーマット依存で、システム間でプレーンテキスト出力を使用します。
+
+* **軽量レコード保存**  
+  連絡先情報をコンパクトで携帯性のある形で保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="オートメーションシナリオ" %}}
+
+* **自動テキストエクスポート**  
+  VCF レコードのバッチをテキストファイルに変換し、効率的な処理を実現します。
+
+* **検索およびインデックスパイプライン**  
+  プレーンテキストの連絡先データを自動検索または分類システムに供給します。
+
+* **柔軟な統合ワークフロー**  
+  Python API を使用して、下流タスク向けに軽量な連絡先出力を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

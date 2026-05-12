@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to DOTM 変換は、メールメッセージを高度な文書自動化用のマクロ対応テンプレートファイルに変換します。メールの内容を、スクリプト動作やルールベースの処理もサポートする繰り返し可能なテンプレートの一部にする必要がある場合に適しています。
+
+自動化された環境内では、MSG to DOTM ワークフローは再利用可能な構造とマクロ対応アクションを組み合わせるのに役立ちます。これにより、エンタープライズ文書組み立て、規制されたワークフロー、テンプレート主導の操作に適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート開発**  
+  メール内容を自動化ロジックをサポートする再利用可能なテンプレートに変換します。
+
+* **制御された文書ワークフロー**  
+  高度な処理ルールを使用する環境で標準化された文書作成をサポートします。
+
+* **繰り返し可能なコンテンツ構造**  
+  繰り返し発生する業務文書全体で、メッセージ由来のレイアウトを再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化システム**  
+  MSG ファイルをマクロ支援による文書生成用の DOTM テンプレートに変換します。
+
+* **ルールベースの文書組み立て**  
+  書式やコンテンツのルールを強制する自動化ワークフローで変換されたテンプレートを使用します。
+
+* **スケーラブルなエンタープライズ処理**  
+  マクロ互換テンプレートで、繰り返し発生するメールベースの出力を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi MSG ke DO
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi MSG ke DOCM mengubah file pesan email menjadi dokumen pengolah kata yang mendukung makro dan perilaku dokumen lanjutan. Ini berguna ketika konten pesan harus dipertahankan dalam format yang dapat diedit sambil tetap kompatibel dengan lingkungan pemrosesan berbasis makro.
+
+Untuk otomatisasi, alur kerja MSG ke DOCM relevan dalam sistem yang mengandalkan tindakan dokumen yang diprogram, rutin validasi, atau tugas pemformatan terstruktur. Mereka membantu menghubungkan konten yang berasal dari email dengan operasi dokumen perusahaan yang dinamis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Dokumentasi Berbasis Makro**  
+  Siapkan konten email yang telah dikonversi untuk lingkungan dokumen yang menggunakan makro otomatisasi.
+
+* **Pemrosesan Konten Terstruktur**  
+  Dukung pemformatan dan manipulasi berbasis aturan setelah konversi.
+
+* **Perakitan Dokumen Operasional**  
+  Gabungkan data pesan ke dalam templat dokumen yang terkontrol dan siap otomatisasi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pemrosesan Pasca Makro**  
+  Konversi file MSG ke DOCM sehingga rutin hilir dapat menerapkan langkah pemformatan atau validasi.
+
+* **Alur Kerja Dokumen Perusahaan**  
+  Masukkan dokumen yang dikonversi ke dalam sistem tinjauan otomatis yang bergantung pada dukungan makro.
+
+* **Penanganan Konten Dinamis**  
+  Aktifkan pembaruan programatik dan tindakan alur kerja pada dokumen yang berasal dari pesan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

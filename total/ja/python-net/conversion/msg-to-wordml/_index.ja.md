@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG から WordML への変換は、メールメッセージを XML ベースのワードプロセッシングマークアップに変換し、構造化された文書表現と変換を実現します。文書内容を機械可読のまま保ち、高度な解析や相互運用タスクに適している場合に価値があります。
+
+自動化のために、MSG から WordML へのワークフローは XML 処理、変換パイプライン、システム統合シナリオをサポートします。これらは、メール由来のコンテンツと構造化文書エンジニアリングおよびプログラム的操作を橋渡しするのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化 XML 文書出力**  
+  メッセージ内容をマークアップベースのワードプロセッシング形式で表現します。
+
+* **相互運用可能なコンテンツ交換**  
+  機械可読の文書構造に依存するワークフローをサポートします。
+
+* **高度な変換サポート**  
+  変換されたメールコンテンツの詳細な解析と修正を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML 処理パイプライン**  
+  MSG ファイルを WordML に変換し、構造化された変換および検証タスクに使用します。
+
+* **システム統合ワークフロー**  
+  マークアップベースの形式を使用して、自動化ツール間で文書コンテンツを交換します。
+
+* **プログラム的文書エンジニアリング**  
+  XML 主導の環境で、メッセージ由来のコンテンツにスクリプトロジックを適用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -65,7 +65,47 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja Word do TSV przy użyciu interfejsów API Pythona konwertuje zawartość edytorów tekstu na wartości rozdzielone tabulatorem w celu wymiany ustrukturyzowanych danych tekstowych. Jest to przydatne, gdy informacje pochodzące z dokumentu muszą być wyeksportowane w prostym, przenośnym formacie, który zachowuje rozdzielenie bez polegania na przecinkach.
+
+W scenariuszach automatyzacji konwersja TSV wspiera skalowalne przetwarzanie danych, szczególnie tam, gdzie preferowane są wyjścia z rozdzieleniem tabulacji dla importów, skryptów lub interoperacyjności z systemami przetwarzającymi ustrukturyzowany tekst zwykły.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport ustrukturyzowanego tekstu**
+  Konwertuje zawartość dokumentu na wyjście z rozdzieleniem tabulacji dla czystej wymiany danych.
+
+* **Przygotowanie do importu danych**
+  Ułatwia wczytywanie wyodrębnionych informacji do narzędzi obsługujących wejście TSV.
+
+* **Przetwarzanie przyjazne skryptom**
+  Wspiera lekkie przepływy pracy oparte na tekście do parsowania i transformacji.
+
+* **Alternatywa dla rozdzielania przecinkami**
+  Pomaga zachować przejrzystość, gdy wyeksportowane wartości mogą zawierać przecinki.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne tworzenie plików z delimitacją**
+  Generuje wyjścia TSV z plików Word dla rutynowych zadań importu i przetwarzania.
+
+* **Masowa ekstrakcja danych**
+  Konwertuje kolekcje dokumentów na ustrukturyzowane pliki rozdzielone tabulatorem w dużej skali.
+
+* **Wymiana przyjazna potokom**
+  Używa wyjść TSV w skryptach, procedurach walidacji i dalszej automatyzacji.
+
+* **Przepływy modernizacji archiwów**
+  Przekształca starszą zawartość dokumentów w dostępny ustrukturyzowany tekst do szerszego ponownego wykorzystania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

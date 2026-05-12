@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 XPS를 EML로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS를 EML로 변환하는 Python API는 고정 레이아웃 문서를 표준 이메일 메시지 파일로 변환합니다. 이러한 파일은 메시지 저장, 교환 및 보관에 널리 사용됩니다. 특히 문서 내용을 하위 커뮤니케이션, 검토 또는 규정 준수 사용 사례를 위해 휴대 가능한 이메일 형식으로 보존해야 할 때 유용합니다.
+
+자동화 관점에서 XPS를 EML로 변환하는 워크플로는 문서 기반 메시징의 일관성을 향상하고 수동 준비 작업을 줄이며 문서 시스템, 메일 처리 도구 및 보관 환경 간의 확장 가능한 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대용 이메일 메시지 생성**  
+  XPS 문서를 EML 파일로 변환하여 호환 시스템 간에 표준화된 저장 및 전송을 가능하게 합니다.
+
+* **메일 형식의 문서 보관**  
+  규제된 보존 및 향후 검색을 위해 문서 내용을 이메일 메시지로 보존하는 데 도움이 됩니다.
+
+* **상호 운용 가능한 메시지 교환**  
+  표준 이메일 파일 형식을 지원하는 플랫폼 간에 변환된 메시지를 보다 쉽게 이동할 수 있게 합니다.
+
+* **검토 및 승인 흐름**  
+  문서 내용을 검증 또는 승인용 메시지 파일로 공유해야 하는 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 문서-메시지 변환**  
+  자동화된 작업을 통해 대량의 XPS 파일을 EML로 변환하여 일관된 하위 처리에 활용할 수 있습니다.
+
+* **시스템 생성 레코드 패키징**  
+  애플리케이션은 생성된 XPS 출력을 레코드 관리 워크플로의 일환으로 EML 파일로 변환할 수 있습니다.
+
+* **메일 아카이브 수집**  
+  변환된 EML 파일을 프로그래밍 방식으로 보존을 위해 아카이브 또는 인덱싱 시스템으로 라우팅할 수 있습니다.
+
+* **워크플로 기반 메시지 내보내기**  
+  동적 파이프라인은 문서가 처리의 정의된 단계에 도달했을 때 EML 출력을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

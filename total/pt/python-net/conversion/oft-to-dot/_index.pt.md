@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para DOT usando APIs Python permite que modelos de e‑mail do Outlook sejam convertidos em arquivos de modelo Word legados para criação padronizada de documentos. Isso é útil quando as organizações dependem de estruturas de documentos reutilizáveis e precisam transformar o conteúdo das mensagens em formatos baseados em modelos.
+
+Em ambientes focados em automação, a conversão de OFT para DOT ajuda a alinhar o conteúdo originado de e‑mails com processos de criação de documentos repetíveis. Ela melhora a consistência, apoia a governança de modelos e simplifica tarefas de geração subsequentes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação Reutilizável de Modelos de Documento**  
+  Converta o conteúdo OFT em arquivos DOT para geração repetida de documentos com base em uma estrutura fixa.
+
+* **Compatibilidade com Fluxos de Trabalho Legados**  
+  Suporte a sistemas que ainda dependem de formatos de modelo Word mais antigos para operações de negócios.
+
+* **Distribuição Padronizada de Conteúdo**  
+  Entregue arquivos prontos para modelo que preservam formatação consistente em documentos gerados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Bibliotecas de Modelos Automatizadas**  
+  Construa e mantenha repositórios de modelos de documentos a partir do conteúdo OFT usando APIs Python.
+
+* **Geração Consistente de Formulários**  
+  Use arquivos DOT convertidos em sistemas automatizados que criam relatórios ou formulários recorrentes.
+
+* **Transformação Estruturada de Conteúdo**  
+  Converta modelos de e‑mail em padrões de documentos reutilizáveis para fluxos de trabalho operacionais escaláveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

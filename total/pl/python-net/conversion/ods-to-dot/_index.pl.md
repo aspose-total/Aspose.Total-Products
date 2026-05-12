@@ -65,7 +65,47 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS do DOT konwersja przekształca pliki arkuszy kalkulacyjnych w formaty szablonów dokumentów używane do strukturalnego tworzenia dokumentów. Umożliwia to wykorzystanie danych lub struktur opartych na arkuszach kalkulacyjnych jako podstawy dla wielokrotnego użytku szablonów dokumentów.
+
+Workflowy konwersji oparte na Pythonie umożliwiają automatyczne tworzenie szablonów dokumentów z treści arkuszy kalkulacyjnych. To podejście wspiera skalowalną generację dokumentów, standaryzację szablonów oraz efektywną automatyzację w systemach dokumentacyjnych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie szablonów z danych**  
+  Konwertuj struktury arkuszy kalkulacyjnych w wielokrotnego użytku szablony dokumentów.
+
+* **Ustandaryzowane układy dokumentów**  
+  Użyj danych z arkusza jako podstawy do spójnego formatowania dokumentów.
+
+* **Strukturyzacja treści**  
+  Przekształć informacje tabelaryczne w struktury dokumentów gotowe do szablonów.
+
+* **Przygotowanie przepływu pracy dokumentów**  
+  Przygotuj dokumenty szablonowe pochodzące z zestawów danych arkusza kalkulacyjnego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki generowania szablonów**  
+  Workflowy w Pythonie konwertują arkusze kalkulacyjne w wielokrotnego użytku szablony dokumentów.
+
+* **Zautomatyzowane zarządzanie szablonami**  
+  Systemy generują i utrzymują szablony pochodzące ze strukturalnych danych arkusza kalkulacyjnego.
+
+* **Masowa konwersja szablonów**  
+  Zautomatyzowane usługi przetwarzają wiele plików ODS, aby stworzyć ustandaryzowane szablony.
+
+* **Dynamiczne systemy tworzenia dokumentów**  
+  Szablony generowane z arkuszy kalkulacyjnych wspierają automatyczną produkcję dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

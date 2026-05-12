@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から TSV への変換は、プレゼンテーションのコンテンツをタブ区切り形式に抽出し、クリーンなテキストベースのデータ交換や構造化処理に役立ちます。特にスライドの内容がテーブルや繰り返しのテキスト要素である場合、解析、移行、または分析のためにシンプルな形式へエクスポートする際に有用です。
+
+Python API を使用した PPTX から TSV への自動変換は、軽量なデータワークフロー、信頼性の高いパース、効率的なバッチ処理をサポートします。これにより、プレゼンテーション由来のデータを自動化システム、スクリプト、データ変換パイプラインに容易に統合できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化テキストエクスポート**
+  プレゼンテーションデータをスクリプト処理に適した区切り文字ベースの形式に変換します。
+
+* **テーブルコンテンツ抽出**
+  スライド上のテーブルをクリーンな構造に抽出し、さらに処理できるようにします。
+
+* **システム間データ交換**
+  TSV を中間形式として使用し、プレゼンテーション由来のデータをツール間で移動させます。
+
+* **パースと検証タスク**
+  予測可能なテキスト構造により、スライド内容の自動検査を簡素化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **軽量データ処理**
+  PPTX ファイルを自動的に TSV に変換し、スクリプトフレンドリーなワークフローを実現します。
+
+* **バッチ抽出パイプライン**
+  大規模なプレゼンテーション群を構造化テキスト出力にスケールして処理します。
+
+* **ETL ワークフローサポート**
+  抽出したプレゼンテーションデータを変換およびロードパイプラインに供給します。
+
+* **自動コンテンツ監査**
+  TSV 出力を使用して検証、品質チェック、ルールベースの検査を行います。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

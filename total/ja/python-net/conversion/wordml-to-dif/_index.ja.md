@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から DIF への変換により、構造化された文書データをデータ交換フォーマット（DIF）にエクスポートでき、レガシーなスプレッドシートやデータ処理システムとの互換性が確保されます。これは、組織が古いもののまだサポートされている交換フォーマットで構造化コンテンツを保存する必要がある場合に有用です。
+
+Python API は、テーブルを抽出し、論理的なデータ関係を保持し、移行や相互運用性プロジェクトのために文書変換を自動化することで、WordML から DIF への変換を効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レガシー スプレッドシート交換**
+  WordML のテーブルコンテンツを DIF に変換し、古いスプレッドシート環境との互換性を確保します。
+
+* **データ移行プロジェクト**
+  文書から構造化情報をインターネット相互運用可能なアーカイブまたは転送フォーマットへ移行するのに役立ちます。
+
+* **構造化レコードの保存**
+  データ交換用に設計されたフォーマットで表形式コンテンツを長期的に保持することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量レガシーエクスポート**
+  文書ベースのテーブルを DIF に変換する作業を自動化し、大規模な歴史的データセットに対応します。
+
+* **移行ワークフローサポート**
+  古い交換フォーマットを必要とする自動化されたモダナイゼーションプロジェクトと統合します。
+
+* **データ標準化ジョブ**
+  リポジトリ全体で構造化コンテンツの正規化を行う繰り返し可能な変換ルーチンを実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

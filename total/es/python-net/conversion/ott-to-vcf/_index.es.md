@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de OTT a VCF en APIs de Python transforma plantillas de texto OpenDocument en archivos de tarjetas de contacto utilizados para compartir datos de personas y organizaciones. Esto es valioso cuando el contenido de la plantilla contiene información de contacto estructurada que debe ser portátil y lista para importar.
+
+La conversión admite la automatización al convertir los detalles de contacto gestionados en documentos en archivos de intercambio estandarizados, reduciendo la entrada manual y mejorando la sincronización en los flujos de trabajo de comunicación y directorios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Generación de Archivo de Contacto**  
+  Convierte contenido de contacto estructurado en archivos de tarjeta importables.
+
+* **Compartir Datos del Directorio**  
+  Facilita el intercambio de información de contacto entre sistemas.
+
+* **Gestión de Contactos Basada en Plantillas**  
+  Reutiliza plantillas de documentos para generar salidas de contacto estandarizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Exportación Automatizada de Contactos**  
+  Crea archivos VCF a partir de plantillas OTT que contienen datos de personas u organizaciones.
+
+* **Integración con CRM o Directorio**  
+  Alimenta los archivos de contacto generados a sistemas de información posteriores.
+
+* **Empaquetado Masivo de Contactos**  
+  Produce salidas de contacto estandarizadas para grandes conjuntos de contactos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

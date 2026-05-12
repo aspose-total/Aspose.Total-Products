@@ -53,7 +53,41 @@ DOTM から MHTML (Web アーカイブ形式) への変換機能または HtmlFi
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から MHTML への変換は、マクロ対応の Word テンプレートを、コンテンツとリソースを単一の Web フレンドリーなファイルに統合した MIME HTML ドキュメントに変換します。これは、ポータブルなドキュメント共有、ブラウザベースの閲覧、そして自己完結型フォーマットで書式設定されたコンテンツを保持するのに役立ちます。
+
+DOTM から MHTML への変換に Python API を使用すると、再利用可能なテンプレートを最小限の手間で Web 互換の資産として公開できるため、オートメーションがサポートされます。これによりコンテンツのポータビリティが向上し、ドキュメント配信が簡素化され、スケーラブルなレンダリングワークフローが実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ポータブル Web レンダリング**
+  DOTM ファイルを MHTML に変換し、単一のパッケージ化されたファイルでブラウザフレンドリーな表示を実現します。
+
+* **自己完結型ドキュメント共有**
+  テキスト、書式設定、リンクされたリソースを一緒に保持し、信頼性の高い配布を可能にします。
+
+* **テンプレート公開**
+  ドキュメントテンプレートをポータルやアーカイブ向けの Web 指向出力に再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化 Web エクスポート**
+  システムは DOTM テンプレートを MHTML ファイルに変換し、手動での書式設定なしに Web 配信を行えます。
+
+* **コンテンツパッケージングワークフロー**
+  変換は、共有や保存のための自己完結型ドキュメントファイルの自動生成をサポートします。
+
+* **スケーラブルなレンダリングパイプライン**
+  プログラムによるジョブは、繰り返し使用されるテンプレートドキュメントから大量の MHTML 出力を生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

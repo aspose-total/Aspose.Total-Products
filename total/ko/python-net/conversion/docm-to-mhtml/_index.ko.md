@@ -53,7 +53,41 @@ DOCM를 MHTML(웹 아카이브 형식)로 변환 기능 또는 HtmlFixed에 추�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 MHTML로의 변환은 매크로가 포함된 문서를 마크업과 연결된 리소스를 하나의 휴대용 패키지로 결합한 단일 파일 웹 준비 콘텐츠로 변환합니다. 문서 정보를 브라우저 친화적인 형식으로 보기, 보관 또는 전송해야 할 때 유용합니다.
+
+자동화된 환경에서는 DOCM에서 MHTML로의 변환이 휴대용 게시, 이메일 안전 렌더링 및 자체 포함 문서 표현의 간소화된 저장을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **단일 파일 웹 표현**
+  문서를 자체 포함된 웹 스타일 파일로 변환하여 손쉽게 배포할 수 있습니다.
+
+* **휴대용 보관**
+  형식이 지정된 콘텐츠와 관련 리소스를 하나의 출력에 함께 유지합니다.
+
+* **브라우저 친화적 접근**
+  전체 편집 소프트웨어에 의존하지 않고도 문서 콘텐츠를 더 쉽게 볼 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 웹 패키징**
+  경량 게시 워크플로를 위해 DOCM 소스에서 MHTML 파일을 생성합니다.
+
+* **문서 전달 파이프라인**
+  압축된 휴대용 형식으로 형식이 지정된 콘텐츠 전송을 지원합니다.
+
+* **아카이브용 배치 변환**
+  대규모로 프로그래밍 방식으로 자체 포함 문서 스냅샷을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

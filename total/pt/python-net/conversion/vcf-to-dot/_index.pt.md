@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de VCF para DOT transforma as informações do cartão de contato em arquivos de modelo Word que podem servir como bases reutilizáveis para a geração padronizada de documentos. Isso é valioso quando os dados de contato precisam ser inseridos em layouts repetíveis para uso administrativo ou operacional.
+
+Em fluxos de trabalho de automação, a conversão de VCF para DOT permite que sistemas baseados em Python preparem modelos baseados em contato que suportam consistência, criação de documentos mais rápida e formatação escalável em múltiplos cenários de saída.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Modelos de Contato Reutilizáveis**  
+  Converta dados VCF em arquivos DOT para criação de documentos repetíveis.
+
+* **Formatação Padronizada**  
+  Mantenha um layout consistente para documentos baseados em contato em todas as equipes.
+
+* **Preparação de Fluxo de Trabalho**  
+  Use as saídas dos modelos como pontos de partida para edição adicional ou população automatizada.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Geração de Modelos**  
+  Crie automaticamente modelos DOT a partir de registros de contato para reutilização posterior.
+
+* **Produção Consistente de Documentos**  
+  Alimente os modelos gerados em sistemas maiores que exigem formatação uniforme de contato.
+
+* **Estruturação Programática de Conteúdo**  
+  Use APIs Python para criar modelos de contato repetíveis em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

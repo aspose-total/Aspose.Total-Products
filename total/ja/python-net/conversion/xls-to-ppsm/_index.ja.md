@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から PPSM への変換は、スプレッドシートの情報をマクロ対応のスライドショー プレゼンテーション ファイルに変換し、直接プレゼンテーションで使用できるようにします。この形式は、プレゼンテーション配信ワークフローでスライドショー 動作とマクロ対応環境との互換性が必要な場合に便利です。
+
+XLS から PPSM への変換に Python API を使用すると、専門的なプレゼンテーションの生成を自動化し、スプレッドシートベースの情報を表示準備が整った資産へスケーラブルに変換することが支援されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スライドショー**
+  高度なプレゼンテーション ワークフロー向けに XLS データを PPSM ファイルに変換します。
+
+* **直接プレゼンテーション出力**
+  スプレッドシートから派生したファイルを、スライドショーモードで開く準備ができた状態で用意します。
+
+* **構造化された配信資料**
+  スプレッドシートの内容を使用して、運用またはレポートのニーズに合わせたガイド付きビジュアル出力を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化スライドショーの準備**
+  繰り返し可能なプレゼンテーション出力が必要なシステムで、スプレッドシート入力から PPSM ファイルを生成します。
+
+* **高度なプレゼンテーション パイプライン**
+  Python API を使用して、マクロ対応スライドショーの大規模生成を支援します。
+
+* **表示優先のレポーティングシステム**
+  XLS ファイルを直接表示できるプレゼンテーション資産に変換し、コミュニケーションを効率化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から PST への変換は、マクロ対応ドキュメントを、統合メールデータファイル内のメッセージベースのコンテンツを整理するために使用される個人用ストレージ出力に変換します。ドキュメント由来のコミュニケーション成果物をアーカイブや移行の目的で構造化されたストレージに保存する必要がある場合に便利です。
+
+自動化システムにおいて、DOCM から PST への変換は、メールボックスのパッケージ化、コンプライアンスワークフロー、および変換されたドキュメントコンテンツを組織化されたコミュニケーションリポジトリへスケーラブルに移動させることをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **統合メールストレージ**
+  変換されたドキュメントコンテンツを構造化された個人用ストレージコンテナに保存するのに役立ちます。
+
+* **アーカイブ準備**
+  ドキュメント由来のコミュニケーション記録の長期保持をサポートします。
+
+* **移行ワークフロー**
+  メッセージ指向の出力を組織化されたストレージセットに転送できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メールボックスパッケージ化**
+  DOCM ファイルを保持ワークフロー用の PST 互換出力に変換します。
+
+* **コンプライアンス指向の処理**
+  統制された環境で使用されるドキュメントからメールストレージへのパイプラインをサポートします。
+
+* **大容量変換とストレージ**
+  ドキュメントを構造化されたメールリポジトリにプログラムで大量に変換することを処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

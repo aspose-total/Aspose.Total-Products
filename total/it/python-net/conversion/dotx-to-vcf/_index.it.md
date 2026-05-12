@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTX a VCF trasforma il contenuto dei modelli Word in un formato di scheda di contatto utilizzato per memorizzare e condividere informazioni di contatto personali o aziendali. È utile quando i modelli contengono dettagli di contatto strutturati che devono essere riutilizzati nei sistemi di comunicazione.
+
+Utilizzando le API Python, questa conversione supporta l'automazione consentendo l'estrazione dei contatti, la generazione di rubriche digitali e la sincronizzazione scalabile dei record di contatto basati su documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione delle informazioni di contatto**
+  Converti i dettagli di contatto strutturati dai modelli in schede digitali riutilizzabili.
+
+* **Preparazione della directory**
+  Crea record di contatto portatili a partire da informazioni basate su documenti.
+
+* **Integrazione nei sistemi di comunicazione**
+  Riutilizza il contenuto del modello in rubriche e flussi di lavoro di condivisione dei contatti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di contatti**
+  Crea file VCF dai modelli DOTX per processi di onboarding o di creazione della directory.
+
+* **Esportazione di contatti in blocco**
+  Converti record basati su documenti ripetuti in schede di contatto condivisibili.
+
+* **Flussi di lavoro di contatti sincronizzati**
+  Alimenta i dati di contatto convertiti nei sistemi di comunicazione e CRM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

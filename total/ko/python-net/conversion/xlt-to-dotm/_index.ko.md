@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLT를 DOTM으로 변환하면 Excel 템플릿 파일을 매크로 사용이 가능한 Word 템플릿으로 변환할 수 있으며, 재사용 가능한 구조와 고급 문서 동작 지원을 결합합니다. 이는 스프레드시트 템플릿을 반복 가능하고 확장 가능한 문서 워크플로에 적합한 스마트 Word 템플릿으로 전환하려는 조직에 유용합니다.
+
+자동화 사용 사례에서는 XLT를 DOTM으로 변환하여 동적 문서 시스템에 통합할 수 있는 확장 가능한 템플릿 자산을 만드는 데 도움이 됩니다. 이는 구조화된 생성, 반복 재사용, 문서 중심 환경에서 자동화 로직으로 출력을 확장하는 기능을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿 생성**  
+  XLT 파일을 DOTM 템플릿으로 변환하여 고급 기능 잠재력을 가진 재사용 가능한 문서를 만들 수 있습니다.
+
+* **스마트 문서 프레임워크**  
+  스프레드시트 소스에서 Word 템플릿 자산을 구축하여 구조화되고 반복 가능한 콘텐츠 생성을 지원합니다.
+
+* **워크플로 템플릿 현대화**  
+  스프레드시트 전용 템플릿을 보다 풍부한 프로세스 통합에 적합한 Word 템플릿으로 교체합니다.
+
+* **자동화 준비 재사용 파일**  
+  스크립트 또는 가이드된 동작을 통해 향후 확장을 지원하는 문서 템플릿을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **동적 템플릿 라이브러리**  
+  XLT 템플릿에서 DOTM 파일을 생성하여 중앙 집중식 및 자동화된 문서 생성 시스템을 구축합니다.
+
+* **반복 가능한 프로세스 문서 자동화**  
+  Python API를 사용하여 반복되는 운영 문서를 위한 재사용 가능한 매크로 사용 템플릿을 만듭니다.
+
+* **템플릿 기반 콘텐츠 엔진**  
+  변환된 DOTM 자산을 프로그램적으로 문서를 채우고 배포하는 시스템에 통합합니다.
+
+* **레거시에서 스마트 템플릿으로 마이그레이션**  
+  전통적인 스프레드시트 템플릿을 확장 가능한 자동화를 위한 유연한 Word 템플릿으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

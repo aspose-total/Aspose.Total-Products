@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT en VCF transforme les modèles de documents en fichiers de cartes de contact pouvant être utilisés pour l'importation dans le carnet d'adresses et le partage de contacts. Cela est utile lorsque les enregistrements basés sur des documents contiennent des informations sur des personnes ou des organisations qui doivent être intégrées aux systèmes de communication.
+
+Les API Python permettent d'automatiser la conversion DOT en VCF, améliorant la portabilité des données de contact et réduisant la saisie manuelle répétitive dans les flux de travail professionnels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération d'enregistrements de contact**
+  Convertir les informations basées sur DOT en fichiers VCF pour une utilisation dans le carnet d'adresses.
+
+* **Partage de contacts portable**
+  Partager des données de contact structurées extraites des modèles dans un format standardisé.
+
+* **Support de saisie de données de communication**
+  Réduire la saisie manuelle en transformant le contenu du modèle en cartes de contact prêtes à l'importation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation de contacts automatisée**
+  Les flux de travail Python peuvent générer des fichiers VCF à partir de modèles DOT contenant des informations de contact.
+
+* **Intégration CRM et annuaire**
+  La conversion facilite le transfert des données de contact basées sur des documents vers les systèmes de communication.
+
+* **Création massive de fichiers de contacts**
+  Le traitement programmatique permet une génération évolutive de sorties VCF à partir de nombreux modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

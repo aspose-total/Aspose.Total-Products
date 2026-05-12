@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to TSV 변환은 서식이 있는 텍스트 문서를 탭으로 구분된 데이터 파일로 바꾸어 분석 및 통합 시스템 전반에서 쉽게 가져오고, 검사하고, 처리할 수 있게 합니다. 문서 내용이 명확한 필드 구분이 있는 단순하고 구조화된 텍스트로 변환되어야 할 때 유용합니다.
+
+자동화를 위해, RTF to TSV는 가벼운 데이터 변환 파이프라인을 지원하여 문서에서 파생된 내용을 스크립트, 데이터베이스 및 평문 탭ular 형식을 선호하는 처리 도구로 이동하기 쉽게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **평문 데이터 구조화**  
+  풍부한 텍스트 내용을 탭으로 구분된 레코드로 변환하여 파싱 및 가져오기를 용이하게 합니다.
+
+* **통합 친화적 내보내기**  
+  가벼운 텍스트 기반 데이터 파일을 수용하는 시스템을 위해 문서 정보를 준비하는 데 도움을 줍니다.
+
+* **대량 데이터 변환**  
+  RTF 내용을 구조화된 탭ular 출력으로 고용량 변환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **스크립트 기반 데이터 파이프라인**  
+  시스템이 RTF 파일을 TSV로 변환하여 다운스트림 파싱 및 변환 작업에 활용할 수 있습니다.
+
+* **반복적인 내보내기 워크플로**  
+  프로그래밍 방식 변환은 문서 피드에서 구조화된 텍스트 출력을 일정하게 생성하는 것을 지원합니다.
+
+* **시스템 간 데이터 교환**  
+  동적 프로세스가 TSV를 중간 형식으로 사용하여 문서 내용을 분석 또는 운영 도구로 이동시킬 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a ODS converte i documenti abilitati alle macro in file di foglio di calcolo aperti, rendendo i dati strutturati dei documenti più facili da analizzare, modificare e condividere nei flussi di lavoro basati su fogli di calcolo. Questo è utile quando tabelle o record ripetuti all'interno dei file DOCM necessitano di un uso operativo più ampio.
+
+Per l'automazione e l'interoperabilità, la conversione da DOCM a ODS supporta pipeline di dati aperti, esportazioni di routine e la trasformazione scalabile del contenuto dei documenti in risorse pronte per i fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Analisi di Foglio di Calcolo Aperto**
+  Sposta le tabelle dei documenti in forma di foglio di calcolo per filtrare, revisionare e aggiornare.
+
+* **Portabilità dei Dati**
+  Supporta lo scambio di contenuti strutturati utilizzando uno standard di foglio di calcolo aperto.
+
+* **Riutilizzo Operativo**
+  Rende i dati contenuti nei documenti più accessibili per attività di pianificazione e reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazioni Ricorrenti di Fogli di Calcolo**
+  Automatizza la conversione dei file DOCM in ODS per flussi di lavoro programmati.
+
+* **Pipeline di Dati a Formato Aperto**
+  Aiuta a indirizzare i dati dei documenti verso sistemi basati su standard aperti.
+
+* **Conversione ad Alto Volume**
+  Elabora grandi insiemi di documenti in file di foglio di calcolo riutilizzabili in modo programmatico.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

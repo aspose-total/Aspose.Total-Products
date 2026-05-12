@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a XLSM trasforma i modelli di documento in cartelle di lavoro di fogli di calcolo con macro per la gestione strutturata dei dati con comportamenti avanzati dei fogli di calcolo. Questo è prezioso quando le uscite dei fogli di calcolo devono supportare sia l'organizzazione dei dati sia funzionalità avanzate.
+
+Utilizzando le API Python, la conversione da DOT a XLSM può essere automatizzata per creare uscite di cartelle di lavoro avanzate e ripetibili a partire da modelli di documento riutilizzabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di cartelle di lavoro con macro**
+  Converti i file DOT in XLSM per flussi di lavoro avanzati dei fogli di calcolo.
+
+* **Riutilizzo da documento a cartella di lavoro**
+  Trasforma il contenuto del modello in uscite di fogli di calcolo modificabili e ricche di funzionalità.
+
+* **Supporto all'automazione operativa**
+  Prepara file di cartelle di lavoro adatti a processi aziendali basati su fogli di calcolo più avanzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatizzata di cartelle di lavoro avanzate**
+  Gli script Python possono trasformare i modelli DOT in file XLSM per casi d'uso ricorrenti.
+
+* **Integrazione del flusso di lavoro dei fogli di calcolo**
+  La conversione collega i repository di documenti con pipeline di elaborazione delle cartelle di lavoro potenziate.
+
+* **Generazione scalabile di output pronti per macro**
+  I sistemi programmatici supportano la creazione costante di risorse avanzate per fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

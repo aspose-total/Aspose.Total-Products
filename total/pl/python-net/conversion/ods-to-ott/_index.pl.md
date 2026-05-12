@@ -65,7 +65,47 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja ODS do OTT przekształca pliki arkuszy kalkulacyjnych w szablony tekstowe OpenDocument. Szablony te umożliwiają tworzenie wielokrotnego użytku struktur dokumentów, które mogą być wykorzystywane do spójnego generowania dokumentów.
+
+Interfejsy API Pythona pozwalają programistom automatyzować tworzenie dokumentów szablonowych z treści arkuszy kalkulacyjnych. Umożliwia to skalowalne przepływy pracy z dokumentami oraz efektywne zarządzanie szablonami w różnych systemach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie szablonów wielokrotnego użytku**  
+  Konwertuj struktury arkuszy kalkulacyjnych na szablony dokumentów wielokrotnego użytku.
+
+* **Standaryzacja dokumentów**  
+  Zapewnij spójne formatowanie dokumentów przy użyciu przepływów pracy opartych na szablonach.
+
+* **Strukturyzacja treści**  
+  Przekształć tabelaryczne informacje z arkusza kalkulacyjnego w dokumenty gotowe do użycia jako szablony.
+
+* **Zarządzanie szablonami Open Document**  
+  Utrzymuj standaryzowane szablony pochodzące z danych arkusza kalkulacyjnego.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie szablonów**  
+  Przepływy pracy w Pythonie tworzą szablony dokumentów na podstawie danych wejściowych z arkusza kalkulacyjnego.
+
+* **Przetwarzanie szablonów wsadowych**  
+  Systemy konwertują wiele plików ODS na szablony dokumentów wielokrotnego użytku.
+
+* **Dynamiczne systemy dokumentacyjne**  
+  Przepływy pracy oparte na szablonach generują dokumenty programowo.
+
+* **Integracja szablonów w przepływach pracy**  
+  Szablony pochodzące z arkuszy kalkulacyjnych wspierają automatyczne tworzenie dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

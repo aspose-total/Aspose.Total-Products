@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a Excel trasforma i modelli di documento riutilizzabili in cartelle di lavoro compatibili con i fogli di calcolo per calcolo, reportistica e revisione strutturata. Ciò è prezioso quando il contenuto del modello basato su testo deve essere analizzato o riutilizzato in un formato aziendale basato su griglia.
+
+Le API Python rendono questo processo efficiente consentendo l'estrazione e la trasformazione automatizzate del contenuto DOT in output compatibili con Excel, supportando flussi di lavoro dati scalabili e ripetibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione della reportistica**
+  Converti i file DOT in cartelle di lavoro Excel per revisione, calcolo e reportistica strutturata.
+
+* **Riorganizzazione dei dati**
+  Sposta il contenuto del documento in layout di fogli di calcolo più facili da filtrare e analizzare.
+
+* **Consegne operative**
+  Condividi le informazioni derivate dal modello in un formato familiare per i team aziendali e i sistemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione da documento a cartella di lavoro**
+  Gli script Python possono convertire i modelli DOT in output Excel per la consegna programmata dei dati.
+
+* **Reportistica basata su pipeline**
+  I flussi di lavoro automatizzati possono trasformare il contenuto del documento in cartelle di lavoro per i processi di business intelligence.
+
+* **Generazione di fogli di calcolo ad alto volume**
+  La conversione programmatica supporta la creazione coerente di output Excel su molti file sorgente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

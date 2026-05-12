@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 PST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 PST 변환은 매크로가 포함된 문서를 통합 메일 데이터 파일에서 메시지 기반 콘텐츠를 조직하는 데 사용되는 개인 저장소 출력으로 변환합니다. 문서에서 파생된 커뮤니케이션 아티팩트를 보관 또는 마이그레이션을 위해 구조화된 저장소가 필요할 때 유용합니다.
+
+자동화 시스템에서 DOCM에서 PST 변환은 메일함 패키징, 규정 준수 워크플로, 그리고 변환된 문서 콘텐츠를 조직된 커뮤니케이션 저장소로 확장 가능하게 이동하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **통합 메일 저장소**
+  구조화된 개인 저장소 컨테이너에 변환된 문서 콘텐츠를 보존하는 데 도움이 됩니다.
+
+* **보관 준비**
+  문서에서 파생된 커뮤니케이션 기록의 장기 보존을 지원합니다.
+
+* **마이그레이션 워크플로**
+  메시지 지향 출력물을 조직된 저장 세트로 전송할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 메일함 패키징**
+  보존 워크플로를 위해 DOCM 파일을 PST 호환 출력으로 변환합니다.
+
+* **규정 준수 지향 처리**
+  규제된 환경에서 사용되는 문서-메일 저장 파이프라인을 지원합니다.
+
+* **대용량 변환 및 저장**
+  프로그램적으로 문서를 구조화된 메일 저장소로 대량 변환을 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

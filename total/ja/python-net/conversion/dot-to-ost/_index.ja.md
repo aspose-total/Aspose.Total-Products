@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から OST への変換は、文書テンプレートをメッセージングワークフローおよびアーカイブ準備のためのオフラインメールボックス指向フォーマットに変換します。これは、テンプレート由来のコンテンツがオフライン通信ストレージプロセスに組み込まれるシナリオで関連します。
+
+Python API を使用すると、この変換を文書ベースの通信資産をメールボックスの同期またはアーカイブ処理のために準備する自動化システムに組み込むことができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **オフラインメールの準備**
+  DOT ベースのコンテンツを OST 互換のワークフローに変換し、メールボックス関連の処理に使用します。
+
+* **アーカイブと同期のサポート**
+  テンプレート由来の通信データを、オフラインストレージ構造が必要な環境で使用します。
+
+* **メッセージワークフローのパッケージ化**
+  文書テンプレートから構造化された出力を作成し、メールボックス中心の操作に備えます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたメールストレージの準備**
+  Python スクリプトは、オフラインメールワークフローのために DOT ファイルの定期的な変換をサポートできます。
+
+* **文書駆動型メール統合**
+  変換は、テンプレートリポジトリと同期された通信プロセスを接続するのに役立ちます。
+
+* **大量メール資産の処理**
+  プログラム化されたパイプラインは、大量のメールボックス指向出力の準備を効率化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

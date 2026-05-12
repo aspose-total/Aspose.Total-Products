@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para VCF transforma o conteúdo de documentos habilitados para macros em arquivos de cartão de contato, facilitando a reutilização de nomes, endereços e detalhes de comunicação em fluxos de trabalho de gerenciamento de contatos. É valiosa quando os documentos contêm informações de contato pessoais ou organizacionais estruturadas.
+
+Para automação e escalabilidade, a conversão de DOCM para VCF suporta extração de contatos, atualizações sincronizadas de agenda e transformação repetível dos detalhes contidos nos documentos em registros de contato portáteis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Extração de Informações de Contato**
+  Converte detalhes de contato estruturados de documentos em arquivos de cartão portáteis.
+
+* **Atualizações de Agenda**
+  Ajuda a mover registros de contato baseados em documentos para ambientes de gerenciamento de contatos.
+
+* **Compartilhamento Portátil de Contatos**
+  Suporta a troca padronizada de informações de contato pessoais ou empresariais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Contatos**
+  Cria arquivos VCF a partir de documentos DOCM que contêm dados de contato.
+
+* **Integração com CRM e Diretório**
+  Suporta a importação baseada em fluxo de trabalho de registros de contato derivados de documentos.
+
+* **Conversão em Massa de Contatos**
+  Processa vários documentos em arquivos de contato padronizados de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to PPTX 変換は、Word コンテンツをビジネスコミュニケーション、教育、報告で広く利用される最新のプレゼンテーションファイルに変換します。特に、叙述的な文書を構造化された編集可能なスライドに変換する際に有用です。
+
+DOC から PPTX への変換に Python API を使用することで、プレゼンテーション作成が効率化され、スケーラブルな文書再利用を支援し、コンテンツワークフロー全体の運用効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **モダンなプレゼンテーション出力**
+  Word のコンテンツを PPTX に変換し、編集可能で共有可能なスライドデッキを作成します。
+
+* **レポート要約**
+  長文ドキュメントを簡潔なプレゼンテーション資料に再利用します。
+
+* **トレーニングおよびブリーフィング支援**
+  文書ベースの知識を、視覚的なコミュニケーションに適した形式で提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動デッキ生成**
+  定期的なビジネスワークフローの一環として、DOC レポートから PPTX ファイルを生成します。
+
+* **コンテンツ変換パイプライン**
+  Python 主導の自動化により、構造化された文書コンテンツをスライドに変換します。
+
+* **スケーラブルなプレゼンテーション公開**
+  大規模な文書コレクションから、最小限の手間でプレゼンテーション用資産を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOC를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to VCF conversion turns contact information stored in Word documents into a standardized vCard format for address books and contact systems. It is valuable when business cards, directories, or contact lists need to move from documents into digital contact workflows.
+
+Using Python APIs for DOC to VCF conversion improves accuracy, reduces manual contact entry, and supports scalable synchronization between document sources and contact management systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 데이터 추출**
+  문서에서 연락처 세부 정보를 vCard 파일로 변환하여 재사용합니다.
+
+* **주소록 가져오기**
+  문서 기반 연락처 정보를 준비하여 연락처 시스템에 직접 가져올 수 있게 합니다.
+
+* **디렉터리 현대화**
+  정적인 연락처 목록을 휴대 가능한 디지털 연락처 기록으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 연락처 생성**
+  DOC 디렉터리, 목록 또는 양식에서 프로그래밍 방식으로 VCF 파일을 생성합니다.
+
+* **CRM 및 연락처 동기화 지원**
+  추출된 문서 연락처를 연락처 관리 워크플로우로 라우팅합니다.
+
+* **배치 연락처 처리**
+  다수의 연락처 중심 문서를 대규모로 재사용 가능한 vCard 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

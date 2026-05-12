@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para EMLX converte o conteúdo de modelos Word em um formato de arquivo de e‑mail comumente usado em determinados ambientes de e‑mail de desktop. Ela ajuda as organizações a adaptar o conteúdo de documentos estruturados para armazenamento de e‑mail localizado e fluxos de trabalho específicos de cliente.
+
+Usando APIs Python, essa conversão suporta automação onde modelos de documentos precisam ser transformados em ativos de e‑mail compatíveis com o cliente para processamento, preparação de entrega ou arquivamento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Saída de E‑mail Específica para Cliente**
+  Converta o conteúdo do documento em um formato de e‑mail alinhado com os ambientes de desktop suportados.
+
+* **Armazenamento de Mensagens Localizado**
+  Preserve o conteúdo pronto para e‑mail em um formato adequado para armazenamento ao nível da caixa de correio.
+
+* **Comunicação Baseada em Modelo**
+  Reutilize modelos Word como base para a geração de e‑mails estruturados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Fluxos de Trabalho de Preparação de Caixa de Correio**
+  Gere arquivos EMLX automaticamente a partir de modelos DOTX para tratamento subsequente.
+
+* **Empacotamento Automatizado de E‑mail**
+  Produza arquivos de e‑mail orientados ao cliente durante tarefas de processamento de comunicação.
+
+* **Arquivamento de Documento‑para‑E‑mail**
+  Armazene o conteúdo do modelo transformado em arquivos compatíveis com e‑mail para referência.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から DOTM への変換は、連絡先カードデータをマクロ対応の Word テンプレートファイルに変換し、再利用可能なレイアウトと高度な文書動作を組み合わせることを可能にします。これは、編集可能でプログラム可能な特性を持つ構造化テンプレートが必要な組織にとって有用です。
+
+Python API で自動化すると、VCF から DOTM への変換はスケーラブルなテンプレート生成をサポートし、ワークフローが動的な運用要件に合わせた一貫した連絡先ベースの文書を作成できるよう支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート**  
+  VCF の連絡先データを DOTM ファイルに変換し、高度な再利用可能文書構造を実現します。
+
+* **繰り返し可能な連絡先フォーマット**  
+  生成されたテンプレート内で連絡先情報の表示方法を標準化します。
+
+* **運用文書管理**  
+  テンプレートロジックと構造化された文書出力に依存する環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート作成**  
+  バッチ処理で複数の連絡先レコードから DOTM テンプレートを生成します。
+
+* **ワークフロー対応の連絡先資産**  
+  自動化された社内文書システム向けに再利用可能なテンプレートファイルを準備します。
+
+* **スケーラブルなテンプレート配信**  
+  Python API を使用してマクロ対応の連絡先テンプレートを効率的に作成・管理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion BMP en OFT permet d'incorporer des images bitmap dans les fichiers de modèles d'e‑mail au format OFT. Ces modèles sont souvent utilisés pour standardiser les processus de communication par e‑mail.
+
+Les systèmes d'automatisation bénéficient de la conversion BMP en OFT en créant des modèles de messages réutilisables incluant du contenu visuel. Cela aide à rationaliser les flux de travail de communication et à maintenir la cohérence des systèmes de messagerie automatisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles d'e‑mail**  
+  Les images BMP peuvent être intégrées dans des modèles d'e‑mail OFT réutilisables.
+
+* **Flux de travail de communication standardisés**  
+  Les organisations peuvent concevoir des modèles visuels pour la messagerie automatisée.
+
+* **Mises en page de messages réutilisables**  
+  Les systèmes peuvent préparer des modèles contenant des éléments d'image pour une utilisation répétée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération automatisée de modèles**  
+  Les scripts génèrent des modèles OFT à partir d'images BMP pour les systèmes de messagerie.
+
+* **Modèles de messagerie basés sur les flux de travail**  
+  Les applications créent des modèles d'e‑mail dynamiques avec des visuels intégrés.
+
+* **Systèmes de distribution de modèles**  
+  Les pipelines automatisés génèrent et distribuent des modèles d'e‑mail standardisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

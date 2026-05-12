@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion BMP en e‑mail permet d’intégrer ou de joindre des fichiers d’image bitmap dans des messages électroniques structurés. Ce processus est couramment utilisé lorsque des ressources visuelles doivent être livrées via des systèmes de communication ou archivées dans des plateformes de messagerie.
+
+Dans les environnements automatisés, la conversion d’images BMP en formats compatibles avec les e‑mails permet une intégration fluide avec les systèmes de notification, les flux de travail documentaires et les pipelines de reporting. Cela aide les systèmes modernes à diffuser efficacement les informations visuelles tout en conservant des formats de communication structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Livraison de rapports automatisés**  
+  Les systèmes peuvent convertir les graphiques ou captures d’écran BMP générés en messages e‑mail pour des flux de travail de reporting automatisés.
+
+* **Systèmes de notification visuelle**  
+  Les outils de surveillance peuvent envoyer des alertes basées sur des images par e‑mail lorsqu’une condition système spécifique est détectée.
+
+* **Archivage de documents dans les systèmes de messagerie**  
+  Les organisations peuvent stocker des documents basés sur des images dans les enregistrements d’e‑mail pour un archivage structuré.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Rapports d’images planifiés**  
+  Des scripts automatisés convertissent les fichiers BMP en pièces jointes d’e‑mail et les distribuent à intervalles planifiés.
+
+* **Pipelines de notification de flux de travail**  
+  Les sorties d’image générées pendant les processus système peuvent être automatiquement intégrées aux e‑mails sortants.
+
+* **Génération d’e‑mail programmatique**  
+  Les applications génèrent dynamiquement des messages e‑mail contenant du BMP lors de tâches de traitement par lots.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

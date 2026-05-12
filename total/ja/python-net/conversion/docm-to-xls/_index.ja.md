@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から XLS への変換は、マクロ対応ドキュメントを構造化データの処理、レビュー、レポート作成をサポートするスプレッドシートファイルに変換します。DOCM ファイル内の表やレコードを、慣れ親しんだスプレッドシートのワークフローに移行してさらに活用したい場合に便利です。
+
+自動化の観点から、DOCM から XLS への変換は、繰り返し可能なドキュメントデータ抽出、レガシーなスプレッドシートとの互換性、そしてスケーラブルなレポートパイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシートデータ再利用**
+  文書の表を分析および編集用のスプレッドシート形式に変換します。
+
+* **レガシーワークブック互換性**
+  古いスプレッドシート形式に依存し続けている環境をサポートします。
+
+* **運用レポート**
+  文書ベースのデータを、定期的なスプレッドシート駆動タスク向けに再利用できるよう支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ワークブックエクスポート**
+  定例の処理ジョブで DOCM ソースから XLS ファイルを生成します。
+
+* **大量表変換**
+  大規模な文書セットをスプレッドシート出力に変換し、下流の業務で活用します。
+
+* **レガシーシステム統合**
+  古いワークブック形式に依存するワークフローへ構造化データを供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

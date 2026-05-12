@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Word en OST à l'aide des API Python convertit le contenu du document en sortie hors ligne orientée boîte aux lettres pour des scénarios impliquant le stockage synchronisé du courrier et l'emballage des messages. Cela peut être pertinent lorsque les artefacts de communication basés sur des documents doivent s'aligner avec l'accès hors ligne, la rétention ou les flux de travail liés à la migration.
+
+Dans les contextes d'automatisation, cette conversion prend en charge la transformation structurée du contenu du document en actifs compatibles avec le stockage du courrier qui peuvent être intégrés à des processus de communication d'entreprise et d'archivage plus larges.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Emballage hors ligne orienté courrier**
+  Adapte le contenu du document aux flux de travail associés aux environnements de stockage de messages hors ligne.
+
+* **Préparation des enregistrements de communication**
+  Prend en charge la conversion de contenu formel en actifs d'archivage compatibles avec le courrier.
+
+* **Assistance à la migration**
+  Aide à préparer le contenu dérivé de documents pour les scénarios de transfert liés aux boîtes aux lettres.
+
+* **Support de rétention d'entreprise**
+  Aligne les flux de travail des documents avec les exigences de préservation et de stockage des messages.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Flux de travail de conversion d'archives**
+  Traite les documents Word en sorties adaptées aux pipelines de stockage de courrier hors ligne.
+
+* **Emballage de communication par lots**
+  Automatise la transformation de documents standardisés en actifs orientés boîte aux lettres.
+
+* **Automatisation de la rétention**
+  Utilise des routines de conversion pour préserver le contenu de type communication à grande échelle.
+
+* **Pipelines de préparation à la migration**
+  Intègre la conversion Word vers OST dans les flux de travail de déplacement de contenu d'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

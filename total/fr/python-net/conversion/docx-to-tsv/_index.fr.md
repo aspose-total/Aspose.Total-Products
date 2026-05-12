@@ -65,7 +65,44 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX en TSV transforme les documents de traitement de texte en format de valeurs séparées par des tabulations, permettant d’extraire des informations structurées dans un fichier de données léger basé sur du texte. Ce format est utile pour transférer des tableaux et du contenu organisé provenant de documents vers des flux de travail analytiques ou d’échange.
+
+Les API Python permettent d’automatiser la conversion DOCX‑en‑TSV dans les systèmes de préparation de données, les pipelines d’extraction de contenu et les flux d’intégration d’entreprise. Elles prennent en charge la transformation évolutive du contenu des documents en sorties tabulaires lisibles par machine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Extraction de données tabulaires**  
+  Convertit les tableaux DOCX et les informations structurées en fichiers tabulaires basés sur du texte.
+
+* **Échange de données entre systèmes**  
+  Permet le transfert léger de contenu structuré entre plateformes.
+
+* **Préparation à l’analyse et au traitement**  
+  Aide à préparer les données dérivées de documents pour les outils d’analyse en aval.
+
+* **Intégration du flux de travail Document‑vers‑Texte**  
+  Prend en charge l’exportation de contenu organisé vers des formats tabulaires portables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Pipelines d’exportation de données automatisés**  
+  Les systèmes peuvent transformer les fichiers DOCX en sorties TSV pour les flux de traitement.
+
+* **Extraction de contenu structuré en lot**  
+  Les scripts Python peuvent convertir plusieurs documents en ensembles de données à tabulations de manière programmatique.
+
+* **Automatisation de l’intégration d’entreprise**  
+  Le contenu des documents peut être exporté au format TSV pour être ingéré par des systèmes de reporting ou de bases de données.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

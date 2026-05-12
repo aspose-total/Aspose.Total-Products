@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para SXC nas APIs Python transforma modelos de texto OpenDocument em arquivos de planilha adequados para fluxos de trabalho de planilhas do OpenOffice mais antigos. Isso é útil quando o conteúdo do documento precisa ser convertido em um formato tabular estruturado e editável para ambientes compatíveis com legados.
+
+A conversão suporta automação ao permitir a extração padronizada de informações do documento para fluxos de trabalho de planilhas que continuam a depender de formatos estabelecidos do OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Suporte a Planilhas Legadas**  
+  Cria saídas de planilha compatíveis com fluxos de trabalho de versões antigas do OpenOffice.
+
+* **Estruturação de Dados de Documentos**  
+  Converte o conteúdo textual do modelo em tabelas editáveis.
+
+* **Compatibilidade Operacional**  
+  Ajuda a integrar os dados gerados com ecossistemas de planilhas estabelecidos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação Legada Automatizada**  
+  Produz arquivos SXC a partir de fontes OTT para fluxos de trabalho orientados à compatibilidade.
+
+* **Transformação em Lote de Dados**  
+  Converte muitos arquivos de modelo em saídas tabulares legadas de forma eficiente.
+
+* **Integração de Continuidade de Sistema**  
+  Suporta ambientes que mantêm cadeias de processamento de planilhas antigas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

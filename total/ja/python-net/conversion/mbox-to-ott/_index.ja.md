@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOXからOTTへの変換は、メールボックスアーカイブをオープンドキュメントテンプレートに変換し、メール由来のコンテンツ構造を標準化された文書作成ワークフローで再利用できるようにします。これは、組織がアーカイブされたコミュニケーションに基づいて繰り返し使用できるコンテンツ形式を構築したい場合に有用です。
+
+Python APIを使用すると、MBOXファイルからOTTの生成を自動化でき、一貫性の向上、手動設定の削減、テンプレート指向のスケーラブルな操作をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要ユースケース" %}}
+
+* **オープンテンプレート生成**
+  メールボックスのコンテンツを再利用可能なOTTテンプレートに変換し、一貫した文書作成を実現します。
+
+* **標準化されたコンテンツレイアウト**
+  メールベースの構造を、繰り返し可能なフォーマット用に設計された形式で保持します。
+
+* **テンプレート駆動型ドキュメンテーション**
+  変換されたメールボックスコンテンツを使用して、将来のオープンドキュメントワークフローを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート構築**
+  選択したメールからOTTファイルを生成し、繰り返し可能なコンテンツパイプラインの一部とします。
+
+* **オープンワークフローの標準化**
+  Pythonの自動化を使用して、メールボックスアーカイブから一貫したテンプレート構造を維持します。
+
+* **スケーラブルな文書作成**
+  変換されたテンプレートを、より広範な文書生成システムに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

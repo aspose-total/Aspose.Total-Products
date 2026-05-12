@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODS vers DOCM transforme les fichiers de feuilles de calcul en documents de traitement de texte compatibles avec les macros. Cela permet d’intégrer les données de feuilles de calcul dans des documents qui prennent en charge les scripts automatisés et les comportements avancés des documents.
+
+Avec les API Python, la conversion ODS vers DOCM peut être intégrée aux systèmes automatisés qui génèrent de la documentation compatible avec les macros. Cela permet le traitement dynamique de documents, des conversions à grande échelle et l’intégration dans des environnements d’automatisation d’entreprise.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de documents compatibles avec les macros**  
+  Convertir le contenu des feuilles de calcul en documents capables de prendre en charge les macros d’automatisation.
+
+* **Modèles de documents automatisés**  
+  Transformer les données basées sur les feuilles de calcul en flux de travail de documents pilotés par des macros.
+
+* **Documentation basée sur les données**  
+  Intégrer les ensembles de données de feuilles de calcul dans des rapports compatibles avec les macros.
+
+* **Traitement avancé de documents**  
+  Prendre en charge les tâches automatisées intégrées dans les documents générés à partir de sources de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Documents de flux de travail automatisés**  
+  Les systèmes génèrent des fichiers DOCM à partir de feuilles de calcul pour un traitement piloté par des macros.
+
+* **Automatisation des rapports d’entreprise**  
+  Les données des feuilles de calcul sont converties en documents compatibles avec les macros pour une analyse automatisée.
+
+* **Génération dynamique de documents**  
+  Les pipelines Python créent une documentation compatible avec les macros à partir d’entrées de feuilles de calcul.
+
+* **Traitement par lots de documents macro**  
+  Les services automatisés convertissent de grands ensembles de fichiers ODS en documents DOCM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

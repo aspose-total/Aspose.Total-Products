@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から Word への変換は、スライドベースのコンテンツを、詳細な執筆、編集、正式な文書作成により適したワードプロセッシング形式に変換します。プレゼンテーションをレポート、要約、マニュアル、または共同テキスト文書に拡張する必要がある場合に便利です。
+
+Python API を使用して PPTX から Word への変換を自動化すると、手動での書き直しを減らし、一貫した文書作成を可能にすることで生産性が向上します。プレゼンテーション資料が頻繁にレビュー、コンプライアンス、または出版のために文章コンテンツに再利用されるスケーラブルなワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **ナラティブ拡張**
+  簡潔なスライドのポイントを、より充実した文章コミュニケーションのための編集可能な文書に変換します。
+
+* **正式な文書化**
+  プレゼンテーション資料をマニュアル、ブリーフ、構造化されたレポートに再利用します。
+
+* **共同レビュー**
+  スライドコンテンツを、コメント、改訂、承認に最適化された形式に移行します。
+
+* **コンテンツ再利用**
+  プレゼンテーション資産を、チーム全体で再利用可能な文章リソースに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書作成**
+  PPTX ファイルを標準化されたワークフローの一部として、Word 互換の出力に変換します。
+
+* **編集パイプライン統合**
+  変換された文書をレビュー、改訂、出版システムに供給します。
+
+* **大量プレゼンテーション再利用**
+  プログラムで複数のスライドデッキをスケールで文章コンテンツに変換します。
+
+* **ナレッジキャプチャ自動化**
+  プレゼンテーションの洞察を、文書中心のリポジトリに自動変換で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

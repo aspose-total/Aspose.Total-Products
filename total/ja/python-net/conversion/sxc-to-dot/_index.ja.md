@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から DOT への変換は、スプレッドシートの内容を文書テンプレート形式に変換し、将来の文書生成のための再利用可能な基盤として機能します。これは、スプレッドシート由来の情報を標準化されたレイアウトに埋め込み、ビジネスや運用で繰り返し使用する必要がある場合に有用です。
+
+Python API を通じて、SXC から DOT への変換はテンプレート駆動の自動化をサポートし、一貫した文書構造の実現、出力作成の高速化、そして大量のワークフローにおける書式設定のより良い制御を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **テンプレート作成**  
+  スプレッドシートの内容を再利用可能な文書テンプレートに変換し、定期的なコミュニケーションニーズに対応します。
+
+* **標準化された書式**  
+  生成された文書全体で一貫した構造と提示を維持するのに役立ちます。
+
+* **プロセス文書化**  
+  フォーム、サマリー、運用記録用の繰り返し使用可能なテンプレート作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートベースのレポートシステム**  
+  後で多数の統一された文書を生成できる DOT テンプレートの作成を自動化します。
+
+* **大量コンテンツの構造化**  
+  Python API を使用して、スケーラブルな文書ワークフロー向けに複数のスプレッドシート由来テンプレートを準備します。
+
+* **一貫した出力パイプライン**  
+  下流の文書生成が制御された再利用可能な構造から開始されることを保証します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

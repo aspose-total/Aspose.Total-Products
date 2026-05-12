@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para DOCM em Python possibilita converter mensagens em documentos Word com macros para fluxos de trabalho avançados. Esse formato é útil quando o conteúdo de e‑mail convertido deve entrar em ambientes que dependem de automação incorporada ou de scripts de documentos.
+
+Ele reforça a automação ao permitir que documentos originados de e‑mails se integrem a processos de revisão, enriquecimento e manipulação de documentos impulsionados por macros em sistemas corporativos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Processamento de Documentos com Macro**
+  Converta e‑mails em arquivos DOCM para fluxos de trabalho que dependem de ações automatizadas de documentos.
+
+* **Operações de Revisão Estruturada**
+  Use mensagens convertidas em ambientes controlados onde modelos e macros suportam validação ou formatação.
+
+* **Pipelines de Documentos Corporativos**
+  Insira o conteúdo do e‑mail em arquivos operacionais que acionam comportamentos scriptados subsequentes.
+
+* **Padronização de Processos**
+  Mantenha a consistência quando documentos originados de e‑mails precisam estar alinhados com fluxos de trabalho de escritório com macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Enriquecimento de Documentos com Scripts**
+  Converta e‑mails para DOCM e aplique macros para adicionar metadados, cabeçalhos ou classificações automaticamente.
+
+* **Preparação de Arquivos Baseada em Workflow**
+  Alimente o conteúdo do e‑mail em modelos com macros para processamento interno e roteamento.
+
+* **Formatação Automatizada de Registros**
+  Use scripts de documentos para padronizar o conteúdo originado de e‑mails em grandes repositórios.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

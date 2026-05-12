@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para PPTM nas APIs Python converte modelos de texto OpenDocument em arquivos de apresentação com macros que suportam automação avançada em fluxos de trabalho baseados em slides. Isso é valioso quando as apresentações geradas precisam incluir lógica reutilizável ou ações scriptadas.
+
+A conversão aprimora a automação ao combinar a geração de conteúdo orientada por documentos com arquivos de apresentação que podem participar de cenários de relatório ou entrega mais dinâmicos e ricos em recursos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Apresentação com Macros**  
+  Produz apresentações adequadas para comportamentos automatizados avançados.
+
+* **Suporte a Relatórios Dinâmicos**  
+  Ajuda a criar apresentações que vão além do conteúdo estático dos slides.
+
+* **Reuso de Conteúdo de Modelo**  
+  Converte modelos de texto em saídas de apresentação mais ricas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Decks Conscientes de Scripts**  
+  Cria arquivos PPTM a partir de modelos OTT em fluxos de trabalho repetíveis.
+
+* **Pipelines de Apresentação Avançados**  
+  Suporta sistemas de relatório que exigem funcionalidade de slide enriquecida.
+
+* **Briefings Automatizados Escaláveis**  
+  Entrega apresentações consistentes e com capacidade de macros em diversos casos de uso.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

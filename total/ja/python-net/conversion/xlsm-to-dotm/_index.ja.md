@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から DOTM への変換により、マクロ対応のスプレッドシート コンテンツを、マクロ対応の Word テンプレート形式にエクスポートでき、高度で繰り返し可能な文書生成が可能になります。組織がテンプレートの一貫性と文書レベルの自動化機能の両方を必要とする場合に有用です。
+
+この形式は、構造化されたテンプレート設計とマクロ対応ワークフローとの互換性を組み合わせるため、スケーラブルな自動化に特に適しています。Python API を使用して、チームはテンプレート作成、文書オーケストレーション、エンタープライズ コンテンツ自動化の一環として XLSM から DOTM への変換を自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート**
+  高度な自動化動作をサポートする再利用可能な文書テンプレートを作成します。
+
+* **繰り返し可能な文書作成**
+  スプレッドシート駆動の情報源から一貫した出力を構築するのに役立ちます。
+
+* **プロセス制御された文書化**
+  再利用可能なテンプレート資産に依存する規制されたまたは構造化されたワークフローをサポートします。
+
+* **自動化対応コンテンツモデル**
+  スプレッドシート データをインテリジェントな文書作成システムに供給できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化ワークフロー**
+  Python API を使用して、繰り返し行われる文書プロセス用に XLSM ファイルから DOTM テンプレートを生成できます。
+
+* **スケーラブルな文書準備**
+  自動化システムは、一貫した構造で大量にマクロ対応テンプレートを作成できます。
+
+* **エンタープライズ コンテンツ パイプライン**
+  DOTM 出力は、再利用可能なロジック対応テンプレートを必要とする文書生成システムに統合できます。
+
+* **ワークフロー主導の標準化**
+  変換により、スプレッドシート起源のコンテンツが制御されたテンプレートベースの自動化の一部となります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

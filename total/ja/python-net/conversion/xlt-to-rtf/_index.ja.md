@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLT から RTF への変換により、Excel テンプレートファイルを広く互換性があり、さまざまな文書環境間で簡単にやり取りできるリッチテキスト文書に変換することが可能になります。これは、スプレッドシートベースのコンテンツを、基本的な書式を保持しつつ軽量なテキスト形式に変換し、高い可搬性を保つ必要がある場合に有用です。
+
+自動化のユースケースにおいて、XLT から RTF への変換は効率的な文書生成と広範な相互運用性をサポートします。Python ベースのシステムが構造化されたスプレッドシートテンプレートを、共有、アーカイブ、またはさまざまな下流アプリケーションで処理できる書式付きテキスト出力に変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **ポータブルな書式付き文書の作成**  
+  XLT テンプレートを RTF ファイルに変換し、簡単に共有でき、基本的な書式を保持します。
+
+* **軽量なコンテンツ交換**  
+  複数の文書ツール間での互換性が重要な場合に RTF 出力を使用します。
+
+* **構造化情報の変換**  
+  スプレッドシートテンプレートのコンテンツを、運用で使用できる読みやすいリッチテキスト文書に変換します。
+
+* **アーカイブとレビューのサポート**  
+  レビュー、保存、文書交換に適した書式付きテキストファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された書式正規化**  
+  Python API を使用して XLT ファイルを RTF に変換し、標準化された下流処理を実現します。
+
+* **クロスシステム文書配信**  
+  さまざまなソフトウェア環境間で文書を移動させるワークフロー向けに RTF 出力を生成します。
+
+* **バッチ変換操作**  
+  複数の XLT テンプレートを手動で書式設定することなくリッチテキストファイルに処理します。
+
+* **文書交換パイプライン**  
+  レビュー、エクスポート、またはアーカイブ処理のために、RTF 変換を自動化システムに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

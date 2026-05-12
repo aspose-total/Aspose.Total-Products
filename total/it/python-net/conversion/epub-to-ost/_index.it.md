@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da EPUB a OST in Python supporta la trasformazione del contenuto di pubblicazioni digitali in un formato associato ai flussi di lavoro dei dati di casella di posta offline. Ciò può essere utile in scenari specializzati in cui il contenuto della pubblicazione deve allinearsi con l'archiviazione locale dei messaggi o con ambienti di comunicazione strutturati.
+
+In contesti di automazione, la conversione da EPUB a OST consente ai processi basati su Python di supportare l'imballaggio controllato del contenuto, la preparazione della migrazione e la gestione semplificata delle informazioni dei documenti per sistemi che dipendono da strutture orientate alla posta offline.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dei dati di posta offline**  
+  Converti il contenuto EPUB in output compatibile con OST per flussi di lavoro che coinvolgono strutture di archiviazione della casella di posta locale.
+
+* **Supporto alla migrazione dei contenuti**  
+  Utilizza l'output convertito durante la preparazione del contenuto della pubblicazione per il trasferimento in ambienti di dati orientati ai messaggi.
+
+* **Conservazione dei dati strutturati**  
+  Conserva il contenuto del documento in un formato allineato ai requisiti di archiviazione della comunicazione offline.
+
+* **Allineamento dei flussi di lavoro aziendali**  
+  Supporta i flussi di lavoro in cui i dati della pubblicazione devono integrarsi con la messaggistica offline o i sistemi di archiviazione sincronizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Imballaggio dati automatizzato**  
+  I flussi di lavoro Python possono trasformare i file EPUB in output orientato a OST per la preparazione di archiviazione strutturata.
+
+* **Automazione della pipeline di migrazione**  
+  La conversione può essere integrata in routine di migrazione automatizzate che riutilizzano il contenuto della pubblicazione.
+
+* **Elaborazione ad alto volume**  
+  I lavori programmatici possono gestire compiti ripetuti di trasformazione da EPUB a OST su grandi set di dati.
+
+* **Flussi di lavoro di integrazione di sistema**  
+  La conversione automatizzata aiuta a collegare i repository di contenuti e i processi di archiviazione basati sulla posta in modo più efficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

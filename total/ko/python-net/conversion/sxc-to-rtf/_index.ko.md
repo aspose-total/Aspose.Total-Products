@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 RTF로 변환은 스프레드시트 정보를 가독성, 휴대성 및 다양한 텍스트 편집 환경에서의 폭넓은 호환성을 균형 있게 갖춘 리치 텍스트 형식으로 변환합니다. 스프레드시트 내용을 서식이 적용된 텍스트로 공유해야 하면서도 다양한 시스템에서 접근 가능하도록 해야 할 때 유용합니다.
+
+Python API를 사용하여 SXC를 RTF로 변환하면 복잡한 문서 종속성에 의존하지 않고도 커뮤니케이션, 아카이빙 및 크로스 플랫폼 콘텐츠 교환을 위한 경량 문서 생성을 자동화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **크로스 플랫폼 텍스트 공유**  
+  스프레드시트 내용을 많은 텍스트 지원 애플리케이션에서 열 수 있는 형식으로 변환합니다.
+
+* **서식 있는 콘텐츠 내보내기**  
+  데이터를 텍스트 문서 워크플로우로 이동할 때 기본 구조와 가독성을 유지합니다.
+
+* **경량 문서화**  
+  요약, 메모 및 간단한 보고서를 위한 휴대 가능한 서식 파일 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동 텍스트 문서 출력**  
+  Python API를 사용하여 SXC 파일을 경량 보고 워크플로우용 RTF 문서로 변환합니다.
+
+* **광범위한 호환성 파이프라인**  
+  단순하고 서식이 적용된 휴대 가능한 텍스트 문서를 필요로 하는 시스템을 위한 콘텐츠 내보내기를 가능하게 합니다.
+
+* **배치 변환 워크플로우**  
+  여러 스프레드시트 파일을 접근 가능한 텍스트 기반 출력으로 프로그래밍 방식 변환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

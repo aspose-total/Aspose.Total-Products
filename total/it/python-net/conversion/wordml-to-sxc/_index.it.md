@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a SXC trasforma contenuti strutturati basati su documenti in file di foglio di calcolo compatibili con flussi di lavoro legacy di fogli di calcolo open. Questo è utile per le organizzazioni che mantengono la compatibilità con ambienti OpenOffice più vecchi.
+
+Le API Python supportano la conversione da WordML a SXC estraendo le tabelle e automatizzando la trasformazione in formati orientati ai fogli di calcolo per esigenze di migrazione e interoperabilità.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output di foglio di calcolo open legacy**
+  Converte le tabelle WordML in file SXC per ambienti di fogli di calcolo più vecchi.
+
+* **Riutilizzo dei dati dai documenti**
+  Rende il contenuto strutturato dei documenti modificabile negli strumenti di foglio di calcolo legacy.
+
+* **Preservazione della compatibilità**
+  Supporta flussi di lavoro di nicchia che dipendono ancora da formati open più vecchi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione dell'esportazione legacy**
+  Genera output SXC da file WordML in flussi di lavoro focalizzati sulla compatibilità.
+
+* **Attività di supporto alla migrazione**
+  Collega i repository di documenti con ambienti di elaborazione di fogli di calcolo più vecchi.
+
+* **Conversione di tabelle in blocco**
+  Automatizza l'estrazione e l'impacchettamento dei dati dei documenti in file di foglio di calcolo legacy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

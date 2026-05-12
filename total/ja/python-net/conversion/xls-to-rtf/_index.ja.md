@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から RTF への変換により、スプレッドシートの内容を、広範な文書互換性と編集可能なテキストベースの再利用をサポートするリッチテキスト形式で利用できるようになります。これは、スプレッドシート情報を共有、アーカイブ、またはさらに書式設定するために柔軟な文書形式に移す必要がある場合に便利です。
+
+Python API を使用した XLS から RTF への変換は、スプレッドシートファイルから一貫したテキスト文書の生成を可能にし、軽量な文書交換ワークフローを支援することで、オートメーションを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **リッチテキスト文書作成**
+  XLS の内容を RTF ファイルに変換し、編集可能でポータブルな文書として使用します。
+
+* **クロスプラットフォーム共有**
+  文書環境全体で広範な互換性が必要な場合に RTF 出力を使用します。
+
+* **テキスト中心のコンテンツ変換**
+  スプレッドシートデータを、混在した書式設定とナラティブなプレゼンテーションに適した形式に再パッケージします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチリッチテキスト生成**
+  Python API を使用して複数の XLS ファイルを自動的に RTF 文書に変換します。
+
+* **軽量ドキュメントパイプライン**
+  ポータビリティと互換性を重視するワークフローに XLS から RTF への変換を追加します。
+
+* **自動アーカイブ準備**
+  スプレッドシートの内容を長期保存またはレビュー用のリッチテキスト文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

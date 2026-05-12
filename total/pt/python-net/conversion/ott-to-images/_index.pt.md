@@ -53,7 +53,41 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para Imagens nas APIs Python renderiza modelos de texto OpenDocument em saídas de imagem para compartilhamento visual, geração de pré‑visualizações e publicação estática. Isso é útil quando o conteúdo do documento deve ser exibido de forma consistente em diferentes plataformas sem depender de formatos de origem editáveis.
+
+A conversão beneficia a automação ao permitir pipelines de renderização escaláveis para pré‑visualizações, miniaturas, recursos web e instantâneos de documentos que podem ser gerados programaticamente e distribuídos amplamente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Pré‑visualização Visual**  
+  Cria representações estáticas do conteúdo do documento para visualização rápida.
+
+* **Compartilhamento Multiplataforma**  
+  Facilita a exibição do conteúdo onde o suporte a documentos é limitado.
+
+* **Suporte à Publicação**  
+  Produz recursos de imagem para uso na web, relatórios ou arquivamento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Criação de Miniaturas**  
+  Gera imagens de pré‑visualização a partir de arquivos OTT em massa.
+
+* **Fluxos de Trabalho de Publicação de Conteúdo**  
+  Converte modelos em recursos visuais para portais ou sites de documentação.
+
+* **Arquivamento Automatizado de Instantâneos**  
+  Preserva os estados do documento como saídas de imagem não editáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

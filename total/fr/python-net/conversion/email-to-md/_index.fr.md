@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'email en MD en Python transforme le contenu du message en Markdown pour une documentation légère, portable et adaptée au versionnage. Elle est particulièrement précieuse lorsque les informations d'email doivent être réutilisées dans la documentation, les bases de connaissances, les flux de travail des développeurs ou les systèmes de publication.
+
+Cette conversion améliore l'automatisation en rendant le contenu des e‑mails plus facile à analyser, stocker, transformer et publier à travers des pipelines axés sur le texte avec un minimum de surcharge de formatage.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Publication de la base de connaissances**
+  Convertir les e‑mails en Markdown pour les portails de documentation et les wikis internes.
+
+* **Archives versionnées**
+  Conserver les communications importantes dans un format texte adapté au suivi en dépôt.
+
+* **Simplification du contenu**
+  Réduire le formatage complexe des e‑mails en un balisage propre et portable pour la réutilisation.
+
+* **Flux de travail centrés sur les développeurs**
+  Utiliser les sorties Markdown là où les équipes techniques gèrent le contenu dans des systèmes basés sur le texte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation boîte de réception → wiki**
+  Transformer les e‑mails sélectionnés en pages Markdown pour des plateformes de connaissances consultables.
+
+* **Mises à jour de documentation basées sur le dépôt**
+  Valider le contenu du message converti dans des pipelines de contenu versionnés automatiquement.
+
+* **Flux de travail de publication statique**
+  Alimenter les générateurs et les systèmes d'automatisation de contenu avec les sorties Markdown des e‑mails.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

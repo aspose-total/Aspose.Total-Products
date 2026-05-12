@@ -53,7 +53,41 @@ OTT를 MHTML(웹 아카이브 형식)로 변환 기능 또는 HtmlFixed에 추�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 MHTML로 변환하면 OpenDocument 텍스트 템플릿을 단일 포터블 페이지와 같은 형식으로 콘텐츠를 묶는 웹 아카이브 파일로 변환합니다. 이는 문서 출력물을 브라우저에서 확인하거나 자체 포함된 웹 콘텐츠로 보존해야 할 때 유용합니다.
+
+이 변환은 템플릿에서 공유 가능하고 가벼운 웹 준비 아티팩트를 일관되게 생성하도록 함으로써 자동화를 향상시킵니다. 이러한 아티팩트는 저장, 전송 또는 더 넓은 디지털 워크플로에 삽입될 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **웹 아카이브 생성**  
+  문서 템플릿으로부터 자체 포함된 페이지 출력을 생성합니다.
+
+* **휴대용 보기**  
+  콘텐츠를 브라우저 친화적인 환경에서 더 쉽게 열 수 있게 합니다.
+
+* **단일 파일 보존**  
+  형식이 지정된 문서 출력을 하나의 전송 가능한 파일로 패키징합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 웹 스냅샷 생성**  
+  OTT 파일을 대량으로 아카이브된 웹 문서로 렌더링합니다.
+
+* **브라우저 기반 배포**  
+  템플릿 출력을 웹에서 볼 수 있는 파일로 공유하는 워크플로를 지원합니다.
+
+* **콘텐츠 보존 파이프라인**  
+  형식이 지정된 문서 상태를 컴팩트한 포터블 형식으로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 SXC로의 변환은 워드 프로세싱 템플릿을 구조화된 데이터 처리를 위해 오래된 오픈 오피스 워크플로우에 적합한 스프레드시트 파일로 변환합니다. 이는 레거시 스프레드시트 환경과의 호환성이 여전히 필요한 경우에 유용합니다.
+
+Python API를 사용하면 팀이 DOT에서 SXC로의 변환을 자동화하여 수동 재포맷을 줄이고 레거시 호환 데이터 교환을 효율적이고 반복 가능하게 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 호환성**
+  오래된 스프레드시트 표준에 의존하는 환경을 위해 DOT 파일을 SXC로 변환합니다.
+
+* **구조화된 데이터 내보내기**
+  문서 내용을 추적 및 분석을 위한 그리드 기반 형식으로 이동합니다.
+
+* **시스템 전환 지원**
+  현대 문서 템플릿을 오래된 스프레드시트 기반 워크플로와 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 레거시 형식 생성**
+  Python 워크플로는 반복적인 요구에 맞춰 DOT 템플릿에서 SXC 출력을 생성할 수 있습니다.
+
+* **역호환 데이터 파이프라인**
+  변환은 여전히 레거시 스프레드시트 파일 교환이 필요한 시스템을 지원합니다.
+
+* **대량 레거시 내보내기 처리**
+  프로그래밍 자동화를 통해 소스 문서에서 많은 SXC 파일을 일관되게 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

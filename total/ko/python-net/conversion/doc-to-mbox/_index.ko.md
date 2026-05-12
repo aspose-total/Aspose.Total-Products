@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOC를 MBOX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to MBOX conversion transforms Word content into a mailbox-compatible archive format that can group message-style outputs for storage or migration. It is useful when document content needs to be preserved or delivered in email archive workflows.
+
+With Python APIs, DOC to MBOX conversion can be automated for large-scale archival operations, improving repeatability and supporting systems that work with mailbox-based containers.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 생성**
+  문서에서 파생된 메시지를 MBOX로 변환하여 그룹화된 이메일 형태로 저장합니다.
+
+* **마이그레이션 준비**
+  문서가 메일 아카이브 또는 전송 워크플로우에 들어가야 할 때 MBOX 출력을 사용합니다.
+
+* **커뮤니케이션 보존**
+  변환된 문서 콘텐츠를 통합된 메일함 친화적 형식으로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **아카이브 패키징 자동화**
+  DOC 콘텐츠에서 MBOX 출력을 자동으로 생성하여 규정 준수 또는 마이그레이션에 활용합니다.
+
+* **배치 메일 컨테이너 변환**
+  여러 문서를 최소한의 수작업으로 메일함 아카이브로 변환합니다.
+
+* **문서-메일 워크플로우 연결**
+  프로그래밍 방식으로 문서 기반 콘텐츠를 이메일 아카이브 생태계에 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

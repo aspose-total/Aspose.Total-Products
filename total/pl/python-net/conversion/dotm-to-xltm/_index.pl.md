@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOTM do XLTM przekształca szablony Word z włączonymi makrami w szablony Excel z włączonymi makrami, przeznaczone do wielokrotnego użytku i przyjazne automatyzacji przepływów pracy w arkuszach kalkulacyjnych. Jest to cenne, gdy powtarzające się szablony arkuszy wymagają zaawansowanych możliwości i są generowane z dokumentów źródłowych.
+
+Korzystanie z interfejsów API Pythona do konwersji DOTM na XLTM wspiera skalowalną automatyzację, przekształcając ustrukturyzowane szablony dokumentów w wielokrotnego użytku szablony skoroszytów z zaawansowanym zachowaniem arkuszy kalkulacyjnych. Pomaga to standaryzować operacje i usprawnić powtarzalne generowanie arkuszy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Szablony arkuszy kalkulacyjnych z włączonymi makrami**
+  Konwertuj pliki DOTM na XLTM, aby uzyskać wielokrotnego użytku szablony skoroszytów z zaawansowaną funkcjonalnością.
+
+* **Powtarzalny zaawansowany projekt skoroszytu**
+  Wykorzystaj ponownie strukturę dokumentu w szablonach arkuszy, dostosowanych do powtarzających się operacji.
+
+* **Ustandaryzowane zasoby automatyzacji**
+  Stwórz spójne, wielokrotnego użytku podstawy skoroszytów z zatwierdzonych szablonów dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane zaawansowane generowanie szablonów**
+  Przepływy pracy mogą generować pliki XLTM z szablonów DOTM w celu powtarzalnego tworzenia arkuszy.
+
+* **Wielokrotnego użytku potoki automatyzacji arkuszy**
+  Konwersja wspiera skalowalne generowanie zaawansowanych szablonów skoroszytów z dokumentów.
+
+* **Masowa produkcja szablonów**
+  Przetwarzanie programowe umożliwia efektywną transformację wielu plików DOTM w wyniki XLTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

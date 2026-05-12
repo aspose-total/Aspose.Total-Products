@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to ODS conversion converts word processing templates into OpenDocument spreadsheets for structured data handling and open workflow compatibility. This matters when document content must move into a spreadsheet format that supports analysis, tracking, or reporting.
+
+Python APIs allow DOT to ODS conversion to be automated so teams can transform documents into open spreadsheet assets quickly and consistently.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di fogli di calcolo aperti**
+  Converti i file DOT in ODS per revisioni e manipolazioni incentrate sui dati.
+
+* **Strutturazione dei dati del modello**
+  Sposta il contenuto riutilizzabile dei documenti in forma di foglio di calcolo per l'uso operativo.
+
+* **Scambio cross‑platform**
+  Condividi le informazioni estratte in un formato aperto adatto a diversi ambienti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Flussi di lavoro automatizzati per fogli di calcolo**
+  Gli script Python possono trasformare i modelli DOT in file ODS all'interno di pipeline programmate.
+
+* **Integrazione di dati aperti**
+  La conversione supporta i sistemi che si basano su formati di fogli di calcolo aperti per l'elaborazione.
+
+* **Trasformazione di documenti in blocco**
+  L'automazione programmatica aiuta a generare output ODS da numerosi modelli in modo efficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

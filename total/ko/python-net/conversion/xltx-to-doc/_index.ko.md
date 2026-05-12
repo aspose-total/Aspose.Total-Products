@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX를 DOC로 변환하면 스프레드시트 템플릿 콘텐츠를 고전적인 워드 프로세싱 문서 형식으로 변환하여 문서 재사용, 보고 및 비즈니스 커뮤니케이션을 확대할 수 있습니다. 구조화된 표 데이터가 편집 가능한 문서로 재활용되어 검토, 공유 및 텍스트 중심 워크플로에서 보관하기 쉬울 때 유용합니다.
+
+자동화 환경에서 XLTX를 DOC로 변환하면 미리 정의된 스프레드시트 템플릿으로부터 일관된 문서 생성을 지원하여 팀이 보고 파이프라인을 간소화하고 수동 서식 작업을 줄이며 구조화된 데이터를 확장 가능한 콘텐츠 워크플로에 통합할 수 있도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 기반 보고서 생성**  
+  스프레드시트 템플릿을 비즈니스, 운영 또는 규정 준수 문서를 위한 편집 가능한 DOC 보고서로 변환합니다.
+
+* **구조화된 데이터 재패키징**  
+  테이블 기반 템플릿 콘텐츠를 보다 넓은 접근성을 위한 서술형 문서로 변환하는 데 도움을 줍니다.
+
+* **레거시 문서 호환성**  
+  편집 또는 배포를 위해 여전히 오래된 워드 프로세싱 형식에 의존하는 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 보고서 발행**  
+  자동화는 정해진 간격으로 XLTX 템플릿에서 DOC 파일을 생성하여 반복적인 보고 요구를 충족합니다.
+
+* **문서 워크플로 통합**  
+  변환 프로세스는 최소한의 수동 작업으로 하위 승인, 검토 및 보관 시스템에 데이터를 제공할 수 있습니다.
+
+* **대량 템플릿 처리**  
+  프로그래밍 방식 변환을 통해 대량의 스프레드시트 템플릿을 표준화된 DOC 출력물로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

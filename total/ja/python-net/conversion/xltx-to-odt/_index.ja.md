@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から ODT への変換は、スプレッドシートテンプレートのコンテンツを、編集可能で標準ベースのドキュメントをサポートするオープンドキュメントテキスト形式に変換します。これは、組織が構造化されたスプレッドシート情報を、独自の出力形式に依存せずに、携帯可能なテキストドキュメントへ再利用したい場合に有益です。
+
+自動化および統合ワークフローにおいて、XLTX から ODT への変換は、標準に合わせた文書生成、システム間の相互運用性の向上、テンプレート駆動型コンテンツを編集可能なテキスト資産へスケーラブルに変換することで、柔軟性を高めます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープンドキュメント生成**  
+  スプレッドシートテンプレートをオープン標準に基づく編集可能なテキストドキュメントに変換します。
+
+* **相互運用可能なドキュメント**  
+  文書システム間の広範な互換性を必要とするワークフローをサポートします。
+
+* **構造化コンテンツの再利用**  
+  スプレッドシートテンプレートの素材を物語形式やレポート指向のテキストドキュメントに再利用するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **標準ベースの文書自動化**  
+  自動化システムは、オープンワークフローの互換性のためにXLTXテンプレートからODTファイルを生成できます。
+
+* **クロスプラットフォームコンテンツパイプライン**  
+  この変換により、スプレッドシート入力とテキストドキュメント出力の間でスムーズな統合が可能になります。
+
+* **スケーラブルなオープンフォーマット処理**  
+  プログラムによる処理により、大量のODT生成が効率的かつ再現可能になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

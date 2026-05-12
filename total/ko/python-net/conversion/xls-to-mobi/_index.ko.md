@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to MOBI 변환은 스프레드시트에서 파생된 콘텐츠를 구조화된 읽기와 디지털 배포에 적합한 eBook 친화적인 형식으로 제공합니다. 이는 표 형식의 정보를 휴대용 읽기 자료, 가이드 또는 참고 콘텐츠로 재패키징해야 할 때 유용합니다.
+
+Python API를 사용하면 XLS to MOBI 변환을 콘텐츠 출판 시스템 내에서 자동화할 수 있어, 스프레드시트 데이터를 장문 디지털 자산으로 재활용하는 조직의 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 가이드 제작**
+  스프레드시트 데이터를 MOBI 파일로 변환하여 휴대용 매뉴얼, 카탈로그 또는 참고 문서로 활용합니다.
+
+* **콘텐츠 재활용**
+  XLS 정보를 읽기 중심의 디지털 형식으로 변환하여 접근성을 확대합니다.
+
+* **구조화된 정보 전달**
+  스프레드시트 기반 콘텐츠를 eReader와 호환되는 워크플로에 적합한 형식으로 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 eBook 출판**
+  디지털 출판 파이프라인의 일환으로 XLS 소스에서 MOBI 파일을 생성합니다.
+
+* **배치 콘텐츠 변환**
+  Python API를 사용하여 여러 스프레드시트를 휴대용 읽기 자산으로 변환합니다.
+
+* **크로스 채널 배포**
+  스프레드시트 콘텐츠를 디지털 소비를 위해 파일을 준비하는 자동화 시스템에 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

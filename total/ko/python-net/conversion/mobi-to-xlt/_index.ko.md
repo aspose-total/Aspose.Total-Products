@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서의 MOBI to XLT 변환은 전자책 콘텐츠를 반복 가능한 워크북 생성을 위해 사용되는 스프레드시트 템플릿 형식으로 변환하는 것을 지원합니다. 이는 구조화된 출력이 고정 레이아웃, 미리 정의된 수식 또는 표준화된 보고 디자인을 따라야 할 때 유용합니다.
+
+자동화 워크플로우에서 MOBI to XLT 변환은 조직이 추출된 콘텐츠 소스로부터 일관된 스프레드시트 템플릿을 만들도록 돕습니다. 이는 표준화를 지원하고 반복적인 서식 작업을 줄이며, 균일한 패턴을 기반으로 구조화된 문서를 확장 가능하게 생성할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 기반 보고**
+  반복 가능한 스프레드시트 레이아웃이 필요한 워크플로우를 위해 MOBI 콘텐츠를 XLT로 변환합니다.
+
+* **표준화된 워크북 설계**
+  템플릿 출력을 사용하여 구조, 서식 및 일관된 워크시트 구성을 유지합니다.
+
+* **프로세스 중심 문서 생성**
+  공통 템플릿 기반에서 여러 스프레드시트 인스턴스를 생성하는 팀을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **반복 템플릿 생성**
+  반복적인 보고 주기를 위해 MOBI에서 파생된 데이터를 사용해 XLT 파일을 자동으로 생성합니다.
+
+* **포맷 표준화 파이프라인**
+  Python 자동화를 사용하여 변환된 모든 스프레드시트가 동일한 구조 모델을 따르도록 보장합니다.
+
+* **확장 가능한 워크북 생산**
+  템플릿 기반 출력을 대규모로 표준화된 운영 문서를 생성하는 시스템에 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

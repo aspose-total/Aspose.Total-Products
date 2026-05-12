@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Word para FODS usando APIs Python permite a conversão de documentos de processamento de texto para o formato de planilha OpenDocument plano, o que é útil para o manuseio de dados baseado em padrões abertos e fluxos de trabalho transparentes orientados a XML. Isso é benéfico quando o conteúdo do documento precisa ser preservado em um formato de planilha estruturado sem depender de empacotamento binário.
+
+Em ambientes impulsionados por automação, a conversão de Word para FODS suporta pipelines de transformação escaláveis e alinhados a padrões que enfatizam a interoperabilidade, a facilidade de controle de versão e a inspeção programática mais simples dos dados de saída.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Conversão de Dados em Formato Aberto**
+  Exporta conteúdo derivado de documentos para um formato de planilha plano e estruturado baseado em padrões abertos.
+
+* **Armazenamento de Dados Transparente**
+  Torna a saída da planilha mais fácil de inspecionar e processar em sistemas compatíveis com XML.
+
+* **Interoperabilidade de Fluxo de Trabalho**
+  Suporta a integração com plataformas que preferem padrões de documentos abertos em vez de formatos proprietários.
+
+* **Manipulação de Conteúdo com Controle de Versão**
+  Permite um melhor rastreamento da saída estruturada em ambientes de armazenamento amigáveis a texto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Conversão Baseados em Padrões**
+  Transforma automaticamente arquivos Word em FODS para fluxos de trabalho de ecossistemas abertos.
+
+* **Automação de Arquivamento de Documentos**
+  Cria saídas de planilha legíveis e estruturadas para armazenamento de longo prazo e necessidades de auditoria.
+
+* **Processamento Orientado a XML**
+  Utiliza as saídas FODS em rotinas automatizadas de análise, validação e transformação.
+
+* **Geração em Lote de OpenDocument**
+  Produz arquivos de planilha plana em escala a partir de fontes de documentos recorrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

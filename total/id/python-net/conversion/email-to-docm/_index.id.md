@@ -46,7 +46,44 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi EMAIL ke 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi email ke DOCM dalam Python memungkinkan mengubah pesan menjadi dokumen Word yang mendukung makro untuk alur kerja dokumen tingkat lanjut. Format ini berguna ketika konten email yang dikonversi harus masuk ke lingkungan yang mengandalkan otomasi tersemat atau skrip dokumen.
+
+Ini memperkuat otomasi dengan memungkinkan dokumen yang berasal dari email terintegrasi dengan proses peninjauan, peningkatan, dan penanganan dokumen yang digerakkan oleh makro dalam sistem perusahaan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pemrosesan Dokumen Ber‑Makro**
+  Ubah email menjadi file DOCM untuk alur kerja yang bergantung pada tindakan dokumen otomatis.
+
+* **Operasi Peninjauan Terstruktur**
+  Gunakan pesan yang dikonversi dalam lingkungan terkontrol di mana templat dan makro mendukung validasi atau pemformatan.
+
+* **Pipeline Dokumen Perusahaan**
+  Masukkan konten email ke dalam file operasional yang memicu perilaku skrip hilir.
+
+* **Standarisasi Proses**
+  Pertahankan konsistensi ketika dokumen yang berasal dari email harus selaras dengan alur kerja kantor yang mendukung makro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Peningkatan Dokumen dengan Skrip**
+  Ubah email menjadi DOCM dan terapkan makro untuk menambahkan metadata, header, atau klasifikasi secara otomatis.
+
+* **Persiapan File Berbasis Alur Kerja**
+  Masukkan konten email ke dalam templat ber‑makro untuk pemrosesan dan perutean internal.
+
+* **Pemformatan Rekam Otomatis**
+  Gunakan skrip dokumen untuk menstandarisasi konten yang berasal dari email di seluruh repositori besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から PPTX への変換は、スプレッドシートデータを最新のプレゼンテーションファイルに変換し、編集、プレゼンテーション、共有を現代のオフィスワークフロー全体で行えるようにします。スプレッドシートベースの洞察を視覚的かつ明確にさまざまなオーディエンスに伝える必要がある場合に広く活用できます。
+
+XLS から PPTX への変換に Python API を使用することで、構造化されたスプレッドシート入力をプログラムで洗練されたスライド出力に変換し、自動化、スケーラビリティ、効率的なレポーティングを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **モダンなスライドデック作成**
+  XLS コンテンツを PPTX ファイルに変換し、プレゼンテーション、レビュー、ステークホルダーへの更新に利用します。
+
+* **ビジュアルレポーティング**
+  スプレッドシート情報をスライド形式で提示し、明瞭さとオーディエンスのエンゲージメントを向上させます。
+
+* **共同プレゼンテーション編集**
+  チームのワークフローで修正・再利用できるプレゼンテーションファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **データからスライドへの自動化**
+  Python API を使用して、スプレッドシートソースから PPTX プレゼンテーションを自動的に生成します。
+
+* **定期的なビジネスレポーティング**
+  定期的な XLS レポートからスライドデックを作成し、定期的なコミュニケーションサイクルに活用します。
+
+* **統合プレゼンテーションパイプライン**
+  大規模にプレゼンテーション出力を生成、保存、配布するシステムに変換プロセスを組み込みます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

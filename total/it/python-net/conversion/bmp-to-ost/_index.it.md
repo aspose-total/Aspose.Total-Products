@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da BMP a OST consente di includere file immagine bitmap nei file di archiviazione email offline utilizzati dai client di messaggistica. I file OST mantengono copie sincronizzate dei dati della casella di posta per l'accesso offline.
+
+I flussi di lavoro di conversione automatizzati aiutano i sistemi a integrare messaggi basati su immagini nella memorizzazione offline della casella di posta. Ciò supporta l'archiviazione aziendale, la sincronizzazione e i processi di gestione automatizzata della casella di posta.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Archiviazione offline della casella di posta**  
+  I messaggi basati su BMP possono essere archiviati all'interno dei file di casella di posta offline.
+
+* **Archiviazione email aziendale**  
+  Le organizzazioni possono conservare le comunicazioni visive all'interno dei sistemi di archiviazione della casella di posta.
+
+* **Sincronizzazione dei dati della casella di posta**  
+  I contenuti visivi possono essere integrati nei record sincronizzati della casella di posta.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Popolamento automatizzato della casella di posta**  
+  I sistemi generano messaggi basati su BMP e li archiviano nei file OST.
+
+* **Flussi di lavoro per la migrazione della casella di posta**  
+  Il contenuto email visivo può essere convertito in archiviazione offline della casella di posta durante la migrazione.
+
+* **Gestione programmatica della casella di posta**  
+  Le applicazioni aggiornano dinamicamente i file OST con comunicazioni basate su immagini.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から OFT への変換は、Word テンプレートのコンテンツを再利用可能なメッセージ作成に使用されるメールテンプレート形式に変換します。文書ベースのコンテンツを一貫したアウトバウンドワークフロー向けの繰り返し使用できるコミュニケーションテンプレートにする必要がある場合に有用です。
+
+Python API を使用すると、この変換は自動化をサポートし、チームが文書ソースから再利用可能なメールテンプレートを生成し、標準化されたメッセージングシステムに統合できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **再利用可能なメールテンプレート**
+  構造化された文書コンテンツを繰り返し使用できるメッセージテンプレートに変換します。
+
+* **一貫したコミュニケーションデザイン**
+  承認された文書レイアウトを使用してメール作成を標準化します。
+
+* **テンプレートベースの運用**
+  定期的な内部または外部のやり取りに正式なコンテンツを再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート作成**
+  一貫したメールワークフローのために DOTX テンプレートから OFT ファイルを生成します。
+
+* **スケーラブルなコミュニケーション設定**
+  運用チーム向けに大量の再利用可能なメッセージ資産を準備します。
+
+* **文書からテンプレートへのパイプライン**
+  承認された文書形式をプログラムでメールテンプレートに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

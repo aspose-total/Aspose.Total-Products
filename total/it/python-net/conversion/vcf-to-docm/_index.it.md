@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da VCF a DOCM trasforma i dati delle schede di contatto in documenti di elaborazione testi abilitati alle macro, consentendo la consegna di contenuti strutturati dove è necessario un comportamento avanzato del documento. Questo è utile per le organizzazioni che lavorano con flussi di lavoro documentali dinamici e output modificabili.
+
+Nei sistemi incentrati sull'automazione, la conversione da VCF a DOCM consente alle API Python di generare documenti basati sui contatti che si integrano in processi programmabili più ampi, soprattutto quando la logica del documento, la formattazione ripetibile o le azioni integrate fanno parte delle operazioni.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Documenti di contatto dinamici**  
+  Converti i record VCF in file DOCM modificabili per flussi di lavoro documentali avanzati.
+
+* **Elaborazione interna strutturata**  
+  Prepara le informazioni di contatto in documenti abilitati alle macro per un uso aziendale controllato.
+
+* **Documentazione programmabile**  
+  Supporta ambienti documentali in cui automazione e contenuto modificabile devono coesistere.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatizzata di DOCM**  
+  Genera documenti abilitati alle macro da file di contatto in operazioni batch.
+
+* **Flussi di lavoro documentali basati su regole**  
+  Instrada i file DOCM convertiti nei processi aziendali automatizzati con formattazione coerente.
+
+* **Imballaggio scalabile dei contatti**  
+  Impacchetta programmaticamente i dati dei contatti in output DOCM riutilizzabili per flussi di lavoro aziendali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

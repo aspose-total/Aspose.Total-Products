@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から EML への変換は、ワードプロセッシングテンプレートを、メールの保存、転送、アーカイブに広く使用されている標準的なメールメッセージファイル形式に変換します。文書ベースのコンテンツを完全なメールアーティファクトとして保存または共有する必要がある場合に役立ちます。
+
+Python API を使用すれば、この変換を再利用可能なテンプレートからポータブルなメールファイルを生成する自動化システムに組み込むことができ、一貫性を保ちつつ手作業の準備時間を削減できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **メールファイル作成**
+  DOT テンプレートを EML ファイルに変換し、保存、レビュー、配布に利用します。
+
+* **コミュニケーションのアーカイブ**
+  テンプレート駆動のやり取りを単独のメールメッセージファイルとして保存します。
+
+* **システム間転送**
+  互換性のあるメール環境間で移動できるポータブルなメール出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メールパッケージング**
+  Python ワークフローは、DOT ドキュメントを EML に変換し、システム生成の通信に利用できます。
+
+* **アーカイブワークフロー**
+  変換は、文書ベースのメッセージをメールファイル形式で自動的に保存することをサポートします。
+
+* **大量メッセージの準備**
+  プログラムによる処理により、大規模なテンプレートから EML への変換が可能となり、スケーラブルな運用を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

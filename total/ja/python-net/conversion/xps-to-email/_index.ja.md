@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XPS から EMAIL への変換を Python API で実現すると、チームは固定レイアウトのドキュメントコンテンツを配布、アーカイブ、通信ワークフローでの処理が容易なメール対応フォーマットに変換できます。これは、レポート、請求書、通知、または生成されたドキュメントを手動でコピーや書式設定することなく、再利用可能なメッセージ資産に変換する必要がある組織にとって価値があります。
+
+自動化重視の環境では、XPS をメール対応出力に変換することで配信効率が向上し、スケーラブルなドキュメント通信をサポートし、ドキュメントパイプラインを通知システム、アーカイブツール、ワークフローオーケストレーションプラットフォームと統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ドキュメントベースのメール配信**  
+  XPS ドキュメントをメール対応コンテンツに変換し、レポート、明細書、通知を構造化されたメッセージングワークフローで共有できるようにします。
+
+* **自動化コミュニケーションパイプライン**  
+  ドキュメントを生成し、手動介入なしで即座に外部メール処理のために準備するシステムをサポートします。
+
+* **アーカイブとトレーサビリティ**  
+  メール指向のフォーマットでドキュメント情報を保持し、通信アーカイブ内で保存、インデックス付け、レビューが可能です。
+
+* **ワークフロー統合**  
+  ドキュメント生成システムとメッセージング、レビュー、コンプライアンスプロセスを統合されたパイプラインで接続するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたレポート配信**  
+  自動化により、定期的な XPS レポートをメール対応出力に変換し、日常的な社内外のコミュニケーションに利用できます。
+
+* **イベントトリガー通知**  
+  特定のビジネスイベントが発生した際に、新しく生成された XPS ドキュメントをメールコンテンツに変換できます。
+
+* **大量通信処理**  
+  大量のドキュメントバッチをプログラムで変換し、スケーラブルなメッセージ作成とルーティングが可能です。
+
+* **コンプライアンス通信ワークフロー**  
+  自動化パイプラインは、監査やガバナンスの要件に合わせて、ドキュメントベースのメール記録を生成、変換、保存できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

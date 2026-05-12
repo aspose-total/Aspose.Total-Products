@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a XLSB converte i documenti abilitati alle macro in file di foglio di calcolo binari progettati per una memorizzazione efficiente e per la gestione dei dati della cartella di lavoro. È utile quando il contenuto derivato da documenti deve essere spostato in output di fogli di calcolo compatti per flussi di lavoro sensibili alle prestazioni.
+
+Negli ambienti di automazione, la conversione da DOCM a XLSB supporta la generazione di fogli di calcolo su larga scala, l'imballaggio efficiente dei dati e il trasferimento semplificato del contenuto strutturato dei documenti nelle pipeline delle cartelle di lavoro.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output di foglio di calcolo compatto**
+  Converte i dati del documento in file di cartella di lavoro binari ottimizzati per l'efficienza di archiviazione.
+
+* **Gestione di dati ad alto volume**
+  Supporta scenari in cui grandi output strutturati beneficiano di formati di foglio di calcolo compatti.
+
+* **Riutilizzo operativo della cartella di lavoro**
+  Aiuta a trasferire le tabelle dei documenti in ambienti di foglio di calcolo ad alte prestazioni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione efficiente di cartelle di lavoro batch**
+  Produce file XLSB da sorgenti DOCM per un'elaborazione scalabile.
+
+* **Ottimizzazione della pipeline dei dati**
+  Supporta i flussi di lavoro che danno priorità a una memorizzazione e trasferimento compatti dei fogli di calcolo.
+
+* **Esportazione strutturata automatizzata**
+  Converte il contenuto ricorrente dei documenti in output di cartelle di lavoro binari in modo programmatico.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

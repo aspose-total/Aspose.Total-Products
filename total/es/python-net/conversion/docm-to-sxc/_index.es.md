@@ -65,7 +65,41 @@ Es principalmente en dos pasos. En primer lugar, use la API [Aspose.Words for Py
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM a SXC convierte documentos con macros habilitadas en archivos de hoja de cálculo compatibles con flujos de trabajo de hojas de cálculo abiertas más antiguos, permitiendo que el contenido estructurado se reutilice en forma tabular. Es útil cuando los datos basados en documentos deben intercambiarse con sistemas heredados que aún dependen de estándares de hoja de cálculo más antiguos.
+
+Para la automatización, la conversión de DOCM a SXC admite la extracción rutinaria de datos, la compatibilidad retroactiva y la conversión escalable de tablas de documentos en salidas de hoja de cálculo amigables con sistemas heredados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Compatibilidad con Hojas de Cálculo Legadas**
+  Convierte el contenido del documento a un formato de hoja de cálculo más antiguo usado en entornos establecidos.
+
+* **Reutilización de Tablas Estructuradas**
+  Ayuda a mover datos tabulares de documentos DOCM a flujos de trabajo de hoja de cálculo.
+
+* **Intercambio de Datos Retrocompatible**
+  Soporta sistemas que no han migrado completamente a formatos de hoja de cálculo más nuevos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Exportaciones Legadas Automatizadas**
+  Produce archivos SXC a partir de fuentes DOCM para requisitos de flujos de trabajo más antiguos.
+
+* **Transformación Masiva de Datos**
+  Convierte grandes conjuntos de tablas de documentos en salidas listas para hoja de cálculo de manera eficiente.
+
+* **Soporte de Canal de Compatibilidad**
+  Conecta fuentes de documentos modernos con sistemas de procesamiento de hojas de cálculo legadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

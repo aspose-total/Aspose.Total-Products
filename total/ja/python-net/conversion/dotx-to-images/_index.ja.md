@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から画像への変換は、Word テンプレートのコンテンツをプレビュー、共有、公開、アーカイブの目的で視覚的な出力に変換します。文書レイアウトを画像資産として保持し、さまざまなプラットフォームで簡単にアクセスできる必要がある場合に便利です。
+
+この変換は、Python API を使用してテンプレートの画像ベースのレンダリングを生成し、コンテンツ配信、文書プレビュー、編集可能な形式に依存しないビジュアルワークフローを自動化することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **文書プレビュー生成**
+  テンプレートのコンテンツを画像としてレンダリングし、迅速な閲覧と配布を可能にします。
+
+* **ビジュアルアーカイブ**
+  文書の外観を保存し、保存および参照が容易な形式にします。
+
+* **クロスプラットフォーム共有**
+  編集ソフトウェアを必要とせずに、文書コンテンツを視覚的に共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイルおよびプレビューパイプライン**
+  ポータルやリポジトリ向けに DOTX ファイルから画像プレビューを自動的に作成します。
+
+* **出版ワークフロー**
+  テンプレートを画像に変換し、ウェブサイト、レポート、またはビジュアルドキュメンテーションシステムで使用します。
+
+* **大規模レンダリングタスク**
+  テンプレートのバッチを画像セットに処理し、標準化された出力配信を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,46 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で POTX に変換することで、構造化された表形式データを、スケーラブルなスライド生成と標準化されたコミュニケーションをサポートする最新のプレゼンテーションテンプレートに変換できます。  
+この変換は、再利用可能なテンプレートファイルを生成してレポート作成を効率化し、繰り返しのデザイン作業を削減し、プレゼンテーションシステム全体の一貫性を向上させることで、Automation を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **最新スライドテンプレートの生成**  
+  CSV データを POTX テンプレートに変換し、最新のワークフローで繰り返し利用できるプレゼンテーションを作成します。
+
+* **標準化されたビジュアルレポート**  
+  スライドベースの出力全体で一貫した構造と書式を保つテンプレートを生成します。
+
+* **再利用可能なプレゼンテーション資産**  
+  CSV データセットをテンプレート駆動のリソースに変換し、継続的なコミュニケーションニーズに対応します。
+
+* **スケーラブルなコンテンツフレーミング**  
+  POTX 出力を使用して、複数のレポートや更新で再利用できるプレゼンテーション用レイアウトを定義します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation シナリオ" %}}
+
+* **自動テンプレート公開**  
+  Python API を利用して CSV 入力から POTX テンプレートを作成し、スケーラブルなプレゼンテーションワークフローを実現します。
+
+* **プレゼンテーションパイプライン統合**  
+  CSV から POTX への変換をバックエンドシステムに組み込み、標準化されたスライド資産を自動的に準備します。
+
+* **バッチテンプレート変換**  
+  多数の CSV ファイルを予測可能な構造と書式の POTX テンプレートに変換します。
+
+* **動的テンプレート組み立て**  
+  CSV 主導のルールとコンテンツマッピングロジックを使用して、プログラム的に POTX ファイルを構築します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

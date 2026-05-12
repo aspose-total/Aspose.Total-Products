@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to Excel conversion transforms Word content into spreadsheet-friendly output that supports calculations, analysis, sorting, and reporting. It is highly valuable when business information stored in documents must become structured and actionable.
+
+Using Python APIs for DOC to Excel conversion enables automated extraction of tables and records, helping organizations streamline reporting, improve data accuracy, and scale document-to-spreadsheet workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **ビジネスデータ分析**
+  文書のテーブルをフィルタリング、数式、レビュー用のExcel互換シートに変換します。
+
+* **運用レポート**
+  DOCファイルから構造化されたコンテンツを、定期的なレポートサイクルで使用されるスプレッドシートに移行します。
+
+* **プロセスの近代化**
+  手動の文書からスプレッドシートへのコピーを、一貫した自動変換に置き換えます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スプレッドシート生成**
+  受信したDOCファイルを、データチームや運用ユーザー向けのExcel出力に変換します。
+
+* **ETLおよびレポートパイプライン**
+  スプレッドシート対応の文書コンテンツを、分析およびレポートシステムに供給します。
+
+* **定期バッチ変換**
+  継続的なビジネスワークフローのために、文書からExcelへのPythonベースのエクスポートをスケジュールします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

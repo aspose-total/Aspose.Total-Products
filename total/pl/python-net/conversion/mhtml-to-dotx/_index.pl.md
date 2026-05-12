@@ -44,7 +44,47 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji MHTML i HtmlFixe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MHTML to DOTX conversion in Python transforms archived web pages into modern Word templates designed for consistent document creation. It is useful for organizations that want to preserve web-based content in a reusable template format without relying on macro functionality.
+
+This conversion supports automation by enabling scalable, template-driven generation of structured documents from archived content. It improves consistency, simplifies document preparation, and aligns well with modern template management practices.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Nowoczesne tworzenie szablonów**  
+  Convert MHTML files into DOTX templates for repeatable document generation in current Word environments.
+
+* **Spójny projekt dokumentu**  
+  Establish a standardized template structure based on preserved web content.
+
+* **Ramki treści wielokrotnego użytku**  
+  Use archived webpage material as the basis for multiple future documents with a shared layout.
+
+* **Publikowanie oparte na szablonach**  
+  Prepare clean and reusable templates for teams producing recurring reports or communication assets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki automatyzacji szablonów**  
+  Automatically generate DOTX templates from MHTML inputs for recurring documentation workflows.
+
+* **Skalowalna produkcja dokumentów**  
+  Use converted templates to create high-volume documents while preserving layout consistency.
+
+* **Systemy ponownego wykorzystania archiwów internetowych**  
+  Transform captured online content into structured templates for internal publishing and reporting.
+
+* **Przygotowanie standardowego wyjścia**  
+  Use Python APIs to feed archived web content into template libraries for automated document creation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

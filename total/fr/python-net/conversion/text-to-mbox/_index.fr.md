@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de texte en MBOX à l'aide des API Python permet de compiler du contenu texte brut en archives de type boîte aux lettres pour le stockage et le transport groupés d'e‑mails. Ceci est utile pour la génération massive de messages, les flux de travail de migration et les environnements qui doivent organiser les communications dans un format de conteneur de boîte aux lettres.
+
+La conversion est particulièrement pertinente pour l'automatisation car elle permet la création évolutive d'archives de boîtes aux lettres à partir de sources textuelles, en soutenant les opérations de sauvegarde, les importations de messages et la gestion efficace de données de communication à haut volume.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d'archives de boîte aux lettres**  
+  Convertit le contenu texte en structures compatibles MBOX pour le stockage groupé des messages.
+
+* **Regroupement de communications en masse**  
+  Permet de combiner plusieurs messages dérivés de texte en un seul fichier de boîte aux lettres.
+
+* **Support de migration et d'importation**  
+  Aide à préparer les communications pour le transfert vers des systèmes qui acceptent les archives MBOX.
+
+* **Rétention à long terme**  
+  Permet la préservation structurée du contenu texte de type message pour la révision et la conformité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Construction automatisée d'archives**  
+  Les systèmes peuvent convertir les enregistrements texte générés en collections MBOX pour un stockage centralisé.
+
+* **Flux de travail d'exportation par lots**  
+  De grands ensembles de messages peuvent être assemblés programmatiquement à partir du texte en archives de boîte aux lettres.
+
+* **Processus de consolidation de données**  
+  L'automatisation peut regrouper les communications basées sur du texte en fichiers MBOX portables pour la migration ou la sauvegarde.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

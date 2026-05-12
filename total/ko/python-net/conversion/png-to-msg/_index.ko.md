@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 PNG를 MSG로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG를 MSG로 변환하면 이미지 기반 콘텐츠를 구조화된 이메일 메시지 파일로 전환하여 저장, 검토 또는 메시징 워크플로에서 교환할 수 있습니다. 이는 공지사항, 스크린샷 또는 시각적 업데이트와 같은 PNG 파일을 운영 또는 보관용 개별 메시지 레코드로 만들어야 할 때 유용합니다.
+
+Python API는 MSG 생성 과정을 반복 가능하고 확장 가능하게 만들어 이 프로세스를 강화합니다. 이를 통해 애플리케이션은 메시지 생성을 자동화하고 수동 작업을 줄이며 시각적 입력을 기업 커뮤니케이션 및 저장 시스템과 연결할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메시지 파일 생성**  
+  PNG 입력을 MSG 파일로 변환하여 구조화된 이메일 형식 레코드를 생성합니다.
+
+* **시각적 커뮤니케이션 보관**  
+  이미지 기반 업데이트를 독립형 메시지 파일로 보존하여 나중에 검색할 수 있도록 돕습니다.
+
+* **운영 레코드 패키징**  
+  이미지 콘텐츠를 메시지 지향 형식으로 표현해야 하는 워크플로를 지원합니다.
+
+* **시스템 상호 운용성 지원**  
+  PNG에서 파생된 콘텐츠가 구조화된 메시지 파일에 의존하는 환경에 맞도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 MSG 생성**  
+  Python API는 들어오는 PNG 자산을 메시지 처리 파이프라인의 일부로 MSG 파일을 생성할 수 있습니다.
+
+* **배치 변환 워크플로**  
+  대량의 PNG 파일을 프로그래밍 방식으로 변환하여 운영 효율성을 위한 MSG 출력으로 만들 수 있습니다.
+
+* **케이스 및 티켓 문서화**  
+  시스템은 지원, 감사 또는 문서화 워크플로를 위해 시각적 레코드를 MSG 파일로 패키징할 수 있습니다.
+
+* **규칙 기반 메시지 생성**  
+  애플리케이션은 트리거, 카테고리 또는 소스 이벤트에 따라 PNG 콘텐츠에서 동적으로 MSG 파일을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

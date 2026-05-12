@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a ODS nelle API Python trasforma i modelli di testo OpenDocument in documenti di foglio di calcolo, facilitando la conversione del materiale sorgente testuale in risorse tabulari strutturate per calcolo, revisione e scambio. È utile quando il contenuto del documento deve diventare dati di foglio di calcolo modificabili.
+
+Questa conversione migliora l'automazione collegando la generazione di contenuti basata su modelli ai flussi di lavoro dei fogli di calcolo, consentendo reportistica, elaborazione e riutilizzo scalabili nei sistemi che dipendono da dati strutturati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di fogli di calcolo**  
+  Converte il contenuto del modello in documenti di foglio di calcolo aperti e modificabili.
+
+* **Preparazione di dati tabulari**  
+  Organizza le informazioni del documento per ordinamento, filtraggio e analisi.
+
+* **Compatibilità con flussi di lavoro aperti**  
+  Supporta ambienti basati su standard di documenti OpenOffice.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazioni ricorrenti di fogli di calcolo**  
+  Genera file ODS dai modelli OTT su richiesta o secondo un programma.
+
+* **Pipeline documento‑a‑dati**  
+  Alimenta il contenuto convertito nei flussi di elaborazione basati su fogli di calcolo.
+
+* **Reportistica operativa automatizzata**  
+  Produce output di cartelle di lavoro coerenti da fonti testuali standardizzate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion Excel vers OTT en Python convertit le contenu des feuilles de calcul en modèles de texte au format Open Document qui peuvent être réutilisés pour une génération de documents cohérente. Elle est utile lorsque des données de feuille de calcul structurées sont nécessaires comme base pour des modèles standardisés au format ouvert.
+
+Cette conversion renforce l'automatisation en permettant des flux de travail orientés modèles qui transforment les données de la feuille de calcul en actifs réutilisables pour des processus de documentation répétables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles ouverts**  
+  Convertir les données Excel en fichiers OTT pour des modèles de documents texte réutilisables.
+
+* **Flux de travail ouverts standardisés**  
+  Construire des actifs de modèles qui soutiennent une documentation cohérente entre les équipes et les systèmes.
+
+* **Préparation du cadre documentaire**  
+  Créer des points de départ structurés pour des documents récurrents au format ouvert.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles**  
+  Utiliser les API Python pour produire des modèles OTT directement à partir de sources Excel.
+
+* **Flux de travail documentaires répétables**  
+  Alimenter les modèles convertis dans des systèmes qui créent des documents à grande échelle.
+
+* **Intégration de normes ouvertes**  
+  Prendre en charge les environnements d'automatisation qui s'appuient sur des formats de modèles ouverts pour la portabilité et la réutilisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

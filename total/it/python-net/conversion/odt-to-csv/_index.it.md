@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a CSV trasforma contenuti testuali strutturati o semi‑strutturati dei file OpenDocument Text in un formato piatto e delimitato più facile da analizzare, importare e processare nei sistemi orientati ai dati. È particolarmente utile quando le informazioni basate su documenti devono essere estratte per la creazione di report, la revisione o l'integrazione a valle.
+
+Nei flussi di lavoro automatizzati, la conversione da ODT a CSV supporta l'estrazione ripetibile dei dati, la normalizzazione batch e l'ingestione scalabile nei pipeline di analisi o di elaborazione. Utilizzando le API Python, i team possono semplificare la gestione dei documenti riducendo la riformattazione manuale e migliorando la coerenza.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione di dati tabulari**  
+  Converte le tabelle basate su documenti in CSV per una più facile elaborazione e archiviazione.
+
+* **Preparazione dei report**  
+  Prepara il contenuto del documento per analisi, dashboard e flussi di lavoro di revisione strutturata.
+
+* **Migrazione di dati in blocco**  
+  Aiuta a spostare grandi volumi di record basati su testo in formati di dati interoperabili.
+
+* **Supporto all'integrazione di sistema**  
+  Consente la compatibilità con strumenti e servizi che accettano CSV come formato di input.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Parsing di documenti programmato**  
+  L'automazione può convertire i file ODT in arrivo in CSV a intervalli regolari per i pipeline di reporting.
+
+* **Flussi di lavoro di ingestione dati**  
+  I processi basati su Python possono estrarre e standardizzare il contenuto del documento prima di caricarlo nei database.
+
+* **Operazioni di conversione batch**  
+  Grandi collezioni di documenti ODT possono essere trasformate programmaticamente senza intervento manuale.
+
+* **Strutturazione dei record di conformità**  
+  La conversione automatizzata aiuta a preparare contenuti verificabili in un formato leggibile dalla macchina.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

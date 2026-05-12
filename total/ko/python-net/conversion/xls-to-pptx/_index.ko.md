@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS에서 PPTX로 변환하면 스프레드시트 데이터를 현대적인 프레젠테이션 파일로 변환하여 편집, 발표 및 공유를 현대 사무 워크플로우 전반에 걸쳐 수행할 수 있습니다. 스프레드시트 기반 인사이트를 시각적으로 명확하게 다양한 청중에게 전달해야 할 때 널리 유용합니다.
+
+XLS를 PPTX로 변환하기 위해 Python API를 사용하면 구조화된 스프레드시트 입력을 프로그래밍 방식으로 정교한 슬라이드 출력으로 전환함으로써 자동화, 확장성 및 효율적인 보고를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대적인 슬라이드 데크 생성**
+  프레젠테이션, 검토 및 이해관계자 업데이트를 위해 XLS 콘텐츠를 PPTX 파일로 변환합니다.
+
+* **시각적 보고**
+  스프레드시트 정보를 슬라이드 형태로 제시하여 명확성을 높이고 청중 참여를 향상시킵니다.
+
+* **협업 프레젠테이션 편집**
+  팀 워크플로우에서 수정 및 재사용할 수 있는 프레젠테이션 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **데이터-슬라이드 자동화**
+  Python API를 사용하여 스프레드시트 소스에서 PPTX 프레젠테이션을 자동으로 생성합니다.
+
+* **정기 비즈니스 보고**
+  정기적인 커뮤니케이션 주기를 위해 반복되는 XLS 보고서에서 슬라이드 데크를 생성합니다.
+
+* **통합 프레젠테이션 파이프라인**
+  대규모로 프레젠테이션 출력을 생성, 저장 및 배포하는 시스템에 변환을 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

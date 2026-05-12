@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST en DOT dans les API Python convertit le contenu de la boîte aux lettres en fichiers de modèle Word pour la génération de documents réutilisables. Ceci est utile lorsque le contenu basé sur les e‑mails doit être standardisé en mises en page répétables qui assurent une mise en forme cohérente et une sortie structurée en aval.
+
+Dans les scénarios d’automatisation, la conversion PST en DOT aide les organisations à créer des flux de travail pilotés par des modèles à partir de communications archivées. Elle favorise l’efficacité en transformant les données de la boîte aux lettres en bases réutilisables pour des rapports récurrents, des dossiers de cas ou des documents opérationnels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles réutilisables**
+  Convertit le contenu dérivé du PST en fichiers DOT pour des structures de documents réutilisables.
+
+* **Mises en page de rapports standardisées**
+  Aide à maintenir une mise en forme cohérente sur les documents générés à partir des e‑mails.
+
+* **Préparation du flux de travail documentaire**
+  Prend en charge les scénarios où les données de la boîte aux lettres servent de base à des modèles récurrents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'enregistrements basée sur des modèles**
+  Les systèmes automatisés peuvent utiliser les sorties DOT pour créer des flux de documentation réutilisables.
+
+* **Pipelines de formatage cohérents**
+  La conversion garantit que le contenu des e‑mails archivés correspond aux règles de mise en page prédéfinies.
+
+* **Assemblage de documents évolutif**
+  Le traitement programmatique rend la création de modèles à partir des données de la boîte aux lettres plus rapide et plus uniforme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

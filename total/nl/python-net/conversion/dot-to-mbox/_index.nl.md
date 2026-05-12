@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOT naar MBOX-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT-naar-MBOX-conversie zet documentsjablonen om in een mailbox‑achtige opslagindeling die geschikt is voor gegroepeerde e‑mailberichten. Dit is nuttig wanneer sjablooninhoud moet worden samengevoegd tot een e‑mailarchief of migratieworkflows.
+
+Met behulp van Python‑API's kunnen organisaties het maken van MBOX‑compatibele uitvoer vanuit DOT‑bestanden automatiseren, waardoor het verpakken van berichten en de voorbereiding van archivering wordt gestroomlijnd.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Mailbox-archiefvoorbereiding**
+  Zet DOT‑gebaseerde communicatiesjablonen om in MBOX‑compatibele structuren.
+
+* **Gegroepeerde berichtopslag**
+  Gebruik mailbox‑formaatoutput voor het verzamelen van meerdere sjabloongestuurde communicaties.
+
+* **Ondersteuning migratieworkflow**
+  Bereid documentgebaseerde inhoud voor op verplaatsing van e‑mailarchieven en retentieprocessen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde archiefassemblage**
+  Python‑scripts kunnen DOT‑inhoud omzetten in MBOX‑gereed output voor retentieworkflows.
+
+* **Bulkcommunicatieverpakking**
+  Conversie ondersteunt programmatische groepering van op sjablonen gebaseerde berichten in mailbox‑formaten.
+
+* **Schaalbare e‑mailmigratieondersteuning**
+  Dynamische processen helpen documentgegenereerde communicaties te verplaatsen naar archiefvriendelijke structuren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

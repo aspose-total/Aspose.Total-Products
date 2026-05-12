@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から XPS への変換は、メールボックスアーカイブを信頼性の高い表示と一貫した提示を実現する固定レイアウトの文書ファイルに変換します。これは、メールコンテンツを印刷物のようなデジタル形式で、デバイスやワークフロー間でレイアウトが安定した状態で保存する必要がある場合に有用です。
+
+Python API を使用することで、MBOX から XPS への変換を自動化し、文書の保持、制御された配布、構造化された環境でのメールボックスアーカイブの大量処理をサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **固定レイアウトメール保存**
+  メッセージを XPS ファイルに変換し、一貫した視覚的提示と保存を実現します。
+
+* **制御されたデジタル配布**
+  レイアウトの忠実性を保った安定した形式でメールボックスコンテンツを共有します。
+
+* **構造化アーカイブ出力**
+  組織的な文書保持とレビューのワークフローに XPS を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された固定形式生成**
+  繰り返し可能な Python プロセスを通じて MBOX ファイルを XPS 文書に変換します。
+
+* **保持ワークフロー統合**
+  変換されたメールレコードをアーカイブおよびガバナンスシステムに移行します。
+
+* **大規模メールボックス処理**
+  アーカイブされたメッセージをバッチ変換し、一貫した固定レイアウトの出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

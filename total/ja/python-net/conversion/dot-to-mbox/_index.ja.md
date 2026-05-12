@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から MBOX への変換は、文書テンプレートをグループ化されたメールメッセージの取り扱いに適したメールボックス形式のストレージに変換します。これは、テンプレートコンテンツをメールアーカイブや移行ワークフローに組み込む必要がある場合に便利です。
+
+Python API を使用することで、組織は DOT ファイルから MBOX 互換の出力を自動的に作成でき、メッセージのパッケージ化とアーカイブ準備を効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールボックスアーカイブの準備**
+  DOT ベースのコミュニケーションテンプレートを MBOX 互換の構造に変換します。
+
+* **グループ化されたメッセージの保存**
+  メールボックス形式の出力を使用して、複数のテンプレート駆動型コミュニケーションを収集します。
+
+* **移行ワークフローのサポート**
+  文書ベースのコンテンツをメールアーカイブの移行および保持プロセスのために準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたアーカイブ組み立て**
+  Python スクリプトは、DOT コンテンツを保持ワークフロー用の MBOX 対応出力に変換できます。
+
+* **大量コミュニケーションのパッケージ化**
+  変換は、テンプレート由来のメッセージをプログラム的にグループ化し、メールボックス形式にまとめることをサポートします。
+
+* **スケーラブルなメール移行のサポート**
+  動的なプロセスは、文書生成されたコミュニケーションをアーカイブに適した構造へ移行するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

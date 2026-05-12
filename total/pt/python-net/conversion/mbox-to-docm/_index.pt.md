@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para DOCM converte arquivos de correio em documentos Word com macros habilitadas, permitindo que o conteúdo dos e‑mails seja preservado em um formato que pode suportar fluxos de trabalho avançados de documentos. Isso é útil quando os arquivos convertidos precisam permanecer compatíveis com sistemas de documentos que dependem de automação incorporada ou lógica personalizada.
+
+Usando APIs Python, as equipes podem automatizar a conversão de MBOX para DOCM para simplificar o processamento de arquivos de correio, apoiar fluxos de trabalho baseados em modelos e gerar saídas estruturadas para operações centradas em documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Fluxos de Trabalho de Documentos com Macros**
+  Exportar o conteúdo de e‑mails para arquivos DOCM para sistemas que utilizam comportamento automatizado de documentos.
+
+* **Reuso Estruturado de Conteúdo de E‑mail**
+  Preservar mensagens em um formato adequado para edição avançada e processamento controlado.
+
+* **Empacotamento Operacional de Documentos**
+  Preparar arquivos derivados de e‑mails para ambientes construídos em torno de recursos de automação do Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação de E‑mail Baseada em Modelos**
+  Converter entradas de caixa de correio em saídas DOCM alinhadas com fluxos de trabalho internos de documentos.
+
+* **Processamento Automatizado de Escritório**
+  Alimentar documentos de e‑mail convertidos em pipelines de revisão e formatação scriptados.
+
+* **Transformação de Arquivo Escalável**
+  Usar Python para converter em lote o conteúdo de MBOX em ativos de documentos com macros habilitadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

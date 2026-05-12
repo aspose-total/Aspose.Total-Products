@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用したテキストから OFT への変換により、プレーンテキストコンテンツを再利用可能なメールテンプレートファイルに変換できます。これは、繰り返しのコミュニケーション、内部ワークフロー、またはユーザー主導のメッセージ作成のために標準化されたメッセージ形式が必要な組織にとって価値があります。
+
+この変換は、テキストをテンプレート準備済みの資産に変換することで、キャンペーン、サービス運用、通知システム全体で再利用できるようにし、一貫性、効率、スケーラビリティの向上を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **再利用可能なメールテンプレートの作成**  
+  テキストを OFT テンプレートに変換し、繰り返し可能なコミュニケーションワークフローを実現します。
+
+* **標準化されたメッセージング**  
+  繰り返し送信されるメールコンテンツ全体で、一貫した構造と文言を確保します。
+
+* **運用ドラフトの作成支援**  
+  送信前にメッセージをカスタマイズするチーム向けに、テンプレートファイルの生成をサポートします。
+
+* **プロセス主導のコミュニケーション設計**  
+  構造化されたテキストコンテンツをビジネスオペレーション向けの再利用可能な資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  自動化により、承認済みテキストを OFT テンプレートに変換し、繰り返し使用できます。
+
+* **ワークフローベースのドラフト作成**  
+  システムは動的テキストソースから再利用可能なメールドラフトを生成できます。
+
+* **スケーラブルなメッセージ標準化**  
+  プログラムによる変換により、部門やプロセス全体でテンプレートの一貫性を維持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

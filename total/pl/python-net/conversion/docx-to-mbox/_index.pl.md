@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCX do MBOX w a
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCX do MBOX umożliwia przekształcenie zawartości dokumentu w pliki archiwum skrzynki pocztowej używane do przechowywania kolekcji wiadomości e‑mail. Ten proces pozwala na integrację informacji z dokumentu w strukturach archiwum e‑mail.
+
+Interfejsy API Pythona umożliwiają automatyczne generowanie plików skrzynki pocztowej z zawartości dokumentu, wspierając archiwa komunikacji i zautomatyzowane przepływy pracy wiadomości.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie archiwum e‑mail**  
+  Konwertuje zawartość DOCX do plików archiwum skrzynki pocztowej.
+
+* **Rekordy komunikacji dokumentów**  
+  Przechowuje wiadomości oparte na dokumentach w archiwach skrzynki pocztowej.
+
+* **Przepływy migracji e‑mail**  
+  Umożliwia włączenie zawartości dokumentu do eksportów skrzynki pocztowej.
+
+* **Integracja systemu wiadomości**  
+  Pozwala na pakowanie informacji z dokumentu w archiwach e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie skrzynki pocztowej**  
+  Systemy mogą konwertować dokumenty do plików archiwum MBOX.
+
+* **Przetwarzanie wsadowe archiwów e‑mail**  
+  Skrypty Pythona mogą generować archiwa skrzynki pocztowej z kolekcji dokumentów.
+
+* **Korporacyjne potoki wiadomości**  
+  Dane dokumentu mogą być automatycznie przekształcane do formatów skrzynki pocztowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

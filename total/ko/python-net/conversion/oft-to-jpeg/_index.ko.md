@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 JPEG로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 JPEG로의 변환은 Outlook 이메일 템플릿을 저장, 공유 및 삽입하기 쉬운 압축 이미지 파일로 변환합니다. 이는 템플릿 시각 자료를 효율적으로 배포하면서 품질과 파일 크기 사이의 실용적인 균형을 유지해야 할 때 유용합니다.
+
+이 변환은 빠른 이미지 생성, 효율적인 콘텐츠 배포 및 미리보기 시스템, 보고서, 아카이브에서의 확장 가능한 사용을 가능하게 하여 자동화를 지원합니다. 이는 컴팩트한 시각 출력이 필요한 워크플로에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **컴팩트 시각 공유**  
+  팀 및 시스템 전반에 효율적으로 배포하기 위해 OFT 템플릿을 JPEG 파일로 변환합니다.
+
+* **삽입된 미리보기 자산**  
+  보고서, 대시보드 또는 이메일 템플릿 스냅샷을 표시하는 포털에서 JPEG 출력을 사용합니다.
+
+* **스토리지 효율적인 아카이빙**  
+  대규모 저장소에 적합한 압축 형식으로 템플릿 시각 자료를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 썸네일 생성**  
+  콘텐츠 카탈로그 및 관리 인터페이스를 위해 OFT 파일에서 JPEG 미리보기를 생성합니다.
+
+* **대용량 변환 파이프라인**  
+  확장 가능한 저장 및 검색을 위해 템플릿 라이브러리를 컴팩트 이미지로 처리합니다.
+
+* **동적 보고 통합**  
+  자동 보고 및 검토 워크플로에 템플릿의 JPEG 표현을 삽입합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

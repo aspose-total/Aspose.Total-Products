@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a VCF trasforma i modelli Word abilitati alle macro in file di contatto vCard, rendendo le informazioni di contatto basate su documento più facili da condividere e importare nei sistemi di rubrica. È utile quando i modelli contengono dati su persone, organizzazioni o comunicazioni che devono diventare record di contatto strutturati.
+
+L'uso delle API Python per la conversione da DOTM a VCF aiuta ad automatizzare la generazione di contatti a partire da fonti documentali, riducendo l'inserimento manuale e migliorando la coerenza dei dati. Questo supporta l'onboarding scalabile, la gestione delle directory e i flussi di lavoro correlati al CRM.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di record di contatto**
+  Converti i dettagli di contatto dai modelli DOTM in file VCF per una facile condivisione e importazione.
+
+* **Riutilizzo dei dati della directory**
+  Riproponi le informazioni strutturate dei documenti in schede di contatto digitali standardizzate.
+
+* **Scambio di contatti orientato al flusso di lavoro**
+  Consenti il semplice spostamento dei dati di contatto tra documenti e sistemi di rubrica.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Estrazione automatica dei contatti**
+  I flussi di lavoro possono generare file VCF da modelli DOTM contenenti dettagli personali o organizzativi.
+
+* **Supporto alla sincronizzazione della directory**
+  La conversione aiuta i sistemi automatizzati a creare record di contatto pronti per l'importazione a partire dai documenti.
+
+* **Generazione di contatti in blocco**
+  L'elaborazione programmatica supporta la trasformazione ad alto volume di file DOTM in file VCF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

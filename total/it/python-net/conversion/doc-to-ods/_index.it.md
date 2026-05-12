@@ -65,7 +65,39 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a ODS trasforma il contenuto di Word in file di foglio di calcolo OpenDocument, rendendo i dati strutturati più facili da revisionare, calcolare e condividere nei flussi di lavoro di office aperto. È utile quando tabelle o registri di documenti necessitano di funzionalità di foglio di calcolo in un formato aperto.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Conversione di foglio di calcolo aperto**
+  Sposta le tabelle del documento in ODS per ordinamento, calcolo e revisione strutturata.
+
+* **Condivisione dati interoperabile**
+  Utilizza l'output ODS quando è preferito lo scambio di fogli di calcolo in formato aperto.
+
+* **Estrazione dati operativi**
+  Converti il contenuto ricorrente del documento in risorse di foglio di calcolo riutilizzabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazioni dati automatizzate**
+  Genera file ODS da input DOC per pipeline di reporting in office aperto.
+
+* **Elaborazione di fogli di calcolo in blocco**
+  Converti i record basati su documenti in output di fogli di calcolo su larga scala.
+
+* **Flussi di lavoro di integrazione di sistema**
+  Collega programmaticamente l'estrazione dei documenti con la gestione dei dati in formato aperto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

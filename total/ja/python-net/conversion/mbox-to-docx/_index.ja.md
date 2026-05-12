@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から DOCX への変換は、メールアーカイブを最新の Word ドキュメントに変換し、メッセージ内容の編集、保存、標準的なビジネス環境での共有を容易にします。特に、メールボックスデータをクリーンでポータブル、かつ広くサポートされたドキュメント形式で利用したい組織に有用です。
+
+Python API を使用することで、MBOX から DOCX へのワークフローを大規模なコンテンツ変換向けに自動化でき、業務効率、ドキュメントの一貫性、デジタル記録システムとの統合を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **モダンなドキュメント変換**
+  メールボックスのコンテンツを DOCX ファイルに変換し、広範な互換性と簡単な編集を実現します。
+
+* **メールレコード管理**
+  重要なメッセージを構造化されたドキュメント形式で保存し、長期的に利用できるようにします。
+
+* **コラボレーション対応エクスポート**
+  変換されたメールコンテンツを、レビューやチームワークフローに適した形式で共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量メールからドキュメントへの処理**
+  アーカイブされたメールを自動的に DOCX ファイルに変換し、整理された保存を実現します。
+
+* **ワークフローの標準化**
+  再利用可能な Python スクリプトを使用して、メールボックスデータから一貫したドキュメント出力を作成します。
+
+* **統合コンテンツパブリッシング**
+  変換されたメールコンテンツをレポート、法務、または管理パイプラインに移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

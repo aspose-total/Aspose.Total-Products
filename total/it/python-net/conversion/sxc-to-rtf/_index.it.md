@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a RTF trasforma le informazioni dei fogli di calcolo in un formato di testo ricco che bilancia leggibilità, portabilità e ampia compatibilità con gli ambienti di editing del testo. È utile quando il contenuto del foglio di calcolo deve essere condiviso come testo formattato mantenendo l'accessibilità in un'ampia gamma di sistemi.
+
+Utilizzando le API Python, la conversione da SXC a RTF aiuta ad automatizzare la generazione di documenti leggeri per la comunicazione, l'archiviazione e lo scambio di contenuti cross‑platform senza dipendere da complesse dipendenze documentali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Condivisione di testo cross‑platform**  
+  Converte il contenuto del foglio di calcolo in un formato che può essere aperto da molte applicazioni in grado di gestire testo.
+
+* **Esportazione di contenuti formattati**  
+  Preserva la struttura di base e la leggibilità quando si trasferiscono i dati nei flussi di lavoro dei documenti di testo.
+
+* **Documentazione leggera**  
+  Supporta la creazione di file formattati portabili per riepiloghi, note e report semplici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Output automatizzato di documenti di testo**  
+  Utilizza le API Python per convertire i file SXC in documenti RTF per flussi di lavoro di reporting leggeri.
+
+* **Pipeline di ampia compatibilità**  
+  Consente l'esportazione di contenuti per sistemi che richiedono documenti di testo semplici, formattati e portabili.
+
+* **Flussi di lavoro di conversione batch**  
+  Supporta la conversione programmatica di più file di fogli di calcolo in output basati su testo accessibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

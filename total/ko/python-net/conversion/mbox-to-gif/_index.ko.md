@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 GIF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX를 GIF로 변환하면 메일함 내용을 가볍고 미리 보기, 공유, 시각적 워크플로에 삽입하기 쉬운 이미지 파일로 바꿉니다. 이는 이메일 메시지를 보고, 보관 또는 빠른 참조를 위해 압축된 그래픽으로 표현해야 할 때 유용합니다.
+
+Python API를 통해 조직은 배치 메일함 렌더링을 위한 GIF 변환을 자동화하고, 출력 이동성을 향상시키며, 이미지 기반 레코드를 사용하는 시스템과의 통합을 간소화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **간결한 시각 이메일 내보내기**
+  메시지를 가벼운 GIF 파일로 변환하여 간단히 보고 공유할 수 있습니다.
+
+* **미리 보기 및 보고 자산**
+  대시보드, 요약, 또는 내부 시각 문서에 이미지 출력을 활용합니다.
+
+* **정적 메시지 보존**
+  편집이 불가능한 그래픽 형식으로 이메일 내용의 모습을 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 이미지 렌더링**
+  메일함 메시지를 자동으로 GIF 파일로 변환하여 빠른 시각 출력 생성을 가능하게 합니다.
+
+* **임베디드 워크플로 지원**
+  변환된 이메일 그래픽을 보고서, 포털 또는 모니터링 시스템에 삽입합니다.
+
+* **Python 기반 아카이브 내보내기**
+  프로그래밍 처리 규칙을 사용해 이미지 기반 메일함 변환을 확장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

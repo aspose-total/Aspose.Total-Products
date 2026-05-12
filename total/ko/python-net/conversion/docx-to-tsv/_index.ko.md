@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX를 TSV로 변환하면 워드 프로세싱 문서를 탭으로 구분된 값 형식으로 변환하여 구조화된 정보를 가벼운 텍스트 기반 데이터 파일로 추출할 수 있습니다. 이 형식은 문서 기반 표와 정리된 콘텐츠를 분석 또는 교환 워크플로우로 이동하는 데 유용합니다.
+
+Python API를 사용하면 DOCX‑to‑TSV 변환을 데이터 준비 시스템, 콘텐츠 추출 파이프라인 및 엔터프라이즈 통합 워크플로우에서 자동화할 수 있습니다. 이는 문서 콘텐츠를 기계가 읽을 수 있는 표 형식으로 확장 가능하게 변환하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **표 데이터 추출**  
+  DOCX 표와 구조화된 정보를 텍스트 기반 표 파일로 변환합니다.
+
+* **시스템 간 데이터 교환**  
+  플랫폼 간에 구조화된 콘텐츠를 가볍게 전송할 수 있게 합니다.
+
+* **분석 및 처리 준비**  
+  문서에서 파생된 데이터를 하위 분석 도구를 위해 준비하는 데 도움을 줍니다.
+
+* **문서‑텍스트 워크플로우 통합**  
+  정리된 콘텐츠를 휴대 가능한 표 형식으로 내보내는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 데이터 내보내기 파이프라인**  
+  시스템은 DOCX 파일을 처리 워크플로우용 TSV 출력으로 변환할 수 있습니다.
+
+* **배치 구조화 콘텐츠 추출**  
+  Python 스크립트를 사용해 여러 문서를 프로그래밍 방식으로 탭 구분 데이터셋으로 변환할 수 있습니다.
+
+* **엔터프라이즈 통합 자동화**  
+  문서 콘텐츠를 보고서 또는 데이터베이스 시스템이 수집하도록 TSV 형식으로 내보낼 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

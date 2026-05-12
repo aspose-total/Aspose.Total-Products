@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a OTT in Python consente ai file di modello Excel di essere convertiti in modelli di testo a documento aperto che possono essere riutilizzati per una generazione coerente di documenti. Questo è prezioso quando i modelli di foglio di calcolo devono diventare modelli di documento a formato aperto standardizzati che supportano la creazione ripetibile di contenuti tra team e sistemi.
+
+In ambienti automatizzati, la conversione da XLT a OTT rafforza la governance dei modelli e i flussi di lavoro di contenuti riutilizzabili. Aiuta le organizzazioni a costruire risorse di modello aperte e scalabili a partire da fonti di fogli di calcolo e a integrarle nei pipeline di generazione programmatica di documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli Aperti**  
+  Converti i file XLT in modelli OTT per una generazione di documenti riutilizzabile e basata su standard.
+
+* **Progettazione Coerente dei Documenti**  
+  Utilizza modelli di testo aperti per mantenere una formattazione e una struttura uniformi tra le uscite.
+
+* **Sviluppo di una Libreria di Modelli**  
+  Crea risorse di modello riutilizzabili a partire da contenuti di origine foglio di calcolo per un utilizzo operativo a lungo termine.
+
+* **Standardizzazione Flessibile dei Flussi di Lavoro**  
+  Supporta i processi di creazione di documenti che beneficiano di formati di modello aperti e portabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Pipeline di Automazione dei Modelli**  
+  Utilizza le API Python per generare file OTT da modelli XLT per flussi di lavoro documentali ripetibili.
+
+* **Framework di Documenti Riutilizzabili**  
+  Alimenta gli output OTT nei sistemi che popolano i modelli dinamicamente con dati operativi.
+
+* **Integrazione di Standard Aperti**  
+  Incorpora i modelli convertiti negli ecosistemi di automazione che richiedono formati interoperabili.
+
+* **Migrazione Scalabile dei Modelli**  
+  Converti lotti di file XLT in modelli OTT per riutilizzo centralizzato ed efficienza dei processi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLT から DOC への変換は、レガシーな Excel テンプレート ファイルを標準的な Word 文書に変換し、共有・レビュー・業務文書化を容易にします。これは、スプレッドシートベースのレイアウト、表形式データ、または構造化テンプレートを、正式なレポートや文書化ワークフローをサポートする読みやすいテキスト文書に変換する必要がある組織にとって価値があります。
+
+最新の自動化環境では、XLT から DOC への変換により、スプレッドシート駆動のプロセスと文書中心のシステムを橋渡しします。テンプレート コンテンツを編集可能な Word ファイルに流し込むことで、生成・配布・アーカイブ、または大規模な文書自動化パイプラインへの統合が可能になり、業務効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **テンプレートベースのレポート生成**  
+  スプレッドシート テンプレートを Word 文書に変換し、業務レポート、サマリー、内部記録を作成します。
+
+* **文書の標準化**  
+  XLT ファイルを DOC 形式に変換し、スプレッドシート コンテンツを従来の文書管理慣行に合わせます。
+
+* **編集可能なコンテンツ共有**  
+  チームが広く使用されているワードプロセッサ形式で変換されたコンテンツをレビューおよび編集できるようにします。
+
+* **レガシーワークフローのサポート**  
+  古いスプレッドシート テンプレートの有用性を保持し、テキストベースの文書として再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ文書変換**  
+  定期的な文書化ニーズに対応するため、XLT テンプレートを DOC ファイルに大量に自動変換します。
+
+* **レポートパイプライン**  
+  Python API を使用して、スプレッドシート テンプレートから DOC 出力を生成し、スケジュールされたレポート ワークフローの一部とします。
+
+* **コンテンツ配信システム**  
+  文書を自動的に変換し、承認、保存、または通信システムへの下流ルートに送ります。
+
+* **アーカイブ処理**  
+  古い XLT ベースのコンテンツを DOC 形式に標準化し、長期保存とアクセシビリティを確保します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

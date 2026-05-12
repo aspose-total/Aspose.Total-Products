@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de documento para XLT transforma o conteúdo do Word em arquivos de modelo de planilha que suportam a criação repetível de pastas de trabalho e a padronização. É útil quando estruturas derivadas de documentos precisam se tornar bases de planilhas reutilizáveis.
+
+Com APIs Python, a conversão de DOC para XLT pode ser automatizada para geração consistente de modelos, reutilização operacional e produção simplificada de planilhas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Modelo de Planilha**
+  Converta o conteúdo estruturado do documento em modelos de planilha reutilizáveis.
+
+* **Design Padronizado de Pastas de Trabalho**
+  Use a saída XLT para manter layouts consistentes e estruturas de dados.
+
+* **Formulários de Negócio Reutilizáveis**
+  Reaproveite documentos em modelos de pastas de trabalho para uso repetido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação da Biblioteca de Modelos**
+  Gere automaticamente arquivos XLT a partir de material fonte baseado em DOC.
+
+* **Configuração Repetível de Planilhas**
+  Produza programaticamente modelos de pastas de trabalho a partir de documentos padronizados.
+
+* **Reutilização Operacional de Conteúdo**
+  Converta formulários e relatórios recorrentes em ativos de planilha baseados em modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

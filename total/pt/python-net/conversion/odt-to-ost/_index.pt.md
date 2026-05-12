@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODT para OST converte o conteúdo de documentos para um formato associado a fluxos de trabalho de dados de caixa de correio offline, onde o conteúdo pode precisar ser reutilizado para armazenamento, migração ou empacotamento relacionado à comunicação. Isso pode ser útil em cenários especializados de arquivamento ou de mensagens corporativas.
+
+Usando APIs Python, a conversão de ODT para OST pode suportar a transformação automatizada de documentos quando a integração com processos de armazenamento no estilo de caixa de correio é necessária. Ela melhora a repetibilidade e reduz o esforço de preparação manual em ambientes orientados a mensagens.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Empacotamento Orientado a Caixa de Correio**  
+  Converte o conteúdo de documentos para uso em fluxos de trabalho de armazenamento de mensagens offline.
+
+* **Suporte a Arquivamento**  
+  Ajuda a preservar texto reutilizado em formatos de armazenamento relacionados à comunicação.
+
+* **Preparação para Migração**  
+  Auxilia na transferência de conteúdo derivado de documentos para ecossistemas de caixa de correio.
+
+* **Conversão de Registros Estruturados**  
+  Suporta processos empresariais que combinam documentos e artefatos de mensagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Empacotamento Automatizado de Conteúdo**  
+  Scripts Python podem transformar arquivos ODT em saídas relacionadas a caixas de correio em fluxos de trabalho definidos.
+
+* **Processamento de Arquivamento em Lote**  
+  Grandes repositórios de documentos podem ser convertidos para tarefas de armazenamento centradas na comunicação.
+
+* **Integração de Pipeline de Migração**  
+  Jobs automatizados podem preparar o conteúdo convertido para o manuseio subsequente da caixa de correio.
+
+* **Suporte ao Fluxo de Trabalho de Retenção**  
+  Saídas derivadas de documentos podem ser geradas de forma consistente para a manutenção de registros a longo prazo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

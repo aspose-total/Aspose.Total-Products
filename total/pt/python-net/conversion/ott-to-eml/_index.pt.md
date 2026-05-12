@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para EML nas APIs Python converte modelos de texto OpenDocument em arquivos de mensagem de e‑mail padrão que preservam a estrutura da mensagem para armazenamento, transferência e tratamento subsequente. Isso é útil quando o conteúdo do documento precisa se tornar artefatos de e‑mail portáteis.
+
+A conversão suporta automação ao permitir a geração de arquivos de e‑mail orientada por documentos, que podem ser arquivados, revisados, importados ou processados por sistemas compatíveis com e‑mail em fluxos de trabalho repetíveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Geração de Arquivo de E‑mail**  
+  Produz arquivos de mensagem padrão a partir de modelos de documento reutilizáveis.
+
+* **Preparação para Arquivamento**  
+  Cria artefatos de e‑mail adequados para registro e transferência.
+
+* **Entrega ao Sistema**  
+  Suporta fluxos de trabalho que exigem arquivos de mensagem em vez de envio direto de e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Criação em Lote de Rascunhos de E‑mail**  
+  Converte vários modelos OTT em arquivos EML para revisão ou pipelines de entrega.
+
+* **Geração Automatizada de Registros**  
+  Armazena saídas prontas para comunicação como arquivos de e‑mail padrão.
+
+* **Integração com Sistemas de Processamento de E‑mail**  
+  Alimenta os arquivos EML gerados em fluxos de ingestão, arquivamento ou conformidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

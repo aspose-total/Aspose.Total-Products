@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から PPS への変換は、スプレッドシートの内容を直接表示用に設計されたプレゼンテーションスライドショーファイルに変換します。これは、スプレッドシートベースのレポートや要約を、追加の編集作業なしですぐに提示できる形式で提供する必要がある場合に便利です。
+
+自動化ユースケースでは、XLSX から PPS への変換は、構造化されたスプレッドシートデータから直接スライドショー用の出力を生成することで、レポート作成とプレゼンテーション配信を効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **すぐに表示できるレポート**  
+  スプレッドシート情報を、すぐに提示できるスライドショーファイルに変換します。
+
+* **会議プレゼンテーションの準備**  
+  データをプレゼンテーション用資料に変換する際の手作業を削減します。
+
+* **業務ブリーフィングの配布**  
+  直接プレゼンテーションファイルが必要なチーム向けに、スライドショー出力の迅速な作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー配信**  
+  システムは、定期的なスプレッドシートレポートから PPS ファイルを生成し、会議で即座に使用できます。
+
+* **プレゼンテーションワークフローの簡素化**  
+  変換により、スプレッドシート駆動のプレゼンテーションを公開するための手順が削減されます。
+
+* **定期的な表示コンテンツの生成**  
+  プログラムによる変換は、更新された XLSX ソースからスライドショーファイルをスケジュール通りに作成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 FLATOPC로 변�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 FlatOPC 변환은 메일함 아카이브를 구조화된 문서 표현 및 상호 운용성을 위해 사용되는 평면 XML 패키지 형식으로 변환합니다. 이는 문서 투명성, XML 기반 조작 또는 변환된 이메일 콘텐츠의 상세 처리를 필요로 하는 워크플로에 유용합니다.
+
+Python API를 사용하여 팀은 MBOX에서 FlatOPC 변환을 자동화하여 데이터 교환, XML 기반 검증 및 기계 판독 가능한 문서 구조에 의존하는 시스템과의 통합을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 처리**
+  이메일을 FlatOPC로 변환하여 구조화된 검사 및 하위 변환을 수행합니다.
+
+* **상호 운용 가능한 아카이브 교환**
+  메일함 콘텐츠를 시스템 간 문서 전송에 적합한 형식으로 보존합니다.
+
+* **상세 콘텐츠 표현**
+  맞춤형 처리 요구를 위해 변환된 문서 구조에 대한 저수준 접근을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **기계 판독 가능한 변환 파이프라인**
+  XML 중심 워크플로를 위해 MBOX 파일에서 FlatOPC 출력을 자동으로 생성합니다.
+
+* **검증 및 변환 자동화**
+  Python을 사용하여 이메일에서 파생된 XML 패키지를 프로그래밍 방식으로 검사하고 변환합니다.
+
+* **구조화된 시스템과의 통합**
+  변환된 메일함 콘텐츠를 투명한 문서 형식을 요구하는 엔터프라이즈 프로세스에 공급합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

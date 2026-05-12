@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT vers MBOX transforme les modèles de documents en un format de stockage de type boîte aux lettres, adapté à la gestion groupée des messages électroniques. Cela est utile lorsque le contenu des modèles doit être assemblé dans une archive d'e‑mail ou des flux de migration.
+
+En utilisant les API Python, les organisations peuvent automatiser la création de sorties compatibles MBOX à partir de fichiers DOT, facilitant ainsi la rationalisation de l'emballage des messages et la préparation de l'archivage.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation d'archive de boîte aux lettres**
+  Convertir les modèles de communication basés sur DOT en structures compatibles MBOX.
+
+* **Stockage groupé de messages**
+  Utiliser la sortie au format boîte aux lettres pour collecter plusieurs communications générées à partir de modèles.
+
+* **Support du flux de travail de migration**
+  Préparer le contenu basé sur des documents pour le déplacement d'archives d'e‑mail et les processus de conservation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Assemblage d'archive automatisé**
+  Les scripts Python peuvent convertir le contenu DOT en sorties prêtes pour MBOX afin des flux de travail de conservation.
+
+* **Regroupement massif de communications**
+  La conversion prend en charge le regroupement programmatique des messages dérivés de modèles dans des formats de boîte aux lettres.
+
+* **Support évolutif de la migration d'e‑mail**
+  Les processus dynamiques aident à transférer les communications générées à partir de documents vers des structures adaptées à l'archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

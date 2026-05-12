@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLSM para WordML converte o conteúdo de planilhas habilitadas para macro em um formato de processamento de texto baseado em XML projetado para a representação estruturada de documentos. É útil quando as organizações precisam de saídas de documentos que se alinhem com sistemas centrados em XML, fluxos de trabalho de transformação de conteúdo ou ambientes focados em integração.
+
+Do ponto de vista da automação, o WordML oferece suporte ao manuseio programático, análise estruturada e integração mais fácil com sistemas que dependem da troca de conteúdo baseada em XML. APIs Python tornam a conversão de XLSM para WordML eficaz para transformação de documentos em escala e pipelines de fluxo de trabalho legíveis por máquinas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Geração de Documentos Baseada em XML**
+  Converte dados de planilhas em um formato de processamento de texto estruturado adequado para integração de sistemas.
+
+* **Fluxos de Trabalho de Conteúdo Legíveis por Máquina**
+  Ajuda as organizações a gerenciar as saídas de documentos em um formato mais fácil de analisar e transformar.
+
+* **Troca Estruturada de Documentação**
+  Suporta a movimentação de conteúdo derivado de planilhas para ambientes de processamento compatíveis com XML.
+
+* **Publicação Orientada à Integração**
+  Permite a geração de documentos para fluxos de trabalho que priorizam modelos de conteúdo estruturado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Documentos XML Programáticos**
+  APIs Python podem converter arquivos XLSM em saídas WordML para fluxos de trabalho de documentos orientados por sistemas.
+
+* **Transformação em Lote de Conteúdo Estruturado**
+  Múltiplas planilhas podem ser convertidas programaticamente em documentos baseados em XML em escala.
+
+* **Suporte a Fluxos de Trabalho de Integração**
+  Saídas WordML podem alimentar sistemas subsequentes que requerem documentos estruturados e processáveis por máquinas.
+
+* **Troca de Conteúdo Automatizada**
+  A conversão ajuda a conectar fontes de planilhas com processos de publicação, armazenamento e transformação baseados em XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

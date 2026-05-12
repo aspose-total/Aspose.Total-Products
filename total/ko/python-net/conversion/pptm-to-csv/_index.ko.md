@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PPTM에서 CSV로의 변환은 슬라이드 기반 표형식 또는 구조화된 프레젠테이션 데이터를 행과 열을 위해 설계된 단순하고 휴대 가능한 텍스트 형식으로 추출할 수 있게 합니다. 이는 보고 파이프라인, 데이터 분석 환경 및 경량 통합 워크플로우에서 프레젠테이션 콘텐츠를 재사용해야 하는 조직에 유용합니다.
+
+이 변환 방식은 프레젠테이션에서 파생된 정보를 검증, 변환 및 시스템 간 이동이 용이한 기계 판독 가능 데이터세트로 전환함으로써 자동화를 지원합니다. 매크로가 포함된 프레젠테이션 파일에서 대규모로 구조화된 데이터를 캡처해야 하는 문서 처리 워크플로우에서 운영 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **분석을 위한 데이터 추출**
+  프레젠테이션 기반 표를 분석 및 보고에 적합한 구조화된 레코드로 변환합니다.
+
+* **데이터 파이프라인에서 콘텐츠 재사용**
+  슬라이드 콘텐츠를 스크립트, 데이터베이스 및 자동화 도구에 쉽게 가져올 수 있게 합니다.
+
+* **구조화된 프레젠테이션 데이터 보관**
+  중요한 표형식 정보를 경량이며 상호 운용 가능한 형식으로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 프레젠테이션 처리**
+  여러 PPTM 파일을 CSV 출력으로 자동 변환하여 하위 처리에 활용합니다.
+
+* **자동화된 보고 워크플로**
+  프레젠테이션 데이터를 정기 보고 및 대시보드 파이프라인에 추출하는 작업을 지원합니다.
+
+* **데이터 정규화 파이프라인**
+  내보낸 슬라이드 데이터를 시스템 통합을 위해 프로그램matically 정리 및 재구성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

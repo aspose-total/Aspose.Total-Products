@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to OST 変換は、リッチテキスト文書を同期メール環境で使用されるオフラインメールボックスデータ構造に変換します。これにより、文書コンテンツがオフラインメール処理およびローカルアクセス要件と一致しなければならない、特殊な移行、ストレージ、またはワークフローシナリオをサポートできます。
+
+自動化において、RTF to OST は文書ベースのコンテンツとメールボックス指向のプロセスを橋渡しし、アーカイブ、同期サポート、制御されたコミュニケーションデータワークフローのための構造化変換を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オフラインメールコンテンツの準備**  
+  ドキュメントコンテンツをオフラインメールボックスの使用シナリオに合わせた形式に変換します。
+
+* **移行ワークフロー支援**  
+  テキストベースのコミュニケーションデータをメール環境の移行に再利用できるよう支援します。
+
+* **ローカルアクセスレコードの構造化**  
+  オフラインでの参照と管理のために、メッセージ指向のコンテンツの整理をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化メールデータ準備**  
+  システムはRTFコンテンツを制御されたワークフロー向けにメールボックス互換の構造に変換できます。
+
+* **同期サポートプロセス**  
+  プログラムによる変換は、ドキュメント由来のコンテンツをローカルメールストレージの要件に合わせるのに役立ちます。
+
+* **保持および移行パイプライン**  
+  バッチワークフローは、準備されたテキストをメールデータの移動と保存に適した形式に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

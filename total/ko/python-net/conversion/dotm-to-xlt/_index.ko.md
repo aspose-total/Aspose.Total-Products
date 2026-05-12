@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to XLT 변환은 매크로가 포함된 Word 템플릿을 재사용 가능한 스프레드시트 작성을 위한 고전 Excel 템플릿 파일로 변환합니다. 이는 문서 내용이 일회성 스프레드시트 출력이 아니라 반복 가능한 워크북 기반이 되어야 할 때 유용합니다.
+
+DOTM to XLT 변환을 위한 Python API를 사용하면 구조화된 문서 소스에서 재사용 가능한 스프레드시트 템플릿을 자동으로 생성할 수 있습니다. 이는 표준화를 개선하고, 반복적인 스프레드시트 생성 속도를 높이며, 오래된 오피스 환경과의 호환성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 레거시 스프레드시트 템플릿**
+  DOTM 콘텐츠를 XLT로 변환하여 오래된 Excel 워크플로우에서 반복 가능한 워크북을 생성합니다.
+
+* **문서-템플릿 재활용**
+  구조화된 문서 내용을 스프레드시트 기반으로 변환하여 반복적으로 사용할 수 있게 합니다.
+
+* **표준화된 데이터 입력 자산**
+  승인된 문서 구조에서 일관된 템플릿 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 파일 생성**
+  시스템은 DOTM 템플릿에서 XLT 파일을 생성하여 반복 가능한 스프레드시트 워크플로우를 지원합니다.
+
+* **레거시 형식 표준화**
+  이 변환은 호환성이 중요한 오래된 템플릿 형식의 자동화된 제작을 지원합니다.
+
+* **배치 재사용 자산 처리**
+  프로그래밍 작업을 통해 DOTM 파일을 XLT 템플릿으로 확장 가능한 변환이 가능합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

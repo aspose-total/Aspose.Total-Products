@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX から DOTM への変換は、スライドコンテンツを繰り返し利用可能で自動化対応の文書作成に適した、マクロ有効化ドキュメントテンプレート形式に変換します。組織がプレゼンテーション由来のコンテンツを再利用可能なテンプレートに埋め込み、かつ高度な文書機能をサポートする必要がある場合に有用です。
+
+自動化エコシステム内では、PPSX から DOTM への変換によりスケーラブルなテンプレート生成が可能になり、スクリプト化された文書ワークフローをサポートし、Python API を通じてプログラム的に管理することで運用効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ有効テンプレート作成**  
+  プレゼンテーション資料を自動化サポート付きの再利用可能なテンプレートに変換します。
+
+* **標準化された動的文書**  
+  繰り返し可能なロジックを必要とする文書のテンプレートファイル作成を支援します。
+
+* **構造化コンテンツの再利用性**  
+  プレゼンテーションコンテンツを制御されたテンプレート駆動出力に適した形にします。
+
+* **ワークフロー中心のテンプレート設計**  
+  文書生成が内部プロセスに結び付けられた環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート提供**  
+  Python API は、繰り返しのワークフロー向けに PPSX ファイルから DOTM テンプレートを生成できます。
+
+* **動的文書パイプライン**  
+  自動化により、変換されたテンプレートを文書生成システムに供給できます。
+
+* **大量テンプレートの標準化**  
+  大量のプレゼンテーションコンテンツを統一されたマクロ有効テンプレートに変換できます。
+
+* **プロセス対応コンテンツ配信**  
+  プログラム的な変換は、自動化環境全体でのテンプレート配布をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

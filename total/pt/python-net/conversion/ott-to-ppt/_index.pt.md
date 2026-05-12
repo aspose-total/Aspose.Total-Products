@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para PPT nas APIs Python transforma modelos de texto OpenDocument em arquivos de apresentação para compartilhamento e comunicação baseados em slides. Isso é útil quando o conteúdo-fonte rico em texto precisa ser reempacotado em um formato de apresentação para maior acessibilidade e narrativa visual.
+
+A conversão suporta automação ao permitir a criação repetida de ativos de apresentação a partir de modelos de documento padronizados, melhorando a eficiência em relatórios, educação e fluxos de trabalho de comunicação organizacional.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Deck de Slides**  
+  Converte documentos de origem em arquivos de apresentação para compartilhamento.
+
+* **Reaproveitamento de Conteúdo**  
+  Reutiliza texto narrativo ou estruturado em formatos de comunicação visual.
+
+* **Preparação para Reuniões**  
+  Ajuda a transformar o conteúdo de documentos em materiais de apresentação rapidamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Construções Automatizadas de Apresentação**  
+  Gera saídas PPT a partir de fluxos de trabalho recorrentes baseados em OTT.
+
+* **Conversão em Massa de Relatórios**  
+  Converte conjuntos de documentos em formato de deck para atualizações regulares.
+
+* **Entrega Programática de Conteúdo**  
+  Suporta a geração escalável de apresentações a partir de modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

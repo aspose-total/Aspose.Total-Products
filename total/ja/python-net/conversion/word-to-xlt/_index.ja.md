@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から XLT への変換により、ワードプロセッシングのコンテンツをクラシックなスプレッドシートテンプレートファイルに変換し、ワークブックの繰り返し作成が可能になります。文書ベースの構造や繰り返し使用されるデータレイアウトを、レガシー環境で再利用可能なスプレッドシートテンプレートにする必要がある場合に便利です。
+
+自動化環境では、この変換により文書で作成されたコンテンツを繰り返し使用できるワークブックフレームワークに変換し、一貫性とスケールを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レガシーテンプレート作成**
+  文書コンテンツをクラシックなスプレッドシートテンプレートに変換し、繰り返し使用できるようにします。
+
+* **標準化されたワークブックフレームワーク**
+  繰り返し生成されるスプレッドシート出力全体で一貫性を保つのに役立ちます。
+
+* **再利用可能なレポートレイアウト**
+  承認されたコンテンツ構造からワークシートを繰り返し生成することをサポートします。
+
+* **旧システムとの互換性**
+  従来のスプレッドシート環境でテンプレートベースのワークフローを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート提供ワークフロー**
+  ワード文書から XLT ファイルを自動的に生成し、定期的な運用で使用します。
+
+* **繰り返しスプレッドシート自動化**
+  文書から派生したテンプレートを使用してワークブック作成を標準化します。
+
+* **レガシープロセスサポート**
+  古いスプレッドシート標準に依存する既存システムにテンプレート出力を統合します。
+
+* **バッチ再利用可能資産生成**
+  標準化されたソース文書から複数のテンプレートファイルを効率的に生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

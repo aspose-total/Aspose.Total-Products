@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PNG para OFT permite que conteúdo baseado em imagens seja transformado em arquivos de modelo de e‑mail reutilizáveis, ajudando as organizações a padronizar a comunicação construída em torno de entradas visuais. Isso é valioso quando mensagens recorrentes precisam de estrutura consistente ao incorporar gráficos, avisos ou informações baseadas em PNG.
+
+Com APIs Python, a geração de OFT pode ser automatizada para suportar a criação de modelos em escala, melhorar a consistência em fluxos de trabalho de mensagens e simplificar sistemas que dependem de formatos de comunicação repetíveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação Reutilizável de Modelos de E‑mail**  
+  Converte conteúdo PNG em modelos baseados em OFT para comunicações recorrentes.
+
+* **Mensagens Visuais Padronizadas**  
+  Ajuda as equipes a criar formatos de e‑mail repetíveis que incluam informações baseadas em imagens.
+
+* **Design de Comunicação Operacional**  
+  Suporta fluxos de trabalho que precisam de modelos estruturados gerados a partir de ativos PNG.
+
+* **Alcance Orientado por Modelos**  
+  Permite que modelos de e‑mail visualmente informados sejam preparados para envio ou edição futuros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Dinâmica de Modelos**  
+  APIs Python podem criar modelos OFT a partir de entradas PNG para sistemas de comunicação automatizados.
+
+* **Preparação em Lote de Modelos**  
+  Vários layouts de mensagens baseados em PNG podem ser convertidos em arquivos OFT para operações em escala.
+
+* **Padronização de Fluxos de Trabalho**  
+  Os sistemas podem produzir automaticamente modelos de e‑mail visuais consistentes entre departamentos ou processos.
+
+* **Pipelines de Comunicação Disparados**  
+  Aplicações podem gerar modelos OFT sob demanda quando novos ativos baseados em PNG entram no fluxo de trabalho.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

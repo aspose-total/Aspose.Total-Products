@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から BMP への変換により、メールテンプレートのコンテンツをアーカイブ、プレビュー生成、固定レイアウト共有のためのビットマップ画像に変換できます。このプロセスは、視覚的一貫性が重要であり、メッセージベースのコンテンツを静的で広く読み取り可能な画像形式として保存する必要がある場合に価値があります。
+
+最新のワークフローでは、OFT から BMP への変換は、再利用可能なメールテンプレートを画像資産に変換することで、インデックス付け、レビュー、メールクライアントを必要とせずに配布できるようにし、自動化を支援します。これにより、文書処理、レポートパイプライン、視覚的記録管理における運用効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **テンプレートプレビューのアーカイブ**  
+  OFT ファイルを BMP 画像に変換し、メールテンプレートのレイアウトを静的なビジュアル記録として保存します。
+
+* **視覚的コンプライアンスレビュー**  
+  ビットマップ出力を使用して、書式、免責事項、ブランド要素の手動または自動検査を行います。
+
+* **オフライン画像配布**  
+  レンダリングされたメールコンテンツをシンプルな画像形式で共有し、内部レビューや文書化の目的に使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチメールテンプレートレンダリング**  
+  複数の OFT テンプレートを BMP ファイルに変換するプロセスを自動化し、カタログ化と品質チェックを行います。
+
+* **文書ワークフロー統合**  
+  変換された BMP 出力を文書リポジトリ、監査システム、または承認パイプラインにルーティングします。
+
+* **プレビュー生成パイプライン**  
+  OFT テンプレートからダッシュボード、ポータル、コンテンツライブラリ向けに動的に視覚プレビューを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

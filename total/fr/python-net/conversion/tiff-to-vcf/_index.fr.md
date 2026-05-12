@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de TIFF en VCF à l'aide des API Python permet de transformer des documents basés sur des images contenant des informations de contact en formats de cartes de contact structurées pour les carnets d'adresses numériques et les systèmes de communication. Cela est utile lorsque des cartes de visite numérisées, des formulaires ou des enregistrements de contact visuels doivent devenir consultables et réutilisables en tant qu'entrées de contact.
+
+Du point de vue de l'automatisation, la conversion de TIFF en VCF améliore l'efficacité de la capture des contacts, réduit la saisie manuelle des données et prend en charge une intégration évolutive entre l'imagerie documentaire et les flux de travail de gestion des contacts. Elle aide à convertir les données de contact visuelles statiques en informations commerciales exploitables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Numérisation de cartes de visite**
+  Convertit les images TIFF de cartes de contact en enregistrements numériques compatibles VCF.
+
+* **Extraction de contacts basée sur les formulaires**
+  Aide à transformer les documents d'inscription ou de prise en charge numérisés en entrées de contact réutilisables.
+
+* **Population du carnet d'adresses**
+  Permet de transférer les données de contact visuelles vers des systèmes de gestion de contacts structurés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Ingestion automatisée de contacts**
+  Convertit les documents de contact basés sur TIFF en sorties VCF pour une importation immédiate dans le système.
+
+* **Flux de travail de capture de prospects**
+  Prend en charge la transformation automatisée des supports de contact numérisés en enregistrements de prospects structurés.
+
+* **Processus de synchronisation d'annuaire**
+  Permet la création programmatique de cartes de contact numériques à partir de fichiers sources basés sur des images.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

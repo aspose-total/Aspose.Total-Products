@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de texte en e‑mail à l’aide des API Python permet de transformer le contenu en texte brut en messages e‑mail structurés pour la communication, l’archivage et la livraison de flux de travail. Elle est précieuse pour les systèmes qui doivent générer des messages sortants, des modèles réutilisables ou du contenu prêt à être envoyé à partir de sources de texte dynamiques.
+
+Cette approche de conversion favorise l’automatisation en transformant le texte brut en ressources compatibles avec les e‑mail, pouvant être acheminées via des systèmes de notification, des communications client, des pipelines de reporting ou des flux de travail d’entreprise intégrés, avec une plus grande cohérence et rapidité.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Génération automatisée de messages**  
+  Convertit le texte brut en contenu prêt à être envoyé par e‑mail pour les alertes, les mises à jour et les communications transactionnelles.
+
+* **Communication basée sur des modèles**  
+  Aide à standardiser le texte en formats e‑mail structurés pour des messages d’entreprise récurrents.
+
+* **Notifications de flux de travail**  
+  Permet d’envoyer des mises à jour opérationnelles depuis des systèmes automatisés aux destinataires internes ou externes.
+
+* **Pipelines de distribution de contenu**  
+  Permet d’emballer les informations basées sur du texte pour des processus de publication et de diffusion pilotés par e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Livraison d’alertes planifiées**  
+  L’automatisation peut convertir le texte généré en messages e‑mail pour des notifications de statut et des rappels programmés.
+
+* **Communication système‑vers‑utilisateur**  
+  Le texte produit par des applications ou des scripts peut être transformé en e‑mail pour un engagement automatisé des utilisateurs.
+
+* **Flux de travail de messagerie par lots**  
+  De grands ensembles de contenu texte peuvent être convertis programmatiquement en sorties e‑mail pour une distribution évolutive.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

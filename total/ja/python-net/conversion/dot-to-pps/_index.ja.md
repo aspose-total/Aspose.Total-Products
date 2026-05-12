@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から PPS への変換は、文書テンプレートを直接表示用に設計されたプレゼンテーションスライドショーファイルに変換します。これは、コンテンツを編集環境ではなく、プレゼンテーションモードで即座に開く必要がある場合に便利です。
+
+Python API を使用すると、チームはトレーニングセッション、キオスク形式の配信、そして制御されたプレゼンテーション配布ワークフロー向けに DOT から PPS への変換を自動化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **直接スライドショー配信**
+  DOT テンプレートを PPS ファイルに変換し、即座にプレゼンテーションを再生します。
+
+* **制御された閲覧体験**
+  コンテンツを編集向けではなく、表示に最適化された形式で共有します。
+
+* **イベントおよびトレーニング支援**
+  再利用可能な文書テンプレートから、プレゼンテーション用のスライドショー出力を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたスライドショー制作**
+  Python ワークフローは、スケジュールされた使用のために DOT 文書から PPS ファイルを生成できます。
+
+* **表示指向のコンテンツパイプライン**
+  変換により、テンプレートコンテンツを直接プレゼンテーションモードの出力へとルーティングできます。
+
+* **大量のプレゼンテーション展開**
+  プログラム的なプロセスは、多数のテンプレートからスライドショーファイルをスケーラブルに生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

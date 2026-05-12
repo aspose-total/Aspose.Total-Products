@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から OFT への変換は、マクロ対応の Word テンプレートを Outlook のメールテンプレートファイルに変換し、再利用可能なコミュニケーションワークフローを実現します。これは、組織が構造化された文書コンテンツを一貫したアウトリーチや社内メッセージング向けの繰り返し使用できるメールテンプレートに変換する必要がある場合に有用です。
+
+DOTM から OFT への変換に Python API を使用すると、文書ソースから直接再利用可能なメールテンプレートを生成できるため、Automation がサポートされます。生産性が向上し、メッセージの書式が標準化され、ビジネスプロセス向けのコミュニケーション資産をスケーラブルに作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なメールテンプレートの生成**
+  DOTM コンテンツを OFT ファイルに変換し、標準化されたコミュニケーションで繰り返し使用できるようにします。
+
+* **ドキュメント駆動のメッセージ設計**
+  構造化されたドキュメントテンプレートを、手動でコンテンツを再作成することなくメールテンプレートに変換します。
+
+* **一貫したコミュニケーション資産**
+  承認された文言とフォーマットを再利用可能なメールテンプレートファイルに保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート公開**
+  システムは DOTM テンプレートから OFT ファイルを作成し、繰り返しのコミュニケーションワークフローに利用できます。
+
+* **メッセージ標準化パイプライン**
+  この変換により、大規模に一貫したメールテンプレートの自動生成が可能になります。
+
+* **大量テンプレート作成**
+  プログラムによる処理で、ドキュメントライブラリから OFT ファイルをバッチ生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

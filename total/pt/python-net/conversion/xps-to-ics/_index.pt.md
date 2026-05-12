@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XPS para ICS com APIs Python permite que informações de documentos de layout fixo sejam transformadas em arquivos compatíveis com calendários que suportam agendamento e distribuição de eventos. Isso é valioso quando documentos XPS contêm detalhes de reuniões, dados de compromissos, cronogramas de eventos ou informações relacionadas a prazos que precisam ser compartilhadas em um formato de calendário estruturado.
+
+Em ambientes automatizados, essa conversão melhora a eficiência do agendamento, reduz a criação manual de eventos e permite que processos baseados em documentos se conectem diretamente a fluxos de trabalho de calendário, lembretes e sistemas de planejamento.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração e Compartilhamento de Agenda**  
+  Converte informações baseadas em tempo de arquivos XPS em entradas ICS que podem ser distribuídas como eventos de calendário.
+
+* **Automação de Reuniões e Compromissos**  
+  Suporta a criação de arquivos prontos para calendário a partir de avisos de reunião ou confirmações de reserva baseados em documentos.
+
+* **Coordenação de Prazos**  
+  Ajuda a transformar marcos ou datas de vencimento armazenados em documentos em registros de calendário acionáveis.
+
+* **Suporte a Agendamento Inter‑Sistemas**  
+  Permite que dados de documentos fluam para fluxos de trabalho compatíveis com calendários, facilitando uma coordenação mais ampla.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivos de Evento**  
+  Sistemas podem converter agendas XPS em arquivos ICS sempre que novos documentos de evento são produzidos.
+
+* **Integração de Fluxo de Trabalho de Lembretes**  
+  Arquivos de calendário convertidos podem ser usados em pipelines automatizados de lembretes e notificações.
+
+* **Processamento de Agendas Recorrentes**  
+  Jobs em lote podem extrair e converter múltiplos arquivos XPS baseados em datas em saídas prontas para calendário.
+
+* **Pipelines de Documento para Planejamento**  
+  Fluxos de trabalho operacionais podem conectar a criação de documentos diretamente a sistemas de agendamento por meio da geração programática de ICS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

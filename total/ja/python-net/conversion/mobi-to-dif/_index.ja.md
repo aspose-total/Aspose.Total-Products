@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MOBI から DIF への変換は、電子書籍コンテンツをスプレッドシート指向のワークフローで一般的に使用されるデータ交換フォーマットへ変換することを可能にします。これは、コンテンツをレガシー互換のデータ環境や構造化インポート標準に依存するシステムへ移行する必要がある場合に有用です。
+
+自動化主導の環境では、MOBI から DIF への変換は、繰り返し可能なコンテンツ変換、レガシーデータ互換性、そして文書リポジトリとスプレッドシートベースの処理層間の円滑な交換をサポートします。出版ファイルと構造化されたビジネスワークフローの橋渡しに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **レガシー スプレッドシート インポート**
+  MOBI コンテンツを DIF に変換し、古いスプレッドシートやデータ処理ツールにインポートできるようにします。
+
+* **構造化コンテンツの再利用**
+  抽出した ebook 情報を、データ交換指向のフォーマットに依存するシステムで再利用します。
+
+* **アーカイブ変換**
+  長期的な処理や移行プロジェクトに適した構造化フォーマットで有用なコンテンツを保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化レガシーシステム フィード**
+  MOBI 由来のコンテンツを DIF 生成を通じてレガシー スプレッドシート ワークフローにルーティングします。
+
+* **スケジュールされたフォーマット調整**
+  定期的なジョブ中に MOBI ファイルを DIF に変換して、混在する文書ソースを標準化します。
+
+* **移行サポート パイプライン**
+  Python の自動化を使用して、ebook コンテンツを古い運用システムへの大量インポート用に準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

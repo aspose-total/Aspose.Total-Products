@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から EML への変換は、OpenDocument Text ファイルを標準的なメールメッセージ形式に変換し、保存、転送、またはアーカイブ目的でメッセージ構造を保持します。これは、文書の内容を通信や記録管理のためのメールアーティファクトとしてパッケージ化する必要がある場合に役立ちます。
+
+自動化環境では、ODT から EML への変換は、文書からメッセージへのワークフロー、メールアーカイブプロセス、そして大量コンテンツの変換をサポートします。Python API を使用すると、これらのタスクをプログラム的に、かつ大規模な文書セット全体で一貫して実行できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールメッセージ作成**  
+  文書の内容をポータブルなメールメッセージ形式に変換します。
+
+* **アーカイブパッケージング**  
+  標準化された構造で、通信準備ができたコンテンツの保存を支援します。
+
+* **ワークフローハンドオフ**  
+  メッセージベースの交換を使用するシステム向けに文書を準備します。
+
+* **コンテンツ配布の準備**  
+  下流の配信やレビューをメールオブジェクトとして可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メッセージパッケージング**  
+  Python ワークフローは、文書を保存または転送用の EML ファイルに変換できます。
+
+* **アーカイブパイプライン**  
+  ODT コンテンツは、長期的な通信記録のために自動的に変換できます。
+
+* **大量メールアーティファクト作成**  
+  大規模な文書コレクションは、バッチジョブで EML 形式に処理できます。
+
+* **システム間交換**  
+  自動化プロセスは、メッセージ指向の統合で EML 出力を使用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

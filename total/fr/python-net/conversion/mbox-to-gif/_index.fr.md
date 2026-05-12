@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX en GIF transforme le contenu d'une boîte aux lettres en fichiers image légers, faciles à prévisualiser, partager et intégrer dans des flux de travail visuels. Cela est utile lorsque les messages électroniques doivent être représentés sous forme de graphiques compacts pour le reporting, l'archivage ou une référence rapide.
+
+Grâce aux API Python, les organisations peuvent automatiser la conversion en GIF pour le rendu par lots des boîtes aux lettres, améliorer la portabilité des sorties et simplifier l'intégration avec les systèmes qui consomment des enregistrements basés sur des images.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportations d'e-mails visuels compactes**
+  Convertir les messages en fichiers GIF légers pour une visualisation et un partage simples.
+
+* **Aperçus et ressources de reporting**
+  Utiliser les images générées dans les tableaux de bord, les résumés ou la documentation visuelle interne.
+
+* **Préservation statique des messages**
+  Conserver l'apparence du contenu des e-mails dans un format graphique non modifiable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Rendu d'images par lots**
+  Convertir automatiquement les messages de boîte aux lettres en fichiers GIF pour une génération rapide de sorties visuelles.
+
+* **Support de flux de travail intégré**
+  Insérer les graphiques e-mail convertis dans les rapports, les portails ou les systèmes de surveillance.
+
+* **Export d'archives piloté par Python**
+  Faire évoluer la conversion de boîtes aux lettres basée sur des images grâce à des règles de traitement programmatiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

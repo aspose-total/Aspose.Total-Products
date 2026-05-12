@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to DIF 変換は Python API で、OpenDocument テキストテンプレートを、レガシーシステムとスプレッドシート互換システム間の表形式データ転送用に設計されたデータ交換フォーマットに変換します。これは、構造化されたコンテンツをインポートサポートが広範な環境間で移動させる必要がある場合に有用です。
+
+この変換は、テンプレート由来のデータを標準化された交換フォーマットに依存するシステム間でポータブルにすることで自動化を向上させ、手動での再構築を削減し、繰り返し可能な処理を改善します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レガシーデータ交換**  
+  従来の表形式交換フォーマットに依存し続ける環境をサポートします。
+
+* **スプレッドシート移行**  
+  ドキュメント由来のデータを、互換性のある分析ツールへのインポート用に準備します。
+
+* **テンプレートデータ正規化**  
+  テキストテンプレートから構造化情報を抽出し、転送可能なフォーマットに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化フォーマットブリッジング**  
+  最新のドキュメントテンプレートと古いレポーティングシステムを接続します。
+
+* **大量変換ジョブ**  
+  手動処理なしで大量の OTT ファイルを DIF に変換します。
+
+* **パイプライン互換性**  
+  交換可能なデータセットを必要とするワークフロー向けにエクスポート手順を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

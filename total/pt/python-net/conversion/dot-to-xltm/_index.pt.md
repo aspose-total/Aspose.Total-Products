@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para XLTM converte modelos de documentos em arquivos de modelo de planilha habilitados para macro, para a criação repetível de pastas de trabalho avançadas. Isso é útil quando modelos de planilha reutilizáveis precisam suportar funcionalidade aprimorada em fluxos de trabalho compatíveis.
+
+APIs Python permitem a geração automatizada de XLTM a partir de fontes DOT, ajudando as organizações a criar modelos de planilha avançados padronizados de forma eficiente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Modelo Habilitado para Macro**
+  Converta arquivos DOT em modelos XLTM para fluxos de trabalho avançados de planilhas reutilizáveis.
+
+* **Design Reutilizável de Pastas de Trabalho Avançadas**
+  Reaproveite estruturas de documentos como modelos de planilha com capacidades estendidas.
+
+* **Modelos Funcionais Padronizados**
+  Suporte à criação repetível de pastas de trabalho a partir de fontes de modelo baseadas em documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelo Avançado**
+  Fluxos de trabalho Python podem produzir arquivos XLTM a partir de modelos DOT para processos de negócios recorrentes.
+
+* **Padronização da Biblioteca de Modelos**
+  A conversão ajuda a manter modelos de planilha habilitados para macro consistentes entre as equipes.
+
+* **Preparação Escalável de Pastas de Trabalho Funcionais**
+  Sistemas programáticos suportam a criação em massa de ativos de modelo de planilha avançada.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

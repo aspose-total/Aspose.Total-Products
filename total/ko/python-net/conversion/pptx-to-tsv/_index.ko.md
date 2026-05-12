@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX to TSV 변환은 프레젠테이션 내용을 탭으로 구분된 형식으로 추출하여, 깔끔한 텍스트 기반 데이터 교환 및 구조화된 처리를 가능하게 합니다. 특히 표나 반복되는 텍스트 요소와 같은 슬라이드 내용이 파싱, 마이그레이션 또는 분석을 위해 간단한 형식으로 내보내야 할 때 유용합니다.
+
+Python API를 사용한 PPTX to TSV 자동화는 가벼운 데이터 워크플로, 신뢰성 있는 구문 분석 및 효율적인 배치 처리를 지원합니다. 이를 통해 프레젠테이션에서 파생된 데이터를 자동화 시스템, 스크립트 및 데이터 변환 파이프라인에 쉽게 통합할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 텍스트 내보내기**
+  프레젠테이션 데이터를 스크립트 처리에 적합한 구분자 기반 형식으로 변환합니다.
+
+* **표 내용 추출**
+  슬라이드 표를 깔끔한 구조로 추출하여 추가 처리에 활용합니다.
+
+* **시스템 간 데이터 교환**
+  TSV를 중간 형식으로 사용하여 프레젠테이션에서 파생된 데이터를 도구 간에 이동합니다.
+
+* **구문 분석 및 검증 작업**
+  예측 가능한 텍스트 구조를 통해 슬라이드 내용의 자동 검사를 간소화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **경량 데이터 처리**
+  PPTX 파일을 자동으로 TSV로 변환하여 스크립트 친화적인 워크플로에 활용합니다.
+
+* **배치 추출 파이프라인**
+  대량의 프레젠테이션을 구조화된 텍스트 출력으로 대규모 처리합니다.
+
+* **ETL 워크플로 지원**
+  추출된 프레젠테이션 데이터를 변환 및 로드 파이프라인에 공급합니다.
+
+* **자동 콘텐츠 감사**
+  TSV 출력을 사용하여 검증, 품질 검사 및 규칙 기반 검사를 수행합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

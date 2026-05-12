@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTM vers XLS transforme les modèles Word contenant des macros en fichiers de feuille de calcul Excel classiques pour l'analyse de données structurées et la compatibilité avec les feuilles de calcul héritées. Elle est utile lorsque des informations dérivées de documents doivent être réutilisées dans des environnements de feuilles de calcul plus anciens.
+
+L'utilisation des API Python pour la conversion DOTM vers XLS améliore l'automatisation en extrayant le contenu des modèles vers des fichiers de feuille de calcul sans copie manuelle. Cela prend en charge des rapports évolutifs, la migration de données et des flux de travail métier axés sur la compatibilité.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de feuilles de calcul héritées**
+  Convertir le contenu DOTM en XLS pour les flux de travail qui dépendent encore des anciens formats Excel.
+
+* **Conversion de tables structurées**
+  Déplacer les tables de documents et les valeurs répétées vers un format de feuille de calcul pour l'analyse.
+
+* **Partage de données orienté compatibilité**
+  Permettre l'échange de données dérivées de documents avec des systèmes nécessitant des fichiers de feuille de calcul classiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée de classeur hérité**
+  Les flux de travail peuvent générer des fichiers XLS à partir de modèles DOTM pour assurer la compatibilité avec les systèmes établis.
+
+* **Support du pipeline de reporting**
+  La conversion aide à automatiser le transfert de données de documents structurés vers des feuilles de calcul pour révision.
+
+* **Traitement par lots de documents en classeur**
+  Les tâches programmées prennent en charge la conversion à grande échelle de fichiers DOTM en sorties XLS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

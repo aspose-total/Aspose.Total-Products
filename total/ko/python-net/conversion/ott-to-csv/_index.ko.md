@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 CSV로 변환하면 OpenDocument 텍스트 템플릿을 구조화된 구분 데이터로 변환하여 현대 비즈니스 시스템 전반에서 처리, 교환 및 분석이 더 쉬워집니다. 텍스트 기반 콘텐츠를 보고, 마이그레이션 또는 하위 데이터 처리에 맞게 정규화해야 할 때 유용합니다.
+
+이 변환은 문서 콘텐츠를 가벼운 표 형식 출력으로 전환하여 일관성, 이식성 및 빠른 파싱이 중요한 데이터 파이프라인, 예약 작업 및 통합 워크플로에 맞게 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **구조화된 데이터 추출**  
+  템플릿 기반 텍스트 콘텐츠를 행과 열로 변환하여 보다 쉽게 처리할 수 있습니다.
+
+* **보고서 준비**  
+  문서 기반 정보를 대시보드 및 스프레드시트 분석에 적합하게 만듭니다.
+
+* **시스템 상호 운용성**  
+  구분 텍스트 가져오기를 지원하는 도구와의 간단한 데이터 교환을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 콘텐츠 내보내기**  
+  여러 OTT 파일을 CSV로 변환하여 대량 처리하도록 자동화합니다.
+
+* **데이터 파이프라인 통합**  
+  추출된 문서 데이터를 ETL 또는 검증 워크플로에 전달합니다.
+
+* **예약된 문서 파싱**  
+  템플릿을 기계가 읽을 수 있는 데이터 세트로 변환하는 반복 작업을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

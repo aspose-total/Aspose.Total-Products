@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT를 PPSM으로 변환하는 Python API는 OpenDocument 텍스트 템플릿을 매크로 지원 슬라이드쇼 파일로 변환하여 고급 동작 지원과 함께 직접 프레젠테이션 전달이 가능하도록 합니다. 이는 쇼 준비된 출력이 자동화된 프레젠테이션 작업도 수용해야 할 때 유용합니다.
+
+이 변환은 재사용 가능한 문서 콘텐츠와 매크로 기능이 있는 슬라이드쇼 출력을 결합함으로써 자동화를 향상시키며, 보다 역동적인 전달 워크플로와 반복 가능한 프레젠테이션 프로세스를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 슬라이드쇼 생성**  
+  고급 자동화 동작을 지원하는 쇼 파일을 생성합니다.
+
+* **직접 프레젠테이션 전달**  
+  템플릿 콘텐츠를 실행 준비가 된 슬라이드쇼 자산으로 변환합니다.
+
+* **재사용 가능한 시각 출력**  
+  문서에서 생성된 프레젠테이션 쇼를 표준화하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 쇼 조립**  
+  반복되는 OTT 소스 템플릿에서 PPSM 파일을 생성합니다.
+
+* **스크립트 기반 프레젠테이션 워크플로**  
+  프레젠테이션 로직을 사용하는 환경을 위한 슬라이드쇼 출력을 지원합니다.
+
+* **확장 가능한 이벤트 또는 브리핑 전달**  
+  조직 내 반복 사용을 위한 동적 쇼 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

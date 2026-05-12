@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB를 WordML로 변환하면 이진 스프레드시트 콘텐츠를 XML 기반 워드 프로세싱 마크업으로 전환하여 기계가 읽을 수 있는 문서 표현을 중시하는 워크플로우에서 구조화된 문서 생성을 가능하게 합니다. 이는 스프레드시트 데이터를 처리, 변환 또는 시스템 통합에 적합한 형식으로 변환해야 할 때 유용합니다.
+
+자동화 환경에서 XLSB를 WordML로 변환하면 스프레드시트에서 파생된 콘텐츠를 구조화된 XML 워크플로우로 이동시켜 확장 가능한 문서 파이프라인을 지원하고, 상호 운용성, 변환 제어 및 프로그래밍 기반 문서 시스템과의 통합을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 생성**  
+  스프레드시트 데이터를 문서 워크플로우를 위한 구조화된 마크업 형식으로 변환합니다.
+
+* **시스템 통합**  
+  스프레드시트 콘텐츠를 XML 기반 처리 환경과 연결하는 데 도움을 줍니다.
+
+* **프로그래밍 변환**  
+  기계가 읽을 수 있는 구조가 중요한 고급 문서 처리를 지원합니다.
+
+* **구조화된 콘텐츠 교환**  
+  스프레드시트에서 파생된 정보를 상호 운용 가능한 문서 파이프라인을 통해 이동시킵니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **XML 문서 파이프라인**  
+  시스템은 XLSB 파일을 WordML로 변환하여 구조화된 자동 처리에 활용할 수 있습니다.
+
+* **변환 워크플로우**  
+  스프레드시트 콘텐츠를 XML 기반 문서 로직을 사용해 프로그래밍 방식으로 재구성할 수 있습니다.
+
+* **대량 마크업 변환**  
+  다수의 스프레드시트 파일을 대규모로 WordML 출력으로 변환할 수 있습니다.
+
+* **상호 운용 자동화 시스템**  
+  변환 워크플로우는 구조화된 문서 마크업을 사용하는 하위 도구들을 지원할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

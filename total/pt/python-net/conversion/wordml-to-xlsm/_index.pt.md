@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para XLSM transforma o conteúdo estruturado de documentos em arquivos de planilha habilitados para macros que combinam dados da pasta de trabalho com recursos de automação. É útil quando os dados convertidos precisam suportar lógica baseada em planilhas, scripts ou tarefas repetíveis.
+
+Usando APIs Python, a conversão de WordML para XLSM permite que os dados do documento fluam para fluxos de trabalho avançados de planilhas com automação escalável e lógica de processamento reutilizável.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Pasta de Trabalho com Macro**
+  Converte tabelas WordML em arquivos XLSM para fluxos de trabalho de planilhas orientados à automação.
+
+* **Processamento Avançado de Dados**
+  Suporta saídas de planilha que dependem de ações ou lógica incorporadas.
+
+* **Capacitação de Tarefas Operacionais**
+  Ajuda a mover os dados do documento para pastas de trabalho projetadas para processamento repetível.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Pasta de Trabalho com Macro**
+  Cria arquivos XLSM a partir de fontes WordML em fluxos de trabalho empresariais recorrentes.
+
+* **Integração de Lógica de Planilha**
+  Conecta os dados extraídos do documento a ambientes de processamento dirigidos por macros.
+
+* **Empacotamento de Dados Pronto para Processos**
+  Permite a preparação escalável de ativos de pasta de trabalho para operações automatizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

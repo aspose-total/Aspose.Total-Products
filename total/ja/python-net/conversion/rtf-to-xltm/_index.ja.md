@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から XLTM への変換は、書式設定されたテキスト文書を、再利用可能なブック構造と高度な機能を組み合わせたマクロ対応スプレッドシートテンプレートファイルに変換します。これは、標準化されたスプレッドシート出力が、定期的な業務プロセスで拡張されたブック動作のサポートも必要な場合に有用です。
+
+自動化ワークフローにおいて、RTF から XLTM への変換は、組織がソース文書から高度なスプレッドシートテンプレートを作成するのを支援し、スケールで繰り返し可能で管理された、より動的なブック生成を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **高度なスプレッドシートテンプレート作成**  
+  文書内容を再利用可能なテンプレートに変換し、拡張されたブック機能をサポートします。
+
+* **繰り返し可能な業務ブック設計**  
+  繰り返し使用されるケース全体で複雑なスプレッドシートワークフローの標準化を支援します。
+
+* **テンプレート内の構造化コンテンツ再利用**  
+  ナラティブなソース素材を管理されたスプレッドシートの出発点に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **マクロ対応テンプレートパイプライン**  
+  システムは RTF ファイルを高度なスプレッドシートワークフロー用の XLTM テンプレートに変換できます。
+
+* **制御されたブック自動化**  
+  プログラムによる変換は、標準化されたテンプレートロジックに依存する繰り返しプロセスをサポートします。
+
+* **スケーラブルな業務テンプレート配布**  
+  動的なワークフローは、ソース文書から強化されたスプレッドシートテンプレートを作成し、広範に再利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

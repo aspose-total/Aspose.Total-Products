@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 XLT로의 변환은 문서 내용을 반복 가능한 워크북 생성을 지원하는 스프레드시트 템플릿 형식으로 변환합니다. 이는 문서에서 파생된 데이터 구조를 지속적인 운영 사용을 위한 재사용 가능한 스프레드시트 레이아웃으로 만들어야 할 때 유용합니다.
+
+Python API를 사용하여 ODT에서 XLT로의 변환은 템플릿 기반 자동화, 표준화된 보고 및 반복 가능한 데이터 워크플로를 지원합니다. 정적 문서 내용을 재사용 가능한 스프레드시트 자산으로 전환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 템플릿 생성**  
+  추출된 내용을 재사용 가능한 워크북 구조로 변환합니다.
+
+* **표준화된 보고 레이아웃**  
+  반복되는 스프레드시트 출력 전반에 걸쳐 일관성을 유지하는 데 도움이 됩니다.
+
+* **재사용 가능한 데이터 프레임워크**  
+  유사한 소스 콘텐츠에서 반복적인 워크북 생성을 지원합니다.
+
+* **운영 효율성**  
+  스프레드시트 준비 시 반복적인 설정 작업을 줄여줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**  
+  Python 스크립트를 사용하면 ODT에서 파생된 데이터를 XLT 템플릿으로 자동 변환할 수 있습니다.
+
+* **반복 워크북 준비**  
+  문서 기반 구조를 반복적인 스프레드시트 워크플로에서 재사용할 수 있습니다.
+
+* **배치 템플릿 표준화**  
+  여러 소스 파일을 재사용 가능한 스프레드시트 형식으로 변환할 수 있습니다.
+
+* **프로세스 기반 보고서 생성**  
+  템플릿 출력은 하위 자동화 워크북 생성에 활용될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

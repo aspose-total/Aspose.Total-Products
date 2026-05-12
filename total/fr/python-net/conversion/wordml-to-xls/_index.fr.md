@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers XLS transforme le contenu structuré basé sur des documents en fichiers tableur adaptés à l'édition, aux rapports et aux flux de travail de classeurs hérités. Elle est utile lorsque les tableaux de documents doivent être réutilisés dans des outils de tableur offrant une large compatibilité.
+
+Les API Python permettent la conversion WordML vers XLS en extrayant le contenu tabulaire et en automatisant son placement dans les structures de classeur pour un traitement évolutif.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de classeur hérité**
+  Convertit les tableaux WordML en fichiers XLS pour des flux de travail de tableur établis.
+
+* **Réutilisation de données structurées**
+  Rend les données tabulaires contenues dans le document éditables et analysables sous forme de classeur.
+
+* **Support de reporting opérationnel**
+  Facilite le transfert du contenu du document vers des processus d'examen basés sur des tableurs.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Exportation automatisée de classeur**
+  Génère des fichiers XLS à partir de lots de documents WordML dans des tâches répétables.
+
+* **Intégration de systèmes hérités**
+  Prend en charge les environnements qui dépendent encore de la compatibilité avec d'anciens tableurs.
+
+* **Pipelines document-vers-tableur**
+  Convertit le contenu structuré en sorties de classeur pour les opérations en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

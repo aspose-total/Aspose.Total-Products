@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCX를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to ICS 변환은 문서 기반 정보를 iCalendar 표준을 따르는 캘린더 이벤트 파일로 변환합니다. 이 변환을 통해 문서에 저장된 일정 정보를 캘린더 호환 형식으로 변환할 수 있습니다.
+
+Python API는 문서에서 이벤트 데이터를 자동으로 추출하고 ICS 파일을 생성하여 자동 일정 시스템 및 캘린더 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이벤트 일정 추출**  
+  문서 기반 이벤트 세부 정보를 캘린더 이벤트로 변환합니다.
+
+* **캘린더 통합 워크플로**  
+  문서 일정을 캘린더 시스템에 가져올 수 있게 합니다.
+
+* **회의 및 이벤트 자동화**  
+  문서에서 캘린더 이벤트를 자동으로 생성하도록 지원합니다.
+
+* **일정 배포 시스템**  
+  이벤트 정보를 포함한 문서가 캘린더 파일을 생성하도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이벤트 파일 생성**  
+  시스템은 DOCX 이벤트 일정을 자동으로 ICS 파일로 변환할 수 있습니다.
+
+* **문서 기반 일정 파이프라인**  
+  Python 자동화를 통해 문서에서 캘린더 항목을 생성할 수 있습니다.
+
+* **엔터프라이즈 캘린더 통합**  
+  문서 데이터를 자동 일정 작성을 위한 ICS 파일로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

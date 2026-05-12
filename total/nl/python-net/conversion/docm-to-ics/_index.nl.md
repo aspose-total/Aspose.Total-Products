@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOCM naar ICS-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM naar ICS-conversie transformeert macro‑ondersteunde documentinhoud naar kalendercompatibele gegevens, waardoor het mogelijk wordt om schema’s, gebeurtenisdetails of datumgestuurde inhoud opnieuw te gebruiken in plannings‑workflows. Dit is vooral handig wanneer documenten gestructureerde gebeurtenisinformatie bevatten die bredere toegankelijkheid vereist.
+
+Vanuit een automatiseringsperspectief verbindt DOCM naar ICS-conversie geautoriseerde schema’s met kalendersystemen, waardoor automatische gebeurtenisgeneratie, synchronisatie en tijdgebaseerde workflowcoördinatie mogelijk wordt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Schema‑extractie**
+  Converteert gebeurtenisgerelateerde documentinhoud naar kalenderklare gegevens voor planningsgebruik.
+
+* **Publicatie van vergaderingen en deadlines**
+  Helpt bij het verspreiden van door documenten gedefinieerde tijdlijnen via gestandaardiseerde kalenderbestanden.
+
+* **Cross‑platform planning**
+  Ondersteunt de draagbaarheid van datumgebaseerde informatie naar compatibele kalenderhulpmiddelen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde gebeurteniscreatie**
+  Genereert ICS‑bestanden uit DOCM‑inhoud met vergader‑ of deadline‑details.
+
+* **Kalendersynchronisatie‑workflows**
+  Ondersteunt geautomatiseerde import van door documenten afgeleide schema’s in planningssystemen.
+
+* **Terugkerende batchplanning**
+  Converteert meerdere planningsdocumenten naar gestandaardiseerde kalenderuitvoer op schaal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

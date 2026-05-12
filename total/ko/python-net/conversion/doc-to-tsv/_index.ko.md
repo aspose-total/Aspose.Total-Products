@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+문서를 TSV로 변환하면 Word 콘텐츠를 탭으로 구분된 값으로 바꾸게 되며, 이는 깔끔한 텍스트 기반 데이터 교환 및 가져오기 워크플로에 이상적인 단순 구조 형식입니다. 문서 테이블이나 반복 필드가 가벼운 구조화된 출력이 필요할 때 유용합니다.
+
+Python API는 순수 텍스트 표 형식이 선호되는 대규모 추출, 데이터 준비 및 통합 작업을 위해 DOC를 TSV로 자동 변환하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **경량 데이터 내보내기**
+  문서 테이블을 TSV로 변환하여 간단한 구조화된 교환을 수행합니다.
+
+* **가져오기 친화적 출력**
+  구분 텍스트를 수용하는 도구 및 시스템을 위해 Word에서 파생된 데이터를 준비합니다.
+
+* **데이터 정리 워크플로**
+  전처리, 검증 및 파이프라인 수집을 위해 TSV 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대용량 데이터 추출**
+  DOC 파일을 자동으로 TSV로 변환하여 다운스트림 처리에 활용합니다.
+
+* **파이프라인 준비 텍스트 내보내기**
+  ETL 또는 가져오기 워크플로의 일환으로 문서에서 구분 파일을 생성합니다.
+
+* **예약된 변환 작업**
+  프로그램적으로 문서 기반 레코드를 정기적으로 TSV로 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

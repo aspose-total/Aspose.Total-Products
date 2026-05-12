@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to XLAM 変換は、マクロ対応ドキュメントを再利用可能なスプレッドシート機能をサポートするために設計されたアドイン形式のスプレッドシート出力に変換します。文書主導のロジックや構造化されたコンテンツが拡張可能なスプレッドシートワークフローに貢献する必要がある場合に有用です。
+
+自動化システムにおいて、DOCM から XLAM への変換は、再利用可能な機能をパッケージ化し、先進的なスプレッドシート機能を標準化し、文書ベースのプロセスと拡張可能なブック環境を接続するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なスプレッドシート拡張機能**
+  文書ベースのロジックや構造化コンテンツからアドイン形式の出力作成をサポートします。
+
+* **ワークフローの標準化**
+  繰り返しの操作全体で再利用可能なスプレッドシートの動作を集中化するのに役立ちます。
+
+* **高度なスプレッドシート有効化**
+  作成された文書コンテンツと、より拡張性の高いスプレッドシートの使用例をつなぎます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたアドイン準備**
+  DOCM ソースを標準化されたスプレッドシートワークフロー用の XLAM 互換出力に変換します。
+
+* **再利用可能なロジック配布**
+  チーム全体で繰り返しのスプレッドシート機能をスケーラブルに提供することをサポートします。
+
+* **プログラム的スプレッドシート統合**
+  文書変換を高度なブックベースの自動化プロセスと接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

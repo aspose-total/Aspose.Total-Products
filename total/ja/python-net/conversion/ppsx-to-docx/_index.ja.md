@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX から DOCX への変換は、プレゼンテーションのコンテンツを、構造化された執筆、コラボレーション、文書管理で広く使用されている最新の編集可能な文書形式に変換します。スライド用に設計された情報を再執筆、レビュー、または正式な文書として配布する必要がある場合に価値があります。
+
+自動化システムにおいて、PPSX から DOCX への変換は、プレゼンテーションから文書へのパイプラインを可能にし、手動の書式設定作業を削減し、Python API を通じたスケーラブルなコンテンツ変換を支援することで、効率を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **編集可能な文書出力**  
+  スライドのコンテンツを更新や改訂が容易な柔軟な形式に変換します。
+
+* **ビジネス文書作成**  
+  プレゼンテーションをレポート、提案書、または要約に再利用するのに役立ちます。
+
+* **コラボレーション支援**  
+  文書中心のチーム間でコンテンツのレビューと編集が容易になります。
+
+* **構造化コンテンツの再利用**  
+  下流の文書ワークフローに適した形式で有用な情報を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プレゼンテーションから文書へのパイプライン**  
+  Python API を使用して、スライドデッキを文書化システム用の DOCX ファイルに自動変換できます。
+
+* **大量ファイル変換**  
+  自動化されたワークフローにより、大規模な PPSX コレクションを一貫した文書出力に変換できます。
+
+* **コンテンツ公開準備**  
+  DOCX ファイルは、レビューおよび公開プロセスのためにプログラムで生成できます。
+
+* **文書管理統合**  
+  変換されたファイルは、直接自動化されたストレージおよび承認システムに移行できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

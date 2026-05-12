@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OTT naar EMAIL-conversiefunctie t
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-naar-e-mailconversie in Python-API's zet OpenDocument-teksttemplates om in e-mailklare inhoud die geschikt is voor berichtgeneratie, notificatieworkflows en communicatieautomatisering. Het helpt organisaties om documentinhoud opnieuw te gebruiken als gestructureerde uitgaande berichten.
+
+Deze conversie is zeer relevant voor automatisering omdat het dynamische generatie van e-mailinhoud vanuit templates mogelijk maakt, waardoor de consistentie van communicatie, schaalbaarheid en integratie met transactionele of gebeurtenisgestuurde systemen verbetert.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Templategebaseerde berichtgeving**  
+  Zet documenttemplates om in herbruikbare e-mailinhoud voor outreach of updates.
+
+* **Notificatiegeneratie**  
+  Zet opgemaakte tekst om in e-mailklare berichten voor waarschuwingen en bevestigingen.
+
+* **Inhoud hergebruiken**  
+  Staat toe dat hetzelfde brondocument zowel documentatie- als communicatiedoeleinden ondersteunt.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde klantupdates**  
+  Genereert e-mails vanuit OTT-templates op basis van workflowtriggers.
+
+* **Transactionele berichtpijplijnen**  
+  Gebruikt documentinhoud in systemen die bevestigingen of herinneringen verzenden.
+
+* **Dynamische personalisatie**  
+  Vult template‑gedreven e-mailinhoud programmatisch voor grote groepen ontvangers.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

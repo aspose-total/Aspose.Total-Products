@@ -46,7 +46,44 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi EMAIL ke 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi email ke MD dalam Python mengubah konten pesan menjadi Markdown untuk dokumentasi teks yang ringan, portabel, dan ramah versi. Ini sangat berharga ketika informasi email perlu digunakan kembali dalam dokumentasi, basis pengetahuan, alur kerja pengembang, atau sistem penerbitan.
+
+Konversi ini meningkatkan otomatisasi dengan membuat konten email lebih mudah diurai, disimpan, diubah, dan dipublikasikan melalui pipeline berorientasi teks dengan beban format minimal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Penerbitan Basis Pengetahuan**
+  Ubah email menjadi Markdown untuk portal dokumentasi dan wiki internal.
+
+* **Arsip Terkontrol Versi**
+  Pertahankan komunikasi penting dalam format teks yang cocok untuk pelacakan repositori.
+
+* **Penyederhanaan Konten**
+  Kurangi format email yang kompleks menjadi markup bersih dan portabel untuk penggunaan kembali.
+
+* **Alur Kerja Berfokus Pengembang**
+  Gunakan output Markdown di mana tim teknis mengelola konten dalam sistem berbasis teks.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Otomatisasi Kotak Masuk-ke-Wiki**
+  Ubah email terpilih menjadi halaman Markdown untuk platform pengetahuan yang dapat dicari.
+
+* **Pembaruan Dokumentasi Berbasis Repositori**
+  Komit konten pesan yang dikonversi ke dalam pipeline konten berversi secara otomatis.
+
+* **Alur Kerja Penerbitan Statis**
+  Masukkan output email Markdown ke dalam generator dan sistem otomatisasi konten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

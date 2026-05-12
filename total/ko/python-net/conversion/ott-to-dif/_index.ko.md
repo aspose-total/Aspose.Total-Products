@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to DIF 변환은 Python API에서 OpenDocument 텍스트 템플릿을 레거시 및 스프레드시트 호환 시스템 간의 표 형식 데이터 전송을 위해 설계된 데이터 교환 형식으로 변환합니다. 이는 구조화된 콘텐츠를 광범위한 가져오기 지원이 가능한 환경 간에 이동해야 할 때 유용합니다.
+
+이 변환은 템플릿에서 파생된 데이터를 표준화된 교환 형식에 의존하는 시스템 간에 이동 가능하게 하여 자동화를 향상시키고, 수동 재구성을 줄이며 반복 가능한 처리를 개선합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 데이터 교환**  
+  클래식 표 형식 교환 형식에 여전히 의존하는 환경을 지원합니다.
+
+* **스프레드시트 마이그레이션**  
+  문서에서 파생된 데이터를 호환 가능한 분석 도구로 가져오기 위해 준비합니다.
+
+* **템플릿 데이터 정규화**  
+  텍스트 템플릿에서 구조화된 정보를 추출하여 전송 가능한 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 형식 연결**  
+  현대 문서 템플릿을 오래된 보고 시스템과 연결합니다.
+
+* **대량 변환 작업**  
+  수동 처리 없이 대량의 OTT 파일을 DIF로 변환합니다.
+
+* **파이프라인 호환성**  
+  교환 준비된 데이터 세트를 필요로 하는 워크플로우를 위해 내보내기 단계를 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

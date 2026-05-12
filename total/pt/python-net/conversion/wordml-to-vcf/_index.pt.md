@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para VCF transforma informações de contato baseadas em documentos em arquivos vCard que podem ser importados para sistemas de gerenciamento de contatos. Isso é útil quando nomes, números de telefone, endereços ou detalhes relacionados armazenados em documentos precisam se tornar registros de contato padronizados.
+
+Usando APIs Python, a conversão de WordML para VCF pode ser automatizada para extrair campos de contato relevantes e gerar saídas vCard portáteis para fluxos de trabalho de CRM, diretórios e sincronização.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Registros de Contato**  
+  Converte detalhes de contato de documentos WordML em arquivos VCF importáveis.
+
+* **Suporte a Diretórios e CRM**  
+  Ajuda a mover dados de contato baseados em documentos para sistemas de contato estruturados.
+
+* **Compartilhamento Portátil de Contatos**  
+  Permite a troca padronizada de informações de contato entre plataformas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração em Massa de Contatos**  
+  Automatiza a criação de VCF a partir de diretórios, formulários ou listas de contato armazenadas em WordML.
+
+* **Preparação de Dados para CRM**  
+  Suporta a ingestão de registros de contato padronizados em sistemas de negócios automatizados.
+
+* **Habilitação de Fluxo de Trabalho de Sincronização**  
+  Converte detalhes de contato mantidos em documentos em arquivos portáteis para sincronização recorrente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

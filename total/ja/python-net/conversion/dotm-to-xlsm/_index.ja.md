@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から XLSM への変換は、マクロ対応の Word テンプレートをマクロ対応の Excel ブックに変換し、高度なスプレッドシート自動化と再利用可能なデータワークフローを実現します。文書の内容をスプレッドシート形式に移行し、より動的なブックの動作を維持する必要がある場合に有用です。
+
+DOTM から XLSM への変換に Python API を使用すると、構造化テンプレートから高度なブックを自動的に作成できます。これにより一貫性が向上し、スケーラブルな業務自動化をサポートし、文書主導のプロセスとスプレッドシート操作の統合を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応ブック作成**
+  高度なスプレッドシートワークフローのために DOTM コンテンツを XLSM に変換します。
+
+* **文書からスプレッドシートへの自動化**
+  構造化テンプレートのコンテンツを再利用可能なブックに転用し、データ処理に活用します。
+
+* **業務ワークフロー支援**
+  文書ベースの入力から、よりリッチなスプレッドシート駆動プロセスを実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された高度なブック生成**
+  ワークフローは DOTM テンプレートから XLSM ファイルを作成し、動的なスプレッドシート処理を行えます。
+
+* **ビジネスロジック統合**
+  この変換は、文書と高度なブック使用を結びつける自動化パイプラインをサポートします。
+
+* **バッチブック生成**
+  プログラムによる処理により、DOTM ファイルを XLSM に一貫してスケーラブルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

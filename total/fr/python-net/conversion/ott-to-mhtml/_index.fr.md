@@ -53,7 +53,41 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers MHTML dans les API Python convertit les modèles de texte OpenDocument en fichiers d'archive web qui regroupent le contenu dans un format de page portable unique. Cela est précieux lorsque la sortie du document doit être visualisée dans les navigateurs ou conservée comme un contenu web autonome.
+
+Cette conversion améliore l'automatisation en permettant la génération cohérente d'artefacts légers, partageables et prêts pour le web à partir de modèles, qui peuvent être stockés, transmis ou intégrés dans des flux de travail numériques plus larges.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération d'archive web**  
+  Crée des sorties de page autonomes à partir de modèles de documents.
+
+* **Visualisation portable**  
+  Facilite l'ouverture du contenu dans des environnements compatibles avec les navigateurs.
+
+* **Préservation en fichier unique**  
+  Regroupe la sortie de document formatée en un seul fichier transférable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée d'instantanés web**  
+  Convertit les fichiers OTT en documents web archivés en masse.
+
+* **Distribution basée sur le navigateur**  
+  Prend en charge les flux de travail qui partagent la sortie du modèle sous forme de fichiers consultables sur le web.
+
+* **Pipelines de préservation du contenu**  
+  Stocke les états de documents formatés dans un format compact et portable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

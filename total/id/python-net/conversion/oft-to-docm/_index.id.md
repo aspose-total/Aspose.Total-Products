@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OFT ke DO
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi OFT ke DOCM menggunakan API Python memungkinkan templat email Outlook diubah menjadi dokumen Word yang mendukung makro untuk alur kerja dokumen lanjutan. Hal ini penting ketika konten yang dikonversi harus digabungkan dengan logika otomatisasi, aksi yang diprogram, atau perilaku dokumen khusus.
+
+Konversi ini mendukung lingkungan yang berfokus pada otomatisasi dengan menghubungkan konten email yang dapat digunakan kembali dengan proses dokumen yang dapat diprogram. Ini membantu organisasi menstandarisasi operasi berbasis templat sambil meningkatkan fleksibilitas, keterulangan, dan kontrol alur kerja.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan Dokumen Ber-Makro**  
+  Ubah templat OFT menjadi file DOCM untuk alur kerja yang memerlukan logika otomatisasi tersemat.
+
+* **Penggunaan Ulang Templat Lanjutan**  
+  Gunakan kembali konten email di dalam dokumen yang mendukung aksi pemrosesan khusus.
+
+* **Dokumentasi Bisnis Terstruktur**  
+  Gunakan output DOCM ketika konten berbasis email harus dimasukkan ke dalam sistem dokumen dinamis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Alur Aksi Dokumen Otomatis**  
+  Gabungkan konten templat yang dikonversi dengan proses ber-makro untuk tugas bisnis berulang.
+
+* **Transformasi Templat-ke-Alur Kerja**  
+  Ubah file OFT menjadi dokumen DOCM yang berpartisipasi dalam penanganan dokumen berbasis aturan.
+
+* **Dukungan Pelaporan Programatik**  
+  Hasilkan file ber-makro dari templat email untuk rutinitas dokumen yang diisi data atau dikontrol.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

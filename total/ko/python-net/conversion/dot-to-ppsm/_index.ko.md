@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 PPSM 변환은 문서 템플릿을 매크로가 포함된 슬라이드쇼 파일로 변환하여 고급 프레젠테이션 제공을 가능하게 합니다. 이는 직접 재생 슬라이드쇼 출력이 호환 환경에서 향상된 기능도 지원해야 할 때 유용합니다.
+
+Python API를 사용하면 DOT 소스에서 PPSM 생성을 자동화하여 반복성을 향상하고 보다 강력한 프레젠테이션 워크플로를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 슬라이드쇼 생성**
+  DOT 파일을 PPSM으로 변환하여 고급 프레젠테이션 재생 시나리오에 활용합니다.
+
+* **향상된 기능을 갖춘 디스플레이**
+  자동화 또는 인터랙티브 동작이 포함된 슬라이드쇼 출력을 사용합니다.
+
+* **재사용 가능한 프레젠테이션 제공**
+  문서 템플릿을 제어된 시청 환경에 적합한 프레젠테이션 파일로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 고급 슬라이드쇼 생성**
+  Python 스크립트를 사용해 DOT 콘텐츠에서 PPSM 파일을 생성하여 반복적인 프레젠테이션 요구를 충족합니다.
+
+* **인터랙티브 디스플레이 워크플로**
+  변환은 확장된 기능을 갖춘 문서 기반 슬라이드쇼 생성을 지원합니다.
+
+* **확장 가능한 프레젠테이션 배포**
+  프로그래밍 파이프라인을 통해 매크로가 포함된 슬라이드쇼 파일을 다양한 사용 사례에 걸쳐 배포합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

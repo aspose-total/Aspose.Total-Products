@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to XLTM 변환은 문서 기반 구조화된 콘텐츠를 매크로 사용 가능 스프레드시트 템플릿으로 변환하여 자동화 지원이 포함된 반복 가능한 워크북 생성을 가능하게 합니다. 표준화된 스프레드시트에 프로그래밍 가능한 동작을 포함해야 할 때 유용합니다.
+
+Python API를 사용하여 WordML to XLTM 변환은 조직이 고급 처리 워크플로와 연계된 재사용 가능한 스프레드시트 템플릿 생성을 자동화하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 가능 템플릿 출력**
+  WordML 콘텐츠를 XLTM 파일로 변환하여 재사용 가능한 자동화 워크북 기반을 제공합니다.
+
+* **반복 가능한 스프레드시트 자동화**
+  내장된 로직 기능을 통해 반복적인 워크북 생성을 지원합니다.
+
+* **구조화된 템플릿 표준화**
+  승인된 문서 콘텐츠를 프로세스 준비된 스프레드시트 템플릿으로 패키징하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 게시**
+  WordML 입력으로부터 XLTM 파일을 생성하여 반복적인 스프레드시트 작업을 수행합니다.
+
+* **고급 보고 워크플로 지원**
+  문서 기반 콘텐츠를 매크로 사용 가능한 워크북 템플릿과 연결합니다.
+
+* **확장 가능한 프로세스 패키징**
+  자동화 준비된 스프레드시트 템플릿을 일관되게 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,44 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCX a FODS trasforma i documenti di elaborazione testi nel formato Flat OpenDocument Spreadsheet, consentendo ai dati strutturati del documento di essere rappresentati in un formato di foglio di calcolo aperto. Questo formato è adatto per lo scambio di dati e per i flussi di lavoro con documenti aperti.
+
+Attraverso le API Python, la conversione da DOCX a FODS può essere automatizzata in sistemi che richiedono standard aperti per l'elaborazione dei documenti, l'interoperabilità e lo scambio di dati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione dati in foglio di calcolo aperto**  
+  Converte i dati dei documenti DOCX in formati di foglio di calcolo aperti.
+
+* **Elaborazione documenti interoperabile**  
+  Favorisce la compatibilità con gli ecosistemi di documenti aperti.
+
+* **Trasformazione dati strutturata**  
+  Consente l'estrazione di informazioni basate sul documento in file di foglio di calcolo.
+
+* **Migrazione dati verso formati aperti**  
+  Supporta la migrazione da formati di documento proprietari a standard aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di elaborazione dati aperti**  
+  I documenti DOCX possono essere convertiti automaticamente in fogli di calcolo FODS.
+
+* **Conversione batch in formato aperto**  
+  Gli script Python possono convertire collezioni di documenti in file di foglio di calcolo aperti.
+
+* **Flussi di lavoro aziendali interoperabili**  
+  I sistemi automatizzati possono esportare dati strutturati del documento in formati di foglio di calcolo aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

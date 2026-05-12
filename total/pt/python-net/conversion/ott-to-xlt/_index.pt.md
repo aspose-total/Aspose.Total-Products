@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de OTT para XLT nas APIs Python transforma modelos de texto OpenDocument em arquivos de modelo de planilha usados para padronizar a criação futura de pastas de trabalho. Isso é útil quando o conteúdo do documento deve se tornar um plano tabular reutilizável em vez de um único arquivo de saída.
+
+A conversão agrega valor de automação ao permitir a geração consistente de planilhas a partir de estruturas baseadas em modelos, reduzindo a configuração repetitiva e melhorando a uniformidade operacional.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo de Planilha**  
+  Converte documentos de origem em modelos de pastas de trabalho reutilizáveis.
+
+* **Estruturas Padronizadas de Entrada de Dados**  
+  Ajuda a definir estruturas de planilha repetíveis para uso futuro.
+
+* **Consistência de Processos**  
+  Suporta a geração uniforme de pastas de trabalho entre equipes e fluxos de trabalho.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Biblioteca de Modelos**  
+  Produz arquivos XLT a partir de documentos OTT padronizados.
+
+* **Configuração Recorrente de Pastas de Trabalho**  
+  Automatiza a preparação de fundações de planilhas reutilizáveis.
+
+* **Fluxos de Trabalho Escaláveis de Coleta de Dados**  
+  Suporta a criação repetível de pastas de trabalho com estrutura predefinida.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した POTX から XLTX への変換は、PowerPoint テンプレートのコンテンツを再利用可能なワークブック生成のための最新の Excel テンプレートファイルに変換します。これは、プレゼンテーション資産をレポート、計画、またはデータ収集用の標準化されたスプレッドシートテンプレートに適応する必要がある場合に有用です。
+
+自動化は、規模に応じてテンプレートベースのスプレッドシート資産をプログラム的に作成できるようにすることで、このユースケースを強化します。POTX から XLTX への変換は、一貫性、効率性、そして最新のスプレッドシート自動化ワークフローとの統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **再利用可能なスプレッドシートテンプレート**
+  プレゼンテーションテンプレートのコンテンツを Excel テンプレートに変換し、今後のワークブック作成を一貫させます。
+
+* **構造化された計画資産**
+  プレゼンテーションベースの資料を、業務向けの繰り返し使用できるスプレッドシート形式に変換するのに役立ちます。
+
+* **テンプレートの標準化**
+  チーム間および繰り返しのワークフロー全体で統一されたスプレッドシート設計をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**
+  POTX ファイルを XLTX テンプレートに変換し、継続的に使用できるよう自動化します。
+
+* **ワークブックファクトリーワークフロー**
+  標準化されたテンプレート資産から新しいスプレッドシートを作成するシステムをサポートします。
+
+* **スケーラブルなスプレッドシート操作**
+  プレゼンテーションテンプレートを大量に変換し、再利用可能なワークブック形式にすることを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

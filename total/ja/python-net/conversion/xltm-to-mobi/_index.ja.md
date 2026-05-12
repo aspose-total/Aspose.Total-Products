@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTMからMOBIへの変換をPythonで行うことで、マクロ対応のExcelテンプレートをデジタル読書やポータブルコンテンツアクセスに適したebook互換ファイルに変換することが可能になります。これは、スプレッドシートベースの情報を知識共有やモバイル消費のために、読者に優しい形式で配布する必要がある場合に価値があります。
+
+自動化ワークフロー内で、XLTMからMOBIへの変換はコンテンツ配信オプションを拡大し、デジタル出版パイプラインを支援し、構造化データをアクセスしやすい長文出力に再利用するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **電子書籍コンテンツの準備**  
+  構造化されたスプレッドシートテンプレートのコンテンツを、デジタル読書デバイスに適したポータブル形式に変換します。
+
+* **知識配布**  
+  ワークブックベースの資料を、より広い読書アクセシビリティを考慮した形式で提供することを支援します。
+
+* **モバイルアクセス向けコンテンツ再利用**  
+  スプレッドシート起源の情報を、軽量でポータブルな読書形式で共有できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動デジタル出版**  
+  XLTMソースからMOBIファイルを生成し、定期的なコンテンツ出版ワークフローに対応します。
+
+* **ポータブルドキュメント配信**  
+  構造化テンプレートデータをモバイルフレンドリーな読書資産に自動変換することを支援します。
+
+* **バッチ電子書籍生成**  
+  スプレッドシート駆動のコンテンツリポジトリからデジタル読書ファイルを大規模に作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

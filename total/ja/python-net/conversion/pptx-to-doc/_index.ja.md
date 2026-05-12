@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から DOC への変換は、プレゼンテーションの内容を、文書レビューや物語の拡張、テキスト中心の編集に適した編集可能なドキュメント形式に変換します。プレゼンテーション資料を文書、レポート、または広範なビジネス用途向けのドラフトテキストに変換する必要がある場合に有用です。
+
+Python API を使用して PPTX から DOC への変換を自動化することで、組織は文書生成を効率化し、手動での書き直しを削減し、コンテンツの移植性を向上させることができます。プレゼンテーション資料を共同作業、コンプライアンス、または出版のために編集可能なテキスト文書に再利用する必要があるスケーラブルなワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーションからレポートへの変換**
+  スライドの内容を編集可能なレポートに変換し、正式なレビューや配布に利用します。
+
+* **ドキュメント作成**
+  プレゼンテーション資料を内部または外部のドキュメント作成の基礎として再利用します。
+
+* **コンテンツ編集**
+  チームがテキスト中心の編集環境でスライドベースの情報を修正できるようにします。
+
+* **ナレッジ再フォーマット**
+  ビジネスプレゼンテーションをアーカイブや記録用の構造化ドキュメントに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート生成**
+  定期的なレポートワークフローの一部として、PPTX ファイルを DOC ドキュメントに変換します。
+
+* **ドキュメントレビュー パイプライン**
+  変換されたファイルを手動での再フォーマットなしに編集または承認プロセスへルーティングします。
+
+* **大量コンテンツの再利用**
+  多数のプレゼンテーションを大規模なドキュメント作業向けの編集可能な文書に変換します。
+
+* **システム間パブリッシング**
+  プログラムによる変換を使用して、プレゼンテーションコンテンツをドキュメント中心のプラットフォームへ移行します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

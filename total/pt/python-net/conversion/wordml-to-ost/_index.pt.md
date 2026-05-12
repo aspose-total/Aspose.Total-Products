@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para OST suporta a transformação de conteúdo baseado em documentos em formatos utilizáveis em fluxos de trabalho de dados de caixa de correio offline e ecossistemas de armazenamento de e‑mail. É relevante em cenários especializados de migração ou arquivamento onde as informações de documentos se tornam parte do manuseio de conteúdo orientado a caixas de correio.
+
+APIs Python podem ajudar a preparar e estruturar conteúdo para automação relacionada à conversão de WordML para OST, melhorando a repetibilidade em processos de mensagens corporativas e migração.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Dados da Caixa de Correio**
+  Usa o conteúdo de documentos como entrada para armazenamento de e‑mail offline e fluxos de trabalho de migração.
+
+* **Suporte ao Arquivamento Corporativo**
+  Ajuda a alinhar comunicações derivadas de documentos com processos de retenção centrados na caixa de correio.
+
+* **Empacotamento de Conteúdo Estruturado**
+  Suporta a transformação de texto aprovado em contextos de armazenamento orientados a mensagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Suporte à Migração**
+  Automatiza a preparação de conteúdo WordML para fluxos de trabalho de processamento de caixa de correio offline.
+
+* **Tarefas de Consolidação de Arquivo**
+  Integra registros derivados de documentos em operações mais amplas de arquivamento de e‑mail.
+
+* **Estruturação de Conteúdo Corporativo**
+  Permite o manuseio repetível de conteúdo de documentos pronto para mensagens em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

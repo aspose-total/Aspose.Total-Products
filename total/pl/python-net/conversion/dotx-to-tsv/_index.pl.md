@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to TSV conversion converts Word template content into tab-separated values for structured data sharing and simplified import into spreadsheet or processing tools. It is useful when tabular document content must be exported in a clean text-based format.
+
+With Python APIs, this conversion improves automation by enabling reliable text-based data exchange, lightweight processing, and large-scale transformation of template-driven content.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport danych w formacie tekstowym**
+  Konwertuj strukturalną zawartość dokumentu do lekkiego formatu tabelarycznego.
+
+* **Procesy importu do arkuszy kalkulacyjnych**
+  Przygotuj informacje pochodzące z szablonu do szybkiego ładowania w narzędziach danych.
+
+* **Wymiana danych przyjazna systemom**
+  Wspieraj transfer strukturalnej zawartości pomiędzy pipeline'ami automatyzacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zaplanowane wyodrębnianie danych**
+  Automatycznie konwertuj szablony DOTX na pliki TSV dla powtarzalnych procesów.
+
+* **Przygotowanie ETL**
+  Użyj wyjścia TSV jako warstwy wejściowej dla zautomatyzowanych pipeline'ów transformacji.
+
+* **Wysokowydajna konwersja tekstowa**
+  Przetwarzaj duże partie szablonów w kompaktowe, strukturalne wyniki.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

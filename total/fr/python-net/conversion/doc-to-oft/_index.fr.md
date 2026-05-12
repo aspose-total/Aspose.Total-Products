@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en OFT transforme le contenu Word en fichiers de modèles d’e‑mail réutilisables dans les flux de messagerie et de communication. Elle est particulièrement utile lorsque le contenu du document sert de base à des campagnes répétitives, des notifications ou une correspondance standardisée.
+
+Les API Python permettent la conversion de DOC en OFT dans le cadre de la génération automatisée de contenu, aidant les équipes à créer des modèles de messages cohérents et à améliorer l’efficacité de la communication.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Modèles d’e‑mail réutilisables**  
+  Convertir les brouillons de documents en modèles OFT pour une communication répétable.
+
+* **Messagerie standardisée**  
+  Garantir une structure et une rédaction cohérentes à travers les flux d’e‑mail récurrents.
+
+* **Approche basée sur des modèles**  
+  Réutiliser le contenu de documents formels dans des cadres de messages réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Production automatisée de modèles**  
+  Générer des fichiers OFT à partir du contenu DOC pour les systèmes de campagnes ou de notifications.
+
+* **Pipelines de messagerie pilotés par les documents**  
+  Convertir le texte de documents approuvés en modèles prêts à être personnalisés en aval.
+
+* **Opérations de communication évolutives**  
+  Maintenir de manière programmatique de vastes bibliothèques de formats de messages réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

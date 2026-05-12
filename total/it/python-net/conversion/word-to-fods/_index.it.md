@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da Word a FODS tramite le API Python consente la conversione di documenti di elaborazione testi in un formato di foglio di calcolo OpenDocument piatto, utile per la gestione dei dati basata su standard aperti e flussi di lavoro trasparenti guidati da XML. Questo è vantaggioso quando il contenuto del documento deve essere conservato in un formato di foglio di calcolo strutturato senza fare affidamento su pacchetti binari.
+
+In ambienti guidati dall'automazione, la conversione da Word a FODS supporta pipeline di trasformazione scalabili e allineate agli standard, che enfatizzano l'interoperabilità, la compatibilità con il controllo di versione e una più semplice ispezione programmatica dei dati di output.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Conversione di dati in formato aperto**
+  Esporta il contenuto derivato dal documento in un formato di foglio di calcolo piatto e strutturato basato su standard aperti.
+
+* **Archiviazione dati trasparente**
+  Rende l'output del foglio di calcolo più facile da ispezionare e processare in sistemi consapevoli di XML.
+
+* **Interoperabilità del flusso di lavoro**
+  Supporta l'integrazione con piattaforme che preferiscono gli standard di documenti aperti rispetto ai formati proprietari.
+
+* **Gestione del contenuto con controllo di versione**
+  Consente un migliore tracciamento dell'output strutturato in ambienti di archiviazione orientati al testo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di conversione basate su standard**
+  Trasforma automaticamente i file Word in FODS per flussi di lavoro di ecosistemi aperti.
+
+* **Automazione dell'archiviazione dei documenti**
+  Crea output di fogli di calcolo leggibili e strutturati per l'archiviazione a lungo termine e le esigenze di audit.
+
+* **Elaborazione guidata da XML**
+  Utilizza gli output FODS in routine automatizzate di parsing, validazione e trasformazione.
+
+* **Generazione batch di OpenDocument**
+  Produce file di fogli di calcolo piatti su larga scala da fonti documentali ricorrenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

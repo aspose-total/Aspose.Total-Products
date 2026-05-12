@@ -65,7 +65,41 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document-naar-TSV-conversie zet Word-inhoud om in tab‑gescheiden waarden, een eenvoudig gestructureerd formaat dat ideaal is voor schone tekstgebaseerde gegevensuitwisseling en importworkflows. Het is nuttig wanneer documenttabellen of herhaalde velden een lichtgewicht gestructureerde output nodig hebben.
+
+Python‑API's helpen bij het automatiseren van DOC‑naar‑TSV-conversie voor schaalbare extractie, gegevensvoorbereiding en integratietaken waarbij platte‑tekst tabelformaten de voorkeur hebben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Lichtgewicht gegevensexport**
+  Zet documenttabellen om in TSV voor eenvoudige gestructureerde uitwisseling.
+
+* **Importvriendelijke output**
+  Bereid Word‑afgeleide gegevens voor op tools en systemen die gescheiden tekst accepteren.
+
+* **Gegevensreinigingsworkflows**
+  Gebruik TSV‑output voor pre‑processing, validatie en pipeline‑inname.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Hoge‑volume gegevensextractie**
+  Converteer automatisch DOC‑bestanden naar TSV voor downstream verwerking.
+
+* **Pipeline‑klaar tekstexport**
+  Genereer gescheiden bestanden uit documenten als onderdeel van ETL‑ of importworkflows.
+
+* **Geplande transformatie‑taken**
+  Standaardiseer programmatisch documentgebaseerde records in TSV op een terugkerende basis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

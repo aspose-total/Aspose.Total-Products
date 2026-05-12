@@ -46,7 +46,44 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi TEXT ke O
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi teks ke OST menggunakan API Python mengacu pada transformasi konten teks biasa menjadi data yang cocok untuk alur kerja penyimpanan gaya kotak surat offline. Ini relevan dalam skenario yang melibatkan lingkungan komunikasi yang disinkronkan, persiapan arsip, atau kumpulan data pesan yang dihasilkan sistem yang ditujukan untuk akses kotak surat terstruktur.
+
+Dalam konteks otomasi, konversi ini membantu menyiapkan data komunikasi yang berasal dari teks untuk model penyimpanan terorganisir, mendukung pemrosesan skala besar, kontinuitas operasional, dan integrasi dengan ekosistem pesan yang dikelola.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Persiapan Data Surat Offline**  
+  Mengonversi konten teks menjadi bentuk terstruktur yang cocok untuk alur kerja kotak surat offline.
+
+* **Dukungan Penyimpanan Pesan**  
+  Membantu mengatur data komunikasi untuk sistem yang dirancang di sekitar akses kotak surat yang disinkronkan.
+
+* **Struktur Data Arsip**  
+  Mendukung persiapan catatan yang berasal dari teks untuk lingkungan penyimpanan yang dikelola.
+
+* **Penanganan Komunikasi Perusahaan**  
+  Memungkinkan pemrosesan skala besar konten teks menjadi format yang berorientasi kotak surat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomasi" %}}
+
+* **Generasi Data Kotak Surat**  
+  Otomasi dapat menyusun data komunikasi berbasis teks untuk alur kerja akses offline.
+
+* **Pipa Pemrosesan Massal**  
+  Kumpulan data teks besar dapat dipersiapkan secara programatik untuk operasi penyimpanan gaya kotak surat.
+
+* **Sistem Kontinuitas Operasional**  
+  Konversi otomatis mendukung penanganan konsisten catatan komunikasi di seluruh lingkungan yang dikelola.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

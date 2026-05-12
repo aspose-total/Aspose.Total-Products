@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da testo a MBOX usando le API Python consente di compilare contenuti di testo semplice in archivi in stile mailbox per l'archiviazione e il trasporto di email raggruppate. Questo è utile per la generazione di messaggi in blocco, i flussi di lavoro di migrazione e gli ambienti che necessitano di organizzare le comunicazioni in un formato contenitore di mailbox.
+
+La conversione è particolarmente rilevante per l'automazione perché consente la creazione scalabile di archivi mailbox da fonti testuali, supportando operazioni di backup, importazioni di messaggi e la gestione efficiente di dati di comunicazione ad alto volume.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivio mailbox**  
+  Converte il contenuto testuale in strutture compatibili MBOX per l'archiviazione di messaggi raggruppati.
+
+* **Imballaggio di comunicazioni in blocco**  
+  Supporta la combinazione di più messaggi derivati da testo in un unico file mailbox.
+
+* **Supporto alla migrazione e all'importazione**  
+  Aiuta a preparare le comunicazioni per il trasferimento in sistemi che accettano archivi MBOX.
+
+* **Conservazione a lungo termine**  
+  Consente la conservazione strutturata di contenuti testuali simili a messaggi per revisione e conformità.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Costruzione automatizzata di archivi**  
+  I sistemi possono convertire i record di testo generati in collezioni MBOX per l'archiviazione centralizzata.
+
+* **Flussi di lavoro di esportazione batch**  
+  Grandi insiemi di messaggi possono essere assemblati programmaticamente dal testo in archivi mailbox.
+
+* **Processi di consolidamento dati**  
+  L'automazione può raggruppare le comunicazioni basate su testo in file MBOX portatili per migrazione o backup.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

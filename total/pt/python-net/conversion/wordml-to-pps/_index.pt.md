@@ -64,7 +64,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para PPS converte o conteúdo de documentos em arquivos de apresentação de slides destinados à visualização direta. Isso é útil quando material baseado em documentos precisa ser entregue como uma apresentação pronta para uso, em vez de um deck editável.
+
+APIs Python ajudam a automatizar a conversão de WordML para PPS gerando saídas orientadas a slides que suportam distribuição eficiente e fluxos de trabalho de apresentação controlados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Entrega de Slides**
+  Converte o conteúdo WordML em arquivos PPS para reprodução imediata da apresentação.
+
+* **Distribuição Não Editável**
+  Suporta cenários em que o conteúdo da apresentação deve ser aberto no modo de exibição.
+
+* **Saída de Briefing Baseada em Documentos**
+  Reaproveita material escrito em apresentações de slides prontas para exibir.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Publicação Automatizada de Slides**
+  Gera arquivos PPS a partir de atualizações recorrentes de documentos e briefings.
+
+* **Pipelines de Distribuição de Apresentações**
+  Entrega apresentações prontas para visualização aos stakeholders sem preparação manual.
+
+* **Automação de Briefings Operacionais**
+  Converte documentos estruturados em recursos de slides para comunicações programadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para DOC transforma os dados da caixa de correio em documentos editáveis compatíveis com Word, ajudando as equipes a reutilizar o conteúdo de e‑mail para relatórios, revisões e documentação estruturada. É valiosa quando as mensagens precisam ser reformatadas, anotadas ou incorporadas a registros empresariais mais amplos.
+
+Com APIs Python, essa conversão pode ser automatizada para melhorar a geração de documentos, reduzir o trabalho manual de copiar‑e‑colar e suportar fluxos de trabalho escaláveis que transformam arquivos de e‑mail em conteúdo reutilizável pronto para o escritório.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Documentação de E‑mail Editável**
+  Converta e‑mails arquivados em arquivos de documento editáveis para revisão e formatação.
+
+* **Compilação de Registros Empresariais**
+  Combine o conteúdo das mensagens em documentos usados para relatórios, aprovações ou revisões.
+
+* **Reuso de Conhecimento**
+  Facilite a reutilização de conteúdo importante da caixa de correio em documentos operacionais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Montagem Automatizada de Relatórios**
+  Converta e‑mails selecionados em arquivos DOC para inclusão em relatórios empresariais recorrentes.
+
+* **Pipelines de Extração de Conteúdo**
+  Transforme arquivos de caixa de correio em documentos editáveis para fluxos de trabalho de revisão subsequentes.
+
+* **Criação em Massa de Documentos Office**
+  Gere saídas DOC organizadas a partir de grandes conjuntos de e‑mails usando automação Python.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

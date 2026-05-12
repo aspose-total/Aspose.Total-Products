@@ -53,7 +53,41 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX en images transforme le contenu des modèles Word en sortie visuelle pour la prévisualisation, le partage, la publication et les besoins d'archivage. Elle est utile lorsque la mise en page des documents doit être conservée sous forme d'assets image pour un accès facile sur toutes les plateformes.
+
+Cette conversion prend en charge l'automatisation en permettant aux API Python de générer des renditions basées sur des images des modèles pour la diffusion de contenu, les aperçus de documents et les flux de travail visuels qui ne dépendent pas de formats éditables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération d'aperçus de documents**  
+  Rendre le contenu du modèle sous forme d'images pour une visualisation rapide et une distribution.
+
+* **Archivage visuel**  
+  Conserver l'apparence du document dans un format facile à stocker et à référencer.
+
+* **Partage multiplateforme**  
+  Partager le contenu du document visuellement sans nécessiter de logiciel d'édition.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de vignettes et d'aperçus**  
+  Créer automatiquement des aperçus d'images à partir de fichiers DOTX pour les portails et les dépôts.
+
+* **Flux de travail de publication**  
+  Convertir les modèles en images pour les sites web, les rapports ou les systèmes de documentation visuelle.
+
+* **Tâches de rendu à grande échelle**  
+  Traiter des lots de modèles en ensembles d'images pour une livraison de sortie standardisée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

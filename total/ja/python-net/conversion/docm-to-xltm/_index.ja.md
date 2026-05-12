@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から XLTM への変換は、マクロ対応ドキュメントをマクロ対応スプレッドシートテンプレートに変換し、再利用可能なブック構造と高度な自動化動作を組み合わせます。これは、テンプレートで一貫性と組み込みスプレッドシートロジックの両方を必要とする組織にとって価値があります。
+
+自動化とスケールを考慮し、DOCM から XLTM への変換は、複雑なスプレッドシートワークフローに必要な動的機能を保持しながら、テンプレート駆動のブック作成を繰り返し可能にサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要ユースケース" %}}
+
+* **マクロ対応テンプレート作成**
+  自動化対応の動作を含む再利用可能なスプレッドシートテンプレートを生成します。
+
+* **高度な再利用可能ワークフロー**
+  組み込みロジックまたはスクリプト化されたアクションを使用したブックの繰り返し作成をサポートします。
+
+* **柔軟性を伴う標準化**
+  高度なスプレッドシート機能を失うことなく、一貫したテンプレートの維持を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレートパイプラインサポート**
+  繰り返しブック生成のために DOCM ファイルを XLTM 出力に変換します。
+
+* **組み込みロジックの再利用**
+  下流のワークフローが高度な動作を備えた一貫したテンプレートを使用できるようにします。
+
+* **スケーラブルなスプレッドシート提供**
+  運用全体でマクロ対応テンプレートを大規模に配布することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

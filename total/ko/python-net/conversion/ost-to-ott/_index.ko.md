@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 OST를 OTT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST에서 OTT로의 변환은 메일함 콘텐츠를 오픈 문서 템플릿 형식으로 변환하여 이메일에서 파생된 정보를 재사용 가능한 템플릿 구조에 삽입할 수 있게 합니다. 이는 표준 형식과 반복 가능한 레이아웃 제어를 오픈 문서 워크플로우에서 원활히 활용하고자 하는 조직에 유용합니다.
+
+자동화 환경에서 OST에서 OTT로의 변환은 메일함 아카이브로부터 확장 가능한 템플릿 생성 및 문서 표준화를 지원합니다. Python API는 이 과정을 효율적이고 신뢰성 있게 만들어 팀이 반복 가능한 문서화 및 보고 파이프라인을 자동화하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 오픈 템플릿**  
+  메일함 데이터를 OTT 파일로 변환하여 반복 가능한 문서 생성을 가능하게 합니다.
+
+* **표준화된 문서 레이아웃**  
+  오픈 문서 환경에서 이메일 파생 콘텐츠에 일관된 구조를 적용하도록 돕습니다.
+
+* **템플릿 기반 보고**  
+  아카이브된 커뮤니케이션 콘텐츠를 기반으로 하는 반복적인 비즈니스 산출물을 지원합니다.
+
+* **오픈 워크플로우 호환성**  
+  표준 기반 템플릿 시스템에서 메일함 정보를 보다 쉽게 사용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 자동화**  
+  Python 스크립트가 OST 콘텐츠를 OTT로 변환하여 표준화된 문서 생성을 가능하게 합니다.
+
+* **반복 가능한 보고 파이프라인**  
+  자동화된 워크플로우가 메일함 아카이브에서 템플릿 준비가 된 오픈 문서를 생성합니다.
+
+* **확장 가능한 콘텐츠 구조화**  
+  프로그래밍 방식 변환은 대규모 재사용 가능한 문서 템플릿 준비를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

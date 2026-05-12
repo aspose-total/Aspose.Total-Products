@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a ICS trasforma i modelli di documento in dati compatibili con i calendari che possono essere utilizzati per la programmazione e lo scambio di eventi. Questo è importante quando il contenuto del modello contiene informazioni basate su date che devono essere condivise attraverso i flussi di lavoro dei calendari.
+
+Con le API Python, la conversione da DOT a ICS può essere automatizzata per supportare la generazione di eventi, la distribuzione di appuntamenti e l'integrazione con i sistemi di pianificazione in modo affidabile e ripetibile.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di eventi da modelli**  
+  Converti le informazioni di programmazione basate su DOT in file ICS per l'uso nei calendari.
+
+* **Distribuzione di riunioni e linee temporali**  
+  Condividi date ed eventi derivati dal documento in un formato di pianificazione standard.
+
+* **Integrazione della pianificazione del flusso di lavoro**  
+  Trasforma il contenuto strutturato del modello in artefatti di calendario per la pianificazione operativa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di calendari**  
+  Gli script Python possono convertire i modelli DOT orientati alle date in file ICS per la distribuzione.
+
+* **Supporto al flusso di pianificazione**  
+  La conversione consente ai sistemi di inviare eventi definiti nei documenti nei flussi di lavoro dei calendari.
+
+* **Pubblicazione batch di eventi**  
+  L'elaborazione programmatica consente la creazione ad alto volume di file ICS da più modelli.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

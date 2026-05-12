@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から Excel への変換は、マクロ対応の Word テンプレートを分析、レポート作成、構造化データ処理に適したスプレッドシート形式のブックに変換します。文書テンプレートに表や繰り返しセクション、計算やレビューに最適化された形式に移す必要があるデータが含まれる場合に便利です。
+
+DOTM から Excel への変換に Python API を使用すると、文書から構造化コンテンツを自動的に抽出し、スプレッドシートのワークフローに取り込むことができます。これにより、業務効率が向上し、スケーラブルなレポート作成を支援し、文書主導のプロセスとデータ中心のビジネスシステムを接続します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ドキュメントからスプレッドシートへのレポート**
+  テンプレートベースのコンテンツを分析およびプレゼンテーション用の Excel ブックに変換します。
+
+* **構造化テーブルエクスポート**
+  DOTM ファイルから表形式の情報を、ソートや計算により適した形式に移行します。
+
+* **運用データハンドオフ**
+  文書で収集された情報を、チームやシステムで使用されるスプレッドシートのワークフローに転送します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート生成**
+  DOTM ファイルは、スケジュールされたレポートパイプラインの一部として Excel 出力に処理できます。
+
+* **データ統合ワークフロー**
+  この変換により、文書ベースの値を自動的に収集し、集中管理されたスプレッドシート資産に取り込むことが可能になります。
+
+* **大量変換サービス**
+  スクリプト化された処理により、複数の DOTM テンプレートを一貫して迅速に Excel ファイルへ変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

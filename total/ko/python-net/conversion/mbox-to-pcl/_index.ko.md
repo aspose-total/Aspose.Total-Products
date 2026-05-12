@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 PCL로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 PCL 변환은 메일함 아카이브를 프린터 제어 언어 출력으로 변환하여 이메일 콘텐츠를 인쇄 중심 시스템 및 장치 지향 워크플로에 적합하게 만듭니다. 이는 아카이브된 메시지를 직접 제어된 인쇄 환경으로 전달해야 할 때 유용합니다.
+
+Python API를 사용하면 팀이 메일함에서 PCL로의 변환을 자동화하여 인쇄 대기열, 대용량 문서 처리 및 엔터프라이즈 출력 시스템과의 통합을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **인쇄 지향 이메일 내보내기**
+  프린터 준비가 된 처리를 위해 메시지를 PCL 파일로 변환합니다.
+
+* **장치 워크플로 호환성**
+  제어된 인쇄 출력을 기반으로 구축된 시스템을 위해 메일함 콘텐츠를 준비합니다.
+
+* **운영 인쇄 아카이빙**
+  생산 인쇄 워크플로와 일치하는 형식으로 이메일 기록을 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 인쇄 대기열 생성**
+  예약된 인쇄 워크플로를 위해 메일함 아카이브를 PCL 출력으로 변환합니다.
+
+* **엔터프라이즈 출력 통합**
+  변환된 이메일 파일을 장치 관리 및 인쇄 처리 시스템으로 라우팅합니다.
+
+* **고용량 문서 렌더링**
+  인쇄 중심 운영 환경을 위해 메일함 변환을 확장하는 데 Python을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

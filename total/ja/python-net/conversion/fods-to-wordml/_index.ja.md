@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS から WordML への変換は、フラットな OpenDocument スプレッドシート ファイルを XML ベースのワードプロセッシング ドキュメントに変換し、マークアップ駆動の文書処理の恩恵を受けるシステムへの構造化コンテンツの統合を容易にします。この形式は、構造化された相互運用性、文書処理、または XML 指向の変換パイプラインを必要とするワークフローに有用です。
+
+自動化およびシステム統合のために、FODS から WordML への変換は、プログラムによる文書生成、構造化コンテンツの交換、スケーラブルな変換ワークフローをサポートします。Python API は、XML ベースの文書出力の生成を自動化し、一貫性を向上させ、手動介入を削減します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **XMLベースの文書処理**  
+  構造化マークアップに依存するワークフローのために、FODS コンテンツを WordML に変換します。
+
+* **システム統合サポート**  
+  文書コンテンツを処理システム間で交換する必要がある場合に、WordML 出力を使用します。
+
+* **構造化コンテンツ変換**  
+  スプレッドシート由来の情報を、下流の XML 対応文書処理タスク向けに準備します。
+
+* **相互運用可能なワークフロー設計**  
+  機械可読な文書表現の恩恵を受ける環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **マークアップ駆動の変換パイプライン**  
+  Python ワークフローは、構造化処理のために FODS 入力から WordML ファイルを生成できます。
+
+* **自動化されたコンテンツ交換**  
+  システムは、最小限の手動処理で XML ベースの文書をアプリケーション間で変換および転送できます。
+
+* **バッチ XML 文書生成**  
+  大量の FODS ファイルをプログラムで WordML 形式に変換できます。
+
+* **スケーラブルな統合ワークフロー**  
+  自動変換は、構造化文書出力が必要な大量シナリオをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

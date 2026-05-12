@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTX를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 OFT 변환은 Word 템플릿 콘텐츠를 재사용 가능한 메시지 작성을 위한 이메일 템플릿 형식으로 변환합니다. 문서 기반 콘텐츠를 일관된 외부 워크플로우를 위한 반복 가능한 커뮤니케이션 템플릿으로 만들어야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환이 자동화를 지원하여 팀이 문서 소스에서 재사용 가능한 이메일 템플릿을 생성하고 이를 표준화된 메시징 시스템에 통합할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 이메일 템플릿**
+  구조화된 문서 콘텐츠를 반복 가능한 메시지 템플릿으로 전환합니다.
+
+* **일관된 커뮤니케이션 디자인**
+  승인된 문서 레이아웃을 사용하여 이메일 작성을 표준화합니다.
+
+* **템플릿 기반 운영**
+  반복되는 내부 또는 외부 서신에 정형화된 콘텐츠를 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 생성**
+  일관된 이메일 워크플로우를 위해 DOTX 템플릿에서 OFT 파일을 생성합니다.
+
+* **확장 가능한 커뮤니케이션 설정**
+  운영 팀을 위해 대량으로 재사용 가능한 메시지 자산을 준비합니다.
+
+* **문서-템플릿 파이프라인**
+  승인된 문서 형식을 프로그래밍 방식으로 이메일 템플릿으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

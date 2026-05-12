@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MOBI para XLT em Python permite converter o conteúdo de e‑books para um formato de modelo de planilha usado na criação de pastas de trabalho repetíveis. Isso é útil quando as saídas estruturadas precisam seguir um layout fixo, fórmulas predefinidas ou um design de relatório padronizado.
+
+Em fluxos de trabalho de automação, a conversão de MOBI para XLT ajuda as organizações a criar modelos de planilha consistentes a partir de fontes de conteúdo extraído. Ela apoia a padronização, reduz o esforço de formatação repetitiva e permite a geração escalável de documentos estruturados com base em padrões uniformes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Relatórios Baseados em Modelo**
+  Converta o conteúdo MOBI para XLT em fluxos de trabalho que exigem layouts de planilha repetíveis.
+
+* **Design de Pasta de Trabalho Padronizado**
+  Use a saída do modelo para preservar a estrutura, formatação e organização consistente das planilhas.
+
+* **Criação de Documentos Orientada a Processos**
+  Apoie equipes que geram múltiplas instâncias de planilhas a partir de uma base de modelo comum.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Recorrente de Modelos**
+  Crie automaticamente arquivos XLT a partir de dados derivados de MOBI para ciclos de relatório repetidos.
+
+* **Pipelines de Padronização de Formato**
+  Use automação em Python para garantir que cada planilha convertida siga o mesmo modelo estrutural.
+
+* **Produção Escalável de Pastas de Trabalho**
+  Alimente as saídas baseadas em modelo em sistemas que geram documentos operacionais padronizados em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

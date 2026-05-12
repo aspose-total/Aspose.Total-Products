@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para BMP usando APIs Python permite que o conteúdo de modelos de e‑mail seja transformado em imagens bitmap para arquivamento, geração de pré‑visualizações e compartilhamento de layout fixo. Esse processo é valioso quando a consistência visual é importante e quando o conteúdo baseado em mensagens deve ser preservado como um formato de imagem estático e amplamente legível.
+
+Em fluxos de trabalho modernos, a conversão de OFT para BMP suporta a automação ao transformar modelos de e‑mail reutilizáveis em ativos de imagem que podem ser indexados, revisados e distribuídos sem a necessidade de clientes de e‑mail. Ela melhora a eficiência operacional no manuseio de documentos, pipelines de relatórios e gerenciamento de registros visuais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Arquivamento de Pré‑visualização de Modelo**  
+  Converta arquivos OFT em imagens BMP para preservar os layouts dos modelos de e‑mail como registros visuais estáticos.
+
+* **Revisão de Conformidade Visual**  
+  Use as saídas bitmap para inspeção manual ou automatizada de formatação, avisos legais e elementos de marca.
+
+* **Distribuição de Imagem Offline**  
+  Compartilhe o conteúdo de e‑mail renderizado em um formato de imagem simples para revisão interna ou fins de documentação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Renderização em Lote de Modelos de E‑mail**  
+  Automatize a conversão de múltiplos modelos OFT em arquivos BMP para catalogação e verificações de qualidade.
+
+* **Integração de Fluxo de Trabalho de Documentos**  
+  Direcione as saídas BMP convertidas para repositórios de documentos, sistemas de auditoria ou pipelines de aprovação.
+
+* **Pipelines de Geração de Pré‑visualizações**  
+  Gere dinamicamente pré‑visualizações visuais a partir de modelos OFT para painéis, portais ou bibliotecas de conteúdo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTX를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 VCF로 변환하면 Word 템플릿 콘텐츠를 개인 또는 조직 연락처 정보를 저장하고 공유하는 데 사용되는 연락처 카드 형식으로 변환합니다. 템플릿에 구조화된 연락처 세부 정보가 포함되어 있어 통신 시스템에서 재사용해야 할 때 유용합니다.
+
+Python API를 사용하면 이 변환이 자동화를 지원하여 연락처 추출, 디지털 주소록 생성 및 문서 기반 연락처 레코드의 확장 가능한 동기화를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **연락처 정보 추출**
+  템플릿에서 구조화된 연락처 세부 정보를 재사용 가능한 디지털 카드로 변환합니다.
+
+* **디렉터리 준비**
+  문서 기반 정보를 사용하여 휴대 가능한 연락처 레코드를 구축합니다.
+
+* **통신 시스템 통합**
+  주소록 및 연락처 공유 워크플로우에서 템플릿 콘텐츠를 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 생성**
+  온보딩 또는 디렉터리 프로세스를 위해 DOTX 템플릿에서 VCF 파일을 생성합니다.
+
+* **대량 연락처 내보내기**
+  반복되는 문서 기반 레코드를 공유 가능한 연락처 카드로 변환합니다.
+
+* **동기화된 연락처 워크플로우**
+  변환된 연락처 데이터를 통신 및 CRM 관련 시스템에 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

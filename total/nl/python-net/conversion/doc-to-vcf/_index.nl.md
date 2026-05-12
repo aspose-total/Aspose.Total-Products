@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOC naar VCF-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document-naar-VCF-conversie zet contactinformatie die in Word‑documenten is opgeslagen om naar een gestandaardiseerd vCard‑formaat voor adresboeken en contactsystemen. Het is waardevol wanneer visitekaartjes, telefoongidsen of contactlijsten van documenten naar digitale contactworkflows moeten worden overgebracht.
+
+Het gebruik van Python‑API’s voor DOC‑naar‑VCF-conversie verbetert de nauwkeurigheid, vermindert handmatige contactinvoer en ondersteunt schaalbare synchronisatie tussen documentbronnen en contactbeheersystemen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Extractie van contactgegevens**
+  Converteer contactgegevens uit documenten naar vCard‑bestanden voor hergebruik.
+
+* **Import van adresboek**
+  Bereid documentgebaseerde contactinformatie voor op directe import in contactsystemen.
+
+* **Modernisering van de directory**
+  Transformeer statische contactlijsten naar draagbare digitale contactrecords.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactgeneratie**
+  Maak VCF‑bestanden aan vanuit DOC‑mappen, lijsten of formulieren via programmatische methoden.
+
+* **CRM‑ en contactsynchronisatieondersteuning**
+  Leid geëxtraheerde documentcontacten naar contactbeheersystemen.
+
+* **Batchverwerking van contacten**
+  Converteer vele contactgerichte documenten naar herbruikbare vCard‑assets op schaal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

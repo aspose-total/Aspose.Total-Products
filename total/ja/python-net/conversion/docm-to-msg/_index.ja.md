@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から MSG への変換は、マクロ対応ドキュメントを、メッセージベースの保存および交換ワークフローに適した個別のメールメッセージファイルに変換します。文書の内容を通信、レビュー、または保持のための構造化されたメールアーティファクトとして保存する必要がある場合に便利です。
+
+自動化において、DOCM から MSG へのワークフローは、プロセス処理のために個別のメールアイテムに依存するシステムで、メッセージの生成、保存、転送を効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **単一メッセージパッケージング**
+  文書コンテンツからスタンドアロンのメッセージファイルを作成し、組織化されたコミュニケーションワークフローに利用します。
+
+* **アーカイブとレビュー**
+  文書由来のやり取りを構造化されたメッセージ形式で保存します。
+
+* **メールシステム互換性**
+  通信を個別のメッセージオブジェクトとして処理または保存する環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メッセージファイル作成**
+  DOCM ドキュメントから直接 MSG 出力を生成し、繰り返し可能なワークフローの一部として提供します。
+
+* **ワークフローベースの保持**
+  変換されたメッセージファイルをコンプライアンス、監査、またはアーカイブシステムへルーティングします。
+
+* **スケーラブルなバッチ処理**
+  大量の DOCM ファイルをプログラムでメッセージアーティファクトに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

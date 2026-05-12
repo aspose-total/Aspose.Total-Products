@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python을 사용한 ODP에서 DOT 변환은 프레젠테이션 콘텐츠를 반복 가능한 문서 작성을 지원하는 Word 템플릿 파일로 변환할 수 있게 합니다. 이는 조직이 프레젠테이션에서 파생된 콘텐츠를 표준화된 문서 작업 흐름의 시작점으로 재사용하고자 할 때 유용합니다.
+
+자동화된 환경에서 ODP를 DOT로 변환하면 수동 서식을 줄이고 일관성을 향상시키는 템플릿 기반 프로세스를 구축하는 데 도움이 됩니다. 변환된 콘텐츠가 재사용 가능한 문서 프레임워크의 일부가 되어야 하는 확장 가능한 운영을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션에서 템플릿 생성**  
+  슬라이드 콘텐츠를 반복적인 문서 제작을 위한 DOT 템플릿으로 변환합니다.
+
+* **표준화된 문서 레이아웃**  
+  변환된 출력을 사용하여 생성된 문서 전반에 일관된 서식을 유지합니다.
+
+* **재사용 가능한 콘텐츠 프레임워크**  
+  프레젠테이션 자료를 반복 가능한 비즈니스 작성 작업을 위한 재사용 구조로 전환합니다.
+
+* **부서 문서 표준화**  
+  템플릿 기반 문서 준비와 일관된 레이아웃에 의존하는 팀을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 콘텐츠 자동화**  
+  ODP에서 파생된 콘텐츠를 DOT 템플릿에 삽입하여 반복 가능한 문서 생성을 수행합니다.
+
+* **대량 템플릿 준비**  
+  여러 프레젠테이션을 대규모 마이그레이션 프로젝트의 일환으로 재사용 가능한 템플릿으로 변환합니다.
+
+* **프로세스 표준화 워크플로**  
+  프레젠테이션 라이브러리에서 문서 템플릿 생성을 자동화하여 일관성을 보장합니다.
+
+* **문서 조립 시스템**  
+  DOT 출력을 하위 문서 채우기 프로세스의 구조화된 시작점으로 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

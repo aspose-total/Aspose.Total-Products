@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para OFT transforma modelos de documentos em arquivos de modelo de e‑mail usados em fluxos de trabalho de mensagens repetíveis. Isso é valioso quando as organizações desejam transformar modelos escritos em ativos de comunicação reutilizáveis.
+
+Usando APIs Python, a conversão de DOT para OFT suporta a geração automatizada de modelos de mensagem que melhoram a consistência, reduzem o trabalho repetitivo e agilizam a preparação da comunicação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Modelos de E‑mail Reutilizáveis**
+  Converta arquivos DOT em OFT para redação de mensagens padronizadas.
+
+* **Padronização da Comunicação**
+  Reaproveite layouts de documentos como modelos de e‑mail repetíveis para equipes ou sistemas.
+
+* **Ativos de Mensagens Prontos para Fluxos de Trabalho**
+  Prepare modelos de comunicação estruturados para reutilização em operações recorrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelos**
+  Fluxos de trabalho em Python podem criar arquivos OFT a partir de documentos DOT para sistemas de preparação de mensagens.
+
+* **Pipelines de Comunicação Repetíveis**
+  A conversão permite a geração consistente de modelos de e‑mail a partir de fontes de documentos centrais.
+
+* **Implantação Escalável de Modelos**
+  Processos programáticos podem gerar e gerenciar grandes quantidades de modelos de e‑mail reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

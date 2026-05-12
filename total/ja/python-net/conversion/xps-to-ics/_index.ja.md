@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した XPS から ICS への変換により、固定レイアウト文書の情報をカレンダー互換のファイルに変換でき、スケジューリングやイベント配布をサポートします。XPS 文書に会議の詳細、予約データ、イベントスケジュール、または期限に関する情報が含まれており、構造化されたカレンダー形式で共有する必要がある場合に有用です。
+
+自動化された環境では、この変換によりスケジューリングの効率が向上し、手動でのイベント作成が削減され、文書主導のプロセスがカレンダーのワークフロー、リマインダー、計画システムと直接連携できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スケジュール抽出と共有**  
+  XPS ファイルから時間ベースの情報を抽出し、カレンダーイベントとして配布可能な ICS エントリに変換します。
+
+* **会議および予約の自動化**  
+  文書ベースの会議通知や予約確認から、カレンダー対応ファイルの作成をサポートします。
+
+* **期限調整**  
+  文書に保存されたマイルストーンや期日を、実行可能なカレンダー記録に変換します。
+
+* **クロスシステムスケジューリングサポート**  
+  文書データをカレンダー互換のワークフローに流し込み、より広範な調整を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動イベントファイル生成**  
+  新しいイベント文書が作成されるたびに、システムが XPS スケジュールを ICS ファイルに変換できます。
+
+* **リマインダー ワークフロー統合**  
+  変換されたカレンダー ファイルは、自動リマインダーや通知パイプラインで使用できます。
+
+* **繰り返しスケジュール処理**  
+  バッチ ジョブが複数の日時駆動型 XPS ファイルを抽出・変換し、カレンダー対応の出力を生成します。
+
+* **文書から計画へのパイプライン**  
+  業務ワークフローが文書作成とスケジューリングシステムを直接結びつけ、プログラム的に ICS を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

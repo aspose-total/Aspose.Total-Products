@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de TIFF en OFT à l'aide des API Python permet de convertir des documents image en formats de modèles d'e‑mail réutilisables pouvant prendre en charge des processus de communication répétables. Cela est précieux lorsque du contenu ou des mises en page basés sur le TIFF doivent être transformés en modèles structurés pour des flux de travail de messagerie sortante cohérents.
+
+Dans les contextes d'automatisation, la conversion de TIFF en OFT améliore la normalisation des modèles, réduit la préparation de contenu répétitive et soutient la conception de communications évolutives. Elle est particulièrement utile pour les notifications récurrentes, les campagnes basées sur des formulaires et les cadres de messagerie opérationnelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Modèles de messages réutilisables**
+  Convertit le contenu dérivé du TIFF en fichiers OFT pour des flux de travail de composition d'e‑mail répétables.
+
+* **Actifs de communication standardisés**
+  Aide à maintenir un formatage et une structure cohérents à travers les processus de messages récurrents.
+
+* **Opérations basées sur des modèles**
+  Permet de transformer les documents image en points de départ structurés pour les communications futures.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Flux de travail de notifications récurrentes**
+  Automatise la création de modèles OFT à partir de sources TIFF pour des messages opérationnels répétés.
+
+* **Préparation d'e‑mail basée sur les formulaires**
+  Permet de convertir le contenu visuel des formulaires en modèles d'e‑mail réutilisables pour des campagnes structurées.
+
+* **Pipelines de distribution de modèles**
+  Permet la génération dynamique et la distribution d'actifs de modèles d'e‑mail basés sur des entrées TIFF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

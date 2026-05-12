@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から DOCX への変換により、マクロ対応の Excel テンプレートを、編集、共同作業、文書交換で広く使用されている最新の Word 文書に変換できるようになります。この変換は、スプレッドシート由来のコンテンツを洗練された、かつアクセスしやすい文書形式で提示する必要がある場合に価値があります。
+
+自動化の観点から見ると、XLTM から DOCX への変換は文書生成を簡素化し、最新システムとの互換性を向上させ、レポートやコンテンツ配信のためのスケーラブルな出力をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **編集可能なビジネス文書**  
+  テンプレートベースのスプレッドシート情報を、編集および共同作業に適した Word ファイルに変換します。
+
+* **最新の文書出版**  
+  一般的な文書化、承認、配布ワークフローに適合する DOCX 出力を生成します。
+
+* **スプレッドシートからテキストへの変換**  
+  構造化されたブック内容を、より広い利用性のために物語的に扱いやすい文書構造に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化レポートパイプライン**  
+  スケジュールまたはイベントベースのレポートワークフローの一部として、XLTM テンプレートから DOCX 文書を生成します。
+
+* **大量変換サービス**  
+  スプレッドシートテンプレートを大量に標準化された Word 出力に変換することをサポートします。
+
+* **システム統合ワークフロー**  
+  Python ベースのアプリケーションが、スプレッドシート駆動のソースファイルから文書準備済みコンテンツを作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

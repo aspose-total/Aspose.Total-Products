@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MOBI vers DIF en Python permet de transformer le contenu d’un ebook en un format d’échange de données couramment utilisé pour les flux de travail orientés tableur. Cela est utile lorsque le contenu doit être transféré vers des environnements de données compatibles avec les systèmes hérités ou des systèmes qui reposent sur des normes d’importation structurées.
+
+Dans les environnements pilotés par l’automatisation, la conversion MOBI vers DIF prend en charge la transformation répétable du contenu, la compatibilité avec les données héritées et l’échange simplifié entre les dépôts de documents et les couches de traitement basées sur les tableurs. Elle aide à faire le lien entre les fichiers de publication et les flux de travail métier structurés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Importation de feuilles de calcul héritées**
+  Convertir le contenu MOBI en DIF afin qu’il puisse être importé dans d’anciens outils de tableur et de traitement de données.
+
+* **Réutilisation structurée du contenu**
+  Réutiliser les informations extraites de l’ebook dans des systèmes qui dépendent de formats de données orientés échange.
+
+* **Transformation archivistique**
+  Conserver le contenu utile dans un format structuré adapté aux traitements à long terme ou aux projets de migration.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Flux automatisés vers systèmes hérités**
+  Diriger le contenu dérivé de MOBI vers les flux de travail de feuilles de calcul héritées grâce à la génération de DIF.
+
+* **Harmonisation de format planifiée**
+  Standardiser les sources de documents mixtes en convertissant les fichiers MOBI en DIF lors de tâches récurrentes.
+
+* **Pipelines de support à la migration**
+  Utiliser l’automatisation Python pour préparer le contenu d’ebook en vue d’une importation massive dans d’anciens systèmes opérationnels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

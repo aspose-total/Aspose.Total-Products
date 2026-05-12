@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から OTT への変換は、連絡先カードデータを、繰り返し可能で標準化されたコンテンツ作成をサポートするオープンドキュメントテンプレートに変換します。これは、連絡先情報を再利用可能なレイアウトに挿入して一貫した文書生成を行う必要がある場合に有用です。
+
+自動化されたワークフローにおいて、VCF から OTT への変換は、Python API がテンプレート対応の出力を作成できるようにし、効率を向上させ、フォーマット作業を削減し、スケーラブルな文書組み立てプロセスをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **オープンテンプレート生成**  
+  VCF レコードを OTT ファイルに変換し、再利用可能な文書構造を作成します。
+
+* **標準化された連絡先レイアウト**  
+  連絡先情報を繰り返し使用できるテンプレート形式で準備します。
+
+* **プロセス対応ドキュメント**  
+  オープンドキュメント互換性を備えたテンプレート駆動型ワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化パイプライン**  
+  連絡先データから OTT テンプレートを大量に生成します。
+
+* **一貫した文書組み立て**  
+  繰り返し可能なフォーマットが必要なワークフローで変換されたテンプレートを使用します。
+
+* **スケーラブルなオープンフォーマット処理**  
+  Python API を活用して、再利用可能なテンプレート資産を効率的に作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MBOX a EPUB converte gli archivi di caselle di posta in file di pubblicazione digitale riformattabili, rendendo il contenuto delle email più facile da distribuire, leggere e conservare in ambienti compatibili con e‑reader. Questo è prezioso quando le comunicazioni archiviate devono essere presentate come contenuti digitali lunghi e organizzati.
+
+Con le API Python, questa conversione può essere automatizzata per creare pubblicazioni portatili dai dati della casella di posta, migliorare l’accessibilità dei contenuti e supportare flussi di lavoro strutturati per la distribuzione digitale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di pubblicazioni digitali**
+  Converti gli archivi email in file EPUB per esperienze di lettura strutturate e portatili.
+
+* **Imballaggio di contenuti lunghi**
+  Combina il contenuto della casella di posta in formati digitali pronti per la pubblicazione, per riferimento o distribuzione.
+
+* **Consegna accessibile degli archivi**
+  Presenta le raccolte di messaggi in un formato leggibile adatto a più dispositivi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di eBook**
+  Trasforma il contenuto della casella di posta in pubblicazioni EPUB attraverso flussi di lavoro Python ripetibili.
+
+* **Distribuzione portatile della conoscenza**
+  Esporta archivi email curati in pacchetti di lettura digitale per condivisione interna.
+
+* **Pubblicazione strutturata dei contenuti**
+  Integra la conversione da MBOX a EPUB nei pipeline automatizzati di pubblicazione e archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

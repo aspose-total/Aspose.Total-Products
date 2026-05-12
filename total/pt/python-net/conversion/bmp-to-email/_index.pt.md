@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de BMP para e‑mail permite que arquivos de imagem bitmap sejam incorporados ou anexados em mensagens de e‑mail estruturadas. Esse processo é comumente usado quando ativos visuais precisam ser entregues através de sistemas de comunicação ou arquivados em plataformas de mensagens.
+
+Em ambientes automatizados, converter imagens BMP em formatos compatíveis com e‑mail possibilita integração perfeita com sistemas de notificação, fluxos de trabalho de documentos e pipelines de relatórios. Isso ajuda sistemas modernos a distribuir informações visuais de forma eficiente, mantendo formatos de comunicação estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Entrega Automatizada de Relatórios**  
+  Os sistemas podem converter gráficos ou capturas de tela BMP gerados em mensagens de e‑mail para fluxos de trabalho de relatórios automatizados.
+
+* **Sistemas de Notificação Visual**  
+  Ferramentas de monitoramento podem enviar alertas baseados em imagens por e‑mail quando condições específicas do sistema são detectadas.
+
+* **Arquivamento de Documentos em Sistemas de E‑mail**  
+  Organizações podem armazenar documentos baseados em imagens dentro de registros de e‑mail para arquivamento estruturado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Relatórios de Imagem Agendados**  
+  Scripts automatizados convertem arquivos BMP em anexos de e‑mail e os distribuem em intervalos programados.
+
+* **Pipelines de Notificação de Fluxo de Trabalho**  
+  Saídas de imagem geradas durante processos do sistema podem ser incorporadas automaticamente em e‑mails enviados.
+
+* **Geração Programática de E‑mail**  
+  Aplicações geram dinamicamente mensagens de e‑mail com conteúdo BMP durante tarefas de processamento em lote.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

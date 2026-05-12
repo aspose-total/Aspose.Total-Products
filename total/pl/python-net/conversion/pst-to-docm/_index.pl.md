@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji PST do DOCM w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja PST do DOCM w interfejsach API Pythona umożliwia eksport danych skrzynki pocztowej do dokumentów Word z włączonymi makrami, wspierających zaawansowane przepływy pracy dokumentów. Jest to przydatne, gdy zarchiwizowana treść e‑maili musi być połączona z automatycznym zachowaniem dokumentu, strukturalnym formatowaniem lub kontrolowaną logiką szablonu.
+
+W nowoczesnych systemach automatyzacji konwersja PST do DOCM wspiera procesy generowania dokumentów, które zależą od dynamicznych działań, wielokrotnego użytku formularzy lub gotowych szablonów z włączonymi makrami. Pomaga połączyć archiwa komunikacji z operacjami dokumentów biznesowych sterowanymi regułami.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Wyjście dokumentu z włączonymi makrami**
+  Eksportuje zawartość skrzynki pocztowej do DOCM dla przepływów pracy opartych na wbudowanej automatyzacji dokumentu.
+
+* **Strukturalny montaż rekordów**
+  Umożliwia łączenie danych wiadomości z zaawansowanymi szablonami opartymi na Wordzie i logiką.
+
+* **Standaryzacja dokumentów operacyjnych**
+  Wspiera spójne formatowanie treści pochodzących z e‑maili w kontrolowanych plikach biznesowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki automatyzacji szablonów**
+  Dane PST mogą być kierowane do szablonów DOCM w celu powtarzalnego tworzenia dokumentów.
+
+* **Wstawianie treści sterowane regułami**
+  Systemy automatyczne mogą wypełniać pliki z włączonymi makrami wybraną zawartością skrzynki pocztowej.
+
+* **Przepływy dokumentacji korporacyjnej**
+  Programowa konwersja umożliwia wykorzystanie zarchiwizowanej korespondencji w zaawansowanych procesach dokumentacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

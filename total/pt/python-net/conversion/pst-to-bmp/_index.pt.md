@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para BMP em APIs Python permite que o conteúdo da caixa de correio seja renderizado como imagens bitmap para arquivamento visual, revisão e compartilhamento de layout fixo. É útil quando registros de e‑mail, conteúdo de mensagens ou itens extraídos precisam ser preservados em um formato de imagem simples para documentação e fluxos de trabalho operacionais.
+
+Em ambientes de automação, a conversão de PST para BMP suporta a geração consistente de saída, manuseio mais fácil de visualizações e integração com pipelines de documentos que dependem de ativos visuais estáticos. Ela ajuda as equipes a padronizar o conteúdo derivado de e‑mail para processamento escalável e relatórios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Arquivamento Visual de E‑mail**  
+  Converte o conteúdo PST em imagens bitmap para registro estático e referência visual.
+
+* **Instantâneos de Revisão Operacional**  
+  Ajuda as equipes a inspecionar mensagens e anexos em um formato fixo e fácil de visualizar.
+
+* **Documentação de Conformidade**  
+  Suporta fluxos de trabalho que exigem representações visuais não editáveis dos dados da caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Renderização em Lote de Caixas de Correio**  
+  A automação pode processar grandes arquivos PST e gerar saídas BMP para cada item relevante.
+
+* **Pipelines de Geração de Pré‑visualizações**  
+  Imagens convertidas podem ser usadas em sistemas que requerem pré‑visualizações visuais de mensagens arquivadas.
+
+* **Fluxos de Trabalho de Relatórios e Evidências**  
+  A conversão programática ajuda a incluir visuais da caixa de correio em auditorias, suporte ou registros de casos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

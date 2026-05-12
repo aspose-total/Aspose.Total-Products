@@ -65,7 +65,44 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCX a XLSM converte i documenti di elaborazione testi in file di foglio di calcolo abilitati alle macro che supportano flussi di lavoro avanzati. Questa trasformazione è utile quando il contenuto strutturato basato su documenti deve essere riutilizzato in fogli di calcolo che consentono un'automazione avanzata.
+
+Attraverso le API Python, la conversione da DOCX a XLSM può essere automatizzata nelle piattaforme di reporting, nei sistemi finanziari e nei cruscotti operativi. Aiuta a integrare i dati derivati dai documenti in ambienti di foglio di calcolo progettati per processi aziendali ripetibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di fogli di calcolo abilitati alle macro**  
+  Converte il contenuto DOCX in file di foglio di calcolo avanzati per flussi di lavoro aziendali automatizzati.
+
+* **Riutilizzo di dati strutturati**  
+  Consente di spostare tabelle e contenuti documentali organizzati nei sistemi di foglio di calcolo.
+
+* **Supporto al reporting operativo**  
+  Aiuta a trasformare le informazioni basate su documenti in risorse di foglio di calcolo riutilizzabili.
+
+* **Flussi di lavoro analitici avanzati**  
+  Supporta gli ambienti di foglio di calcolo che beneficiano di capacità di automazione avanzata.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione XLSM automatizzata**  
+  I sistemi possono convertire i file DOCX in fogli di calcolo abilitati alle macro in modo programmatico.
+
+* **Pipeline di automazione di fogli di calcolo batch**  
+  Gli script Python possono elaborare collezioni di documenti in output XLSM.
+
+* **Flussi di lavoro di reporting aziendale**  
+  I dati derivati dai documenti possono essere trasformati in file di foglio di calcolo avanzati per analisi scalabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

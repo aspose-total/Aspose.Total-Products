@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から DOT への変換は、メールボックスの内容を Word テンプレートファイルに変換し、メール由来の構造を標準化された文書の基盤として再利用できるようにします。これは、アーカイブされたメッセージが繰り返し使用できる文書レイアウトやテンプレートベースのレポートプロセスに情報を提供する必要がある場合に有用です。
+
+Python API を使用すると、組織は MBOX アーカイブから DOT ファイルの作成を自動化でき、スケーラブルなテンプレート生成、一貫した書式設定、文書ワークフローの自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールからのテンプレート作成**
+  メールボックスの内容を再利用可能な文書テンプレートに変換し、繰り返し使用できるようにします。
+
+* **標準化された書式設定ワークフロー**
+  メッセージ由来のレイアウトを、一貫した文書生成のために設計された形式で保持します。
+
+* **プロセス文書設定**
+  メール内容を将来の文書作成のための構造化された基盤として使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **再利用可能なテンプレート生成**
+  選択したメールを標準化された文書化をサポートする DOT ファイルに変換します。
+
+* **自動レイアウト保持**
+  メールボックスのアーカイブからプログラム的にテンプレート出力を作成し、繰り返しのワークフローに対応します。
+
+* **スケーラブルなコンテンツ構造化**
+  Python を使用してメールレコードを企業利用向けのテンプレート準備資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

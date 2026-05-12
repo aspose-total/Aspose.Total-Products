@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から XLAM への変換は、文書コンテンツを高度なスプレッドシート環境で使用される Excel アドイン関連フォーマットに変換します。これは、文書由来のロジック、テンプレート、または構造化情報が拡張されたスプレッドシートベースのワークフローをサポートする必要がある場合に関連します。
+
+自動化シナリオでは、ODT から XLAM への変換により、ソース文書から再利用可能なスプレッドシート中心の資産を準備できます。Python API は、スケーラブルな変換と高度な運用プロセスとの統合をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スプレッドシート拡張サポート**  
+  高度なスプレッドシートワークフロー環境向けに構造化された文書コンテンツを変換します。
+
+* **再利用可能なロジックの準備**  
+  文書主導のコンテンツを再利用可能なスプレッドシート資産に再利用するのに役立ちます。
+
+* **運用ツールの整合性**  
+  拡張されたスプレッドシート機能に依存する環境をサポートします。
+
+* **構造化ワークフロー統合**  
+  テキスト文書を高度なデータ処理エコシステムと接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラム的資産準備**  
+  Python ワークフローは、スプレッドシート拡張シナリオ向けに ODT 由来のコンテンツを変換できます。
+
+* **バッチワークフローの標準化**  
+  複数のソース文書を高度なスプレッドシート関連出力に処理できます。
+
+* **文書からスプレッドシートへのツールチェーン**  
+  変換された資産は、構造化された運用自動化をサポートできます。
+
+* **テンプレートとロジックの配布**  
+  システムは、より広範なスプレッドシート駆動プロセス向けに再利用可能な出力を準備できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

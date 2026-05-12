@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS에서 WordML로의 변환은 평면 OpenDocument 스프레드시트 파일을 XML 기반 워드 프로세싱 문서로 변환하여, 마크업 기반 문서 처리를 활용하는 시스템에 구조화된 콘텐츠를 보다 쉽게 통합할 수 있게 합니다. 이 형식은 구조화된 상호 운용성, 문서 처리 또는 XML 중심 변환 파이프라인이 필요한 워크플로에 유용합니다.
+
+자동화 및 시스템 통합을 위해, FODS에서 WordML로의 변환은 프로그래밍 방식의 문서 생성, 구조화된 콘텐츠 교환 및 확장 가능한 변환 워크플로를 지원합니다. Python API는 XML 기반 문서 출력의 자동 생성을 돕고 일관성을 향상시키며 수동 개입을 줄여줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 처리**  
+  구조화된 마크업에 의존하는 워크플로를 위해 FODS 콘텐츠를 WordML로 변환합니다.
+
+* **시스템 통합 지원**  
+  문서 콘텐츠가 처리 시스템 간에 교환되어야 할 경우 WordML 출력을 사용합니다.
+
+* **구조화된 콘텐츠 변환**  
+  스프레드시트에서 파생된 정보를 하위 XML 인식 문서 처리 작업을 위해 준비합니다.
+
+* **상호 운용 가능한 워크플로 설계**  
+  기계가 읽을 수 있는 문서 표현을 활용하는 환경을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **마크업 기반 변환 파이프라인**  
+  Python 워크플로는 구조화된 처리를 위해 FODS 입력으로부터 WordML 파일을 생성할 수 있습니다.
+
+* **자동화된 콘텐츠 교환**  
+  시스템은 최소한의 수동 작업으로 애플리케이션 간에 XML 기반 문서를 변환하고 전달할 수 있습니다.
+
+* **배치 XML 문서 생성**  
+  대량의 FODS 파일을 프로그래밍 방식으로 WordML 형식으로 변환할 수 있습니다.
+
+* **확장 가능한 통합 워크플로**  
+  자동 변환은 구조화된 문서 출력이 필요한 대량 시나리오를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

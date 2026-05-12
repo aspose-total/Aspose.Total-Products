@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 EMAIL로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to EMAIL 변환은 매크로가 포함된 문서 콘텐츠를 이메일 중심 워크플로에 사용할 수 있도록 준비하여 문서 정보를 메시지 준비 출력으로 쉽게 전환할 수 있게 합니다. 이는 알림, 요약, 승인 또는 문서 콘텐츠에 의해 구동되는 커뮤니케이션 프로세스에 유용합니다.
+
+현대 자동화 시스템에서 DOCM to EMAIL 변환은 작성된 문서와 커뮤니케이션 파이프라인을 연결하여 확장 가능한 배포, 템플릿 메시징 및 워크플로 트리거 대응을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 기반 알림**
+  문서 콘텐츠를 운영 커뮤니케이션을 위한 이메일 준비 자료로 변환합니다.
+
+* **승인 워크플로**
+  검토자 및 이해관계자와 문서 기반 요약을 공유하는 것을 지원합니다.
+
+* **메시징에서 콘텐츠 재사용**
+  커뮤니케이션 채널 내에서 공식 문서 텍스트를 재활용하기 쉽게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **트리거된 메시지 생성**
+  새 DOCM 파일이 워크플로에 들어올 때 자동으로 이메일 콘텐츠를 생성합니다.
+
+* **문서-커뮤니케이션 파이프라인**
+  작성된 콘텐츠를 자동화된 발신 메시징 시스템과 연결합니다.
+
+* **확장 가능한 배포 프로세스**
+  다수의 문서에서 한 번에 메시지 준비 출력의 배치를 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

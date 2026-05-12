@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ICS to DOT 変換を Python API で実行すると、カレンダー データを Word テンプレート ファイルに変換できます。このアプローチにより、スケジュール情報を再利用可能な文書テンプレートに組み込んで、構造化されたレポートを作成できます。
+
+自動化された Python ワークフローにより、ICS ファイルをテンプレート形式に変換でき、複数の文書生成プロセスで再利用できるようになり、一貫性と効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **再利用可能なスケジューリングテンプレート**  
+  カレンダー データを文書テンプレートに変換し、一貫したレポートを実現します。
+
+* **テンプレート駆動型ドキュメンテーション**  
+  イベント構造を再利用可能な Word テンプレート形式に埋め込みます。
+
+* **構造化されたワークフローデザイン**  
+  標準化された文書作成をサポートするテンプレートを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  ICS ファイルから DOT テンプレートを自動的に作成します。
+
+* **文書自動化システム**  
+  自動文書生成でカレンダーテンプレートを使用します。
+
+* **スケーラブルなレポートインフラストラクチャ**  
+  大量のカレンダー データを再利用可能なテンプレートに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

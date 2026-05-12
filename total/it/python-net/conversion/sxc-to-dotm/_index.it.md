@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a DOTM trasforma le informazioni dei fogli di calcolo in un formato di modello di documento abilitato alle macro, progettato per una generazione di documenti riutilizzabile e favorevole all'automazione. È particolarmente rilevante quando le organizzazioni hanno bisogno di modelli ripetibili con logica incorporata o comportamenti avanzati.
+
+Utilizzando le API Python, la conversione da SXC a DOTM rafforza le pipeline di automazione combinando input di fogli di calcolo strutturati con un'architettura di modello riutilizzabile per una produzione di documenti scalabile e controllata.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso chiave" %}}
+
+* **Modelli abilitati alle macro**  
+  Crea modelli riutilizzabili che supportano azioni automatizzate dopo la conversione del contenuto del foglio di calcolo.
+
+* **Flussi di lavoro documentali avanzati**  
+  Aiuta a costruire sistemi di modelli per documenti che richiedono sia struttura sia funzionalità scriptate.
+
+* **Progettazione di output ripetibile**  
+  Supporta la generazione ricorrente di documenti con layout coerente e comportamento pronto per i processi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Distribuzione automatizzata dei modelli**  
+  Genera modelli DOTM tramite workflow Python per un uso operativo ripetuto.
+
+* **Generazione di documenti scriptata**  
+  Consente ai sistemi a valle di creare documenti da modelli che includono logica di automazione incorporata.
+
+* **Standardizzazione dei processi aziendali**  
+  Migliora la coerenza nella creazione di documenti ad alto volume dove sia la struttura sia l'automazione sono importanti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

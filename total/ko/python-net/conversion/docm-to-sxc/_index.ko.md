@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 SXC로의 변환은 매크로가 포함된 문서를 오래된 오픈 스프레드시트 워크플로와 호환되는 스프레드시트 파일로 변환하여 구조화된 콘텐츠를 표 형식으로 재사용할 수 있게 합니다. 이는 문서 기반 데이터를 여전히 오래된 스프레드시트 표준에 의존하는 레거시 시스템과 교환해야 할 때 유용합니다.
+
+자동화를 위해 DOCM에서 SXC로의 변환은 정기적인 데이터 추출, 역호환성, 그리고 문서 테이블을 레거시 친화적인 스프레드시트 출력으로 확장 가능하게 변환하는 기능을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 호환성**
+  기존 환경에서 사용되는 오래된 스프레드시트 형식으로 문서 콘텐츠를 변환합니다.
+
+* **구조화된 테이블 재사용**
+  DOCM 문서의 표 형식 데이터를 스프레드시트 워크플로로 이동하는 데 도움을 줍니다.
+
+* **역호환 데이터 교환**
+  새로운 스프레드시트 형식으로 완전히 전환되지 않은 시스템을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 레거시 내보내기**
+  오래된 워크플로 요구사항을 위해 DOCM 소스에서 SXC 파일을 생성합니다.
+
+* **대량 데이터 변환**
+  대량의 문서 테이블을 효율적으로 스프레드시트 준비 출력으로 변환합니다.
+
+* **호환성 파이프라인 지원**
+  현대 문서 소스와 레거시 스프레드시트 처리 시스템을 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}}
+
+Python을 사용한 PPS에서 Excel로의 변환은 프레젠테이션 콘텐츠를 분석, 조직 및 운영 보고를 위한 스프레드시트 형식으로 변환할 수 있게 합니다. 슬라이드 데이터, 표 또는 구조화된 텍스트를 계산 및 표 형식 검토에 더 적합한 형식으로 옮겨야 할 때 유용합니다.
+
+자동화와 확장성을 위해 PPS에서 Excel로의 변환은 데이터 추출, 보고 파이프라인 및 스프레드시트 기반 비즈니스 프로세스와의 통합을 지원합니다. 프레젠테이션 자료를 처리, 검증 및 운영 팀 간에 공유하기 쉬운 형식으로 변환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **표 형식 데이터 복구**
+  프레젠테이션에서 구조화된 정보를 추출하여 스프레드시트 레이아웃에 배치합니다.
+
+* **비즈니스 보고 지원**
+  프레젠테이션에서 파생된 데이터를 검토, 추적 및 분석을 위해 준비합니다.
+
+* **운영 데이터 재사용**
+  슬라이드 콘텐츠를 하위 비즈니스 워크플로를 위해 스프레드시트로 이동합니다.
+
+* **아카이브 변환**
+  오래된 프레젠테이션 컬렉션을 접근 가능한 스프레드시트 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **스프레드시트 변환 파이프라인**
+  PPS 파일에서 Excel 호환 출력물을 자동으로 생성합니다.
+
+* **데이터 처리 통합**
+  변환된 스프레드시트 콘텐츠를 검증, 계산 또는 내보내기 워크플로에 전달합니다.
+
+* **배치 보고 자동화**
+  반복되는 비즈니스 보고를 위해 여러 슬라이드 파일을 스프레드시트로 처리합니다.
+
+* **구조화된 콘텐츠 추출**
+  Python API를 사용하여 표 시스템 및 분석을 위한 슬라이드 기반 데이터를 캡처합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

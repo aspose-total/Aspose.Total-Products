@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLTX en DOCM transforme le contenu d'un modèle de feuille de calcul en un format de document de traitement de texte compatible avec les macros, adapté à une logique de document avancée et à des fichiers d'entreprise réutilisables. Cela est utile lorsque les informations de la feuille de calcul basées sur un modèle doivent être livrées sous forme de documentation éditable avec prise en charge des comportements d'automatisation intégrés dans le document cible.
+
+Pour les flux de travail d'automatisation modernes, la conversion XLTX en DOCM aide à connecter la génération de contenu pilotée par les feuilles de calcul aux processus de documents dynamiques, permettant une production évolutive de fichiers intelligents qui prennent en charge des actions répétables, une édition structurée et l'efficacité des flux de travail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Livraison de documents activés par macro**  
+  Convertit le contenu de la feuille de calcul basé sur un modèle en documents pouvant prendre en charge des actions scriptées intégrées.
+
+* **Flux de travail de rapports avancés**  
+  Permet la création de rapports éditables où le contenu généré peut ensuite déclencher une automatisation côté document.
+
+* **Modèles d'entreprise réutilisables**  
+  Prend en charge les organisations qui distribuent des fichiers de documents intelligents pour des processus opérationnels récurrents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création automatisée de documents intelligents**  
+  Les systèmes peuvent convertir les modèles XLTX en fichiers DOCM dans le cadre d'un pipeline de documentation automatisé plus vaste.
+
+* **Génération de fichiers pilotée par le flux de travail**  
+  Le sujet prend en charge la génération automatisée de fichiers conçus pour la révision en aval et la gestion scriptée.
+
+* **Production opérationnelle à haut volume**  
+  La conversion programmatique facilite la création de nombreux documents activés par macro à partir de modèles de feuilles de calcul structurés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

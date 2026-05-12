@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to DOCX 변환은 표 형식 텍스트 데이터를 보고, 협업 및 공식 콘텐츠 전달에 널리 사용되는 현대적인 편집 가능한 워드 프로세싱 문서로 변환합니다. 이는 원시 구조화 데이터와 전문 환경에서 필요한 정제된 문서 사이의 격차를 메우는 데 도움이 됩니다.
+
+Python API를 사용하여 TSV to DOCX 변환은 일관성을 향상하고 수동 서식 작업을 줄이며 데이터 기반 워크플로우 전반에 걸쳐 확장 가능한 문서 생성을 가능하게 하는 빠르고 반복 가능한 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **전문 보고서 작성**  
+  TSV 레코드를 분석, 요약 또는 공식 보고를 위한 깔끔한 DOCX 파일로 변환합니다.
+
+* **협업 편집**  
+  구조화된 데이터를 문서 워크플로우 내에서 공유하고 편집하기 쉽게 만듭니다.
+
+* **문서 중심 배포**  
+  표 형식 콘텐츠를 보다 접근하기 쉽고 비즈니스 친화적인 형식으로 제공하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 보고 파이프라인**  
+  Python API를 사용하면 필요에 따라 또는 일정에 따라 TSV 내보내기에서 DOCX 보고서를 생성할 수 있습니다.
+
+* **데이터-문서 워크플로우**  
+  자동화 시스템은 구조화된 입력을 검토 준비가 된 문서로 변환할 수 있습니다.
+
+* **확장 가능한 배치 변환**  
+  대량의 TSV 파일을 효율적으로 DOCX 출력으로 처리할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

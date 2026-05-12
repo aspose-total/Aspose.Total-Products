@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para XLS transforma documentos habilitados para macro em arquivos de planilha que suportam o manuseio estruturado de dados, revisão e geração de relatórios. É útil quando tabelas e registros dentro de arquivos DOCM precisam ser transferidos para fluxos de trabalho de planilhas familiares para uso posterior.
+
+Do ponto de vista da automação, a conversão de DOCM para XLS suporta a extração repetível de dados de documentos, compatibilidade com planilhas legadas e pipelines de relatórios escaláveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Reuso de Dados em Planilha**
+  Converte tabelas de documentos para formato de planilha para análise e edição.
+
+* **Compatibilidade com Pastas de Trabalho Legadas**
+  Suporta ambientes que ainda dependem de formatos de planilha mais antigos.
+
+* **Relatórios Operacionais**
+  Ajuda a reutilizar dados baseados em documentos para tarefas recorrentes impulsionadas por planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação Automatizada de Pastas de Trabalho**
+  Produz arquivos XLS a partir de fontes DOCM em trabalhos de processamento rotineiros.
+
+* **Conversão em Massa de Tabelas**
+  Converte grandes conjuntos de documentos em saídas de planilha para operações subsequentes.
+
+* **Integração com Sistemas Legados**
+  Alimenta dados estruturados em fluxos de trabalho que dependem de formatos de pastas de trabalho mais antigos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

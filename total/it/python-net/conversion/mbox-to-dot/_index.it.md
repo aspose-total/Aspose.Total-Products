@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MBOX a DOT trasforma il contenuto della casella di posta in file di modello Word, consentendo di riutilizzare le strutture derivanti dalle email come fondamenta standardizzate per i documenti. Questo è utile quando i messaggi archiviati devono informare layout documentali ripetibili o processi di reporting basati su modelli.
+
+Con le API Python, le organizzazioni possono automatizzare la creazione di file DOT da archivi MBOX per supportare la generazione scalabile di modelli, una formattazione coerente e l'automazione del flusso di lavoro dei documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli da email**
+  Trasforma il contenuto della casella di posta in modelli di documento riutilizzabili per usi ricorrenti.
+
+* **Flussi di lavoro di formattazione standardizzati**
+  Preserva i layout derivati dai messaggi in un formato progettato per una generazione coerente dei documenti.
+
+* **Configurazione della documentazione di processo**
+  Utilizza il contenuto delle email come base strutturata per la creazione di documenti futuri.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di modelli riutilizzabili**
+  Converti le email selezionate in file DOT che supportano una documentazione standardizzata.
+
+* **Preservazione automatica del layout**
+  Crea programmaticamente output di modelli dagli archivi della casella di posta per flussi di lavoro ripetuti.
+
+* **Strutturazione scalabile dei contenuti**
+  Usa Python per trasformare i record delle email in risorse pronte per i modelli, per l'uso aziendale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

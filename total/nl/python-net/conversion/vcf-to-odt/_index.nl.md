@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een VCF naar ODT-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF-naar-ODT-conversie zet contactkaartinformatie om in open document‑tekstbestanden die bewerkbare, op standaarden gebaseerde documentatie ondersteunen. Dit is nuttig voor teams die op zoek zijn naar flexibele beheer van contactrecords in open en interoperabele documentomgevingen.
+
+Met behulp van Python‑API's kan VCF-naar-ODT-conversie geautomatiseerde documentcreatie stroomlijnen door gestructureerde contactbestanden te genereren die bewerking, distributie en archivering ondersteunen in compatibele kantoorsystemen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Open Documentbewerking**  
+  Transformeer VCF‑gegevens naar ODT‑bestanden voor bewerkbaar en op standaarden gebaseerd gebruik.
+
+* **Interoperabele contactrecords**  
+  Sla contactinformatie op in een formaat dat geschikt is voor open documentworkflows.
+
+* **Gestructureerde informatie‑uitwisseling**  
+  Lever leesbare contactdocumenten aan in compatibele kantooromgevingen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Bulk ODT-conversie**  
+  Maak automatisch ODT‑documenten aan uit grote VCF‑collecties.
+
+* **Open workflow‑integratie**  
+  Leid gegenereerde contactbestanden naar geautomatiseerde systemen die zijn gebouwd op open standaarden.
+
+* **Efficiënte documentafhandeling**  
+  Gebruik Python‑API's om herbruikbare ODT‑contactuitvoer op schaal te produceren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

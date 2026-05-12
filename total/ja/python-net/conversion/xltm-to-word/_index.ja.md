@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から Word への変換は、マクロ対応の Excel テンプレートを編集、レビュー、プロフェッショナルなコンテンツ共有に適した Word 互換ドキュメントに変換できるようにします。構造化されたスプレッドシートのソースファイルを、テキスト中心のワークフローに適した読みやすい文書にする必要がある場合に有用です。
+
+自動化ユースケースにおいて、XLTM から Word への変換はプロセスの柔軟性を向上させ、スケーラブルな文書生成を支援し、スプレッドシートとワードプロセッシング環境間の移行を円滑にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **Word 互換ドキュメント作成**  
+  スプレッドシートテンプレートの内容を、一般的な編集およびレビュー工程に適した文書に変換します。
+
+* **構造化情報の再利用**  
+  ブックベースのデータをナラティブや文書形式に再利用するのに役立ちます。
+
+* **ワークフローに適した出力**  
+  繰り返し使用できるスプレッドシートテンプレートから共有可能な文書の生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書公開**  
+  XLTM ファイルを、定期的なコンテンツワークフローの一部として Word 互換の出力に変換します。
+
+* **スプレッドシートから文書への統合**  
+  構造化テンプレート入力と、Python アプリケーション内の編集可能な文書出力を接続します。
+
+* **大規模ファイル変換**  
+  多数のブックテンプレートを運用全体で管理するチーム向けにバッチ変換を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

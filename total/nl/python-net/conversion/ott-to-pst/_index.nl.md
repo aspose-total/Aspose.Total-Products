@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OTT naar PST-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-naar-PST-conversie in Python-API's zet OpenDocument-teksttemplates om in persoonlijke opslagmailboxstructuren voor e-mailgerichte archivering en transportworkflows. Dit is nuttig wanneer door documenten gegenereerde communicatie moet worden bewaard in een mailbox-centrisch formaat.
+
+De conversie ondersteunt automatisering door organisaties te helpen sjabloongebaseerde berichtinhoud te verplaatsen naar opslagworkflows die archivering, migratie en grootschalig communicatiemanagement ondersteunen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Mailboxarchiefcreatie**  
+  Verpakt gegenereerde communicatie-inhoud in een opslaggericht e-mailformaat.
+
+* **Retentie- en overdrachtsondersteuning**  
+  Helpt bij het efficiënt behouden en verplaatsen van berichtgebaseerde inhoud.
+
+* **Sjabloongebaseerde communicatieopslag**  
+  Hergebruikt documentsjablonen voor mailbox-compatibele output.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde archiefgeneratie**  
+  Zet OTT-gebaseerde berichtinhoud in bulk om naar PST-uitvoer.
+
+* **Compliancegerichte workflows**  
+  Ondersteunt recordretentie en gestructureerde mailopslagprocessen.
+
+* **Communicatiemigratiepijplijnen**  
+  Voedt gegenereerde inhoud in enterprise mailtransfer-workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

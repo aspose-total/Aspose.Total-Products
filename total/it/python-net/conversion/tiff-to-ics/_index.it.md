@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TIFF a ICS tramite le API Python consente di trasformare il contenuto visivo dei documenti in output di dati compatibili con il calendario, dove il contesto di pianificazione è derivato da registrazioni basate su immagini. Questo può essere utile per avvisi di appuntamento, scansioni di eventi o documenti di orari che devono diventare voci di calendario strutturate.
+
+Per le iniziative di automazione, la conversione da TIFF a ICS supporta una migliore integrazione della pianificazione, riduce l'inserimento manuale e favorisce una coordinazione più fluida tra i sistemi di acquisizione dei documenti e i flussi di lavoro del calendario. Consente l'elaborazione immagine‑evento in ambienti in cui la tempistica e i promemoria sono operativamente importanti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Conversione di documenti di appuntamento**
+  Converte gli orari basati su TIFF o gli avvisi di appuntamento in output compatibili con il calendario.
+
+* **Strutturazione dei record di eventi**
+  Aiuta a trasformare le informazioni visive sugli eventi in artefatti di pianificazione standardizzati.
+
+* **Supporto al flusso di lavoro dei promemoria**
+  Consente di utilizzare i dettagli degli eventi derivati dalle immagini nei sistemi di promemoria e pianificazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Elaborazione di orari scansionati**
+  Automatizza la conversione degli orari TIFF in output ICS per i flussi di lavoro di importazione del calendario.
+
+* **Automazione dell'acquisizione delle riunioni**
+  Supporta l'estrazione del contenuto dei documenti relativi agli eventi e la conversione in file di pianificazione utilizzabili.
+
+* **Pipeline di sincronizzazione del calendario**
+  Consente la generazione programmatica di voci di calendario da documenti operativi basati su immagini.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a ODS converte contenuti strutturati basati su documenti in file OpenDocument Spreadsheet per la gestione dei dati con standard aperti e la modifica di fogli di calcolo. È preziosa quando le organizzazioni hanno bisogno di output di fogli di calcolo modificabili senza fare affidamento su formati proprietari.
+
+Le API Python aiutano ad automatizzare la conversione da WordML a ODS estraendo tabelle e mappandole in fogli di calcolo adatti a flussi di lavoro collaborativi, portabili e scalabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Output di foglio di calcolo aperto**
+  Converte le tabelle WordML in file ODS modificabili per flussi di lavoro di fogli di calcolo a standard aperto.
+
+* **Scambio di dati portabile**
+  Supporta il trasferimento di contenuti strutturati in ambienti di fogli di calcolo interoperabili.
+
+* **Riutilizzo delle tabelle del documento**
+  Rende i dati presenti nel documento più facili da analizzare e mantenere.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Conversione batch di fogli di calcolo**
+  Crea automaticamente file ODS da più documenti WordML.
+
+* **Integrazione di flusso di lavoro aperto**
+  Alimenta i fogli di calcolo convertiti in ambienti di elaborazione basati su standard.
+
+* **Estrazione di dati scalabile**
+  Supporta la trasformazione su larga scala delle tabelle dei documenti in risorse di fogli di calcolo riutilizzabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

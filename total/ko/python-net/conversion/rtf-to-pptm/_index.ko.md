@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF에서 PPTM으로의 변환은 서식이 지정된 텍스트 문서를 매크로 사용 프레젠테이션 파일로 바꾸어 슬라이드 기반 커뮤니케이션과 확장된 자동화 동작을 모두 지원합니다. 프레젠테이션 출력에 구조화된 콘텐츠와 고급 프레젠테이션 로직 또는 재사용 가능한 자동화 기능이 필요할 때 유용합니다.
+
+자동화 워크플로우에서 RTF에서 PPTM으로의 변환은 소스 문서를 프레젠테이션 자산으로 전환하여 고급 운영 및 프레젠테이션 요구 사항에 맞출 수 있는 보다 정교한 데크 생성 프로세스를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **고급 데크 생성**  
+  내러티브 콘텐츠를 확장된 기능을 지원하는 프레젠테이션으로 변환합니다.
+
+* **반복 가능한 프레젠테이션 워크플로우**  
+  리치한 슬라이드 자동화 기능에 의존하는 환경을 위한 데크 생성에 도움을 줍니다.
+
+* **구조화된 콘텐츠 재사용**  
+  작성된 문서를 유연하고 프레젠테이션 준비가 된 자산으로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **매크로 사용 데크 생성**  
+  시스템은 고급 슬라이드 워크플로우를 위해 RTF 문서를 PPTM 파일로 변환할 수 있습니다.
+
+* **자동화된 보고 프레젠테이션**  
+  프로그래밍 방식 변환은 인터랙티브하거나 향상된 프레젠테이션 자산의 반복적인 제작을 지원합니다.
+
+* **확장 가능한 운영 데크 파이프라인**  
+  동적 프로세스는 소스 콘텐츠와 고급 프레젠테이션 동작을 하나의 출력으로 결합할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

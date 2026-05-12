@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XPS a MBOX con le API Python consente di trasformare documenti a layout fisso in formati di archivio mailbox utilizzati per memorizzare collezioni di messaggi email. Questo è utile quando il contenuto del documento deve essere incorporato in flussi di lavoro di archiviazione, migrazione o conservazione a lungo termine che si basano su strutture di archiviazione basate su mailbox.
+
+Per i sistemi guidati dall'automazione, la conversione da XPS a MBOX supporta la conservazione scalabile dei contenuti, semplifica l'impacchettamento archivistico e aiuta a integrare i record dei documenti con archiviazioni incentrate sulla posta e processi di conformità.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivio mailbox**  
+  Converte il contenuto XPS in strutture compatibili MBOX per archiviazione consolidata e flussi di lavoro di conservazione.
+
+* **Conservazione dei record basata su documenti**  
+  Aiuta a preservare le informazioni dei documenti negli archivi mailbox più facili da gestire nei sistemi di comunicazione.
+
+* **Preparazione alla migrazione**  
+  Supporta la trasformazione del contenuto dei documenti in formati di archivio mail per spostamento o consolidamento della piattaforma.
+
+* **Impacchettamento di contenuti in blocco**  
+  Consente a più record derivati da documenti di essere organizzati in collezioni mailbox pronte per l'archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di archiviazione automatizzate**  
+  I sistemi possono convertire i file XPS in output MBOX come parte di routine programmate di conservazione o backup.
+
+* **Consolidamento batch dei record**  
+  Grandi insiemi di record di documenti possono essere impacchettati programmaticamente in archivi mailbox per una gestione efficiente.
+
+* **Flussi di lavoro di archiviazione per la conformità**  
+  I processi automatizzati possono preservare le comunicazioni derivate da documenti in formati di archivio adatti alla revisione di governance.
+
+* **Preparazione alla migrazione dei dati**  
+  Le routine di conversione possono preparare output compatibili mailbox dalle fonti documentali prima del trasferimento in altri ambienti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

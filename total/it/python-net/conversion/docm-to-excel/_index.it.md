@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a Excel trasforma i documenti con macro abilitate in cartelle di lavoro pronte per i fogli di calcolo, consentendo di analizzare, modificare e riutilizzare più efficientemente i contenuti del documento, come tabelle, elenchi e record. È utile quando i dati aziendali catturati in formato DOCM devono essere trasferiti in ambienti favorevoli ai calcoli.
+
+Per l'automazione e la scalabilità, i flussi di lavoro DOCM‑to‑Excel supportano l'estrazione strutturata, le pipeline di reporting e la trasformazione ripetibile dei contenuti dei documenti in fogli di calcolo operativi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Analisi basata su foglio di calcolo**
+  Sposta i dati del documento in forma di cartella di lavoro per ordinamento, filtraggio e revisione.
+
+* **Reporting operativo**
+  Converte i contenuti strutturati in fogli di calcolo utilizzati per processi di reporting ricorrenti.
+
+* **Riutilizzabilità dei dati**
+  Rende le informazioni contenute nel documento più facili da modificare e integrare tra i team.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione di cartelle di lavoro in batch**
+  Converte automaticamente più file DOCM in output di fogli di calcolo per l'elaborazione su larga scala.
+
+* **Preparazione analitica**
+  Fornisce dati derivati dal documento a flussi di lavoro automatizzati di fogli di calcolo e reporting.
+
+* **Scambio di dati strutturati**
+  Supporta il passaggio programmatico tra sistemi di documenti e strumenti basati su fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

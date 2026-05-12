@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to PST 変換は、Word 由来のメッセージコンテンツを、大規模なメールボックス管理やアーカイブシナリオで一般的に使用される個人用ストレージ形式に変換します。文書コンテンツをより広範なメールストレージワークフローに組み込む必要がある場合に有用です。
+
+Python API を使用すると、DOC から PST への変換がエンタープライズの保持、移行、アーカイブ作業でより効率的になり、文書からメールへのストレージプロセスの標準化に貢献します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **Mailbox Archive Consolidation**
+  文書由来のコミュニケーションコンテンツを PST に変換し、保存および転送に利用します。
+
+* **Migration Workflows**
+  文書ベースのメッセージ資産をエンタープライズメール移行シナリオ向けに準備します。
+
+* **Retention Support**
+  広く使用されている個人用メールボックスストレージ形式で構造化コンテンツを保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **Archive File Automation**
+  DOC ベースのメッセージソースからプログラム的に PST コンテンツを生成します。
+
+* **Bulk Mail Data Packaging**
+  大量の文書由来コンテンツをメールボックスストレージコンテナに変換します。
+
+* **Compliance-Oriented Processing**
+  自動変換を使用して、管理された保持およびアーカイブワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

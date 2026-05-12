@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における PPSM から DOC への変換は、マクロ対応スライドショー コンテンツを編集可能な文書形式に変換し、テキスト中心のレビュー、アーカイブ、再利用を広く可能にします。プレゼンテーション資料を物語形式のドキュメントに再利用したり、正式なテキスト編集に適した形式に変換したりする際に便利です。
+
+自動化の観点からは、PPSM から DOC へのワークフローがコンテンツのポータビリティを向上させ、手作業の書き直しを削減し、エンタープライズ コンテンツ パイプライン全体でプレゼンテーション資産からスケーラブルな文書生成を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **プレゼンテーションからドキュメントへの再利用**  
+  スライドベースの資料を、文書化やコミュニケーションのニーズに合わせた編集可能なテキストドキュメントに変換します。
+
+* **コンテンツレビュー ワークフロー**  
+  スライドコンテンツを、ワードプロセッシング環境でのレビュー、注釈付け、修正が容易になるようにします。
+
+* **アーカイブ形式の適応**  
+  文書ベースの保存が好まれるレガシーな文書保持プロセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたドキュメント生成**  
+  Python ワークフローは、PPSM ファイルを DOC ファイルに変換し、繰り返し可能なドキュメント作成プロセスを実現します。
+
+* **コンテンツ移行パイプライン**  
+  変換により、プレゼンテーションリポジトリから文書管理システムへの情報移行が容易になります。
+
+* **テンプレート駆動型パブリッシング**  
+  プログラムによる処理により、内部記録や編集ワークフロー向けのフォーマット済みドキュメント出力が可能になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

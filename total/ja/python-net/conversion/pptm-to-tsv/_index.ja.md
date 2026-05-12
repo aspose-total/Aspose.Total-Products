@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PPTM から TSV への変換は、マクロ有効なプレゼンテーション データを、シンプルな構造化データ交換に最適化されたタブ区切りテキスト形式に変換します。スライドの表や抽出されたレコードを、区切り文字ベースのプレーンテキスト形式を好むシステムに転送する必要がある場合に有用です。
+
+変換は自動化に非常に適しています。TSV ファイルは生成、解析、検証、分析や ETL ワークフローへのインポートが容易なためです。プレゼンテーション ソースから下流システムへのデータ移動を、重い書式設定の負荷なしに簡素化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化データエクスポート**
+  スライドベースのデータを、処理用のシンプルな列指向テキスト形式に変換します。
+
+* **システム間データ交換**
+  プレゼンテーション由来のデータを、スクリプトやアプリケーション間での移動を容易にします。
+
+* **軽量データ保存**
+  抽出された表の内容を、コンパクトで機械可読な形で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ETL 入力生成**
+  プレゼンテーションから TSV ファイルを生成し、データパイプラインへの自動取り込みを可能にします。
+
+* **大量データ変換**
+  プレゼンテーションデータを区切り文字ベースのテキスト出力へ大規模にエクスポートすることをサポートします。
+
+* **検証および解析ワークフロー**
+  変換されたレコードのシステム間での効率的な自動処理を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

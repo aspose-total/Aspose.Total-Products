@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 PPTX로의 변환은 OpenDocument Text 파일을 슬라이드 기반 커뮤니케이션 및 협업에 널리 사용되는 최신 프레젠테이션 형식으로 변환합니다. 보고서, 개요 및 서술형 콘텐츠를 전문적인 프레젠테이션 출력물로 재활용하는 데 이상적입니다.
+
+Python API 자동화를 통해 ODT에서 PPTX로의 변환을 반복적인 보고, 교육 콘텐츠 생성 및 문서 기반 프레젠테이션에 효율적으로 수행할 수 있습니다. 수동 슬라이드 작성을 줄이고 워크플로 전반에 걸쳐 일관된 형식을 지원함으로써 확장성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대적인 슬라이드 생성**  
+  문서 내용을 편집 및 공유에 적합한 프레젠테이션 파일로 변환합니다.
+
+* **보고서 시각화**  
+  작성된 인사이트를 보다 시각적인 형식으로 전달하는 데 도움이 됩니다.
+
+* **교육 자료 재활용**  
+  구조화된 텍스트를 재사용 가능한 프레젠테이션 자산으로 전환합니다.
+
+* **협업 검토 활성화**  
+  편집 가능한 슬라이드 콘텐츠를 중심으로 한 팀 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드 데크 생성**  
+  Python 워크플로를 통해 ODT 문서를 일정에 맞춰 PPTX 프레젠테이션으로 변환할 수 있습니다.
+
+* **대량 변환 파이프라인**  
+  대규모 문서 세트를 프로그래밍 방식으로 최신 슬라이드 형식으로 변환할 수 있습니다.
+
+* **템플릿 기반 프레젠테이션 조립**  
+  구조화된 콘텐츠를 일관성을 위해 슬라이드 레이아웃에 매핑할 수 있습니다.
+
+* **배포 및 보관 워크플로**  
+  생성된 PPTX 파일을 자동으로 저장, 공유 또는 검토할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

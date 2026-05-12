@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PPTM vers XLTM avec les API Python permet de convertir des présentations avec macros en modèles de feuilles de calcul avec macros utilisés pour la génération répétée de classeurs. Elle est utile lorsque les données ou structures dérivées d’une présentation doivent servir de base à des sorties de feuilles de calcul standardisées avec une logique d’automatisation réutilisable.
+
+Cette conversion prend en charge l’automatisation des processus en reliant le contenu des présentations aux flux de travail de feuilles de calcul basés sur des modèles, ce qui améliore la cohérence et réduit les efforts de configuration. Elle convient parfaitement aux rapports récurrents, à la planification opérationnelle et à la création de documents réutilisables basés sur les données.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles de feuilles de calcul réutilisables**
+  Convertit le contenu de la présentation en modèles pour la génération répétée de classeurs.
+
+* **Flux de travail de modèles pilotés par macros**
+  Prend en charge les modèles de feuilles de calcul incluant une logique automatisée et des comportements répétables.
+
+* **Fondations de rapports standardisés**
+  Aide à créer des structures de feuilles de calcul cohérentes à partir d’entrées basées sur la présentation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de la génération de modèles**
+  Produit des fichiers XLTM à partir du contenu PPTM pour la création répétée de feuilles de calcul.
+
+* **Pipelines de rapports récurrents**
+  Prend en charge l’utilisation automatisée des modèles dans les processus de génération de classeurs planifiés.
+
+* **Systèmes de standardisation des flux de travail**
+  Permet la réutilisation programmatique des modèles de feuilles de calcul construits à partir des données de présentation converties.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

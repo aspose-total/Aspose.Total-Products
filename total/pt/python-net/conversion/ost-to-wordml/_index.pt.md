@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para WordML converte o conteúdo da caixa de correio em marcação de processamento de texto baseada em XML, permitindo uma representação estruturada e legível por máquina de documentos derivados de e‑mail. Isso é útil para sistemas que exigem estrutura de documento transparente e interoperabilidade ao nível da marcação.
+
+As APIs Python permitem que a conversão de OST para WordML seja automatizada para cenários avançados de processamento, incluindo transformação, validação e integração com sistemas centrados em XML. Isso melhora a flexibilidade e o controle em fluxos de trabalho de documentos estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Marcação Estruturada de Documentos**  
+  Converte os dados da caixa de correio em WordML para representação de documentos baseada em XML.
+
+* **Manipulação de Conteúdo Legível por Máquina**  
+  Suporta fluxos de trabalho que requerem marcação de documento inspecionável e transformável.
+
+* **Processamento Interoperável**  
+  Ajuda a integrar conteúdo derivado de e‑mail com sistemas e ferramentas de conteúdo estruturado.
+
+* **Transformação Avançada de Documentos**  
+  Permite controle detalhado sobre o conteúdo convertido em ambientes orientados por marcação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Fluxos de Trabalho XML**  
+  Scripts Python convertem arquivos OST em WordML para pipelines de processamento estruturado.
+
+* **Processos de Transformação de Conteúdo**  
+  Sistemas automatizados manipulam a marcação derivada da caixa de correio para integração e reutilização.
+
+* **Pipelines de Validação e Intercâmbio**  
+  A conversão programática suporta a troca de documentos estruturados em escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

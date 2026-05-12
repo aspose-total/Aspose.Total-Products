@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から PPS への変換は、スプレッドシートの内容を直接表示用に設計されたプレゼンテーションスライドショーファイルに変換します。これは、スプレッドシートベースのインサイトを編集可能な作業ファイルではなく、すぐに提示できる資料として配布する必要がある場合に便利です。
+
+Python API は、組織がプログラム的にプレゼンテーション用の出力を作成し、レポートや放送ワークフローに組み込むことで、XLS から PPS への効率的な自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **すぐに表示できるスライドショー**
+  XLS の内容を、プレゼンテーションモードで直接開く PPS ファイルに変換します。
+
+* **会議配信用資産**
+  スプレッドシートデータを使用して、ブリーフィングやレビュー用のスライドショー出力を作成します。
+
+* **効率的なプレゼンテーション配布**
+  直接閲覧に最適化された形式で、スプレッドシート駆動のプレゼンテーションを共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたスライドショー生成**
+  定期的なスプレッドシートの更新から PPS ファイルを自動的に作成します。
+
+* **プレゼンテーション配信の自動化**
+  Python API を使用して、XLS ソースから表示準備が整ったスライドを作成します。
+
+* **イベントおよびブリーフィングワークフロー**
+  ライブまたはリモートセッション向けにスライドショーコンテンツを配布するシステムに変換プロセスを統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

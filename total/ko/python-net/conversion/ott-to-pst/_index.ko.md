@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 PST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PST 변환은 Python API에서 OpenDocument 텍스트 템플릿을 이메일 중심의 보관 및 전송 워크플로를 위한 개인 저장소 메일함 구조로 변환합니다. 이는 문서 기반 커뮤니케이션을 메일함 중심 형식으로 보존해야 할 때 유용합니다.
+
+이 변환은 자동화를 지원하여 조직이 템플릿 기반 메시지 콘텐츠를 보관, 마이그레이션 및 대규모 커뮤니케이션 관리를 지원하는 저장 워크플로로 이동하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 보관 생성**  
+  생성된 커뮤니케이션 콘텐츠를 저장 지향 메일 형식으로 패키징합니다.
+
+* **보존 및 전송 지원**  
+  메시지 기반 콘텐츠를 효율적으로 보존하고 이동하도록 돕습니다.
+
+* **템플릿 기반 커뮤니케이션 저장**  
+  문서 템플릿을 메일함 호환 출력에 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 보관 생성**  
+  OTT 기반 메시지 콘텐츠를 대량으로 PST 출력으로 변환합니다.
+
+* **규정 준수 중심 워크플로**  
+  레코드 보존 및 구조화된 메일 저장 프로세스를 지원합니다.
+
+* **커뮤니케이션 마이그레이션 파이프라인**  
+  생성된 콘텐츠를 엔터프라이즈 메일 전송 워크플로에 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een PST naar TEXT-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST-naar-TEXT-conversie in Python-API's haalt mailboxinhoud op als platte tekst voor indexering, analyse en lichtgewicht archivering. Het is waardevol wanneer de nadruk ligt op leesbare inhoud in plaats van op opmaak, vooral in systemen die zoekbaarheid en verwerkings‑efficiëntie prioriteren.
+
+Voor automatisering ondersteunt PST-naar-TEXT-conversie tekstmining, inhoudsextractie en integratie met pipelines die het beste werken met eenvoudige gestructureerde invoer. Het maakt mailboxarchieven gemakkelijker te parseren, transformeren en op schaal te analyseren.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Platte-tekstextractie**
+  Zet PST-inhoud om in tekst voor schone, opmaakvrije toegang tot berichtgegevens.
+
+* **Zoek- en indexondersteuning**
+  Helpt mailboxarchieven voor te bereiden op opvraging en workflows voor inhoudsontdekking.
+
+* **Analyseklare output**
+  Ondersteunt downstream verwerking waar eenvoudige tekst wordt geprefereerd boven opgemaakte documenten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Tekstverwerkingspijplijnen**
+  Geautomatiseerde systemen kunnen PST-afgeleide tekst invoeren in indexerings- of analyseworkflows.
+
+* **Gegevens‑extractieworkflows**
+  Platte‑tekstoutput helpt bij het vereenvoudigen van parseren, filteren en transformatietaken.
+
+* **Schaalbare inhoudsmining**
+  Programmeerbare conversie maakt het mogelijk grote mailboxarchieven efficiënter te analyseren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

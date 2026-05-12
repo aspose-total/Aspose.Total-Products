@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to SXC conversion transforma documentos habilitados para macro em arquivos de planilha compatíveis com fluxos de trabalho de planilhas abertas mais antigos, permitindo que conteúdo estruturado seja reutilizado em forma tabular. É útil quando dados baseados em documentos precisam ser trocados com sistemas legados que ainda dependem de padrões de planilha mais antigos.
+
+Para automação, a conversão DOCM para SXC suporta extração rotineira de dados, retrocompatibilidade e conversão escalável de tabelas de documentos em saídas de planilha amigáveis a legados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Compatibilidade com Planilhas Legadas**
+  Converte o conteúdo do documento em um formato de planilha mais antigo usado em ambientes estabelecidos.
+
+* **Reuso Estruturado de Tabelas**
+  Ajuda a mover dados tabulares de documentos DOCM para fluxos de trabalho de planilhas.
+
+* **Troca de Dados Retrocompatível**
+  Suporta sistemas que ainda não migraram totalmente para formatos de planilha mais recentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportações Legadas Automatizadas**
+  Produz arquivos SXC a partir de fontes DOCM para requisitos de fluxos de trabalho mais antigos.
+
+* **Transformação em Massa de Dados**
+  Converte grandes conjuntos de tabelas de documentos em saídas prontas para planilhas de forma eficiente.
+
+* **Suporte ao Pipeline de Compatibilidade**
+  Conecta fontes de documentos modernos com sistemas legados de processamento de planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ Utilizziamo l'API [Aspose.Words for Python via .NET](https://products.aspose.com
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a Immagini nelle API Python rende i modelli di testo OpenDocument in output immagine per condivisione visiva, generazione di anteprime e pubblicazione statica. Questo è utile quando il contenuto del documento deve essere visualizzato in modo coerente su più piattaforme senza fare affidamento su formati sorgente modificabili.
+
+La conversione favorisce l'automazione consentendo pipeline di rendering scalabili per anteprime, miniature, risorse web e snapshot di documenti che possono essere generate programmaticamente e distribuite ampiamente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di anteprime visive**  
+  Crea rappresentazioni statiche del contenuto del documento per una visualizzazione rapida.
+
+* **Condivisione multipiattaforma**  
+  Rende più semplice la visualizzazione del contenuto dove il supporto dei documenti è limitato.
+
+* **Supporto alla pubblicazione**  
+  Produce risorse immagine per il web, report o uso archivistico.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di creazione di miniature**  
+  Genera immagini di anteprima da file OTT in blocco.
+
+* **Flussi di lavoro per la pubblicazione dei contenuti**  
+  Converte i modelli in risorse visive per portali o siti di documentazione.
+
+* **Archiviazione automatizzata di snapshot**  
+  Preserva gli stati del documento come output immagine non modificabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

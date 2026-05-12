@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de texte en OST à l'aide des API Python désigne la transformation de contenu texte brut en données adaptées aux flux de travail de stockage hors ligne de type boîte aux lettres. Cela est pertinent dans les scénarios impliquant des environnements de communication synchronisés, la préparation d'archives, ou des ensembles de messages générés par le système destinés à un accès structuré aux boîtes aux lettres.
+
+Dans les contextes d'automatisation, cette conversion aide à préparer les données de communication dérivées du texte pour des modèles de stockage organisés, en soutenant le traitement à grande échelle, la continuité opérationnelle et l'intégration avec des écosystèmes de messagerie gérés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation de données de courrier hors ligne**  
+  Convertit le contenu texte en formes structurées adaptées aux flux de travail de boîtes aux lettres hors ligne.
+
+* **Support de stockage des messages**  
+  Aide à organiser les données de communication pour les systèmes conçus autour d'un accès synchronisé aux boîtes aux lettres.
+
+* **Structuration des données d'archivage**  
+  Soutient la préparation des enregistrements dérivés du texte pour des environnements de stockage gérés.
+
+* **Gestion de la communication d'entreprise**  
+  Permet le traitement à grande échelle du contenu texte en formats orientés boîte aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de données de boîte aux lettres**  
+  L'automatisation peut structurer les données de communication basées sur le texte pour les flux de travail d'accès hors ligne.
+
+* **Pipelines de traitement en masse**  
+  De grands ensembles de textes peuvent être préparés de manière programmatique pour des opérations de stockage de type boîte aux lettres.
+
+* **Systèmes de continuité opérationnelle**  
+  La conversion automatisée soutient la gestion cohérente des enregistrements de communication à travers des environnements gérés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

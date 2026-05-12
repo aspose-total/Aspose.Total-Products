@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en VCF transforme les informations de contact stockées dans des documents Word en un format vCard standardisé pour les carnets d'adresses et les systèmes de contacts. Elle est précieuse lorsque les cartes de visite, les annuaires ou les listes de contacts doivent passer des documents aux flux de travail numériques.
+
+L'utilisation des API Python pour la conversion DOC en VCF améliore la précision, réduit la saisie manuelle des contacts et prend en charge une synchronisation évolutive entre les sources de documents et les systèmes de gestion des contacts.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de données de contact**
+  Convertir les détails de contact des documents en fichiers vCard réutilisables.
+
+* **Importation de carnet d'adresses**
+  Préparer les informations de contact basées sur des documents pour une importation directe dans les systèmes de contacts.
+
+* **Modernisation des annuaires**
+  Transformer les listes de contacts statiques en enregistrements de contact numériques portables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de contacts**
+  Créer des fichiers VCF à partir de répertoires DOC, de listes ou de formulaires de manière programmatique.
+
+* **Support CRM et synchronisation des contacts**
+  Acheminer les contacts extraits des documents vers les flux de travail de gestion des contacts.
+
+* **Traitement par lots des contacts**
+  Convertir de nombreux documents orientés contacts en actifs vCard réutilisables à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から CSV への変換は、OpenDocument のテキストテンプレートを構造化された区切りデータに変換し、現代のビジネスシステム間での処理、交換、分析を容易にします。テキストベースのコンテンツをレポート作成、移行、または下流データ処理のために正規化する必要がある場合に有用です。
+
+この変換は、ドキュメントコンテンツを軽量な表形式出力に変換することで、データパイプライン、スケジュールジョブ、統合ワークフローに適合し、一貫性、ポータビリティ、迅速なパースが重要な場面での自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化データ抽出**  
+  テンプレート駆動のテキストコンテンツを行と列に変換し、処理を容易にします。
+
+* **レポート作成の準備**  
+  ドキュメントベースの情報をダッシュボードやスプレッドシート分析に適した形にします。
+
+* **システム間相互運用性**  
+  区切りテキストのインポートをサポートするツールとのシンプルなデータ交換を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチコンテンツエクスポート**  
+  複数の OTT ファイルを CSV に変換し、一括処理を自動化します。
+
+* **データパイプライン統合**  
+  抽出されたドキュメントデータを ETL や検証ワークフローに供給します。
+
+* **スケジュールドキュメント解析**  
+  テンプレートを機械可読データセットに変換する定期ジョブをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de WordML en MSG crée des fichiers de messages électroniques à partir du contenu des documents, destinés à être utilisés dans les flux de travail de messagerie de bureau, les processus d'archivage et l'emballage de communications. Elle est utile lorsque les informations structurées d'un document doivent être conservées sous forme d'enregistrements de messages individuels.
+
+Les API Python prennent en charge la conversion de WordML en MSG en mappant le texte du document sur les composants du message et en automatisant la génération de sortie pour les environnements compatibles avec les courriels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de fichiers de messages**
+  Convertit le contenu WordML en fichiers MSG pour la gestion d'enregistrements de courriels individuels.
+
+* **Compatibilité avec la messagerie de bureau**
+  Prend en charge les flux de travail qui reposent sur l'échange de fichiers de messages dans des environnements orientés bureau.
+
+* **Archivage des communications**
+  Conserve le contenu basé sur les documents sous forme d'artefacts discrets de type courriel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération massive de MSG**
+  Automatise la création de fichiers de messages à partir de plusieurs documents WordML.
+
+* **Préparation d'archive**
+  Convertit les documents structurés en enregistrements MSG pour les flux de travail de stockage et de récupération.
+
+* **Conditionnement opérationnel du contenu**
+  Prend en charge la livraison programmatique des communications dérivées de documents vers les systèmes de messagerie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

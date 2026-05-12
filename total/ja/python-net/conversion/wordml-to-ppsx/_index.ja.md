@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から PPSX への変換は、文書コンテンツを直接プレゼンテーション再生用に設計された最新のスライドショーファイルに変換します。組織が書面資料から生成された洗練された、すぐに表示できるスライド出力を必要とする場合に便利です。
+
+Python API は、構造化された文書コンテンツを自動化された公開および配信ワークフローに適したスライドショー用プレゼンテーションに変換することで、WordML から PPSX への変換を効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **表示準備済みプレゼンテーション出力**
+  WordML 文書を PPSX ファイルに変換し、すぐにスライドショーで使用できるようにします。
+
+* **最新のスライドショー配布**
+  再生重視の形式でプレゼンテーションコンテンツの共有をサポートします。
+
+* **配信用コンテンツの再利用**
+  文書素材を簡潔で見やすいスライドショー構造に再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたスライドショー作成**
+  更新された WordML レポートや要約から PPSX ファイルを自動的に生成します。
+
+* **プレゼンテーション配信の自動化**
+  内部または外部のオーディエンスへ、表示準備済みスライドを定期的に配布することをサポートします。
+
+* **大量コンテンツの公開**
+  文書コレクションをプレゼンテーション用スライドショー資産にスケーラブルに変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から PPTM への変換は、ワードプロセッシング文書をマクロ対応プレゼンテーションファイルに変換し、先進的なプレゼンテーションワークフローをサポートします。このプロセスにより、文書の内容を動的なスライドデッキで再利用でき、オートメーションに適した機能が必要な場合に活用できます。
+
+Python API を使用すると、DOCX から PPTM への変換をレポートシステム、プレゼンテーション公開プラットフォーム、コンテンツオートメーションパイプラインで自動化できます。繰り返し可能で構造化されたスライド生成が求められる場面で有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応プレゼンテーションの作成**  
+  DOCX のコンテンツを構造化されたコミュニケーション向けの高度なプレゼンテーションファイルに変換します。
+
+* **動的スライドデッキワークフロー**  
+  プレゼンテーションが再利用可能な自動化動作から恩恵を受けるシナリオをサポートします。
+
+* **レポートのプレゼンテーションへの変換**  
+  記述されたレポートを機能強化されたプレゼンテーション資産に変換するのに役立ちます。
+
+* **スケーラブルなスライド生成**  
+  文書からマクロ対応プレゼンテーションを体系的に生成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された PPTM ファイル生成**  
+  システムは DOCX 文書からマクロ対応プレゼンテーションを自動的に作成できます。
+
+* **バッチ高度プレゼンテーション変換**  
+  Python スクリプトは多数のファイルをスケールで PPTM 出力に変換できます。
+
+* **エンタープライズレポート自動化**  
+  文書のコンテンツは内部ワークフロー向けの動的プレゼンテーション形式に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

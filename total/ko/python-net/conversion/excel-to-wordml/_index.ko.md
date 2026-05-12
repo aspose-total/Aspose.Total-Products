@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 Excel을 WordML로 변환하면 스프레드시트 내용을 XML 기반 워드 프로세싱 문서로 변환하여 구조화된 문서 교환 및 시스템 수준 처리에 유용합니다. 기계가 읽을 수 있고 표준 지향 형식의 문서 내용이 필요한 워크플로에 가치가 있습니다.
+
+이 변환은 Python 애플리케이션이 통합 중심, 변환 중심 또는 검증 중심 파이프라인에 맞는 구조화된 문서 출력을 생성하도록 하여 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 문서 교환**  
+  XML 기반 문서 표현을 활용하는 워크플로를 위해 Excel 데이터를 WordML로 변환합니다.
+
+* **시스템 통합**  
+  문서를 프로그래밍 방식으로 파싱, 검증 또는 변환해야 하는 경우 WordML 출력을 사용합니다.
+
+* **데이터-마크업 워크플로**  
+  스프레드시트 내용을 구조화된 처리에 적합한 문서 형식으로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **XML 기반 문서 자동화**  
+  문서 처리 시스템과의 통합을 위해 Excel 입력으로부터 WordML 파일을 생성합니다.
+
+* **변환 파이프라인**  
+  구조화된 스프레드시트 데이터를 기계가 읽을 수 있는 문서 출력으로 변환하는 워크플로를 지원합니다.
+
+* **프로그래밍 방식 콘텐츠 처리**  
+  XML 호환 형식에 의존하는 시스템을 위해 문서 생성을 자동화하려면 Python API를 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

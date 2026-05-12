@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOC から EMLX への変換は、Word のコンテンツを特定のデスクトップメールエコシステムで使用されるメールメッセージ形式に変換し、メールフレンドリーな構造でコンテンツを保持できるようにします。プラットフォーム固有のメッセージ保存要件に合わせて文書情報を整合させる必要がある場合に便利です。
+
+Python API を使用すると、DOC から EMLX への変換を繰り返し実行でき、効率的に自動エクスポート、アーカイブ作業、手動での再フォーマットなしでの特殊なメール処理ワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **プラットフォーム固有のメッセージエクスポート**
+  文書コンテンツを EMLX に変換し、対応するメール環境との互換性を確保します。
+
+* **メールアーカイブの準備**
+  文書から派生した情報を、メールボックスの保存作業に適したメッセージ形式で保存します。
+
+* **コンテンツの再利用**
+  正式な文書コンテンツを、対象ワークフローでメール対応レコードとして再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **メールボックスコンテンツの自動化**
+  DOC 入力からプログラム的に EMLX ファイルを生成し、メール指向システム向けに活用します。
+
+* **特殊アーカイブパイプライン**
+  EMLX ベースの保存が必要な環境向けに、文書変換を自動化します。
+
+* **大量エクスポートジョブ**
+  文書バッチを EMLX に変換し、繰り返しの手作業処理を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

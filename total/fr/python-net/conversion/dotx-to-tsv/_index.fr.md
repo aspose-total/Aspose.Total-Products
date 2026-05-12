@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTX vers TSV convertit le contenu des modèles Word en valeurs séparées par des tabulations pour le partage de données structurées et l'importation simplifiée dans des feuilles de calcul ou des outils de traitement. Elle est utile lorsque le contenu tabulaire d'un document doit être exporté dans un format texte propre.
+
+Avec les API Python, cette conversion améliore l'automatisation en permettant un échange de données textuel fiable, un traitement léger et une transformation à grande échelle du contenu piloté par des modèles.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Exportation de données en texte brut**
+  Convertir le contenu structuré du document en un format tabulaire léger.
+
+* **Flux de travail d'importation de feuilles de calcul**
+  Préparer les informations dérivées du modèle pour un chargement rapide dans les outils de données.
+
+* **Échange de données compatible avec les systèmes**
+  Faciliter le transfert de contenu structuré entre les pipelines d'automatisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Extraction de données planifiée**
+  Convertir automatiquement les modèles DOTX en fichiers TSV pour des flux de travail récurrents.
+
+* **Préparation ETL**
+  Utiliser la sortie TSV comme couche d'entrée pour les pipelines de transformation automatisés.
+
+* **Conversion textuelle à haut volume**
+  Traiter de grands lots de modèles en sorties structurées compactes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PCL から VCF への変換により、印刷ベースの情報をデジタルアドレス帳や連絡先管理システムで使用できる連絡先カード形式に変換できます。これは、構造化された連絡先情報が生成された印刷ストリームから生じ、最新のコミュニケーションワークフロー向けに再利用する必要がある場合に有用です。
+
+PCL から VCF への変換を自動化することで、組織は連絡先抽出を効率化し、データのポータビリティを向上させ、ディレクトリ、CRM、メッセージングシステムとのスケーラブルな統合を支援できます。静的な印刷指向情報を、より広範なデジタルワークフローで再利用可能な連絡先データに変換します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **デジタル連絡先作成**  
+  PCL ベースの連絡先情報をアドレス帳で使用できる VCF ファイルに変換します。
+
+* **ディレクトリデータのポータビリティ**  
+  印刷ストリームから連絡先情報を再利用可能なデジタル形式へ移行するのに役立ちます。
+
+* **連絡先ワークフローの近代化**  
+  レガシー文書データを構造化された連絡先レコードに変換することを支援します。
+
+* **システム間での情報再利用**  
+  連絡先データをコミュニケーションや管理環境にインポートしやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された連絡先抽出**  
+  システムは、連絡先情報を含む PCL ファイルを自動的に VCF レコードに変換できます。
+
+* **大量連絡先生成**  
+  バッチワークフローは、大量の印刷出力から複数の VCF ファイルを作成できます。
+
+* **CRM とディレクトリの統合**  
+  変換された連絡先ファイルは、自動化されたオンボーディングや同期ワークフローに利用できます。
+
+* **プログラムによる連絡先配布**  
+  VCF 出力は、連絡先システムの共有、インポート、更新のために動的に生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

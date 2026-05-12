@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から Email への変換は、文書コンテンツをメール用の出力に変換し、メッセージ生成、コンテンツ再利用、コミュニケーションワークフローに利用できます。これは、レポート、通知、またはテンプレートがワードプロセッシングファイルで作成され、直接配布のために再利用する必要がある場合に便利です。
+
+最新の自動化パイプラインでは、この変換により文書作成とコミュニケーション実行を橋渡しし、アラート、アウトリーチ、取引メッセージングプロセス向けにスケーラブルにメール対応コンテンツを生成できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **テンプレートベースのメッセージング**
+  文書コンテンツを再利用して、アウトバウンドメールコミュニケーションの基礎とします。
+
+* **レポート配布**
+  作成された文書をメール対応形式に変換し、チームやクライアントと共有します。
+
+* **通知コンテンツの準備**
+  正式なワード文書を構造化されたメッセージに変換し、自動配信を支援します。
+
+* **コミュニケーションワークフローの簡素化**
+  文書コンテンツをメールシステムに手動でコピー・適応する必要性を減らします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動メール生成**
+  承認されたワード文書をメールコンテンツに変換し、スケジュールまたはイベント駆動の送信に使用します。
+
+* **キャンペーンコンテンツの再利用**
+  文書テンプレートを定期的な情報提供または運用メールのソースとして使用します。
+
+* **ワークフローベースのアラート**
+  ビジネスルールやシステムトリガーが満たされたときに、文書からメールメッセージを生成します。
+
+* **集中型コンテンツ公開**
+  1つのソース文書が複数のコミュニケーションチャネルにプログラム的に供給できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

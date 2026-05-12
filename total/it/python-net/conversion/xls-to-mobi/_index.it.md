@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversione da XLS a MOBI rende il contenuto derivato da fogli di calcolo disponibile in un formato adatto agli eBook, idoneo per la lettura strutturata e la distribuzione digitale. È utile quando le informazioni tabulari devono essere rielaborate in materiale di lettura portatile, guide o contenuti di riferimento.
+
+Utilizzando le API Python, la conversione da XLS a MOBI può essere automatizzata all'interno dei sistemi di pubblicazione dei contenuti, migliorando l'efficienza per le organizzazioni che riutilizzano i dati dei fogli di calcolo in risorse digitali di lunga durata.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di guide digitali**
+  Converti i dati del foglio di calcolo in file MOBI per manuali, cataloghi o documenti di riferimento portatili.
+
+* **Riutilizzo dei contenuti**
+  Trasforma le informazioni XLS in formati digitali orientati alla lettura per una maggiore accessibilità.
+
+* **Consegna di informazioni strutturate**
+  Presenta i contenuti basati su fogli di calcolo in un formato adatto ai flussi di lavoro compatibili con gli eReader.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pubblicazione automatizzata di eBook**
+  Genera file MOBI da sorgenti XLS come parte dei flussi di pubblicazione digitale.
+
+* **Trasformazione batch dei contenuti**
+  Utilizza le API Python per convertire più fogli di calcolo in risorse di lettura portatili.
+
+* **Distribuzione cross-channel**
+  Fornisci i contenuti dei fogli di calcolo a sistemi automatizzati che preparano i file per il consumo digitale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLSM vers DOCM permet d'exporter le contenu de feuilles de calcul activées par des macros vers un format de document de traitement de texte également activé par des macros lorsque des comportements avancés du document ou une automatisation intégrée sont nécessaires. Cela est utile pour les organisations qui dépendent de sorties de documents éditables tout en préservant la compatibilité avec les environnements de documents pilotés par l'automatisation.
+
+Du point de vue de l'automatisation, la conversion XLSM vers DOCM aide à faire le lien entre la logique des feuilles de calcul et les flux de travail des documents en permettant aux systèmes basés sur Python de générer des documents réutilisables et compatibles avec les macros. Cela prend en charge le traitement évolutif, la génération de documents et l'intégration dans des pipelines de contenu d'entreprise automatisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Documentation activée par macro**
+  Convertit le contenu provenant de feuilles de calcul en fichiers de document qui prennent en charge des comportements scriptés avancés.
+
+* **Rapports orientés processus**
+  Aide à générer des rapports éditables pour les environnements où les fonctionnalités d'automatisation des documents sont importantes.
+
+* **Flux de travail basés sur des modèles**
+  Prend en charge la création d'actifs de documents réutilisables à partir d'entrées de feuilles de calcul dans des opérations structurées.
+
+* **Formulaires internes avancés**
+  Permet de transférer les données de la feuille de calcul vers des formats de document adaptés aux processus internes contrôlés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Assemblage de documents automatisé**
+  Les API Python peuvent convertir les fichiers XLSM en sorties DOCM pour des flux de travail de génération de documents dynamiques.
+
+* **Distribution compatible avec les macros**
+  Les systèmes automatisés peuvent préparer des fichiers DOCM pour les équipes qui dépendent d'un comportement de document interactif ou scripté.
+
+* **Pipelines de conversion par lots**
+  Plusieurs feuilles de calcul XLSM peuvent être transformées programmatiquement en fichiers DOCM à grande échelle.
+
+* **Intégration de flux de travail**
+  La conversion peut être intégrée aux systèmes d'entreprise qui déplacent les données des feuilles de calcul vers des étapes de documents automatisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

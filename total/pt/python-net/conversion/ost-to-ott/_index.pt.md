@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para OTT converte o conteúdo da caixa de correio para o formato de modelo de documento aberto, permitindo que informações derivadas de e‑mail sejam incorporadas em estruturas de modelo reutilizáveis. É útil para organizações que desejam formatação padrão e controle de layout repetível em fluxos de trabalho de documentos abertos.
+
+Em contextos de automação, a conversão de OST para OTT suporta a geração escalável de modelos e a padronização de documentos a partir de arquivos de caixa de correio. APIs Python tornam esse processo eficiente e confiável, ajudando as equipes a automatizar a documentação e os pipelines de relatórios repetíveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Modelos Abertos Reutilizáveis**  
+  Converte dados da caixa de correio em arquivos OTT para criação repetível de documentos.
+
+* **Layouts de Documentação Padronizados**  
+  Ajuda a aplicar estrutura consistente ao conteúdo derivado de e‑mail em ambientes de documentos abertos.
+
+* **Relatórios Baseados em Modelos**  
+  Suporta a produção recorrente de resultados de negócios construídos a partir de conteúdo de comunicação arquivado.
+
+* **Compatibilidade com Fluxos de Trabalho Abertos**  
+  Torna as informações da caixa de correio mais fáceis de usar em sistemas de modelos baseados em padrões.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação da Criação de Modelos**  
+  Scripts Python convertem conteúdo OST em OTT para geração padronizada de documentos.
+
+* **Pipelines de Relatórios Repetíveis**  
+  Fluxos de trabalho automatizados produzem documentos abertos prontos para modelo a partir de arquivos de caixa de correio.
+
+* **Estruturação de Conteúdo Escalável**  
+  A conversão programática suporta a preparação em larga escala de modelos de documentos reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

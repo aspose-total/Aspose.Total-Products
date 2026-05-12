@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODS para WORD permite que arquivos de planilha sejam transformados em documentos de processamento de texto adequados para edição e documentação. Esse processo permite que os dados da planilha sejam integrados a fluxos de trabalho de documentos e sistemas de relatórios.
+
+APIs baseadas em Python fornecem capacidades programáticas para automatizar transformações de planilha para documento. Isso possibilita pipelines de documentos escaláveis, relatórios automatizados e fluxos de trabalho eficientes de gerenciamento de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Relatórios de Planilha para Documento**  
+  Converta conjuntos de dados de planilhas em documentos de processamento de texto para relatórios.
+
+* **Geração de Documentação**  
+  Transforme dados de planilha em documentos estruturados.
+
+* **Apresentação de Dados**  
+  Apresente o conteúdo da planilha em layouts de documentos legíveis.
+
+* **Migração de Conteúdo**  
+  Converta arquivos de planilha em formatos de documento editáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Relatórios Automatizados**  
+  Fluxos de trabalho em Python convertem dados de planilha em documentos automaticamente.
+
+* **Processamento em Lote de Documentos**  
+  Sistemas processam múltiplas planilhas e geram saídas de documentos.
+
+* **Criação Dinâmica de Documentos**  
+  Entradas de planilha preenchem dinamicamente documentos estruturados.
+
+* **Integração de Fluxo de Trabalho Empresarial**  
+  Sistemas de conversão se integram a infraestruturas de gerenciamento de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

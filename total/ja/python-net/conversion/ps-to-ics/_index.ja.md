@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PS から ICS への変換により、PostScript ドキュメントをカレンダー互換のファイルに変換でき、スケジュール、イベント、リマインダー、または予約データを表すことができます。印刷されたドキュメントや生成されたドキュメントに時間に関する情報が含まれており、構造化されたカレンダーエントリに変換する必要がある場合に便利です。
+
+Python API を使用すると、PS から ICS への変換が自動スケジューリングシステム、イベント処理パイプライン、ワークフローオーケストレーションに実用的になります。ドキュメントベースの情報を機械可読のカレンダーフォーマットに変換することで、組織は調整を改善し、手動入力を削減し、スケーラブルな時間ベースの自動化をサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **イベントデータ抽出**  
+  スケジュール詳細を含む PS ドキュメントをカレンダー互換の ICS ファイルに変換します。
+
+* **予約ワークフローサポート**  
+  印刷された確認書や通知を再利用可能なカレンダーエントリに変換するのに役立ちます。
+
+* **リマインダーとスケジュール配布**  
+  カレンダーファイルを使用するシステムを通じて構造化されたイベント情報の配布をサポートします。
+
+* **時間ベースのドキュメント変換**  
+  ドキュメントに紐付いたスケジューリング情報をデジタル計画ワークフローで利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダーファイル生成**  
+  自動化により、PS ベースのスケジュールドキュメントを直接 ICS ファイルに変換し、配布またはインポートできます。
+
+* **会議およびイベントパイプライン**  
+  このトピックは、生成された運用ドキュメントからカレンダーエントリを作成するワークフローをサポートします。
+
+* **通知からカレンダーへの統合**  
+  プログラム的なプロセスにより、ドキュメント出力をリマインダーシステムと連携したイベントファイルに変換できます。
+
+* **繰り返しスケジューリング操作**  
+  動的変換により、標準化されたドキュメント入力から繰り返しカレンダー作成タスクを管理するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

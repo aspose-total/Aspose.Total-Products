@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PPT en XLS transforme le contenu des présentations en format de feuille de calcul compatible avec les flux de travail traditionnels de feuilles de calcul. Elle est utile lorsque les données contenues dans les présentations doivent être transférées vers des tableaux structurés pour révision, calcul ou intégration avec des environnements de feuilles de calcul hérités.
+
+Du point de vue de l'automatisation, la conversion PPT en XLS prend en charge l'extraction de données, les opérations de reporting récurrentes et les flux de travail axés sur la compatibilité qui s'appuient toujours sur des normes de feuilles de calcul établies.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Conversion de feuilles de calcul héritées**  
+  Transfère les données dérivées des présentations vers un format de feuille de calcul largement reconnu.
+
+* **Support d'analyse structurée**  
+  Facilite l'organisation et l'évaluation du contenu extrait des diapositives sous forme de feuille de calcul.
+
+* **Réutilisation des données opérationnelles**  
+  Réaffecte les tableaux et le texte des présentations aux processus pilotés par des feuilles de calcul.
+
+* **Préservation de la compatibilité**  
+  Prend en charge les environnements où les anciens formats de feuilles de calcul restent intégrés aux opérations commerciales.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation de feuilles de calcul récurrente**  
+  Automatise la transformation du contenu PPT en XLS pour des tâches de reporting répétées.
+
+* **Intégration de systèmes hérités**  
+  Alimente les fichiers de feuilles de calcul convertis dans des systèmes opérationnels ou d'archivage plus anciens.
+
+* **Pipelines de présentation vers données**  
+  Utilise la sortie XLS comme partie de flux d'extraction et de transformation structurés.
+
+* **Opérations de conversion par lots**  
+  Gère efficacement plusieurs présentations dans des processus d'automatisation axés sur les feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MOBI를 FODS로 변환하면 전자책 콘텐츠를 평면 XML 스프레드시트 형식으로 변환할 수 있으며, 이는 개방형 워크플로, 검사 및 시스템 수준 처리에 적합합니다. 팀이 투명하고 버전 관리 또는 감사를 쉽게 할 수 있는 스프레드시트 호환 출력을 필요로 할 때 유용합니다.
+
+자동화 환경에서 MOBI를 FODS로 변환하면 개방형 문서 파이프라인, 확장 가능한 XML 기반 변환 및 읽기 쉬운 구조화된 형식의 이점을 누리는 시스템과의 통합을 지원합니다. 상호 운용성과 형식 투명성에 중점을 둔 환경에서 특히 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 처리**
+  MOBI 콘텐츠를 FODS로 변환하여 오픈 스프레드시트 생태계 및 XML 기반 워크플로에서 사용합니다.
+
+* **감사 가능한 데이터 변환**
+  변환 및 품질 검사 중에 검토 및 검증이 더 쉬운 형식을 생성합니다.
+
+* **상호 운용 가능한 콘텐츠 교환**
+  구조화된 전자책 콘텐츠를 개방형 및 표준 기반 문서 처리를 선호하는 시스템으로 이동합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **XML 기반 변환 파이프라인**
+  오픈 구조화 문서 형식에 의존하는 자동화 워크플로에 MOBI를 FODS로 변환하는 과정을 삽입합니다.
+
+* **버전 관리 문서 흐름**
+  읽기 쉬운 평면 파일 변경을 더 쉽게 추적할 수 있는 스크립트 환경에서 FODS 출력을 사용합니다.
+
+* **표준 지향 내보내기 자동화**
+  규정 준수, 교환 또는 통합 작업을 위해 오픈 스프레드시트 출력을 자동으로 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

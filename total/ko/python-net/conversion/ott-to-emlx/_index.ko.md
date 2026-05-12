@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 EMLX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 EMLX로 변환하면 OpenDocument 텍스트 템플릿을 특정 메일 저장 환경에서 사용되는 EMLX 메시지 파일로 변환합니다. 템플릿 기반 콘텐츠가 이 이메일 파일 구조에 의존하는 시스템과 통합되어야 할 때 관련됩니다.
+
+이 변환은 문서에서 파생된 커뮤니케이션 콘텐츠가 수동 재작성 없이 특수 이메일 생태계로 흐를 수 있게 함으로써 자동화를 강화하고, 확장 가능한 메시지 준비 및 보관 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **전문화된 메일 저장소 지원**  
+  EMLX 기반 환경과 호환되는 메시지 파일을 생성합니다.
+
+* **템플릿 기반 커뮤니케이션**  
+  구조화된 이메일 생성을 위해 OTT 콘텐츠를 재사용합니다.
+
+* **휴대 가능한 메시지 출력**  
+  메일 워크플로 내에서 저장하거나 전송할 수 있는 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 이메일 파일 생성**  
+  문서 템플릿에서 대량으로 EMLX 출력을 생성합니다.
+
+* **보관 워크플로**  
+  템플릿에서 파생된 커뮤니케이션을 구조화된 메일 저장소에 저장합니다.
+
+* **시스템 간 콘텐츠 준비**  
+  문서 생성과 플랫폼별 이메일 처리 간의 다리를 놓습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

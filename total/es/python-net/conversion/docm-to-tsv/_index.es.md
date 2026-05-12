@@ -65,7 +65,41 @@ Es principalmente en dos pasos. En primer lugar, use la API [Aspose.Words for Py
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de DOCM a TSV convierte documentos con macros habilitadas en valores separados por tabulaciones, facilitando que el contenido estructurado sea más fácil de analizar, transferir y reutilizar en flujos de trabajo de datos. Es especialmente útil cuando las tablas de documentos necesitan un formato basado en texto simple con una separación clara de campos.
+
+En entornos de automatización, la conversión de DOCM a TSV soporta un intercambio de datos fiable, la ingestión en pipelines de procesamiento y la transformación escalable del contenido del documento en salidas estructuradas ligeras.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Extracción de Tablas para Procesamiento**
+  Convierte las tablas del documento en una estructura basada en texto adecuada para flujos de trabajo de datos.
+
+* **Intercambio de Datos Ligero**
+  Permite mover contenido estructurado entre herramientas con una sobrecarga mínima de formato.
+
+* **Preparación de Importación**
+  Ayuda a preparar los registros derivados del documento para sistemas que aceptan entradas delimitadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Exportaciones Estructuradas Recurrentes**
+  Automatiza la conversión de DOCM a TSV para flujos de trabajo operativos continuos.
+
+* **Preparación de Datos Amigable para Pipelines**
+  Produce salidas que pueden ser analizadas fácilmente en scripts y trabajos de integración.
+
+* **Flujos de Trabajo de Transformación por Lotes**
+  Convierte muchos archivos DOCM en salidas TSV consistentes de forma programática.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT en EMAIL transforme les modèles de documents en contenu prêt à être envoyé par courriel, pouvant être utilisé dans les flux de messagerie et les systèmes de communication. Ceci est important lorsque les modèles structurés doivent devenir du contenu de messages sortants réutilisable.
+
+En utilisant les API Python, les organisations peuvent automatiser la transformation des fichiers DOT en sorties compatibles avec les courriels, rendant les processus de communication plus efficaces, reproductibles et plus faciles à intégrer dans des systèmes plus larges.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Messagerie basée sur des modèles**
+  Convertir le contenu DOT en format courriel pour des flux de communication standardisés.
+
+* **Réutilisation du contenu sur plusieurs canaux**
+  Réutiliser les modèles de documents comme corps de messages pour des notifications, alertes ou correspondances.
+
+* **Activation de la communication des flux de travail**
+  Préparer des ressources prêtes à être envoyées par courriel à partir des modèles de documents pour une utilisation opérationnelle ou transactionnelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de messages**
+  Les scripts Python peuvent transformer les modèles DOT en contenu de courriel pour des flux de communication déclenchés.
+
+* **Pipelines document-vers-communication**
+  La conversion aide à connecter les dépôts de documents aux systèmes d'automatisation d'envoi de courriels.
+
+* **Traitement évolutif des modèles**
+  Les flux de travail dynamiques peuvent convertir plusieurs fichiers DOT en sorties prêtes à être envoyées par courriel en masse.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

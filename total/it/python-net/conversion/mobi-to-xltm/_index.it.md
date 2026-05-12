@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MOBI a XLTM in Python consente di preparare il contenuto degli ebook come modello di foglio di calcolo abilitato alle macro per la generazione avanzata e ripetibile di cartelle di lavoro. Questo è utile in ambienti in cui sono richieste sia la coerenza del modello sia la logica di automazione dei fogli di calcolo.
+
+Per la rilevanza dell'automazione, la conversione da MOBI a XLTM combina l'estrazione strutturata con modelli di cartelle di lavoro riutilizzabili e comportamenti guidati dalle macro. Supporta la generazione scalabile di documenti, una formattazione coerente e operazioni automatizzate sui fogli di calcolo nei flussi di lavoro di contenuti aziendali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli Abilitati alle Macro**
+  Converti il contenuto MOBI in XLTM per una generazione ripetibile di fogli di calcolo con supporto all'automazione.
+
+* **Cartelle di Lavoro Avanzate Coerenti**
+  Produci output basati su modelli che preservano sia la struttura sia la funzionalità automatizzata dei fogli di calcolo.
+
+* **Modelli Operativi Riutilizzabili**
+  Supporta i flussi di lavoro aziendali che si basano su modelli di fogli di calcolo controllati con logica integrata.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Flussi di Lavoro con Modelli Automatizzati**
+  Genera file XLTM tramite script Python per operazioni ricorrenti di documentazione e reporting.
+
+* **Pipeline di Logica per Fogli di Calcolo Riutilizzabili**
+  Abbina il contenuto estratto a modelli abilitati alle macro per supportare flussi di lavoro avanzati e ripetibili.
+
+* **Consegna di Automazione Standardizzata**
+  Crea modelli di fogli di calcolo uniformi che possono essere istanziati programmaticamente tra team o sistemi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

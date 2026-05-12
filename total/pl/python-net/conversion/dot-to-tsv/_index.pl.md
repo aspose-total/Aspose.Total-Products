@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to TSV conversion changes document templates into tab-separated data files that are simple, portable, and easy to process. This is valuable when structured template content must be exported in a delimiter-based format that supports reliable data exchange.
+
+Using Python APIs, DOT to TSV workflows can be automated to support clean data extraction, system interoperability, and scalable document-to-data processing.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport tekstu strukturalnego**
+  Convert DOT files into TSV for clean delimiter-based data handling.
+
+* **Wymiana danych przyjazna systemom**
+  Use TSV output where tabs are preferred for predictable field separation.
+
+* **Wydobycie zawartości szablonu**
+  Repurpose document information into a simple format for scripts and operational tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane wydobycie danych**
+  Python scripts can convert DOT templates into TSV files for recurring processing jobs.
+
+* **Wsparcie przepływu pracy ETL**
+  Conversion helps feed template-derived data into pipelines and integration systems.
+
+* **Skalowalne eksporty oparte na tekście**
+  Programmatic transformation enables high-volume TSV generation from document repositories.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

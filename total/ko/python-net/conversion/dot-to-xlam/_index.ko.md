@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 XLAM 변환은 문서 템플릿을 스프레드시트 워크플로를 확장하는 데 사용되는 애드인 지향 스프레드시트 파일로 변환합니다. 이는 템플릿 기반 콘텐츠가 재사용 가능한 스프레드시트 기능이나 지원되는 환경에서 패키지화된 로직에 기여할 때 관련이 있습니다.
+
+Python API를 사용하면 DOT에서 XLAM 변환을 자동화 시스템에 통합하여 문서 기반 소스에서 고급 스프레드시트 자산 생성을 표준화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 애드인 자산 준비**
+  DOT 콘텐츠를 재사용 가능한 스프레드시트 확장을 위한 XLAM 지향 출력으로 변환합니다.
+
+* **재사용 가능한 워크플로 패키징**
+  문서 정의 구조가 고급 스프레드시트 솔루션에 공급되는 시나리오를 지원합니다.
+
+* **템플릿 기반 기능 자산**
+  문서 콘텐츠를 반복 사용을 위한 패키지형 스프레드시트 리소스로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 애드인 준비**
+  Python 워크플로는 필요에 따라 DOT 템플릿을 XLAM 호환 출력으로 변환할 수 있습니다.
+
+* **고급 스프레드시트 파이프라인 지원**
+  변환은 문서 저장소가 재사용 가능한 스프레드시트 자산에 기여하도록 돕습니다.
+
+* **확장 가능한 기능 출력 생성**
+  프로그래밍 시스템은 고용량 고급 스프레드시트 패키지 파일 생성을 효율화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

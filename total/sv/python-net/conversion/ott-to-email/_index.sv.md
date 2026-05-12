@@ -46,7 +46,41 @@ För en Python-utvecklare, vem försöker lägga till en OTT till EMAIL-konverte
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT‑till‑e‑post‑konvertering i Python‑API:er omvandlar OpenDocument‑textmallar till e‑postklart innehåll som är lämpligt för meddelandegenerering, notifieringsarbetsflöden och kommunikationsautomatisering. Det hjälper organisationer att återanvända dokumentinnehåll som strukturerade utgående meddelanden.
+
+Denna konvertering är mycket relevant för automatisering eftersom den möjliggör dynamisk generering av e‑postmeddelanden från mallar, vilket förbättrar kommunikationskonsekvens, skalbarhet och integration med transaktions‑ eller händelsedrivna system.
+
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsområden" %}}
+
+* **Mallbaserad meddelandehantering**  
+  Omvandlar dokumentmallar till återanvändbart e‑postinnehåll för utskick eller uppdateringar.
+
+* **Generering av aviseringar**  
+  Omvandlar formaterad text till e‑postklart meddelande för varningar och bekräftelser.
+
+* **Återanvändning av innehåll**  
+  Gör det möjligt för samma källdokument att stödja både dokumentations‑ och kommunikationsbehov.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* **Automatiserade kunduppdateringar**  
+  Genererar e‑postmeddelanden från OTT‑mallar baserat på arbetsflödesutlösare.
+
+* **Transaktionsmeddelandepipelines**  
+  Använder dokumentinnehåll i system som skickar bekräftelser eller påminnelser.
+
+* **Dynamisk personalisering**  
+  Fyller mallstyrt e‑postinnehåll programmässigt för stora mottagargrupper.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

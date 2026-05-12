@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTM vers SXC transforme les modèles Word avec macros en fichiers de feuille de calcul compatibles avec les environnements plus anciens de type OpenOffice. Elle est utile lorsque le contenu d’un document doit être converti en sorties de feuille de calcul structurées tout en conservant la compatibilité avec les flux de travail legacy d’OpenOffice.
+
+L’utilisation des API Python pour la conversion DOTM vers SXC améliore l’automatisation en transformant les modèles de documents réutilisables en actifs de feuille de calcul pour des systèmes compatibles legacy. Cela favorise une extraction de données efficace, une interopérabilité plus large et une transformation de format évolutive.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Compatibilité avec les feuilles de calcul Open legacy**
+  Convertir le contenu DOTM en SXC pour les flux de travail qui dépendent encore des formats de feuille de calcul plus anciens.
+
+* **Réutilisation des données de modèle**
+  Extraire le contenu structuré du document sous forme de feuille de calcul pour révision et traitement.
+
+* **Support de migration**
+  Utiliser les sorties SXC lors de la transition du contenu vers ou à travers des environnements de bureau legacy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Export automatisé de feuilles de calcul legacy**
+  Les systèmes peuvent convertir les modèles DOTM en SXC dans le cadre de flux de travail axés sur la compatibilité.
+
+* **Automatisation document‑vers‑données**
+  La conversion prend en charge l’extraction planifiée de contenu structuré en actifs de feuille de calcul.
+
+* **Traitement par lots des formats legacy**
+  Des tâches programmées permettent une transformation à grande échelle des fichiers DOTM en SXC de manière efficace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

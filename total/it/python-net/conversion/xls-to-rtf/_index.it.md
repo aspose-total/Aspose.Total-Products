@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLS a RTF rende il contenuto del foglio di calcolo disponibile in un formato di testo ricco che supporta un'ampia compatibilità dei documenti e il riutilizzo modificabile basato su testo. Questo è utile quando le informazioni del foglio di calcolo devono essere trasferite in un formato di documento flessibile per la condivisione, l'archiviazione o ulteriori formattazioni.
+
+La conversione da XLS a RTF basata su API Python migliora l'automazione consentendo la generazione coerente di documenti di testo a partire da file di fogli di calcolo e supportando flussi di lavoro leggeri per lo scambio di documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti di testo ricco**
+  Converti il contenuto XLS in file RTF per un uso di documento modificabile e portatile.
+
+* **Condivisione multipiattaforma**
+  Usa l'output RTF quando è necessaria un'ampia compatibilità tra ambienti di documento.
+
+* **Trasformazione di contenuti incentrata sul testo**
+  Riconfeziona i dati del foglio di calcolo in un formato adatto a formattazioni miste e presentazioni narrative.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione batch di testo ricco**
+  Usa le API Python per convertire automaticamente più file XLS in documenti RTF.
+
+* **Pipeline di documenti leggeri**
+  Aggiungi la conversione da XLS a RTF ai flussi di lavoro che enfatizzano portabilità e compatibilità.
+
+* **Preparazione automatizzata per l'archiviazione**
+  Trasforma il contenuto del foglio di calcolo in documenti di testo ricco per l'archiviazione o la revisione a lungo termine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

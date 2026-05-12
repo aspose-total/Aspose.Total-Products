@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODT para XLT transforma o conteúdo de documentos em um formato de modelo de planilha que suporta a criação repetível de pastas de trabalho. Isso é útil quando estruturas de dados derivadas de documentos precisam se tornar layouts de planilha reutilizáveis para uso operacional contínuo.
+
+Usando APIs Python, a conversão de ODT para XLT suporta automação orientada por modelos, relatórios padronizados e fluxos de trabalho de dados repetíveis. Ela ajuda a transformar conteúdo estático de documentos em ativos de planilha reutilizáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo de Planilha**  
+  Converte o conteúdo extraído em estruturas de pastas de trabalho reutilizáveis.
+
+* **Layouts de Relatórios Padronizados**  
+  Ajuda a manter a consistência em saídas recorrentes de planilhas.
+
+* **Estruturas de Dados Reutilizáveis**  
+  Suporta a geração repetida de pastas de trabalho a partir de conteúdo fonte semelhante.
+
+* **Eficiência Operacional**  
+  Reduz o trabalho repetitivo de configuração na preparação de planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Geração de Modelos**  
+  Scripts Python podem converter dados derivados de ODT em modelos XLT automaticamente.
+
+* **Preparação Recorrente de Pastas de Trabalho**  
+  Estruturas baseadas em documentos podem ser reutilizadas em fluxos de trabalho de planilhas repetidos.
+
+* **Padronização de Modelos em Lote**  
+  Vários arquivos fonte podem ser transformados em formatos de planilha reutilizáveis.
+
+* **Criação de Relatórios Orientada por Processos**  
+  Saídas de modelos podem suportar a geração automatizada de pastas de trabalho subsequentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

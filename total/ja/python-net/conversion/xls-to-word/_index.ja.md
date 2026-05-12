@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から Word への変換は、スプレッドシートのデータを編集可能なワードプロセッシング文書に変換し、コミュニケーション、文書化、構造化レポートに活用できます。生のスプレッドシート内容を、より物語的で読み手に優しい形で提示する必要がある場合に有用です。
+
+Python API を使用すれば、XLS から Word への変換をビジネスシステム全体で自動化でき、信頼性の高い文書生成、手作業の削減、そして最新のコンテンツワークフローへの効率的な統合が実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **文書ベースのレポート**
+  スプレッドシートデータを Word 文書に変換し、要約、運用メモ、レポートとして提供します。
+
+* **読みやすいフォーマット**
+  表形式の情報を、よりアクセスしやすいテキスト文書構造で提示します。
+
+* **編集可能なワークフロー出力**
+  共同作業環境でレビュー、更新、共有できる Word ファイルを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Word 文書作成**
+  定期的なレポートや文書化ワークフローで、XLS 入力から Word ファイルを生成します。
+
+* **システムから文書への統合**
+  Python API を使用して、スプレッドシートのエクスポートを文書出力に自動変換します。
+
+* **スケーラブルなビジネスコンテンツ処理**
+  大量のスプレッドシートデータをワードプロセッシングファイルに変換する処理をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

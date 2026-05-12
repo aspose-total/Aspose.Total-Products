@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCM를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to OFT 변환은 매크로가 포함된 문서를 재사용 가능한 이메일 템플릿 파일로 변환하여 문서 기반 콘텐츠를 반복적인 커뮤니케이션 작업에 맞게 표준화하기 쉽게 합니다. 작성된 문서 소스에서 일관된 메시지를 생성해야 할 때 도움이 됩니다.
+
+자동화 워크플로에서 DOCM to OFT 변환은 템플릿화된 아웃리치, 프로세스 기반 커뮤니케이션 및 반복 메시징 시나리오 전반에 걸친 문서 콘텐츠의 확장 가능한 재사용을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 기반 메시징**
+  문서 콘텐츠를 재사용 가능한 이메일 템플릿으로 변환하여 표준화된 커뮤니케이션을 제공합니다.
+
+* **프로세스 일관성**
+  팀이 반복되는 발신 메시지 전반에 걸쳐 일관된 구조를 유지하도록 돕습니다.
+
+* **콘텐츠 재활용**
+  수동 재포맷 없이 공식 문서 텍스트를 커뮤니케이션 템플릿에 재사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 생성**
+  반복 가능한 메시지 워크플로를 위해 DOCM 문서에서 OFT 파일을 생성합니다.
+
+* **워크플로 트리거 커뮤니케이션**
+  승인, 알림 또는 지원 프로세스에서 변환된 템플릿을 사용합니다.
+
+* **확장 가능한 메시지 준비**
+  대규모로 템플릿 기반 콘텐츠를 동적으로 채우고 배포할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

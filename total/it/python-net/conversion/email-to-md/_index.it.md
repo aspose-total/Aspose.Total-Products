@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da email a MD in Python trasforma il contenuto del messaggio in Markdown per una documentazione testuale leggera, portabile e compatibile con il versionamento. È particolarmente utile quando le informazioni delle email devono essere riutilizzate nella documentazione, nelle basi di conoscenza, nei flussi di lavoro degli sviluppatori o nei sistemi di pubblicazione.
+
+Questa conversione migliora l'automazione rendendo il contenuto delle email più facile da analizzare, archiviare, trasformare e pubblicare attraverso pipeline incentrate sul testo con un minimo sovraccarico di formattazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Pubblicazione di basi di conoscenza**
+  Converti le email in Markdown per portali di documentazione e wiki interne.
+
+* **Archivi versionati**
+  Conserva le comunicazioni importanti in un formato testuale adatto al tracciamento nei repository.
+
+* **Semplificazione del contenuto**
+  Riduci la formattazione complessa delle email in markup pulito e portabile per il riutilizzo.
+
+* **Flussi di lavoro orientati agli sviluppatori**
+  Utilizza gli output Markdown dove i team tecnici gestiscono i contenuti in sistemi basati su testo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione da casella di posta a wiki**
+  Trasforma le email selezionate in pagine Markdown per piattaforme di conoscenza ricercabili.
+
+* **Aggiornamenti della documentazione basati su repository**
+  Esegui il commit del contenuto del messaggio convertito nelle pipeline di contenuto versionate automaticamente.
+
+* **Flussi di lavoro di pubblicazione statica**
+  Fornisci gli output email in Markdown a generatori e sistemi di automazione dei contenuti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 OST로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 OST로의 변환은 문서 기반 콘텐츠를 오프라인 메일함 데이터 워크플로 및 이메일 저장 생태계에서 사용할 수 있는 형식으로 변환하는 것을 지원합니다. 이는 문서 정보가 메일함 중심의 콘텐츠 처리의 일부가 되는 특수한 마이그레이션 또는 보관 시나리오에서 관련이 있습니다.
+
+Python API는 WordML에서 OST와 관련된 자동화를 위한 콘텐츠를 준비하고 구조화하는 데 도움을 주어 기업 메시징 및 마이그레이션 프로세스의 반복성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 데이터 준비**
+  문서 콘텐츠를 오프라인 메일 저장 및 마이그레이션 워크플로의 입력으로 사용합니다.
+
+* **기업 보관 지원**
+  문서 기반 커뮤니케이션을 메일함 중심 보존 프로세스와 정렬하는 데 도움을 줍니다.
+
+* **구조화된 콘텐츠 패키징**
+  승인된 텍스트를 메시지 지향 저장 컨텍스트로 변환하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **마이그레이션 지원 파이프라인**
+  오프라인 메일함 처리 워크플로를 위한 WordML 콘텐츠 준비를 자동화합니다.
+
+* **아카이브 통합 작업**
+  문서 기반 레코드를 보다 넓은 이메일 아카이브 작업에 통합합니다.
+
+* **기업 콘텐츠 구조화**
+  대규모로 메시지 준비된 문서 콘텐츠를 반복적으로 처리할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

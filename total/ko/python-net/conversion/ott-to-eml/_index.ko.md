@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 EML로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 EML로 변환하면 OpenDocument 텍스트 템플릿을 표준 이메일 메시지 파일로 변환하여 저장, 전송 및 하위 처리에 필요한 메시지 구조를 보존합니다. 이는 문서 내용이 휴대 가능한 이메일 아티팩트가 되어야 할 때 유용합니다.
+
+이 변환은 문서 기반 이메일 파일 생성을 가능하게 하여 아카이브, 검토, 가져오기 또는 이메일 호환 시스템에서 반복 가능한 워크플로우로 처리할 수 있도록 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이메일 파일 생성**  
+  재사용 가능한 문서 템플릿으로부터 표준 메시지 파일을 생성합니다.
+
+* **아카이브 준비**  
+  기록 보관 및 전송에 적합한 이메일 아티팩트를 생성합니다.
+
+* **시스템 인계**  
+  직접 이메일 전송 대신 메시지 파일이 필요한 워크플로우를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 이메일 초안 생성**  
+  다수의 OTT 템플릿을 검토 또는 전달 파이프라인용 EML 파일로 변환합니다.
+
+* **자동 기록 생성**  
+  통신 준비가 된 출력을 표준 이메일 파일로 저장합니다.
+
+* **메일 처리 시스템과의 통합**  
+  생성된 EML 파일을 수집, 아카이브 또는 규정 준수 워크플로우에 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から DOTX への変換は、スプレッドシートのテンプレートコンテンツを、クリーンで再利用可能、かつ標準化された文書作成をサポートする最新の Word 文書テンプレート形式に変換します。これは、スプレッドシート主導の構造を、チームやプロセス全体で一貫した出力を実現する正式な文書テンプレートにする必要がある場合に重要です。
+
+自動化のユースケースにおいて、XLTX から DOTX への変換は、構造化されたテンプレートデータを再利用可能なワードプロセッシングテンプレートに変換することで、スケーラブルな文書生成フレームワークの構築を支援し、効率を向上させ、手作業の文書設計作業を削減します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **モダンテンプレート作成**  
+  XLTX ファイルを再利用可能な DOTX テンプレートに変換し、一貫した文書生成を実現します。
+
+* **標準化された出力設計**  
+  繰り返し作成される文書全体で統一された書式とレイアウトを強制するのに役立ちます。
+
+* **テンプレート駆動型コンテンツワークフロー**  
+  スプレッドシートベースの構造と最新の文書テンプレートの使用を橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート配布**  
+  システムはスプレッドシートのソースから DOTX テンプレートを生成し、部門間で配布できます。
+
+* **一貫した文書パイプライン**  
+  この変換は、標準化された文書の開始点に依存する繰り返し可能なワークフローをサポートします。
+
+* **プログラムによるテンプレートスケーリング**  
+  動的処理により、多数の最新テンプレートを迅速かつ均一な品質で生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

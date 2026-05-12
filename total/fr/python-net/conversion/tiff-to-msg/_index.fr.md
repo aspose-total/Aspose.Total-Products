@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de TIFF en MSG à l'aide des API Python permet de convertir des documents numérisés ou basés sur des images en fichiers de messages électroniques structurés, adaptés aux flux de travail de messagerie de bureau et au traitement basé sur les messages. Cela est utile lorsque le contenu TIFF doit être empaqueté en tant qu'élément de courriel individuel pour la révision, le stockage ou l'échange.
+
+Du point de vue de l'automatisation, la conversion de TIFF en MSG prend en charge la génération de messages standardisés, améliore la cohérence opérationnelle et facilite l'intégration avec les systèmes d'entreprise centrés sur le courriel. Elle aide à transformer des entrées visuelles statiques en objets de communication numérique exploitables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Emballage de messages individuels**
+  Convertit les fichiers TIFF en sorties MSG autonomes pour une gestion au niveau du message.
+
+* **Préparation du flux de travail de courriel**
+  Aide à préparer les documents basés sur des images pour la révision et la gestion des courriels de bureau.
+
+* **Livraison de contenu structuré**
+  Prend en charge la conversion des enregistrements numérisés en artefacts de messages réutilisables pour les systèmes de communication.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération automatisée de messages**
+  Crée des fichiers MSG à partir de documents TIFF dans le cadre de flux de travail de communication programmés.
+
+* **Traitement de dossiers**
+  Permet de convertir automatiquement les preuves numérisées, formulaires ou enregistrements en éléments de message structurés.
+
+* **Automatisation du transfert de flux de travail**
+  Prend en charge le routage basé sur les messages du contenu dérivé de TIFF entre les systèmes et les équipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

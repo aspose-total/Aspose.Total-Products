@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF から VCF への変換は、Python API を使用して、連絡先情報を含む画像ベースの文書をデジタルアドレス帳や通信システム向けの構造化された連絡先カード形式に変換できます。これは、スキャンした名刺、フォーム、または視覚的な連絡先記録を検索可能で再利用可能な連絡先エントリにする必要がある場合に便利です。
+
+自動化の観点から見ると、TIFF から VCF への変換は連絡先取得の効率を向上させ、手動データ入力を削減し、文書イメージングと連絡先管理ワークフロー間のスケーラブルな統合をサポートします。静的な視覚的連絡先データを実用的なビジネス情報に変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **名刺デジタル化**
+  TIFF 画像の連絡先カードを VCF 互換のデジタル連絡先レコードに変換します。
+
+* **フォームベースの連絡先抽出**
+  スキャンした登録書類や受付文書を再利用可能な連絡先エントリに変換するのに役立ちます。
+
+* **アドレス帳への登録**
+  視覚的な連絡先データを構造化された連絡先管理システムへ移行することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先取り込み**
+  TIFF ベースの連絡先文書を VCF 出力に変換し、システムへの即時インポートを可能にします。
+
+* **リード取得ワークフロー**
+  スキャンした連絡先資料を構造化された見込み客レコードに自動変換することをサポートします。
+
+* **ディレクトリ同期プロセス**
+  画像ベースのソースファイルからデジタル連絡先カードをプログラム的に作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Es principalmente en dos pasos. En primer lugar, use la API [Aspose.Words for Py
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML a conversión SXC convierte contenido estructurado basado en documentos en archivos de hoja de cálculo compatibles con flujos de trabajo de hojas de cálculo abiertas heredadas. Esto es útil para organizaciones que mantienen compatibilidad con entornos de oficina abierta más antiguos.
+
+Las API de Python admiten la conversión de WordML a SXC extrayendo tablas y automatizando la transformación a formatos orientados a hojas de cálculo para necesidades de migración e interoperabilidad.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de uso clave" %}}
+
+* **Salida de hoja de cálculo abierta heredada**
+  Convierte tablas WordML en archivos SXC para entornos de hoja de cálculo más antiguos.
+
+* **Reutilización de datos desde documentos**
+  Hace que el contenido estructurado del documento sea editable en herramientas de hoja de cálculo heredadas.
+
+* **Preservación de compatibilidad**
+  Soporta flujos de trabajo de larga duración que aún dependen de formatos abiertos más antiguos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de automatización" %}}
+
+* **Automatización de exportación heredada**
+  Genera salidas SXC a partir de archivos WordML en flujos de trabajo centrados en la compatibilidad.
+
+* **Tareas de soporte de migración**
+  Conecta repositorios de documentos con entornos de procesamiento de hojas de cálculo más antiguos.
+
+* **Conversión masiva de tablas**
+  Automatiza la extracción y empaquetado de datos de documentos en archivos de hoja de cálculo heredados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,9 +53,43 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から画像への変換は、書式設定されたテキスト文書を、閲覧、共有、プレビュー、または埋め込み用のページ画像などのビジュアル出力に変換します。文書の忠実性、レイアウトの保持、クロスプラットフォームでの簡単なアクセスが、編集可能なテキスト構造よりも重要な場合に有用です。
+
+自動化ワークフローにおいて、RTF から画像への変換は、プレビュー、アーカイブ、出版システム、そしてデバイスや環境を超えて一貫した外観が重要となるビジュアルレビュー工程向けに、スケールでの文書レンダリングをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ドキュメントプレビュー生成**  
+  ポータル、アプリ、またはコンテンツシステムで簡単に表示できる画像にページを変換します。
+
+* **レイアウト保持**  
+  共有やレビューのためにリッチテキストコンテンツのビジュアル外観を保持するのに役立ちます。
+
+* **アーカイブの可視化**  
+  長期参照のために文書を閲覧可能なスナップショットとして保存することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動サムネイルおよびプレビュー ワークフロー**  
+  システムは検索結果、ダッシュボード、または文書ライブラリ用に RTF ファイルを画像にレンダリングできます。
+
+* **出版および配信パイプライン**  
+  プログラムによる変換により、画像アセットを好むチャネルでコンテンツをビジュアルに配信できます。
+
+* **バッチレンダリングプロセス**  
+  大規模な文書セットを、コンプライアンス、レビュー、またはウェブプレゼンテーション向けの一貫したページ画像に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

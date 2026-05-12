@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から ODS への変換は、テキスト文書の内容を構造化分析、表形式編集、データ管理のための OpenDocument Spreadsheet 形式に変換します。文書情報を行・列・再利用可能なスプレッドシート構造に抽出する必要がある場合に特に有用です。
+
+Python API を使用すると、ODT から ODS への変換はスケーラブルな文書解析、オープンフォーマット処理、分析や業務フローとの統合をサポートします。自動化システム全体で表形式コンテンツを効率的に扱えるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシート抽出のオープン化**  
+  文書ベースのテーブルをスプレッドシート対応形式に変換します。
+
+* **データのレビューと編集**  
+  抽出されたコンテンツをより簡単に検査・修正できるようにします。
+
+* **構造化レコードの取り扱い**  
+  行と列のデータに依存する業務フローをサポートします。
+
+* **相互運用可能なデータ処理**  
+  文書リポジトリとオープンなスプレッドシートエコシステムの接続を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テーブル変換**  
+  Python ワークフローで ODT ファイルから構造化セクションを抽出し、ODS 出力に変換できます。
+
+* **バッチオープンフォーマット処理**  
+  複数の文書を一括でスプレッドシートに変換し、単一の自動実行で処理できます。
+
+* **データ準備パイプライン**  
+  抽出されたコンテンツを検証・整理し、スプレッドシートへのエクスポート前に整形できます。
+
+* **業務レポートワークフロー**  
+  変換された ODS ファイルをレビュー、計画、監査システムに自動的に供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

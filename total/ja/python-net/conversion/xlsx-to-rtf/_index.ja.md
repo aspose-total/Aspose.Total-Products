@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から RTF への変換は、スプレッドシートの内容をリッチテキスト文書に変換し、可読性のある書式を保持しながら、さまざまな文書エディタで広く互換性を保ちます。これは、スプレッドシートデータを柔軟なテキスト指向の形式で共有する必要がある場合に便利です。
+
+XLSX から RTF への変換を自動化することで、一貫した書式設定を可能にし、コンテンツのやり取りを簡素化し、スプレッドシートデータをポータブルなテキスト文書にスケーラブルに変換することにより、文書ワークフローの効率化に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **書式化テキストレポート**  
+  スプレッドシートデータを、構造と基本的なスタイリングを保持した可読文書に変換します。
+
+* **エディタ間の互換性**  
+  スプレッドシート由来のコンテンツを、さまざまなテキスト処理ツールでより簡単に開けるようにします。
+
+* **軽量ドキュメント出力**  
+  共有、レビュー、アーカイブ目的のテキスト中心のファイル作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テキスト文書生成**  
+  システムは、定期的なレポートプロセスのためにスプレッドシートファイルを RTF 出力に変換できます。
+
+* **ポータブルコンテンツワークフロー**  
+  変換は、広く互換性のあるリッチテキスト文書の配信が必要なワークフローをサポートします。
+
+* **バッチ変換パイプライン**  
+  プログラムによる変換により、スプレッドシート入力から大量の書式化テキストファイルを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

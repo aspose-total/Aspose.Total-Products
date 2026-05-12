@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers OFT transforme les documents de traitement de texte en fichiers de modèles d'e‑mail utilisés pour des flux de travail de communication répétables. Ce processus permet de réutiliser le contenu basé sur des documents sous forme de modèles structurés pour des messages sortants cohérents.
+
+Les API Python rendent la conversion DOCX‑vers‑OFT adaptée aux systèmes de génération d'e‑mail automatisés, aux plateformes de notification et aux pipelines de communication pilotés par des modèles. Elle prend en charge des opérations de messagerie évolutives où le contenu doit être standardisé et réutilisé.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles d'e‑mail réutilisables**  
+  Convertit le contenu DOCX en fichiers de modèles pour des tâches de communication répétées.
+
+* **Flux de travail de messagerie standardisés**  
+  Aide à maintenir une mise en forme et des messages cohérents entre les équipes et les systèmes.
+
+* **Gestion de modèles basée sur les documents**  
+  Permet aux documents officiels de servir de base aux modèles de communication.
+
+* **Préparation automatisée de notifications**  
+  Prend en charge la création de modèles réutilisables pour des e‑mails planifiés ou déclenchés par un événement.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de génération de modèles**  
+  Les systèmes peuvent convertir automatiquement les fichiers DOCX en modèles OFT pour les flux de travail de communication.
+
+* **Production de modèles en lot**  
+  Les scripts Python peuvent transformer plusieurs documents en modèles d'e‑mail réutilisables.
+
+* **Automatisation de la messagerie d'entreprise**  
+  Le contenu des documents peut être converti dynamiquement en fichiers OFT pour des campagnes standardisées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

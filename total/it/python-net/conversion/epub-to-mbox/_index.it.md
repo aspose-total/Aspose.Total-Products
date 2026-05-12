@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da EPUB a MBOX in Python consente la trasformazione del contenuto delle pubblicazioni digitali in un formato di archivio in stile casella di posta, utilizzato per memorizzare collezioni di messaggi. Questo è prezioso quando le organizzazioni devono raggruppare i contenuti convertiti per flussi di lavoro di archiviazione, migrazione o archiviazione orientata alla comunicazione.
+
+Per operazioni guidate dall'automazione, la conversione da EPUB a MBOX offre un modo efficiente per impacchettare più elementi di contenuto in archivi di posta strutturati, rendendo le applicazioni Python più efficaci per processi scalabili di conservazione e trasferimento dei documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di archivi di posta**  
+  Converti il contenuto EPUB in formato MBOX per l'archiviazione nei sistemi e nei repository di archivi di posta.
+
+* **Impacchettamento di contenuti in blocco**  
+  Raggruppa i contenuti derivati dalle pubblicazioni in una struttura di archivio consolidata per una gestione più semplice.
+
+* **Supporto alla migrazione**  
+  Utilizza l'output MBOX quando si trasferiscono contenuti in sistemi che accettano dati archiviati in stile casella di posta.
+
+* **Abilitazione del flusso di lavoro di conservazione**  
+  Conserva i contenuti delle pubblicazioni trasformate in collezioni di messaggi adatte all'archiviazione per scopi di audit o di riferimento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di generazione di archivi**  
+  Le applicazioni Python possono produrre automaticamente file MBOX dalle fonti EPUB durante i flussi di lavoro di ingestione.
+
+* **Processi di conversione batch**  
+  I job automatizzati possono trasformare numerosi documenti EPUB in archivi di posta con formattazione coerente.
+
+* **Sincronizzazione del repository**  
+  La conversione può essere avviata come parte della sincronizzazione dei contenuti tra archivi di documenti e piattaforme di archiviazione.
+
+* **Compiti di conservazione scalabili**  
+  L'elaborazione programmatica supporta operazioni di archiviazione ad alto volume senza interventi manuali ripetitivi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

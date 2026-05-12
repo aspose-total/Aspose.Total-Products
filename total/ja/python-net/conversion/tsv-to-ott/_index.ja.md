@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から OTT への変換は、表形式データを標準化されたテキスト文書作成に使用されるオープンドキュメントテンプレートファイルに変換します。構造化された入力をオープンフォーマット環境で繰り返し可能なテンプレート駆動ワークフローに合わせる必要がある場合に有用です。
+
+Python API を使用することで、TSV から OTT への変換は再利用可能な文書構造を可能にし、繰り返しのフォーマット作業を削減し、スケーラブルな出版システムにおける一貫性を向上させることで、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **オープンテンプレート作成**  
+  TSV コンテンツを標準化されたテキスト文書用の再利用可能なテンプレートに変換します。
+
+* **一貫した文書作成**  
+  固定されたフォーマット構造に依存する繰り返しのワークフローをサポートします。
+
+* **テンプレートベースのコンテンツ配信**  
+  組織が構造化データセットを再利用可能な文書資産に変換するのを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレートワークフロー**  
+  Python API は構造化された TSV ファイルから OTT 互換の出力を生成できます。
+
+* **再利用可能な文書システム**  
+  オートメーションはオープンフォーマットのテンプレート制作における一貫性を向上させます。
+
+* **大量テンプレート変換**  
+  大量の TSV ファイルを効率的に OTT 出力に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji MBOX do DOTM w a
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to DOTM conversion przekształca archiwa skrzynek pocztowych w szablony Word z włączonymi makrami, umożliwiając zachowanie struktur opartych na e‑mailach w formacie wielokrotnego użytku i przyjaznym dla automatyzacji. Jest to cenne w środowiskach dokumentowych, które łączą powtarzalne szablony z wbudowaną funkcjonalnością makr.
+
+Korzystając z interfejsów API Pythona, zespoły mogą automatyzować konwersję MBOX do DOTM, aby wspierać tworzenie szablonów w dużej skali, spójność przepływów pracy oraz procesy dokumentacyjne zależne od programowalnego zachowania.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport szablonu z włączonymi makrami**
+  Konwertuj treść e‑maili na szablony dopasowane do zaawansowanych, zautomatyzowanych przepływów dokumentów.
+
+* **Powtarzalne ramy dokumentów**
+  Wykorzystuj struktury pochodzące z skrzynek pocztowych jako podstawy szablonów w różnych zespołach i systemach.
+
+* **Przygotowanie treści sterowane przepływem pracy**
+  Przygotuj treści oparte na e‑mailach dla systemów szablonów, które zawierają logikę automatyzacji dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane biblioteki szablonów**
+  Twórz kolekcje szablonów DOTM z danych skrzynek pocztowych, wykorzystując przepływy konwersji oparte na Pythonie.
+
+* **Spójne generowanie wyników**
+  Standaryzuj tworzenie dokumentów, przekształcając zarchiwizowane e‑maile w wielokrotnego użytku szablony z włączonymi makrami.
+
+* **Automatyzacja dokumentów w przedsiębiorstwie**
+  Zintegruj przekonwertowane pliki szablonów z większymi pipeline'ami generacji i przeglądu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

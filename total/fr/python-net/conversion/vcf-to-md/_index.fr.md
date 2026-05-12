@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion VCF vers MD transforme les données de cartes de contact en documents Markdown faciles à lire, à modifier et à intégrer dans des systèmes de connaissances basés sur du texte. Cela est particulièrement utile pour les environnements de documentation qui valorisent la portabilité, la simplicité et un contenu compatible avec le versionnage.
+
+Dans les flux de travail d'automatisation, la conversion VCF vers MD permet aux API Python de produire des documents de contact légers qui s'intègrent naturellement aux dépôts de contenu, aux sites statiques et aux pipelines de génération de notes structurées.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Documentation texte lisible**  
+  Convertir les enregistrements VCF en Markdown pour une documentation propre et portable.
+
+* **Intégration à la base de connaissances**  
+  Stocker les informations de contact dans un format adapté aux systèmes centrés sur le texte.
+
+* **Gestion de contenu compatible avec le versionnage**  
+  Gérer les données de contact dans un format texte brut structuré, facile à suivre.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de Markdown**  
+  Créer des fichiers MD à partir de lots de cartes de contact pour une documentation organisée.
+
+* **Pipelines de contenu statique**  
+  Alimenter les fichiers de contact convertis dans des flux de publication automatisés et des dépôts.
+
+* **Transformation texte évolutive**  
+  Utiliser les API Python pour standardiser les données de contact dans un format de balisage léger.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

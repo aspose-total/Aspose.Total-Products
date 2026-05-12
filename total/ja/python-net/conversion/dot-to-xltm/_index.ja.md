@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から XLTM への変換は、文書テンプレートをマクロ対応のスプレッドシートテンプレートファイルに変換し、繰り返し可能な高度なワークブック作成を実現します。これは、再利用可能なスプレッドシートテンプレートが互換性のあるワークフローで拡張機能をサポートする必要がある場合に有用です。
+
+Python API は DOT ソースからの自動化された XLTM 生成を可能にし、組織が標準化された高度なスプレッドシートテンプレートを効率的に作成できるよう支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレートエクスポート**
+  DOT ファイルを XLTM テンプレートに変換し、高度な再利用可能なスプレッドシートワークフローを実現します。
+
+* **再利用可能な高度なワークブック設計**
+  文書構造を拡張機能を備えたスプレッドシートテンプレートとして再利用します。
+
+* **標準化された機能テンプレート**
+  文書ベースのテンプレートソースから繰り返し可能なワークブック作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された高度なテンプレート生成**
+  Python ワークフローは、繰り返し行われるビジネスプロセスのために DOT テンプレートから XLTM ファイルを生成できます。
+
+* **テンプレートライブラリの標準化**
+  変換により、チーム間で一貫したマクロ対応スプレッドシートテンプレートを維持できます。
+
+* **スケーラブルな機能ワークブックの準備**
+  プログラム的なシステムは、高度なスプレッドシートテンプレート資産の大量作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

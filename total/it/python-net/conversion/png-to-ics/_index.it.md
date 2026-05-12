@@ -46,7 +46,47 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da PNG a ICS consente di trasformare le informazioni di programmazione visive, le grafiche degli eventi o i dettagli del calendario basati su immagine in file di calendario strutturati che supportano la condivisione degli eventi e i flussi di lavoro di pianificazione. Questo è particolarmente utile quando i dati dell'evento hanno origine in forma di immagine ma devono diventare leggibili da macchine e interoperabili.
+
+Le API Python rendono questo processo adatto all'automazione consentendo ai sistemi di generare programmaticamente file ICS da input basati su PNG, migliorando l'efficienza della pianificazione, riducendo l'inserimento manuale e supportando l'integrazione scalabile dei calendari tra le applicazioni.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Conversione di grafiche evento**  
+  Converte gli annunci evento in PNG in file di calendario ICS per una pianificazione e distribuzione più semplici.
+
+* **Creazione di voci di calendario**  
+  Aiuta a trasformare le informazioni di programmazione basate su immagine in eventi di calendario strutturati.
+
+* **Preparazione di inviti a riunioni**  
+  Supporta i flussi di lavoro in cui i dettagli visivi della riunione devono diventare file di calendario condivisibili.
+
+* **Digitalizzazione del programma**  
+  Consente alle informazioni dell'evento memorizzate in forma di immagine di essere riutilizzate nei sistemi di calendario digitali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di calendari**  
+  Le API Python possono creare file ICS da input di eventi basati su PNG nelle pipeline di gestione degli eventi.
+
+* **Elaborazione di programmi in blocco**  
+  Più immagini di programmi PNG possono essere convertite in output ICS per una pubblicazione di calendari semplificata.
+
+* **Consegna di inviti guidata dal flusso di lavoro**  
+  I sistemi possono estrarre e trasformare le informazioni dell'evento in allegati ICS per inviti automatizzati.
+
+* **Sistemi di pianificazione integrati**  
+  Le applicazioni possono utilizzare la conversione da PNG a ICS per collegare le fonti visive degli eventi con le piattaforme di calendario.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

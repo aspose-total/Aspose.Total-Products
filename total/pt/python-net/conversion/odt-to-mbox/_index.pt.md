@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODT para MBOX transforma o conteúdo do documento em um formato estilo caixa de correio adequado para armazenamento agrupado de mensagens e fluxos de trabalho de arquivamento. Isso é útil quando o texto do documento precisa ser empacotado para armazenamento semelhante a e‑mail, migração ou consolidação de registros.
+
+Usando APIs Python, a conversão de ODT para MBOX pode ser integrada a pipelines automatizados de arquivamento e comunicação. Ela suporta a transformação consistente do conteúdo do documento em contêineres orientados a mensagens para processamento subsequente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Arquivo de Caixa de Correio**  
+  Converte documentos para um formato adequado ao armazenamento agrupado de mensagens.
+
+* **Empacotamento de Registros de Comunicação**  
+  Ajuda a organizar o conteúdo derivado de documentos ao lado de arquivos orientados a e‑mail.
+
+* **Suporte à Migração**  
+  Facilita a movimentação do conteúdo para repositórios baseados em mensagens.
+
+* **Consolidação em Massa de Conteúdo**  
+  Permite o armazenamento agrupado de múltiplos itens convertidos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Fluxos de Trabalho de Geração de Arquivo**  
+  Jobs Python podem converter múltiplos arquivos ODT em saídas estilo caixa de correio automaticamente.
+
+* **Suporte ao Pipeline de Retenção**  
+  Sistemas automatizados podem armazenar mensagens derivadas de documentos em arquivos de longo prazo.
+
+* **Operações de Empacotamento em Massa**  
+  Grandes lotes de documentos podem ser agrupados em arquivos de caixa de correio transferíveis.
+
+* **Automação de Migração de Conteúdo**  
+  Pipelines de conversão podem preparar registros para sistemas que dependem de contêineres de caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

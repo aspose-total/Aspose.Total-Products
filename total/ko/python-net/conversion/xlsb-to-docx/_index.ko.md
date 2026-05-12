@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB to DOCX 변환은 이진 스프레드시트 파일을 최신 워드 프로세싱 문서로 변환하여 구조화된 데이터를 보다 쉽게 공유, 편집 및 서술형 또는 비즈니스용 형태로 제시할 수 있게 합니다. 특히 스프레드시트 정보를 다듬어진 문서로 재활용해야 할 때 유용합니다.
+
+자동화 관점에서 XLSB to DOCX 변환은 데이터가 많은 스프레드시트 소스에서 표준화된 문서 출력으로 원활하게 이동하도록 하여 생산성을 향상시키며, 확장 가능한 보고, 커뮤니케이션 및 콘텐츠 생성 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 보고서 작성**  
+  스프레드시트 데이터를 내부 또는 외부 사용을 위한 다듬어진 문서로 변환합니다.
+
+* **문서 협업**  
+  스프레드시트에서 파생된 콘텐츠를 일반 문서 워크플로에서 보다 쉽게 편집하고 검토할 수 있게 합니다.
+
+* **데이터 요약**  
+  원시 스프레드시트 정보를 구조화된 서면 콘텐츠로 전환하는 것을 지원합니다.
+
+* **팀 간 공유**  
+  스프레드시트 결과를 보다 접근하기 쉬운 문서 형식으로 배포할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 보고서 자동화**  
+  예약된 프로세스가 최소한의 수동 작업으로 XLSB 파일을 DOCX 보고서로 변환할 수 있습니다.
+
+* **콘텐츠 퍼블리싱 파이프라인**  
+  자동화된 시스템이 스프레드시트 기반 인사이트를 문서 전달용으로 준비합니다.
+
+* **배치 변환 워크플로**  
+  대량의 XLSB 파일을 규모에 맞게 DOCX 형식으로 변환할 수 있습니다.
+
+* **통합 보고 시스템**  
+  스프레드시트 기반 데이터 소스에서 문서 출력을 자동으로 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

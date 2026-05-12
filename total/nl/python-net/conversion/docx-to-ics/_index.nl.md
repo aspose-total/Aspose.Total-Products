@@ -46,7 +46,44 @@ Voor een Python-ontwikkelaar, die probeert een DOCX naar ICS-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX‑naar‑ICS‑conversie zet documentgebaseerde informatie om in agenda‑evenementbestanden die voldoen aan de iCalendar‑standaard. Deze transformatie maakt het mogelijk om planningsinformatie die in documenten is opgeslagen om te zetten naar agenda‑compatibele formaten.
+
+Python‑API’s maken geautomatiseerde extractie van evenementgegevens uit documenten en het genereren van ICS‑bestanden mogelijk, ter ondersteuning van geautomatiseerde planningssystemen en agenda‑integraties.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Extractie van evenementplanning**  
+  Zet documentgebaseerde evenementdetails om in agenda‑evenementen.
+
+* **Workflows voor agenda‑integratie**  
+  Maakt het mogelijk om documentplanningen te importeren in agenda‑systemen.
+
+* **Automatisering van vergaderingen en evenementen**  
+  Faciliteert geautomatiseerde creatie van agenda‑evenementen vanuit documenten.
+
+* **Systemen voor distributie van planningen**  
+  Staat toe dat documenten met evenementinformatie agenda‑bestanden genereren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde generatie van evenementbestanden**  
+  Systemen kunnen DOCX‑evenementplanningen automatisch omzetten naar ICS‑bestanden.
+
+* **Documentgebaseerde planningspijplijnen**  
+  Python‑automatisering kan agenda‑items genereren vanuit documenten.
+
+* **Enterprise agenda‑integratie**  
+  Documentgegevens kunnen worden omgezet in ICS‑bestanden voor geautomatiseerde planning.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

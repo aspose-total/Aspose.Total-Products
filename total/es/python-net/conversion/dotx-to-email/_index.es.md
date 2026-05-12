@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de DOTX a EMAIL convierte el contenido de plantillas de Word en una salida lista para correo electrónico para flujos de trabajo de comunicación, notificaciones y escenarios de mensajería automatizada. Es útil cuando el contenido formal de documentos debe reutilizarse como comunicación estructurada por correo electrónico.
+
+Este proceso soporta la automatización al permitir la generación basada en Python de contenido de correo electrónico reutilizable a partir de plantillas de documentos, ayudando a las organizaciones a escalar el alcance, las alertas y la comunicación transaccional de manera eficiente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Mensajería Basada en Plantillas**
+  Transforma plantillas de documentos en contenido de correo electrónico para una comunicación coherente.
+
+* **Preparación de Notificaciones**
+  Reutiliza texto de documentos formateado en actualizaciones de estado o alertas automatizadas.
+
+* **Flujos de Trabajo de Documento a Comunicación**
+  Conecta la creación de documentos formales con procesos de mensajería saliente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Generación Masiva de Correos Electrónicos**
+  Convierte múltiples plantillas DOTX en contenido listo para correo electrónico para campañas programadas.
+
+* **Notificaciones Activadas**
+  Utiliza la salida convertida en flujos de trabajo basados en eventos que envían correos electrónicos automatizados.
+
+* **Correspondencia Impulsada por Flujos de Trabajo**
+  Integra la generación de correos electrónicos basada en documentos en sistemas de aprobación o soporte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

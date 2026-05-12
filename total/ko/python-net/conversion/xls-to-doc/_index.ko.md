@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to DOC 변환은 스프레드시트 데이터를 보고서, 문서화 및 구조화된 콘텐츠 재사용을 위한 편집 가능한 문서 형식으로 변환합니다. 이는 팀이 표 형식의 비즈니스 정보를 읽기 쉬운 서술형 문서로 전환하여 협업, 검토 및 하위 퍼블리싱을 지원하도록 돕습니다.
+
+XLS to DOC 변환을 위한 Python API를 사용하면 수동 형식 지정 작업을 줄이고 대규모로 스프레드시트 소스에서 비즈니스 문서를 반복적으로 생성할 수 있어 문서 워크플로우 전반에 걸친 자동화를 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **보고서 생성**
+  스프레드시트 기반 데이터를 요약, 내부 보고서 및 비즈니스 커뮤니케이션을 위한 문서 레이아웃으로 변환합니다.
+
+* **콘텐츠 재포맷**
+  표 형식 XLS 콘텐츠를 읽기 및 편집이 쉬운 문단 친화적 문서 구조로 변환합니다.
+
+* **문서화 워크플로우**
+  스프레드시트 레코드를 운영 문서, 프로세스 노트 또는 컴플라이언스 파일의 소스 자료로 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 문서 생성**
+  정기 보고 프로세스를 위해 반복되는 XLS 입력으로부터 DOC 파일을 자동으로 생성합니다.
+
+* **워크플로 기반 파일 변환**
+  스프레드시트 파일이 문서 처리 파이프라인에 들어올 때 변환을 트리거합니다.
+
+* **동적 콘텐츠 퍼블리싱**
+  Python API를 사용하여 업데이트된 스프레드시트를 검토 및 배포를 위한 편집 가능한 문서로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

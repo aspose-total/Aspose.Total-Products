@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 EMLX로 변�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to EMLX 변환은 문서 내용을 특정 메일 저장 환경에서 일반적으로 사용되는 이메일 메시지 형식으로 변환합니다. 이는 WordML 내용을 플랫폼별 이메일 보관 또는 마이그레이션 요구에 맞게 조정해야 할 때 유용합니다.
+
+WordML to EMLX 변환을 위한 Python API를 사용하면 프로그래밍 방식으로 콘텐츠를 추출하고 메시지를 패키징할 수 있어, 특수한 이메일 워크플로우 전반에 걸쳐 변환을 자동화하기가 쉬워집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **플랫폼별 이메일 출력**
+  WordML 콘텐츠를 호환 가능한 이메일 저장 환경에 맞는 EMLX 형식으로 변환합니다.
+
+* **메일 마이그레이션 지원**
+  문서 기반 커뮤니케이션을 메일함 마이그레이션 프로세스를 위해 준비하는 데 도움을 줍니다.
+
+* **구조화된 보관 변환**
+  이메일 저장소에 적합한 메시지 지향 형식으로 텍스트 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **메일함 준비 작업**
+  마이그레이션 또는 가져오기 루틴을 위해 문서 소스에서 EMLX 생성을 자동화합니다.
+
+* **보관 변환 파이프라인**
+  제어된 보존 프로세스를 위해 WordML 파일을 메시지 파일로 변환합니다.
+
+* **배치 콘텐츠 패키징**
+  반복되는 문서 컬렉션에서 EMLX 출력을 확장 가능하게 생성하도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

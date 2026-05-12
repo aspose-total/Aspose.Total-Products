@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a OST converte i modelli Word abilitati alle macro in dati di casella di posta adatti a scenari di archiviazione della posta offline e flussi di lavoro di messaggistica. È rilevante quando i contenuti basati su documenti sono incorporati in ambienti orientati alla posta che si basano su archivi di dati locali sincronizzati.
+
+L'uso delle API Python per la conversione da DOTM a OST aiuta ad automatizzare la preparazione di dati di posta strutturati a partire da modelli di documento. Supporta l'elaborazione scalabile, riduce lo sforzo di conversione manuale e migliora l'integrazione tra i sistemi di documenti e i flussi di lavoro di messaggistica aziendale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dati di posta offline**
+  Converti i contenuti basati su documenti in un formato allineato ai flussi di lavoro di archiviazione della messaggistica offline.
+
+* **Archiviazione della comunicazione basata su modelli**
+  Conserva i contenuti dei modelli riutilizzabili all'interno di ambienti di elaborazione orientati alla posta.
+
+* **Integrazione della messaggistica aziendale**
+  Collega i flussi di lavoro dei documenti con i sistemi che gestiscono dati di casella di posta sincronizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di archivi di posta**
+  I flussi di lavoro possono trasformare i contenuti DOTM in processi di gestione dei dati compatibili con OST.
+
+* **Integrazione del sistema di messaggistica**
+  La conversione supporta la preparazione automatizzata della comunicazione derivata da documenti per scenari di accesso offline.
+
+* **Elaborazione aziendale batch**
+  I lavori programmatici consentono la gestione su larga scala dei modelli DOTM per i flussi di lavoro dei dati di posta.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

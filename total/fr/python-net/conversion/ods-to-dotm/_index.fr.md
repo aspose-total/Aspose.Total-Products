@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODS vers DOTM permet de transformer les fichiers de feuille de calcul en modèles de documents activés par des macros. Ces modèles permettent une automatisation avancée des documents et des structures de documents réutilisables pilotées par des macros intégrées.
+
+En utilisant les API Python, les développeurs peuvent automatiser la transformation des ensembles de données de feuilles de calcul en modèles activés par des macros. Cela permet de créer des systèmes d'automatisation évolutifs qui produisent des documents dynamiques basés sur des données provenant de feuilles de calcul.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles activés par des macros**  
+  Convertir les structures de données de feuilles de calcul en modèles prenant en charge les macros d'automatisation.
+
+* **Cadres de documents automatisés**  
+  Utiliser les entrées de feuilles de calcul pour créer des modèles de documents pilotés par des macros.
+
+* **Génération dynamique de modèles**  
+  Générer des modèles réutilisables à partir de contenus de feuilles de calcul structurés.
+
+* **Systèmes d'automatisation de documents**  
+  Permettre des flux de travail de documents automatisés avancés grâce à des modèles activés par des macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Production automatisée de modèles**  
+  Les flux de travail Python génèrent des modèles activés par des macros à partir d'entrées de feuilles de calcul.
+
+* **Conversion de modèles en lot**  
+  Les systèmes traitent plusieurs fichiers ODS pour créer des modèles activés par des macros.
+
+* **Automatisation de documents d'entreprise**  
+  Les modèles dérivés des feuilles de calcul permettent une génération de documents automatisée et évolutive.
+
+* **Assemblage dynamique de documents**  
+  Les modèles activés par des macros prennent en charge la création de contenu programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

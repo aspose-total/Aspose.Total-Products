@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から ODT への変換により、スプレッドシートデータを編集可能なオープンドキュメントテキストファイルに変換し、文書ベースのコミュニケーションやアーカイブに利用できます。これは、オープン標準、相互運用性、そしてアクセスしやすい文書交換を重視するワークフローにとって価値があります。
+
+XLSX から ODT への変換を自動化することで、組織は柔軟でスケーラブルな文書パイプラインを構築でき、手作業を削減しながら、オープンフォーマット文書に依存するシステム間で一貫した出力を保証します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **オープンドキュメントレポーティング**  
+  スプレッドシートデータを、オープンフォーマット環境に適した編集可能なテキスト文書に変換します。
+
+* **クロスプラットフォーム文書共有**  
+  スプレッドシートのコンテンツを、オープン標準をサポートするツールやシステム間で配布しやすくします。
+
+* **アーカイブ文書**  
+  広く互換性のある文書フォーマットを通じて、長期保存とアクセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化オープンフォーマット文書作成**  
+  システムは、定期的なレポーティングワークフローのために、XLSX ソースから直接 ODT 出力を生成できます。
+
+* **相互運用データ公開**  
+  変換は、多様なオフィス環境と互換性のある文書出力が必要なワークフローをサポートします。
+
+* **バッチコンテンツ変換**  
+  プログラムによる変換により、スプレッドシートファイルを大量に標準化された ODT 文書へ処理できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,44 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCX para XLT converte documentos de processamento de texto em arquivos de modelo de planilha usados para a criação repetível de planilhas. Esse processo permite que o conteúdo estruturado dos documentos se torne bases reutilizáveis de planilhas para relatórios e tarefas operacionais.
+
+APIs Python tornam a conversão de DOCX para XLT adequada para sistemas automatizados de geração de modelos, pipelines recorrentes de relatórios e fluxos de trabalho de padronização de planilhas. Ela suporta consistência na criação de planilhas entre equipes e processos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação Reutilizável de Modelos de Planilha**  
+  Converte o conteúdo DOCX em arquivos de modelo para geração repetida de planilhas.
+
+* **Estruturas de Relatórios Padronizadas**  
+  Ajuda as organizações a manter layouts de planilha consistentes e organização de dados.
+
+* **Fluxos de Trabalho de Documento para Modelo**  
+  Suporta a reutilização de ativos de documentos estruturados em ambientes de planilha.
+
+* **Distribuição Operacional de Modelos**  
+  Permite a criação escalável de modelos de planilha a partir de fontes escritas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação Automatizada de Modelos**  
+  Sistemas podem converter arquivos DOCX em modelos XLT para fluxos de trabalho recorrentes de planilhas.
+
+* **Produção em Lote de Modelos de Planilha**  
+  Scripts Python podem gerar modelos reutilizáveis de planilhas a partir de múltiplos documentos.
+
+* **Pipelines de Padronização Empresarial**  
+  O conteúdo dos documentos pode ser transformado em modelos de planilha para operações de relatório consistentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

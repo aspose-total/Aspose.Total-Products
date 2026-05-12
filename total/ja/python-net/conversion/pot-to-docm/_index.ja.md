@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における POT から DOCM への変換は、プレゼンテーションテンプレートのコンテンツを、マクロ対応のドキュメントファイルに変換し、高度な文書動作や自動化をサポートします。変換されたコンテンツが、スクリプト化されたアクション、フォームロジック、または制御されたワークフローに依存する文書エコシステム内で使用される必要がある場合に関連します。
+
+自動化が重視される環境では、POT から DOCM への変換は、プレゼンテーション資産とプロセス駆動型文書システムを橋渡しするのに役立ちます。マクロ対応ファイルのスケーラブルな生成をサポートし、エンタープライズテンプレート、ガイド付きユーザーアクション、繰り返し可能な文書タスクに参加できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **マクロ対応ドキュメント作成**  
+  プレゼンテーションテンプレートを、組み込み自動化ロジックをサポートできるドキュメントに変換します。
+
+* **ワークフロー指向コンテンツ再利用**  
+  スライド由来のコンテンツを、構造化された動作を持つ業務文書プロセス内で利用可能にします。
+
+* **テンプレートの近代化**  
+  レガシーなプレゼンテーションコンテンツを、インタラクティブな文書ワークフローへ移行するのに役立ちます。
+
+* **制御されたフォーム配布**  
+  ガイド付き完了やスクリプト化されたアクションを想定した文書で、変換された素材の配布をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化文書組み立て**  
+  プロセス駆動型文書作成パイプラインのために、POT テンプレートから DOCM ファイルを生成します。
+
+* **ルールベース文書処理**  
+  自動化アクションや検証ルーチンに依存するシステムへ、変換されたファイルを統合します。
+
+* **エンタープライズテンプレート配布**  
+  標準化されたインタラクティブ文書が必要なチーム向けに、マクロ対応出力を生成します。
+
+* **スケーラブルなコンテンツ変換**  
+  大規模なテンプレートコレクションを、最小限の手作業で自動化対応文書資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents en XLS transforme le contenu Word en un format de feuille de calcul utilisé pour la révision structurée, les calculs et les rapports opérationnels. Elle est précieuse lorsque les tableaux et enregistrements basés sur des documents doivent devenir des données de feuille de calcul modifiables.
+
+L’utilisation des API Python pour la conversion DOC en XLS améliore l’efficacité, prend en charge l’extraction répétable et aide à intégrer le contenu des documents dans des flux de travail métier centrés sur les feuilles de calcul.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Conversion de données de feuille de calcul**  
+  Transformez les tableaux de documents en fichiers XLS pour l’édition et l’analyse.
+
+* **Rapports et révision**  
+  Préparez le contenu dérivé des documents pour les tâches de reporting basées sur des feuilles de calcul.
+
+* **Compatibilité avec les feuilles de calcul héritées**  
+  Utilisez la sortie XLS là où des environnements de feuilles de calcul plus anciens sont encore en fonctionnement.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportations automatisées de feuilles de calcul**  
+  Convertissez les fichiers DOC en XLS dans le cadre de flux de travail opérationnels récurrents.
+
+* **Préparation de données en lot**  
+  Extrayez de manière programmatique des données structurées des documents sous forme de feuille de calcul.
+
+* **Pipelines d'intégration système**  
+  Alimentez les sorties compatibles avec les feuilles de calcul dans les systèmes d’analyse, de finance ou de planification.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

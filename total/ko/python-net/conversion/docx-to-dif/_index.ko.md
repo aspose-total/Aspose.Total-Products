@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to DIF 변환은 워드 프로세싱 문서에 포함된 구조화된 정보를 데이터 교환 형식(DIF)으로 변환합니다. DIF는 애플리케이션 간 스프레드시트 데이터를 교환하는 데 사용되는 파일 형식이며, 이 프로세스를 통해 DOCX 표 또는 구조화된 콘텐츠에 저장된 정보를 스프레드시트 및 레거시 데이터 시스템과 호환되는 형식으로 표현할 수 있습니다.
+
+Python API를 통해 DOCX‑to‑DIF 변환을 자동화된 데이터 변환 워크플로에 통합할 수 있습니다. 이는 문서 관리 시스템과 스프레드시트 도구 간의 상호 운용성이 필요한 대규모 문서 처리 환경을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트 데이터 교환**  
+  DOCX 표를 DIF 형식으로 변환하여 스프레드시트 및 레거시 애플리케이션과 호환됩니다.
+
+* **레거시 시스템 통합**  
+  DIF를 사용해 구조화된 데이터 교환을 수행하는 오래된 시스템에 문서 데이터를 가져올 수 있습니다.
+
+* **데이터 마이그레이션 워크플로**  
+  문서 기반 데이터를 시스템 마이그레이션에 적합한 형식으로 변환하는 작업을 용이하게 합니다.
+
+* **크로스 플랫폼 데이터 전송**  
+  다양한 소프트웨어 환경 간에 구조화된 문서 데이터를 전송하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 스프레드시트 데이터 내보내기**  
+  표가 포함된 DOCX 문서를 자동으로 DIF 파일로 변환하여 다운스트림 처리에 활용할 수 있습니다.
+
+* **배치 변환 파이프라인**  
+  Python 자동화를 사용해 대량의 DOCX 파일을 처리하고 DIF 형식으로 변환하여 통합 작업에 활용합니다.
+
+* **엔터프라이즈 데이터 변환**  
+  문서 데이터를 자동으로 DIF 파일로 변환하여 레거시 애플리케이션이나 스프레드시트 시스템에 공급합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

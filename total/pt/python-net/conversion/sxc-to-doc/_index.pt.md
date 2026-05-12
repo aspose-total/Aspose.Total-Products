@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de SXC para DOC transforma conteúdo baseado em planilhas em um formato de documento clássico que é mais fácil de revisar, compartilhar e arquivar em fluxos de trabalho centrados em texto. É útil quando informações tabulares estruturadas precisam ser apresentadas como documentação empresarial legível, resumos ou relatórios para maior acessibilidade.
+
+Em ambientes de automação, a conversão de SXC para DOC ajuda a padronizar a geração de saída, reduzir a preparação manual de documentos e apoiar processos subsequentes de publicação, aprovação ou conformidade por meio de APIs Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Relatórios**  
+  Converte o conteúdo da planilha em documentos legíveis para relatórios formais e comunicação com as partes interessadas.
+
+* **Distribuição de Conteúdo**  
+  Torna o conteúdo orientado a dados mais fácil de compartilhar com usuários que preferem formatos baseados em documentos em vez de planilhas.
+
+* **Preparação de Arquivo**  
+  Ajuda a preservar registros empresariais em um formato comumente usado para fluxos de trabalho de documentação de longo prazo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Criação em Lote de Documentos**  
+  Automatiza a conversão de múltiplos arquivos SXC em documentos DOC para pipelines de relatórios recorrentes.
+
+* **Publicação de Dados para Documento**  
+  Permite que fluxos de trabalho Python transformem dados de planilhas em documentos amigáveis à narrativa para publicação ou revisão.
+
+* **Integração de Fluxo de Trabalho**  
+  Suporta a geração de documentos dentro de sistemas maiores, como pipelines de aprovação, registro e entrega de conteúdo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

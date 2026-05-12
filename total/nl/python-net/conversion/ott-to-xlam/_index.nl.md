@@ -65,7 +65,41 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+De OTT-naar-XLAM-conversie in Python‑API's zet OpenDocument‑teksttemplates om in add‑in‑georiënteerde spreadsheet‑uitvoer die wordt gebruikt om de functionaliteit van werkmappen uit te breiden. Dit is nuttig in gespecialiseerde workflows waarbij geconverteerde inhoud bijdraagt aan herbruikbare, spreadsheet‑gebaseerde automatiseringsassets.
+
+De conversie ondersteunt automatisering door documentafgeleide logica of gestructureerde inhoud af te stemmen op spreadsheet‑extensie‑workflows, waardoor herhaalbare bewerkingen gestandaardiseerd worden in geavanceerde werkmapomgevingen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Spreadsheetextensie‑ondersteuning**  
+  Verbindt documentinhoud met add‑in‑georiënteerde spreadsheet‑workflows.
+
+* **Voorbereiding van herbruikbare automatiseringsassets**  
+  Helpt gestructureerde inhoud te verpakken voor herhaaldelijk gebruik in werkmappen.
+
+* **Geavanceerde workflow‑integratie**  
+  Verbindt teksttemplates en scenario's van spreadsheetfunctionaliteit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde add‑in‑inhoudvoorbereiding**  
+  Genereert programmatisch XLAM‑gerelateerde uitvoer vanuit OTT‑templates.
+
+* **Werkmapverbeterings‑pijplijnen**  
+  Ondersteunt workflows die inhoudconversie combineren met spreadsheet‑automatisering.
+
+* **Herbruikbare distributie van bedrijfslogica**  
+  Helpt gestructureerde spreadsheet‑oplossingen op schaal uit te rollen binnen teams.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

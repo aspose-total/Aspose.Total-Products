@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to PPSM 변환은 구조화된 표 형식 데이터를 매크로가 포함된 슬라이드쇼 파일로 변환하여 고급 동작을 갖춘 프레젠테이션 재생에 사용됩니다. 이는 준비된 프레젠테이션 출력이 제어된 데이터 기반 프레젠테이션 시스템과 일치해야 하는 워크플로에 유용합니다.
+
+Python API를 사용하면 TSV to PPSM 변환을 자동화하여 슬라이드쇼 제작을 간소화하고, 고급 프레젠테이션 워크플로를 지원하며, 반복적인 데이터‑프레젠테이션 파이프라인의 확장성을 향상시킬 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 슬라이드쇼**  
+  TSV 데이터 세트를 고급 프레젠테이션 환경에 적합한 슬라이드쇼 파일로 변환합니다.
+
+* **프레젠테이션 재생 제공**  
+  구조화된 원본 데이터에서 구축된 직접 보기 프레젠테이션 출력을 지원합니다.
+
+* **자동화된 보고 슬라이드**  
+  반복되는 데이터를 운영용 슬라이드쇼 자산으로 패키징하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **데이터‑슬라이드쇼 자동화**  
+  Python API를 사용하면 TSV 파일을 반복 가능한 로직으로 PPSM 출력으로 변환할 수 있습니다.
+
+* **고급 프레젠테이션 워크플로**  
+  자동화는 더 풍부한 기능을 요구하는 환경을 위한 슬라이드쇼 생성을 지원합니다.
+
+* **확장 가능한 배치 변환**  
+  대용량 TSV 컬렉션을 효율적으로 PPSM 파일로 처리할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 PowerPoint를 Excel로 변환하면 프레젠테이션 내용을 분석, 정리 및 보고를 위한 스프레드시트 환경으로 옮길 수 있습니다. 슬라이드 데이터, 표 또는 구조화된 텍스트를 보다 넓은 데이터 워크플로의 일부로 만들어야 할 때 특히 유용합니다.
+
+자동화 시스템에서 이 변환은 데이터 접근성을 향상시키고, 보고 파이프라인을 지원하며, 시각적 프레젠테이션과 분석 처리 사이의 격차를 메워줍니다. 프레젠테이션 내용을 보다 측정 가능하고 재사용 가능하며 통합 친화적으로 만드는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **슬라이드에서 데이터 추출**
+  구조화된 프레젠테이션 내용을 스프레드시트로 이동시켜 보다 쉽게 조작하고 검토할 수 있게 합니다.
+
+* **보고 및 분석**
+  프레젠테이션의 표나 비즈니스 지표를 분석 가능한 워크시트 데이터로 변환하는 데 도움을 줍니다.
+
+* **운영 기록 보관**
+  프레젠테이션에서 파생된 정보를 스프레드시트 기반 시스템에 저장하는 것을 지원합니다.
+
+* **다중 형식 콘텐츠 관리**
+  프레젠테이션 자료를 스프레드시트 중심 워크플로와 정렬하기 쉽게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 데이터 내보내기**
+  PowerPoint 파일을 보고 파이프라인용 Excel 호환 출력으로 변환합니다.
+
+* **비즈니스 인텔리전스 준비**
+  추출된 프레젠테이션 데이터를 분석 환경에 공급하는 워크플로를 지원합니다.
+
+* **배치 처리 시스템**
+  대규모 프레젠테이션 파일 라이브러리 전반에 걸쳐 반복적인 변환 작업을 가능하게 합니다.
+
+* **구조화된 데이터 통합**
+  프레젠테이션 내용이 행, 열 및 표 형식 논리에 의존하는 시스템에 들어가도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

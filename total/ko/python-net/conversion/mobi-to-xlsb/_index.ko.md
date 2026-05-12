@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MOBI를 XLSB로 변환하면 전자책 기반 콘텐츠를 효율적인 저장 및 성능을 위해 설계된 이진 스프레드시트 형식으로 변환합니다. 이는 컴팩트한 워크북 표현과 스프레드시트 환경에서 더 빠른 로딩을 통해 이점을 얻는 대규모 구조화된 출력물을 처리할 때 특히 유용합니다.
+
+자동화를 위해 MOBI를 XLSB로 변환하면 대량 처리, 효율적인 파일 관리 및 확장 가능한 스프레드시트 생성을 지원합니다. 이는 분석 및 운영용으로 스프레드시트 구조를 유지하면서 성능 중심의 출력을 필요로 하는 문서 파이프라인에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **효율적인 워크북 저장**
+  MOBI 콘텐츠를 XLSB로 변환하여 대규모 스프레드시트 워크플로우에서 오버헤드를 줄입니다.
+
+* **대용량 데이터 처리**
+  성능 특성이 더 우수한 구조화된 데이터 내보내기를 위해 이진 워크북 출력을 사용합니다.
+
+* **스프레드시트 기반 배포**
+  추출된 정보를 보다 무거운 운영 스프레드시트 사용에 적합한 형식으로 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **성능 중심 내보내기 작업**
+  워크플로우가 대규모 전자책 파생 데이터를 처리할 때 XLSB 파일을 자동으로 생성합니다.
+
+* **확장 가능한 스프레드시트 파이프라인**
+  Python 변환 로직을 사용하여 반복 배치 작업을 위한 컴팩트한 워크북 출력을 생성합니다.
+
+* **운영 데이터 전달**
+  구조화된 콘텐츠를 하위 팀 및 시스템을 위한 고효율 스프레드시트 파일로 라우팅합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

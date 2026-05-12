@@ -44,7 +44,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonction de conversion MHT
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de MHTML en DOT avec Python permet de transformer le contenu web archivé en fichiers de modèle Word pour la création répétée de documents. Cela est utile lorsqu’une mise en page cohérente est requise et que le contenu converti servira de point de départ pour plusieurs documents similaires.
+
+Du point de vue de l’automatisation, la sortie DOT prend en charge des flux de travail standardisés basés sur des modèles, ce qui réduit le formatage manuel et améliore la cohérence. Cela est bénéfique pour les organisations qui génèrent des documents récurrents à partir de matériel capturé sur le web.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Modèles de documents réutilisables**  
+  Convertir le contenu MHTML en modèles DOT qui peuvent être réutilisés pour créer plusieurs documents cohérents.
+
+* **Mise en forme standardisée**  
+  Conserver une structure de base pour les documents qui nécessitent un style uniforme à travers les départements ou les équipes.
+
+* **Création d’enregistrements basée sur des modèles**  
+  Utiliser le contenu web converti comme base pour des formulaires, avis ou ensembles de documents répétables.
+
+* **Mise en place de documentation opérationnelle**  
+  Préparer des modèles Word hérités à partir de pages web archivées pour la génération de contenu structuré.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Pipelines de génération de modèles**  
+  Convertir automatiquement les fichiers MHTML en modèles DOT pour une utilisation répétée dans les flux de travail de documentation.
+
+* **Production de documents récurrents**  
+  Construire des systèmes automatisés qui génèrent de nouveaux fichiers à partir de sources de contenu web basées sur des modèles.
+
+* **Processus de cohérence de mise en forme**  
+  Utiliser les API Python pour garantir que chaque document généré commence avec une structure de modèle uniforme.
+
+* **Intégration de flux de travail hérités**  
+  Convertir le matériel web archivé en fichiers DOT pour les systèmes qui dépendent encore des modèles Word classiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

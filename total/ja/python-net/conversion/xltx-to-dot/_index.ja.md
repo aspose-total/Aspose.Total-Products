@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から DOT への変換は、スプレッドシートのテンプレートコンテンツを、複数の標準化された文書を作成するために再利用できるワードプロセッシング用テンプレート形式に変換します。これは、構造化されたスプレッドシートのレイアウトを、正式なコミュニケーション、レポート、または業務文書のための繰り返し使用できる文書テンプレートにする必要がある場合に有用です。
+
+自動化された環境では、XLTX から DOT への変換が、スプレッドシート主導のソースから再利用可能な文書の基盤を生成するのに役立ち、一貫性を向上させ、繰り返しの設定作業を削減し、スケーラブルな文書作成プロセスを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **再利用可能な文書テンプレートの作成**  
+  スプレッドシートテンプレートを、類似の出力に対して繰り返し使用できる文書テンプレートに変換します。
+
+* **標準化されたビジネスフォーマット**  
+  生成された文書セット全体で一貫した構造とレイアウトを維持するのに役立ちます。
+
+* **プロセス指向の文書化**  
+  繰り返し使用されるフォームやレポートが、管理されたテンプレートから開始しなければならない環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートライブラリの生成**  
+  自動化により、組織での再利用のために XLTX 入力から文書テンプレートリポジトリを構築できます。
+
+* **文書標準化パイプライン**  
+  この変換は、部門間で一貫した開始テンプレートが必要なワークフローをサポートします。
+
+* **大量テンプレート展開**  
+  プログラムによる処理により、構造化されたスプレッドシート設計から DOT テンプレートを大規模に作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

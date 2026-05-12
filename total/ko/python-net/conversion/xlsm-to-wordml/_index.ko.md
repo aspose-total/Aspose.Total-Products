@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM에서 WordML로의 변환은 매크로가 포함된 스프레드시트 콘텐츠를 구조화된 문서 표현을 위해 설계된 XML 기반 워드 프로세싱 형식으로 변환합니다. 이는 조직이 XML 중심 시스템, 콘텐츠 변환 워크플로우 또는 통합 중심 환경에 맞는 문서 출력을 필요로 할 때 유용합니다.
+
+자동화 관점에서 WordML은 프로그래밍 방식 처리, 구조화된 파싱 및 XML 기반 콘텐츠 교환에 의존하는 시스템과의 보다 쉬운 통합을 지원합니다. Python API를 사용하면 XLSM에서 WordML로의 변환이 확장 가능한 문서 변환 및 기계가 읽을 수 있는 워크플로 파이프라인에 효과적입니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 생성**
+  스프레드시트 데이터를 시스템 통합에 적합한 구조화된 워드 프로세싱 형식으로 변환합니다.
+
+* **기계가 읽을 수 있는 콘텐츠 워크플로우**
+  조직이 파싱 및 변환이 더 쉬운 형식으로 문서 출력을 관리하도록 돕습니다.
+
+* **구조화된 문서 교환**
+  스프레드시트에서 파생된 콘텐츠를 XML 호환 처리 환경으로 이동하는 것을 지원합니다.
+
+* **통합 지향 퍼블리싱**
+  구조화된 콘텐츠 모델을 우선시하는 워크플로우를 위한 문서 생성을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **프로그래밍 XML 문서 파이프라인**
+  Python API를 사용하면 XLSM 파일을 시스템 기반 문서 워크플로우를 위한 WordML 출력으로 변환할 수 있습니다.
+
+* **배치 구조화 콘텐츠 변환**
+  여러 스프레드시트를 프로그래밍 방식으로 대규모 XML 기반 문서로 변환할 수 있습니다.
+
+* **통합 워크플로우 지원**
+  WordML 출력은 구조화되고 기계가 처리 가능한 문서를 필요로 하는 하위 시스템에 제공될 수 있습니다.
+
+* **자동화된 콘텐츠 교환**
+  변환은 스프레드시트 소스를 XML 기반 퍼블리싱, 저장 및 변환 프로세스와 연결하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

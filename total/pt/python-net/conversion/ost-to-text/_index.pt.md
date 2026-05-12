@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para texto extrai o conteúdo da caixa de correio em texto simples, tornando os dados de e‑mail leves, pesquisáveis e fáceis de integrar em fluxos de trabalho de análise ou documentação. É uma escolha prática para sistemas que priorizam simplicidade, portabilidade e acessibilidade do conteúdo.
+
+Em cenários de automação, a conversão de OST para texto é especialmente valiosa porque o texto simples funciona bem com indexação, parsing, classificação e processamento subsequente. APIs Python permitem extração em lote eficiente e integração em pipelines escaláveis de dados e conteúdo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Extração de Conteúdo Pesquisável**  
+  Converte mensagens da caixa de correio em texto simples para indexação e recuperação.
+
+* **Arquivamento Leve**  
+  Suporta preservação em formato mínimo do conteúdo de e‑mail para armazenamento e revisão.
+
+* **Prontidão para Processamento de Dados**  
+  Facilita a análise, o parsing e a transformação programática do conteúdo das mensagens.
+
+* **Fluxos de Captura de Conhecimento**  
+  Ajuda a mover informações importantes da caixa de correio para ativos de texto simples e reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Extração de Texto**  
+  Automação em Python converte o conteúdo OST em texto simples para processamento escalável.
+
+* **Fluxos de Busca e Indexação**  
+  Sistemas automatizados preparam os dados da caixa de correio para motores de busca e ferramentas de análise.
+
+* **Processos de Análise de Conteúdo**  
+  A conversão programática suporta classificação, sumarização e operações de mineração de texto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

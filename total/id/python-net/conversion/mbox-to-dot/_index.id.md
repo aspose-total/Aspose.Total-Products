@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi MBOX ke D
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi MBOX ke DOT mengubah konten kotak surat menjadi file templat Word, memungkinkan struktur yang berasal dari email dapat digunakan kembali sebagai fondasi dokumen standar. Ini berguna ketika pesan yang diarsipkan perlu memberi informasi untuk tata letak dokumen yang dapat diulang atau proses pelaporan berbasis templat.
+
+Dengan API Python, organisasi dapat mengotomatisasi pembuatan file DOT dari arsip MBOX untuk mendukung pembuatan templat yang dapat diskalakan, format yang konsisten, dan otomatisasi alur kerja dokumen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan Templat dari Email**
+  Ubah konten kotak surat menjadi templat dokumen yang dapat digunakan kembali untuk penggunaan berulang.
+
+* **Alur Kerja Pemformatan Standar**
+  Pertahankan tata letak yang berasal dari pesan dalam format yang dirancang untuk pembuatan dokumen yang konsisten.
+
+* **Penyiapan Dokumentasi Proses**
+  Gunakan konten email sebagai dasar terstruktur untuk pembuatan dokumen di masa depan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Templat yang Dapat Digunakan Kembali**
+  Ubah email terpilih menjadi file DOT yang mendukung dokumentasi standar.
+
+* **Pelestarian Tata Letak Otomatis**
+  Secara programatik buat output templat dari arsip kotak surat untuk alur kerja berulang.
+
+* **Struktur Konten yang Dapat Diskalakan**
+  Gunakan Python untuk mengubah catatan email menjadi aset siap templat untuk penggunaan perusahaan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

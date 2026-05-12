@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OTT do EMAIL w a
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do e‑mail w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w treść gotową do wysyłki e‑mail, odpowiednią do generowania wiadomości, przepływów powiadomień i automatyzacji komunikacji. Pomaga organizacjom ponownie wykorzystywać zawartość dokumentów jako ustrukturyzowane wiadomości wychodzące.
+
+Ta konwersja jest szczególnie istotna dla automatyzacji, ponieważ umożliwia dynamiczne generowanie treści e‑mail z szablonów, poprawiając spójność komunikacji, skalowalność oraz integrację z systemami transakcyjnymi lub zdarzeniowymi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Komunikacja oparta na szablonach**  
+  Przekształca szablony dokumentów w wielokrotnego użytku treść e‑mail do kontaktów lub aktualizacji.
+
+* **Generowanie powiadomień**  
+  Konwertuje sformatowany tekst na gotowe do wysyłki e‑mail wiadomości dla alertów i potwierdzeń.
+
+* **Ponowne wykorzystanie treści**  
+  Umożliwia użycie tego samego dokumentu źródłowego zarówno do dokumentacji, jak i potrzeb komunikacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane aktualizacje klientów**  
+  Generuje e‑mail z szablonów OTT w oparciu o wyzwalacze przepływu pracy.
+
+* **Transakcyjne potoki wiadomości**  
+  Wykorzystuje zawartość dokumentu w systemach wysyłających potwierdzenia lub przypomnienia.
+
+* **Dynamiczna personalizacja**  
+  Programowo wypełnia treść e‑mail opartą na szablonie dla dużych grup odbiorców.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

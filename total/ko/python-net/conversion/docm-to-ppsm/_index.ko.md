@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to PPSM 변환은 매크로가 포함된 문서를 매크로가 포함된 슬라이드쇼 파일로 변환하여 자동화된 동작이 포함된 직접 프레젠테이션 전달을 가능하게 합니다. 이는 프레젠테이션이 즉시 재생과 고급 스크립트 기능을 모두 필요로 할 때 유용합니다.
+
+자동화 중심 워크플로우의 경우, DOCM to PPSM 변환은 제어된 프레젠테이션 경험을 향상시키는 자동화된 동작을 보존하면서 반복 가능한 슬라이드쇼 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재생 준비 매크로 슬라이드쇼**
+  고급 인터랙티브 또는 자동화 동작을 포함할 수 있는 슬라이드쇼 출력을 생성합니다.
+
+* **자동화된 프레젠테이션 전달**
+  구조화된 문서 내용에서 생성된 직접 사용 가능한 프레젠테이션을 지원합니다.
+
+* **제어된 디스플레이 경험**
+  재생 동작이 중요한 환경을 위한 슬라이드 자산 준비를 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **프로그래밍 방식 슬라이드쇼 생성**
+  반복되는 시각적 워크플로우의 일부로 DOCM 파일을 PPSM 출력으로 변환합니다.
+
+* **내장 자동화 보존**
+  가이드형 또는 스크립트된 슬라이드 전달에 필요한 프레젠테이션 동작을 유지합니다.
+
+* **확장 가능한 프레젠테이션 배포**
+  즉시 실행 가능한 매크로 포함 슬라이드쇼 파일의 대량 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

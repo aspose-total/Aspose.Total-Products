@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から PPTM への変換は、バイナリのスプレッドシート データをマクロ対応プレゼンテーション ファイルに変換し、構造化されたスプレッドシート コンテンツとプレゼンテーション自動化機能を組み合わせた高度なスライド ワークフローをサポートします。これは、動的またはスクリプト化されたプレゼンテーション動作が必要なシナリオで有用です。
+
+自動化パイプラインにおいて、XLSB から PPTM への変換により、組織はデータ駆動かつ自動化対応のプレゼンテーション出力を生成でき、定期的なレポート作成、ガイド付きプレゼンテーション、業務ブリーフィングの効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応プレゼンテーション**  
+  スプレッドシートのコンテンツを、プレゼンテーション自動化をサポートできるスライド デッキに変換します。
+
+* **高度なレポート デッキ**  
+  動的なビジネスプレゼンテーション向けに、構造化されたビジュアル出力の作成を支援します。
+
+* **自動化プレゼンテーション ワークフロー**  
+  データとスクリプト化された動作が連携するプレゼンテーション生成をサポートします。
+
+* **再利用可能なビジュアル資産**  
+  スプレッドシートベースの入力から強化されたプレゼンテーションの作成を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スクリプト化されたデッキ生成**  
+  システムは XLSB ファイルを PPTM 出力に変換し、自動化スライド ワークフローを実現できます。
+
+* **定期的なデータプレゼンテーション**  
+  スプレッドシート主導のレポートを、プログラムでマクロ対応プレゼンテーションに変換できます。
+
+* **バッチ ビジュアル処理**  
+  複数の XLSB ソースをスケールで高度なプレゼンテーション ファイルに変換できます。
+
+* **業務スライド自動化**  
+  自動化ワークフローは、ビジネスチーム向けに充実したプレゼンテーション出力を作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

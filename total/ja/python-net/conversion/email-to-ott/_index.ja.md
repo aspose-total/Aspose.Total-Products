@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による Email から OTT への変換は、メッセージをオープンドキュメントテンプレートに変換し、標準化されたコンテンツ作成に再利用できるようにします。これは、繰り返し使用されるメール構造をオープンドキュメント環境内のテンプレート資産にする必要がある場合に役立ちます。
+
+コミュニケーションパターンを再利用可能なテンプレートファイルに変換することで、ドキュメント生成を効率化し、繰り返しのフォーマット作業を削減し、オートメーションを強化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンテンプレート作成**
+  メールを OTT ファイルに変換し、繰り返し使用できるテンプレートベースのドキュメント生成を実現します。
+
+* **再利用可能なレイアウト標準化**
+  一貫したメール構造をオープンドキュメントテンプレートとして取り込みます。
+
+* **ワークフローフォーム作成**
+  メッセージ内容から開始テンプレートを作成し、繰り返し行われる業務プロセスに活用します。
+
+* **クロスプラットフォームテンプレートサポート**
+  プロプライエタリな依存なしに、共同作業ドキュメントエコシステムでオープンテンプレートを使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートライブラリの自動化**
+  構造化されたメールから OTT テンプレートを構築し、部門全体で再利用します。
+
+* **標準化された出力生成**
+  メール由来のテンプレートを適用して、繰り返し行われるオープンドキュメント作成を自動化します。
+
+* **プロセスの効率化**
+  テンプレートロジックをドキュメントワークフローに組み込むことで、手動のフォーマット作業を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

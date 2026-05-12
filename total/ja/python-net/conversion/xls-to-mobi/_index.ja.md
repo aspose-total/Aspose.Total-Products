@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to MOBI 変換は、スプレッドシート由来のコンテンツを構造化された読書とデジタル配信に適した eBook フレンドリーな形式で利用可能にします。表形式の情報を携帯可能な読書資料、ガイド、またはリファレンスコンテンツに再パッケージ化する必要がある場合に価値があります。
+
+Python API を使用することで、XLS to MOBI 変換をコンテンツ出版システム内で自動化でき、スプレッドシートデータを長文デジタル資産に再利用する組織の効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **デジタルガイド作成**
+  スプレッドシートデータを MOBI ファイルに変換し、携帯マニュアル、カタログ、またはリファレンス文書として提供します。
+
+* **コンテンツ再利用**
+  XLS の情報を読書向けデジタル形式に変換し、アクセシビリティを拡大します。
+
+* **構造化情報配信**
+  スプレッドシートベースのコンテンツを eReader 対応ワークフローに適した形式で提示します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動 eBook 出版**
+  デジタル出版パイプラインの一部として、XLS ソースから MOBI ファイルを生成します。
+
+* **バッチコンテンツ変換**
+  Python API を使用して複数のスプレッドシートを携帯読書資産に変換します。
+
+* **クロスチャネル配信**
+  スプレッドシートコンテンツを自動化システムに供給し、デジタル消費用のファイルを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

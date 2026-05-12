@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から EMAIL への変換は、Word テンプレートのコンテンツを通信ワークフロー、通知、そして自動メッセージングシナリオ向けのメール準備済み出力に変換します。正式な文書コンテンツを構造化されたメールコミュニケーションとして再利用する必要がある場合に便利です。
+
+このプロセスは、ドキュメントテンプレートから再利用可能なメールコンテンツを Python ベースで生成できるようにし、組織がアウトリーチ、アラート、取引コミュニケーションを効率的に拡大できるようにすることで、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **テンプレートベースのメッセージング**
+  文書テンプレートをメールコンテンツに変換し、一貫したコミュニケーションを実現します。
+
+* **通知の準備**
+  書式設定された文書テキストを自動ステータス更新やアラートで再利用します。
+
+* **文書からコミュニケーションへのワークフロー**
+  正式な文書作成とアウトバウンドメッセージングプロセスをつなぎます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量メール生成**
+  複数の DOTX テンプレートをスケジュールされたキャンペーン向けのメール準備済みコンテンツに変換します。
+
+* **トリガー通知**
+  自動メールを送信するイベント駆動型ワークフローで変換された出力を使用します。
+
+* **ワークフロー駆動の通信**
+  承認またはサポートシステムに文書ベースのメール生成を統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

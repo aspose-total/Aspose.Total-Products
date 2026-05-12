@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から VCF への変換は、文書ベースの連絡先またはプロフィール情報を、アドレス帳や連絡先管理システムに適した標準的な連絡先カード形式に変換します。文書に構造化された個人または組織の連絡先情報が含まれている場合に便利です。
+
+Python API を使用すると、ODT から VCF への変換を自動化された連絡先抽出、移行、同期ワークフローで実行できます。組織が静的なテキストレコードを、より高速かつ正確に再利用可能な連絡先データに変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **連絡先情報抽出**  
+  文書から名前、番号、住所を抽出し、連絡先カードに変換します。
+
+* **ディレクトリ移行サポート**  
+  テキスト文書から連絡先データを構造化されたアドレス帳へ移行するのを支援します。
+
+* **プロフィール標準化**  
+  非公式の連絡先リストを再利用可能なデジタル連絡先レコードに変換します。
+
+* **CRM 準備**  
+  ビジネスシステムへの連絡先データの取り込みをよりクリーンにサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先解析**  
+  Python スクリプトは ODT ファイル内の連絡先フィールドを特定し、VCF 出力を生成できます。
+
+* **大量ディレクトリ変換**  
+  大規模な連絡先リストをバッチジョブで再利用可能なカードに変換できます。
+
+* **同期ワークフロー**  
+  変換された連絡先は、アドレス帳や関連システムへのインポートパイプラインに供給できます。
+
+* **データエンリッチメント準備**  
+  構造化された VCF 出力は、下流の検証や統合プロセスを支援できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

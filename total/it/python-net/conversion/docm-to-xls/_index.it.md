@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a XLS trasforma i documenti abilitati alle macro in file di foglio di calcolo che supportano la gestione strutturata dei dati, la revisione e la generazione di report. È utile quando tabelle e record all'interno dei file DOCM devono essere spostati in flussi di lavoro di foglio di calcolo familiari per un ulteriore utilizzo.
+
+Da un punto di vista dell'automazione, la conversione da DOCM a XLS supporta l'estrazione ripetibile dei dati dei documenti, la compatibilità con fogli di calcolo legacy e pipeline di reportistica scalabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Riutilizzo dei dati del foglio di calcolo**
+  Converte le tabelle dei documenti in formato foglio di calcolo per analisi e modifica.
+
+* **Compatibilità con cartelle di lavoro legacy**
+  Supporta ambienti che dipendono ancora da formati di foglio di calcolo più vecchi.
+
+* **Reportistica operativa**
+  Aiuta a riutilizzare i dati basati su documenti per attività ricorrenti guidate da fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione automatizzata di cartelle di lavoro**
+  Produce file XLS da sorgenti DOCM in lavori di elaborazione di routine.
+
+* **Conversione massiva di tabelle**
+  Converte grandi insiemi di documenti in output di fogli di calcolo per operazioni successive.
+
+* **Integrazione con sistemi legacy**
+  Fornisce dati strutturati ai flussi di lavoro che dipendono da formati di cartelle di lavoro più vecchi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

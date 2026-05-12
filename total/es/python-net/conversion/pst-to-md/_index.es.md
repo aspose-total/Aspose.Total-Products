@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de PST a MD en APIs de Python convierte el contenido del buzón en Markdown, facilitando la estructuración, publicación y reutilización de la comunicación archivada en flujos de trabajo centrados en texto. Es útil cuando los registros de correo electrónico deben transformarse en contenido ligero y legible para documentación o intercambio de conocimientos.
+
+En escenarios de automatización, la conversión de PST a MD respalda canales de contenido, repositorios amigables para desarrolladores y sistemas de publicación estática. Facilita que los datos del buzón sean más fáciles de versionar, transformar e integrar con operaciones de contenido modernas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Exportación de Contenido Ligero**
+  Convierte el contenido PST en Markdown para flujos de trabajo de texto legibles y portátiles.
+
+* **Preparación de Base de Conocimientos**
+  Ayuda a reutilizar material derivado de correos electrónicos en documentación estructurada.
+
+* **Archivado Amigable con Versiones**
+  Soporta el almacenamiento del contenido del buzón en formatos de texto adecuados para el seguimiento de cambios.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Canales de Contenido Estático**
+  Los sistemas automatizados pueden convertir los datos del buzón en Markdown para publicación o indexación.
+
+* **Documentación Basada en Repositorios**
+  El contenido convertido puede fluir a entornos centrados en texto para colaboración y reutilización.
+
+* **Transformación Programática de Contenido**
+  La salida en Markdown facilita el procesamiento, la creación de plantillas y la distribución de correos archivados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

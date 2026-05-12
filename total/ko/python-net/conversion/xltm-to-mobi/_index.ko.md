@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM을 MOBI로 변환하는 파이썬 기능은 매크로가 포함된 Excel 템플릿을 전자책 호환 파일로 변환하여 디지털 독서 및 휴대용 콘텐츠 접근을 가능하게 합니다. 이는 스프레드시트 기반 정보를 지식 공유 또는 모바일 소비를 위한 독자 친화적인 형식으로 배포해야 할 때 유용합니다.
+
+자동화 워크플로우 내에서 XLTM을 MOBI로 변환하면 콘텐츠 전달 옵션이 확대되고, 디지털 출판 파이프라인을 지원하며, 구조화된 데이터를 접근 가능한 장문 출력물로 재활용하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **전자책 콘텐츠 준비**  
+  구조화된 스프레드시트 템플릿 콘텐츠를 디지털 독서 기기에 적합한 휴대용 형식으로 변환합니다.
+
+* **지식 배포**  
+  워크북 기반 자료를 보다 넓은 독서 접근성을 위해 설계된 형식으로 제공하는 것을 지원합니다.
+
+* **모바일 접근을 위한 콘텐츠 재활용**  
+  스프레드시트에서 유래된 정보를 가볍고 휴대 가능한 독서 형식으로 공유할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 디지털 출판**  
+  반복적인 콘텐츠 출판 워크플로우를 위해 XLTM 소스에서 MOBI 파일을 생성합니다.
+
+* **휴대용 문서 전달**  
+  구조화된 템플릿 데이터를 모바일 친화적인 독서 자산으로 자동 변환하는 것을 지원합니다.
+
+* **배치 전자책 생성**  
+  스프레드시트 기반 콘텐츠 저장소에서 대규모 디지털 독서 파일을 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

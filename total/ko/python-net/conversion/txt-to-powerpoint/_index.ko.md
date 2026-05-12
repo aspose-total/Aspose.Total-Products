@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 TXT를 PowerPoint로 변환하면 일반 텍스트 콘텐츠를 프레젠테이션 파일로 변환하여 보다 쉽게 발표하고 검토하며 배포할 수 있습니다. 스크립트, 메모, 요약 또는 생성된 콘텐츠를 비즈니스 및 기술 워크플로우에 적합한 슬라이드 기반 커뮤니케이션 자산으로 변환하는 데 유용합니다.
+
+이 변환은 텍스트 기반 입력을 최소한의 수작업으로 확장 가능한 프레젠테이션 출력으로 전환하므로 자동화와 매우 관련이 깊습니다. 반복 가능한 콘텐츠 생성, 보고 파이프라인과의 통합, 현대 시스템 전반에 걸친 프레젠테이션 준비 자료의 효율적인 생산을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **텍스트-슬라이드 생성**  
+  일반 텍스트를 프레젠테이션 파일로 변환하여 보다 빠른 커뮤니케이션 및 검토를 가능하게 합니다.
+
+* **자동화된 보고 프레젠테이션**  
+  서술형 보고서나 요약을 구조화된 슬라이드 덱으로 변환합니다.
+
+* **회의 및 교육 자료 생성**  
+  TXT 형식으로 준비된 서면 콘텐츠에서 프레젠테이션 자산을 구축합니다.
+
+* **프레젠테이션 파이프라인 활성화**  
+  일관되고 반복 가능한 슬라이드 제작을 위해 텍스트 소스를 입력으로 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 보고 자동화**  
+  비즈니스 시스템에서 생성된 예정된 텍스트 출력으로부터 PowerPoint 프레젠테이션을 생성합니다.
+
+* **콘텐츠 워크플로우 통합**  
+  Python API를 텍스트 생성 도구와 연결하여 엔드투엔드 슬라이드 생성을 자동화합니다.
+
+* **대량 슬라이드 덱 제작**  
+  다수의 TXT 파일을 대량 워크플로우에서 프레젠테이션 출력으로 변환합니다.
+
+* **동적 프레젠테이션 조립**  
+  프로그래밍 방식으로 텍스트 섹션을 슬라이드에 정리하여 확장 가능한 콘텐츠 전달을 구현합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

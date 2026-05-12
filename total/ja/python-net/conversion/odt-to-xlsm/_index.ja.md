@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から XLSM への変換は、文書コンテンツを高度なスプレッドシートワークフローや自動化が重視される環境に適した、マクロ対応スプレッドシート形式に変換します。抽出されたデータを、スクリプトロジックや拡張機能をサポートするスプレッドシートで使用する必要がある場合に有益です。
+
+Python API は、文書処理パイプライン、定期的なレポートシステム、そして高度なワークブック作成の一環として ODT から XLSM への変換を可能にします。これにより、テキストコンテンツと自動化対応スプレッドシート環境との橋渡しが容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応ワークブック作成**  
+  文書データを高度な機能サポートを備えたスプレッドシートに変換します。
+
+* **自動化レポート作成**  
+  組み込みロジックを使用するスプレッドシートワークフロー向けにコンテンツの準備を支援します。
+
+* **構造化データの再利用**  
+  文書ベースのテーブルを編集可能で拡張性のあるワークブックに変換します。
+
+* **高度な運用分析**  
+  スプレッドシートの自動化が重要な環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書からワークブックへのパイプライン**  
+  Python スクリプトは、ODT ベースの構造化コンテンツから XLSM ファイルを生成できます。
+
+* **定期レポート自動化**  
+  スケジュールされた変換により、自動化対応スプレッドシートワークフローにデータを供給できます。
+
+* **大量の高度なワークブック生成**  
+  大量の文書セットを自動的にマクロ対応スプレッドシートに変換できます。
+
+* **統合データ処理フロー**  
+  変換された出力は、より広範な運用および分析システムに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

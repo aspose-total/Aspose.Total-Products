@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para TSV nas APIs Python converte modelos de texto OpenDocument em valores separados por tabulação para uma troca de dados limpa, leve e estruturada. Isso é útil quando o conteúdo baseado em modelos precisa ser transferido para sistemas que preferem saída tabular simples baseada em texto.
+
+A conversão melhora a automação ao permitir parsing, transformação e carregamento fáceis em fluxos de trabalho que valorizam sobrecarga mínima, portabilidade e estrutura confiável baseada em delimitadores.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Dados Delimitados**  
+  Converte o conteúdo do documento em saída tabular estruturada.
+
+* **Formatação Amigável a Pipelines**  
+  Suporta sistemas que processam tabelas leves baseadas em texto.
+
+* **Preparação de Dados**  
+  Facilita a importação do conteúdo extraído em ferramentas analíticas ou operacionais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Conversão Tabular em Lote**  
+  Gera arquivos TSV a partir de modelos OTT em escala.
+
+* **Alimentação de Fluxos ETL**  
+  Envia dados derivados de documentos para pipelines de análise e transformação.
+
+* **Exportações Estruturadas Programadas**  
+  Suporta a geração recorrente de conjuntos de dados simples legíveis por máquinas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

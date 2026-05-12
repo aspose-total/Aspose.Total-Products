@@ -53,9 +53,55 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}>
+
+Python API를 사용한 HTML을 이미지로 변환하면 개발자가 웹 콘텐츠를 공유, 저장, 미리보기 생성 및 게시를 위한 정적 시각 형식으로 렌더링할 수 있습니다. 레이아웃, 스타일링 및 시각 구조를 보존하면서 브라우저가 필요 없는 플랫폼 전반에 HTML 콘텐츠를 보다 쉽게 배포할 수 있기 때문에 현대 시스템에서 가치가 있습니다.
+
+자동화 중심 워크플로에서 HTML을 이미지로 변환하면 보고서, 대시보드, 썸네일, 알림 및 콘텐츠 파이프라인을 위한 확장 가능한 자산 생성이 지원됩니다. 동적 HTML 템플릿을 재사용 가능한 시각 출력으로 전환함으로써 모니터링 시스템, 게시 프로세스 및 문서 기반 애플리케이션과 원활하게 통합되어 효율성이 향상됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **미리보기 이미지 생성**
+  목록, 검색 결과 및 콘텐츠 라이브러리를 위해 HTML 페이지를 이미지 미리보기로 변환합니다.
+
+* **보고서 시각화**
+  HTML 기반 보고서와 요약을 이미지로 렌더링하여 공유, 보관 또는 프레젠테이션에 활용합니다.
+
+* **템플릿 기반 자산 생성**
+  HTML 템플릿을 배너, 카드 및 콘텐츠 구성 요소용 시각적 자산으로 변환합니다.
+
+* **대시보드 스냅샷 내보내기**
+  HTML 대시보드를 이미지로 캡처하여 상태 보고 및 경영진 커뮤니케이션에 활용합니다.
+
+* **문서 지원**
+  HTML 뷰를 이미지로 내보내어 매뉴얼, 도움말 가이드 및 기술 참고 자료에 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 시각 보고서 생성**
+  자동화 시스템은 정기적인 HTML 보고서를 이미지 파일로 렌더링하여 정기 배포 및 검토에 활용할 수 있습니다.
+
+* **동적 콘텐츠 렌더링**
+  데이터 기반 HTML 템플릿을 프로그래밍 방식으로 이미지로 변환하여 확장 가능한 콘텐츠 제작에 활용할 수 있습니다.
+
+* **알림 이미지 생성**
+  경고 및 요약을 위한 HTML 레이아웃을 자동으로 이미지로 변환하여 다양한 채널에 배포할 수 있습니다.
+
+* **대량 변환 파이프라인**
+  대량의 HTML 파일을 배치 워크플로를 통해 수동 개입 없이 이미지로 처리할 수 있습니다.
+
+* **렌더링된 콘텐츠 보관**
+  자동화를 통해 동적 HTML 페이지의 시각적 상태를 정적 이미지 출력으로 변환하여 보존할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

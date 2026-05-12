@@ -44,7 +44,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MHTML から OTT への変換は、アーカイブされた Web コンテンツを OpenDocument テキストテンプレートに変換し、繰り返し可能で標準化された文書作成を実現します。Web で取得したコンテンツを元に再利用可能なテンプレートファイルを作成したい組織にとって、オープンドキュメント標準との互換性を保ちつつ実用的な選択肢です。
+
+自動化においては、OTT はスケーラブルなテンプレートベースのワークフローをサポートし、繰り返しの設定作業を削減し、一貫性を向上させます。静的な Web アーカイブを再利用可能な資産に変換し、オープンエコシステム全体での定期的な文書生成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **オープンテンプレート作成**  
+  MHTML ファイルを OTT テンプレートに変換し、構造が一貫した文書を繰り返し作成します。
+
+* **再利用可能なコンテンツレイアウト**  
+  保存された Web ページから標準化されたテンプレートフレームワークを構築し、将来の文書制作に活用します。
+
+* **オープン標準ワークフロー**  
+  クローズドな文書形式に依存せず、テンプレートの再利用が必要な環境をサポートします。
+
+* **構造化コンテンツ配信**  
+  定期的にオープンフォーマットの文書を作成する部門向けに、テンプレートベースの資産を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート提供パイプライン**  
+  MHTML ソースから OTT テンプレートを自動生成し、文書システムでの繰り返し利用を実現します。
+
+* **スケーラブルなオープンドキュメント作成**  
+  変換されたテンプレートを使用して、プラットフォームに依存しないツール間での定期的な文書生成を効率化します。
+
+* **バッチコンテンツ構造化**  
+  複数のアーカイブ Web ファイルを Python 自動化で再利用可能なオープンテンプレートに変換します。
+
+* **一貫した出版ワークフロー**  
+  標準化されたレイアウトが必要なシステムへ OTT 出力を統合し、文書の自動配信を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

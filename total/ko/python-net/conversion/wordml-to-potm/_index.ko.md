@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 POTM으로 변환하면 문서 내용을 매크로 지원 프레젠테이션 템플릿으로 변환하여 재사용 가능한 슬라이드와 내장 자동화 기능이 필요한 환경에 맞춥니다. 템플릿화된 프레젠테이션에 프로그래밍 가능한 동작이 필요할 때 유용합니다.
+
+Python API를 사용하여 WordML을 POTM으로 변환하면 콘텐츠 재사용과 자동화 중심 프레젠테이션 워크플로우를 일치시키는 템플릿 기반 프레젠테이션 자산을 확장 가능하게 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 템플릿 생성**
+  WordML 콘텐츠를 재사용 가능한 POTM 파일로 변환하여 고급 프레젠테이션 워크플로우에 활용합니다.
+
+* **자동화된 프레젠테이션 기반**
+  구조화된 콘텐츠와 내장 자동화 로직을 결합한 템플릿을 지원합니다.
+
+* **반복 가능한 슬라이드 제작**
+  매크로 지원 환경에서 프레젠테이션 생성을 표준화하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 배포**
+  반복되는 프레젠테이션 프로세스를 위해 WordML 소스에서 POTM 템플릿을 생성합니다.
+
+* **워크플로우 기반 슬라이드 저작**
+  재사용 가능한 문서 콘텐츠를 프레젠테이션 자동화 요구 사항과 연결합니다.
+
+* **확장 가능한 콘텐츠 패키징**
+  구조화된 문서에서 매크로 사용 가능한 템플릿을 일관되게 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

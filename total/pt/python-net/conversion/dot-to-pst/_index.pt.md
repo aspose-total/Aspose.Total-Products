@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para PST converte modelos de documentos em fluxos de trabalho de tabelas de armazenamento pessoal para arquivos de e‑mail e mensagens. Isso é útil quando o conteúdo derivado de modelos precisa fazer parte de um armazenamento de comunicação mais amplo ou de processos de migração.
+
+APIs Python podem automatizar o processamento relacionado à conversão de DOT para PST, permitindo que as organizações simplifiquem a preparação de arquivamento e integrem comunicações baseadas em documentos aos fluxos de dados das caixas de correio.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Pacote de Arquivo**
+  Converta o conteúdo de mensagens baseado em DOT em fluxos de trabalho orientados a PST para armazenamento ou migração.
+
+* **Consolidação de Dados da Caixa de Correio**
+  Integre material de comunicação baseado em modelos nas estruturas de arquivo pessoal.
+
+* **Suporte à Retenção de Comunicação**
+  Preserve conteúdo reutilizável dentro de processos mais amplos de gerenciamento de dados de e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Suporte Automatizado ao Fluxo de Trabalho de Arquivo**
+  Scripts Python podem preparar conteúdo derivado de DOT para manipulação e tarefas de retenção baseadas em PST.
+
+* **Integração ao Processo de Migração**
+  A conversão ajuda os modelos de documentos a alimentarem fluxos de trabalho de transição de caixas de correio.
+
+* **Arquivamento de Comunicação Escalável**
+  Sistemas programáticos podem padronizar a preparação de arquivos para grandes volumes de conteúdo de modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

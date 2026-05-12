@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 XLTM 변환은 워드 프로세싱 문서를 매크로 사용 가능 스프레드시트 템플릿 파일로 변환하여 고급 및 반복 가능한 워크북 생성을 가능하게 합니다. 이는 문서 내용이 자동화된 동작을 포함하는 스프레드시트 워크플로의 템플릿 기반으로 재사용되어야 할 때 유용합니다.
+
+자동화와 확장을 위해, 이 변환은 조직이 작성된 소스 자료에서 재사용 가능하고 논리 기능을 갖춘 워크북 템플릿을 생성하도록 도와주어 반복되는 프로세스 전반에 걸친 수동 설정을 줄여줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **매크로 사용 가능 템플릿 생성**
+  문서를 고급 자동화를 지원하는 스프레드시트 템플릿으로 변환합니다.
+
+* **재사용 가능한 논리 기반 워크북**
+  내장된 운영 동작을 포함한 워크북의 반복 가능한 생성을 지원합니다.
+
+* **고급 보고 프레임워크**
+  문서 내용에서 시작하는 복잡한 스프레드시트 프로세스를 표준화하는 데 도움이 됩니다.
+
+* **고일관성 프로세스 설계**
+  승인된 문서 구조와 반복 가능한 워크북 자동화 자산을 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동화된 템플릿 라이브러리 생성**
+  반복되는 비즈니스 워크플로를 위해 워드 문서에서 XLTM 파일을 생성합니다.
+
+* **논리 기반 워크북 제공**
+  매크로 사용 가능 템플릿을 사용하여 반복적인 스프레드시트 생성을 간소화합니다.
+
+* **확장 가능한 프로세스 표준화**
+  작성된 소스 자료를 고급 재사용 가능한 워크북 자산으로 변환합니다.
+
+* **워크플로 가속화**
+  템플릿 변환을 보다 넓은 스프레드시트 자동화 파이프라인에 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PNG para Email permite que conteúdo baseado em imagens seja transformado em saída estruturada pronta para email, facilitando a distribuição, reutilização e incorporação de informações visuais em fluxos de trabalho de comunicação. É valiosa para organizações que precisam converter capturas de tela, avisos visuais, gráficos escaneados ou atualizações baseadas em imagens em conteúdo de email acessível e compartilhável.
+
+Em sistemas modernos, essa conversão apoia a automação ao reduzir a transcrição manual, acelerar os pipelines de comunicação e ajudar a integrar ativos visuais em fluxos de trabalho escaláveis de notificação, relatório e divulgação alimentados por APIs Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Preparação de Notificação Visual**  
+  Converte avisos ou atualizações baseados em PNG em conteúdo pronto para email para comunicação interna ou externa.
+
+* **Compartilhamento de Conteúdo Escaneado**  
+  Ajuda a transformar anúncios, resumos ou alertas baseados em imagens em formatos adequados para distribuição por email.
+
+* **Mensagens Baseadas em Fluxo de Trabalho**  
+  Suporta sistemas que precisam anexar, incorporar ou resumir conteúdo PNG em processos de email enviados.
+
+* **Pipelines de Documento para Comunicação**  
+  Permite que equipes operacionais movam informações visuais para canais de comunicação sem reescrita manual.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Distribuição Automatizada de Alertas**  
+  APIs Python podem converter visualizações PNG em conteúdo de email para notificações programadas ou acionadas por eventos.
+
+* **Processamento em Lote de Comunicação**  
+  Vários arquivos PNG podem ser transformados em saídas prontas para email em massa, para fluxos de trabalho de divulgação eficientes.
+
+* **Emails de Relatórios Gerados pelo Sistema**  
+  Aplicações podem converter dinamicamente instantâneos de relatórios visuais em mensagens de email como parte de pipelines de relatório.
+
+* **Fluxos de Trabalho de Atualizações ao Cliente**  
+  Sistemas automatizados podem usar a conversão de PNG para Email para preparar conteúdo de mensagem consistente a partir de entradas baseadas em imagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

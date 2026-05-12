@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG から OFT への変換により、画像ベースのコンテンツを再利用可能なメールテンプレートファイルに変換でき、組織が視覚的入力を中心としたコミュニケーションを標準化するのに役立ちます。これは、定期的なメッセージで PNG ベースのグラフィック、通知、または画像駆動の情報を組み込む際に、一貫した構造が必要な場合に有用です。
+
+Python API を使用すれば、OFT の生成を自動化でき、スケールに応じたテンプレート作成を支援し、メッセージングワークフロー全体の一貫性を向上させ、繰り返し使用できるコミュニケーション形式に依存するシステムを効率化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なメールテンプレート作成**  
+  PNG コンテンツを OFT ベースのテンプレートに変換し、定期的なコミュニケーションに使用します。
+
+* **標準化されたビジュアルメッセージング**  
+  チームが画像ベースの情報を含む繰り返し使用できるメールフォーマットを構築するのを支援します。
+
+* **運用コミュニケーション設計**  
+  PNG アセットから生成された構造化テンプレートが必要なワークフローをサポートします。
+
+* **テンプレート主導のアウトリーチ**  
+  視覚的に情報を提供するメールテンプレートを、将来の送信や編集のために準備できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **動的テンプレート生成**  
+  Python API を使用して、PNG 入力から OFT テンプレートを作成し、自動化されたコミュニケーションシステムに活用できます。
+
+* **バッチテンプレート準備**  
+  複数の PNG ベースのメッセージレイアウトを OFT ファイルに変換し、スケールした運用に対応します。
+
+* **ワークフローの標準化**  
+  システムは部門やプロセス全体で一貫したビジュアルメールテンプレートを自動的に生成できます。
+
+* **トリガーされたコミュニケーションパイプライン**  
+  新しい PNG ベースのアセットがワークフローに入ると、アプリケーションはオンデマンドで OFT テンプレートを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

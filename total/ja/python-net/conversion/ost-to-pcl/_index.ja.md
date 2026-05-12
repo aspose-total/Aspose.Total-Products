@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST から PCL への変換は、メールボックスのコンテンツをプリンタ制御言語の出力に変換し、メール由来の文書を印刷指向のシステムやデバイスワークフローに適した形にします。これは、通信記録を制御された印刷やレガシー印刷環境向けにレンダリングする必要がある場合に有用です。
+
+Python API は、メールボックスアーカイブからスケーラブルな印刷ストリーム生成が必要な組織向けに、OST から PCL への自動変換を可能にします。これにより、標準化された印刷出力が依然として重要な環境での運用効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **印刷ストリーム生成**  
+  メールボックスのコンテンツをPCLに変換し、印刷準備が整ったワークフローに統合します。
+
+* **レガシーデバイス互換性**  
+  確立された印刷制御フォーマットに依存する環境をサポートします。
+
+* **運用印刷ワークフロー**  
+  アーカイブされた通信記録を制御された物理出力のために準備するのに役立ちます。
+
+* **文書出力の標準化**  
+  メールボックスのコンテンツを印刷プロセス向けに一貫してレンダリングできるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動印刷準備**  
+  PythonワークフローがOSTデータをPCLに変換し、大量印刷操作に対応します。
+
+* **デバイス中心の処理**  
+  自動化システムが変換されたメールボックスコンテンツを印刷インフラへルーティングします。
+
+* **レガシー出力統合**  
+  プログラムによる変換が既存の印刷指向システムとの互換性をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

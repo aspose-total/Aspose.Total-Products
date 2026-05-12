@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から POT への変換は、文書コンテンツをスライドデッキの再利用可能な基盤として使用されるプレゼンテーションテンプレートファイルに変換します。これは、文書ベースのガイダンス、構造、またはブランド化されたレイアウトを繰り返し使用できるプレゼンテーションの出発点にする必要がある場合に便利です。
+
+Python API は、構造化テキストをプログラムでテンプレート対応のプレゼンテーション資産に変換することで、スケーラブルなコンテンツ作成のための WordML から POT への変換を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **プレゼンテーションテンプレート作成**
+  WordML コンテンツをスライドデザインの一貫性のための再利用可能な POT ファイルに変換します。
+
+* **標準化されたデッキ作成**
+  チームが文書由来の構造とメッセージングからプレゼンテーションを開始できるよう支援します。
+
+* **再利用可能なコミュニケーション資産**
+  繰り返し出現するコンテンツパターンを再利用可能なプレゼンテーションフレームワークに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート公開ワークフロー**
+  承認された文書構造とコンテンツブロックから POT の生成を自動化します。
+
+* **スライド制作の標準化**
+  一貫した開始テンプレートから大量のプレゼンテーション作成を支援します。
+
+* **コンテンツガバナンスパイプライン**
+  標準化されたメッセージがプレゼンテーションテンプレートに自動的に組み込まれることを保証します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

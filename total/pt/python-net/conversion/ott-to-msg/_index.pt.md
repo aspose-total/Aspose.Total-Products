@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OTT para MSG nas APIs Python transforma modelos de texto OpenDocument em arquivos de mensagem usados em ecossistemas de email de desktop para armazenamento e troca. Isso é útil quando o conteúdo estruturado de documentos precisa se tornar um artefato de email reutilizável em vez de um documento simples.
+
+Essa conversão suporta automação ao ajudar equipes a gerar arquivos de mensagem programaticamente a partir de modelos para revisão, arquivamento ou integração em fluxos de trabalho de comunicação em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Arquivo de Mensagem**  
+  Converte modelos de documentos em arquivos de mensagem de email estruturados.
+
+* **Suporte a Fluxos de Trabalho de Comunicação**  
+  Permite a reutilização do conteúdo de documentos em ambientes orientados a email.
+
+* **Armazenamento Portátil de Mensagens**  
+  Produz saídas de mensagem que podem ser salvas e transferidas facilmente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração em Massa de Mensagens**  
+  Produz muitos arquivos MSG a partir de modelos OTT padronizados.
+
+* **Fluxos de Trabalho de Email Baseados em Aprovação**  
+  Cria arquivos de mensagem revisáveis antes da entrega ou arquivamento.
+
+* **Integração de Sistemas**  
+  Conecta pipelines de geração de documentos com processos de manipulação de mensagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

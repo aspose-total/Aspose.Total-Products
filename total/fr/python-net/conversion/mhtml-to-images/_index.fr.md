@@ -45,7 +45,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de MHTML en images avec Python permet de transformer le contenu web archivé en sorties visuelles telles que des captures de page à partager, prévisualiser et préserver la fidélité de la mise en page. Elle est précieuse lorsque l'apparence du contenu original compte davantage que l'édition et lorsque la distribution visuelle est l'objectif principal.
+
+Dans les environnements automatisés, la génération d'images est utile pour un rendu évolutif, des aperçus rapides et une diffusion de contenu adaptée aux systèmes. Elle prend en charge les flux de travail nécessitant des actifs visuels légers pour les portails, les rapports ou les étapes de validation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préservation visuelle d'archives web**  
+  Convertir les fichiers MHTML en images afin de conserver la structure visuelle des pages web sauvegardées.
+
+* **Génération d'aperçus**  
+  Créer des aperçus d'images à partir du contenu web pour les tableaux de bord, les systèmes de documents ou les interfaces de révision de contenu.
+
+* **Distribution non modifiable**  
+  Partager le contenu sous forme d'images lorsqu'une représentation visuelle fixe est préférée à un fichier modifiable.
+
+* **Rapports basés sur des captures d'écran**  
+  Utiliser les images de pages rendues dans les résumés, les dossiers d'audit ou les ensembles de documentation visuelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Services de vignettes et d'aperçus**  
+  Générer automatiquement des aperçus d'images à partir de fichiers MHTML pour l'indexation, la navigation ou les systèmes d'approbation.
+
+* **Pipelines d'archivage visuel**  
+  Convertir le contenu web capturé en actifs image pour un stockage à long terme et une référence facile.
+
+* **Distribution de contenu multicanal**  
+  Utiliser l'automatisation Python pour créer des sorties d'images adaptées aux portails, aux e‑mails ou aux vues de rapports intégrés.
+
+* **Flux de travail de validation de mise en page**  
+  Rendre les pages MHTML en images pour vérifier l'apparence lors des processus de contrôle qualité automatisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

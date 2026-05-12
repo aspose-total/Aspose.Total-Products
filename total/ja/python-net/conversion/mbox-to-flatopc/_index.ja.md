@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から FlatOPC への変換は、メールボックスアーカイブを構造化文書表現と相互運用性に使用されるフラットな XML パッケージ形式に変換します。これは、文書の透明性、XML ベースの操作、または変換されたメールコンテンツの詳細な処理を必要とするワークフローに役立ちます。
+
+Python API を使用することで、チームは MBOX から FlatOPC への変換を自動化し、データ交換、XML 主導の検証、および機械可読な文書構造に依存するシステムとの統合をサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **XMLベースの文書処理**
+  メールを FlatOPC に変換し、構造化された検査と下流の変換に利用します。
+
+* **相互運用可能なアーカイブ交換**
+  メールボックスの内容を、システム間の文書転送に適した形式で保持します。
+
+* **詳細なコンテンツ表現**
+  カスタム処理のニーズに合わせて、変換された文書構造への低レベルアクセスを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **機械可読な変換パイプライン**
+  XML中心のワークフロー向けに、MBOX ファイルから FlatOPC 出力を自動的に生成します。
+
+* **検証と変換の自動化**
+  Python を使用して、メール由来の XML パッケージをプログラムで検査および変換します。
+
+* **構造化システムとの統合**
+  変換されたメールボックスコンテンツを、透明な文書形式を必要とするエンタープライズプロセスに組み込みます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,53 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'images en MBOX à l'aide des API Python permet d'empaqueter les communications dérivées d'images dans des fichiers d'archive de boîte aux lettres pouvant stocker plusieurs enregistrements de messages dans un seul conteneur. Cela est utile pour les organisations qui doivent préserver ou migrer des données de communication visuelle au sein de flux de travail d'archives d'e‑mail consolidés.
+
+Du point de vue de l'automatisation, la conversion d'images en MBOX prend en charge un traitement d'archivage évolutif, l'assemblage de communications par lots et le transfert efficace du contenu des messages entre systèmes. Elle permet aux informations basées sur des images d'être stockées dans un format structuré, pratique pour les tâches de rétention et de migration.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Construction d'archives de boîte aux lettres**
+  Convertir les enregistrements de communication basés sur des images en archives MBOX pour un stockage centralisé.
+
+* **Préservation massive d'enregistrements**
+  Regrouper plusieurs messages dérivés d'images dans un seul fichier d'archive pour une conservation à long terme.
+
+* **Préparation à la migration**
+  Préparer le contenu de communication visuelle pour le transfert vers des systèmes qui prennent en charge les archives de boîtes aux lettres.
+
+* **Regroupement de cas et de projets**
+  Organiser les enregistrements de messages basés sur des images liés dans un seul fichier de boîte aux lettres portable.
+
+* **Stockage de communications historiques**
+  Conserver les captures d'écran, les avis et la correspondance numérisée sous une forme adaptée à l'archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'archives par lots**
+  De grandes collections d'images peuvent être converties automatiquement en archives de communication basées sur MBOX.
+
+* **Automatisation du pipeline de rétention**
+  Les enregistrements dérivés d'images peuvent être regroupés dans des archives de boîtes aux lettres selon des calendriers dictés par les politiques.
+
+* **Flux de travail de consolidation des données**
+  Les fichiers visuels dispersés peuvent être transformés en sorties d'archives unifiées pour une gestion plus facile.
+
+* **Processus d'exportation et de transfert**
+  Les systèmes automatisés peuvent empaqueter les messages basés sur des images dans des fichiers MBOX pour la migration des systèmes.
+
+* **Automatisation du stockage de conformité**
+  Les preuves de communication visuelle peuvent être archivées dans un format de boîte aux lettres structuré pour la révision et la rétention.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

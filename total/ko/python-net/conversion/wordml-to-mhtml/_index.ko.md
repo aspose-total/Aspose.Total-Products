@@ -53,7 +53,41 @@ WORDML를 MHTML(웹 아카이브 형식)로 변환 기능 또는 HtmlFixed에 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 MHTML로 변환하면 문서 내용을 마크업과 관련 리소스를 하나의 파일로 결합한 웹 아카이브 형식으로 변환합니다. 이는 브라우저 친화적이고 자체 포함된 형태로 문서 내용을 보존하는 데 유용합니다.
+
+Python API를 사용하면 WordML을 MHTML로 변환하는 작업을 자동화하여 웹 아카이빙, 미리보기 생성 및 문서와 브라우저 기반 시스템 간의 콘텐츠 이식성을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **웹 아카이브 내보내기**
+  WordML 문서를 자체 포함된 웹 친화적인 MHTML 파일로 변환합니다.
+
+* **휴대용 콘텐츠 보존**
+  렌더링된 콘텐츠와 관련 요소를 하나의 아카이브 형식으로 함께 보관합니다.
+
+* **브라우저 지향 접근**
+  웹 호환 환경에서 문서 정보를 보다 쉽게 검토할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 웹 패키징**
+  문서 배치를 MHTML로 변환하여 아카이브 또는 검토 워크플로에 사용합니다.
+
+* **미리보기 전달 파이프라인**
+  원본 편집 도구에 의존하지 않고 브라우저 기반 문서 접근을 지원합니다.
+
+* **콘텐츠 이식성 작업**
+  시스템 간에 렌더링된 문서 콘텐츠를 일관되게 공유할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversion DOCM en PPTM convertit les documents activés par macro en fichiers de présentation activés par macro, combinant la communication basée sur des diapositives avec des comportements automatisés avancés. Ceci est utile lorsque les sorties de présentation doivent préserver des éléments interactifs ou scriptés en plus du contenu converti.
+
+Dans les flux de travail axés sur l'automatisation, la conversion DOCM en PPTM prend en charge des présentations réutilisables et éditables qui peuvent participer à des pipelines de reporting et de diffusion plus dynamiques.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de présentations activées par macro**
+  Convertit le contenu du document en présentations éditables avec un support d'automatisation avancé.
+
+* **Actifs de reporting interactifs**
+  Prend en charge les sorties de diapositives nécessitant une logique intégrée ou des actions automatisées.
+
+* **Flux de travail de présentation réutilisables**
+  Aide à créer des supports de présentation dynamiques à partir de sources de documents formels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération dynamique de diapositives automatisée**
+  Produit des fichiers PPTM à partir d'entrées DOCM pour des processus de présentation avancés.
+
+* **Préservation de la logique intégrée**
+  Maintient les capacités de diapositives orientées automatisation dans les sorties converties.
+
+* **Pipelines de reporting évolutifs**
+  Prend en charge la conversion à grande échelle en actifs de présentation activés par macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

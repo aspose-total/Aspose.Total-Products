@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 WORDML로 변�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 WordML로의 변환은 메일함 아카이브를 XML 기반 워드 문서 마크업으로 변환하여 이메일에서 파생된 콘텐츠의 구조화된 표현과 기계가 읽을 수 있는 처리를 가능하게 합니다. 이는 워크플로우가 투명성, 맞춤화 또는 문서 구조와의 프로그래밍 상호 작용을 필요로 할 때 유용합니다.
+
+Python API는 자동 변환, XML 수준 처리 및 구조화된 문서 데이터를 다루는 시스템과의 통합을 지원함으로써 대규모로 WordML 변환을 실용적으로 만들습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 워드 문서 내보내기**
+  이메일을 WordML로 변환하여 구조화되고 기계가 읽을 수 있는 문서 처리를 수행합니다.
+
+* **맞춤 문서 처리**
+  마크업 기반 워크플로우를 사용하여 이메일에서 파생된 콘텐츠를 저수준으로 조작할 수 있게 합니다.
+
+* **상호 운용 가능한 데이터 교환**
+  구조화된 문서 시스템에 적합한 형식으로 메일함 데이터를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 XML 변환**
+  문서 인식 처리 파이프라인을 위해 MBOX 아카이브에서 WordML 출력을 생성합니다.
+
+* **구조화된 데이터 워크플로우**
+  Python을 사용하여 변환된 메일함 문서를 프로그래밍 방식으로 검사, 수정 또는 검증합니다.
+
+* **확장 가능한 시스템 통합**
+  이메일에서 파생된 XML 문서를 기업 콘텐츠 및 변환 시스템에 공급합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

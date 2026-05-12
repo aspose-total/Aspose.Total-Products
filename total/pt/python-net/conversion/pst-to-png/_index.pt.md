@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para PNG nas APIs Python converte o conteúdo da caixa de correio em arquivos de imagem sem perdas para preservação visual limpa e revisão digital. É útil quando e‑mails ou registros extraídos precisam ser armazenados como imagens estáticas claras, sem perda de qualidade relacionada à compressão.
+
+Em fluxos de trabalho de automação, a conversão de PST para PNG suporta a geração de pré‑visualizações, arquivamento visual e integração com aplicativos que exigem recursos de imagem de alta qualidade. Ela ajuda o conteúdo da caixa de correio a ser transferido de forma eficiente para sistemas de exibição, revisão e documentação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preservação Visual Sem Perdas**
+  Converte o conteúdo PST em PNG para saída de imagem clara e confiável.
+
+* **Pré‑visualizações de Alta Qualidade**
+  Ajuda a gerar visuais nítidos da caixa de correio para revisão e verificação.
+
+* **Imagem de Registros Estáticos**
+  Suporta a preservação baseada em imagens do conteúdo de comunicação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Pré‑visualização Automatizados**
+  Os sistemas podem gerar arquivos PNG a partir de mensagens arquivadas para portais e arquivos.
+
+* **Fluxos de Trabalho de Imagem Focados em Qualidade**
+  A saída PNG se adapta a processos que priorizam clareza visual em vez de compressão.
+
+* **Criação Escalável de Ativos Estáticos**
+  A conversão programática suporta a geração consistente de registros de imagem da caixa de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

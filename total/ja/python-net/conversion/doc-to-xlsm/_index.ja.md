@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCからXLSMへの変換は、Wordのコンテンツをスプレッドシート構造と高度な自動化機能を組み合わせたマクロ対応Excelブックに変換します。編集可能なデータと自動化対応のブック動作が必要な組織にとって価値があります。
+
+DOCからXLSMへの変換にPython APIを使用すると、スケーラブルなブック作成を支援し、手動データ転送を削減し、先進的なスプレッドシート駆動プロセスとの統合を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ対応データワークブック**
+  高度なワークフローサポート向けに設計されたスプレッドシートファイルに文書コンテンツを変換します。
+
+* **自動化ビジネスレポーティング**
+  スプレッドシートロジックと構造化データが連携する必要がある場面でXLSM出力を使用します。
+
+* **再利用可能な運用モデル**
+  繰り返し使用される文書コンテンツを自動化対応のブックに再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **高度なブック自動化**
+  プロセス集約型のスプレッドシートワークフロー向けに、DOCソースからXLSMファイルを生成します。
+
+* **文書からExcelへのロジックパイプライン**
+  構造化コンテンツを自動化運用モデルで使用されるブックに変換します。
+
+* **繰り返しデータ変換**
+  プログラムで文書エクスポートを標準化し、マクロ対応スプレッドシート資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

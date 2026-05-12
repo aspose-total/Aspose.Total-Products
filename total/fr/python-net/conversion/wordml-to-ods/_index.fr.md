@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers ODS convertit le contenu structuré basé sur des documents en fichiers OpenDocument Spreadsheet pour la gestion de données à norme ouverte et l'édition de feuilles de calcul. Elle est précieuse lorsque les organisations ont besoin de sorties de feuilles de calcul éditables sans dépendre de formats propriétaires.
+
+Les API Python aident à automatiser la conversion WordML vers ODS en extrayant les tableaux et en les mappant dans des feuilles de calcul adaptées aux flux de travail collaboratifs, portables et évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Sortie de feuille de calcul ouverte**
+  Convertit les tableaux WordML en fichiers ODS éditables pour des flux de travail de feuilles de calcul à norme ouverte.
+
+* **Échange de données portable**
+  Prend en charge le déplacement du contenu structuré vers des environnements de feuilles de calcul interopérables.
+
+* **Réutilisation des tableaux de documents**
+  Facilite l'analyse et la maintenance des données résidentes dans le document.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Conversion de feuilles de calcul par lots**
+  Crée automatiquement des fichiers ODS à partir de plusieurs documents WordML.
+
+* **Intégration de flux de travail ouvert**
+  Alimente les feuilles de calcul converties dans des environnements de traitement basés sur des normes.
+
+* **Extraction de données évolutive**
+  Prend en charge la transformation à grande échelle des tableaux de documents en actifs de feuilles de calcul réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

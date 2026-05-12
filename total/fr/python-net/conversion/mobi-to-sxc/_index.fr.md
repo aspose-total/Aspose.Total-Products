@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de MOBI en SXC avec Python permet de transformer le contenu d'un ebook en un format de feuille de calcul ouverte hérité utilisé dans les environnements de bureau plus anciens. Cela est pertinent lorsque les organisations doivent préserver la compatibilité avec des systèmes historiques ou maintenir la continuité des processus documentaires de longue date.
+
+Pour les cas d'utilisation d'automatisation, la conversion de MOBI en SXC permet un support scripté des environnements hérités, une conversion de format systématique et des flux de travail d'archivage contrôlés. Elle aide à connecter la logique d'extraction moderne avec les écosystèmes de feuilles de calcul plus anciens qui restent opérationnels.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Compatibilité OpenOffice héritée**
+  Convertir le contenu MOBI en SXC pour les environnements qui dépendent encore des normes de feuilles de calcul plus anciennes.
+
+* **Support des flux de travail historiques**
+  Maintenir des sorties de feuilles de calcul utilisables pour des systèmes de longue durée avec des exigences de format hérité.
+
+* **Préservation et migration**
+  Extraire le contenu d'un ebook en SXC comme étape intermédiaire dans des projets d'archivage ou de migration.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de l'exportation héritée**
+  Générer automatiquement des fichiers SCSV à partir de sources MOBI pour des flux de travail de bureau plus anciens.
+
+* **Pipelines de traitement rétrocompatibles**
+  Inclure la conversion SXC dans l'automatisation de documents lorsque la compatibilité est plus importante que les nouvelles fonctionnalités.
+
+* **Support de la modernisation des archives**
+  Utiliser des routines Python pour préparer des sorties compatibles avec les systèmes hérités tout en modernisant les processus d'extraction sous-jacents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

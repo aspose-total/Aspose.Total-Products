@@ -53,7 +53,41 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to Images conversion renders document content into image formats for previewing, sharing, publishing, and visual archiving. It is useful when document pages need to be displayed consistently across platforms without requiring editable document software.
+
+Python APIs streamline WordML to Images conversion by rendering pages programmatically, enabling large-scale thumbnail generation, page previews, and visual document distribution workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie podglądu dokumentu**
+  Converts WordML pages into images for quick viewing and indexing.
+
+* **Udostępnianie wizualne**
+  Makes document content easier to distribute in image-friendly channels and interfaces.
+
+* **Niezmienna prezentacja**
+  Preserves page appearance for review, publishing, or reference purposes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki tworzenia miniatur**
+  Automatically generates preview images from batches of WordML documents.
+
+* **Wsparcie przepływu publikacji**
+  Converts pages into images for websites, knowledge systems, or review tools.
+
+* **Wizualizacja archiwum**
+  Enables image-based access to stored documents without opening the original file format.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

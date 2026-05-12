@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 FODS로의 변환은 문서 기반 구조화된 콘텐츠를 Flat OpenDocument Spreadsheet 형식으로 내보내며, 이는 개방형 표준 스프레드시트 워크플로와 XML 기반 처리에 유용합니다. 투명하고 휴대 가능하며 표준 지향적인 데이터 형식을 우선시하는 환경을 지원합니다.
+
+Python API는 표와 구조화된 텍스트를 변환하여 확장 가능한 통합 및 검증 프로세스에 적합한 개방형 스프레드시트 표현으로 만들면서 WordML에서 FODS로의 변환을 자동화하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 변환**
+  표준화된 처리를 위해 WordML 표를 평면 오픈 스프레드시트 형식으로 변환합니다.
+
+* **XML 친화적 데이터 처리**
+  읽기 쉽고 휴대 가능한 스프레드시트 XML 구조의 이점을 활용하는 워크플로를 지원합니다.
+
+* **표준 기반 교환**
+  오픈 문서 생태계에서 구조화된 데이터 공유를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 포맷 내보내기 파이프라인**
+  표준을 준수하는 워크플로를 위해 WordML을 FODS로 변환하는 작업을 자동화합니다.
+
+* **검증 및 변환 작업**
+  자동 검사 또는 변환 루틴에서 평면 XML 스프레드시트 출력을 사용합니다.
+
+* **리포지토리 현대화**
+  문서 기반 표형 데이터를 개방형이며 처리 가능한 스프레드시트 형식으로 마이그레이션하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

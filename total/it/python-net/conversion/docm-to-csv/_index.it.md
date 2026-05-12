@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a CSV trasforma i documenti di elaborazione testi abilitati alle macro in dati semplici, strutturati e separati da virgole, più facili da estrarre, analizzare e riutilizzare nei sistemi di reporting e operativi. È utile quando testo, tabelle o contenuti ripetuti dei file DOCM devono essere standardizzati per l'elaborazione a valle.
+
+In ambienti focalizzati sull'automazione, i flussi di lavoro DOCM‑to‑CSV aiutano a convertire contenuti di documenti semi‑strutturati in set di dati leggeri che supportano l'ingestione, la validazione, la sincronizzazione e lo scambio di dati scalabile tra gli strumenti aziendali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione di dati tabellari**
+  Converte le tabelle all'interno dei file DOCM in righe e colonne strutturate per un'analisi e un riutilizzo più semplici.
+
+* **Pipeline di reporting**
+  Prepara i dati basati su documenti per report aziendali, dashboard e esportazioni programmate.
+
+* **Interoperabilità del sistema**
+  Consente il trasferimento semplice del contenuto del documento in strumenti che accettano input di testo delimitato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Elaborazione di documenti in batch**
+  Automatizza la conversione di grandi collezioni di DOCM in output CSV per flussi di dati ricorrenti.
+
+* **Preparazione ETL**
+  Supporta i flussi di lavoro extract‑transform‑load trasformando il contenuto del documento in record leggibili dalla macchina.
+
+* **Validazione e archiviazione**
+  Aiuta a creare esportazioni normalizzate che possono essere verificate, indicizzate e archiviate programmaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLS a DOCM consente di trasformare il contenuto dei fogli di calcolo in documenti Word con macro abilitati che supportano una documentazione strutturata e un comportamento avanzato del documento. Questo è prezioso quando le informazioni basate su fogli di calcolo devono essere consegnate in forma di documento mantenendo la compatibilità con i flussi di lavoro che si basano su modelli con macro.
+
+La conversione da XLS a DOCM basata su API Python supporta l'automazione consentendo ai sistemi di generare output di documenti in modo programmatico, aiutando le organizzazioni a semplificare l'assemblaggio dei documenti, la creazione di modelli e la distribuzione controllata dei contenuti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione di documenti con macro**
+  Converti i dati XLS in file DOCM per i flussi di lavoro che dipendono da formati di documento con supporto macro.
+
+* **Output basato su modello**
+  Utilizza il contenuto dei fogli di calcolo per popolare documenti DOCM strutturati usati in processi aziendali ripetibili.
+
+* **Documentazione operativa**
+  Trasforma i record dei fogli di calcolo in documenti modificabili adatti a procedure interne guidate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Popolamento automatico del modello**
+  Fornisci i dati XLS ai pipeline di generazione di documenti DOCM utilizzando le API Python.
+
+* **Servizi di conversione in batch**
+  Converti più file di fogli di calcolo in output DOCM per l'elaborazione aziendale standardizzata.
+
+* **Consegna integrata dei documenti**
+  Genera file DOCM automaticamente come parte dei sistemi di approvazione, archiviazione o reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

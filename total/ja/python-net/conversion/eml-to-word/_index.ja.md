@@ -46,9 +46,49 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した EML から Word への変換により、メールメッセージを文書化、コラボレーション、構造化されたビジネス再利用のための編集可能なワードプロセッシング文書に変換できます。この一般的な変換パスは、メッセージ内容をメールボックスの保存領域から標準的な文書ワークフローへ移行する必要がある場合に有用です。
+
+自動化システムにおいて、EML から Word への変換は、コミュニケーション内容の編集、共有、ビジネス記録への統合を容易にすることで、プロセスの継続性を向上させます。非構造化メールデータを管理された文書資産へスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **編集可能なメールから文書への変換**  
+  メール内容を改訂および再利用のための Word 互換ファイルに変換します。
+
+* **ビジネス記録の作成**  
+  馴染みのある文書形式でコミュニケーション内容を保存するのに役立ちます。
+
+* **コラボレーション支援**  
+  メール由来の資料をチームでのレビュー、コメント、共有を容易にします。
+
+* **運用コンテンツの再利用**  
+  メッセージテキストをより広範な文書ワークフローに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書ワークフローの自動化**  
+  自動化により、EML ファイルを Word 文書に変換し、集中処理が可能になります。
+
+* **ケースおよびプロジェクトファイルの生成**  
+  プログラムによる変換は、編集可能なコミュニケーション記録をワークフローに添付することをサポートします。
+
+* **ナレッジリポジトリへの取り込み**  
+  メール内容を自動的に再利用可能な文書資産へ変換できます。
+
+* **スケーラブルなレビュー パイプライン**  
+  Word 出力は、編集、承認、公開システムへの自動ルーティングをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX から PPT への変換により、スプレッドシート データをレポート作成、コミュニケーション、データストーリーテリング用の編集可能なプレゼンテーション ファイルに変換できます。構造化されたスプレッドシート コンテンツを会議やレビュー用のスライドベースの資料にする必要がある場合に便利です。
+
+XLSX から PPT への変換を自動化することで、組織はプレゼンテーション作成を迅速化し、レポートの一貫性を維持し、データ ソースから視覚的なビジネス ドキュメントをスケーラブルに生成することを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **編集可能なプレゼンテーション作成**  
+  スプレッドシートのコンテンツを、さまざまな対象者向けに調整できるプレゼンテーション ファイルに変換します。
+
+* **データ駆動型ミーティング デッキ**  
+  テーブルや指標をビジネスディスカッション用の構造化されたスライドに変換するのに役立ちます。
+
+* **運用コミュニケーション資料**  
+  スプレッドシートで管理された情報からプレゼンテーション コンテンツの作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたデッキ生成**  
+  システムは、定期的なプレゼンテーションのニーズに合わせて、スプレッドシート レポートを PPT ファイルに変換できます。
+
+* **ワークフロー ベースのスライド作成**  
+  変換は、編集可能なプレゼンテーション資産を公開する自動化プロセスに統合できます。
+
+* **スケーラブルなレポート出力**  
+  プログラムによる変換により、スプレッドシート データから大量のプレゼンテーション ファイルを作成しやすくなります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

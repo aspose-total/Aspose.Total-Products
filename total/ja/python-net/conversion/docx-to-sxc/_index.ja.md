@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to SXC 変換は、ワードプロセッシング文書を、古い OpenOffice スプレッドシート環境と互換性のあるスプレッドシートファイルに変換します。このプロセスは、構造化されたまたは表形式の文書コンテンツを再利用可能なデータ中心のフォーマットに変換するのに役立ちます。
+
+Python API を使用すると、DOCX から SXC への変換をレガシーシステムのサポートワークフロー、文書移行パイプライン、そして自動レポートシステムに統合できます。古いスプレッドシート標準が重要であり続ける環境での相互運用性をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レガシースプレッドシートエクスポート**  
+  DOCX コンテンツを古いオフィス環境向けのスプレッドシートファイルに変換します。
+
+* **構造化データ移行**  
+  文書ベースの表や整理された情報をデータ中心のフォーマットに移行するのに役立ちます。
+
+* **古いシステムとの互換性**  
+  レガシーなスプレッドシート標準に依存するワークフローをサポートします。
+
+* **文書からスプレッドシートへの再利用**  
+  構造化テキストを分析またはアーカイブ用途に変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レガシーフォーマット変換**  
+  システムは互換性ワークフローのために DOCX ファイルを SXC スプレッドシートに変換できます。
+
+* **バッチスプレッドシートエクスポートパイプライン**  
+  Python スクリプトは大量の文書コレクションをレガシーなスプレッドシート出力に変換できます。
+
+* **移行と相互運用性の自動化**  
+  文書データはプログラムで古いプラットフォーム向けに SXC 形式に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

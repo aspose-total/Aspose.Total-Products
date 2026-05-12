@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'EPUB en ICS avec Python permet d'extraire ou de réutiliser le contenu d'une publication dans des fichiers compatibles avec les calendriers pour la planification et les flux de travail basés sur les événements. Cela est particulièrement utile lorsque le contenu du document contient des informations liées aux dates, des agendas, des chronologies ou des détails d'événements nécessitant une sortie de calendrier structurée.
+
+Dans les scénarios d'automatisation modernes, la conversion d'EPUB en ICS aide les organisations à connecter les documents aux systèmes de planification, à améliorer la coordination temporelle et à permettre des flux de travail alimentés par Python qui génèrent automatiquement des entrées de calendrier.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction d'horaires d'événements**  
+  Convertir le contenu EPUB contenant des horaires ou des chronologies en fichiers ICS pour une utilisation basée sur le calendrier.
+
+* **Distribution d'agenda**  
+  Transformer les informations d'événements basées sur la publication en entrées de calendrier plus faciles à partager et à gérer.
+
+* **Support des flux de travail de planification**  
+  Utiliser la sortie ICS pour connecter le contenu du document aux processus de planification et de coordination.
+
+* **Gestion structurée des dates**  
+  Transformer le matériel de publication axé sur les dates en un format adapté aux applications de calendrier et aux outils de planification.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatique de calendrier**  
+  Les flux de travail Python peuvent générer des fichiers ICS à partir de documents EPUB contenant des événements, des sessions ou des jalons.
+
+* **Pipelines contenu‑vers‑planification**  
+  Les systèmes automatisés peuvent convertir les données de publication en sorties de planification utilisables sans saisie manuelle.
+
+* **Publication d'événements récurrents**  
+  Les mises à jour répétées du document peuvent déclencher une nouvelle génération d'ICS pour des flux de travail de calendrier synchronisés.
+
+* **Conversion d'événements en lot**  
+  De grandes collections de fichiers EPUB basés sur des horaires peuvent être converties de manière programmatique pour une population de calendrier efficace.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

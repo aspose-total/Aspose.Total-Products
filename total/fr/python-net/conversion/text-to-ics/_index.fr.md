@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de texte en fichier ICS à l'aide des API Python permet de transformer des informations en texte brut en fichiers d'événement compatibles avec les calendriers. Cela est particulièrement pertinent pour les systèmes de planification, la génération de rendez‑vous et les flux de travail qui doivent convertir les détails d'événements textuels en entrées de calendrier partageables.
+
+Cette conversion améliore l'automatisation en permettant aux applications de générer des invitations à des réunions, des rappels et des plannings d'événements directement à partir d'entrées textuelles, favorisant une coordination efficace et une intégration entre les systèmes de planification.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création d'événement de calendrier**  
+  Convertit les détails d'événement sous forme de texte en fichiers ICS pour la planification et le partage.
+
+* **Génération d'invitations à des réunions**  
+  Aide à créer des invitations de calendrier standardisées à partir de contenu texte brut.
+
+* **Planification de rappels**  
+  Permet de transformer des rappels basés sur du texte en fichiers d'événement compatibles avec les calendriers.
+
+* **Intégration du flux de travail de rendez‑vous**  
+  Permet aux systèmes d'entreprise de générer automatiquement des actifs d'événement réservables ou traçables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Rendez‑vous auto‑planifiés**  
+  Le texte saisi dans les formulaires ou les systèmes peut être converti en fichiers ICS pour une utilisation immédiate dans le calendrier.
+
+* **Flux de distribution d'événements**  
+  L'automatisation peut générer et envoyer des fichiers de calendrier basés sur des plannings définis par texte.
+
+* **Pipelines de planification récurrents**  
+  Les processus programmatiques peuvent convertir du texte structuré en événements de calendrier à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から ODS への変換は、ワードプロセッシング文書を OpenDocument スプレッドシート ファイルに変換し、オープンな生産性環境で構造化データの取り扱いを可能にします。文書の内容を分析、レビュー、または業務処理のためにワークシートに再編成する必要がある場合に有用です。
+
+自動化の観点から見ると、この変換により、文書中心のワークフローからスプレッドシート主導のシステムへの情報の効率的な移行が可能になり、オープン標準とスケーラブルなバッチ処理をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープン スプレッドシート変換**
+  Word 由来のデータを ODS に移動し、構造化されたレビューと操作を可能にします。
+
+* **クロスプラットフォーム データ処理**
+  オープンドキュメント スプレッドシート形式を優先する環境をサポートします。
+
+* **運用トラッキング**
+  文書の内容をシートに再編成し、モニタリングと記録保持を行います。
+
+* **構造化データの再利用**
+  ストーリーや表形式のコンテンツをスプレッドシートのワークフローで扱いやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書からスプレッドシートへの自動化**
+  受信した Word ファイルを ODS に変換し、日常的な業務プロセスに利用します。
+
+* **バッチ オープン形式生成**
+  複数のソース文書から標準化されたスプレッドシート出力を生成します。
+
+* **ワークフロー データ準備**
+  ODS 出力をオープンオフィス エコシステムや自動処理ツールに供給します。
+
+* **構造化アーカイブ パイプライン**
+  抽出された文書データを整理されたスプレッドシート ファイルに保存し、後で利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

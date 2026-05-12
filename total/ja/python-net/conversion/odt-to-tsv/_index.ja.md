@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODTからTSVへの変換は、文書の内容を構造化データ交換や軽量処理に適したタブ区切りテキスト形式に変換します。文書ベースのテーブルやレコードをシンプルで機械可読な構造に移す必要がある場合に有用です。
+
+Python API を使用することで、ODT から TSV への変換はスケーラブルなデータ抽出、インジェストパイプライン、相互運用可能な文書処理をサポートします。構造化コンテンツを分析、保存、変換ワークフローへ移行することを簡素化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **シンプルな構造化エクスポート**  
+  文書のテーブルを軽量なタブ区切り形式に変換します。
+
+* **データパイプラインの準備**  
+  処理および分析システムへの容易なインジェストをサポートします。
+
+* **レコード正規化**  
+  抽出されたコンテンツを下流での使用のために標準化するのに役立ちます。
+
+* **相互運用可能なテキストベースの交換**  
+  構造化された文書コンテンツをプラットフォーム間で移動しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動テーブル抽出**  
+  Python ワークフローは ODT コンテンツを TSV に変換し、パイプライン対応の出力を作成できます。
+
+* **分析用バッチ変換**  
+  大量の文書セットを自動的にシンプルな構造化テキストにエクスポートできます。
+
+* **データクレンジングとエクスポートワークフロー**  
+  抽出された値は TSV ファイルに書き込む前に検証できます。
+
+* **システム統合パイプライン**  
+  変換された TSV 出力はデータベース、スクリプト、またはレポートプロセスに供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

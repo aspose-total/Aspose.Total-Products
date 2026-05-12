@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 Excel로 변환하면 재사용 가능한 문서 템플릿을 계산, 보고 및 구조화된 검토를 위한 스프레드시트 친화적인 워크북으로 전환합니다. 텍스트 기반 템플릿 콘텐츠를 분석하거나 그리드 기반 비즈니스 형식으로 재사용해야 할 때 유용합니다.
+
+Python API는 DOT 콘텐츠를 자동으로 추출하고 Excel 호환 출력으로 변환함으로써 이 프로세스를 효율적으로 만들며, 확장 가능하고 반복 가능한 데이터 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **보고서 준비**
+  DOT 파일을 검토, 계산 및 구조화된 보고를 위한 Excel 워크북으로 변환합니다.
+
+* **데이터 재구성**
+  문서 콘텐츠를 필터링 및 분석이 더 쉬운 스프레드시트 레이아웃으로 이동합니다.
+
+* **운영 인계**
+  템플릿에서 파생된 정보를 비즈니스 팀 및 시스템에 친숙한 형식으로 공유합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서-워크북 자동화**
+  Python 스크립트를 사용하여 DOT 템플릿을 일정한 데이터 전달을 위한 Excel 출력으로 변환할 수 있습니다.
+
+* **파이프라인 기반 보고**
+  자동화된 워크플로는 문서 콘텐츠를 비즈니스 인텔리전스 프로세스를 위한 워크북으로 변환할 수 있습니다.
+
+* **대량 스프레드시트 생성**
+  프로그래밍 방식 변환은 다수의 소스 파일에 걸쳐 일관된 Excel 출력 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
@@ -114,7 +148,7 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
       </div>
   </div>
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

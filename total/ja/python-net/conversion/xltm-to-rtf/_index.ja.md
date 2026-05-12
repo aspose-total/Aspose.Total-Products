@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から RTF への変換は、マクロ対応の Excel テンプレートを、書式サポートと広範な互換性のバランスが取れたリッチテキスト文書に変換することを可能にします。これは、ブックベースのコンテンツを、さまざまなアプリケーション間で柔軟に利用できるテキスト文書形式で共有する必要がある場合に有用です。
+
+自動化されたワークフローにおいて、XLTM から RTF への変換はコンテンツのポータビリティを支援し、クロスプラットフォームの文書処理を簡素化し、スプレッドシートテンプレートからのフォーマット済みテキスト生成を標準化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **フォーマットされたテキスト出力**  
+  スプレッドシートテンプレートのコンテンツを、基本的な書式構造を保持したリッチテキスト文書に変換します。
+
+* **アプリケーション間共有**  
+  柔軟で広く読み取り可能なテキスト形式を必要とするシステム間での文書交換をサポートします。
+
+* **テンプレートベースのドキュメンテーション**  
+  アーカイブや編集のニーズに応じて、構造化されたブックテンプレートから読みやすいテキスト文書の生成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動リッチテキスト生成**  
+  繰り返し可能な文書作成ワークフローで、XLTM テンプレートから RTF ファイルを生成します。
+
+* **レガシー互換ドキュメントパイプライン**  
+  広範に互換性のあるフォーマット済みテキスト出力に依存する環境をサポートします。
+
+* **大量テキスト文書変換**  
+  下流での利用のために、ブックテンプレートをリッチテキストファイルにスケーラブルに変換できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

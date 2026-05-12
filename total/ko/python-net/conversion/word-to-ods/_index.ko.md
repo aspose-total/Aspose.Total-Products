@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 ODS 변환은 워드 프로세싱 문서를 구조화된 데이터 처리를 위한 OpenDocument 스프레드시트 파일로 변환합니다. 이는 문서 내용을 분석, 검토 또는 운영 처리용 워크시트로 재구성해야 할 때 유용합니다.
+
+자동화 관점에서 이 변환은 문서 중심 워크플로우에서 스프레드시트 기반 시스템으로 정보를 효율적으로 이동시켜 주며, 개방형 표준과 확장 가능한 배치 처리를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 변환**
+  워드에서 파생된 데이터를 ODS로 이동시켜 구조화된 검토 및 조작을 가능하게 합니다.
+
+* **크로스 플랫폼 데이터 처리**
+  오픈 문서 스프레드시트 형식을 우선시하는 환경을 지원합니다.
+
+* **운영 추적**
+  문서 내용을 시트로 재구성하여 모니터링 및 기록 보관에 활용합니다.
+
+* **구조화된 데이터 재사용**
+  내러티브 또는 표 형식 콘텐츠를 스프레드시트 워크플로우에서 보다 쉽게 작업할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서-스프레드시트 자동화**
+  수신된 워드 파일을 ODS로 변환하여 일상적인 비즈니스 프로세스에 활용합니다.
+
+* **배치 오픈 포맷 생성**
+  다수의 소스 문서에서 표준화된 스프레드시트 출력을 생성합니다.
+
+* **워크플로우 데이터 준비**
+  ODS 출력을 오픈 오피스 생태계 및 자동화 처리 도구에 전달합니다.
+
+* **구조화된 아카이브 파이프라인**
+  추출된 문서 데이터를 정리된 스프레드시트 파일에 보관하여 나중에 사용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

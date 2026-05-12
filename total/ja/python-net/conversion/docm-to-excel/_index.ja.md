@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to Excel 変換は、マクロ対応ドキュメントをスプレッドシート対応のブックに変換し、テーブル、リスト、レコードなどの文書コンテンツをより効率的に分析、編集、再利用できるようにします。DOCM 形式で取得された業務データを計算に適した環境へ移行する必要がある場合に有用です。
+
+自動化とスケーラビリティのために、DOCM to Excel ワークフローは構造化抽出、レポートパイプライン、および文書コンテンツを運用スプレッドシートに繰り返し変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシートベースの分析**
+  文書データをワークブック形式に変換し、並べ替え、フィルタリング、レビューができるようにします。
+
+* **運用レポート**
+  構造化されたコンテンツを、定期的なレポートプロセスで使用されるスプレッドシートに変換します。
+
+* **データ再利用性**
+  文書に含まれる情報を、チーム間での編集や統合が容易になるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチワークブック作成**
+  複数のDOCMファイルを自動的にスプレッドシート出力に変換し、大規模に処理できるようにします。
+
+* **分析準備**
+  文書由来のデータを自動化されたスプレッドシートおよびレポートワークフローに供給します。
+
+* **構造化データ交換**
+  文書システムとスプレッドシートベースのツール間のプログラム的な引き渡しをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

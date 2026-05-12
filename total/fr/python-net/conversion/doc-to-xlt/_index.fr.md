@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Document en XLT transforme le contenu Word en fichiers de modèles de feuilles de calcul qui prennent en charge la création répétable de classeurs et la standardisation. Elle est utile lorsque les structures dérivées de documents doivent devenir des bases de feuilles de calcul réutilisables.
+
+Avec les API Python, la conversion DOC en XLT peut être automatisée pour une génération cohérente de modèles, une réutilisation opérationnelle et une production de feuilles de calcul rationalisée.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles de feuilles de calcul**
+  Convertir le contenu structuré du document en modèles de feuilles de calcul réutilisables.
+
+* **Conception de classeurs standardisés**
+  Utiliser la sortie XLT pour maintenir des mises en page et des structures de données cohérentes.
+
+* **Formulaires d'entreprise réutilisables**
+  Réutiliser les documents en modèles de classeurs pour une utilisation répétée.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation de la bibliothèque de modèles**
+  Générer automatiquement des fichiers XLT à partir de documents source au format DOC.
+
+* **Configuration de feuilles de calcul répétable**
+  Produire programmétiquement des modèles de classeurs à partir de documents standardisés.
+
+* **Réutilisation opérationnelle du contenu**
+  Convertir les formulaires et rapports récurrents en actifs de feuilles de calcul basés sur des modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

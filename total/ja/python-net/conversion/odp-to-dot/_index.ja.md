@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python を使用した ODP から DOT への変換により、プレゼンテーションコンテンツを繰り返し可能な文書作成をサポートする Word テンプレート ファイルに変換できます。これは、組織がプレゼンテーション由来のコンテンツを標準化された文書ワークフローの出発点として再利用したい場合に有用です。
+
+自動化された環境では、ODP から DOT への変換がテンプレート駆動型プロセスの確立を支援し、手動での書式設定を削減し、一貫性を向上させます。変換されたコンテンツが再利用可能な文書フレームワークの一部となる必要があるスケーラブルな運用をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーションからのテンプレート作成**  
+  スライドコンテンツを DOT テンプレートに変換し、定期的な文書作成に使用します。
+
+* **標準化された文書レイアウト**  
+  変換された出力を使用して、生成された文書全体で一貫した書式を維持します。
+
+* **再利用可能なコンテンツフレームワーク**  
+  プレゼンテーション資料を再利用可能な構造に変換し、繰り返し可能なビジネス文書作成タスクに活用します。
+
+* **部門文書の標準化**  
+  テンプレートベースの文書作成と統一されたレイアウトに依存するチームを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート駆動型コンテンツ自動化**  
+  ODP 由来のコンテンツを DOT テンプレートに挿入し、繰り返し可能な文書生成を実現します。
+
+* **大量テンプレート作成**  
+  複数のプレゼンテーションを再利用可能なテンプレートに変換し、大規模な移行プロジェクトの一環とします。
+
+* **プロセス標準化ワークフロー**  
+  プレゼンテーションライブラリから文書テンプレートの作成を自動化し、一貫性を確保します。
+
+* **文書組み立てシステム**  
+  DOT 出力を下流の文書入力プロセスの構造化された出発点として使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

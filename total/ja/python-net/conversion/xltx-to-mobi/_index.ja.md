@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTXからMOBIへの変換は、スプレッドシートテンプレートのコンテンツを、軽量な読書体験とポータブルなデジタル配信に適したeBookフレンドリーな形式に変換します。構造化されたテンプレートベースの資料を、知識共有、ガイド、またはリファレンス文書向けの読みやすくコンパクトなコンテンツに再利用する必要がある場合に有用です。
+
+自動化重視のシステムにおいて、XLTXからMOBIへの変換は、構造化されたスプレッドシートテンプレートをプログラムで生成でき、デジタル配信チャネル全体で配信可能なポータブルな読書資産に変換することで、スケーラブルなコンテンツ出版を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ポータブルガイド作成**  
+  構造化されたスプレッドシートテンプレートのコンテンツをモバイルフレンドリーな読書形式に変換します。
+
+* **リファレンス資料の出版**  
+  表形式または構造化された知識を、デジタル読書に最適化された形式で配布するのに役立ちます。
+
+* **コンテンツ再利用ワークフロー**  
+  運用テンプレートのコンテンツを再利用可能なeBookスタイルのリソースに変換することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化eBook生成**  
+  システムは、定期的なデジタル出版タスクのためにXLTXテンプレートをMOBIファイルに変換できます。
+
+* **知識配信パイプライン**  
+  このトピックは、軽量リーダー配信向けに構造化コンテンツを自動的にパッケージ化することをサポートします。
+
+* **大量出版操作**  
+  プログラムによる変換により、スプレッドシートベースのコンテンツを大量にポータブル文書として出版できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

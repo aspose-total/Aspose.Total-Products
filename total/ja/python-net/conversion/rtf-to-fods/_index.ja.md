@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から FODS への変換は、リッチテキスト文書を構造化データ交換、オープンドキュメントワークフロー、システム相互運用性に適したフラットな XML ベースのスプレッドシートファイルに変換します。文書の内容を透明なテキストベースの構造を持つスプレッドシート形式に変換する必要がある場合に有用です。
+
+自動化の文脈では、RTF から FODS への変換は、フォーマットされた文書をバージョン管理、検査、交換が容易な構造化スプレッドシート資産に変換することで、スケーラブルな処理、検証、統合ワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープン スプレッドシート変換**  
+  文書の内容を、より広い互換性のためにオープンでフラットなスプレッドシート形式に変換します。
+
+* **構造化 XML データ処理**  
+  テキストベースのワークフローでスプレッドシートの内容をより簡単に検査・管理できるようにします。
+
+* **相互運用可能な文書交換**  
+  オープンドキュメント標準を好むシステム間で情報の移動を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **パイプライン対応スプレッドシート生成**  
+  自動変換により、検証やスクリプト処理に適した FODS ファイルを生成できます。
+
+* **バージョン管理されたデータワークフロー**  
+  テキストベースのスプレッドシート表現が好まれる環境をプログラム的変換でサポートします。
+
+* **オープン標準の統合**  
+  動的プロセスにより、RTF コンテンツを相互運用可能なスプレッドシート資産に変換し、クロスプラットフォームで利用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,45 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion CSV en DOCM à l'aide des API Python permet de transformer des données tabulaires structurées en documents de traitement de texte à macros qui prennent en charge une mise en forme avancée et un comportement d'automatisation intégré. Cette conversion est précieuse pour les systèmes automatisés car elle combine la transformation des données avec la logique documentaire, aidant les flux de travail à s'étendre avec moins d'édition manuelle et une plus grande cohérence des processus.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rapports avec macros**  
+  Convertir les données CSV en fichiers DOCM lorsque les documents générés nécessitent des fonctionnalités d'automatisation intégrées ou des actions scriptées.
+
+* **Documentation orientée processus**  
+  Produire des documents DOCM qui combinent un contenu structuré avec un comportement répétable côté document.
+
+* **Emballage de données opérationnelles**  
+  Transformer les ensembles de données CSV en fichiers à macros adaptés aux flux de travail métier contrôlés et au traitement interne.
+
+* **Documents d'automatisation réutilisables**  
+  Générer des sorties DOCM répétables à partir d'entrées structurées pour les équipes qui s'appuient sur des routines documentaires standardisées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Population automatisée de formulaires**  
+  Utiliser les API Python pour convertir les données CSV en fichiers DOCM qui prennent en charge des actions documentaires préconstruites et une logique réutilisable.
+
+* **Production de documents intégrée au flux de travail**  
+  Générer automatiquement des sorties DOCM dans le cadre de jobs d'entreprise, de systèmes de reporting ou de processus de gestion documentaire.
+
+* **Création de documents macro en lot**  
+  Convertir de grandes collections de fichiers CSV au format DOCM pour une livraison automatisée, évolutive et cohérente.
+
+* **Assemblage de contenu piloté par des règles**  
+  Construire dynamiquement des documents DOCM à partir d'entrées CSV tout en préservant une structure prête à l'automatisation pour les tâches en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

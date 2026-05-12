@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG から DOT への変換は、メールメッセージをワードプロセッシング用のテンプレートファイルに変換し、再利用可能な文書の基盤として利用できます。これは、メール由来の構造やレイアウトを繰り返し使用できる文書パターンに変換する必要がある場合に役立ちます。
+
+自動化のユースケースにおいて、MSG から DOT への変換はテンプレートベースの文書作成と標準化されたレポートプロセスを支援します。組織は、繰り返し発生するメールコンテンツから再利用可能な出力を作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールコンテンツからのテンプレート作成**  
+  変換されたメッセージを、繰り返し使用できる文書構造のベースとして使用します。
+
+* **標準化された文書**  
+  繰り返し行われる運用または管理用途のために統一されたテンプレートを作成します。
+
+* **再利用可能なコンテンツフレームワーク**  
+  将来の文書生成のために、メッセージのレイアウトとコンテンツパターンを保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  繰り返し行われる文書作成タスクのために、MSG ファイルを DOT テンプレートに変換します。
+
+* **繰り返し可能なレポートワークフロー**  
+  自動化されたレポートやケース文書化システムで、メール由来のテンプレートを使用します。
+
+* **フォーマット標準化**  
+  受信したコミュニケーションコンテンツから制御された文書構造を構築します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

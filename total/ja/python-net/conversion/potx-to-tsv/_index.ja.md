@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した POTX から TSV への変換は、PowerPoint テンプレートのコンテンツを構造化データワークフロー向けのタブ区切り値に変換できるようにします。プレゼンテーション資料をシンプルな区切り文字ベースの形式に抽出し、データ交換やインポートプロセスでうまく機能させる必要がある場合に有用です。
+
+自動化の観点から、POTX から TSV への変換は、ビジュアルテンプレートコンテンツを機械可読な出力に効率的に変換することをサポートします。バッチエクスポート、軽量な統合、スケーラブルな処理パイプラインに適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **区切りデータ抽出**
+  プレゼンテーションテンプレート情報をタブ区切りのレコードに変換し、構造化された処理を可能にします。
+
+* **システムインポート準備**
+  タブ形式のテキスト入力を受け付けるツール向けに、テンプレート由来のコンテンツを準備するのに役立ちます。
+
+* **軽量データ交換**
+  アプリケーション間で構造化情報をシンプルに転送することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なデータエクスポートジョブ**
+  スケジュールされたワークフローで POTX ファイルを TSV 出力に自動変換します。
+
+* **パイプラインに適した変換**
+  検証および取り込みシステムへのシンプルなテキストベースデータの受け渡しを可能にします。
+
+* **大量変換操作**
+  プレゼンテーションコンテンツをタブ区切りファイルに大規模に抽出することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

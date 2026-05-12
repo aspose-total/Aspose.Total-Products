@@ -64,7 +64,41 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to POTM conversion converts macro-enabled documents into macro-enabled presentation templates, allowing reusable slide structures to retain advanced automation behavior. It is valuable for environments where template consistency and interactive presentation logic must coexist.
+
+For modern workflows, DOCM to POTM conversion supports automated presentation generation while preserving the ability to embed template-level automation into repeatable slide assets.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ponowne użycie szablonów z włączonymi makrami**
+  Tworzy szablony prezentacji, które łączą uporządkowany projekt z funkcjami automatyzacji.
+
+* **Zaawansowane przepływy pracy prezentacji**
+  Obsługuje scenariusze, w których powtarzalne generowanie slajdów opiera się na osadzonych akcjach lub logice.
+
+* **Standaryzacja szablonów**
+  Pomaga utrzymać spójność w prezentacjach bez utraty możliwości automatyzacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Programowe generowanie szablonów**
+  Konwertuje pliki DOCM na wyjścia POTM dla powtarzalnych procesów produkcji slajdów.
+
+* **Automatyczne składanie prezentacji**
+  Umożliwia systemom wypełnianie szablonów z włączonymi makrami zmieniającą się treścią.
+
+* **Skalowalna dostawa treści**
+  Obsługuje wielkoskalowe przepływy pracy oparte na szablonach prezentacji z wbudowaną automatyzacją.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

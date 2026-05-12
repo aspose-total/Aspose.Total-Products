@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para OTT transforma arquivos de caixa de correio em modelos de documento aberto, permitindo que estruturas de conteúdo derivadas de e‑mails sejam reutilizadas em fluxos de trabalho padronizados de criação de documentos. Isso é útil quando organizações desejam criar formatos de conteúdo repetíveis com base em comunicações arquivadas.
+
+As APIs Python possibilitam automatizar a geração de OTT a partir de arquivos MBOX, melhorando a consistência, reduzindo a configuração manual e suportando operações escaláveis orientadas a modelos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Geração de Modelo Aberto**
+  Converta o conteúdo da caixa de correio em modelos OTT reutilizáveis para criação consistente de documentos.
+
+* **Layouts de Conteúdo Padronizados**
+  Preserve a estrutura baseada em e‑mail em um formato projetado para formatação repetível.
+
+* **Documentação Orientada por Modelo**
+  Use o conteúdo da caixa de correio convertido para apoiar fluxos de trabalho futuros de documentos abertos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Construção Automatizada de Modelos**
+  Gere arquivos OTT a partir de e‑mails selecionados como parte de pipelines de conteúdo repetíveis.
+
+* **Padronização de Fluxo de Trabalho Aberto**
+  Use automação Python para manter estruturas de modelo consistentes a partir de arquivos de caixa de correio.
+
+* **Preparação de Documentos Escalável**
+  Integre os modelos convertidos em sistemas mais amplos de geração de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

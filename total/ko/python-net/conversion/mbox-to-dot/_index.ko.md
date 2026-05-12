@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 DOT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 DOT 변환은 메일함 내용을 Word 템플릿 파일로 변환하여 이메일에서 파생된 구조를 표준화된 문서 기반으로 재사용할 수 있게 합니다. 이는 보관된 메시지가 반복 가능한 문서 레이아웃이나 템플릿 기반 보고 프로세스를 안내해야 할 때 유용합니다.
+
+Python API를 사용하면 조직이 MBOX 아카이브에서 DOT 파일 생성을 자동화하여 확장 가능한 템플릿 생성, 일관된 서식 및 문서 워크플로 자동화를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이메일에서 템플릿 생성**
+  메일함 내용을 재사용 가능한 문서 템플릿으로 변환하여 반복적으로 사용할 수 있습니다.
+
+* **표준화된 서식 워크플로**
+  일관된 문서 생성을 위해 설계된 형식으로 메시지에서 파생된 레이아웃을 보존합니다.
+
+* **프로세스 문서화 설정**
+  이메일 내용을 향후 문서 작성을 위한 구조화된 기반으로 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **재사용 가능한 템플릿 생성**
+  선택된 이메일을 표준화된 문서를 지원하는 DOT 파일로 변환합니다.
+
+* **자동 레이아웃 보존**
+  메일함 아카이브에서 템플릿 출력을 프로그래밍 방식으로 생성하여 반복 워크플로에 활용합니다.
+
+* **확장 가능한 콘텐츠 구조화**
+  Python을 사용하여 이메일 레코드를 기업용 템플릿 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 ODT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 ODT로의 변환은 Outlook 이메일 템플릿을 편집 가능하고 표준 친화적인 문서 사용을 위한 오픈 문서 텍스트 파일로 변환합니다. 이는 콘텐츠를 다양한 사무 환경에서 이식성과 호환성을 지원하는 오픈 형식으로 공유해야 할 때 유용합니다.
+
+이 변환은 조직이 템플릿 콘텐츠를 오픈 문서 워크플로우로 이동하도록 도와 자동화를 효율적으로 지원하며, 폐쇄된 생태계에 대한 의존성을 줄이고 크로스 플랫폼 처리를 개선합니다. 이는 확장 가능하고 상호 운용 가능한 콘텐츠 운영에 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **오픈 문서 편집**  
+  OFT 템플릿을 표준 기반 문서 환경에서 편집할 수 있도록 ODT 파일로 변환합니다.
+
+* **크로스 플랫폼 콘텐츠 교환**  
+  오픈 텍스트 문서 형식을 지원하는 시스템 간에 변환된 문서를 공유합니다.
+
+* **상호 운용 가능한 보관**  
+  광범위한 접근성과 이식성을 위해 설계된 형식으로 이메일 템플릿 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 오픈 포맷 변환**  
+  표준화된 워크플로우를 위해 Python API를 사용해 OFT 파일을 ODT 문서로 변환합니다.
+
+* **크로스 시스템 문서 라우팅**  
+  ODT 출력물을 협업 편집, 검토 또는 보관 플랫폼으로 자동 전송합니다.
+
+* **확장 가능한 콘텐츠 마이그레이션**  
+  현대화 이니셔티브의 일환으로 템플릿 콘텐츠를 오픈 문서 생태계로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

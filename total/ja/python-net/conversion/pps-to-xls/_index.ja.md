@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}}
+
+Python における PPS から XLS への変換は、プレゼンテーションのコンテンツをスプレッドシートファイルに変換し、構造化されたレビュー、データ整理、レポート作成を支援します。テーブルやテキスト要素、プレゼンテーション由来のレコードを分析可能な形式で取得する必要がある場合に有用です。
+
+自動化のユースケースでは、PPS から XLS への変換はバッチデータ抽出、レポートワークフロー、スプレッドシート中心の業務システムとの互換性をサポートします。スライドのコンテンツを、表形式の整理が不可欠な環境で再利用できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **レガシー スプレッドシート出力**
+  プレゼンテーションデータを、既存のスプレッドシートワークフローに適した形式に変換します。
+
+* **表形式レポート作成**
+  スライド由来の情報を監査、レポート、または内部トラッキングのために整理します。
+
+* **プレゼンテーションデータ構造化**
+  構造化されていないスライドコンテンツを、分析可能な行と列に変換します。
+
+* **旧システムとの互換性**
+  従来のスプレッドシート形式に依存し続けている環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量スプレッドシート変換**
+  大量のプレゼンテーションファイルのアーカイブに対して PPS から XLS への変換を自動化します。
+
+* **データ抽出ワークフロー**
+  変換されたスプレッドシートを検証および処理システムに供給します。
+
+* **スケジュールされたレポートジョブ**
+  定期的なタスクの一環として、プレゼンテーションからスプレッドシート出力を生成します。
+
+* **レガシーシステム統合**
+  Python API を使用して、旧プラットフォーム向けにスプレッドシート互換ファイルを提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

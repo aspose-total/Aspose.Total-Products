@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji WORDML do MBOX w
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to MBOX conversion packages document-derived content into a mailbox archive format suitable for grouped message storage and migration workflows. This is valuable when multiple document-based communications need to be organized into mailbox-style repositories.
+
+Python APIs enable WordML to MBOX conversion by programmatically transforming content into message records and consolidating them into scalable archive outputs for email-centric systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie archiwum skrzynki pocztowej**
+  Konwertuje treść dokumentu na kolekcje wiadomości zgodne z formatem MBOX.
+
+* **Pakowanie komunikacji masowej**
+  Grupuje wiele przekonwertowanych rekordów w jeden plik archiwum w celu transferu lub przechowywania.
+
+* **Wsparcie migracji e‑maili**
+  Ułatwia przygotowanie treści do importu w środowiskach opartych na skrzynkach pocztowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Generowanie archiwum wsadowego**
+  Automatyzuje tworzenie plików MBOX z powtarzających się źródeł dokumentów WordML.
+
+* **Integracja przepływu pracy retencji**
+  Wspiera długoterminowe przechowywanie komunikacji pochodzącej z dokumentów w archiwach skrzynek pocztowych.
+
+* **Umożliwienie pipeline'u migracji**
+  Dostarcza przekonwertowane wyjścia MBOX do zautomatyzowanych procedur importu lub migracji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

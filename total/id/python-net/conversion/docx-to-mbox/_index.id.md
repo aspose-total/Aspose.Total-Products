@@ -46,7 +46,44 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOCX ke M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ke konversi MBOX memungkinkan transformasi konten dokumen menjadi file arsip kotak surat yang digunakan untuk menyimpan koleksi pesan email. Proses ini memungkinkan informasi dokumen diintegrasikan ke dalam struktur arsip email.
+
+API Python memungkinkan pembuatan otomatis file kotak surat dari konten dokumen, mendukung arsip komunikasi dan alur kerja pesan otomatis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan Arsip Email**  
+  Mengonversi konten DOCX menjadi file arsip kotak surat.
+
+* **Catatan Komunikasi Dokumen**  
+  Menyimpan pesan berbasis dokumen dalam arsip kotak surat.
+
+* **Alur Kerja Migrasi Email**  
+  Memungkinkan konten dokumen disertakan dalam ekspor kotak surat.
+
+* **Integrasi Sistem Pesan**  
+  Memungkinkan informasi dokumen dikemas dalam arsip email.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Kotak Surat Otomatis**  
+  Sistem dapat mengonversi dokumen menjadi file arsip MBOX.
+
+* **Pemrosesan Batch Arsip Email**  
+  Skrip Python dapat menghasilkan arsip kotak surat dari koleksi dokumen.
+
+* **Pipeline Pesan Perusahaan**  
+  Data dokumen dapat diubah menjadi format kotak surat secara otomatis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

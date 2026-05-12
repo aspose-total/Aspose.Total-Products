@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da documento a OFT trasforma il contenuto di Word in file di modello email che possono essere riutilizzati nei flussi di messaggistica e comunicazione. È particolarmente utile quando il contenuto del documento funge da base per contatti ripetibili, notifiche o corrispondenza standardizzata.
+
+Le API Python consentono la conversione da DOC a OFT come parte della generazione automatizzata di contenuti, aiutando i team a creare modelli di messaggi coerenti e a migliorare l'efficienza della comunicazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Modelli email riutilizzabili**
+  Converti le bozze di documento in modelli OFT per comunicazioni ripetibili.
+
+* **Messaggistica standardizzata**
+  Garantisci una struttura e una formulazione coerenti in tutti i flussi di email ricorrenti.
+
+* **Contatti basati su modelli**
+  Riutilizza il contenuto di documenti formali in strutture di messaggi riutilizzabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Produzione automatizzata di modelli**
+  Genera file OFT dal contenuto DOC per sistemi di campagne o notifiche.
+
+* **Pipeline di messaggistica guidate dal documento**
+  Converti il testo del documento approvato in modelli pronti per la personalizzazione a valle.
+
+* **Operazioni di comunicazione scalabili**
+  Gestisci programmaticamente ampie librerie di formati di messaggi riutilizzabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

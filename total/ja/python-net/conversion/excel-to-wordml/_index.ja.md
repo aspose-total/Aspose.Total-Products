@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における Excel から WordML への変換は、スプレッドシートの内容を XML ベースのワードプロセッシング文書に変換し、構造化文書の交換やシステムレベルの処理に役立ちます。機械可読で標準指向の形式で文書内容が必要なワークフローで価値があります。
+
+この変換は、Python アプリケーションが統合が多い、変換に重点を置く、または検証主導のパイプラインに適した構造化文書出力を生成できるようにすることで、オートメーションを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **構造化文書交換**  
+  XML ベースの文書表現の恩恵を受けるワークフロー向けに、Excel データを WordML に変換します。
+
+* **システム統合**  
+  文書をプログラムで解析、検証、または変換する必要がある場合に、WordML 出力を使用します。
+
+* **データからマークアップへのワークフロー**  
+  スプレッドシートの内容を構造化処理に適した文書形式に再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **XML ベースの文書自動化**  
+  Excel 入力から WordML ファイルを生成し、文書処理システムとの統合に使用します。
+
+* **変換パイプライン**  
+  構造化されたスプレッドシートデータを機械可読な文書出力に変換するワークフローをサポートします。
+
+* **プログラムによるコンテンツ処理**  
+  XML 互換形式に依存するシステム向けに、Python API を使用して文書生成を自動化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

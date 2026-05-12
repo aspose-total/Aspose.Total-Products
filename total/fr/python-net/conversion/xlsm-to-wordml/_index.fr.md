@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLSM vers WordML convertit le contenu de feuilles de calcul avec macros en un format de traitement de texte basé sur XML, conçu pour la représentation structurée de documents. Elle est utile lorsque les organisations ont besoin de sorties de documents compatibles avec des systèmes centrés sur XML, des flux de travail de transformation de contenu ou des environnements axés sur l'intégration.
+
+Du point de vue de l'automatisation, WordML prend en charge la manipulation programmatique, l'analyse structurée et une intégration plus facile avec les systèmes qui reposent sur l'échange de contenu basé sur XML. Les API Python rendent la conversion XLSM vers WordML efficace pour la transformation de documents à grande échelle et les pipelines de flux de travail lisibles par machine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération de documents basée sur XML**
+  Convertit les données de la feuille de calcul en un format de traitement de texte structuré adapté à l'intégration système.
+
+* **Flux de travail de contenu lisibles par machine**
+  Aide les organisations à gérer les sorties de documents dans un format plus facile à analyser et à transformer.
+
+* **Échange de documentation structurée**
+  Prend en charge le transfert de contenu dérivé de feuilles de calcul vers des environnements de traitement compatibles XML.
+
+* **Publication orientée intégration**
+  Permet la génération de documents pour les flux de travail qui privilégient les modèles de contenu structuré.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de documents XML programmatiques**
+  Les API Python peuvent convertir les fichiers XLSM en sorties WordML pour des flux de travail de documents pilotés par le système.
+
+* **Transformation de contenu structuré en lot**
+  Plusieurs feuilles de calcul peuvent être converties programmatiquement en documents basés sur XML à grande échelle.
+
+* **Support des flux de travail d'intégration**
+  Les sorties WordML peuvent alimenter les systèmes en aval qui nécessitent des documents structurés et traitables par machine.
+
+* **Échange de contenu automatisé**
+  La conversion aide à faire le lien entre les sources de feuilles de calcul et les processus de publication, de stockage et de transformation basés sur XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

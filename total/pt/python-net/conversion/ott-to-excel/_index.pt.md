@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de OTT para Excel nas APIs Python converte modelos de texto OpenDocument em pastas de trabalho compatíveis com planilhas, facilitando a análise, organização e reutilização do conteúdo dos documentos em ambientes centrados em dados. Isso é útil quando informações textuais precisam de apresentação tabular ou relatórios empresariais.
+
+A conversão aprimora a automação ao mover o conteúdo do modelo para fluxos de trabalho de planilhas, onde fórmulas, filtros, validações e processos de integração podem operar em escala com intervenção manual mínima.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Estruturação de Dados Empresariais**  
+  Move o conteúdo do modelo para forma de pasta de trabalho para revisão e processamento.
+
+* **Reuso Analítico**  
+  Torna as informações derivadas do documento mais fáceis de ordenar, filtrar e calcular.
+
+* **Relatórios Operacionais**  
+  Apoia a transformação de modelos de texto em ativos de relatório.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Recorrente de Pastas de Trabalho**  
+  Converte arquivos OTT padrão em saídas Excel em execuções programadas.
+
+* **Pipelines de Enriquecimento de Dados**  
+  Combina o conteúdo extraído do documento com fórmulas e regras de planilha.
+
+* **Distribuição Automatizada**  
+  Produz saídas de pastas de trabalho para equipes, sistemas ou processos de relatório.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

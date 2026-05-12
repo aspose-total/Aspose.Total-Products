@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLAM에서 DOT 변환을 Python API로 수행하면 Excel 추가 기능 콘텐츠를 일관된 문서 작성을 위해 사용되는 Word 템플릿 파일로 변환할 수 있습니다. 스프레드시트에서 유래된 구조나 재사용 가능한 콘텐츠를 표준화된 Word 기반 문서 템플릿의 일부로 만들어야 할 때 유용합니다.
+
+자동화 관점에서 XLAM에서 DOT 변환은 반복 가능한 스프레드시트 콘텐츠를 재사용 가능한 문서 기반으로 전환함으로써 템플릿 기반 시스템을 지원합니다. 효율성을 향상하고 서식 불일치를 줄이며, 조직이 미리 정의된 구조로 문서 생성을 확장하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 생성**  
+  XLAM 콘텐츠를 DOT 템플릿으로 변환하여 반복 가능한 문서 생성을 가능하게 합니다.
+
+* **표준화된 문서화**  
+  조직이 스프레드시트 기반 리소스에서 파생된 일관된 문서 레이아웃을 유지하도록 돕습니다.
+
+* **재사용 가능한 비즈니스 콘텐츠**  
+  운영에 사용되는 반복 콘텐츠 블록을 Word 템플릿으로 패키징하는 것을 지원합니다.
+
+* **구조화된 보고서 기반**  
+  반복적인 보고서 형식이 필요한 팀을 위한 문서 템플릿 생성을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**  
+  Python API는 XLAM 소스에서 DOT 템플릿을 자동으로 생성하여 표준화된 보고를 지원합니다.
+
+* **반복 문서 제작**  
+  자동화 시스템은 생성된 템플릿을 사용하여 부서 전반에 걸친 반복 문서 생성을 지원할 수 있습니다.
+
+* **콘텐츠 정규화 워크플로**  
+  변환 파이프라인은 스프레드시트 기반 콘텐츠를 일관된 Word 템플릿 구조와 맞출 수 있습니다.
+
+* **기업 문서 표준화**  
+  프로그래밍 방식 변환은 대규모 팀이 문서 일관성을 대규모로 적용하도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

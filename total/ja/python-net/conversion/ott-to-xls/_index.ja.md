@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から XLS への変換は、OpenDocument のテキストテンプレートをスプレッドシートファイルに変換し、構造化されたレビュー、計算、共有を可能にします。テキストベースのソース資料をビジネスや運用で使用するワークブック形式に再編成する必要がある場合に有用です。
+
+この変換により、文書コンテンツが直接スプレッドシートベースのプロセスに流れ込み、分析、検証、レポートを効率的に繰り返すことができるため、オートメーションが強化されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ワークブック生成**  
+  文書テンプレートを編集可能なスプレッドシートファイルに変換します。
+
+* **データ整理**  
+  テキストコンテンツを行と列に構造化し、扱いやすくします。
+
+* **レポート支援**  
+  スプレッドシートベースの要約のためにソース情報を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スプレッドシートエクスポート**  
+  定期的な OTT コンテンツから XLS ファイルを生成します。
+
+* **運用データ処理**  
+  テンプレート由来の情報をワークブックのワークフローに移行します。
+
+* **スケジュールされたレポートパイプライン**  
+  定期的なビジネスレビューのためにスプレッドシート出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

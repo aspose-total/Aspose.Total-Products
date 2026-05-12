@@ -53,7 +53,41 @@ Używamy API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOT do MHTML przekształca szablony edytorów tekstu w pliki archiwum internetowego, które łączą zawartość w jedną przenośną jednostkę. Jest to przydatne do zachowania układu, udostępniania zawartości dokumentu w formatach zgodnych z siecią oraz upraszczania dystrybucji w formie samodzielnego pliku.
+
+Interfejsy API Pythona sprawiają, że konwersja DOT do MHTML jest praktyczna w zautomatyzowanych środowiskach, w których dokumenty muszą być publikowane, archiwizowane lub przesyłane jako kompaktowe pliki gotowe do użycia w sieci.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport archiwum internetowego**
+  Konwertuj pliki DOT do MHTML, aby umożliwić przenośne i przyjazne przeglądarce udostępnianie dokumentów.
+
+* **Zachowanie w jednym pliku**
+  Przechowuj zawartość dokumentu w samodzielnym formacie, który upraszcza transfer i dostęp.
+
+* **Dystrybucja z zachowaniem układu**
+  Zachowaj prezentację dokumentu w archiwum zgodnym z siecią, przeznaczonym do przeglądu lub publikacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane pakowanie sieciowe**
+  Procesy w Pythonie mogą generować pliki MHTML z szablonów DOT dla łańcuchów publikacji.
+
+* **Tworzenie treści archiwalnych**
+  Konwersja wspiera powtarzalne tworzenie przenośnych archiwów internetowych ze źródeł dokumentów.
+
+* **Masowa publikacja dokumentów**
+  Procesy programistyczne mogą efektywnie generować wyjścia MHTML z wielu szablonów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

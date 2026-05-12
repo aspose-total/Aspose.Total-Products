@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de OFT para GIF usando APIs Python renderiza modelos de e‑mail do Outlook em arquivos de imagem leves, adequados para pré‑visualizações, compartilhamento rápido e documentação visual. Isso é útil quando o conteúdo do e‑mail deve ser preservado como uma imagem simples com ampla compatibilidade entre plataformas e ferramentas.
+
+Do ponto de vista da automação, a conversão de OFT para GIF suporta geração escalável de pré‑visualizações, arquivamento leve e integração rápida com fluxos de trabalho visuais. Ela reduz o esforço manual de renderização enquanto melhora a acessibilidade do conteúdo em sistemas baseados em imagens.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Pré‑visualizações Visuais Leves**  
+  Converta arquivos OFT em imagens GIF para pré‑visualizações de modelos compactas e facilmente compartilháveis.
+
+* **Arquivamento de Layout de Email**  
+  Preserve a aparência visual dos modelos em um formato de imagem simples para registro.
+
+* **Suporte à Revisão de Conteúdo**  
+  Use as saídas GIF em portais de revisão ou documentação onde visuais de carregamento rápido são importantes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Pré‑visualizações**  
+  Produza pré‑visualizações GIF a partir de modelos OFT para painéis, repositórios ou sistemas de aprovação.
+
+* **Conversão Visual em Lote**  
+  Converta grandes conjuntos de modelos em imagens GIF para catalogação e verificação de conteúdo.
+
+* **Publicação Dinâmica de Ativos**  
+  Alimente os arquivos GIF gerados em sistemas de conteúdo que precisam de ativos visuais de renderização rápida.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

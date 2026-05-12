@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion RTF vers Email transforme les documents texte formatés en contenu prêt à être envoyé par courriel, pouvant être intégré aux communications sortantes, aux notifications ou aux modèles de messages. Elle est utile pour réutiliser le texte de rapports, les avis, les résumés ou le contenu destiné aux clients sous un format adapté à la communication.
+
+Dans les environnements automatisés, RTF vers Email prend en charge des flux de messagerie évolutifs en convertissant le contenu des documents rédigés en corps de courriel réutilisables pour les alertes, les campagnes, les approbations et les communications transactionnelles.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rédaction d'e-mails basée sur les documents**  
+  Convertit le contenu texte enrichi en messages e‑mail réutilisables pour la communication interne ou externe.
+
+* **Distribution d'avis et de mises à jour**  
+  Permet l'envoi d'annonces ou de résumés dérivés de documents préparés.
+
+* **Messagerie pilotée par des modèles**  
+  Aide à transformer le contenu standard des documents en sorties e‑mail cohérentes pour les équipes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de notifications**  
+  Les systèmes peuvent convertir les fichiers RTF en contenu e‑mail pour une diffusion planifiée ou déclenchée par un événement.
+
+* **Messagerie d'approbation de flux de travail**  
+  Les résumés de documents peuvent être transformés automatiquement en demandes d'approbation et en e‑mails de statut.
+
+* **Processus de diffusion massive**  
+  Les pipelines de communication à haut volume bénéficient de la conversion des actifs texte préparés en contenu e‑mail évolutif.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

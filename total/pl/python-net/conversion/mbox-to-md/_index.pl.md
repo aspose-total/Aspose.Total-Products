@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji MBOX do MD w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja MBOX do MD przekształca archiwa skrzynek pocztowych w pliki Markdown, ułatwiając czytanie, wersjonowanie i ponowne wykorzystanie treści e‑mail w lekkich systemach dokumentacji opartej na tekście. Ten format jest idealny do przenoszenia treści, przepływów pracy deweloperów oraz środowisk zarządzania wiedzą.
+
+Dzięki interfejsom API w Pythonie konwersję MBOX do Markdown można zautomatyzować, aby wspierać skalowalne wydobywanie treści, publikację statyczną oraz efektywną integrację z nowoczesnymi potokami dokumentacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Lekkodokumentacja tekstowa**
+  Konwertuj e‑maile do Markdown, aby uzyskać czystą, czytelną i przenośną dokumentację.
+
+* **Integracja z bazą wiedzy**
+  Wykorzystaj zawartość skrzynki pocztowej w wiki, repozytorium lub w przepływach pracy z treściami statycznymi.
+
+* **Archiwizacja przyjazna wersjonowaniu**
+  Przechowuj skonwertowaną treść e‑maili w formacie sprzyjającym śledzeniu i aktualizacjom.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Generowanie treści statycznych**
+  Automatycznie konwertuj dane skrzynki pocztowej do Markdown w celu publikacji lub indeksowania.
+
+* **Przepływy pracy oparte na repozytorium**
+  Użyj Pythona, aby przenieść archiwa e‑maili do systemów zarządzania treścią skoncentrowanych na tekście.
+
+* **Skalowalne potoki dokumentacji**
+  Przekształcaj pliki MBOX wsadowo w ustrukturyzowane zasoby Markdown do ponownego użycia.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da FODS a DOCM trasforma i file di foglio di calcolo OpenDocument piatti in documenti Word con macro, rendendola utile per flussi di lavoro che richiedono contenuti modificabili combinati con funzionalità avanzate del documento. Questa conversione supporta ambienti in cui i dati di origine basati su fogli di calcolo devono essere incorporati in documenti strutturati con elementi dinamici o programmabili.
+
+Dal punto di vista dell'automazione, la conversione da FODS a DOCM aiuta a costruire flussi di lavoro documentali intelligenti che combinano la trasformazione dei dati con l'elaborazione abilitata alle macro. Le API Python semplificano l'automazione di conversioni su larga scala, collegano la generazione di documenti ai sistemi aziendali e supportano processi di consegna di contenuti ripetibili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Reportistica con macro**  
+  Converti i dati del foglio di calcolo in documenti DOCM che possono supportare logiche avanzate di automazione del documento.
+
+* **Documentazione di processo**  
+  Trasforma il contenuto FODS strutturato in file modificabili adatti a flussi di lavoro guidati e contenuti procedurali.
+
+* **Output basato su template**  
+  Utilizza file DOCM quando i dati convertiti devono adattarsi a modelli di documento con funzionalità di automazione integrate.
+
+* **Distribuzione di documenti operativi**  
+  Fornisci documenti basati sui dati in un formato adatto per modifiche controllate e gestione dei processi interni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Assemblaggio automatico di documenti**  
+  Le API Python possono convertire i file FODS in output DOCM come parte delle pipeline di creazione dei documenti.
+
+* **Supporto a flussi di lavoro basati su regole**  
+  I sistemi automatizzati possono preparare documenti con macro per ambienti che richiedono azioni documentali estese.
+
+* **Conversione di massa per operazioni aziendali**  
+  Grandi gruppi di file FODS possono essere trasformati in formato DOCM in modo programmatico per coerenza e scalabilità.
+
+* **Preparazione di output dinamico**  
+  I flussi di lavoro di conversione possono generare documenti DOCM pronti per ulteriori modifiche automatiche o elaborazioni strutturate.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de Word en e‑mail à l’aide des API Python transforme le contenu des documents en sortie prête à être utilisée dans les e‑mails, pouvant servir à la génération de messages, à la réutilisation de contenu et aux flux de travail de communication. Cela est utile lorsque des rapports, avis ou modèles rédigés dans des fichiers de traitement de texte doivent être réutilisés pour une distribution directe.
+
+Dans les pipelines d’automatisation modernes, cette conversion aide à faire le lien entre la rédaction de documents et l’exécution de communications en permettant une génération évolutive de contenu compatible avec les e‑mails pour les alertes, la prospection et les processus de messagerie transactionnelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Messagerie basée sur des modèles**  
+  Réutilise le contenu du document comme base pour la communication par e‑mail sortante.
+
+* **Distribution de rapports**  
+  Convertit les documents préparés en formats prêts à être envoyés par e‑mail pour les partager avec des équipes ou des clients.
+
+* **Préparation du contenu de notification**  
+  Aide à transformer les documents Word formels en messages structurés pour une livraison automatisée.
+
+* **Simplification du flux de travail de communication**  
+  Réduit le besoin de copier et d’adapter manuellement le contenu du document dans les systèmes de messagerie.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d’e‑mail automatisée**  
+  Convertit les documents Word approuvés en contenu d’e‑mail pour un envoi planifié ou déclenché par un événement.
+
+* **Réutilisation du contenu de campagne**  
+  Utilise les modèles de documents comme sources pour des e‑mails d’information ou opérationnels récurrents.
+
+* **Alertes basées sur le flux de travail**  
+  Génère des messages e‑mail à partir de documents lorsque des règles métier ou des déclencheurs système sont remplis.
+
+* **Publication de contenu centralisée**  
+  Permet à un document source unique d’alimenter plusieurs canaux de communication de manière programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

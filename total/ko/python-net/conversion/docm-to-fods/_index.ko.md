@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to FODS 변환은 매크로가 포함된 문서를 평면 오픈 스프레드시트 파일로 변환하여 구조화된 문서 데이터를 오픈 및 XML 기반 스프레드시트 워크플로우에서 재사용할 수 있게 합니다. 투명성, 이식성 및 표준화된 데이터 표현이 중요한 경우에 유용합니다.
+
+자동화된 시스템에서 DOCM to FODS 변환은 반복 가능한 데이터 추출 및 읽기 쉽고 구조화된 스프레드시트 형식을 선호하는 오픈 문서 파이프라인으로의 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 변환**
+  문서 데이터를 오픈 생태계에 적합한 평면 스프레드시트 형식으로 이동합니다.
+
+* **XML 기반 데이터 이식성**
+  구조화된 콘텐츠를 검사 및 교환하기 쉬운 형식으로 보존하는 데 도움이 됩니다.
+
+* **워크플로우 표준화**
+  스프레드시트 작업에 오픈 문서 표준을 사용하는 조직을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 오픈 포맷 내보내기**
+  표준화된 처리를 위해 DOCM 파일을 FODS 출력으로 변환합니다.
+
+* **XML 파이프라인과의 통합**
+  문서 데이터가 구조화된 마크업 기반 스프레드시트와 작업하는 시스템으로 흐르도록 합니다.
+
+* **대량 표준화 작업**
+  대규모 배치에서 문서 테이블을 평면 스프레드시트 파일로 정규화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

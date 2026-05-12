@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 PST를 TEXT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 PST를 TEXT로 변환하면 메일함 내용을 인덱싱, 분석 및 가벼운 보관용으로 순수 텍스트로 추출합니다. 형식보다 가독성에 중점을 두는 경우, 특히 검색 가능성과 처리 효율성을 우선시하는 시스템에서 유용합니다.
+
+자동화를 위해 PST를 TEXT로 변환하면 텍스트 마이닝, 콘텐츠 추출 및 단순 구조화된 입력에 최적화된 파이프라인과의 통합을 지원합니다. 이를 통해 메일함 보관 파일을 대규모로 파싱, 변환 및 분석하기가 쉬워집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **Plain Text Extraction**
+  PST 콘텐츠를 텍스트로 변환하여 메시지 데이터를 깔끔하고 형식 없는 형태로 접근합니다.
+
+* **Search and Index Support**
+  메일함 보관 파일을 검색 및 콘텐츠 발견 워크플로에 적합하도록 준비합니다.
+
+* **Analysis-Ready Output**
+  형식이 있는 문서보다 단순 텍스트가 선호되는 다운스트림 처리에 활용됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **Text Processing Pipelines**
+  자동화 시스템이 PST에서 추출한 텍스트를 인덱싱 또는 분석 워크플로에 전달할 수 있습니다.
+
+* **Data Extraction Workflows**
+  순수 텍스트 출력은 파싱, 필터링 및 변환 작업을 단순화합니다.
+
+* **Scalable Content Mining**
+  프로그래밍 방식 변환을 통해 대규모 메일함 보관 파일을 보다 효율적으로 분석할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

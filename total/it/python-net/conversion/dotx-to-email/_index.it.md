@@ -46,7 +46,45 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to EMAIL conversion converts Word template content into email-ready output for communication workflows, notifications, and automated messaging scenarios. It is useful when formal document content must be repurposed as structured email communication.
+
+La conversione da DOTX a EMAIL trasforma il contenuto dei modelli Word in output pronto per l'email, per flussi di lavoro di comunicazione, notifiche e scenari di messaggistica automatizzata. È utile quando il contenuto di documenti formali deve essere riutilizzato come comunicazione email strutturata.
+
+This process supports automation by enabling Python-based generation of reusable email content from document templates, helping organizations scale outreach, alerts, and transactional communication efficiently.
+
+Questo processo supporta l'automazione consentendo la generazione basata su Python di contenuti email riutilizzabili a partire da modelli di documento, aiutando le organizzazioni a scalare in modo efficiente le attività di outreach, gli avvisi e le comunicazioni transazionali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Messaggistica basata su modello**
+  Trasforma i modelli di documento in contenuto email per una comunicazione coerente.
+
+* **Preparazione delle notifiche**
+  Riutilizza il testo formattato del documento in aggiornamenti di stato o avvisi automatizzati.
+
+* **Flussi di lavoro documento‑a‑comunicazione**
+  Collega la creazione di documenti formali ai processi di messaggistica in uscita.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di email in massa**
+  Converti più modelli DOTX in contenuto pronto per l'email per campagne programmate.
+
+* **Notifiche attivate**
+  Utilizza l'output convertito in flussi di lavoro basati su eventi che inviano email automatiche.
+
+* **Corrispondenza guidata dal flusso di lavoro**
+  Integra la generazione di email basata su documenti nei sistemi di approvazione o supporto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

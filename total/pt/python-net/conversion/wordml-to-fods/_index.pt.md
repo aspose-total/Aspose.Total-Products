@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para FODS exporta conteúdo estruturado baseado em documentos para o formato Flat OpenDocument Spreadsheet, que é útil para fluxos de trabalho de planilhas de padrão aberto e processamento baseado em XML. Ela suporta ambientes que priorizam formatos de dados transparentes, portáteis e orientados a padrões.
+
+APIs Python ajudam a automatizar a conversão de WordML para FODS ao transformar tabelas e texto estruturado em representações de planilhas abertas adequadas para processos de integração escalável e validação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Conversão de Planilha Aberta**
+  Converte tabelas WordML em um formato plano de planilha aberta para processamento padronizado.
+
+* **Manipulação de Dados Amigável a XML**
+  Suporta fluxos de trabalho que se beneficiam de estruturas XML de planilha legíveis e portáteis.
+
+* **Troca Baseada em Padrões**
+  Permite o compartilhamento de dados estruturados em ecossistemas de documentos abertos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Exportação em Formato Aberto**
+  Automatiza a conversão de WordML para FODS para fluxos de trabalho compatíveis com padrões.
+
+* **Tarefas de Validação e Transformação**
+  Utiliza a saída de planilha XML plana em rotinas automatizadas de inspeção ou transformação.
+
+* **Modernização de Repositório**
+  Ajuda a migrar dados tabulares baseados em documentos para formatos de planilha abertos e processáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

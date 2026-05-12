@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de Word para XLT usando APIs Python permite a conversão de conteúdo de processamento de texto em arquivos de modelo de planilha clássicos para criação repetida de pastas de trabalho. Isso é útil quando estruturas baseadas em documentos ou layouts de dados recorrentes precisam se tornar modelos de planilha reutilizáveis em ambientes legados.
+
+Em ambientes de automação, essa conversão apoia consistência e escala ao transformar conteúdo criado em documentos em estruturas de pastas de trabalho repetíveis para uso operacional contínuo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Modelo Legado**
+  Converte o conteúdo do documento em modelos de planilha clássicos para uso repetido.
+
+* **Estruturas Padronizadas de Pastas de Trabalho**
+  Ajuda a manter a consistência em saídas recorrentes de planilhas.
+
+* **Layouts de Relatórios Reutilizáveis**
+  Suporta a geração repetida de planilhas a partir de estruturas de conteúdo aprovadas.
+
+* **Compatibilidade com Sistemas Antigos**
+  Permite fluxos de trabalho baseados em modelos em ambientes tradicionais de planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Fluxos de Trabalho de Provisionamento de Modelos**
+  Gera automaticamente arquivos XLT a partir de documentos Word para uso operacional regular.
+
+* **Automação Recorrente de Planilhas**
+  Usa modelos derivados de documentos para padronizar a criação de pastas de trabalho.
+
+* **Suporte a Processos Legados**
+  Integra as saídas de modelos em sistemas existentes que dependem de padrões de planilhas mais antigos.
+
+* **Geração em Lote de Ativos Reutilizáveis**
+  Produz múltiplos arquivos de modelo a partir de documentos fonte padronizados de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

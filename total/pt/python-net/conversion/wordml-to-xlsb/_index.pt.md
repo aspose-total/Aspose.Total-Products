@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para XLSB converte conteúdo estruturado baseado em documentos em arquivos de planilha binários otimizados para armazenamento eficiente e manipulação de grandes pastas de trabalho. Isso é valioso quando os dados convertidos precisam de funcionalidade de planilha com características de desempenho aprimoradas.
+
+APIs Python ajudam a automatizar a conversão de WordML para XLSB ao extrair e organizar tabelas de documentos em saídas de pastas de trabalho binárias adequadas para fluxos de trabalho de dados escaláveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Armazenamento Eficiente de Pastas de Trabalho**
+  Converte o conteúdo WordML em arquivos XLSB para manuseio compacto de planilhas.
+
+* **Suporte a Fluxos de Trabalho com Grandes Dados**
+  Ajuda a gerenciar conjuntos de dados convertidos de grande porte em formato compatível com planilhas.
+
+* **Transformação Estruturada de Tabelas**
+  Torna os dados do documento utilizáveis em ambientes de pastas de trabalho orientados ao desempenho.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Conversão de Planilhas em Alto Volume**
+  Automatiza a geração de XLSB a partir de grandes conjuntos de documentos WordML.
+
+* **Pipelines de Dados Focados em Desempenho**
+  Suporta fluxos de trabalho que se beneficiam de saídas de planilhas binárias.
+
+* **Preparação de Relatórios Escaláveis**
+  Permite a conversão recorrente de tabelas de documentos em ativos de pastas de trabalho eficientes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

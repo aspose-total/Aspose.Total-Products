@@ -46,9 +46,49 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da PDF a MBOX usando le API Python consente di trasformare il contenuto PDF in un formato di archivio mailbox utilizzato per memorizzare collezioni di messaggi email. Questo è utile quando le informazioni dei documenti devono essere incorporate nei flussi di lavoro di archiviazione email o preservate in repository di messaggi di massa.
+
+L'automazione di questa conversione supporta operazioni di archiviazione scalabili, processi di migrazione e archiviazione strutturata delle comunicazioni. Riduce lo sforzo manuale consentendo ai documenti PDF di essere preparati programmaticamente per sistemi che si basano su formati di dati mailbox consolidati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso chiave" %}}
+
+* **Creazione di archivio mailbox**  
+  Converti il contenuto PDF in record compatibili MBOX per scopi di archiviazione e conservazione.
+
+* **Imballaggio di comunicazioni di massa**  
+  Organizza i messaggi derivati da documenti in collezioni mailbox per la portabilità del sistema.
+
+* **Integrazione di archivi email**  
+  Utilizza gli output convertiti in ambienti che gestiscono dati tramite contenitori MBOX.
+
+* **Preservazione dei record**  
+  Preserva le informazioni basate su PDF all'interno dei flussi di lavoro di archiviazione dei messaggi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di archivi batch**  
+  I flussi di lavoro Python possono elaborare molti PDF in output compatibili MBOX automaticamente.
+
+* **Pipeline di conservazione per conformità**  
+  Il contenuto convertito può essere inserito nei repository di archiviazione per la conservazione a lungo termine.
+
+* **Preparazione alla migrazione**  
+  I sistemi possono impacchettare il contenuto derivato da PDF per il trasferimento su piattaforme basate su mailbox.
+
+* **Aggiornamenti automatizzati del repository**  
+  I documenti PDF in ingresso possono essere continuamente convertiti e aggiunti ai flussi di lavoro di archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

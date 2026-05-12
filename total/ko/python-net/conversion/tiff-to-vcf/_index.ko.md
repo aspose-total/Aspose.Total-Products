@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 TIFF를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 TIFF에서 VCF로의 변환은 연락처 정보를 포함한 이미지 기반 문서를 디지털 주소록 및 통신 시스템용 구조화된 연락처 카드 형식으로 변환할 수 있게 합니다. 이는 스캔한 명함, 양식 또는 시각적 연락처 기록을 검색 가능하고 재사용 가능한 연락처 항목으로 만들어야 할 때 유용합니다.
+
+자동화 관점에서 TIFF에서 VCF로의 변환은 연락처 수집 효율성을 향상시키고, 수동 데이터 입력을 감소시키며, 문서 이미지화와 연락처 관리 워크플로 간의 확장 가능한 통합을 지원합니다. 이는 정적인 시각적 연락처 데이터를 실행 가능한 비즈니스 정보로 변환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **명함 디지털화**
+  연락처 카드의 TIFF 이미지를 VCF 호환 디지털 연락처 레코드로 변환합니다.
+
+* **양식 기반 연락처 추출**
+  스캔한 등록 또는 접수 문서를 재사용 가능한 연락처 항목으로 변환하는 데 도움을 줍니다.
+
+* **주소록 채우기**
+  시각적 연락처 데이터를 구조화된 연락처 관리 시스템으로 이동하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 연락처 수집**
+  TIFF 기반 연락처 문서를 즉시 시스템에 가져올 수 있는 VCF 출력으로 변환합니다.
+
+* **리드 캡처 워크플로**
+  스캔한 연락처 자료를 구조화된 잠재고객 레코드로 자동 변환하는 것을 지원합니다.
+
+* **디렉터리 동기화 프로세스**
+  이미지 기반 소스 파일에서 디지털 연락처 카드를 프로그래밍 방식으로 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

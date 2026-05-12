@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から MD への変換は、Outlook のメールテンプレートを軽量で構造化された、かつポータブルなテキストベースのコンテンツ管理が可能な Markdown ファイルに変換します。テンプレートコンテンツをドキュメントシステム、開発者のワークフロー、またはコンテンツ公開パイプラインで再利用する必要がある場合に便利です。
+
+自動化が主導する環境では、OFT から MD への変換はバージョン管理、簡単な編集、そして静的サイトジェネレータやドキュメンテーションプラットフォームとのシームレスな統合をサポートします。コンテンツのポータビリティが向上し、プログラムによる処理が簡素化されます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **ドキュメント再利用**  
+  OFT テンプレートを Markdown に変換し、ガイド、ナレッジベース、または社内ドキュメントに組み込みます。
+
+* **バージョン管理されたコンテンツ管理**  
+  変換されたコンテンツをテキストベースのリポジトリに保存し、追跡と共同編集を可能にします。
+
+* **構造化された公開準備**  
+  メール由来のコンテンツを静的サイトや Markdown ベースの公開システム向けに準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **コンテンツパイプラインの自動化**  
+  OFT ファイルを自動的に Markdown に変換し、公開およびドキュメントワークフローに活用します。
+
+* **リポジトリベースのテンプレート管理**  
+  変換された MD ファイルをソース管理されたシステムにプッシュし、スケーラブルな保守を実現します。
+
+* **プログラムによるコンテンツ変換**  
+  Python API を使用してテンプレートコンテンツを正規化し、最新のテキストベースプラットフォーム全体に配布します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 XLSX로 변환은 문서 기반 구조화된 콘텐츠를 분석, 보고 및 데이터 공유에 널리 사용되는 최신 스프레드시트 파일로 변환합니다. 특히 문서 표를 편집 가능하고, 수식 준비가 되며, 통합 친화적인 워크북 데이터로 만들어야 할 때 유용합니다.
+
+Python API는 콘텐츠를 정확하게 추출하고 문서-스프레드시트 변환을 자동화 파이프라인에 통합함으로써 WordML에서 XLSX로의 변환을 확장 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 스프레드시트 내보내기**
+  WordML 표를 편집, 분석 및 보고를 위한 XLSX 파일로 변환합니다.
+
+* **비즈니스 데이터 준비**
+  구조화된 문서 콘텐츠를 운영 및 분석 워크플로에 적합하게 만듭니다.
+
+* **시스템 간 데이터 교환**
+  문서 데이터를 스프레드시트 기반 플랫폼으로 신뢰성 있게 이동할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 워크북 생성**
+  대규모 워크플로를 위해 WordML 문서를 자동으로 XLSX 파일로 변환합니다.
+
+* **보고 및 분석 자동화**
+  변환된 스프레드시트 출력을 대시보드와 검토 프로세스에 제공합니다.
+
+* **데이터 추출 파이프라인**
+  문서 표를 워크북 형태로 표준화하여 하위 자동화에 활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

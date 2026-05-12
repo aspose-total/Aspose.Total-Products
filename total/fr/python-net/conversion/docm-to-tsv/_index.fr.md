@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers TSV convertit les documents contenant des macros en valeurs séparées par des tabulations, facilitant l'analyse, le transfert et la réutilisation du contenu structuré dans les flux de travail de données. Elle est particulièrement utile lorsque les tableaux de documents nécessitent un format texte simple avec une séparation claire des champs.
+
+Dans les environnements d'automatisation, la conversion DOCM vers TSV prend en charge un échange de données fiable, l'ingestion dans les pipelines de traitement et la transformation évolutive du contenu des documents en sorties structurées légères.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de tableau pour le traitement**
+  Convertit les tableaux de documents en une structure textuelle adaptée aux flux de travail de données.
+
+* **Échange de données léger**
+  Facilite le déplacement du contenu structuré entre les outils avec un minimum de surcharge de formatage.
+
+* **Préparation à l'importation**
+  Aide à préparer les enregistrements dérivés de documents pour les systèmes qui acceptent les entrées délimitées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportations structurées récurrentes**
+  Automatise la conversion DOCM vers TSV pour les flux de travail opérationnels continus.
+
+* **Préparation de données adaptée aux pipelines**
+  Produit des sorties qui peuvent être facilement analysées dans les scripts et les tâches d'intégration.
+
+* **Flux de travail de transformation par lots**
+  Convertit de nombreux fichiers DOCM en sorties TSV cohérentes de manière programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

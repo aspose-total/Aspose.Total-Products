@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a XLT trasforma il contenuto dei documenti in un formato di modello di foglio di calcolo che supporta la creazione ripetibile di cartelle di lavoro. Questo è utile quando le strutture dati derivate dai documenti devono diventare layout di fogli di calcolo riutilizzabili per un uso operativo continuo.
+
+Utilizzando le API Python, la conversione da ODT a XLT supporta l'automazione guidata da modelli, la reportistica standardizzata e i flussi di lavoro dati ripetibili. Aiuta a trasformare il contenuto statico dei documenti in risorse di foglio di calcolo riutilizzabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli di Foglio di Calcolo**  
+  Converte il contenuto estratto in strutture di cartelle di lavoro riutilizzabili.
+
+* **Layout di Report Standardizzati**  
+  Aiuta a mantenere la coerenza nei risultati ricorrenti dei fogli di calcolo.
+
+* **Framework Dati Riutilizzabili**  
+  Supporta la generazione ripetuta di cartelle di lavoro da contenuti sorgente simili.
+
+* **Efficienza Operativa**  
+  Riduce il lavoro ripetitivo di configurazione nella preparazione dei fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Pipeline di Generazione di Modelli**  
+  Gli script Python possono convertire automaticamente i dati derivati da ODT in modelli XLT.
+
+* **Preparazione Ricorrente di Cartelle di Lavoro**  
+  Le strutture basate su documenti possono essere riutilizzate in flussi di lavoro di fogli di calcolo ripetuti.
+
+* **Standardizzazione di Modelli in Batch**  
+  Più file sorgente possono essere trasformati in formati di foglio di calcolo riutilizzabili.
+
+* **Creazione di Report Guidata dal Processo**  
+  Gli output dei modelli possono supportare la generazione automatizzata di cartelle di lavoro a valle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

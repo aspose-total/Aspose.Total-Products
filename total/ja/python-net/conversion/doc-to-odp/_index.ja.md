@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCからODPへの変換は、WordのコンテンツをスライドベースのコミュニケーションをサポートするOpenDocumentプレゼンテーションファイルに変換します。物語やレポートのコンテンツを編集可能なプレゼンテーションに変換する必要がある場合に有用です。
+
+DOCからODPへの変換を行うPython APIの自動化は、プレゼンテーションの作成を効率化し、手動での書式設定時間を削減し、文書主導のコンテンツを共同スライドワークフローに統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーション作成**
+  会議、トレーニング、ブリーフィング用に文書コンテンツをODPスライドに変換します。
+
+* **オープンフォーマットでのコラボレーション**
+  標準ベースのオフィス形式に依存するプレゼンテーションワークフローをサポートします。
+
+* **レポートの再利用**
+  既存の文書資料をスライド用の構造に再利用し、視覚的に提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スライドデック生成**
+  DOCレポートを自動的にODPプレゼンテーションに変換し、繰り返し使用できるようにします。
+
+* **クロスプラットフォームオフィスワークフロー**
+  Pythonベースの変換を使用して、大規模なオープンオフィス環境をサポートします。
+
+* **テンプレート駆動の出版**
+  構造化された文書ソースからプログラムでプレゼンテーションファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

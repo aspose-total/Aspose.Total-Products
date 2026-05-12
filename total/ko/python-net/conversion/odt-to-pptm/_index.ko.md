@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 PPTM으로 변환하면 텍스트 문서를 매크로 사용이 가능한 프레젠테이션 형식으로 변환하여 고급 슬라이드 기능 및 반복 가능한 자동화를 지원합니다. 변환된 프레젠테이션 콘텐츠가 동적 동작이나 보다 복잡한 운영 시나리오를 지원해야 할 때 유용합니다.
+
+Python API를 사용하여 ODT에서 PPTM으로 변환하면 조직이 소스 문서에서 확장 가능하고 자동화에 친화적인 프레젠테이션 출력을 생성할 수 있습니다. 이는 반복 보고, 구조화된 커뮤니케이션 및 고급 슬라이드 생성 워크플로에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **매크로 사용 프레젠테이션 출력**  
+  문서를 고급 기능을 지원하는 프레젠테이션으로 변환합니다.
+
+* **자동화된 보고 자산**  
+  반복되는 소스 콘텐츠에서 재사용 가능한 프레젠테이션을 준비하는 데 도움이 됩니다.
+
+* **구조화된 슬라이드 생성**  
+  작성된 자료를 편집 가능하고 자동화 준비가 된 프레젠테이션 파일로 변환합니다.
+
+* **고급 워크플로 지원**  
+  정적 슬라이드 콘텐츠 이상을 요구하는 환경에 적합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서-프레젠테이션 자동화**  
+  Python 스크립트를 사용하여 반복 워크플로에서 ODT 문서로부터 PPTM 파일을 생성할 수 있습니다.
+
+* **보고를 위한 일괄 변환**  
+  여러 소스 파일을 대규모로 매크로 사용 가능한 프레젠테이션으로 변환할 수 있습니다.
+
+* **운영 프레젠테이션 파이프라인**  
+  변환된 출력은 하위 검토, 편집 또는 전달 시스템에 전달될 수 있습니다.
+
+* **템플릿 및 로직 통합**  
+  슬라이드 생성은 보다 넓은 자동화 프레젠테이션 프레임워크와 연계될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX를 PPS로 변환하면 스프레드시트 내용을 직접 표시하도록 설계된 프레젠테이션 슬라이드쇼 파일로 변환합니다. 이는 스프레드시트 기반 보고서나 요약을 추가 편집 단계 없이 바로 프레젠테이션할 수 있는 형식으로 제공해야 할 때 유용합니다.
+
+자동화 사용 사례에서는 XLSX를 PPS로 변환하여 구조화된 스프레드시트 데이터에서 직접 슬라이드쇼 준비된 출력물을 생성함으로써 효율적인 보고 및 프레젠테이션 전달을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **즉시 표시 보고**  
+  스프레드시트 정보를 즉시 프레젠테이션할 수 있는 슬라이드쇼 파일로 변환합니다.
+
+* **회의 프레젠테이션 준비**  
+  데이터를 프레젠테이션 준비 자료로 전환할 때 수동 작업을 줄이는 데 도움이 됩니다.
+
+* **운영 브리핑 배포**  
+  직접 프레젠테이션 파일이 필요한 팀을 위해 슬라이드쇼 출력을 빠르게 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 전달**  
+  시스템은 반복되는 스프레드시트 보고서에서 PPS 파일을 생성하여 회의에서 즉시 사용할 수 있게 합니다.
+
+* **프레젠테이션 워크플로우 간소화**  
+  변환은 스프레드시트 기반 프레젠테이션을 게시하는 데 필요한 단계를 줄여줍니다.
+
+* **반복 디스플레이 콘텐츠 생성**  
+  프로그래밍 방식 변환은 업데이트된 XLSX 소스에서 슬라이드쇼 파일을 정기적으로 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

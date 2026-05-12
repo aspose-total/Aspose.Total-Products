@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TSV a DOCM consente di trasformare dati tabulari in documenti di elaborazione testi con macro abilitati, che supportano flussi di lavoro documentali più ricchi e esigenze di elaborazione avanzate. Questo è prezioso quando i dati strutturati devono essere consegnati in formati modificabili che si adattano a ambienti di documentazione aziendale controllati.
+
+Con le API Python, la conversione da TSV a DOCM può essere integrata in sistemi automatizzati che generano documenti riutilizzabili su larga scala, contribuendo a semplificare l'assemblaggio dei documenti, l'orchestrazione dei flussi di lavoro e la consegna di contenuti strutturati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Report con macro abilitati**  
+  Prepara documenti basati sui dati per ambienti in cui è richiesto un comportamento avanzato del documento.
+
+* **Output di documento strutturato**  
+  Converte il contenuto TSV in file modificabili adatti all'uso operativo e amministrativo.
+
+* **Packaging automatico dei contenuti**  
+  Supporta i flussi di lavoro di generazione dei documenti che necessitano di dati in un formato più interattivo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione di documenti basata su template**  
+  L'automazione può popolare formati di documento con macro abilitati a partire da set di dati TSV.
+
+* **Integrazione del flusso di lavoro aziendale**  
+  Le API Python possono collegare le esportazioni di dati ai sistemi di elaborazione documenti a valle.
+
+* **Pipeline di pubblicazione batch**  
+  Molteplici file TSV possono essere convertiti in documenti DOCM in esecuzioni automatizzate e ripetibili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

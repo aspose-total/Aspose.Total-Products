@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PPS 변환 Python API는 OpenDocument 텍스트 템플릿을 직접 표시 및 전달을 위해 설계된 프레젠테이션 쇼 파일로 변환합니다. 이는 콘텐츠를 표준 편집 가능한 프레젠테이션이 아닌 바로 실행 가능한 슬라이드쇼 형태로 공유해야 할 때 유용합니다.
+
+이 변환은 키오스크, 브리핑 및 즉시 재생과 일관된 서식이 중요한 배포 시나리오를 위해 문서 기반 프레젠테이션 쇼 생성을 가능하게 하여 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **슬라이드쇼 제공**  
+  텍스트 템플릿에서 바로 사용할 수 있는 프레젠테이션 파일을 생성합니다.
+
+* **제어된 프레젠테이션 출력**  
+  전체 편집 워크플로우 대신 직접 재생을 지원합니다.
+
+* **시각 커뮤니케이션 패키징**  
+  문서 내용을 프레젠테이션‑쇼 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 게시**  
+  반복되는 프레젠테이션이나 공지를 위한 PPS 파일을 생성합니다.
+
+* **디스플레이 워크플로우 통합**  
+  무인 또는 직접 실행 프레젠테이션 환경을 지원합니다.
+
+* **대량 브리핑 생성**  
+  여러 OTT 파일을 효율적으로 쇼‑준비 출력물로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLSM a WordML converte il contenuto di fogli di calcolo abilitati alle macro in un formato di elaborazione testi basato su XML progettato per la rappresentazione di documenti strutturati. È utile quando le organizzazioni hanno bisogno di output documentali che si allineano a sistemi incentrati su XML, flussi di lavoro di trasformazione dei contenuti o ambienti focalizzati sull'integrazione.
+
+Da una prospettiva di automazione, WordML supporta la gestione programmatica, l'analisi strutturata e un'integrazione più semplice con i sistemi che si basano sullo scambio di contenuti basato su XML. Le API Python rendono efficace la conversione da XLSM a WordML per la trasformazione documentale scalabile e per pipeline di flusso di lavoro leggibili da macchine.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di documenti basata su XML**
+  Converte i dati del foglio di calcolo in un formato di elaborazione testi strutturato adatto all'integrazione di sistema.
+
+* **Flussi di contenuto leggibili da macchine**
+  Aiuta le organizzazioni a gestire le uscite dei documenti in un formato più facile da analizzare e trasformare.
+
+* **Scambio di documentazione strutturata**
+  Supporta il trasferimento di contenuti derivati da fogli di calcolo in ambienti di elaborazione compatibili con XML.
+
+* **Pubblicazione orientata all'integrazione**
+  Consente la generazione di documenti per flussi di lavoro che privilegiano modelli di contenuto strutturato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di documenti XML programmatici**
+  Le API Python possono convertire i file XLSM in output WordML per flussi di lavoro documentali guidati dal sistema.
+
+* **Trasformazione batch di contenuti strutturati**
+  Più fogli di calcolo possono essere convertiti programmaticamente in documenti basati su XML su larga scala.
+
+* **Supporto al flusso di lavoro di integrazione**
+  Gli output WordML possono alimentare sistemi a valle che richiedono documenti strutturati e processabili da macchine.
+
+* **Scambio di contenuti automatizzato**
+  La conversione aiuta a collegare le fonti dei fogli di calcolo con processi di pubblicazione, archiviazione e trasformazione basati su XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

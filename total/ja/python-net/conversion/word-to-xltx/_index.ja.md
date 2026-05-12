@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から XLTX への変換は、文書処理コンテンツを最新のスプレッドシートテンプレートファイルに変換し、一貫したブック作成を実現します。これは、承認された文書構造をレポート、運用、または構造化データ収集のための再利用可能なスプレッドシートテンプレートにする必要がある場合に有用です。
+
+自動化されたワークフローでは、この変換により、書かれたコンテンツを最新のテンプレート資産に変換し、チームや繰り返しプロセスで再利用できるようにすることで、スプレッドシート生成の標準化に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新のブックテンプレート作成**
+  文書コンテンツを再利用可能なスプレッドシートテンプレートに変換し、継続的に使用できるようにします。
+
+* **一貫したレポート構造**
+  繰り返し行われるビジネスワークフロー全体で統一されたブックレイアウトの維持を支援します。
+
+* **テンプレートベースのデータ収集**
+  文書で定義された構造から構築された再利用可能なスプレッドシートをサポートします。
+
+* **効率的なコンテンツ再利用**
+  ソース文書をテンプレート資産に変換することで、その価値を拡張します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチテンプレート生成**
+  繰り返し使用される Word 文書から XLTX ファイルを自動的に作成します。
+
+* **標準化されたブックパイプライン**
+  最新のテンプレートを使用して、自動化システムで一貫したスプレッドシート作成を促進します。
+
+* **チーム間プロセスの整合**
+  共有された運用ワークフロー向けに再利用可能なテンプレート出力を提供します。
+
+* **文書からテンプレートへの自動化**
+  承認されたテキストコンテンツを大規模に構造化されたスプレッドシートフレームワークに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

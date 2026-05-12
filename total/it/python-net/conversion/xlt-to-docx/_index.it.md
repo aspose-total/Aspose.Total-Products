@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a DOCX in Python consente di trasformare i file modello di Excel in documenti Word moderni, ampiamente utilizzati per la documentazione professionale, la collaborazione e lo scambio di contenuti. Questa conversione è utile quando i modelli basati su fogli di calcolo contengono informazioni che devono essere presentate in un formato più pulito e adatto ai documenti.
+
+Per i sistemi automatizzati, la conversione da XLT a DOCX migliora la portabilità dei contenuti e la compatibilità dei flussi di lavoro. Supporta la generazione scalabile di documenti, semplifica l'integrazione con le piattaforme di documenti moderne e aiuta le organizzazioni a passare da risorse incentrate sui fogli di calcolo a output Word strutturati e riutilizzabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di documenti professionali**  
+  Converti i modelli XLT in file DOCX per report, moduli e documenti aziendali curati.
+
+* **Collaborazione tra team**  
+  Rendi più facile la revisione e la modifica dei contenuti originati da fogli di calcolo in un formato Word moderno standard.
+
+* **Riutilizzo dei modelli tra i sistemi**  
+  Riutilizza i modelli Excel come documenti DOCX per esigenze operative e di comunicazione più ampie.
+
+* **Miglioramento della presentazione dei contenuti**  
+  Trasforma contenuti tabulari o strutturati di fogli di calcolo in un layout di documento più leggibile e formale.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Produzione di documenti programmata**  
+  Utilizza le API Python per generare automaticamente file DOCX dai modelli XLT a intervalli definiti.
+
+* **Flussi di lavoro dati‑a‑documento**  
+  Fornisci il contenuto del modello a pipeline automatizzate che producono documenti Word moderni per l'uso a valle.
+
+* **Automazione di report scalabili**  
+  Converti grandi insiemi di modelli di fogli di calcolo in file DOCX per reporting e documentazione aziendale.
+
+* **Integrazione della consegna dei documenti**  
+  Allega gli output DOCX convertiti a flussi di lavoro automatizzati di approvazione, archiviazione o notifica.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

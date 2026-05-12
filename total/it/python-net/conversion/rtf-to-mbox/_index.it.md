@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to MBOX conversion changes formatted text documents into mailbox archive structures that can store collections of email-style messages in a single file. This is useful when document content needs to be preserved or repurposed in bulk email archive and migration workflows.
+
+Per l'automazione, RTF a MBOX consente la generazione scalabile di contenuti pronti per la mailbox a partire da documenti strutturati, supportando processi di archiviazione, migrazione e conservazione delle comunicazioni su grandi insiemi di dati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Archiviazione di messaggi in blocco**  
+  Converte il contenuto derivato dai documenti in file mailbox adatti per l'archiviazione raggruppata.
+
+* **Supporto alla migrazione del sistema di posta**  
+  Aiuta a preparare le comunicazioni basate su testo per il trasferimento in formati di posta orientati all'archiviazione.
+
+* **Conservazione centralizzata dei record**  
+  Supporta la consolidazione di più documenti simili a messaggi in un unico file di archivio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatizzata di archivi di posta**  
+  I processi di conversione possono impacchettare le comunicazioni derivate da RTF in file MBOX su larga scala.
+
+* **Flussi di lavoro per la conservazione della conformità**  
+  La trasformazione programmatica supporta l'archiviazione a lungo termine del contenuto dei messaggi per audit e governance.
+
+* **Integrazione della pipeline di migrazione**  
+  La conversione dinamica aiuta a spostare i dati di comunicazione basati su documenti in ambienti di posta compatibili con l'archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

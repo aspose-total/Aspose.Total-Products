@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion VCF vers DOCM transforme les données de cartes de contact en documents de traitement de texte à macros, permettant une diffusion de contenu structurée lorsque des comportements avancés du document sont requis. Cela est utile pour les organisations qui travaillent avec des flux de travail de documents dynamiques et des sorties modifiables.
+
+Dans les systèmes axés sur l'automatisation, la conversion VCF vers DOCM permet aux API Python de générer des documents basés sur les contacts qui s'intègrent dans des processus programmables plus vastes, notamment lorsque la logique documentaire, le formatage répétable ou les actions intégrées font partie des opérations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Documents de contact dynamiques**  
+  Convertir les enregistrements VCF en fichiers DOCM modifiables pour des flux de travail de documents avancés.
+
+* **Traitement interne structuré**  
+  Préparer les informations de contact dans des documents à macros pour une utilisation métier contrôlée.
+
+* **Documentation programmable**  
+  Prendre en charge les environnements documentaires où l'automatisation et le contenu modifiable doivent coexister.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Création automatisée de DOCM**  
+  Générer des documents à macros à partir de fichiers de contact lors d'opérations par lots.
+
+* **Flux de travail documentaires basés sur des règles**  
+  Acheminer les fichiers DOCM convertis vers des processus métier automatisés avec un formatage cohérent.
+
+* **Conditionnement évolutif des contacts**  
+  Emballer programmatiquement les données de contact en sorties DOCM réutilisables pour les flux de travail d'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

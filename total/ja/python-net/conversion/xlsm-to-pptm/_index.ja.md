@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から PPTM への変換は、マクロ対応のスプレッドシート データを、先進的なスライド ワークフローに適したマクロ対応のプレゼンテーション形式に変換します。構造化されたスプレッドシート ソースから生成されつつ、インタラクティブまたは自動化されたプレゼンテーション 動作との互換性が必要なプレゼンテーション出力に有用です。
+
+自動化された環境では、この変換はスプレッドシートのロジックとプレゼンテーションの自動化を橋渡しし、プログラムで機能豊富なスライド ファイルを作成します。Python API は、レポーティング システム、業務ブリーフィング、先進的なプレゼンテーション ワークフロー向けに、スケーラブルな XLSM から PPTM への変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応プレゼンテーション**
+  スプレッドシート データを、先進的な自動化動作をサポートするプレゼンテーション ファイルに変換します。
+
+* **インタラクティブ レポーティング**
+  静的なスライド コンテンツ以上を必要とするワークフロー向けに、プレゼンテーションの生成を支援します。
+
+* **構造化スライド自動化**
+  繰り返し使用されるスプレッドシート入力から構築されたデータ駆動型プレゼンテーションをサポートします。
+
+* **先進的なコミュニケーション資産**
+  制御された、機能を意識したビジネス プロセス向けにプレゼンテーション作成を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された先進的スライド作成**
+  Python API は、機能豊富なプレゼンテーション ワークフロー向けに XLSM ファイルを PPTM 出力に変換できます。
+
+* **バッチ プレゼンテーション処理**
+  大量のスプレッドシートをプログラムでマクロ対応プレゼンテーションに変換できます。
+
+* **統合レポーティングシステム**
+  PPTM 出力は、業務コミュニケーション向けにスプレッドシート データから自動的に生成できます。
+
+* **スケーラブルなプレゼンテーション自動化**
+  変換は、繰り返し行われるビジネス サイクル全体で先進的なスライド ファイルの一貫した生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

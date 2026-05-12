@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTX를 PST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 PST로의 변환은 Word 템플릿 콘텐츠를 메일함 및 메시지 보관 워크플로와 연관된 개인 저장 테이블 형식으로 변환합니다. 생성된 커뮤니케이션 콘텐츠를 휴대용 메일 저장 구조로 패키징해야 할 때 유용합니다.
+
+Python API를 사용하여, 이 변환은 구조화된 문서 템플릿에서 파생된 이메일 보관, 메시지 조직 및 대규모 커뮤니케이션 보존 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대용 메일 보관**
+  문서 기반 커뮤니케이션을 구조화된 메일 저장 형식으로 패키징합니다.
+
+* **메시지 보존 워크플로**
+  생성된 커뮤니케이션을 검토 및 규정 준수를 위해 보존합니다.
+
+* **커뮤니케이션 패키징**
+  재사용 가능한 문서 기반 메시지를 아카이브 지향 출력으로 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 메일 아카이브 생성**
+  보존 파이프라인에서 DOTX 기반 커뮤니케이션 콘텐츠로부터 PST 출력을 생성합니다.
+
+* **대량 메시지 저장**
+  구조화된 아카이브를 통해 대량의 생성된 서신을 처리합니다.
+
+* **문서-아카이브 자동화**
+  반복되는 템플릿 출력을 프로그래밍 방식으로 휴대용 메일함 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

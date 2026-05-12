@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OST vers OTT transforme le contenu d’une boîte aux lettres en format de modèle de document ouvert, permettant d’intégrer les informations provenant des e‑mails dans des structures de modèles réutilisables. Elle est utile aux organisations qui souhaitent une mise en forme standardisée et un contrôle de mise en page répétable dans les flux de travail de documents ouverts.
+
+Dans les contextes d’automatisation, la conversion OST vers OTT prend en charge la génération évolutive de modèles et la standardisation des documents à partir des archives de boîtes aux lettres. Les API Python rendent ce processus efficace et fiable, aidant les équipes à automatiser la documentation et les pipelines de reporting répétables.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Modèles ouverts réutilisables**  
+  Convertit les données de la boîte aux lettres en fichiers OTT pour une création de documents répétable.
+
+* **Mises en page de documentation standardisées**  
+  Aide à appliquer une structure cohérente au contenu dérivé des e‑mails dans les environnements de documents ouverts.
+
+* **Reporting basé sur des modèles**  
+  Prend en charge les productions commerciales récurrentes construites à partir du contenu de communication archivé.
+
+* **Compatibilité avec les flux de travail ouverts**  
+  Facilite l’utilisation des informations de la boîte aux lettres dans les systèmes de modèles basés sur des normes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Automatisation de la création de modèles**  
+  Des scripts Python convertissent le contenu OST en OTT pour une génération de documents standardisée.
+
+* **Pipelines de reporting répétables**  
+  Des flux de travail automatisés produisent des documents ouverts prêts à être utilisés comme modèles à partir des archives de boîtes aux lettres.
+
+* **Structuration de contenu évolutive**  
+  La conversion programmatique prend en charge la préparation à grande échelle de modèles de documents réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

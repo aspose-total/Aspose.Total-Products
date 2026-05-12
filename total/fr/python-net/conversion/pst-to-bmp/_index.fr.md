@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST en BMP dans les API Python permet de rendre le contenu de la boîte aux lettres sous forme d'images bitmap pour l'archivage visuel, la révision et le partage à mise en page fixe. Elle est utile lorsque les enregistrements d'e‑mail, le contenu des messages ou les éléments extraits doivent être conservés dans un format d'image simple pour la documentation et les flux de travail opérationnels.
+
+Dans les environnements d'automatisation, la conversion PST en BMP prend en charge la génération de sorties cohérentes, la gestion simplifiée des aperçus et l'intégration avec les pipelines de documents qui dépendent d'actifs visuels statiques. Elle aide les équipes à standardiser le contenu dérivé des e‑mails pour un traitement et un reporting évolutifs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Archivage visuel des e‑mails**
+  Convertit le contenu PST en images bitmap pour une conservation statique des enregistrements et une référence visuelle.
+
+* **Instantanés de révision opérationnelle**
+  Aide les équipes à inspecter les messages et les pièces jointes dans un format fixe et facile à visualiser.
+
+* **Documentation de conformité**
+  Prend en charge les flux de travail qui nécessitent des représentations visuelles non modifiables des données de la boîte aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Rendu par lots de boîtes aux lettres**
+  L'automatisation peut traiter de gros fichiers PST et générer des sorties BMP pour chaque élément pertinent.
+
+* **Pipelines de génération d'aperçus**
+  Les images converties peuvent être utilisées dans les systèmes qui nécessitent des aperçus visuels des messages archivés.
+
+* **Flux de travail de reporting et de preuve**
+  La conversion programmatique aide à inclure les visuels de la boîte aux lettres dans les audits, le support ou les dossiers de cas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

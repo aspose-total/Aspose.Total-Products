@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da testo a VCF tramite le API Python consente di trasformare i dettagli di contatto in testo semplice in file di contatto digitali standardizzati. Questo è utile per la condivisione dei contatti, la portabilità dei dati, la gestione dei record dei clienti e i flussi di lavoro che necessitano di informazioni di contatto strutturate da fonti di testo grezzo.
+
+Convertendo il testo in formato VCF, i sistemi di automazione possono semplificare la creazione dei contatti, sincronizzare i dati della rubrica e supportare lo scambio scalabile di record di contatto strutturati tra applicazioni e piattaforme.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione digitale di contatti**  
+  Converte i dettagli di contatto basati su testo in file VCF per un facile import e condivisione.
+
+* **Sincronizzazione della rubrica**  
+  Aiuta a standardizzare i dati dei contatti per l'integrazione tra sistemi e dispositivi.
+
+* **Gestione di lead e record dei clienti**  
+  Supporta la trasformazione di voci di testo grezzo in risorse di contatto portabili.
+
+* **Flussi di lavoro per lo scambio di contatti**  
+  Consente il trasferimento strutturato di dettagli di persone e organizzazioni tra piattaforme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **File di contatto auto‑generati**  
+  Moduli, database o script possono convertire l'input di testo in file VCF automaticamente.
+
+* **Elaborazione di contatti in blocco**  
+  Grandi volumi di dati di contatto basati su testo possono essere trasformati programmaticamente in record standardizzati.
+
+* **Integrazione CRM e directory**  
+  L'automazione può preparare file di contatto da fonti di testo per processi di onboarding, sincronizzazione o esportazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

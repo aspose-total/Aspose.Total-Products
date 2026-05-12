@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から DOTX への変換は、スプレッドシートの内容を最新の Word テンプレートファイルに変換し、継続的な文書生成に再利用できるようにします。特に、スプレッドシートデータがチームやシステム全体で繰り返し使用される標準化された文書フォーマットの基礎となる場合に有用です。
+
+Python API を使用すると、XLS から DOTX への変換をスケーラブルな自動化ワークフローに組み込むことができ、手動でのテンプレート作成を削減し、文書中心の業務における再現性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **最新のテンプレート生成**
+  XLS データを DOTX ファイルに変換し、再利用可能な文書構造を作成します。
+
+* **一貫した文書フォーマット**
+  スプレッドシートの内容からテンプレートを生成することで、均一な文書作成をサポートします。
+
+* **テンプレート中心のワークフロー**
+  スプレッドシートデータを将来の文書作成の構造化されたソースとして使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート配布**
+  XLS ファイルから DOTX テンプレートを作成し、文書ワークフローに自動的に配信します。
+
+* **再利用可能な資産生成**
+  Python API を使用して、スプレッドシート入力から標準化されたテンプレートライブラリを構築します。
+
+* **スケーラブルなコンテンツ構造化**
+  大量の一貫した文書を作成するシステムに変換プロセスを統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

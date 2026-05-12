@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to PPSX 변환은 스프레드시트 내용을 현대적인 슬라이드쇼 파일로 변환하여 프레젠테이션 시 바로 열 수 있게 합니다. 스프레드시트 기반 정보를 깔끔하고 디스플레이 준비된 형식으로 공유해야 할 때 실용적인 선택입니다.
+
+Python API는 XLS to PPSX 변환을 자동화하기 쉽게 하여 팀이 슬라이드쇼 출력을 일관되게 생성하고 프레젠테이션 전달을 보다 넓은 보고 시스템에 통합할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **현대적인 슬라이드쇼 출력**
+  XLS 데이터를 PPSX 파일로 변환하여 직접 프레젠테이션 및 배포가 가능하도록 합니다.
+
+* **프레젠테이션 준비 보고**
+  스프레드시트 인사이트를 편집이 아닌 디스플레이에 최적화된 파일로 전환합니다.
+
+* **효율적인 시각 공유**
+  이해관계자와 회의에 적합한 슬라이드 형식으로 스프레드시트 기반 콘텐츠를 전달합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **반복 슬라이드쇼 생성**
+  반복되는 XLS 보고서에서 자동으로 PPSX 파일을 생성합니다.
+
+* **프레젠테이션 워크플로 자동화**
+  Python API를 사용하여 스프레드시트 소스에서 바로 열 수 있는 슬라이드쇼 파일을 만듭니다.
+
+* **확장 가능한 임원 업데이트 시스템**
+  전환을 자동화 파이프라인에 통합하여 이해관계자에게 시기적절하게 커뮤니케이션합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 XLSM으로의 변환은 구조화된 문서 내용을 매크로 사용이 가능한 스프레드시트 파일로 변환하여 워크북 데이터와 자동화 기능을 결합합니다. 변환된 데이터가 스프레드시트 기반 로직, 스크립팅 또는 반복 작업을 지원해야 할 때 유용합니다.
+
+Python API를 사용하여 WordML에서 XLSM으로의 변환은 문서 데이터를 확장 가능한 자동화와 재사용 가능한 처리 로직을 갖춘 고급 스프레드시트 워크플로우로 흐르게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 워크북 생성**
+  WordML 테이블을 자동화 지향 스프레드시트 워크플로우용 XLSM 파일로 변환합니다.
+
+* **고급 데이터 처리**
+  내장된 동작이나 로직에 의존하는 스프레드시트 출력물을 지원합니다.
+
+* **운영 작업 활성화**
+  반복 처리용으로 설계된 워크북으로 문서 데이터를 이동하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 매크로 워크북 생성**
+  반복되는 비즈니스 워크플로우에서 WordML 소스로부터 XLSM 파일을 생성합니다.
+
+* **스프레드시트 로직 통합**
+  추출된 문서 데이터를 매크로 기반 처리 환경과 연결합니다.
+
+* **프로세스 준비 데이터 패키징**
+  자동화된 작업을 위한 워크북 자산의 확장 가능한 준비를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

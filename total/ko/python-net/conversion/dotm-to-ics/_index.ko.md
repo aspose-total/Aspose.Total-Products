@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOTM를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to ICS 변환은 매크로가 포함된 Word 템플릿을 이벤트, 일정 또는 알림을 표준화된 형식으로 나타내는 캘린더 호환 파일로 변환합니다. 문서 템플릿에 약속과 같은 정보가 포함되어 있어 일정 시스템 간에 공유해야 할 때 유용합니다.
+
+Python API를 사용한 DOTM to ICS 변환은 템플릿 기반 문서에서 캘린더 항목을 직접 생성할 수 있게 하여 자동화를 향상시킵니다. 이를 통해 수동 일정 작업을 줄이고, 프로세스 기반 이벤트 생성을 지원하며, 문서 워크플로와 캘린더 플랫폼을 통합하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **일정 추출**
+  DOTM 파일의 이벤트 세부 정보를 ICS로 변환하여 캘린더에 가져오고 공유할 수 있습니다.
+
+* **회의 템플릿 재사용**
+  문서 기반 의제나 공지를 구조화된 캘린더 항목으로 재활용합니다.
+
+* **크로스 플랫폼 일정 관리**
+  다양한 일정 도구와 환경에서 작동하는 표준 캘린더 형식을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 캘린더 파일 생성**
+  워크플로는 DOTM 템플릿에서 날짜와 회의 세부 정보를 추출하여 자동으로 ICS 파일을 생성할 수 있습니다.
+
+* **프로세스 기반 이벤트 배포**
+  이 변환을 통해 시스템은 문서 내용에서 직접 일정 정보를 게시할 수 있습니다.
+
+* **배치 일정 작업**
+  프로그래밍 방식 처리는 반복 템플릿에서 대규모 캘린더 파일 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

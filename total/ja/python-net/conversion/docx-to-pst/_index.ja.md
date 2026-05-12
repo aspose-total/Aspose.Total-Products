@@ -46,7 +46,42 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から PST への変換は、ワードプロセッシング文書を、メールメッセージ、連絡先、および関連するメールボックスデータのコレクションを管理するために使用される個人用ストレージファイルに変換します。このプロセスは、文書由来のコンテンツをメールボックス指向のアーカイブおよび移行ワークフローに統合することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **メールアーカイブの準備**  
+  文書コンテンツを、メッセージデータコレクションで使用されるストレージ構造に変換します。
+
+* **エンタープライズ保持ワークフロー**  
+  文書由来のコミュニケーションコンテンツの長期保存をサポートします。
+
+* **メールボックス移行サポート**  
+  コンテンツを個人用メッセージストレージシステムに合わせた形式に移行するのに役立ちます。
+
+* **文書ベースのメッセージングレコード**  
+  書面コンテンツをアーカイブされたメールデータコレクションに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された PST 生成**  
+  システムは DOCX コンテンツをアーカイブワークフロー用のメールストレージ出力に変換できます。
+
+* **バッチ通信アーカイブ処理**  
+  Python スクリプトは複数の文書を PST 指向のストレージパイプラインに処理できます。
+
+* **コンプライアンスと保持の自動化**  
+  文書情報は、制御されたアーカイブシステム用の個人ストレージファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

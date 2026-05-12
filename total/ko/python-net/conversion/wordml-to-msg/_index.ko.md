@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 MSG로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 MSG로의 변환은 문서 내용을 기반으로 이메일 메시지 파일을 생성하여 데스크톱 메일 워크플로, 보관 프로세스 및 커뮤니케이션 패키징에 사용됩니다. 구조화된 문서 정보를 개별 메시지 레코드로 보존해야 할 때 유용합니다.
+
+Python API는 문서 텍스트를 메시지 구성 요소에 매핑하고 이메일 호환 환경을 위한 출력 생성을 자동화함으로써 WordML에서 MSG로의 변환을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메시지 파일 생성**
+  WordML 콘텐츠를 MSG 파일로 변환하여 개별 이메일 레코드 처리를 가능하게 합니다.
+
+* **데스크톱 메일 호환성**
+  데스크톱 중심 환경에서 메시지 파일 교환에 의존하는 워크플로를 지원합니다.
+
+* **커뮤니케이션 보관**
+  문서 기반 콘텐츠를 개별 이메일 형식의 아티팩트로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 MSG 생성**
+  다수의 WordML 문서에서 메시지 파일 생성을 자동화합니다.
+
+* **보관 준비**
+  구조화된 문서를 저장 및 검색 워크플로를 위한 MSG 레코드로 변환합니다.
+
+* **운영 콘텐츠 패키징**
+  문서에서 파생된 커뮤니케이션을 메시지 시스템으로 프로그래밍 방식으로 전달하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

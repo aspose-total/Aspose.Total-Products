@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した EML から ODT への変換は、メールメッセージを編集可能で標準指向の文書ワークフロー向けのオープンドキュメントテキストファイルに変換します。この形式は、組織がオープンドキュメント構造でポータブルかつ編集可能なメール由来コンテンツを必要とする場合に有用です。
+
+自動化および統合シナリオにおいて、EML から ODT への変換は、オープン性と互換性を保ちつつスケーラブルな文書変換をサポートします。編集可能なコンテンツの交換と標準化されたオフィス文書処理を優先するワークフローの効率化に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンドキュメント編集**  
+  メールコンテンツを ODT ファイルに変換し、編集および構造化された再利用を可能にします。
+
+* **標準指向アーカイブ**  
+  オープンでポータブルなテキスト形式での文書保存をサポートします。
+
+* **クロスプラットフォームコラボレーション**  
+  メール由来の文書をさまざまな文書環境間で共有しやすくします。
+
+* **ビジネスコンテンツの再利用**  
+  メッセージコンテンツを編集可能な業務ファイルや記録に統合するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンフォーマット変換パイプライン**  
+  自動化により、EML ファイルを ODT 文書に変換し、相互運用可能なワークフローを実現できます。
+
+* **リポジトリ取り込みワークフロー**  
+  プログラムによる変換は、編集可能なメール由来ファイルを文書システムに保存することをサポートします。
+
+* **共同編集チェーン**  
+  変換されたファイルは自動的にレビューおよび改訂プロセスへ移行できます。
+
+* **標準ベースのコンテンツ処理**  
+  ODT 出力は、オープンドキュメント中心の環境でスケーラブルな自動化をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OTT naar MBOX-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-naar-MBOX-conversie in Python-API's zet OpenDocument-teksttemplates om in het mailbox‑archiefformaat voor het opslaan van collecties e‑mailachtige berichten. Dit is nuttig wanneer gegenereerde communicatie moet worden gegroepeerd, overgedragen of bewaard in een mailbox‑compatibele structuur.
+
+De conversie ondersteunt automatisering door documentgebaseerde berichtgeneratie direct te laten stromen in archiverings‑ en migratiepijplijnen die afhankelijk zijn van mailbox‑achtige opslag voor schaal en organisatie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Mailbox‑archiefvoorbereiding**  
+  Produceert berichtinhoud die geschikt is voor gegroepeerde e‑mailopslag.
+
+* **Communicatie‑archivering**  
+  Behoudt gegenereerde inhoud in een draagbaar mailboxformaat.
+
+* **Bulkberichtverpakking**  
+  Helpt bij het organiseren van meerdere gegenereerde berichten voor overdracht of inname.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde mailarchiefgeneratie**  
+  Zet template‑gedreven communicatie om in MBOX‑containers.
+
+* **Ondersteuning van migratieworkflows**  
+  Bereidt documentafgeleide berichten voor op mailbox‑importprocessen.
+
+* **Batchretentie‑pijplijnen**  
+  Slaat terugkerende gegenereerde berichten op voor naleving of auditdoeleinden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

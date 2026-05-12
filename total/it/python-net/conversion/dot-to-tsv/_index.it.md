@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to TSV conversion changes document templates into tab-separated data files that are simple, portable, and easy to process. This is valuable when structured template content must be exported in a delimiter-based format that supports reliable data exchange.
+
+Using Python APIs, DOT to TSV workflows can be automated to support clean data extraction, system interoperability, and scalable document-to-data processing.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di Testo Strutturato**
+  Converti i file DOT in TSV per una gestione pulita dei dati basata su delimitatori.
+
+* **Scambio Dati Compatibile con i Sistemi**
+  Utilizza l'output TSV dove le tabulazioni sono preferite per una separazione dei campi prevedibile.
+
+* **Estrazione del Contenuto del Modello**
+  Riconverti le informazioni del documento in un formato semplice per script e strumenti operativi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Estrazione Dati Automatizzata**
+  Gli script Python possono convertire i modelli DOT in file TSV per lavori di elaborazione ricorrenti.
+
+* **Supporto al Flusso di Lavoro ETL**
+  La conversione aiuta a inserire i dati derivati dai modelli nei pipeline e nei sistemi di integrazione.
+
+* **Esportazioni Testuali Scalabili**
+  La trasformazione programmatica consente la generazione ad alto volume di TSV dai repository di documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

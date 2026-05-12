@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLAM을 MOBI로 변환하는 Python API는 Excel 추가 기능 콘텐츠를 휴대용 읽기와 디지털 콘텐츠 배포에 적합한 eBook 친화 형식으로 변환하는 데 도움을 줍니다. 이는 스프레드시트에서 파생된 문서, 가이드 또는 구조화된 참고 자료를 디지털 읽기 장치에 최적화된 형식으로 제공해야 할 때 유용합니다.
+
+자동화 워크플로우에서 XLAM을 MOBI로 변환하면 기술 또는 운영 콘텐츠를 최소한의 수작업으로 휴대용 읽기 자산으로 전환하여 확장 가능한 출판을 지원합니다. 이는 생성된 매뉴얼, 가이드 또는 정보 리소스를 프로그래밍 방식으로 배포하는 조직에 가치가 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 가이드 출판**  
+  XLAM 기반 콘텐츠를 MOBI 파일로 변환하여 휴대용 교육 또는 참고 자료로 제공합니다.
+
+* **모바일 지식 배포**  
+  구조화된 콘텐츠를 이동 중인 사용자를 위한 읽기 친화적인 형식으로 접근 가능하게 합니다.
+
+* **교육 자료 제공**  
+  스프레드시트 리소스에서 파생된 프로세스 가이드 및 학습 문서의 출판을 지원합니다.
+
+* **컴팩트 콘텐츠 패키징**  
+  비즈니스 문서를 가벼운 디지털 읽기 형식으로 변환하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 eBook 생성**  
+  Python API를 사용하여 XLAM 콘텐츠를 디지털 출판 파이프라인용 MOBI 파일로 변환할 수 있습니다.
+
+* **정기적인 콘텐츠 출판**  
+  반복되는 워크플로우를 통해 스프레드시트 기반 소스 자료에서 업데이트된 eBook 출력을 생성할 수 있습니다.
+
+* **문서 배포 시스템**  
+  자동 변환을 통해 장치와 팀 전반에 걸쳐 가이드와 매뉴얼을 확장 가능하게 공유할 수 있습니다.
+
+* **동적 학습 콘텐츠 제공**  
+  프로그래밍된 프로세스를 통해 구조화된 비즈니스 지식을 휴대용 읽기 형식으로 패키징할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

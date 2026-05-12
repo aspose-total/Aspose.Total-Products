@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から PPSM への変換は、直接再生と組み込み自動化サポートが必要なプレゼンテーションワークフロー向けに、文書コンテンツをマクロ対応スライドショーファイルに変換します。これは、スクリプト化されたスライド動作を伴う特殊な環境で有用です。
+
+Python API を使用して、WordML から PPSM への変換は、構造化された文書からスライドショー資産をスケーラブルに準備し、自動化されたプレゼンテーション要件に合わせることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スライドショー作成**
+  高度なプレゼンテーションユースケース向けに、WordML コンテンツを PPSM ファイルに変換します。
+
+* **自動再生ワークフロー**
+  組み込みアクションやロジックが必要なスライドショー配信をサポートします。
+
+* **特殊なプレゼンテーションパッケージング**
+  文書コンテンツを自動化機能を備えたショー準備済み資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スクリプト化されたプレゼンテーション生成**
+  構造化されたソース文書から PPSM ファイルの作成を自動化します。
+
+* **制御された配信パイプライン**
+  マクロ対応スライドショーの繰り返し配布をサポートします。
+
+* **文書からショーへの自動化**
+  組み込みロジックを使用するプレゼンテーション環境とコンテンツ変換を接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

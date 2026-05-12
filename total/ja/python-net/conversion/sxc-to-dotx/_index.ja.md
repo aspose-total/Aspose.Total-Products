@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から DOTX への変換は、スプレッドシートベースの情報を、標準化され再利用可能な文書作成に使用される最新の文書テンプレート形式に変換します。これは、スプレッドシートデータを一貫した書式設定、統制されたブランディング、そして繰り返し可能な文書出力をサポートするテンプレートに供給する必要がある場合に有用です。
+
+Python API を使用すると、SXC から DOTX への変換により、繰り返しの設定作業を削減し、構造化されたワークフロー全体でスケーラブルな文書生成をサポートすることで、効率的なテンプレート自動化が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なテンプレート作成**  
+  スプレッドシートの内容をテンプレートに変換し、繰り返し一貫した文書を生成できるようにします。
+
+* **構造化された文書設計**  
+  レポート、要約、内部コミュニケーション資料の固定レイアウトを定義するのに役立ちます。
+
+* **プロセスの一貫性**  
+  チームや自動化システム全体で均一な文書作成慣行をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート駆動型文書パイプライン**  
+  Python API を使用して SXC ファイルを DOTX テンプレートに変換し、繰り返し出力生成を行います。
+
+* **自動レイアウト標準化**  
+  生成されるすべての文書が一貫した管理されたテンプレートベースから開始されることを保証します。
+
+* **スケーラブルなコンテンツ運用**  
+  再利用可能な構造が効率と正確性を向上させる高ボリュームの文書作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

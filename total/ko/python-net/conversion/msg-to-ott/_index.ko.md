@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MSG를 OTT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to OTT 변환은 이메일 메시지 내용을 재사용 가능하고 표준화된 문서 작성을 위한 오픈 문서 텍스트 템플릿으로 변환합니다. 이메일에서 파생된 구조를 오픈 템플릿 형식으로 구축해야 하는 반복적인 문서에 유용합니다.
+
+자동화 환경에서 MSG to OTT 워크플로는 반복 가능한 문서 조립, 일관된 서식 및 확장 가능한 템플릿 관리를 지원합니다. 커뮤니케이션 패턴을 재사용 가능한 운영 자산으로 변환하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 템플릿 생성**  
+  메시지 내용을 재사용 가능한 템플릿으로 전환하여 반복적인 문서 생성을 가능하게 합니다.
+
+* **일관된 문서 레이아웃**  
+  반복되는 이메일 내용 구조를 기반으로 서식을 표준화합니다.
+
+* **템플릿 기반 작업**  
+  커뮤니케이션에서 파생된 템플릿으로 시작하는 반복 가능한 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 라이브러리 자동화**  
+  반복적인 문서 요구에 맞춰 MSG 파일에서 OTT 템플릿을 생성합니다.
+
+* **오픈 워크플로 표준화**  
+  오픈 문서 처리를 중심으로 구축된 시스템에서 변환된 템플릿을 사용합니다.
+
+* **확장 가능한 문서 조립**  
+  재사용 가능한 템플릿을 자동화된 콘텐츠 생산 파이프라인에 공급합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 XLSB로 변환하면 텍스트 문서 내용을 성능과 효율적인 저장을 최적화한 이진 스프레드시트 형식으로 변환합니다. 이는 추출된 문서 데이터가 대량일 때 파일 효율성을 향상시킨 스프레드시트 워크플로우에서 처리해야 할 경우에 유용합니다.
+
+Python API를 사용하면 ODT에서 XLSB로 변환이 확장 가능한 문서 데이터 추출, 배치 처리 및 성능을 고려한 스프레드시트 생성을 지원합니다. 대용량 운영 및 분석 환경에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **효율적인 스프레드시트 저장**  
+  문서 데이터를 압축된 스프레드시트 형식으로 변환합니다.
+
+* **대용량 데이터 처리**  
+  향상된 성능 특성을 갖춘 더 큰 추출 데이터 세트를 지원합니다.
+
+* **운영 보고**  
+  문서에서 파생된 데이터를 스프레드시트 기반 분석을 위해 준비하는 데 도움을 줍니다.
+
+* **구조화된 콘텐츠 재사용**  
+  추출된 레코드를 이진 워크북 형식으로 보다 쉽게 관리할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **성능 중심 배치 변환**  
+  Python 워크플로우는 다수의 ODT 파일에서 XLSB 출력을 효율적으로 생성할 수 있습니다.
+
+* **대규모 데이터셋 준비**  
+  자동화된 추출은 문서 중심 보고 파이프라인을 지원할 수 있습니다.
+
+* **스토리지 최적화 내보내기 프로세스**  
+  시스템은 구조화된 문서 콘텐츠를 압축된 워크북 파일로 변환할 수 있습니다.
+
+* **확장 가능한 스프레드시트 생성**  
+  반복 변환을 프로그래밍 방식으로 실행하여 지속적인 운영 요구를 충족할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

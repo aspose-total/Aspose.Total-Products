@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 RTF를 EMAIL로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to Email 변환은 서식이 있는 텍스트 문서를 이메일에 바로 삽입할 수 있는 콘텐츠로 바꿔, 발신 커뮤니케이션, 알림 또는 메시지 템플릿에 포함할 수 있게 합니다. 보고서 텍스트, 공지, 요약, 또는 고객용 콘텐츠를 커뮤니케이션에 적합한 형식으로 재활용하는 데 유용합니다.
+
+자동화된 환경에서 RTF to Email은 작성된 문서 콘텐츠를 재사용 가능한 이메일 본문으로 변환하여 알림, 캠페인, 승인 및 트랜잭션 커뮤니케이션을 위한 확장 가능한 메시징 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 기반 이메일 초안 작성**  
+  풍부한 텍스트 콘텐츠를 내부 또는 외부 커뮤니케이션을 위한 재사용 가능한 이메일 메시지로 변환합니다.
+
+* **공지 및 업데이트 배포**  
+  준비된 문서에서 파생된 공지나 요약을 전송하는 것을 지원합니다.
+
+* **템플릿 기반 메시징**  
+  표준 문서 콘텐츠를 팀 전반에 걸쳐 일관된 이메일 출력으로 변환하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 알림 생성**  
+  시스템이 RTF 파일을 일정 기반 또는 이벤트 기반 전달을 위한 이메일 콘텐츠로 변환할 수 있습니다.
+
+* **워크플로 승인 메시징**  
+  문서 요약을 프로그래밍 방식으로 승인 요청 및 상태 이메일로 전환할 수 있습니다.
+
+* **대량 아웃리치 프로세스**  
+  대용량 커뮤니케이션 파이프라인이 준비된 텍스트 자산을 확장 가능한 이메일 준비 콘텐츠로 변환함으로써 이점을 얻습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

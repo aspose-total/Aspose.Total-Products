@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文書から MBOX への変換は、Word コンテンツをメールボックス互換のアーカイブ形式に変換し、メッセージ形式の出力をグループ化して保存または移行できるようにします。文書コンテンツを保存またはメールアーカイブワークフローで配信する必要がある場合に有用です。
+
+Python API を使用すると、DOC から MBOX への変換を大規模なアーカイブ操作向けに自動化でき、再現性が向上し、メールボックスベースのコンテナで動作するシステムをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **メールボックスアーカイブ作成**
+  文書から派生したメッセージを MBOX に変換し、メール形式でのグループ保存を実現します。
+
+* **移行準備**
+  文書がメールアーカイブや転送ワークフローに組み込まれる必要がある場合に MBOX 出力を使用します。
+
+* **コミュニケーション保存**
+  変換された文書コンテンツを統合されたメールボックス対応形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **アーカイブパッケージング自動化**
+  コンプライアンスや移行のために、DOC コンテンツから MBOX 出力を自動的に生成します。
+
+* **バッチメールコンテナ変換**
+  複数の文書を最小限の手作業でメールボックスアーカイブに変換します。
+
+* **ドキュメントからメールへのワークフローブリッジ**
+  プログラムで文書ベースのコンテンツをメールアーカイブエコシステム向けに準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

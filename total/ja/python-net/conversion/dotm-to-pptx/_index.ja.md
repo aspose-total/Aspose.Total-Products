@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM から PPTX への変換は、マクロ対応の Word テンプレートを最新の PowerPoint プレゼンテーション ファイルに変換し、広範な互換性、コラボレーション、洗練されたスライド配信を実現します。会議、レポート、トレーニングなどで文書コンテンツをプレゼンテーション形式で再利用する必要がある場合に有用です。
+
+DOTM から PPTX への変換に Python API を使用すると、構造化されたテンプレートから直接最新のスライド デッキを生成でき、自動化が向上します。これにより、スケーラブルなコンテンツ生成、一貫したフォーマット、プレゼンテーション主導のワークフローとの効率的な統合がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新のプレゼンテーション作成**
+  DOTM コンテンツを PPTX に変換し、広く互換性のあるスライドベースのコミュニケーションを実現します。
+
+* **文書からスライドへの再利用**
+  書かれたテンプレートコンテンツをプレゼンテーションや要約のソースとして再利用します。
+
+* **チームコラボレーション支援**
+  共有、編集、配布に適したプレゼンテーションファイルを最新の環境で作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドデッキ生成**
+  ワークフローは、レポートやコンテンツ公開パイプラインの一部として DOTM テンプレートから PPTX ファイルを作成できます。
+
+* **スケーラブルなプレゼンテーション制作**
+  この変換は、文書から一貫したスライド資産を大量に生成することをサポートします。
+
+* **動的コンテンツ配信**
+  プログラムによる処理により、システムは繰り返し使用されるテンプレートベースの入力からプレゼンテーション出力を公開できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

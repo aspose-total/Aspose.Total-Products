@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から ODT への変換は、タブ区切りデータを編集可能でポータブル、かつ標準ベースの文書をサポートするオープンドキュメントテキストファイルに変換します。これは、ワークフローを単一のエコシステムにロックせず、構造化データソースから柔軟な文書出力を求める組織にとって有用です。
+
+Python API を使用すると、TSV から ODT への変換を自動化でき、相互運用性の向上、手作業処理の削減、オープンフォーマットワークフロー全体でのスケーラブルな文書生成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **オープンドキュメントレポーティング**  
+  TSV コンテンツをオープン標準に基づく編集可能なテキスト文書に変換します。
+
+* **クロスプラットフォームドキュメンテーション**  
+  構造化データをさまざまな文書環境間で共有しやすくします。
+
+* **アクセシブルビジネスレコード**  
+  生の表形式ソースから読みやすい出力の生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **相互運用可能なドキュメントパイプライン**  
+  Python API は、定期的な TSV エクスポートから ODT の生成を自動化できます。
+
+* **オープンフォーマットワークフローサポート**  
+  自動化により、標準ベースの文書出力をスケーラブルに作成できます。
+
+* **バッチデータ変換**  
+  複数の TSV ファイルを、効率化された処理ジョブで ODT 形式に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

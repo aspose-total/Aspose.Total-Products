@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 WordML로의 변환은 스프레드시트 콘텐츠를 구조화된 문서 생성, 변환 및 시스템 수준 상호 운용성에 유용한 XML 기반 워드 프로세싱 형식으로 변환합니다. 특히 문서 콘텐츠가 기계가 읽을 수 있는 형태를 유지하고 XML 인식 워크플로에 쉽게 통합되어야 할 때 관련성이 높습니다.
+
+Python API를 사용하면 SXC에서 WordML로의 변환이 데이터 기반 출판 또는 엔터프라이즈 처리 시스템 내에서 프로그래밍 방식의 문서 생성, 검증 및 변환을 가능하게 하여 확장 가능한 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 문서 생성**  
+  스프레드시트 데이터를 기계가 읽을 수 있는 문서 워크플로에 적합한 구조화된 형식으로 변환합니다.
+
+* **시스템 상호 운용성**  
+  XML 기반 자산을 처리하거나 교환하는 플랫폼에 문서 콘텐츠를 통합하는 데 도움이 됩니다.
+
+* **구조화된 콘텐츠 관리**  
+  변환이 많이 필요한 환경에서 문서 구성을 정밀하게 제어할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **프로그래밍 방식 문서 조립**  
+  Python API를 사용하여 구조화된 자동화 파이프라인에 맞는 WordML 출력을 생성합니다.
+
+* **XML 워크플로 통합**  
+  스프레드시트에서 파생된 콘텐츠가 검증, 변환 또는 출판 시스템으로 이동하도록 합니다.
+
+* **확장 가능한 데이터-문서 처리**  
+  변화하는 스프레드시트 입력으로부터 기계가 읽을 수 있는 문서를 동적으로 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

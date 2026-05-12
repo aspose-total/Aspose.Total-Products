@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da email a WordML in Python converte i messaggi in contenuti di Wordprocessing basati su XML per l'interoperabilità e la trasformazione di documenti strutturati. È utile quando i documenti derivati da email devono essere gestiti in sistemi che favoriscono markup esplicito e controllo programmatico.
+
+Ciò supporta l'automazione rendendo più semplice ispezionare, trasformare, convalidare e integrare il contenuto dei messaggi in flussi di lavoro di pubblicazione o aziendali orientati a XML.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di documenti XML strutturati**
+  Converti le email in WordML per flussi di lavoro di documenti basati su markup.
+
+* **Interoperabilità con sistemi XML**
+  Scambia contenuti derivati da messaggi attraverso piattaforme che si basano su XML strutturato.
+
+* **Elaborazione di contenuti a grana fine**
+  Ispeziona e manipola gli elementi del documento generati dalle email.
+
+* **Trasformazione orientata a schemi**
+  Prepara il contenuto delle email per catene di conversione che richiedono una struttura XML esplicita.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di trasformazione XML**
+  Converti le email in WordML e applica trasformazioni di contenuto automatizzate.
+
+* **Flussi di lavoro incentrati sulla convalida**
+  Verifica la struttura e applica le regole di business sui documenti XML derivati da email.
+
+* **Automazione di pubblicazione e scambio**
+  Instrada gli output strutturati nei sistemi aziendali di documenti e pubblicazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT를 CSV로 변환하면 구조화된 워드 프로세싱 템플릿을 보고, 데이터 교환 및 경량 분석에 사용할 수 있는 단순한 표 형식 데이터로 변환합니다. 문서 기반 콘텐츠를 운영 워크플로에 적합한 간단하고 널리 지원되는 형식으로 추출해야 할 때 유용합니다.
+
+Python API를 사용하여 이 변환은 재사용 가능한 문서 템플릿에서 구조화된 데이터 세트로 정보를 이동시키는 자동화 파이프라인을 지원하며, 처리 속도, 일관성 및 하위 시스템 호환성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 데이터 추출**
+  DOT 파일을 CSV로 변환하여 보고 또는 보관용으로 구조화된 텍스트와 필드를 캡처합니다.
+
+* **시스템 상호 운용성**
+  문서 콘텐츠를 데이터베이스, 스크립트 및 비즈니스 도구에서 사용할 수 있는 형식으로 내보냅니다.
+
+* **배치 문서 처리**
+  대량의 템플릿 컬렉션을 표 형식 출력으로 처리하여 효율적인 관리 및 검토를 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서-데이터 파이프라인**
+  자동화는 템플릿 문서를 CSV 파일로 변환하여 분석 또는 ETL 워크플로에 삽입합니다.
+
+* **정기 콘텐츠 내보내기**
+  Python 기반 작업은 DOT 파일을 CSV로 반복 변환하여 정기적인 운영 보고에 활용할 수 있습니다.
+
+* **확장 가능한 데이터 준비**
+  프로그램 방식 변환은 대규모 문서 저장소 전반에 걸쳐 출력 생성을 표준화하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

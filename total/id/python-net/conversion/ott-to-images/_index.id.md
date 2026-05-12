@@ -53,7 +53,41 @@ Kami menggunakan API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi OTT ke Gambar dalam API Python merender templat teks OpenDocument menjadi output gambar untuk berbagi visual, pembuatan pratinjau, dan penerbitan statis. Ini berguna ketika konten dokumen harus ditampilkan secara konsisten di berbagai platform tanpa bergantung pada format sumber yang dapat diedit.
+
+Konversi ini menguntungkan otomatisasi dengan memungkinkan pipeline rendering yang dapat diskalakan untuk pratinjau, thumbnail, aset web, dan snapshot dokumen yang dapat dihasilkan secara programatik dan didistribusikan secara luas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan Pratinjau Visual**  
+  Membuat representasi statis dari konten dokumen untuk tampilan cepat.
+
+* **Berbagi Lintas Platform**  
+  Mempermudah penampilan konten di tempat yang dukungan dokumennya terbatas.
+
+* **Dukungan Penerbitan**  
+  Menghasilkan aset gambar untuk penggunaan web, pelaporan, atau arsip.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pipeline Pembuatan Thumbnail**  
+  Menghasilkan gambar pratinjau dari file OTT secara massal.
+
+* **Alur Kerja Penerbitan Konten**  
+  Mengonversi templat menjadi aset visual untuk portal atau situs dokumentasi.
+
+* **Arsip Snapshot Otomatis**  
+  Menyimpan status dokumen sebagai output gambar yang tidak dapat diedit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de documents Word en FODS à l'aide des API Python permet de convertir les documents de traitement de texte en format de feuille de calcul OpenDocument plat, ce qui est utile pour la gestion de données basée sur des standards ouverts et les flux de travail transparents pilotés par XML. Cela est avantageux lorsque le contenu du document doit être conservé dans un format de feuille de calcul structuré sans recourir à un emballage binaire.
+
+Dans les environnements axés sur l'automatisation, la conversion de Word en FODS prend en charge des pipelines de transformation évolutifs et alignés sur les standards, qui mettent l'accent sur l'interopérabilité, la convivialité pour le contrôle de version et une inspection programmatique plus facile des données de sortie.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Conversion de données au format ouvert**
+  Exporte le contenu dérivé du document dans un format de feuille de calcul plat et structuré basé sur des standards ouverts.
+
+* **Stockage de données transparent**
+  Facilite l'inspection et le traitement de la sortie de la feuille de calcul dans les systèmes compatibles XML.
+
+* **Interopérabilité des flux de travail**
+  Prend en charge l'intégration avec les plateformes qui privilégient les standards de documents ouverts plutôt que les formats propriétaires.
+
+* **Gestion de contenu sous contrôle de version**
+  Permet un meilleur suivi de la sortie structurée dans des environnements de stockage adaptés au texte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de conversion basés sur les standards**
+  Transforme automatiquement les fichiers Word en FODS pour les flux de travail d'écosystèmes ouverts.
+
+* **Automatisation de l'archivage de documents**
+  Crée des sorties de feuilles de calcul lisibles et structurées pour le stockage à long terme et les besoins d'audit.
+
+* **Traitement piloté par XML**
+  Utilise les sorties FODS dans les routines automatisées d'analyse, de validation et de transformation.
+
+* **Génération par lots d'OpenDocument**
+  Produit des fichiers de feuilles de calcul plats à grande échelle à partir de sources de documents récurrentes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

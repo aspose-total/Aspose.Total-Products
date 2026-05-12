@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to SXC 変換は、Word のコンテンツを古い OpenOffice のワークフローに関連するスプレッドシート形式に変換し、レガシーな相互運用性と構造化データ抽出に有用です。以前のスプレッドシートエコシステムとの互換性を維持する組織をサポートします。
+
+Python API を使用すると、DOC から SXC への変換を自動化でき、手動での再入力を削減し、繰り返し可能なレガシーデータワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **レガシースプレッドシート互換性**
+  古い OpenOffice 環境向けに、文書の表を SXC に変換します。
+
+* **構造化データの保存**
+  文書ベースの値をスプレッドシート指向のレガシーフォーマットで保持します。
+
+* **移行サポート**
+  Word 文書と、依然として歴史的なスプレッドシート標準に依存するシステムを橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **レガシーワークフロー自動化**
+  古いツールが使用されている環境で、DOC ソースから SXC ファイルを自動的に生成します。
+
+* **バッチ変換パイプライン**
+  複数の文書を手動処理なしで構造化スプレッドシートファイルに変換します。
+
+* **システム相互運用性ジョブ**
+  プログラムで最新の文書ソースとレガシースプレッドシートワークフローを接続します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 XLS로의 변환은 문서 기반 구조화된 콘텐츠를 편집, 보고 및 레거시 워크북 워크플로에 적합한 스프레드시트 파일로 변환합니다. 문서 테이블을 광범위한 호환성을 가진 스프레드시트 도구에서 재사용해야 할 때 유용합니다.
+
+Python API는 표 형식 콘텐츠를 추출하고 워크북 구조에 자동으로 배치함으로써 WordML에서 XLS로의 변환을 가능하게 하여 확장 가능한 처리를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 워크북 생성**
+  기존 스프레드시트 워크플로에 맞게 WordML 테이블을 XLS 파일로 변환합니다.
+
+* **구조화된 데이터 재사용**
+  문서에 보관된 테이블 데이터를 워크북 형태로 편집 및 분석 가능하게 합니다.
+
+* **운영 보고 지원**
+  문서 콘텐츠를 스프레드시트 기반 검토 프로세스로 이동하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 워크북 내보내기**
+  반복 가능한 작업에서 WordML 문서 배치를 통해 XLS 파일을 생성합니다.
+
+* **레거시 시스템 통합**
+  여전히 오래된 스프레드시트 호환성에 의존하는 환경을 지원합니다.
+
+* **문서-스프레드시트 파이프라인**
+  구조화된 콘텐츠를 하위 작업을 위한 워크북 출력으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 DOC로 변환하면 OpenDocument Spreadsheet 파일에 저장된 스프레드시트 데이터를 클래식 워드 프로세싱 문서로 변환할 수 있습니다. 이 프로세스는 구조화된 표와 데이터를 보고, 문서화 및 콘텐츠 배포에 적합한 읽기 쉬운 문서 형식으로 변환하는 데 도움이 됩니다.
+
+Python API를 사용한 ODS에서 DOC로 변환을 통해 개발자는 문서 변환을 자동화 파이프라인에 통합할 수 있습니다. 이는 확장 가능한 처리, 배치 변환 및 문서 관리 시스템 및 엔터프라이즈 워크플로와의 원활한 통합을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **스프레드시트 데이터 보고**  
+  스프레드시트 데이터 세트를 문서화 및 검토를 위한 형식화된 보고서로 변환합니다.
+
+* **비즈니스 문서 생성**  
+  구조화된 재무 또는 운영 스프레드시트를 편집 가능한 워드 프로세싱 문서로 변환합니다.
+
+* **데이터 프레젠테이션 준비**  
+  스프레드시트 정보를 공유 또는 출판에 적합한 문서 형식으로 변환합니다.
+
+* **콘텐츠 아카이빙**  
+  스프레드시트 콘텐츠를 장기 보관을 위해 널리 지원되는 문서 형식으로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 보고서 생성**  
+  Python 스크립트가 스프레드시트 데이터 세트를 DOC 파일로 변환하여 예정된 보고 워크플로의 일부로 사용합니다.
+
+* **대량 문서 처리**  
+  자동화 파이프라인이 대량의 ODS 파일을 처리하고 워드 프로세싱 문서로 변환합니다.
+
+* **동적 콘텐츠 변환**  
+  프로그래밍 시스템이 스프레드시트 콘텐츠를 자동으로 구조화된 문서로 변환합니다.
+
+* **문서 워크플로 통합**  
+  변환 서비스가 문서 관리 시스템과 통합되어 출력 형식을 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

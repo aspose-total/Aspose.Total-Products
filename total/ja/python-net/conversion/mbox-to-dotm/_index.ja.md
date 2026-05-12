@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から DOTM への変換は、メールボックスアーカイブをマクロ対応の Word テンプレートファイルに変換し、メールベースの構造を再利用可能で自動化に適した形式で保持できるようにします。これは、繰り返し使用できるテンプレートと組み込みマクロ機能を組み合わせた文書環境にとって価値があります。
+
+Python API を使用することで、チームは MBOX から DOTM への変換を自動化し、大量のテンプレート作成、ワークフローの一貫性、プログラム可能な動作に依存する文書プロセスをサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレートエクスポート**
+  メールコンテンツを高度な自動化文書ワークフローに適したテンプレートに変換します。
+
+* **再利用可能な文書フレームワーク**
+  メールボックス由来の構造をチームやシステム全体でテンプレートの基盤として再利用します。
+
+* **ワークフロー主導のコンテンツ準備**
+  文書自動化ロジックを含むテンプレートシステム向けに、メールベースのコンテンツを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレートライブラリ**
+  Python ベースの変換フローを使用して、メールボックスデータから DOTM テンプレートコレクションを構築します。
+
+* **一貫した出力生成**
+  アーカイブされたメールを再利用可能なマクロ対応テンプレートに変換することで、文書作成を標準化します。
+
+* **エンタープライズ文書自動化**
+  変換されたテンプレートファイルを、より大規模な生成およびレビューのパイプラインに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

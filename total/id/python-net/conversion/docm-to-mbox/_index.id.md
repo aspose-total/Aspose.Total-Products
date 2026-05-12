@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOCM ke M
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to MBOX conversion converts macro-enabled documents into mailbox-style storage output, making document-based communications easier to group, archive, or migrate in mail-oriented systems. This is valuable when document content must be preserved within bundled message repositories.
+
+Untuk otomatisasi dan skala, alur kerja DOCM ke MBOX mendukung pengarsipan batch, pengemasan komunikasi, dan transfer konten yang berasal dari dokumen ke dalam sistem retensi yang berfokus pada kotak surat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pengarsipan Kotak Surat**
+  Mempertahankan konten yang berasal dari dokumen di dalam file kontainer kotak surat untuk penyimpanan jangka panjang.
+
+* **Pengemasan Koleksi Pesan**
+  Mendukung pengelompokan komunikasi yang terkait dan telah dikonversi ke dalam satu file terpusat.
+
+* **Dukungan Migrasi**
+  Membantu memindahkan konten komunikasi berbasis dokumen ke dalam lingkungan arsip email.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Arsip Otomatis**
+  Mengonversi file DOCM menjadi output MBOX untuk alur kerja retensi yang dijadwalkan.
+
+* **Persiapan Repositori Surat Massal**
+  Mengemas konten yang berasal dari dokumen ke dalam file kotak surat pada kumpulan data besar.
+
+* **Pipeline Penyimpanan Programatik**
+  Mengintegrasikan konversi dokumen dengan sistem arsip dan yang berorientasi pada kepatuhan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

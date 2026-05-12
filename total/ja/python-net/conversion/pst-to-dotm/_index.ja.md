@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における PST から DOTM への変換により、メールボックス データをマクロ対応の Word テンプレートに変換し、高度に再利用可能な文書ワークフローを実現できます。アーカイブされたメール コンテンツを標準化されたテンプレートに取り込み、かつ自動化アクションや組み込み文書ロジックをサポートする必要がある場合に有用です。
+
+自動化重視の環境では、PST から DOTM への変換により、メール由来の情報とルールベースの文書生成を組み合わせることができます。これにより、テンプレート、再現性、文書自動化が連携して機能する運用におけるスケーラビリティが向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート出力**
+  メールボックス コンテンツを DOTM テンプレートに変換し、動的な文書ワークフローを実現します。
+
+* **標準化された高度なフォーム**
+  構造化されたフォーマットと自動化サポートを備えた再利用可能なテンプレートの作成を支援します。
+
+* **再利用可能な業務文書**
+  メールアーカイブから運用ファイルを一貫して生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート配備**
+  システムは PST データから DOTM テンプレートを生成し、繰り返しの業務利用に活用できます。
+
+* **動的文書ワークフロー**
+  マクロ対応テンプレートはプログラムでメールボックス コンテンツを自動的に埋め込むことができます。
+
+* **大量レコードの構造化**
+  自動変換により、大規模なアーカイブ全体でスケーラブルなテンプレート作成が可能になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

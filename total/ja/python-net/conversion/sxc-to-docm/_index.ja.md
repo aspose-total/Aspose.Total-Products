@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から DOCM への変換は、スプレッドシート由来のコンテンツを、組み込みの自動化機能を必要とする高度な文書ワークフローに適したマクロ有効化ドキュメント形式に変換します。これは、スプレッドシートデータをスクリプト化された書式設定、ロジック、または繰り返し操作をサポートする文書に転送する必要がある場合に有用です。
+
+Python API を使用することで、SXC から DOCM への変換は、構造化されたエンタープライズワークフロー内でインタラクティブまたはマクロ対応文書の自動生成を可能にし、業務効率を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応レポート**  
+  スプレッドシートのコンテンツを、マクロベースの書式設定や処理タスク用に準備された文書に変換します。
+
+* **再利用可能な文書テンプレート**  
+  スプレッドシートデータを、繰り返し自動使用を前提とした文書に入力するワークフローをサポートします。
+
+* **業務文書**  
+  インポートされたコンテンツと組み込みロジックを組み合わせ、内部プロセスの実行に使用できる文書の作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート入力**  
+  Python API を使用して、スプレッドシートデータを最小限の手作業でマクロ有効化文書ワークフローに供給します。
+
+* **文書処理パイプライン**  
+  生成された DOCM ファイルを承認または変換システムに渡すエンドツーエンドの自動化を実現します。
+
+* **ルールベースのコンテンツ組み立て**  
+  変換後にスクリプト化された動作が必要なシナリオ向けに、動的な文書作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

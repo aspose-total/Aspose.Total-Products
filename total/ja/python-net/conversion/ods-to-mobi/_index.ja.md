@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS から MOBI への変換は、スプレッドシートファイルをデジタル読書デバイスに最適化された形式に変換します。これにより、構造化されたスプレッドシート情報を携帯閲覧に適した読みやすい文書として配布できます。
+
+Python API は、スプレッドシートのコンテンツを電子書籍対応フォーマットに自動的に変換できるようにします。これにより、スケーラブルな出版ワークフロー、自動文書生成、デジタルコンテンツ配信システムをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **デジタル読書向けデータ出版**  
+  スプレッドシートベースの情報を携帯可能なデジタル文書に変換します。
+
+* **構造化コンテンツ配信**  
+  スプレッドシートデータセットをデジタル消費向けの読みやすい形式に変換します。
+
+* **レポート出版**  
+  分析用スプレッドシートを整形されたデジタル文書に変換します。
+
+* **コンテンツ再利用**  
+  スプレッドシートのコンテンツを電子書籍形式の文書に適応させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動出版パイプライン**  
+  Python ワークフローがスプレッドシートを自動的にデジタル読書形式に変換します。
+
+* **大量デジタル文書生成**  
+  システムが複数のスプレッドシートを携帯可能な読書文書に処理します。
+
+* **動的コンテンツ出版**  
+  プログラム的なワークフローがスプレッドシート入力から読者に優しい文書を生成します。
+
+* **デジタルコンテンツ配信システム**  
+  変換パイプラインが自動出版インフラストラクチャを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

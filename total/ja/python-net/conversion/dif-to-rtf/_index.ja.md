@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における DIF から RTF への変換は、構造化された DIF ファイルを多くのワードプロセッシング環境で広く読み取れるリッチテキスト文書に変換するのに役立ちます。これは、広範な互換性と軽量な文書交換を備えた書式設定されたテキスト出力を作成するのに有用です。
+
+Python API は、単一の文書エコシステムに依存せずに信頼できるテキストフォーマットが必要なシステム向けの自動化シナリオで、DIF から RTF への変換をサポートします。これにより、アーカイブ、コミュニケーションワークフロー、クロスプラットフォーム共有のためのスケーラブルな変換が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **クロスプラットフォーム文書共有**
+  アプリケーション間で広い互換性を持つように、DIF ファイルを RTF 形式に変換します。
+
+* **書式付きテキストのエクスポート**
+  DIF コンテンツをテキスト指向の文書形式に移行する際に、可読構造を保持します。
+
+* **レガシー対応文書配信**
+  長年にわたるテキスト文書標準に依存するシステムやユーザー向けに、RTF 出力を使用します。
+
+* **可読データの提示**
+  構造化されたソースデータを、レビューや配布に適した書式設定済み文書に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された交換文書出力**
+  軽量な書式付き文書を必要とするシステム向けに、DIF データから RTF ファイルを生成します。
+
+* **大量レガシー変換ワークフロー**
+  Python スクリプトを使用して、大規模な DIF リポジトリを RTF 形式に処理します。
+
+* **文書交換の自動化**
+  混在する環境間で可読ファイルを共有するパイプラインに変換プロセスを統合します。
+
+* **プログラム的レポート配信**
+  定例の要約、抽出、または運用更新のために、RTF 文書を自動的に生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

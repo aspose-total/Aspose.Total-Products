@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCM vers OFT transforme les documents contenant des macros en fichiers de modèles d’e‑mail réutilisables, facilitant la standardisation du contenu basé sur des documents pour les tâches de communication répétitives. Elle est utile lorsque des messages cohérents doivent être générés à partir de sources de documents rédigés.
+
+Dans les flux de travail d’automatisation, la conversion DOCM vers OFT permet des démarches basées sur des modèles, une communication guidée par les processus et une réutilisation évolutive du contenu des documents dans des scénarios de messagerie répétés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Messagerie basée sur des modèles**
+  Convertit le contenu du document en modèles d’e‑mail réutilisables pour une communication standardisée.
+
+* **Cohérence des processus**
+  Aide les équipes à maintenir une structure uniforme à travers les messages sortants récurrents.
+
+* **Réutilisation du contenu**
+  Réutilise le texte formel des documents dans les modèles de communication sans reformatage manuel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles**
+  Produit des fichiers OFT à partir de documents DOCM pour des flux de travail de messages répétables.
+
+* **Communications déclenchées par le flux de travail**
+  Utilise les modèles convertis dans les processus d’approbation, de notification ou de support.
+
+* **Préparation de messages évolutive**
+  Permet le remplissage dynamique et la distribution à grande échelle de contenu basé sur des modèles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

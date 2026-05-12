@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 WORD로 변환하면 스프레드시트 파일을 편집 및 문서화에 적합한 워드 프로세싱 문서로 변환할 수 있습니다. 이 프로세스를 통해 스프레드시트 데이터를 문서 워크플로 및 보고 시스템에 통합할 수 있습니다.
+
+Python 기반 API는 스프레드시트-문서 변환 자동화를 위한 프로그래밍 기능을 제공합니다. 이를 통해 확장 가능한 문서 파이프라인, 자동 보고 및 효율적인 문서 관리 워크플로를 구현할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **스프레드시트에서 문서 보고**  
+  스프레드시트 데이터 세트를 보고용 워드 프로세싱 문서로 변환합니다.
+
+* **문서 생성**  
+  스프레드시트 데이터를 구조화된 문서로 변환합니다.
+
+* **데이터 프레젠테이션**  
+  스프레드시트 내용을 읽기 쉬운 문서 레이아웃으로 표시합니다.
+
+* **콘텐츠 마이그레이션**  
+  스프레드시트 아카이브를 편집 가능한 문서 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 보고 파이프라인**  
+  Python 워크플로가 스프레드시트 데이터를 자동으로 문서로 변환합니다.
+
+* **배치 문서 처리**  
+  시스템이 여러 스프레드시트를 처리하고 문서 출력을 생성합니다.
+
+* **동적 문서 생성**  
+  스프레드시트 입력이 동적으로 구조화된 문서를 채웁니다.
+
+* **엔터프라이즈 워크플로 통합**  
+  변환 시스템이 문서 관리 인프라와 통합됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

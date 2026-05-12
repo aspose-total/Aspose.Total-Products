@@ -46,7 +46,47 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji EMLX do MD w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX to MD conversion in Python transforms email content into Markdown files that are easy to read, edit, version, and publish. This is useful when message-based information needs to be repurposed into lightweight text documents for documentation or content workflows.
+
+In automation scenarios, converting EMLX to MD supports clean text extraction, streamlined publishing, and efficient integration with developer-friendly systems. It is especially effective for scalable knowledge management and content transformation pipelines.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Lekkka dokumentacja**  
+  Konwertuj pliki EMLX do Markdown, aby uzyskać proste, czytelne dokumenty tekstowe.
+
+* **Treść kontrolowana wersjami**  
+  Przechowuj informacje pochodzące z e‑maili w formacie przystosowanym do śledzonych aktualizacji.
+
+* **Przygotowanie bazy wiedzy**  
+  Wykorzystaj zawartość wiadomości w ustrukturyzowanych systemach dokumentacji.
+
+* **Gotowość do publikacji**  
+  Przygotuj przekonwertowaną treść do statycznych witryn lub platform z treścią opartą na tekście.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane pipeline’y dokumentacji**  
+  Konwertuj wsadowo pliki EMLX do Markdown w celu skalowalnego ponownego wykorzystania treści.
+
+* **Statyczne przepływy publikacji**  
+  Przekazuj wyniki MD do zautomatyzowanych systemów generowania i publikacji stron.
+
+* **Procesy normalizacji tekstu**  
+  Używaj skryptów Pythona do standaryzacji zawartości wiadomości w strukturę markdown.
+
+* **Zarządzanie treścią oparte na repozytorium**  
+  Integruj przekonwertowane pliki Markdown w wersjonowane pipeline’y automatyzacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

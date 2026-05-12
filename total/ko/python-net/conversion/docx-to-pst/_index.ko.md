@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCX를 PST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to PST 변환은 워드 프로세싱 문서를 이메일 메시지, 연락처 및 관련 메일박스 데이터를 관리하는 개인 저장 파일로 변환합니다. 이 프로세스는 문서 기반 콘텐츠를 메일박스 중심의 아카이브 및 마이그레이션 워크플로에 통합하는 것을 지원합니다.
+
+Python API를 사용하면 DOCX-to-PST 변환을 기업 커뮤니케이션 아카이브, 규정 준수 시스템 및 대규모 콘텐츠 마이그레이션 프로세스를 위해 자동화할 수 있습니다. 이는 구조화된 문서 정보를 메일 데이터 저장 환경에 맞게 패키징할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일 아카이브 준비**  
+  문서 내용을 메시징 데이터 컬렉션에 사용되는 저장 구조로 변환합니다.
+
+* **기업 보존 워크플로우**  
+  문서 기반 커뮤니케이션 콘텐츠의 장기 보관을 지원합니다.
+
+* **메일박스 마이그레이션 지원**  
+  콘텐츠를 개인 메시지 저장 시스템에 맞는 형식으로 이동하는 데 도움을 줍니다.
+
+* **문서 기반 메시징 기록**  
+  작성된 콘텐츠를 아카이브된 메일 데이터 컬렉션에 포함할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 PST 생성**  
+  시스템은 DOCX 콘텐츠를 아카이브 워크플로를 위한 메일 저장 출력으로 변환할 수 있습니다.
+
+* **배치 커뮤니케이션 아카이브 처리**  
+  Python 스크립트는 여러 문서를 PST 지향 저장 파이프라인으로 처리할 수 있습니다.
+
+* **규정 준수 및 보존 자동화**  
+  문서 정보를 제어된 아카이브 시스템을 위한 개인 저장 파일로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

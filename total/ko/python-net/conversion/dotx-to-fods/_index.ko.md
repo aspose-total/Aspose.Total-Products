@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 FODS 변환은 Word 템플릿 콘텐츠를 개방형 구조화된 데이터 교환을 위해 설계된 평면 OpenDocument 스프레드시트 형식으로 변환합니다. 이는 개방 표준과 읽기 쉬운 XML 기반 스프레드시트 저장을 우선시하는 워크플로에 유용합니다.
+
+Python API를 사용하면 이 변환은 자동화를 지원하여 생성, 검증 및 확장 가능한 데이터 처리 시스템에 통합될 수 있는 상호 운용 가능한 스프레드시트 문서를 생성합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 내보내기**
+  문서 콘텐츠를 보다 넓은 호환성을 위해 오픈 스프레드시트 형식으로 변환합니다.
+
+* **구조화된 XML 워크플로**
+  투명한 데이터 처리를 위해 적합한 형식으로 표 형식 정보를 보존합니다.
+
+* **표준 기반 교환**
+  오픈 문서 형식을 지원하는 시스템 간에 템플릿 콘텐츠 이동을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 오픈 형식 보고**
+  반복적인 보고 작업에서 DOTX 템플릿으로부터 FODS 파일을 생성합니다.
+
+* **상호 운용 가능한 데이터 파이프라인**
+  표준 기반 교환에 의존하는 시스템에 오픈 스프레드시트 출력을 공급합니다.
+
+* **대규모 템플릿 정규화**
+  반복되는 문서 구조를 프로그래밍 방식으로 오픈 스프레드시트 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

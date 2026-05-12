@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a RTF in Python consente di trasformare i file modello di Excel in documenti di testo formattato ampiamente compatibili e facili da scambiare tra diversi ambienti documentali. Ciò è utile quando il contenuto basato su fogli di calcolo deve essere convertito in un formato di testo leggero che preserva la formattazione di base mantenendo al contempo un'elevata portabilità.
+
+Per i casi d'uso di automazione, la conversione da XLT a RTF supporta una generazione efficiente di documenti e una ampia interoperabilità. Aiuta i sistemi basati su Python a trasformare i modelli di fogli di calcolo strutturati in output di testo formattato che possono essere condivisi, archiviati o elaborati da una varietà di applicazioni a valle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti formattati portabili**  
+  Converti i modelli XLT in file RTF per una facile condivisione e la conservazione della formattazione di base.
+
+* **Scambio di contenuti leggero**  
+  Utilizza gli output RTF quando la compatibilità tra più strumenti documentali è importante.
+
+* **Trasformazione di informazioni strutturate**  
+  Trasforma il contenuto dei modelli di fogli di calcolo in documenti di testo formattato leggibili per l'uso operativo.
+
+* **Supporto per archiviazione e revisione**  
+  Prepara file di testo formattato adatti per la revisione, l'archiviazione e lo scambio di documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Normalizzazione automatica del formato**  
+  Utilizza le API Python per convertire i file XLT in RTF per un'elaborazione a valle standardizzata.
+
+* **Consegna di documenti tra sistemi**  
+  Genera output RTF per flussi di lavoro che spostano i documenti tra diversi ambienti software.
+
+* **Operazioni di conversione batch**  
+  Elabora più modelli XLT in file di testo formattato senza lavoro manuale di formattazione.
+
+* **Pipeline di scambio documenti**  
+  Integra la conversione RTF nei sistemi automatizzati per revisione, esportazione o gestione dell'archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

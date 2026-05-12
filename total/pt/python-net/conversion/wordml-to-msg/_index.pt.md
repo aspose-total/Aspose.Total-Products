@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para MSG cria arquivos de mensagem de e‑mail a partir do conteúdo do documento para uso em fluxos de trabalho de e‑mail de desktop, processos de arquivamento e empacotamento de comunicação. É benéfico quando informações estruturadas do documento precisam ser preservadas como registros de mensagem individuais.
+
+APIs Python suportam a conversão de WordML para MSG mapeando o texto do documento em componentes de mensagem e automatizando a geração de saída para ambientes compatíveis com e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Arquivo de Mensagem**
+  Converte o conteúdo WordML em arquivos MSG para manipulação de registros de e‑mail individuais.
+
+* **Compatibilidade com E‑mail de Desktop**
+  Suporta fluxos de trabalho que dependem da troca de arquivos de mensagem em ambientes orientados para desktop.
+
+* **Arquivamento de Comunicação**
+  Preserva o conteúdo baseado em documentos como artefatos discretos no estilo de e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração em Massa de MSG**
+  Automatiza a criação de arquivos de mensagem a partir de múltiplos documentos WordML.
+
+* **Preparação de Arquivo**
+  Converte documentos estruturados em registros MSG para fluxos de trabalho de armazenamento e recuperação.
+
+* **Empacotamento Operacional de Conteúdo**
+  Suporta a entrega programática de comunicações derivadas de documentos em sistemas de mensagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

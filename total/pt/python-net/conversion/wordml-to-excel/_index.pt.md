@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para Excel move conteúdo estruturado de documentos WordprocessingML para formatos de planilha adequados para análise, relatórios e acompanhamento operacional. É especialmente útil quando os documentos contêm tabelas ou informações semiestruturadas que precisam se tornar dados editáveis em uma pasta de trabalho.
+
+APIs Python tornam a conversão de WordML para Excel escalável ao extrair tabelas dos documentos, organizar o conteúdo das planilhas e integrar tarefas de conversão em operações automatizadas de negócios e dados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Planilha**
+  Converte tabelas de documentos em formatos baseados em pastas de trabalho para edição e revisão.
+
+* **Habilitação de Relatórios**
+  Disponibiliza o conteúdo estruturado do documento para fórmulas, gráficos e análise de planilhas.
+
+* **Transferência de Dados Empresariais**
+  Suporta a movimentação de dados operacionais de documentos para sistemas baseados em planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Pastas de Trabalho**
+  Cria arquivos compatíveis com Excel a partir de lotes de documentos WordML sem cópia manual.
+
+* **Integração de Pipeline de Relatórios**
+  Alimenta as saídas de planilhas convertidas em painéis, auditorias ou fluxos de trabalho de planejamento.
+
+* **Normalização de Dados Estruturados**
+  Padroniza o conteúdo do documento em layouts de planilhas para uso repetível downstream.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

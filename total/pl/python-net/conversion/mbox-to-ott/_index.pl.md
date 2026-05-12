@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji MBOX do OTT w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to OTT conversion transforms mailbox archives into open document templates, allowing email-derived content structures to be reused in standardized document creation workflows. This is useful when organizations want to build repeatable content formats based on archived communications.
+
+Python APIs make it possible to automate OTT generation from MBOX files, improving consistency, reducing manual setup, and supporting scalable template-oriented operations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie otwartych szablonów**
+  Convert mailbox content into reusable OTT templates for consistent document creation.
+
+* **Ustandaryzowane układy treści**
+  Preserve email-based structure in a format designed for repeatable formatting.
+
+* **Dokumentacja oparta na szablonach**
+  Use converted mailbox content to support future open document workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne budowanie szablonów**
+  Generate OTT files from selected emails as part of repeatable content pipelines.
+
+* **Ustandaryzowanie otwartych przepływów pracy**
+  Use Python automation to maintain consistent template structures from mailbox archives.
+
+* **Skalowalne przygotowanie dokumentów**
+  Integrate converted templates into broader document generation systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

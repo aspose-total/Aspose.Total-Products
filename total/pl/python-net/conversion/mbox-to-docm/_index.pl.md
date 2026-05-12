@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji MBOX do DOCM w a
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja MBOX do DOCM przekształca archiwa skrzynki pocztowej w dokumenty Word z włączonymi makrami, umożliwiając zachowanie treści e‑mail w formacie, który może obsługiwać zaawansowane przepływy pracy dokumentów. Jest to przydatne, gdy przekonwertowane pliki muszą pozostać kompatybilne z systemami dokumentacyjnymi, które opierają się na osadzonych automatyzacjach lub niestandardowej logice.
+
+Korzystając z interfejsów API Pythona, zespoły mogą automatyzować konwersję MBOX do DOCM, usprawniając przetwarzanie archiwów poczty, wspierając przepływy pracy oparte na szablonach oraz generując ustrukturyzowane wyniki dla operacji skoncentrowanych na dokumentach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Przepływy dokumentów z włączonymi makrami**
+  Eksportuj treść e‑maili do plików DOCM dla systemów wykorzystujących automatyczne zachowanie dokumentów.
+
+* **Ustrukturyzowane ponowne wykorzystanie treści poczty**
+  Zachowaj wiadomości w formacie przystosowanym do zaawansowanej edycji i kontrolowanego przetwarzania.
+
+* **Operacyjne pakowanie dokumentów**
+  Przygotuj pliki pochodzące z e‑maili dla środowisk opartych na funkcjach automatyzacji Worda.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Eksport poczty oparty na szablonach**
+  Konwertuj wpisy skrzynki pocztowej na pliki DOCM zgodne z wewnętrznymi przepływami dokumentów.
+
+* **Zautomatyzowane przetwarzanie w Office**
+  Wprowadzaj przekonwertowane dokumenty e‑mail do skryptowanych procesów przeglądu i formatowania.
+
+* **Skalowalna transformacja archiwów**
+  Użyj Pythona do wsadowej konwersji zawartości MBOX na zasoby dokumentów z włączonymi makrami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

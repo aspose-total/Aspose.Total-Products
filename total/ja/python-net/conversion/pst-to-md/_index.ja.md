@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における PST から MD への変換は、メールボックスのコンテンツを Markdown に変換し、アーカイブされたコミュニケーションをテキスト優先のワークフローで構造化、公開、再利用しやすくします。メール記録をドキュメントやナレッジ共有のための軽量で読みやすいコンテンツに変換する必要がある場合に便利です。
+
+自動化シナリオでは、PST から MD への変換はコンテンツパイプライン、開発者に優しいリポジトリ、静的パブリッシングシステムをサポートします。メールボックスデータのバージョン管理、変換、そして最新のコンテンツオペレーションへの統合が容易になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **軽量コンテンツエクスポート**
+  PST コンテンツを Markdown に変換し、読みやすく持ち運び可能なテキストワークフローを実現します。
+
+* **ナレッジベースの準備**
+  メール由来の資料を構造化されたドキュメントに再利用するのに役立ちます。
+
+* **バージョンフレンドリーなアーカイブ**
+  変更履歴の追跡に適したテキスト形式でメールボックスコンテンツの保存をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **静的コンテンツパイプライン**
+  自動化システムはメールボックスデータを Markdown に変換し、公開やインデックス作成に利用できます。
+
+* **リポジトリベースのドキュメンテーション**
+  変換されたコンテンツはテキスト中心の環境に流れ込み、協働や再利用が可能になります。
+
+* **プログラム的コンテンツ変換**
+  Markdown 出力により、アーカイブされたメールの処理、テンプレート化、配布が容易になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

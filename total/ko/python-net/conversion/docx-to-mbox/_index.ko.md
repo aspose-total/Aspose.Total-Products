@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCX를 MBOX로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX를 MBOX로 변환하면 문서 내용을 이메일 메시지 컬렉션을 저장하는 메일함 아카이브 파일로 변환할 수 있습니다. 이 과정은 문서 정보를 이메일 아카이브 구조에 통합할 수 있게 합니다.
+
+Python API를 사용하면 문서 내용으로부터 메일함 파일을 자동으로 생성할 수 있어, 커뮤니케이션 아카이브와 자동 메시징 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이메일 아카이브 생성**  
+  DOCX 콘텐츠를 메일함 아카이브 파일로 변환합니다.
+
+* **문서 커뮤니케이션 기록**  
+  문서 기반 메시지를 메일함 아카이브에 저장합니다.
+
+* **이메일 마이그레이션 워크플로**  
+  문서 콘텐츠를 메일함 내보내기에 포함할 수 있게 합니다.
+
+* **메시징 시스템 통합**  
+  문서 정보를 이메일 아카이브에 패키징할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 메일함 생성**  
+  시스템이 문서를 MBOX 아카이브 파일로 변환할 수 있습니다.
+
+* **배치 이메일 아카이브 처리**  
+  Python 스크립트가 문서 컬렉션에서 메일함 아카이브를 생성할 수 있습니다.
+
+* **엔터프라이즈 메시징 파이프라인**  
+  문서 데이터를 자동으로 메일함 형식으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

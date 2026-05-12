@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+문서를 ODS로 변환하면 Word 콘텐츠를 OpenDocument 스프레드시트 파일로 전환하여 구조화된 데이터를 검토, 계산 및 오픈 오피스 워크플로우에서 공유하기가 쉬워집니다. 문서의 표나 레코드에 스프레드시트 기능이 필요한 경우에 유용합니다.
+
+Python API를 사용하면 DOC를 ODS로 변환하는 작업이 더 빠르고 안정적으로 진행되며, 보고, 분석 및 운영 시스템 전반에 걸친 반복 가능한 데이터 추출 및 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 변환**
+  문서 표를 ODS로 이동하여 정렬, 계산 및 구조화된 검토를 수행합니다.
+
+* **상호 운용 데이터 공유**
+  오픈 포맷 스프레드시트 교환이 선호될 때 ODS 출력을 사용합니다.
+
+* **운영 데이터 추출**
+  반복되는 문서 콘텐츠를 재사용 가능한 스프레드시트 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 데이터 내보내기**
+  DOC 입력으로부터 ODS 파일을 생성하여 오픈 오피스 보고 파이프라인에 활용합니다.
+
+* **대량 스프레드시트 처리**
+  문서 기반 레코드를 대규모로 스프레드시트 출력으로 변환합니다.
+
+* **시스템 통합 워크플로우**
+  프로그래밍 방식으로 문서 추출을 오픈 포맷 데이터 처리와 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

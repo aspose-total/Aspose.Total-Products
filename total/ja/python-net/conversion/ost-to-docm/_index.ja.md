@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OST から DOCM への変換は、メールボックス データをマクロ対応ドキュメント形式に変換し、埋め込み自動化機能を備えた編集可能なコンテンツを必要とする高度なドキュメント ワークフローをサポートします。変換されたメール コンテンツが構造化されたプロセスやスクリプト化されたドキュメント処理に参加する必要がある場合に便利です。
+
+自動化重視の環境では、OST から DOCM への変換により、メールボックス コンテンツをプログラム可能なドキュメント エコシステムに直接移行できます。Python API を使用すると、組織は大規模に変換を自動化でき、一貫性、運用速度、ドキュメント中心のビジネス プロセスとの統合が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応ドキュメント**  
+  埋め込みドキュメント自動化に依存するワークフロー向けに、メール コンテンツを DOCM ファイルに変換します。
+
+* **プロセス主導型レポート**  
+  変換されたメールボックス データが自動化されたドキュメント ロジックと連携する必要があるレポート システムをサポートします。
+
+* **テンプレートベースの操作**  
+  メール由来のコンテンツを再利用可能なマクロ対応ビジネス テンプレートに統合するのに役立ちます。
+
+* **構造化コンテンツの再利用**  
+  メールボックス情報を動的なドキュメント ワークフローに組み込みやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによるレポート組み立て**  
+  Python 自動化により、OST データを DOCM に変換し、スクリプト化されたレポート パイプラインを実現します。
+
+* **動的ドキュメント ワークフロー**  
+  自動化システムはマクロ対応ドキュメントを使用して、変換されたメール コンテンツを処理・管理します。
+
+* **エンタープライズ テンプレートの自動入力**  
+  変換ルーチンがメールボックス データを埋め込み自動化機能を持つドキュメント テンプレートに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OTT naar ICS-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT-naar-ICS-conversie in Python‑API's zet OpenDocument‑teksttemplates om in kalenderdatabestanden die worden gebruikt voor planning en uitwisseling van evenementen. Dit is waardevol wanneer de documentinhoud afspraken, deadlines of gestructureerde datumgestuurde informatie bevat die kalenderklaar moet worden.
+
+Deze conversie is automatiseringsvriendelijk omdat het mogelijk maakt dat evenementinformatie wordt gegenereerd vanuit templates en wordt doorgevoerd in planningsworkflows, herinneringen en synchronisatieprocessen zonder handmatige kalenderinvoer.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Evenementbestandcreatie**  
+  Zet planningsgerelateerde documentinhoud om in kalendercompatibele bestanden.
+
+* **Deadlineverspreiding**  
+  Deelt belangrijke data en mijlpalen in een standaard kalenderformaat.
+
+* **Ondersteuning van planningsworkflow**  
+  Zet gestructureerde evenementgegevens om in draagbare planningsactiva.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde kalendergeneratie**  
+  Maakt ICS‑bestanden aan vanuit terugkerende OTT‑gebaseerde evenementtemplates.
+
+* **Integratie van herinneringsworkflow**  
+  Voert gegenereerde evenementen in systemen die meldingen activeren.
+
+* **Planningsynchronisatie**  
+  Ondersteunt programmatische deling van kalendergegevens tussen teams of tools.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

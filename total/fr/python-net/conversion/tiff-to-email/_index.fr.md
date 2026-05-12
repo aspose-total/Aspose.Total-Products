@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de TIFF en e‑mail à l’aide des API Python permet aux équipes de transformer des documents image haute résolution en contenu prêt à être envoyé par e‑mail, pouvant être révisé, partagé ou archivé dans le cadre des flux de communication. Cela est précieux pour les organisations qui doivent transférer des formulaires numérisés, des rapports visuels ou des images de documents vers des formats de messagerie accessibles sans recréation manuelle.
+
+Dans les environnements d’automatisation, la conversion de TIFF en e‑mail favorise une distribution plus rapide des documents, une gestion simplifiée des communications et une meilleure continuité des flux de travail. Elle aide à connecter les enregistrements basés sur des images aux systèmes de notification, aux processus d’approbation et aux pipelines de correspondance numérique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Partage de documents numérisés**  
+  Convertit les numérisations au format TIFF en sortie compatible e‑mail pour une distribution interne ou externe rapide.
+
+* **Notifications de flux de travail**  
+  Facilite l’attachement ou l’intégration de contenu visuel de documents dans les flux de messagerie utilisés pour les mises à jour de statut ou les alertes.
+
+* **Livraison d’enregistrements opérationnels**  
+  Prend en charge l’envoi de documents dérivés d’images via des canaux e‑mail standardisés pour la traçabilité et la cohérence des communications.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Automatisation de l’envoi de documents**  
+  Convertit automatiquement les fichiers TIFF entrants en formats prêts à être envoyés par e‑mail pour les acheminer vers les équipes ou les parties prenantes.
+
+* **Intégration du flux d’approbation**  
+  Permet aux formulaires numérisés et aux enregistrements visuels d’être directement intégrés aux processus automatisés de révision et d’approbation par e‑mail.
+
+* **Messagerie déclenchée par des événements**  
+  Prend en charge les déclencheurs programmatiques qui génèrent des sorties e‑mail à partir de documents TIFF lorsque des événements métier surviennent.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

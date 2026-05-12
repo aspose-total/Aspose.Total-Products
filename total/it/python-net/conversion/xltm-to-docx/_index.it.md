@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLTM a DOCX in Python rende possibile convertire i modelli Excel con macro in documenti Word moderni, ampiamente utilizzati per la modifica, la collaborazione e lo scambio di documenti. Questa conversione è preziosa quando i contenuti derivati da fogli di calcolo devono essere presentati in un formato di documento curato e accessibile.
+
+Da una prospettiva di automazione, la conversione da XLTM a DOCX semplifica la generazione di documenti, migliora la compatibilità con i sistemi moderni e supporta output scalabili per la reportistica e la distribuzione di contenuti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Documenti aziendali modificabili**  
+  Trasforma le informazioni dei fogli di calcolo basate su modelli in file Word adatti per la modifica e la collaborazione.
+
+* **Pubblicazione di documenti moderni**  
+  Produce output DOCX che si adattano ai comuni flussi di documentazione, approvazione e distribuzione.
+
+* **Trasformazione da foglio di calcolo a testo**  
+  Converte il contenuto strutturato della cartella di lavoro in una struttura di documento adatta alla narrazione per una più ampia usabilità.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di reportistica automatizzata**  
+  Genera documenti DOCX da modelli XLTM come parte di flussi di lavoro di reportistica programmata o basata su eventi.
+
+* **Servizi di conversione di massa**  
+  Supporta la trasformazione ad alto volume di modelli di fogli di calcolo in output Word standardizzati.
+
+* **Flussi di lavoro di integrazione di sistema**  
+  Consente alle applicazioni basate su Python di creare contenuti pronti per i documenti da file sorgente basati su fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から MOBI への変換は、マクロ対応のスプレッドシートコンテンツを、携帯での閲覧やデジタル配信に適した eBook 形式に変換します。スプレッドシートベースの情報を、モバイルでの利用に適した読みやすいリファレンス資料、マニュアル、または構造化ガイドに再利用する必要がある場合に便利です。
+
+自動化の観点から見ると、この変換は業務用スプレッドシートコンテンツを、デジタル出版ワークフローに適した軽量な閲覧形式へと変換するのに役立ちます。Python API は、XLSM ファイルから MOBI 出力を効率的に生成し、スケーラブルなコンテンツ配信やアーカイブ用途に対応します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **デジタルリファレンス出版**
+  スプレッドシート主導の情報を、より広いアクセスのための携帯可能な閲覧資料に変換します。
+
+* **ガイドとマニュアルの作成**
+  構造化されたスプレッドシートコンテンツを、長文の読みやすいドキュメントに変換することをサポートします。
+
+* **モバイルコンテンツ配信**
+  コンパクトで携帯可能な閲覧環境に最適化された形式で情報を配信するのに役立ちます。
+
+* **ナレッジパッケージング**
+  業務用または教育用コンテンツをスプレッドシートから eBook スタイルの資産へ再利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動 eBook 生成**
+  Python API は、XLSM データを MOBI ファイルに変換し、繰り返し可能なデジタル出版ワークフローを実現します。
+
+* **バッチコンテンツ再利用**
+  複数のスプレッドシートをプログラムでスケールさせて携帯可能な閲覧形式に変換できます。
+
+* **ドキュメント配信パイプライン**
+  自動化システムは、デバイス間で構造化されたコンテンツ配信のために MOBI 出力を準備できます。
+
+* **アーカイブ対応出版**
+  変換ワークフローは、スプレッドシートベースのナレッジソースから一貫した eBook 出力を生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

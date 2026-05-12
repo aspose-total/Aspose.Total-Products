@@ -46,9 +46,46 @@ Python 개발자의 경우 응용 프로그램 내에서 TEXT를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 텍스트를 ICS로 변환하면 일반 텍스트 정보를 캘린더 호환 이벤트 파일로 변환할 수 있습니다. 이는 일정 시스템, 약속 생성 및 텍스트 기반 이벤트 세부 정보를 공유 가능한 캘린더 항목으로 전환해야 하는 워크플로에 매우 관련이 있습니다.
+
+이 변환은 애플리케이션이 텍스트 입력만으로 회의 초대, 알림 및 이벤트 일정을 직접 생성하도록 하여 자동화를 향상시키며, 계획 시스템 전반에 걸친 효율적인 조정 및 통합을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **캘린더 이벤트 생성**  
+  텍스트 형태의 이벤트 세부 정보를 일정 및 공유를 위한 ICS 파일로 변환합니다.
+
+* **회의 초대 생성**  
+  일반 텍스트 콘텐츠에서 표준화된 캘린더 초대를 만드는 데 도움이 됩니다.
+
+* **알림 일정 관리**  
+  텍스트 기반 알림을 캘린더 호환 이벤트 파일로 변환하는 것을 지원합니다.
+
+* **약속 워크플로 통합**  
+  비즈니스 시스템이 예약 가능하거나 추적 가능한 이벤트 자산을 자동으로 생성하도록 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 일정 예약**  
+  양식이나 시스템에 입력된 텍스트를 즉시 캘린더에서 사용할 수 있는 ICS 파일로 변환할 수 있습니다.
+
+* **이벤트 배포 워크플로**  
+  자동화를 통해 텍스트로 정의된 일정에 따라 캘린더 파일을 생성하고 전송할 수 있습니다.
+
+* **반복 계획 파이프라인**  
+  프로그래밍 방식 프로세스가 구조화된 텍스트를 대규모로 캘린더 이벤트로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

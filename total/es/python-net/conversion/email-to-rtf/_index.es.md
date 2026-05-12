@@ -46,7 +46,44 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de correo electrónico a RTF en Python transforma el contenido de los mensajes en documentos de texto enriquecido que equilibran la editabilidad con una amplia compatibilidad. Es útil cuando las organizaciones necesitan contenido de correo electrónico formateado en un formato de documento más ligero que funcione en muchas herramientas de edición.
+
+Esta conversión mejora la automatización al crear salidas estructuradas y reutilizables que pueden editarse, intercambiarse y almacenarse de manera eficiente en entornos de documentos mixtos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Preservación de Texto Formateado**
+  Convertir correos electrónicos a RTF para conservar el estilo básico en un formato editable.
+
+* **Compatibilidad entre Herramientas**
+  Utilizar salidas RTF donde diferentes aplicaciones de edición deben acceder al mismo contenido.
+
+* **Registros de Comunicación Reutilizables**
+  Conservar el texto importante del mensaje para su posterior edición o inclusión en documentos.
+
+* **Intercambio de Documentos Ligero**
+  Compartir documentos derivados de correos electrónicos en un formato relativamente simple y portátil.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Exportación Automatizada de Texto Enriquecido**
+  Convertir correos electrónicos seleccionados en archivos RTF para flujos de trabajo de almacenamiento y colaboración.
+
+* **Enrutamiento de Documentos Multi‑Sistema**
+  Mover texto enriquecido derivado de correos electrónicos entre aplicaciones con mínima fricción.
+
+* **Canales de Reutilización de Contenido**
+  Insertar salidas RTF en resúmenes, borradores y documentación interna de forma automática.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

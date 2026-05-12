@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OST para DOCM transforma os dados da caixa de correio em formato de documento com macro habilitada, suportando fluxos de trabalho avançados que exigem conteúdo editável com recursos de automação incorporados. É útil quando o conteúdo de e‑mail convertido precisa participar de processos de documentos estruturados ou scriptados.
+
+Em ambientes focados em automação, a conversão de OST para DOCM permite que o conteúdo da caixa de correio seja transferido diretamente para ecossistemas de documentos programáveis. APIs Python permitem que as organizações automatizem a conversão em escala, melhorando a consistência, a velocidade operacional e a integração com processos de negócios centrados em documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Documentação com Macro Habilitada**  
+  Converte o conteúdo de e‑mail em arquivos DOCM para fluxos de trabalho que dependem de automação de documentos incorporada.
+
+* **Relatórios Orientados por Processos**  
+  Suporta sistemas de relatórios onde os dados da caixa de correio convertidos precisam funcionar com lógica de documentos automatizada.
+
+* **Operações Baseadas em Modelos**  
+  Ajuda a integrar conteúdo derivado de e‑mail em modelos de negócios reutilizáveis com macros habilitadas.
+
+* **Reuso Estruturado de Conteúdo**  
+  Facilita a incorporação de informações da caixa de correio em fluxos de trabalho de documentos dinâmicos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Montagem Programática de Relatórios**  
+  A automação em Python converte dados OST em DOCM para pipelines de relatórios scriptados.
+
+* **Fluxos de Trabalho Dinâmicos de Documentos**  
+  Sistemas automatizados utilizam documentos com macro habilitada para processar e gerenciar o conteúdo de e‑mail convertido.
+
+* **População de Modelos Corporativos**  
+  Rotinas de conversão alimentam dados da caixa de correio em modelos de documentos com comportamento de automação incorporado.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

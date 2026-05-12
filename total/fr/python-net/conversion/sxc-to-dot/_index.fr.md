@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion SXC vers DOT transforme le contenu d’une feuille de calcul en un format de modèle de document pouvant servir de base réutilisable pour la génération future de documents. Cela est utile lorsque des informations issues de feuilles de calcul doivent être intégrées dans des mises en page standardisées pour des usages répétés en entreprise ou en opération.
+
+Grâce aux API Python, la conversion SXC vers DOT prend en charge l’automatisation basée sur des modèles en permettant une structure de document cohérente, une création de sortie plus rapide et un meilleur contrôle du formatage dans des flux de travail à haut volume.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation de modèle**  
+  Convertit le contenu de la feuille de calcul en modèles de document réutilisables pour des besoins de communication récurrents.
+
+* **Mise en forme standardisée**  
+  Aide à maintenir une structure et une présentation cohérentes dans les documents générés.
+
+* **Documentation des processus**  
+  Soutient la création de modèles réutilisables pour les formulaires, les résumés et les dossiers opérationnels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Systèmes de rapports basés sur des modèles**  
+  Automatise la production de modèles DOT qui peuvent ensuite générer de nombreux documents uniformes.
+
+* **Structuration massive de contenu**  
+  Utilise les API Python pour préparer plusieurs modèles dérivés de feuilles de calcul afin de soutenir des flux de travail documentaires évolutifs.
+
+* **Pipelines de sortie cohérents**  
+  Garantit que la génération de documents en aval démarre à partir d’une structure contrôlée et réutilisable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

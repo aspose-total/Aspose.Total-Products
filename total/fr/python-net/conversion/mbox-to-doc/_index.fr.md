@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers DOC transforme les données de boîte aux lettres en documents éditables compatibles Word, aidant les équipes à réutiliser le contenu des e‑mails pour les rapports, les revues et la documentation structurée. Elle est précieuse lorsque les messages doivent être reformatés, annotés ou intégrés à des dossiers d’entreprise plus larges.
+
+Avec les API Python, cette conversion peut être automatisée pour améliorer la génération de documents, réduire le travail manuel de copier‑coller, et soutenir des flux de travail évolutifs qui transforment les archives d’e‑mail en contenu réutilisable prêt pour le bureau.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Documentation d'e‑mail éditable**
+  Convertir les e‑mails archivés en fichiers de document éditables pour la révision et le formatage.
+
+* **Compilation de dossiers d’entreprise**
+  Combiner le contenu des messages dans des documents utilisés pour les rapports, les approbations ou les revues.
+
+* **Réutilisation des connaissances**
+  Faciliter la réutilisation du contenu important de la boîte aux lettres dans les documents opérationnels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Assemblage automatisé de rapports**
+  Convertir les e‑mails sélectionnés en fichiers DOC pour les inclure dans les rapports d’entreprise récurrents.
+
+* **Pipelines d’extraction de contenu**
+  Transformer les archives de boîtes aux lettres en documents éditables pour les flux de travail de révision en aval.
+
+* **Création massive de documents Office**
+  Générer des sorties DOC organisées à partir de grands ensembles de données d’e‑mail en utilisant l’automatisation Python.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

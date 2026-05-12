@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLSM vers OTT convertit le contenu des feuilles de calcul avec macros en un format de modèle de texte de document ouvert utilisé pour la création de documents répétables. Cela est utile lorsque les données de la feuille de calcul doivent devenir la base de modèles réutilisables dans des flux de travail documentaires basés sur des normes.
+
+Dans les systèmes axés sur l'automatisation, la conversion OTT prend en charge une mise en forme cohérente, des structures réutilisables et une génération de documents efficace à grande échelle. Les API Python permettent d'automatiser la création d'actifs de modèles à partir de fichiers XLSM pour les flux de travail opérationnels, de reporting et de documentation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles ouverts**
+  Convertit le contenu des feuilles de calcul en modèles de documents réutilisables basés sur des standards ouverts.
+
+* **Documentation standardisée**
+  Aide les équipes à maintenir une structure cohérente à travers les documents générés fréquemment.
+
+* **Processus pilotés par des modèles**
+  Prend en charge des flux de travail documentaires répétables construits à partir d'informations provenant de feuilles de calcul.
+
+* **Réutilisabilité multiplateforme**
+  Permet des actifs de modèles pouvant être utilisés dans des environnements ouverts et interopérables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de modèles**
+  Les API Python peuvent convertir les fichiers XLSM en modèles OTT pour des flux de travail documentaires récurrents.
+
+* **Pipelines de contenu réutilisables**
+  Les entrées de feuilles de calcul peuvent être transformées en modèles standardisés pour l'automatisation en aval.
+
+* **Traitement par lots de modèles**
+  De gros volumes de fichiers XLSM peuvent être convertis de manière programmatique en actifs OTT.
+
+* **Intégration de flux de travail ouverts**
+  Les sorties OTT peuvent être intégrées dans des systèmes qui génèrent des documents cohérents à partir de modèles réutilisables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

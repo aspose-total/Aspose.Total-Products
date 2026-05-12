@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OTT do EMLX w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to EMLX conversion in Python APIs transforms OpenDocument text templates into EMLX message files used in specific mail storage environments. It is relevant when template-based content must integrate with systems that rely on this email file structure.
+
+This conversion strengthens automation by allowing document-originated communication content to flow into specialized email ecosystems without manual rewriting, supporting scalable message preparation and archival workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Wsparcie specjalistycznego przechowywania poczty**  
+  Tworzy pliki wiadomości zgodne ze środowiskami opartymi na EMLX.
+
+* **Komunikacja oparta na szablonach**  
+  Ponownie wykorzystuje treść OTT do generowania ustrukturyzowanych e‑maili.
+
+* **Przenośny wynik wiadomości**  
+  Tworzy pliki, które mogą być przechowywane lub przenoszone w ramach przepływów poczty.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowana produkcja plików e‑mail**  
+  Generuje wyjścia EMLX z szablonów dokumentów masowo.
+
+* **Procesy archiwizacji**  
+  Przechowuje komunikacje pochodzące z szablonów w ustrukturyzowanych repozytoriach poczty.
+
+* **Przygotowanie treści między systemami**  
+  Łączy generowanie dokumentów z obsługą e‑mail specyficzną dla platformy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

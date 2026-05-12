@@ -64,7 +64,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Excel para PPSM em Python transforma o conteúdo de planilhas em arquivos de apresentação com macros habilitadas para fluxos de trabalho avançados de apresentação. É útil quando arquivos prontos para apresentação também precisam suportar interação baseada em macros ou recursos de automação.
+
+Essa conversão é relevante para a automação porque conecta dados de planilhas com saídas de apresentações que podem participar de ambientes de apresentação mais dinâmicos e programáveis.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Apresentações com Macros Habilitadas**  
+  Converta o conteúdo do Excel em arquivos PPSM para apresentação direta com suporte avançado a automação.
+
+* **Entrega Interativa de Apresentações**  
+  Prepare saídas de apresentações que podem incorporar comportamento programável quando necessário.
+
+* **Arquivos de Briefing Operacional**  
+  Use dados de planilhas para criar arquivos prontos para apresentação com potencial avançado de fluxo de trabalho.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Apresentações Interativas Automatizadas**  
+  Gere saídas PPSM a partir de fontes Excel para fluxos de trabalho que exigem automação de apresentações.
+
+* **Pipelines de Apresentação Programáticos**  
+  Integre a criação de apresentações com macros habilitadas em sistemas de relatórios Python.
+
+* **Preparação de Entrega Escalável**  
+  Produza arquivos de apresentação prontos para uso a partir de dados de planilhas com trabalho manual mínimo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

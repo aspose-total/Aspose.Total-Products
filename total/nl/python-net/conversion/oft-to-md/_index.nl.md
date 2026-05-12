@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een OFT naar MD-conversiefunctie toe 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT naar MD conversie met Python API's transformeert Outlook e‑mailtemplates naar Markdown‑bestanden voor lichtgewicht, gestructureerd en draagbaar tekstgebaseerd contentbeheer. Dit is nuttig wanneer sjablooninhoud hergebruikt moet worden in documentatiesystemen, ontwikkelaarsworkflows of contentpublicatiepijplijnen.
+
+In door automatisering gedreven omgevingen ondersteunt OFT naar MD conversie versiebeheer, eenvoudige bewerking en naadloze integratie met statische site‑generators en documentatieplatformen. Het verbetert de draagbaarheid van content en vereenvoudigt programmatische verwerking.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Documentatiehergebruik**  
+  Converteer OFT‑sjablonen naar Markdown voor opname in handleidingen, kennisbanken of interne documenten.
+
+* **Versiebeheer van content**  
+  Bewaar geconverteerde content in tekstgebaseerde repositories voor tracking en collaboratieve bewerking.
+
+* **Voorbereiding van gestructureerde publicatie**  
+  Bereid content afkomstig van e‑mail voor voor statische sites of markdown‑gebaseerde publicatiesystemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Content‑pijplijnautomatisering**  
+  Transformeer OFT‑bestanden automatisch naar Markdown voor publicatie‑ en documentatieworkflows.
+
+* **Repository‑gebaseerd sjabloonbeheer**  
+  Push geconverteerde MD‑bestanden naar brongecontroleerde systemen voor schaalbaar onderhoud.
+
+* **Programmeerbare contenttransformatie**  
+  Gebruik Python API's om sjablooncontent te normaliseren en te distribueren over moderne tekstgebaseerde platforms.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

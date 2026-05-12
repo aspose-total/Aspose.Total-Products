@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOT를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 OST로의 변환은 문서 템플릿을 메시징 워크플로와 보관 준비를 위한 오프라인 메일박스 지향 형식으로 변환합니다. 이는 템플릿에서 파생된 콘텐츠가 오프라인 커뮤니케이션 저장 프로세스에 통합되는 시나리오에서 관련이 있습니다.
+
+Python API를 사용하면 이 변환을 문서 기반 커뮤니케이션 자산을 메일박스 동기화 또는 보관 처리를 위해 준비하는 자동화 시스템에 통합할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오프라인 메일 준비**
+  DOT 기반 콘텐츠를 OST 호환 워크플로로 변환하여 메일박스 관련 처리를 수행합니다.
+
+* **보관 및 동기화 지원**
+  오프라인 저장 구조가 필요한 환경에서 템플릿 기반 커뮤니케이션 데이터를 사용합니다.
+
+* **메시지 워크플로 패키징**
+  메일박스 중심 작업을 위해 문서 템플릿에서 구조화된 출력을 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 메일 저장 준비**
+  Python 스크립트를 사용하면 오프라인 메일 워크플로를 위한 DOT 파일의 반복 변환을 지원할 수 있습니다.
+
+* **문서 기반 메일 통합**
+  변환은 템플릿 저장소를 동기화된 커뮤니케이션 프로세스와 연결하는 데 도움이 됩니다.
+
+* **대량 메일 자산 처리**
+  프로그래밍 파이프라인은 대량 메일박스 지향 출력의 준비를 효율화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

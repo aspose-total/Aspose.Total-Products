@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から DOT への変換は、マクロ対応の Excel テンプレートを再利用可能な文書構造に使用される Word テンプレートファイルに変換することをサポートします。スプレッドシート由来のレイアウトやコンテンツパターンを、繰り返し使用できる文書テンプレートに再利用する必要がある場合に役立ちます。
+
+自動化重視のシステムにおいて、XLTM から DOT への変換はテンプレートの標準化を向上させ、繰り返し可能な文書作成を実現し、効率的なクロスフォーマットコンテンツの準備を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **再利用可能な文書テンプレート作成**  
+  スプレッドシートベースのテンプレートコンテンツを、繰り返し文書生成のための Word テンプレートファイルに変換します。
+
+* **標準化された書式出力**  
+  ブックテンプレートから文書テンプレートへ移行する際に、一貫した構造を維持するのに役立ちます。
+
+* **内部文書フレームワーク**  
+  構造化されたソーステンプレートから繰り返し可能な文書を作成する組織を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート公開の自動化**  
+  XLTM ソースから DOT ファイルを自動的に生成し、文書生成システムで使用します。
+
+* **部門横断的なコンテンツ標準化**  
+  スプレッドシート駆動のソース素材を使用して、チーム間で一貫したテンプレート配布を可能にします。
+
+* **変換駆動型テンプレートライブラリ**  
+  Excel テンプレート資産から再利用可能な Word テンプレートライブラリの自動作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

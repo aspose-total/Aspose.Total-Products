@@ -53,7 +53,47 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から画像への変換は、文書ページをプレビュー、共有、公開、視覚的アーカイブ用の画像ファイルに変換します。これは、文書コンテンツをプラットフォーム間で一貫して表示する必要があり、文書編集ソフトウェアを必要としない場合に便利です。
+
+自動化とスケーラビリティのために、この変換はサムネイル、プレビュー、Web 資産、画像ベースのレコードを生成する文書レンダリングパイプラインをサポートし、コンテンツ管理および配信システムで利用できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **文書プレビュー生成**
+  ポータル、アプリ、リポジトリでの迅速な閲覧のために、ページを画像に変換します。
+
+* **視覚的アーカイブ**
+  参照と保持のために、コンテンツの外観を静的画像として保存します。
+
+* **Web とモバイルの公開**
+  画像に最適化された環境で文書ページの表示を容易にします。
+
+* **プレゼンテーションとレビューの共有**
+  受取人がコンテンツを閲覧のみで編集不要な場合、配布を簡素化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **サムネイル作成パイプライン**
+  検索および閲覧インターフェース用に、文書ページを自動的にプレビュー画像にレンダリングします。
+
+* **バッチページレンダリング**
+  大量の Word ファイルをアーカイブまたは公開ワークフロー用の画像セットに変換します。
+
+* **承認ワークフローのスナップショット**
+  レビューのチェックポイントやコンプライアンス記録のために、文書の固定された視覚バージョンを生成します。
+
+* **コンテンツ配信の最適化**
+  高速な視覚アクセスが必要な Web サービスや自動化パイプラインで画像出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

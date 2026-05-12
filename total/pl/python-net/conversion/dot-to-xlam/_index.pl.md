@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOT do XLAM przekształca szablony dokumentów w pliki arkuszy kalkulacyjnych typu dodatek, używane do rozszerzania przepływów pracy w arkuszach kalkulacyjnych. Jest to istotne, gdy treść oparta na szablonach przyczynia się do wielokrotnego wykorzystania funkcjonalności arkuszy kalkulacyjnych lub pakowanej logiki w obsługiwanych środowiskach.
+
+Dzięki interfejsom API Pythona, konwersję DOT do XLAM można włączyć do zautomatyzowanych systemów, które standaryzują tworzenie zaawansowanych zasobów arkuszy kalkulacyjnych z źródeł opartych na dokumentach.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Przygotowanie zasobów dodatku do arkusza kalkulacyjnego**
+  Przekształć zawartość DOT w wyjścia w formacie XLAM przeznaczone do wielokrotnego wykorzystania rozszerzeń arkuszy kalkulacyjnych.
+
+* **Pakowanie wielokrotnego użytku przepływów pracy**
+  Wspieraj scenariusze, w których struktury zdefiniowane w dokumentach zasilają zaawansowane rozwiązania arkuszy kalkulacyjnych.
+
+* **Funkcjonalne zasoby oparte na szablonach**
+  Przekształć zawartość dokumentu w pakowane zasoby arkuszy kalkulacyjnych do wielokrotnego użycia.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane przygotowanie dodatku**
+  Procesy Pythona mogą przekształcać szablony DOT w wyjścia kompatybilne z XLAM w razie potrzeby.
+
+* **Wsparcie zaawansowanego potoku arkuszy kalkulacyjnych**
+  Konwersja pomaga repozytoriom dokumentów przyczyniać się do wielokrotnego wykorzystania zasobów arkuszy kalkulacyjnych.
+
+* **Skalowalne generowanie funkcjonalnych wyjść**
+  Systemy programistyczne usprawniają tworzenie dużej liczby zaawansowanych plików pakietów arkuszy kalkulacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

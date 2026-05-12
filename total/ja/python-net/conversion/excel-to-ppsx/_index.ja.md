@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PythonでのExcelからPPSXへの変換は、スプレッドシートの内容を直接プレゼンテーション用の最新のスライドショーファイルに変換できるようにします。スプレッドシートベースの情報を、閲覧に最適化されたクリーンでプレゼンテーション準備が整った形式で共有する必要がある場合に便利です。
+
+この変換は、手動でスライドを作成することなく、構造化データから一貫したスライドショー出力を生成するPythonワークフローを支援し、自動化を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新のスライドショー作成**  
+  ExcelファイルをPPSX形式に変換し、最新のスライド環境で直接プレゼンテーションできるようにします。
+
+* **閲覧優先のプレゼンテーション共有**  
+  スプレッドシート由来の情報を、即時再生に焦点を当てた形式で提供します。
+
+* **構造化ブリーフィング出力**  
+  ビジネスまたは運用データを、すぐに表示できるスライドショー形式で提示します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー生成**  
+  Python APIを使用して、ExcelデータからPPSXファイルを作成し、定期的なレポートサイクルに対応します。
+
+* **プレゼンテーション配信の自動化**  
+  表形式のソースコンテンツを、スケーラブルなワークフローでプレゼンテーション準備が整った出力に変換します。
+
+* **定期的なブリーフィングパイプライン**  
+  ソースのスプレッドシートデータが変更されるたびに、更新されたスライドショーファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji ODT do EMAIL w a
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja ODT do e‑mail przekształca zawartość dokumentu w gotowy do wysyłki e‑mail, ułatwiając udostępnianie raportów, powiadomień, podsumowań lub sformatowanego tekstu w ramach przepływów komunikacyjnych. Jest to przydatne, gdy formalne dokumenty muszą zostać ponownie wykorzystane do bezpośredniej komunikacji.
+
+Dzięki interfejsom API Pythona, konwersja ODT do e‑mail może być zintegrowana z automatycznymi systemami powiadomień, procesami zatwierdzania oraz pipeline’ami komunikacji opartej na dokumentach. Zwiększa wydajność, przekształcając statyczne pliki w gotową do wysyłki treść.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Powiadomienia oparte na dokumentach**  
+  Konwertuje treść pisaną na komunikację przyjazną e‑mail.
+
+* **Dystrybucja raportów**  
+  Umożliwia szybkie udostępnianie podsumowań, aktualizacji lub ogłoszeń z dokumentów źródłowych.
+
+* **Komunikacja w przepływie pracy**  
+  Wspiera scenariusze zatwierdzania, alarmowania i wiadomości o statusie.
+
+* **Ponowne wykorzystanie treści**  
+  Ponownie wykorzystuje tekst dokumentu w korespondencji zewnętrznej lub wewnętrznej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Generowanie e‑maili na żądanie**  
+  Systemy mogą automatycznie konwertować pliki ODT na treść e‑mail, gdy pojawią się nowe dokumenty.
+
+* **Wiadomości w przepływie zatwierdzania**  
+  Automatyzacja w Pythonie może przekształcać podsumowania dokumentów w wiadomości dla recenzentów lub interesariuszy.
+
+* **Przygotowanie masowej korespondencji**  
+  Wiele dokumentów może być konwertowanych na gotową do wysyłki treść e‑mail w dużej skali.
+
+* **Powiadomienia oparte na zdarzeniach**  
+  Zmiany w repozytoriach dokumentów mogą wywoływać automatyczną konwersję i dystrybucję.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

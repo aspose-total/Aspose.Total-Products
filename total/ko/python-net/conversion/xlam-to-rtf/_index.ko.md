@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 XLAM에서 RTF로의 변환은 Excel 추가 기능 콘텐츠를 다양한 편집기와 플랫폼에서 널리 호환되는 리치 텍스트 문서로 변환할 수 있게 합니다. 이는 구조화된 콘텐츠를 기본 서식을 유지하면서 특정 오피스 제품군에 의존하지 않는 경량 텍스트 형식으로 공유해야 할 때 유용합니다.
+
+자동화 워크플로우에서 XLAM에서 RTF로의 변환은 효율적인 콘텐츠 교환, 간단한 문서 생성 및 광범위한 상호 운용성을 지원합니다. 이는 커뮤니케이션, 기록 또는 다양한 문서 도구와의 하위 통합을 위해 서식이 지정된 텍스트 출력이 필요한 시스템에 적합합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **경량 문서 공유**  
+  XLAM 콘텐츠를 RTF 파일로 변환하여 다양한 편집 환경에서 널리 호환됩니다.
+
+* **서식 있는 텍스트 배포**  
+  핵심 서식을 유지하면서 콘텐츠를 휴대 가능하고 재사용하기 쉽게 합니다.
+
+* **운영 기록 생성**  
+  스프레드시트 기반 비즈니스 리소스로부터 읽기 쉬운 텍스트 문서를 만드는 것을 지원합니다.
+
+* **도구 간 교환**  
+  유연한 텍스트 문서 형식이 필요한 시스템 간에 구조화된 콘텐츠를 이동하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **대량 텍스트 문서 변환**  
+  Python API를 사용하면 다수의 XLAM 파일을 RTF 출력으로 변환하여 확장 가능한 콘텐츠 배포가 가능합니다.
+
+* **시스템 간 콘텐츠 교환**  
+  자동화된 파이프라인은 RTF를 하위 문서 워크플로우를 위한 중간 형식으로 사용할 수 있습니다.
+
+* **보고서 내보내기 자동화**  
+  스프레드시트 기반 콘텐츠를 프로그래밍 방식으로 서식이 지정된 텍스트 문서로 게시할 수 있습니다.
+
+* **보관 및 커뮤니케이션 워크플로우**  
+  변환 프로세스는 저장, 검토 또는 공유를 위한 경량 서식 파일을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

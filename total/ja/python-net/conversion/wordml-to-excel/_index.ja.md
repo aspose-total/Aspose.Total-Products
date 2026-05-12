@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から Excel への変換は、WordprocessingML ドキュメントから構造化されたコンテンツを、分析、レポート作成、運用トラッキングに適したスプレッドシート形式へ移行します。特に、ドキュメントにテーブルや半構造化情報が含まれ、編集可能なブックデータに変換する必要がある場合に有用です。
+
+Python API を使用すると、ドキュメントのテーブルを抽出し、ワークシートのコンテンツを整理し、変換タスクを自動化されたビジネスおよびデータ操作に統合することで、WordML から Excel への変換をスケーラブルに実現できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **スプレッドシート作成**
+  ドキュメントのテーブルを編集およびレビュー用のブックベース形式に変換します。
+
+* **レポート有効化**
+  構造化されたドキュメントコンテンツを数式、チャート、スプレッドシート分析で利用できるようにします。
+
+* **ビジネスデータ転送**
+  ドキュメントからスプレッドシート駆動システムへの運用データの移行をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動ブック生成**
+  WordML ドキュメントのバッチから手動コピーなしで Excel 互換ファイルを作成します。
+
+* **レポートパイプライン統合**
+  変換されたスプレッドシート出力をダッシュボード、監査、または計画ワークフローに供給します。
+
+* **構造化データ正規化**
+  ドキュメントコンテンツをワークシートレイアウトに標準化し、再利用可能な下流利用のために整えます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

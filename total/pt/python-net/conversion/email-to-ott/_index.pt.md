@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para OTT em Python converte mensagens em modelos de documento aberto que podem ser reutilizados para a criação de conteúdo padronizado. Isso é útil quando estruturas de e‑mail recorrentes precisam se tornar ativos de modelo dentro de ambientes de documento aberto.
+
+Ela aprimora a automação ao transformar padrões de comunicação em arquivos de modelo reutilizáveis que simplificam a geração de documentos e reduzem o trabalho repetitivo de formatação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo Aberto**
+  Converta e‑mails em arquivos OTT para geração de documentos baseada em modelos repetíveis.
+
+* **Padronização de Layout Reutilizável**
+  Capture estruturas consistentes de e‑mail como modelos de documento aberto.
+
+* **Preparação de Formulário de Fluxo de Trabalho**
+  Crie modelos iniciais a partir do conteúdo da mensagem para processos de negócios recorrentes.
+
+* **Suporte a Modelos Multiplataforma**
+  Use modelos abertos em ecossistemas colaborativos de documentos sem dependência proprietária.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação da Biblioteca de Modelos**
+  Construa modelos OTT a partir de e‑mails estruturados para reutilização departamental.
+
+* **Geração de Saída Padronizada**
+  Aplique modelos derivados de e‑mail para automatizar a criação recorrente de documentos abertos.
+
+* **Otimização de Processos**
+  Reduza a formatação manual incorporando lógica de modelo nos fluxos de trabalho de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

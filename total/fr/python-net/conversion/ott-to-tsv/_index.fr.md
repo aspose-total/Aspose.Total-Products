@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers TSV dans les API Python convertit les modèles de texte OpenDocument en valeurs séparées par des tabulations pour un échange de données propre, léger et structuré. Cela est utile lorsque le contenu basé sur des modèles doit être transféré vers des systèmes qui privilégient une sortie tabulaire simple, basée sur du texte.
+
+La conversion améliore l'automatisation en permettant un parsing, une transformation et un chargement faciles dans des flux de travail qui valorisent une surcharge minimale, la portabilité et une structure fiable basée sur des délimiteurs.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de données délimitées**  
+  Convertit le contenu du document en sortie structurée à valeurs séparées par des tabulations.
+
+* **Mise en forme adaptée aux pipelines**  
+  Prend en charge les systèmes qui traitent des tableaux légers basés sur du texte.
+
+* **Préparation des données**  
+  Facilite l'importation du contenu extrait dans des outils analytiques ou opérationnels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Conversion tabulaire par lots**  
+  Génère des fichiers TSV à partir de modèles OTT à grande échelle.
+
+* **Alimentation du flux de travail ETL**  
+  Envoie les données dérivées du document vers des pipelines d'analyse et de transformation.
+
+* **Exportations structurées planifiées**  
+  Prend en charge la génération récurrente de jeux de données simples lisibles par machine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

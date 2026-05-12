@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から Email への変換は、書式設定されたテキスト文書を、アウトバウンド通信、通知、またはメッセージテンプレートに埋め込むことができるメール対応コンテンツに変換します。レポートテキスト、通知、要約、またはクライアント向けコンテンツを、コミュニケーションに適した形式に再利用するのに便利です。
+
+自動化された環境では、RTF から Email への変換は、作成された文書コンテンツをアラート、キャンペーン、承認、取引通信向けの再利用可能なメール本文に変換することで、スケーラブルなメッセージングワークフローを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **文書ベースのメール作成**  
+  リッチテキストコンテンツを、内部または外部のコミュニケーション向けに再利用可能なメールメッセージに変換します。
+
+* **通知および更新の配信**  
+  作成された文書から派生した告知や要約の送信をサポートします。
+
+* **テンプレート駆動メッセージング**  
+  標準的な文書コンテンツを、チーム全体で一貫したメール出力に変換するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動通知生成**  
+  システムは、RTF ファイルをスケジュールまたはイベント駆動型配信用のメールコンテンツに変換できます。
+
+* **ワークフロー承認メッセージング**  
+  文書の要約は、プログラムで承認リクエストやステータスメールに変換できます。
+
+* **大量アウトリーチプロセス**  
+  大量のコミュニケーションパイプラインは、作成されたテキスト資産をスケーラブルなメール対応コンテンツに変換することで恩恵を受けます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

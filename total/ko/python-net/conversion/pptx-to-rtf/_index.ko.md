@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX를 RTF로 변환하면 프레젠테이션 자료를 편집 가능성과 광범위한 호환성을 균형 있게 갖춘 휴대용 리치 텍스트 형식으로 바꿉니다. 슬라이드 내용을 텍스트 기반 시스템에서 재사용하거나, 다양한 환경 간에 교환하거나, 유연한 문서 구조로 보존해야 할 때 유용합니다.
+
+Python API를 사용하면 PPTX를 RTF로 변환하는 작업을 자동화하여 콘텐츠 마이그레이션, 크로스 플랫폼 공유 및 간소화된 문서 처리를 지원할 수 있습니다. 이는 프레젠테이션 콘텐츠를 가볍지만 형식이 지정된 텍스트 자산으로 변환하여 확장 가능한 처리에 적합하게 만들어 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **크로스 플랫폼 문서 교환**
+  슬라이드 콘텐츠를 많은 텍스트 편집기와 문서 도구에서 열 수 있는 형식으로 변환합니다.
+
+* **리치 텍스트 재사용**
+  프레젠테이션 자료를 편집 가능한 텍스트 문서로 이동하면서 기본 서식을 보존합니다.
+
+* **레거시 워크플로 호환성**
+  처리 또는 저장을 위해 더 단순한 문서 표준에 의존하는 환경을 지원합니다.
+
+* **콘텐츠 보존**
+  문서화를 위해 슬라이드 자료를 재활용할 때 가독성 있는 서식을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **텍스트 변환 파이프라인**
+  프레젠테이션에서 RTF 파일을 자동으로 생성하여 호환 가능한 하위 시스템에 전달합니다.
+
+* **아카이브 재포맷**
+  PPTX 파일을 일괄 변환하여 장기 접근성을 위한 휴대용 텍스트 문서로 만듭니다.
+
+* **다중 환경 퍼블리싱**
+  다양한 문서 도구가 공통 텍스트 형식을 필요로 할 때 프로그래밍 방식 변환을 사용합니다.
+
+* **문서 교환 자동화**
+  프레젠테이션 워크플로와 텍스트 기반 시스템 간의 콘텐츠 공유를 간소화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

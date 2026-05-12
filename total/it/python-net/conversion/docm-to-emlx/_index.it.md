@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOCM a EMLX converte documenti abilitati alle macro in file di messaggi email utilizzati in ecosistemi di archiviazione della posta specifici, contribuendo a preservare il contenuto in un formato di comunicazione strutturato. Questo è utile quando il contenuto del documento deve allinearsi a flussi di lavoro email specifici della piattaforma o a requisiti di archiviazione.
+
+In contesti di automazione, la conversione da DOCM a EMLX consente la generazione, l'organizzazione e la conservazione sistematica del contenuto dei messaggi basati su documenti all'interno di ambienti di comunicazione controllati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Uscita messaggi specifica per piattaforma**
+  Crea file messaggio su misura per ambienti che utilizzano strutture di archiviazione EMLX.
+
+* **Archiviazione della comunicazione documentale**
+  Preserva il contenuto del documento come artefatti email per la conservazione o la revisione.
+
+* **Compatibilità del flusso di lavoro**
+  Supporta i sistemi che richiedono l'ingestione basata su file messaggio anziché su input di documento grezzo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di file di posta**
+  Produce file EMLX da sorgenti DOCM in routine di elaborazione ripetibili.
+
+* **Supporto al flusso di lavoro di conservazione**
+  Aiuta ad archiviare le comunicazioni derivate da documenti in repository di posta strutturati.
+
+* **Pipeline di conversione batch**
+  Scala la conversione per grandi insiemi di file DOCM che attraversano flussi di lavoro di comunicazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

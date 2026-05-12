@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}}
+
+Python における PPS から DOCM への変換は、プレゼンテーションのスライドショーをマクロ対応のドキュメントファイルに変換し、高度な文書ワークフローを実現します。変換されたコンテンツが組み込みの自動化やカスタムアクション、構造化されたビジネス文書の取り扱いをサポートする必要がある場合に有用です。
+
+最新の自動化環境において、PPS から DOCM への変換はプレゼンテーションコンテンツとプログラム可能な文書プロセスをつなぐ役割を果たします。変換されたファイルは編集可能であるだけでなく、ルールベースやマクロ駆動の操作に参加できるスケーラブルなワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応ドキュメント作成**
+  プレゼンテーションコンテンツを自動化アクションをサポートできるドキュメントに変換します。
+
+* **業務プロセス文書化**
+  スライド資料を業務ワークフローで使用される文書に再フォーマットします。
+
+* **テンプレートベースの拡張**
+  変換されたコンテンツを高度なマクロ支援編集の出発点として使用します。
+
+* **レガシー プレゼンテーションの再利用**
+  有用なスライドコンテンツを、よりワークフローに適した文書形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **文書ワークフロー自動化**
+  マクロ対応処理に依存するシステム向けに、PPS ファイルを DOCM に変換します。
+
+* **ルールベースのコンテンツ処理**
+  変換された文書を自動検証やフォーマット処理に供給します。
+
+* **大量変換サービス**
+  複数のスライドファイルを DOCM 出力に変換し、エンタープライズ文書業務に活用します。
+
+* **プログラム的出力配布**
+  マクロ対応文書を生成し、自動化されたビジネスパイプラインを通じて配布します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から SXC への変換は、OpenDocument のテキストテンプレートを、古い OpenOffice スプレッドシートのワークフローに適したスプレッドシートファイルに変換します。これは、文書内容を構造化された編集可能な表形式に変換し、レガシー互換環境で使用する必要がある場合に役立ちます。
+
+この変換は、文書情報を標準的に抽出し、既存の OpenOffice 形式に依存し続けるスプレッドシートワークフローへ組み込むことで、自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レガシースプレッドシートサポート**  
+  古い OpenOffice ワークフローと互換性のあるスプレッドシート出力を作成します。
+
+* **文書データの構造化**  
+  テキストテンプレートの内容を編集可能な表に変換します。
+
+* **運用互換性**  
+  生成されたデータを既存のスプレッドシートエコシステムに統合するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レガシーエクスポート**  
+  互換性重視のワークフロー向けに、OTT ソースから SXC ファイルを生成します。
+
+* **バッチデータ変換**  
+  多数のテンプレートファイルを効率的に表形式のレガシー出力に変換します。
+
+* **システム継続性統合**  
+  古いスプレッドシート処理チェーンを保持する環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT から DOTM への変換は、Python API を使用して Outlook のメールテンプレートをマクロ対応の Word テンプレートに変換し、高度な文書自動化を実現します。再利用可能なコンテンツを、カスタムロジックや繰り返し可能な文書アクションをサポートするテンプレートファイルに埋め込む必要がある場合に有用です。
+
+この変換は、標準化されたテンプレート設計とプログラム可能な動作を組み合わせることで、オートメーション戦略を強化します。効率的な文書作成、制御された処理、そしてスケーラブルなテンプレートベースの運用を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレートの作成**  
+  OFT ファイルを DOTM テンプレートに変換し、埋め込みアクションを伴う自動文書生成を実現します。
+
+* **繰り返し可能な業務文書ワークフロー**  
+  変換されたテンプレートを使用して、定期的なコンテンツ生成タスクを標準化します。
+
+* **プログラム可能なコンテンツ再利用**  
+  メールテンプレートのコンテンツを、カスタム文書自動化をサポートする構造化テンプレートに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート駆動の自動化パイプライン**  
+  OFT ファイルから DOTM テンプレートを生成し、文書を自動的に作成するシステム向けに提供します。
+
+* **ルールベースの文書処理**  
+  変換されたテンプレートを、スクリプトまたはマクロ支援アクションをトリガーするワークフローに統合します。
+
+* **スケーラブルなコンテンツ標準化**  
+  Python API を使用して、部門やプロジェクト全体で一貫したマクロ対応テンプレートを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

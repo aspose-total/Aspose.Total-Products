@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de TIFF en OST à l'aide des API Python prend en charge la transformation du contenu de documents basés sur des images en structures de données orientées boîte aux lettres utilisées pour l'accès aux e‑mails hors ligne et les flux de travail de synchronisation. Cela peut être pertinent lorsque les enregistrements dérivés de TIFF doivent s'aligner sur les modèles de stockage des e‑mails utilisés dans les environnements de communication d'entreprise.
+
+Pour l'automatisation et l'évolutivité, la conversion de TIFF en OST aide à centraliser les actifs de communication basés sur les documents, à soutenir le traitement orienté boîte aux lettres et à améliorer la continuité opérationnelle dans les environnements synchronisés. Elle contribue à une meilleure intégration entre le contenu numérisé et les systèmes de messagerie gérés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation des données de courrier hors ligne**
+  Convertit le contenu dérivé de TIFF en formats alignés avec les flux de travail de boîtes aux lettres hors ligne.
+
+* **Support de la communication d'entreprise**
+  Aide à intégrer les enregistrements basés sur des images dans des environnements de messagerie structurés.
+
+* **Gestion des enregistrements synchronisés**
+  Prend en charge les cas d'utilisation où le contenu visuel doit s'intégrer aux écosystèmes de boîtes aux lettres gérées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de synchronisation de boîtes aux lettres**
+  Automatise la préparation du contenu basé sur TIFF pour les flux de travail de courrier hors ligne et synchronisé.
+
+* **Systèmes de communication centrés sur les documents**
+  Permet aux entrées numérisées d'alimenter les processus de messagerie d'entreprise structurés de manière programmatique.
+
+* **Consolidation des données opérationnelles**
+  Prend en charge les flux de conversion à grande échelle qui placent les informations dérivées d'images dans des structures alignées sur les boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

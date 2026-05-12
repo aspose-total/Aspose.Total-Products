@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to XLS 変換は、Word のコンテンツを構造化されたレビュー、計算、運用レポートに使用されるスプレッドシート形式に変換します。文書ベースの表やレコードを編集可能なスプレッドシートデータにする必要がある場合に有用です。
+
+Python API を使用した DOC から XLS への変換は、効率を向上させ、繰り返し可能な抽出をサポートし、文書コンテンツをスプレッドシート中心のビジネスワークフローに統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **スプレッドシートデータ変換**
+  文書の表を編集および分析用の XLS ファイルに変換します。
+
+* **レポートとレビュー**
+  文書由来のコンテンツをスプレッドシートベースのレポート作業用に準備します。
+
+* **レガシースプレッドシート互換性**
+  古いスプレッドシート環境がまだ稼働している場合に XLS 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スプレッドシートエクスポート**
+  定期的な運用ワークフローの一環として DOC ファイルを XLS に変換します。
+
+* **バッチデータ準備**
+  プログラムで文書から構造化データを抽出し、スプレッドシート形式に変換します。
+
+* **システム統合パイプライン**
+  スプレッドシート互換の出力を分析、財務、または計画システムに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

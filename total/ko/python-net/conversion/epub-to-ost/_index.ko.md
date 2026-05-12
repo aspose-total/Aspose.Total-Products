@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 EPUB를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 EPUB을 OST로 변환하는 것은 디지털 출판물 콘텐츠를 오프라인 메일함 데이터 워크플로와 연관된 형식으로 변환하는 것을 지원합니다. 이는 출판물 콘텐츠가 로컬 메시징 저장소 또는 구조화된 통신 환경과 일치해야 하는 특수한 시나리오에서 유용할 수 있습니다.
+
+자동화 환경에서 EPUB을 OST로 변환하면 Python 기반 프로세스가 제어된 콘텐츠 패키징, 마이그레이션 준비 및 오프라인 메일 지향 구조에 의존하는 시스템을 위한 문서 정보의 효율적인 처리를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **오프라인 메일 데이터 준비**  
+  로컬 메일함 저장 구조와 관련된 워크플로를 위해 EPUB 콘텐츠를 OST 호환 출력으로 변환합니다.
+
+* **콘텐츠 마이그레이션 지원**  
+  메시지 지향 데이터 환경으로 이동하기 위해 출판물 콘텐츠를 준비할 때 변환된 출력을 사용합니다.
+
+* **구조화된 데이터 보존**  
+  오프라인 통신 저장 요구사항에 맞는 형식으로 문서 콘텐츠를 보존합니다.
+
+* **엔터프라이즈 워크플로 정렬**  
+  출판물 데이터가 오프라인 메시징 또는 동기화된 저장 시스템과 통합되어야 하는 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 데이터 패키징**  
+  Python 워크플로는 EPUB 파일을 구조화된 저장 준비를 위한 OST 지향 출력으로 변환할 수 있습니다.
+
+* **마이그레이션 파이프라인 자동화**  
+  변환은 출판물 콘텐츠를 재활용하는 자동화된 마이그레이션 루틴에 삽입될 수 있습니다.
+
+* **대용량 처리**  
+  프로그래밍 작업은 대규모 데이터셋에 걸쳐 반복적인 EPUB에서 OST로 변환 작업을 관리할 수 있습니다.
+
+* **시스템 통합 워크플로**  
+  자동화된 변환은 콘텐츠 저장소와 메일 기반 저장 프로세스 간의 연결을 보다 효율적으로 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

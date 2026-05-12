@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM에서 PPTX로의 변환은 매크로가 포함된 문서를 슬라이드 제작, 공유 및 시각적 커뮤니케이션에 널리 사용되는 최신 프레젠테이션 파일로 변환합니다. 구조화된 문서 콘텐츠를 편집 가능하고 프레젠테이션 준비가 된 자산으로 재활용해야 할 때 유용합니다.
+
+자동화 및 통합을 위해, DOCM에서 PPTX로의 변환은 확장 가능한 슬라이드 생성, 표준화된 보고, 그리고 문서에서 최신 프레젠테이션 워크플로우로의 효율적인 콘텐츠 이동을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대적인 프레젠테이션 출력**
+  문서 자료를 편집 및 배포를 위한 최신 슬라이드 형식으로 변환합니다.
+
+* **경영 및 운영 커뮤니케이션**
+  문서 기반 인사이트를 보다 시각적이고 접근하기 쉬운 형태로 제시하는 데 도움을 줍니다.
+
+* **재사용 가능한 슬라이드 개발**
+  원본 문서에서 만든 프레젠테이션 자산의 지속적인 개선을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드 데크 생성**
+  반복되는 비즈니스 워크플로우를 위해 DOCM 소스에서 PPTX 파일을 생성합니다.
+
+* **확장 가능한 보고 시스템**
+  문서 기반 콘텐츠에서 프레젠테이션을 프로그래밍 방식으로 생성할 수 있게 합니다.
+
+* **퍼블리싱 파이프라인과의 통합**
+  문서 변환을 프레젠테이션 저장, 검토 및 전달 프로세스와 연결합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

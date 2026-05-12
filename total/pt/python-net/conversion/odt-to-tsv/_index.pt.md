@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de ODT para TSV converte o conteúdo de documentos em um formato de texto separado por tabulações, adequado para troca de dados estruturados e processamento leve. É valiosa quando tabelas ou registros baseados em documentos precisam ser transferidos para uma estrutura simples e legível por máquinas.
+
+Usando APIs Python, a conversão de ODT para TSV suporta extração de dados escalável, pipelines de ingestão e processamento de documentos interoperáveis. Ela simplifica a movimentação de conteúdo estruturado para análises, armazenamento e fluxos de trabalho de transformação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação Estruturada Simples**  
+  Converte tabelas de documentos em um formato leve delimitado por tabulações.
+
+* **Preparação de Pipeline de Dados**  
+  Suporta ingestão fácil em sistemas de processamento e análise.
+
+* **Normalização de Registros**  
+  Ajuda a padronizar o conteúdo extraído para uso posterior.
+
+* **Troca Interoperável Baseada em Texto**  
+  Torna o conteúdo de documentos estruturados mais fácil de mover entre plataformas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Extração Automatizada de Tabelas**  
+  Fluxos de trabalho Python podem converter o conteúdo ODT em TSV para saídas prontas para pipelines.
+
+* **Conversão em Lote para Análise**  
+  Grandes conjuntos de documentos podem ser exportados automaticamente para texto estruturado simples.
+
+* **Fluxos de Trabalho de Limpeza e Exportação de Dados**  
+  Valores extraídos podem ser validados antes de serem gravados em arquivos TSV.
+
+* **Pipelines de Integração de Sistemas**  
+  Saídas TSV convertidas podem alimentar bancos de dados, scripts ou processos de relatório.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

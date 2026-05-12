@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de MSG a TEXT extrae el contenido del mensaje de correo electrónico en texto plano para un almacenamiento, búsqueda y procesamiento simples. Es valiosa cuando el acceso a contenido limpio importa más que el formato y cuando se necesita una salida ligera para indexación o análisis.
+
+Para la automatización, los flujos de trabajo de MSG a TEXT admiten minería de texto, canalizaciones de búsqueda e ingestión de contenido normalizado. Ayudan a convertir los datos de comunicación en un formato mínimo y amigable para máquinas, adecuado para el procesamiento escalable.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Extracción de Texto Plano**  
+  Aísla el contenido del correo electrónico para una lectura fácil, almacenamiento o análisis posterior.
+
+* **Soporte de Búsqueda e Indexación**  
+  Prepara el texto del mensaje para flujos de trabajo de catalogación y recuperación.
+
+* **Procesamiento de Datos Ligero**  
+  Utiliza una salida simplificada en canalizaciones que no requieren retención de formato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Canalizaciones de Ingesta de Contenido**  
+  Convierte archivos MSG en texto plano para sistemas de indexación y clasificación.
+
+* **Flujos de Trabajo de Analítica de Texto**  
+  Alimenta el contenido del mensaje extraído a procesos automáticos de análisis o monitoreo.
+
+* **Creación de Archivos Normalizados**  
+  Almacena los registros de comunicación en forma de texto compacto para una retención escalable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

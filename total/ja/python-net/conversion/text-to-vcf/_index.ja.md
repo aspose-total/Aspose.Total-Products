@@ -46,9 +46,46 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用したテキストから VCF への変換により、プレーンテキストの連絡先情報を標準化されたデジタル連絡先ファイルに変換できます。これは、連絡先の共有、データのポータビリティ、顧客レコードの取り扱い、そして生テキストソースから構造化された連絡先情報が必要なワークフローに役立ちます。
+
+テキストを VCF 形式に変換することで、オートメーションシステムは連絡先作成を効率化し、アドレス帳データを同期し、アプリケーションやプラットフォーム間で構造化された連絡先レコードのスケーラブルな交換をサポートできます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **デジタル連絡先作成**  
+  テキストベースの連絡先情報を VCF ファイルに変換し、簡単にインポートおよび共有できるようにします。
+
+* **アドレス帳の同期**  
+  システムやデバイス間での統合のために連絡先データを標準化するのに役立ちます。
+
+* **リードおよび顧客レコードの取り扱い**  
+  生テキストエントリをポータブルな連絡先資産に変換することをサポートします。
+
+* **連絡先交換ワークフロー**  
+  プラットフォーム間で人物や組織の詳細を構造化して転送できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動生成された連絡先ファイル**  
+  フォーム、データベース、またはスクリプトがテキスト入力を自動的に VCF ファイルに変換できます。
+
+* **大量連絡先処理**  
+  大量のテキストベースの連絡先データをプログラムで標準化されたレコードに変換できます。
+
+* **CRM およびディレクトリ統合**  
+  オートメーションは、テキストソースから連絡先ファイルを作成し、オンボーディング、同期、またはエクスポートプロセスに利用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

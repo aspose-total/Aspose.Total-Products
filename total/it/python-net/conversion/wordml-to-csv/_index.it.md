@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a CSV trasforma il contenuto strutturato WordprocessingML in file di dati semplici, basati su delimitatori, facili da analizzare, importare e processare nei report e nei flussi di dati. È utile quando le tabelle basate su documenti devono essere convertite in record leggeri e leggibili da macchine.
+
+L'uso delle API Python per la conversione da WordML a CSV aiuta ad automatizzare l'estrazione delle tabelle, normalizzare righe e colonne e supportare flussi di lavoro scalabili da documento a dati in ambiti aziendali, archivistici e di integrazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione dati tabellari**
+  Converte il contenuto tabellare dei file WordML in formato CSV per una più semplice elaborazione a valle.
+
+* **Preparazione per l'analisi**
+  Rende i dati basati su documenti utilizzabili nei flussi di lavoro di reporting, visualizzazione e business intelligence.
+
+* **Interoperabilità di sistema**
+  Semplifica lo scambio di dati tra repository di documenti e sistemi di fogli di calcolo o database.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Parsing batch di documenti**
+  Automatizza l'estrazione delle tabelle da più file WordML in output CSV standardizzati.
+
+* **Integrazione della pipeline dati**
+  Supporta l'ingestione automatizzata dei file CSV convertiti in pipeline ETL, analisi o flussi di lavoro di validazione.
+
+* **Esportazione programmata dei contenuti**
+  Consente lavori di conversione ricorrenti per reporting operativo e aggiornamenti dei dati basati su documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

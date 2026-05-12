@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PPSX vers XLS transforme les informations dérivées d’une présentation en un format de feuille de calcul qui prend en charge l’organisation des données, les calculs et la révision structurée. Elle est utile lorsque le contenu des diapositives comprend des données mesurables, tabulaires ou commerciales qui doivent être analysées ou gérées dans des environnements basés sur des feuilles de calcul.
+
+Dans le cadre d’initiatives d’automatisation, la conversion PPSX vers XLS permet la compatibilité avec les feuilles de calcul héritées, améliore l’accessibilité des données et prend en charge les flux de travail de transformation scriptés via les API Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Extraction de données de feuille de calcul**  
+  Convertit les informations basées sur les diapositives en contenu tabulaire prêt à être utilisé dans une feuille de calcul.
+
+* **Support des feuilles de calcul héritées**  
+  Fournit une sortie adaptée aux systèmes qui dépendent encore d’anciens formats de feuilles de calcul.
+
+* **Analyse opérationnelle**  
+  Facilite la gestion des données de présentation au sein des flux de travail de feuilles de calcul.
+
+* **Entrée de reporting structuré**  
+  Permet la réutilisation du contenu de la présentation dans des tâches de reporting basées sur des feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération automatisée de fichiers hérités**  
+  Les API Python peuvent convertir les fichiers PPSX en XLS pour des flux de travail axés sur la compatibilité.
+
+* **Exportation batch de feuilles de calcul**  
+  L’automatisation peut traiter de nombreux fichiers de présentation en sorties de feuilles de calcul en une seule exécution.
+
+* **Pipelines d’intégration système**  
+  Les fichiers XLS convertis peuvent alimenter des systèmes opérationnels ou de reporting automatisés.
+
+* **Support de migration de données**  
+  La conversion programmatique aide à transférer le contenu des présentations vers des environnements de feuilles de calcul.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

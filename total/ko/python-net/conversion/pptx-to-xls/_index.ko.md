@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX to XLS 변환은 프레젠테이션 콘텐츠를 표 형식 조직 및 분석에 사용되는 레거시 스프레드시트 형식으로 변환합니다. 이는 오래된 스프레드시트 시스템이나 호환성 요구 사항으로 인해 전통적인 워크시트 출력이 데이터 재사용, 보고 또는 마이그레이션에 필요할 때 유용합니다.
+
+Python API를 사용하면 PPTX to XLS 변환을 자동화하여 레거시 통합 및 대량 데이터 추출 워크플로를 지원할 수 있습니다. 이를 통해 조직은 프레젠테이션 테이블 및 구조화된 콘텐츠를 스프레드시트 준비 데이터로 변환하면서 기존 시스템과의 호환성을 유지할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 호환성**
+  프레젠테이션 데이터를 오래된 스프레드시트 환경에서 지원되는 형식으로 내보냅니다.
+
+* **표형 데이터 재사용**
+  슬라이드 테이블 및 구조화된 콘텐츠를 워크시트 기반 워크플로에 재활용합니다.
+
+* **역사적 시스템 통합**
+  프레젠테이션에서 파생된 데이터 전송을 레거시 보고 또는 저장 도구로 가능하게 합니다.
+
+* **운영 보고 지원**
+  추출된 정보를 스프레드시트 기반 검토 및 배포를 위해 정리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **레거시 워크플로 자동화**
+  기존 비즈니스 시스템을 위해 PPTX 파일을 자동으로 XLS로 변환합니다.
+
+* **배치 데이터 마이그레이션**
+  여러 프레젠테이션을 스프레드시트 출력으로 처리하여 보관 또는 전송에 사용합니다.
+
+* **호환성 중심 보고**
+  오래된 스프레드시트 인프라에서 운영되는 팀을 위해 XLS 파일을 생성합니다.
+
+* **프로그래밍 방식 데이터 추출**
+  Python API를 사용하여 슬라이드 콘텐츠를 워크시트 호환 데이터셋으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

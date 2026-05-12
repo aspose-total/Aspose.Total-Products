@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG から OFT への変換は、ベクターベースのコンテンツを、繰り返し可能なメッセージ作成と標準化されたコミュニケーションワークフローをサポートするメールテンプレート形式に変換します。これは、グラフィックやレイアウト主導のソース素材を、将来のメール生成のための構造化テンプレートとして再利用する必要がある場合に価値があります。
+
+SVG から OFT への変換に Python API を使用することで、オートメーションチームは SVG アセットからスケーラブルなテンプレート作成パイプラインを構築できます。手動でのフォーマット作業を削減し、一貫した出力をサポートし、プログラムによるテンプレート生成を可能にすることで、生産性が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なメールテンプレート作成**  
+  SVG コンテンツを OFT ファイルに変換し、繰り返し可能なメッセージングワークフローを実現します。
+
+* **一貫したコミュニケーションデザイン**  
+  定期的に使用されるメールテンプレート全体で、構造化されたレイアウト意図を保持するのに役立ちます。
+
+* **運用テンプレートの標準化**  
+  ビジュアルソースドキュメントからテンプレートファイルを集中生成することをサポートします。
+
+* **ワークフロー対応コンテンツの再利用**  
+  チームが SVG アセットをテンプレート駆動のコミュニケーションリソースとして再利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート公開**  
+  Python アプリケーションは SVG デザインを OFT テンプレートに変換し、一貫した再利用を可能にします。
+
+* **キャンペーン準備ワークフロー**  
+  システムは承認済みの SVG アセットからプログラム的にメールテンプレートを生成できます。
+
+* **バッチテンプレート生成**  
+  複数の SVG ファイルを OFT 出力に変換し、スケーラブルなコミュニケーション運用を実現します。
+
+* **動的テンプレート管理**  
+  自動化パイプラインは SVG コンテンツの変更に応じて OFT テンプレートを更新・再生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

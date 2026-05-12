@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から EMAIL への変換は、マクロ対応のドキュメント コンテンツをメール指向のワークフローで使用できるように準備し、ドキュメント情報をメッセージ対応の出力に変換することを容易にします。これは、通知、要約、承認、またはドキュメント コンテンツに基づくコミュニケーション プロセスに役立ちます。
+
+最新の自動化システムにおいて、DOCM から EMAIL への変換は、作成されたドキュメントとコミュニケーション パイプラインをつなぎ、スケーラブルな配布、テンプレート化されたメッセージング、ワークフロー起動型のやり取りを可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ドキュメントベースの通知**
+  ドキュメント コンテンツを運用コミュニケーション向けのメール対応素材に変換します。
+
+* **承認ワークフロー**
+  レビューアやステークホルダーとドキュメント由来の要約を共有することをサポートします。
+
+* **メッセージングにおけるコンテンツ再利用**
+  コミュニケーション チャネル内で正式なドキュメントテキストを再利用しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **トリガーメッセージ生成**
+  新しい DOCM ファイルがワークフローに入ると、メール コンテンツを自動的に作成します。
+
+* **ドキュメントからコミュニケーションへのパイプライン**
+  作成されたコンテンツを自動化されたアウトバウンド メッセージング システムと接続します。
+
+* **スケーラブルな配布プロセス**
+  多数のドキュメントから一括でメッセージ対応出力を作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

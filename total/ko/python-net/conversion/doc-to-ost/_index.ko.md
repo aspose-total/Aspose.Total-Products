@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOC를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to OST 변환은 오프라인 사서함 데이터 및 동기화된 메일 환경과 연관된 워크플로를 위해 문서 기반 콘텐츠를 준비합니다. 이는 문서 정보가 기업 메시징 저장 구조와 일치해야 하는 상황에서 유용합니다.
+
+DOC를 OST 지향 처리에 활용하는 Python API를 사용하면 자동화 준비성을 향상시키고, 표준화된 처리를 지원하며, 메일 관련 기업 운영에서 수작업을 감소시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **사서함 데이터 준비**
+  오프라인 메일 저장소와 상호 작용하는 워크플로를 위해 문서 기반 콘텐츠를 변환합니다.
+
+* **기업 커뮤니케이션 지원**
+  동기화된 메일 시스템에서 사용되는 메시징 환경에 문서 출력물을 맞춥니다.
+
+* **보존 워크플로 통합**
+  사서함 지향 작업 내에서 문서 기반 콘텐츠를 보존하거나 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **메일 저장 자동화**
+  OST 관련 기업 워크플로를 위해 문서 콘텐츠를 프로그래밍 방식으로 준비합니다.
+
+* **대규모 변환 작업**
+  사서함 호환 처리가 필요한 경우 문서 처리를 자동화합니다.
+
+* **컴플라이언스 및 보존 파이프라인**
+  제어된 메시지 데이터 환경을 지원하기 위해 스크립트 변환 단계를 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

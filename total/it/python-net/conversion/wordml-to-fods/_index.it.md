@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a FODS esporta contenuti strutturati basati su documenti nel formato Flat OpenDocument Spreadsheet, utile per flussi di lavoro di fogli di calcolo a standard aperti e per l'elaborazione basata su XML. Supporta ambienti che privilegiano formati di dati trasparenti, portabili e orientati agli standard.
+
+Le API Python aiutano ad automatizzare la conversione da WordML a FODS trasformando tabelle e testo strutturato in rappresentazioni di fogli di calcolo aperti, adatte a processi di integrazione scalabili e di validazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Conversione in Foglio di Calcolo Aperto**
+  Converte le tabelle WordML in un formato di foglio di calcolo aperto e piatto per l'elaborazione standardizzata.
+
+* **Gestione Dati Compatibile XML**
+  Supporta flussi di lavoro che traggono vantaggio da strutture XML di fogli di calcolo leggibili e portabili.
+
+* **Scambio Basato su Standard**
+  Consente la condivisione di dati strutturati negli ecosistemi di documenti aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di Esportazione in Formato Aperto**
+  Automatizza la conversione da WordML a FODS per flussi di lavoro conformi agli standard.
+
+* **Lavori di Validazione e Trasformazione**
+  Utilizza l'output di foglio di calcolo XML piatto in routine di ispezione o trasformazione automatizzate.
+
+* **Modernizzazione del Repository**
+  Aiuta a migrare dati tabulari basati su documenti in formati di fogli di calcolo aperti e processabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

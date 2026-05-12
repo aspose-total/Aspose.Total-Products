@@ -65,7 +65,41 @@ Det är främst i två steg. Använd först [Aspose.Words for Python via .NET](h
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM till SXC-omvandling omvandlar makroaktiverade dokument till kalkylbladsfiler som är kompatibla med äldre öppna kalkylbladsarbetsflöden, vilket möjliggör återanvändning av strukturerat innehåll i tabellform. Det är användbart när dokumentbaserade data måste utbytas med äldre system som fortfarande är beroende av äldre kalkylbladsstandarder.
+
+För automatisering stödjer DOCM till SXC-omvandling rutinmässig dataextraktion, bakåtkompatibilitet och skalbar omvandling av dokumenttabeller till kalkylblad som är anpassade för äldre system.
+
+{{% blocks/products/pf/agp/feature-section-col title="Nyckelanvändningsfall" %}}
+
+* **Kompatibilitet med äldre kalkylblad**
+  Konverterar dokumentinnehåll till ett äldre kalkylbladsformat som används i etablerade miljöer.
+
+* **Strukturerad tabellåteranvändning**
+  Hjälper till att flytta tabulära data från DOCM-dokument till kalkylbladsarbetsflöden.
+
+* **Bakåtkompatibel datautbyte**
+  Stöder system som ännu inte har migrerat helt till nyare kalkylbladsformat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* **Automatiserade äldreexporter**
+  Producerar SXC-filer från DOCM-källor för äldre arbetsflödeskrav.
+
+* **Massiv datatransformation**
+  Konverterar stora mängder dokumenttabeller till kalkylbladsklara utdata på ett effektivt sätt.
+
+* **Stöd för kompatibilitetspipeline**
+  Kopplar samman moderna dokumentkällor med äldre kalkylbladsbearbetningssystem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

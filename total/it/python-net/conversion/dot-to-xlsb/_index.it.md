@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOT a XLSB trasforma i modelli di documento in cartelle di lavoro di fogli di calcolo binarie, efficienti per l'archiviazione e le prestazioni in operazioni intensive sui fogli di calcolo. Questo è utile quando la generazione di cartelle di lavoro, grande o ripetuta, deve rimanere compatta e pratica.
+
+Le API Python supportano la creazione automatizzata di XLSB da sorgenti DOT, consentendo pipeline scalabili da documento a foglio di calcolo con una gestione efficiente dell'output.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione compatta di cartelle di lavoro**
+  Converti i file DOT in XLSB per un'archiviazione e distribuzione efficiente dei fogli di calcolo.
+
+* **Gestione dei dati orientata alle prestazioni**
+  Usa cartelle di lavoro binarie quando è necessaria una generazione ripetuta o su larga scala di fogli di calcolo.
+
+* **Strutturazione del contenuto del modello**
+  Riutilizza il contenuto del documento in output di cartelle di lavoro ottimizzate per l'uso operativo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Produzione automatizzata di cartelle di lavoro binarie**
+  I flussi di lavoro Python possono generare file XLSB da modelli DOT in attività ricorrenti.
+
+* **Pipeline di fogli di calcolo ad alto volume**
+  La conversione supporta la generazione efficiente di output per grandi repository di documenti.
+
+* **Automazione scalabile dell'esportazione dei dati**
+  I sistemi programmatici aiutano a standardizzare la consegna compatta di fogli di calcolo dai modelli.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

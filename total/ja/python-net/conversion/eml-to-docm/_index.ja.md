@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した EML から DOCM への変換は、メールメッセージをマクロ対応のワードプロセッシング文書に変換し、先進的な文書ワークフローや制御された自動化シナリオで利用できます。この形式は、メール由来のコンテンツをテンプレートやマクロ対応文書の動作に依存するプロセスに配置する必要がある場合に有用です。
+
+最新の自動化システムにおいて、EML から DOCM への変換は、動的処理、文書アクション、またはエンタープライズテンプレートが必要とされる構造化ワークフロー統合をサポートします。これにより、コミュニケーションデータとプログラム可能な文書環境との橋渡しが可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応文書ワークフロー**  
+  自動化された文書動作に依存する環境向けに、メールを DOCM ファイルに変換します。
+
+* **テンプレートベースの処理**  
+  ビジネス運用で使用されるマクロ対応テンプレートへのメールコンテンツの配置をサポートします。
+
+* **構造化内部文書化**  
+  高度なオフィスワークフローに合わせた文書形式で、コミュニケーションを保持します。
+
+* **プロセス駆動型ファイル準備**  
+  メールデータをマクロ対応システムでの下流アクション向けに準備できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動入力**  
+  大規模に DOCM ベースのビジネステンプレートへメールコンテンツを挿入する自動パイプラインを実現します。
+
+* **ワークフロートリガー文書**  
+  制御されたエンタープライズプロセスで使用されるマクロ対応文書に EML ファイルを変換します。
+
+* **運用ファイルの標準化**  
+  プログラムによる変換により、内部システムが要求する形式でコミュニケーションを提供します。
+
+* **文書中心のプロセスチェーン**  
+  メール由来の DOCM ファイルを自動レビュー、承認、アクションワークフローに組み込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

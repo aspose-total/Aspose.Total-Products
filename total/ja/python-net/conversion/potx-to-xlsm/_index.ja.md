@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した POTX から XLSM への変換は、PowerPoint テンプレートのコンテンツを高度なデータ処理ワークフロー向けのマクロ有効スプレッドシート ファイルに変換します。変換されたスプレッドシートの出力が埋め込み自動化、数式、またはカスタムブック動作をサポートする必要がある場合に便利です。
+
+自動化された環境では、POTX から XLSM への変換はプレゼンテーションテンプレートとインテリジェントなスプレッドシートプロセスを結びつけるのに役立ちます。構造化データと高度な機能を組み合わせたブック出力のスケーラブルな生成をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ有効スプレッドシート作成**
+  自動化されたブックロジックやアクションをサポートできるスプレッドシート出力を生成します。
+
+* **高度なデータワークフローサポート**
+  プレゼンテーション由来のコンテンツをプログラム可能なスプレッドシート環境へ拡張するのに役立ちます。
+
+* **再利用可能な運用ファイル**
+  インテリジェントなブック動作に依存する繰り返しのビジネスプロセスをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによるブック生成**
+  高度なスプレッドシートタスク向けに、POTX テンプレートから XLSM ファイルの生成を自動化します。
+
+* **統合自動化パイプライン**
+  変換ワークフローをマクロ有効スプレッドシート処理ステップと接続します。
+
+* **繰り返し可能なビジネスオペレーション**
+  プレゼンテーションベースのソースから機能的なスプレッドシートを繰り返し生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

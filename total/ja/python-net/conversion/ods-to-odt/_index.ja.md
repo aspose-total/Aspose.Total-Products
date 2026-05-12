@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS から ODT への変換は、スプレッドシートファイルを OpenDocument テキストドキュメントに変換します。これにより、構造化されたスプレッドシートデータを文書形式で表現でき、オープンドキュメント標準との互換性を維持します。
+
+Python API を使用すると、ODS から ODT への変換をデータ処理ワークフローの一部として自動化できます。これにより、スケーラブルな文書生成、構造化レポート作成、オープンドキュメントエコシステムとの統合が可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **オープンドキュメントレポート**  
+  スプレッドシートデータセットをオープン標準の文書レポートに変換します。
+
+* **コンテンツ変換**  
+  表形式のスプレッドシートデータを文書構造内で表現します。
+
+* **データ文書化**  
+  スプレッドシート情報から読みやすい文書を生成します。
+
+* **オープンフォーマットアーカイブ**  
+  スプレッドシートの内容をオープンドキュメントテキスト形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化オープンドキュメントパイプライン**  
+  Python スクリプトがスプレッドシートファイルを ODT ドキュメントに自動的に変換します。
+
+* **バッチ文書生成**  
+  システムが複数のスプレッドシートをオープンドキュメントレポートに処理します。
+
+* **動的文書化システム**  
+  プログラム的なワークフローがスプレッドシートデータから文書を生成します。
+
+* **オープンドキュメントシステムとの統合**  
+  自動化パイプラインがオープンドキュメント標準との互換性を維持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

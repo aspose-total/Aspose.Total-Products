@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から DOCX への変換は、マクロ対応のスプレッドシートの内容を、編集、レビュー、構造化されたコミュニケーションに広く使用される最新のワードプロセッシング形式に変換します。スプレッドシートのデータを洗練された文書、要約、またはフォーマットされたビジネスコンテンツとして共有する必要がある場合に便利です。
+
+この変換は、DOCX がデジタルワークフロー、文書生成システム、共同レビュー プロセスに適合するため、オートメーションと非常に関連性が高いです。Python API を使用することで、組織は XLSM ファイルを一貫した DOCX 出力に自動変換し、スケーラブルなレポーティングやコンテンツ配信を実現できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **ビジネスレポート**
+  スプレッドシートの内容を、レビューや配布に適したプロフェッショナルな文書に変換します。
+
+* **編集可能なドキュメント**
+  ワークシートベースの情報を、文書形式でより簡単に修正・注釈付けできるようにします。
+
+* **コンテンツ共有**
+  スプレッドシートツール以外で情報を利用する必要がある場合、より広いアクセシビリティをサポートします。
+
+* **構造化された要約**
+  ステークホルダー向けに、複雑なスプレッドシートデータの読みやすい文書バージョンを作成するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート作成**
+  Python ワークフローは、定期的に XLSM ファイルを DOCX レポートに変換できます。
+
+* **ドキュメント中心のパイプライン**
+  スプレッドシートの出力は、レビューやアーカイブ用に自動的に DOCX ファイルに再フォーマットできます。
+
+* **バッチコンテンツ変換**
+  大量のマクロ対応スプレッドシートを、プログラムで DOCX 文書に変換できます。
+
+* **ワークフロー配布**
+  自動化システムは、承認、共同作業、下流の出版タスク用に DOCX ファイルを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から ODS への変換は、文書ベースの構造化コンテンツをオープンスタンダードのデータ処理とスプレッドシート編集のための OpenDocument Spreadsheet ファイルに変換します。組織がプロプライエタリ形式に依存せず、編集可能なスプレッドシート出力を必要とする場合に有用です。
+
+Python API は、テーブルを抽出し、共同作業、ポータブル性、スケーラビリティに適したスプレッドシートシートへマッピングすることで、WordML から ODS への変換を自動化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープン スプレッドシート出力**
+  WordML テーブルをオープンスタンダードのスプレッドシートワークフロー向けに、編集可能な ODS ファイルに変換します。
+
+* **ポータブル データ交換**
+  構造化コンテンツを相互運用可能なスプレッドシート環境へ移行することをサポートします。
+
+* **ドキュメントテーブルの再利用**
+  文書内にあるデータの分析と保守を容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ スプレッドシート変換**
+  複数の WordML ドキュメントから ODS ファイルを自動的に作成します。
+
+* **オープン ワークフロー統合**
+  変換されたスプレッドシートを標準ベースの処理環境に供給します。
+
+* **スケーラブル データ抽出**
+  文書テーブルを再利用可能なスプレッドシート資産へ大規模に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

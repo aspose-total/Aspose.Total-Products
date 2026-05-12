@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a OST supporta la trasformazione di contenuti basati su documenti in formati utilizzabili nei flussi di lavoro offline dei dati delle caselle di posta e negli ecosistemi di archiviazione delle email. È rilevante in scenari specializzati di migrazione o archiviazione in cui le informazioni dei documenti diventano parte della gestione dei contenuti orientata alle caselle di posta.
+
+Le API Python possono aiutare a preparare e strutturare i contenuti per l'automazione relativa a WordML‑OST, migliorando la ripetibilità nei processi di messaggistica aziendale e di migrazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dati della casella di posta**
+  Utilizza il contenuto dei documenti come input per i flussi di lavoro offline di archiviazione e migrazione della posta.
+
+* **Supporto all'archiviazione aziendale**
+  Aiuta ad allineare le comunicazioni derivanti dai documenti ai processi di conservazione centrati sulla casella di posta.
+
+* **Imballaggio di contenuti strutturati**
+  Supporta la trasformazione di testo approvato in contesti di archiviazione orientati ai messaggi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di supporto alla migrazione**
+  Automatizza la preparazione del contenuto WordML per i flussi di lavoro offline di elaborazione delle caselle di posta.
+
+* **Attività di consolidamento dell'archivio**
+  Integra i record derivati dai documenti in operazioni più ampie di archiviazione delle email.
+
+* **Strutturazione dei contenuti aziendali**
+  Consente una gestione ripetibile del contenuto dei documenti pronto per i messaggi su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

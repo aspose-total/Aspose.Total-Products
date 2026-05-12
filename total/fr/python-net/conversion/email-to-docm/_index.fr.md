@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversion d’e‑mail en DOCM avec Python permet de convertir les messages en documents Word avec macros pour des flux de travail documentaires avancés. Ce format est utile lorsque le contenu d’e‑mail converti doit être intégré à des environnements qui reposent sur l’automatisation intégrée ou le script de documents.
+
+Elle renforce l’automatisation en permettant aux documents dérivés d’e‑mail de s’intégrer aux processus de révision, d’enrichissement et de gestion de documents pilotés par des macros dans les systèmes d’entreprise.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Traitement de documents avec macros**
+  Convertir les e‑mails en fichiers DOCM pour des flux de travail qui dépendent d’actions documentaires automatisées.
+
+* **Opérations de révision structurées**
+  Utiliser les messages convertis dans des environnements contrôlés où les modèles et les macros prennent en charge la validation ou le formatage.
+
+* **Pipelines de documents d’entreprise**
+  Insérer le contenu des e‑mails dans des fichiers opérationnels qui déclenchent un comportement scripté en aval.
+
+* **Standardisation des processus**
+  Maintenir la cohérence lorsque les documents dérivés d’e‑mail doivent s’aligner sur des flux de travail de bureau avec macros.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Enrichissement de documents scriptés**
+  Convertir les e‑mails en DOCM et appliquer des macros pour ajouter automatiquement des métadonnées, des en‑têtes ou des classifications.
+
+* **Préparation de fichiers basée sur le flux de travail**
+  Alimenter le contenu des e‑mails dans des modèles avec macros pour le traitement interne et le routage.
+
+* **Mise en forme automatisée des enregistrements**
+  Utiliser des scripts de documents pour standardiser le contenu dérivé d’e‑mail à travers de grands référentiels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

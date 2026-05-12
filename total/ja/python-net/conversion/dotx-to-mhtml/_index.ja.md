@@ -53,7 +53,41 @@ DOTX から MHTML (Web アーカイブ形式) への変換機能または HtmlFi
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から MHTML への変換は、Word テンプレートのコンテンツをテキスト、レイアウト、リンクされたリソースを単一ファイルに統合した Web アーカイブ形式に変換します。これは、ブラウザフレンドリーで自己完結型の構造で文書の外観を保持するのに役立ちます。
+
+この変換は、Python 主導でポータブルな Web 表示可能文書を作成できるようにし、元の編集ツールに依存せずにアーカイブ、共有、またはデジタルワークフローに組み込むことができるため、自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **Web 互換アーカイブ**
+  ブラウザフレンドリーな単一ファイル形式で文書内容を保存します。
+
+* **自己完結型共有**
+  テキストとリソースを一緒にパッケージ化し、転送と保存を容易にします。
+
+* **レイアウトの保持**
+  ポータブルな Web アーカイブ構造で文書の提示を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Web アーカイブ生成**
+  公開または保持パイプラインの一部として DOTX テンプレートを MHTML ファイルに変換します。
+
+* **ポータブルコンテンツ配信**
+  自動化された通信システムで Web 表示可能な文書出力を配布します。
+
+* **アーカイブ標準化**
+  スケーラブルな保存のために、テンプレートベースのコンテンツを自己完結型ファイルに正規化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

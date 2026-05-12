@@ -64,7 +64,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から ODP への変換は、ワードプロセッシング文書をスライドベースのコンテンツ配信に使用される OpenDocument プレゼンテーション ファイルに変換できるようにします。このプロセスは、構造化されたテキストや文書ベースの情報を会議、トレーニング、レポート用のプレゼンテーション対応フォーマットに変換するのに役立ちます。
+
+Python API を使用すると、DOCX から ODP への変換をコンテンツ公開パイプライン、プレゼンテーション生成システム、エンタープライズレポートワークフローで自動化できます。文書コンテンツをプレゼンテーション環境でプログラム的に再利用する必要がある場合の効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **文書からのプレゼンテーション生成**  
+  DOCX コンテンツをスライドベースのコミュニケーションに適したプレゼンテーション ファイルに変換します。
+
+* **研修および教育資料**  
+  書面文書を指導用のプレゼンテーション資産に変換します。
+
+* **ビジネスレポートワークフロー**  
+  DOCX 形式で作成されたレポートをプレゼンテーション形式で再利用できるようにします。
+
+* **オープンフォーマットコンテンツ配信**  
+  オープンドキュメント標準を使用したプレゼンテーションの配信をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動スライドデック作成**  
+  システムは DOCX レポートや要約から ODP プレゼンテーションを自動的に生成できます。
+
+* **バッチプレゼンテーション変換**  
+  Python の自動化により、複数の DOCX ファイルをプレゼンテーション対応の出力に処理できます。
+
+* **オープンプレゼンテーション公開パイプライン**  
+  文書コンテンツをスケーラブルなコンテンツ配信のために ODP ファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

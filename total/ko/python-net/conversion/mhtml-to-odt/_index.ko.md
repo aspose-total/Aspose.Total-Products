@@ -44,7 +44,47 @@ Python 개발자의 경우 응용 프로그램 내에서 MHTML 및 HtmlFixed를 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MHTML을 ODT로 변환하는 Python 기능은 아카이브된 웹 콘텐츠를 편집 가능한 OpenDocument Text 파일로 저장하여 개방형 및 상호 운용 가능한 문서 워크플로우를 지원합니다. 형식 유연성, 장기 접근성 및 오픈 문서 생태계와의 호환성을 추구하는 팀에 유용합니다.
+
+이 변환은 웹 기반 콘텐츠를 구조화된 편집 가능한 파일로 전환하여 다양한 플랫폼과 도구에서 처리할 수 있도록 자동화를 지원합니다. 이동성을 향상하고 독점 워크플로우에 대한 의존성을 줄이며 확장 가능한 문서 변환을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 문서 편집**  
+  MHTML 콘텐츠를 ODT 파일로 변환하여 오픈 표준 문서 환경에서 편집 가능하게 합니다.
+
+* **크로스 플랫폼 접근성**  
+  아카이브된 웹 콘텐츠를 광범위한 소프트웨어 호환성을 지원하는 형식으로 제공합니다.
+
+* **상호 운용 가능한 콘텐츠 관리**  
+  오픈 표준과 문서 이동성을 우선시하는 워크플로우에서 ODT 출력을 사용합니다.
+
+* **아카이브 현대화**  
+  웹 기반 기록을 장기 운영 사용을 위한 편집 가능한 오픈 문서로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 워크플로 자동화**  
+  플랫폼 중립적인 처리 파이프라인을 위해 MHTML 파일을 자동으로 ODT 문서로 변환합니다.
+
+* **콘텐츠 이동성 시스템**  
+  Python API를 사용하여 웹 아카이브를 오픈 문서 형식으로 표준화하고 유연한 다운스트림 사용을 지원합니다.
+
+* **엔터프라이즈 교환 파이프라인**  
+  캡처된 웹 콘텐츠에서 ODT 파일을 준비하여 혼합 소프트웨어 환경 간 교환을 가능하게 합니다.
+
+* **자동화된 문서 재사용**  
+  아카이브된 페이지를 편집 가능한 오픈 문서로 변환하여 효율적으로 수정 및 재게시할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

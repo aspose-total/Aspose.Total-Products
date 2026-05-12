@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to XLAM 変換は Python API で OpenDocument テキストテンプレートを、ワークブック機能を拡張するために使用されるアドイン指向のスプレッドシート出力に変換します。これは、変換されたコンテンツが再利用可能なスプレッドシートベースの自動化資産に貢献する、特殊なワークフローで有用です。
+
+この変換は、ドキュメント由来のロジックや構造化コンテンツをスプレッドシート拡張ワークフローと整合させることで自動化を支援し、高度なワークブック環境全体で繰り返し可能な操作を標準化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スプレッドシート拡張サポート**  
+  ドキュメントコンテンツをアドイン指向のスプレッドシートワークフローに接続します。
+
+* **再利用可能な自動化資産の準備**  
+  構造化されたコンテンツをパッケージ化し、ワークブックの繰り返し使用を支援します。
+
+* **高度なワークフロー統合**  
+  テキストテンプレートとスプレッドシート機能シナリオを橋渡しします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたアドインコンテンツの準備**  
+  OTT テンプレートからプログラム的に XLAM 関連の出力を生成します。
+
+* **ワークブック強化パイプライン**  
+  コンテンツ変換とスプレッドシート自動化を組み合わせたワークフローをサポートします。
+
+* **再利用可能なビジネスロジックの配布**  
+  チーム全体で構造化されたスプレッドシートソリューションを拡大するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

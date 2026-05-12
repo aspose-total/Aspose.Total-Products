@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から POTX への変換は、Word テンプレートのコンテンツを再利用可能なスライド作成用に設計された XML ベースのプレゼンテーションテンプレート形式に変換します。マクロ有効な動作に依存せず、文書構造を標準化されたプレゼンテーション資産に変換するのに役立ちます。
+
+この変換は、Python 主導の最新プレゼンテーションテンプレートの生成をサポートすることで、チームや部門、レポートサイクル全体で再利用できる自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新プレゼンテーションテンプレート**
+  文書コンテンツを再利用可能なスライドテンプレートに変換し、標準化された配信を実現します。
+
+* **テンプレートの標準化**
+  定期的なプレゼンテーションが一貫した構造ベースから開始されることを保証します。
+
+* **コンテンツ変換**
+  Word テンプレートをスライド作成資産に再利用し、より広範な用途に活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量テンプレート生成**
+  自動化されたワークフローで複数の DOTX テンプレートから POTX ファイルを作成します。
+
+* **プレゼンテーションファクトリーパイプライン**
+  変換されたテンプレートを使用して、大規模に繰り返し可能なスライド作成を支援します。
+
+* **部門全体の標準化**
+  プログラム的にチーム間で一貫したプレゼンテーションテンプレートを提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

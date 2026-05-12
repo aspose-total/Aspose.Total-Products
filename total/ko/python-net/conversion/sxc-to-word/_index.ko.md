@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 Word로의 변환은 스프레드시트 기반 콘텐츠를 읽기 쉬운 문서화, 보고 및 공식 커뮤니케이션에 적합한 워드 프로세싱 형식으로 변환합니다. 구조화된 스프레드시트 데이터를 검토 및 배포가 용이한 텍스트 중심 문서로 조정해야 할 때 유용합니다.
+
+자동화 중심 시스템에서는 Python API를 활용한 SXC에서 Word로의 변환이 콘텐츠 변환을 간소화하고, 출력 일관성을 향상시키며, 스프레드시트 소스를 보다 넓은 문서 관리 워크플로와 연결하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **비즈니스 문서 생성**  
+  스프레드시트 데이터를 보고서, 요약 및 공식 커뮤니케이션용 워드 프로세싱 문서로 변환합니다.
+
+* **읽기 쉬운 콘텐츠 제공**  
+  구조화된 데이터를 비기술적 청중이 문서 형태로 쉽게 활용할 수 있도록 합니다.
+
+* **워크플로 호환성**  
+  협업 및 검토를 위해 워드 프로세싱 형식에 의존하는 문서 중심 환경을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 보고 파이프라인**  
+  Python API를 사용하여 SXC 데이터로부터 정기적이거나 이벤트 기반으로 Word 문서를 생성합니다.
+
+* **문서 관리 통합**  
+  변환된 결과물을 수동 재작업 없이 검토, 승인 또는 보관 시스템에 전달합니다.
+
+* **확장 가능한 콘텐츠 변환**  
+  스프레드시트 입력으로부터 대량의 Word 호환 문서를 프로그래밍 방식으로 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS から DOT への変換は、スプレッドシートファイルを構造化文書作成に使用される文書テンプレート形式に変換します。これにより、スプレッドシートベースのデータや構造を再利用可能な文書テンプレートの基盤として活用できます。
+
+Python ベースの変換ワークフローにより、スプレッドシートの内容から文書テンプレートを自動的に作成できます。このアプローチは、スケーラブルな文書生成、テンプレートの標準化、そして文書システム全体での効率的な自動化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **データからのテンプレート作成**  
+  スプレッドシートの構造を再利用可能な文書テンプレートに変換します。
+
+* **標準化された文書レイアウト**  
+  スプレッドシートデータを一貫した文書フォーマットの基礎として使用します。
+
+* **コンテンツ構造化**  
+  表形式の情報をテンプレート対応の文書構造に変換します。
+
+* **文書ワークフローの準備**  
+  スプレッドシートデータセットから派生したテンプレート文書を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  Python ワークフローがスプレッドシートを再利用可能な文書テンプレートに変換します。
+
+* **自動化テンプレート管理**  
+  システムは構造化されたスプレッドシートデータから派生したテンプレートを生成・維持します。
+
+* **大量テンプレート変換**  
+  自動化サービスが複数の ODS ファイルを処理し、標準化されたテンプレートを作成します。
+
+* **動的文書作成システム**  
+  スプレッドシートから生成されたテンプレートは、自動化された文書作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

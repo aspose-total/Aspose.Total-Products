@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF から DOT への変換は、連絡先カード情報を Word テンプレートファイルに変換し、標準化された文書生成のための再利用可能な基盤として活用できます。これは、管理や運用の目的で連絡先データを繰り返し使用できるレイアウトに挿入する必要がある場合に有用です。
+
+自動化ワークフローにおいて、VCF から DOT への変換は、Python 主導のシステムが連絡先ベースのテンプレートを作成できるようにし、一貫性のある高速な文書作成と、複数の出力シナリオにわたるスケーラブルなフォーマットをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能な連絡先テンプレート**  
+  VCF データを DOT ファイルに変換し、繰り返し可能な文書作成に利用します。
+
+* **標準化されたフォーマット**  
+  チーム全体で連絡先ベースの文書のレイアウトを一貫して保ちます。
+
+* **ワークフローの準備**  
+  テンプレート出力を、さらなる編集や自動入力の出発点として使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  連絡先レコードから DOT テンプレートを自動的に作成し、後で再利用できるようにします。
+
+* **一貫した文書作成**  
+  生成されたテンプレートを、均一な連絡先フォーマットを必要とする大規模システムに供給します。
+
+* **プログラム的なコンテンツ構造化**  
+  Python API を使用して、大規模に繰り返し可能な連絡先テンプレートを作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

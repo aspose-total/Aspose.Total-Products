@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から DOCX への変換は、スプレッドシートのコンテンツを、編集可能で携帯性が高く、構造化されたテキストベースのファイルとして広く使用されている最新のドキュメント形式に変換します。スプレッドシートの情報をレポート、要約、提案書、または読みやすさと互換性が向上したドキュメントとして再利用する必要がある場合に有用です。
+
+Python API を使用すると、SXC から DOCX への変換は、表形式データをデジタルワークフロー、コンテンツシステム、共同レビュー プロセスに適合する標準化された出力に変換することで、スケーラブルなドキュメント自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ビジネスレポート作成**  
+  スプレッドシート主導の情報を、社内外のコミュニケーション向けに洗練された文書に変換します。
+
+* **編集可能なドキュメント**  
+  ソースデータの修正、注釈付け、再利用が文書中心の環境で容易になります。
+
+* **フォーマット標準化**  
+  組織が最新のドキュメント標準を使用して、チームやシステム間で出力フォーマットを統一するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期レポート自動化**  
+  定期的なレポート作業の一環として、SXC ソースから DOCX ファイルを自動的に生成します。
+
+* **ドキュメントワークフロー統合**  
+  変換されたファイルを、手動での再フォーマットなしに承認、協働、または公開システムに流し込みます。
+
+* **動的コンテンツ生成**  
+  Python ベースのサービスが、スケールでパーソナライズされたまたはデータ駆動型の文書を作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

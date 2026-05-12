@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 XLT 변환은 구조화된 문서 내용을 스프레드시트 템플릿 파일로 변환하여 재사용 가능한 워크북 시작점으로 활용합니다. 문서 기반 데이터 레이아웃이나 반복 보고서에 표준화된 스프레드시트 템플릿이 필요할 때 유용합니다.
+
+파이썬 API는 템플릿 생성을 자동화하고 구조화된 소스 문서에서 반복 가능한 스프레드시트 생성을 가능하게 하여 WordML에서 XLT 변환을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **워크북 템플릿 생성**
+  WordML 내용을 XLT 파일로 변환하여 재사용 가능한 스프레드시트 구조를 제공합니다.
+
+* **반복 보고서 표준화**
+  문서 패턴을 기반으로 일관된 워크북 레이아웃을 정의하는 데 도움을 줍니다.
+
+* **프로세스 일관성**
+  승인된 소스 콘텐츠에서 반복 가능한 스프레드시트 저작을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 워크플로**
+  WordML 보고서, 양식 또는 구조화된 테이블에서 XLT 생성을 자동화합니다.
+
+* **스프레드시트 생산 표준화**
+  공통 템플릿에서 반복 워크북을 만드는 팀을 지원합니다.
+
+* **문서 기반 레이아웃 자동화**
+  구조화된 문서 내용을 재사용 가능한 스프레드시트 기반으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

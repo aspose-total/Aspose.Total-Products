@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOTX naar VCF-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX naar VCF-conversie transformeert Word‑sjablooninhoud naar een contactkaartformaat dat wordt gebruikt voor het opslaan en delen van persoonlijke of organisatorische contactinformatie. Het is nuttig wanneer sjablonen gestructureerde contactgegevens bevatten die opnieuw moeten worden gebruikt in communicatiesystemen.
+
+Met behulp van Python‑API’s ondersteunt deze conversie automatisering door contactextractie, digitale adresboekgeneratie en schaalbare synchronisatie van documentgebaseerde contactrecords mogelijk te maken.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Contactinformatie‑extractie**
+  Converteer gestructureerde contactgegevens uit sjablonen naar herbruikbare digitale kaarten.
+
+* **Directoryvoorbereiding**
+  Bouw draagbare contactrecords op basis van documentgebaseerde informatie.
+
+* **Integratie van communicatiesystemen**
+  Hergebruik sjablooninhoud in adresboeken en workflows voor het delen van contacten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactgeneratie**
+  Maak VCF‑bestanden aan vanuit DOTX‑sjablonen voor onboarding‑ of directoryprocessen.
+
+* **Bulkcontactexport**
+  Converteer herhaalde documentgebaseerde records naar deelbare contactkaarten.
+
+* **Gesynchroniseerde contactworkflows**
+  Voer geconverteerde contactgegevens in communicatiesystemen en CRM‑gerelateerde systemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

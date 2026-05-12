@@ -65,7 +65,41 @@ Het gaat voornamelijk in twee stappen. Gebruik eerst de [Aspose.Words for Python
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML-naar-ODS-conversie zet documentgebaseerde gestructureerde inhoud om in OpenDocument Spreadsheet‑bestanden voor open‑standaard gegevensverwerking en spreadsheetbewerking. Het is waardevol wanneer organisaties bewerkbare spreadsheet‑uitvoer nodig hebben zonder afhankelijk te zijn van propriëtaire formaten.
+
+Python‑API's helpen de WordML-naar-ODS-conversie te automatiseren door tabellen te extraheren en deze te mappen naar spreadsheets die geschikt zijn voor collaboratieve, draagbare en schaalbare werkstromen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Open spreadsheet‑uitvoer**
+  Zet WordML‑tabellen om in bewerkbare ODS‑bestanden voor open‑standaard spreadsheet‑werkstromen.
+
+* **Draagbare gegevensuitwisseling**
+  Ondersteunt het verplaatsen van gestructureerde inhoud naar interoperabele spreadsheetomgevingen.
+
+* **Herbruik van documenttabellen**
+  Maakt data die in documenten aanwezig is makkelijker te analyseren en te onderhouden.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Batch‑spreadsheetconversie**
+  Maakt automatisch ODS‑bestanden aan uit meerdere WordML‑documenten.
+
+* **Open workflow‑integratie**
+  Voert geconverteerde spreadsheets in op op standaarden gebaseerde verwerkingsomgevingen.
+
+* **Schaalbare gegevensextractie**
+  Ondersteunt grootschalige transformatie van documenttabellen naar herbruikbare spreadsheet‑assets.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

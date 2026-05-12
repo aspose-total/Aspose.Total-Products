@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Texto para Email usando APIs Python permite que conteúdo em texto simples seja transformado em mensagens de email estruturadas para comunicação, arquivamento e entrega de fluxos de trabalho. É valiosa para sistemas que precisam gerar mensagens de saída, modelos reutilizáveis ou conteúdo pronto para mensagem a partir de fontes de texto dinâmicas.
+
+Essa abordagem de conversão suporta a automação ao transformar texto bruto em recursos compatíveis com email que podem ser encaminhados através de sistemas de notificação, comunicações com clientes, pipelines de relatórios ou fluxos de trabalho empresariais integrados, com maior consistência e rapidez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração Automatizada de Mensagens**  
+  Converte texto simples em conteúdo pronto para email para alertas, atualizações e comunicação transacional.
+
+* **Comunicação Baseada em Modelos**  
+  Ajuda a padronizar texto em formatos de email estruturados para mensagens empresariais repetíveis.
+
+* **Notificações de Fluxo de Trabalho**  
+  Suporta o envio de atualizações operacionais de sistemas automatizados para destinatários internos ou externos.
+
+* **Pipelines de Distribuição de Conteúdo**  
+  Permite que informações baseadas em texto sejam empacotadas para publicação e processos de divulgação impulsionados por email.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Entrega Programada de Alertas**  
+  A automação pode converter texto gerado em mensagens de email para notificações de status e lembretes programados.
+
+* **Comunicação Sistema-para-Usuário**  
+  Texto produzido por aplicações ou scripts pode ser transformado em emails para engajamento automatizado do usuário.
+
+* **Fluxos de Trabalho de Mensagens em Lote**  
+  Grandes conjuntos de conteúdo textual podem ser convertidos programaticamente em saídas de email para distribuição escalável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

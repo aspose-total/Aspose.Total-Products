@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMPからICSへの変換により、ビットマップ画像をICS形式のカレンダーイベントファイルに組み込むことができます。このアプローチにより、スケジュール、イベントバナー、図表などの視覚資料をカレンダーエントリに添付できます。
+
+自動化システムでは、BMPファイルをICSイベントに変換することで、視覚情報をスケジューリングワークフローと統合できます。これにより、カレンダープラットフォーム間での自動イベント配信、リマインダー、コラボレーションがサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **イベント告知配信**  
+  カレンダー招待に、イベントポスターや図表などのBMP画像を含めることができます。
+
+* **視覚的スケジューリング文書化**  
+  組織はスケジュールされたイベントに視覚的参照を添付できます。
+
+* **カレンダー基盤のコミュニケーション**  
+  チームはカレンダーエントリ内でイベント関連のグラフィックを配布できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動カレンダーイベント生成**  
+  システムは自動スケジューリングのために埋め込みBMPビジュアルを含むICSファイルを生成します。
+
+* **ワークフローベースのイベント通知**  
+  自動パイプラインは画像ベースの資料をカレンダーイベントに変換します。
+
+* **プログラム的な会議招待**  
+  アプリケーションは視覚的参照を含むICS招待状を動的に作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

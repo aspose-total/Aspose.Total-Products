@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS를 DOTM으로 변환하면 스프레드시트 파일을 매크로 지원 문서 템플릿으로 변환할 수 있습니다. 이러한 템플릿은 내장 매크로에 의해 구동되는 고급 문서 자동화와 재사용 가능한 문서 구조를 가능하게 합니다.
+
+Python API를 사용하면 개발자가 스프레드시트 데이터 세트를 매크로 지원 템플릿으로 자동 변환할 수 있습니다. 이를 통해 스프레드시트 기반 데이터에 따라 동적 문서를 생성하는 확장 가능한 자동화 시스템을 구현할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 템플릿 생성**  
+  스프레드시트 데이터 구조를 자동화 매크로를 지원하는 템플릿으로 변환합니다.
+
+* **자동화 문서 프레임워크**  
+  스프레드시트 입력을 사용하여 매크로 기반 문서 템플릿을 구축합니다.
+
+* **동적 템플릿 생성**  
+  구조화된 스프레드시트 콘텐츠에서 재사용 가능한 템플릿을 생성합니다.
+
+* **문서 자동화 시스템**  
+  매크로 지원 템플릿을 통해 고급 자동 문서 워크플로를 활성화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화 템플릿 제작**  
+  Python 워크플로우가 스프레드시트 입력으로부터 매크로 지원 템플릿을 생성합니다.
+
+* **배치 템플릿 변환**  
+  시스템이 여러 ODS 파일을 처리하여 매크로 지원 템플릿을 만듭니다.
+
+* **엔터프라이즈 문서 자동화**  
+  스프레드시트에서 파생된 템플릿은 확장 가능한 자동 문서 생성을 가능하게 합니다.
+
+* **동적 문서 조립**  
+  매크로 지원 템플릿은 프로그래밍 방식의 콘텐츠 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

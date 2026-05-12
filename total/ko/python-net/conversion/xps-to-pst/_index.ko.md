@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 XPS를 PST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 XPS에서 PST로의 변환은 고정 레이아웃 문서 콘텐츠를 저장, 마이그레이션 및 규정 준수 워크플로에 널리 사용되는 메일박스 아카이브 형식으로 변환할 수 있게 합니다. 이는 조직이 문서 기반 커뮤니케이션을 구조화된 메일 아카이브로 통합하여 장기 접근 및 시스템 이식성을 확보해야 할 때 유용합니다.
+
+자동화를 통해 팀은 대량의 XPS 파일을 아카이브 준비된 출력물로 변환하고, 수동 포장 작업을 줄이며, 확장 가능한 정보 거버넌스 프로세스를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일 아카이브 생성**
+  XPS 기반 커뮤니케이션 콘텐츠를 구조화된 저장을 위해 PST 파일로 변환합니다.
+
+* **규정 준수 및 보존 지원**
+  문서 기반 메시지를 거버넌스 워크플로에 적합한 아카이브 형식으로 보존합니다.
+
+* **마이그레이션 및 백업 준비**
+  PST 출력을 사용하여 메일박스 전송, 백업 또는 복구 시나리오를 지원합니다.
+
+* **통합 커뮤니케이션 저장**
+  여러 변환된 항목을 관리 가능한 아카이브 컨테이너에 정리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기 아카이브 생성**
+  반복되는 문서 생성 워크플로에서 PST 출력을 자동으로 생성합니다.
+
+* **배치 변환 파이프라인**
+  많은 XPS 파일을 최소한의 수동 작업으로 PST 아카이브로 처리합니다.
+
+* **규정 준수 워크플로 자동화**
+  변환된 PST 파일을 보존, 검토 또는 법적 보류 시스템으로 전송합니다.
+
+* **크로스 시스템 데이터 준비**
+  플랫폼 변경 시 커뮤니케이션 아카이브를 준비하기 위해 변환 스크립트를 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

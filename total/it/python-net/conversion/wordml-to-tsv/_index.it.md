@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da WordML a TSV trasforma il contenuto strutturato dei documenti in file di testo a valori separati da tabulazione, semplici, portabili e facili da importare nei flussi di lavoro dei dati. È utile quando è necessaria una separazione pulita delle colonne senza formattazioni specifiche dei fogli di calcolo.
+
+Le API Python rendono efficiente la conversione da WordML a TSV estraendo le strutture delle tabelle e convertendole in output leggeri e adatti all'automazione per l'elaborazione e lo scambio dei dati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione Dati Delimitati**
+  Converte le tabelle WordML in file TSV per uno scambio di dati pulito e basato su testo.
+
+* **Output Compatibile con Pipeline**
+  Produce file strutturati semplici adatti a compiti di parsing e validazione.
+
+* **Estrazione Tabelle da Documenti**
+  Rende più semplice l'elaborazione programmatica del contenuto tabellare dei documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Conversione Batch di Tabelle**
+  Converte automaticamente le tabelle dei documenti in file TSV per i flussi di lavoro successivi.
+
+* **Supporto ai Flussi di Lavoro ETL**
+  Alimenta gli output TSV nei processi di ingestione, mappatura e trasformazione.
+
+* **Job di Sincronizzazione Dati**
+  Consente l'esportazione ripetibile dei dati aggiornati dei documenti in file strutturati basati su testo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から PPTM への変換は、Word テンプレートのコンテンツを高度なスライドワークフロー向けのマクロ対応プレゼンテーション形式に変換します。文書から生成されたプレゼンテーションファイルが視覚的構造と自動化可能な動作の両方をサポートする必要がある場合に便利です。
+
+このプロセスは、Python API を使用して複雑なエンタープライズワークフロー、定期的なレポート作成、プログラムによるスライド生成に適したプレゼンテーション資産を作成できるようにすることで、自動化を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応プレゼンテーション**
+  文書テンプレートを高度な動作をサポートするプレゼンテーションファイルに変換します。
+
+* **エンタープライズスライドワークフロー**
+  構造化されたビジネスコミュニケーションプロセス向けにプレゼンテーション資産を準備します。
+
+* **テンプレートベースのデッキ作成**
+  標準化された文書コンテンツをスケーラブルなスライド制作で再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたプレゼンテーション組み立て**
+  高度なレポートワークフロー向けに DOTX テンプレートから PPTM デッキを生成します。
+
+* **自動化サポート付きスライド生成**
+  より高度なエンタープライズプロセスに適したプレゼンテーション出力を作成します。
+
+* **スケーラブルなテンプレート再利用**
+  繰り返し使用される文書レイアウトを自動化対応のプレゼンテーションファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

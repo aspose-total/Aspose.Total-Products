@@ -64,7 +64,41 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do PPSM w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w pliki prezentacji z włączonymi makrami, umożliwiając bezpośrednie dostarczanie prezentacji z zaawansowanym wsparciem zachowań. Jest to przydatne, gdy gotowy do wyświetlenia wynik musi również obsługiwać zautomatyzowane akcje prezentacji.
+
+Konwersja usprawnia automatyzację, łącząc wielokrotnego użytku treść dokumentu z wyjściem prezentacji obsługującym makra, wspierając bardziej dynamiczne przepływy dostarczania i powtarzalne procesy prezentacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie prezentacji z włączonymi makrami**  
+  Tworzy pliki prezentacji, które obsługują zaawansowane zautomatyzowane zachowania.
+
+* **Bezpośrednie dostarczanie prezentacji**  
+  Konwertuje zawartość szablonu na gotowe do uruchomienia zasoby prezentacji.
+
+* **Wielokrotnego użytku wyjście wizualne**  
+  Pomaga standaryzować prezentacje generowane z dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne składanie prezentacji**  
+  Tworzy pliki PPSM z powtarzających się szablonów źródłowych OTT.
+
+* **Skriptowane przepływy pracy prezentacji**  
+  Obsługuje wyjście prezentacji dla środowisk wykorzystujących logikę prezentacji.
+
+* **Skalowalne dostarczanie wydarzeń lub briefingów**  
+  Generuje dynamiczne pliki prezentacji do wielokrotnego użytku w organizacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

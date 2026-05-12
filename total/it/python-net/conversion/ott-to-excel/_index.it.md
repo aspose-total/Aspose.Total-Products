@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a Excel nelle API Python converte i modelli di testo OpenDocument in cartelle di lavoro compatibili con i fogli di calcolo, rendendo il contenuto dei documenti più facile da analizzare, organizzare e riutilizzare in ambienti incentrati sui dati. Questo è utile quando le informazioni testuali necessitano di una presentazione tabellare o di report aziendali.
+
+La conversione potenzia l'automazione spostando il contenuto dei modelli nei flussi di lavoro dei fogli di calcolo, dove formule, filtri, convalide e processi di integrazione possono operare su larga scala con un intervento manuale minimo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Strutturazione dei dati aziendali**  
+  Sposta il contenuto del modello in forma di cartella di lavoro per la revisione e l'elaborazione.
+
+* **Riutilizzo analitico**  
+  Rende le informazioni derivanti dal documento più facili da ordinare, filtrare e calcolare.
+
+* **Reportistica operativa**  
+  Supporta la trasformazione dei modelli di testo in risorse di reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione ricorrente di cartelle di lavoro**  
+  Converte i file OTT standard in output Excel su esecuzioni programmate.
+
+* **Pipeline di arricchimento dati**  
+  Combina il contenuto del documento estratto con formule e regole dei fogli di calcolo.
+
+* **Distribuzione automatizzata**  
+  Produce output di cartelle di lavoro per team, sistemi o processi di reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

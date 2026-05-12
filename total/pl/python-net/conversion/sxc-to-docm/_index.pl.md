@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj interfejsu API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja SXC do DOCM przekształca treść pochodzącą z arkuszy kalkulacyjnych w format dokumentu z obsługą makr, odpowiedni dla zaawansowanych przepływów pracy dokumentów, które wymagają wbudowanych możliwości automatyzacji. Jest to przydatne, gdy dane z arkusza muszą zostać przeniesione do dokumentów wspierających formatowanie skryptowe, logikę lub powtarzalne działania.
+
+Korzystając z interfejsów API Pythona, konwersja SXC do DOCM zwiększa efektywność operacyjną, umożliwiając automatyczne generowanie interaktywnych lub gotowych na makra dokumentów w ramach ustrukturyzowanych przepływów pracy przedsiębiorstwa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Raportowanie gotowe na makra**  
+  Przekształca zawartość arkusza kalkulacyjnego w dokumenty przygotowane do formatowania lub przetwarzania opartego na makrach.
+
+* **Wielokrotnego użytku szablony dokumentów**  
+  Wspiera przepływy pracy, w których dane z arkusza muszą wypełniać dokumenty zaprojektowane do powtarzalnego, zautomatyzowanego użycia.
+
+* **Dokumentacja operacyjna**  
+  Pomaga tworzyć dokumenty, które łączą zaimportowaną treść z wbudowaną logiką dla wewnętrznego wykonywania procesów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne wypełnianie szablonów**  
+  Wykorzystuje interfejsy API Pythona do wprowadzania danych z arkusza kalkulacyjnego do przepływów pracy dokumentów z obsługą makr przy minimalnym nakładzie pracy ręcznej.
+
+* **Potoki przetwarzania dokumentów**  
+  Umożliwia automatyzację end‑to‑end, w której wygenerowane pliki DOCM są przekazywane do systemów zatwierdzania lub transformacji.
+
+* **Składanie treści oparte na regułach**  
+  Wspiera dynamiczne tworzenie dokumentów w scenariuszach wymagających zachowań skryptowych po konwersji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion de WordML en OFT transforme le contenu du document en fichiers de modèle d’e‑mail qui peuvent être réutilisés dans les flux de composition de messages. Cela est utile pour standardiser les communications récurrentes basées sur un contenu de document structuré.
+
+En utilisant les API Python, la conversion de WordML en OFT prend en charge la génération automatisée de modèles, aidant les équipes à convertir le texte de documents approuvés en formats d’e‑mail réutilisables pour l’efficacité opérationnelle.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création de modèles d’e‑mail**  
+  Convertit le contenu WordML en modèles OFT réutilisables pour des messages cohérents.
+
+* **Communication standardisée**  
+  Aide les organisations à maintenir une structure uniforme à travers les flux d’e‑mail récurrents.
+
+* **Réutilisabilité du contenu**  
+  Transforme le contenu approuvé du document en actifs de communication prêts à l’emploi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de génération de modèles**  
+  Automatise la création de fichiers OFT à partir de documents de politique, de support ou de sensibilisation.
+
+* **Standardisation des flux de travail des messages**  
+  Prend en charge les systèmes de livraison automatisés qui dépendent de modèles d’e‑mail réutilisables.
+
+* **Automatisation de la gouvernance du contenu**  
+  Garantit que le langage approuvé du document est converti en actifs de messagerie opérationnels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

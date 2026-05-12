@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV を Python API で ODT に変換することで、構造化された表形式データを編集可能で相互運用可能な文書ワークフローをサポートするオープンドキュメントテキストファイルに変換できます。  
+この変換は自動化に有用です。標準化されたオープンフォーマットの出力を生成し、柔軟性、統合性、長期的なアクセシビリティを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンドキュメントレポーティング**  
+  CSV レコードを ODT ファイルに変換し、編集可能なレポート、要約、プロフェッショナルな文書を作成します。
+
+* **相互運用コンテンツ交換**  
+  ワークフローでオープンスタンダードとクロスプラットフォームの利用性が求められる場合に ODT 文書を生成します。
+
+* **構造化文書出力**  
+  CSV 入力を整理されたセクション、表、書式設定されたテキストを含む読みやすい ODT コンテンツに変換します。
+
+* **再利用可能なオープンフォーマット成果物**  
+  運用や出版のニーズに合わせ、繰り返し使用される CSV データセットから一貫した ODT 文書を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なオープンフォーマット生成**  
+  編集可能なオープンスタンダード文書が必要なスケジュールされたワークフロー向けに、CSV から ODT への変換を自動化します。
+
+* **システム統合パイプライン**  
+  データを自動的に ODT ファイルに変換するバックエンドプロセスに Python API を統合します。
+
+* **大量文書作成**  
+  多数の CSV ソースをスケールで ODT 出力に変換し、一貫性と構造を維持します。
+
+* **ルールベースの文書組み立て**  
+  CSV フィールドとロジックから動的に ODT ファイルを構築し、自動出版システムを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -53,7 +53,41 @@ outformat: Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+文書から画像への変換は、Word ページをプレビュー、共有、公開、視覚的アーカイブ用の画像ファイルに変換します。固定レイアウトのレンダリングや簡単な閲覧、画像ベースの配布がウェブやモバイル環境で必要な場合に便利です。
+
+Python API を使用すると、DOC から画像への変換がスケーラブルなレンダリング パイプライン、サムネイル生成、文書プレビュー システム、そして自動化された公開ワークフローにおいて効率的になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ページプレビュー生成**
+  ポータルやアプリでの迅速なプレビューのために、文書ページを画像に変換します。
+
+* **視覚的アーカイブ**
+  レビューや参照のために、文書の外観を静的画像として保存します。
+
+* **ウェブ公開サポート**
+  文書内容をオンラインで視覚的に埋め込む必要がある場合に、画像出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **サムネイル作成パイプライン**
+  検索やプレビュー インターフェイス用に、DOC ファイルをページ画像に自動的にレンダリングします。
+
+* **コンテンツ配信ワークフロー**
+  ウェブサイト、ダッシュボード、またはメッセージングシステム向けに文書画像を生成します。
+
+* **バッチレンダリングジョブ**
+  大規模な文書コレクションをプログラムで画像に変換し、スケールで処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

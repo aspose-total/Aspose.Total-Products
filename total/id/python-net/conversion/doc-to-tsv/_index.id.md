@@ -65,7 +65,41 @@ Ini terutama dalam dua langkah. Pertama gunakan API [Aspose.Words for Python via
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi dokumen ke TSV mengubah konten Word menjadi nilai yang dipisahkan tab, format terstruktur sederhana yang ideal untuk pertukaran data berbasis teks yang bersih dan alur kerja impor. Ini berguna ketika tabel dokumen atau bidang yang berulang memerlukan output terstruktur yang ringan.
+
+API Python membantu mengotomatisasi konversi DOC ke TSV untuk ekstraksi yang dapat diskalakan, persiapan data, dan tugas integrasi di mana format tabel teks biasa lebih disukai.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Ekspor Data Ringan**
+  Ubah tabel dokumen menjadi TSV untuk pertukaran terstruktur yang sederhana.
+
+* **Output Ramah Impor**
+  Siapkan data hasil Word untuk alat dan sistem yang menerima teks berdelimitasi.
+
+* **Alur Kerja Pembersihan Data**
+  Gunakan output TSV untuk pra-pemrosesan, validasi, dan ingest pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Ekstraksi Data Volume Tinggi**
+  Secara otomatis mengubah file DOC menjadi TSV untuk pemrosesan hilir.
+
+* **Ekspor Teks Siap Pipeline**
+  Hasilkan file berdelimitasi dari dokumen sebagai bagian dari alur kerja ETL atau impor.
+
+* **Pekerjaan Transformasi Terjadwal**
+  Secara programatis menstandarisasi catatan berbasis dokumen ke TSV secara berulang.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

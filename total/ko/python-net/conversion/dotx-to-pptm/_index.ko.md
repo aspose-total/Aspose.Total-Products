@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 PPTM으로 변환하면 Word 템플릿 콘텐츠를 고급 슬라이드 워크플로를 위한 매크로 지원 프레젠테이션 형식으로 변환합니다. 문서에서 파생된 프레젠테이션 파일이 시각적 구조와 자동화 가능한 동작을 모두 지원해야 할 때 유용합니다.
+
+이 프로세스는 Python API를 활용하여 복잡한 기업 워크플로, 반복 보고 및 프로그래밍 방식 슬라이드 생성에 맞는 프레젠테이션 자산을 제작함으로써 자동화를 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 프레젠테이션**
+  문서 템플릿을 고급 동작을 지원하는 프레젠테이션 파일로 변환합니다.
+
+* **기업 슬라이드 워크플로**
+  구조화된 비즈니스 커뮤니케이션 프로세스를 위한 프레젠테이션 자산을 준비합니다.
+
+* **템플릿 기반 데크 생성**
+  표준화된 문서 콘텐츠를 재사용하여 확장 가능한 슬라이드 제작을 수행합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 프레젠테이션 조립**
+  고급 보고 워크플로를 위해 DOTX 템플릿에서 PPTM 데크를 생성합니다.
+
+* **자동화 지원 슬라이드 생성**
+  보다 풍부한 기업 프로세스에 적합한 프레젠테이션 결과물을 생성합니다.
+
+* **확장 가능한 템플릿 재사용**
+  반복되는 문서 레이아웃을 자동화 준비된 프레젠테이션 파일로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

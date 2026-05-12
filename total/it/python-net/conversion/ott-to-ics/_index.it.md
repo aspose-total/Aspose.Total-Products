@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a ICS nelle API Python converte i modelli di testo OpenDocument in file di dati di calendario utilizzati per la programmazione e lo scambio di eventi. Questo è utile quando il contenuto del documento include appuntamenti, scadenze o informazioni strutturate basate su date che devono diventare pronte per il calendario.
+
+Questa conversione è favorevole all’automazione perché consente di generare le informazioni sugli eventi dai modelli e di inserirle nei flussi di lavoro di programmazione, nei promemoria e nei processi di sincronizzazione senza inserimenti manuali nel calendario.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di file evento**  
+  Trasforma il contenuto del documento relativo alla programmazione in file compatibili con il calendario.
+
+* **Distribuzione delle scadenze**  
+  Condivide date importanti e traguardi in un formato di calendario standard.
+
+* **Supporto al flusso di lavoro di pianificazione**  
+  Converte i dati strutturati degli eventi in risorse di programmazione portatili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di calendari**  
+  Crea file ICS da modelli di eventi ricorrenti basati su OTT.
+
+* **Integrazione del flusso di lavoro dei promemoria**  
+  Inserisce gli eventi generati nei sistemi che attivano le notifiche.
+
+* **Sincronizzazione della programmazione**  
+  Supporta la condivisione programmatica dei dati del calendario tra team o strumenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

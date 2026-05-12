@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から FODS への変換は、文書ベースの構造化コンテンツをフラットな OpenDocument スプレッドシート形式にエクスポートし、オープン標準のスプレッドシートワークフローや XML ベースの処理に役立ちます。透明性が高く、ポータブルで標準指向のデータ形式を重視する環境をサポートします。
+
+Python API は、テーブルや構造化テキストをオープンなスプレッドシート表現に変換し、スケーラブルな統合や検証プロセスに適した WordML から FODS への変換を自動化するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **オープン スプレッドシート変換**
+  WordML のテーブルをフラットなオープン スプレッドシート形式に変換し、標準化された処理を可能にします。
+
+* **XML フレンドリーなデータ処理**
+  可読性が高くポータブルなスプレッドシート XML 構造の恩恵を受けるワークフローをサポートします。
+
+* **標準ベースの交換**
+  オープンドキュメントエコシステム内で構造化データの共有を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンフォーマット エクスポート パイプライン**
+  標準準拠のワークフロー向けに、WordML から FODS への変換を自動化します。
+
+* **検証と変換ジョブ**
+  自動化された検査や変換ルーチンでフラットな XML スプレッドシート出力を使用します。
+
+* **リポジトリのモダナイゼーション**
+  文書ベースの表形式データをオープンで処理可能なスプレッドシート形式に移行するのを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

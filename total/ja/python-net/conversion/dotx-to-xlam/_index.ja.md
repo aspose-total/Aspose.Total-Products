@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から XLAM への変換は、Word テンプレートのコンテンツを高度なスプレッドシート環境で使用される Excel アドイン関連フォーマットに変換します。文書駆動のロジックや構造化されたコンテンツが再利用可能なスプレッドシートツールのワークフローに貢献する場合に関連します。
+
+この変換は、Python ベースのシステムが拡張可能で繰り返し可能なデータ処理環境に合わせたスプレッドシート関連資産の準備を支援することで、オートメーションをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スプレッドシートツールサポート**
+  再利用可能な Excel ベースの資産に接続されたワークフロー向けに文書コンテンツを適応させます。
+
+* **高度なデータ環境**
+  拡張可能なスプレッドシートプロセスに構造化されたテンプレート情報を提供します。
+
+* **フォーマット相互運用性**
+  特化したユースケース向けにスプレッドシート関連フォーマットへの変換をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたスプレッドシート資産の準備**
+  特化したワークフローで DOTX テンプレートを XLAM 関連出力に変換します。
+
+* **再利用可能なデータ処理設定**
+  変換されたコンテンツを繰り返し可能なスプレッドシート自動化システムに統合します。
+
+* **テンプレートからスプレッドシートへの拡張**
+  文書変換を高度なスプレッドシート指向の操作と結び付けます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

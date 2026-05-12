@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion TSV en DOCM permet de transformer des données tabulaires en documents de traitement de texte à macros activées, qui prennent en charge des flux de travail de documents plus riches et des besoins de traitement avancés. Cela est précieux lorsque des données structurées doivent être livrées dans des formats éditables adaptés aux environnements de documentation d'entreprise contrôlés.
+
+Avec les API Python, la conversion TSV en DOCM peut être intégrée à des systèmes automatisés qui génèrent des documents réutilisables à grande échelle, aidant à rationaliser l'assemblage de documents, l'orchestration des flux de travail et la livraison de contenu structuré.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rapports à macros activées**  
+  Prépare des documents pilotés par les données pour les environnements où un comportement avancé du document est requis.
+
+* **Sortie de documents structurés**  
+  Convertit le contenu TSV en fichiers éditables adaptés à une utilisation opérationnelle et administrative.
+
+* **Emballage de contenu automatisé**  
+  Prend en charge les flux de génération de documents qui nécessitent des données dans un format plus interactif.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Création de documents basée sur des modèles**  
+  L'automatisation peut remplir des formats de documents à macros activées à partir de jeux de données TSV.
+
+* **Intégration des flux de travail d'entreprise**  
+  Les API Python peuvent connecter les exportations de données aux systèmes de traitement de documents en aval.
+
+* **Pipelines de publication par lots**  
+  Plusieurs fichiers TSV peuvent être convertis en documents DOCM lors d'exécutions automatisées répétables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOT naar VCF-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT-naar-VCF-conversie zet documentsjablonen om in contactkaartbestanden die kunnen worden gebruikt voor import in adresboeken en het delen van contacten. Dit is nuttig wanneer op documenten gebaseerde records persoonsgegevens of organisatiedetails bevatten die in communicatiesystemen moeten worden ingevoerd.
+
+Python‑API's maken het mogelijk om DOT-naar-VCF-conversie te automatiseren, waardoor de draagbaarheid van contactgegevens verbetert en repetitieve handmatige invoer in bedrijfsprocessen wordt verminderd.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Contactrecordgeneratie**
+  Zet DOT‑gebonden informatie om in VCF‑bestanden voor gebruik in adresboeken.
+
+* **Draagbare contactdeling**
+  Deel gestructureerde contactgegevens die uit sjablonen zijn gehaald in een gestandaardiseerd formaat.
+
+* **Ondersteuning bij gegevensinvoer voor communicatie**
+  Verminder handmatige invoer door sjablooninhoud om te zetten in importklare contactkaarten.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde contactexport**
+  Python‑workflows kunnen VCF‑bestanden genereren uit DOT‑sjablonen die contactinformatie bevatten.
+
+* **CRM- en directory‑integratie**
+  Conversie ondersteunt het overbrengen van op documenten gebaseerde contactgegevens naar communicatiesystemen.
+
+* **Bulkcontactbestanden maken**
+  Programmerende verwerking maakt schaalbare generatie van VCF‑uitvoer uit vele sjablonen mogelijk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

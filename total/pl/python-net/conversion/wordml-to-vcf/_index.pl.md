@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji WORDML do VCF w 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to VCF conversion transforms document-based contact information into vCard files that can be imported into contact management systems. This is useful when names, phone numbers, addresses, or related details stored in documents need to become standardized contact records.
+
+Using Python APIs, WordML to VCF conversion can be automated to extract relevant contact fields and generate portable vCard outputs for CRM, directory, and sync workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja rekordów kontaktowych**
+  Konwertuje szczegóły kontaktowe z dokumentów WordML na importowalne pliki VCF.
+
+* **Wsparcie katalogów i CRM**
+  Pomaga przenieść dane kontaktowe z dokumentów do ustrukturyzowanych systemów kontaktowych.
+
+* **Przenośne udostępnianie kontaktów**
+  Umożliwia ustandaryzowaną wymianę informacji kontaktowych między platformami.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Masowa generacja kontaktów**
+  Automatyzuje tworzenie plików VCF z katalogów, formularzy lub list kontaktów przechowywanych w WordML.
+
+* **Przygotowanie danych CRM**
+  Wspiera wprowadzanie ustandaryzowanych rekordów kontaktowych do zautomatyzowanych systemów biznesowych.
+
+* **Umożliwienie przepływu synchronizacji**
+  Konwertuje szczegóły kontaktowe przechowywane w dokumentach na przenośne pliki dla cyklicznej synchronizacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

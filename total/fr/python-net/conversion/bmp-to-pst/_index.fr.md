@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion BMP vers PST permet de stocker le contenu d'images bitmap dans des fichiers d'archive d'e‑mails PST. Les fichiers PST servent de conteneurs pour les messages, les pièces jointes et d'autres données de boîte aux lettres.
+
+Les flux de travail automatisés bénéficient de la conversion BMP vers PST en permettant la génération d'archives d'e‑mail évolutives incluant des informations visuelles. Cela prend en charge le stockage conforme, la migration de messages et les stratégies de rétention d'e‑mail à long terme.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Stockage d'archives d'e‑mail**  
+  Les images BMP peuvent être conservées dans les archives d'e‑mail PST.
+
+* **Migration de données de boîte aux lettres**  
+  Les communications visuelles peuvent être transférées dans les fichiers PST lors de la migration.
+
+* **Rétention à long terme des messages**  
+  Les organisations peuvent stocker les communications basées sur des images à des fins de conformité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération d'archives automatisée**  
+  Les scripts convertissent les fichiers BMP en enregistrements de messages PST lors des flux de travail d'archivage.
+
+* **Traitement en masse des données d'e‑mail**  
+  Les systèmes intègrent automatiquement le contenu basé sur BMP dans les fichiers PST.
+
+* **Exportation de boîte aux lettres programmatique**  
+  Les applications créent dynamiquement des archives PST contenant des messages visuels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

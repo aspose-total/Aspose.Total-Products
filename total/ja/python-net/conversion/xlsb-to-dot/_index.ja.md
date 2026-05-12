@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から DOT への変換は、バイナリのスプレッドシートコンテンツを Word テンプレート形式に変換し、スプレッドシート由来のデータに基づく再利用可能な文書構造の作成を支援します。これは、繰り返し使用される文書レイアウトをスプレッドシートソースから自動的に埋め込む必要がある場合に有用です。
+
+自動化された環境では、XLSB から DOT への変換がスケーラブルなテンプレート駆動型文書生成をサポートし、一貫性の向上、繰り返し編集の削減、レポートや業務フロー全体での標準化された出力を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **テンプレート作成**  
+  スプレッドシート情報を再利用可能な文書テンプレートに変換し、繰り返し使用できるようにします。
+
+* **標準化されたレポート**  
+  繰り返し生成される文書出力全体で一貫した書式設定を強制するのに役立ちます。
+
+* **プロセス文書設計**  
+  内部文書ワークフロー向けの再利用可能な構造の作成を支援します。
+
+* **文書フレームワークの再利用**  
+  チームが共通のレイアウトから複数の文書を生成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートベースの生成**  
+  自動化により、XLSB入力をDOTファイルに変換し、繰り返し文書を作成できます。
+
+* **標準出力パイプライン**  
+  システムはテンプレート対応の出力を自動的に生成することで、レイアウトの一貫性を強制できます。
+
+* **大量テンプレート作成**  
+  バッチ処理ワークフローで複数のスプレッドシート駆動テンプレートを作成できます。
+
+* **運用文書フロー**  
+  スプレッドシートデータは、下流での使用のために構造化されたテンプレート作成に供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

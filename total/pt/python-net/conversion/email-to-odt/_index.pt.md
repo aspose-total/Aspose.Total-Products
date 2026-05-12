@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para ODT em Python converte o conteúdo da mensagem em arquivos de texto de documento aberto adequados para fluxos de trabalho editáveis e orientados a padrões. É útil quando interoperabilidade, formatos abertos e armazenamento editável são requisitos importantes.
+
+Essa conversão suporta automação ao permitir que o conteúdo derivado de e‑mails flua para ecossistemas de documentos abertos, processos de edição colaborativa e estratégias de arquivamento de longo prazo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Edição em Formato Aberto**
+  Converta e‑mails em arquivos ODT para manipulação de documentos editáveis em ambientes baseados em padrões.
+
+* **Arquivamento Interoperável**
+  Preserve comunicações em um formato aberto adequado para troca e reutilização.
+
+* **Documentação Colaborativa**
+  Use e‑mails convertidos em fluxos de trabalho que dependem de documentos abertos editáveis.
+
+* **Acessibilidade a Longo Prazo**
+  Armazene o conteúdo importante da mensagem em um formato alinhado às práticas de documentos abertos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Documentos Abertos**
+  Transforme automaticamente mensagens de e‑mail em arquivos ODT para fluxos de trabalho de equipe.
+
+* **Integração com Repositório e Arquivo**
+  Direcione documentos abertos convertidos para sistemas de armazenamento e registros.
+
+* **Automação de Edição Multiplataforma**
+  Permita edição e compartilhamento consistentes do conteúdo derivado de e‑mails entre diferentes ferramentas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した Word から XLAM への変換は、ワードプロセッシング コンテンツを高度な Excel ベースの自動化環境向けのアドイン指向スプレッドシート ファイルに変換します。これは、ドキュメント由来のロジック、テンプレート、または構造化コンテンツを再利用可能なスプレッドシート自動化コンポーネントに転用する必要がある場合に有用です。
+
+スケーラブルなワークフローにおいて、この変換は、ドキュメント コンテンツと高度なスプレッドシートベースの生産性およびプロセス自動化シナリオを結びつける拡張可能な資産の作成を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **スプレッドシート アドインの準備**
+  ドキュメント コンテンツを高度なスプレッドシート ワークフローに対応した資産に再利用するのに役立ちます。
+
+* **再利用可能な自動化コンポーネントのサポート**
+  構造化されたコンテンツが繰り返し可能なスプレッドシートベースのプロセスに貢献できるようにします。
+
+* **運用ツールの統合**
+  ドキュメント情報と拡張されたスプレッドシート機能を橋渡しします。
+
+* **高度なワークフローの有効化**
+  再利用可能なブック拡張が必要な専門的な環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化資産の生成**
+  ソース ドキュメントをスプレッドシート エコシステム向けの XLAM 指向出力に変換します。
+
+* **再利用可能なビジネスロジック ワークフロー**
+  ドキュメント由来の構造を繰り返し可能な運用ツールにパッケージ化することをサポートします。
+
+* **エンタープライズ スプレッドシート統合**
+  変換出力を高度なワークシート自動化環境で使用します。
+
+* **バッチ コンテンツ変換**
+  標準化された Word ファイルをスケールで拡張準備ができたスプレッドシート資産に処理します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

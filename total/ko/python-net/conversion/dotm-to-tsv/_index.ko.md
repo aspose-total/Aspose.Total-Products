@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to TSV 변환은 매크로가 포함된 Word 템플릿을 탭으로 구분된 값(TSV)으로 변환하여 깨끗하고 구조화된 데이터 교환 및 분석을 가능하게 합니다. 템플릿 내용을 표 형식 데이터를 명확하고 효율적으로 처리하는 간단한 텍스트 기반 형식으로 내보내야 할 때 유용합니다.
+
+DOTM to TSV 변환을 위한 Python API 사용은 문서에서 구조화된 콘텐츠를 경량 데이터 세트로 반복적으로 추출할 수 있게 하여 자동화를 지원합니다. 이를 통해 ETL 파이프라인, 분석 시스템 및 대량 처리 워크플로와의 통합이 향상됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **구조화된 데이터 내보내기**
+  DOTM 콘텐츠를 TSV로 변환하여 표 형식 정보를 깔끔하게 전송합니다.
+
+* **분석 준비**
+  문서 기반 데이터를 스크립팅, 분석 및 대량 수집에 적합한 형식으로 이동합니다.
+
+* **상호 운용 가능한 텍스트 기반 교환**
+  워크플로우에서 최소한의 서식 오버헤드로 간단한 구조화된 출력을 필요로 할 때 TSV를 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동 데이터 추출**
+  워크플로우는 수동 입력 없이도 DOTM 템플릿을 TSV 파일로 변환하여 다운스트림 처리에 활용할 수 있습니다.
+
+* **파이프라인 친화적 변환**
+  이 변환은 경량 표 형식 교환 포맷을 선호하는 자동화 시스템을 지원합니다.
+
+* **배치 데이터셋 생성**
+  프로그래밍 작업을 통해 다수의 DOTM 파일을 TSV 출력으로 확장 가능하게 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

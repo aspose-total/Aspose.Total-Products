@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to XLT 変換は、マクロ対応ドキュメントをスプレッドシートテンプレートファイルに変換し、構造化されたドキュメントコンテンツを再利用可能なワークブックレイアウトに変えることで、繰り返し使用できるようにします。定期的なスプレッドシート作成プロセスで一貫性が重要な場合に有用です。
+
+自動化システムにおいて、DOCM から XLT への変換は、標準化されたワークブックの生成、プロセスの再現性、そしてドキュメントを再利用可能なスプレッドシートテンプレートへスケーラブルに変換することを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **再利用可能なワークブックテンプレート**
+  ドキュメント素材をスプレッドシートテンプレートに変換し、繰り返しの業務で使用します。
+
+* **標準化されたスプレッドシート構造**
+  定期的なワークブック作成タスクでの一貫性維持に役立ちます。
+
+* **コンテンツからテンプレートへの再利用**
+  ドキュメントデータとレイアウトを構造化されたスプレッドシート設計図に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動テンプレート生成**
+  DOCM ソースから XLT ファイルを生成し、繰り返し可能なスプレッドシートワークフローを実現します。
+
+* **一貫したワークブック提供**
+  標準化されたスプレッドシートテンプレートのプログラムによる作成をサポートします。
+
+* **スケーラブルなテンプレート配布**
+  ソースドキュメントから生成されたスプレッドシートレイアウトの広範な再利用を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

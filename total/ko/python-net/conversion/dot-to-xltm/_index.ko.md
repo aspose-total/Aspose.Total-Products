@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 XLTM 변환은 문서 템플릿을 매크로 사용 가능 스프레드시트 템플릿 파일로 변환하여 반복 가능한 고급 워크북 생성을 가능하게 합니다. 이는 재사용 가능한 스프레드시트 템플릿이 호환되는 워크플로에서 향상된 기능을 지원해야 할 때 유용합니다.
+
+Python API는 DOT 소스에서 자동화된 XLTM 생성을 가능하게 하여 조직이 표준화된 고급 스프레드시트 템플릿을 효율적으로 만들 수 있도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 가능 템플릿 내보내기**
+  DOT 파일을 XLTM 템플릿으로 변환하여 고급 재사용 가능한 스프레드시트 워크플로에 활용합니다.
+
+* **재사용 가능한 고급 워크북 설계**
+  문서 구조를 확장된 기능을 갖춘 스프레드시트 템플릿으로 재활용합니다.
+
+* **표준화된 기능 템플릿**
+  문서 기반 템플릿 소스에서 반복 가능한 워크북 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 고급 템플릿 생성**
+  Python 워크플로는 DOT 템플릿에서 XLTM 파일을 생성하여 반복되는 비즈니스 프로세스에 활용할 수 있습니다.
+
+* **템플릿 라이브러리 표준화**
+  변환은 팀 간에 일관된 매크로 사용 가능 스프레드시트 템플릿을 유지하는 데 도움이 됩니다.
+
+* **확장 가능한 기능 워크북 준비**
+  프로그래밍 시스템은 고급 스프레드시트 템플릿 자산을 대량으로 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

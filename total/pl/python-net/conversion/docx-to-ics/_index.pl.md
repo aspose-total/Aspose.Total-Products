@@ -46,7 +46,44 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCX do ICS w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCX do formatu ICS przekształca informacje oparte na dokumentach w pliki zdarzeń kalendarza, które spełniają standard iCalendar. Ta transformacja umożliwia konwersję informacji o planowaniu przechowywanych w dokumentach do formatów zgodnych z kalendarzem.
+
+Interfejsy API Pythona umożliwiają automatyczne wyodrębnianie danych zdarzeń z dokumentów i generowanie plików ICS, wspierając systemy automatycznego planowania i integracje kalendarzy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja planowania zdarzeń**  
+  Konwertuje szczegóły zdarzeń oparte na dokumentach na zdarzenia kalendarza.
+
+* **Przepływy integracji kalendarza**  
+  Umożliwia importowanie harmonogramów dokumentów do systemów kalendarza.
+
+* **Automatyzacja spotkań i zdarzeń**  
+  Ułatwia automatyczne tworzenie zdarzeń kalendarza z dokumentów.
+
+* **Systemy dystrybucji harmonogramów**  
+  Pozwala dokumentom zawierającym informacje o zdarzeniach generować pliki kalendarza.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie plików zdarzeń**  
+  Systemy mogą automatycznie konwertować harmonogramy zdarzeń w formacie DOCX na pliki ICS.
+
+* **Potoki planowania oparte na dokumentach**  
+  Automatyzacja w Pythonie może generować wpisy kalendarza z dokumentów.
+
+* **Integracja kalendarza w przedsiębiorstwie**  
+  Dane dokumentów mogą być przekształcane w pliki ICS w celu automatycznego planowania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

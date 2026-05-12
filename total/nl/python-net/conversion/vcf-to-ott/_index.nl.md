@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een VCF naar OTT-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF-naar-OTT-conversie zet contactkaartgegevens om in open document‑sjablonen die herhaalbare en gestandaardiseerde inhoudscreatie ondersteunen. Dit is waardevol wanneer contactinformatie moet worden ingevoegd in herbruikbare lay‑outs voor consistente documentgeneratie.
+
+In geautomatiseerde workflows maakt VCF-naar-OTT-conversie het mogelijk Python‑API’s te gebruiken om sjabloonklaar output te bouwen dat de efficiëntie verbetert, de opmaakinspanning vermindert en schaalbare documentassemblageprocessen ondersteunt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Open sjabloongeneratie**  
+  Converteer VCF‑records naar OTT‑bestanden voor herbruikbare documentstructuren.
+
+* **Gestandaardiseerde contactlay‑outs**  
+  Bereid contactinformatie voor in een herhaalbaar sjabloonformaat.
+
+* **Procesklare documentatie**  
+  Ondersteun sjabloon‑gedreven workflows met open documentcompatibiliteit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Sjabloonautomatiseringspijplijnen**  
+  Genereer OTT‑sjablonen uit contactgegevens in bulkbewerkingen.
+
+* **Consistente documentassemblage**  
+  Gebruik geconverteerde sjablonen in workflows die herhaalbare opmaak vereisen.
+
+* **Schaalbare verwerking van open formaten**  
+  Pas Python‑API’s toe om efficiënt herbruikbare sjabloonassets te creëren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

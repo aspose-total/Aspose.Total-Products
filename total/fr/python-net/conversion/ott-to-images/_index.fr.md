@@ -53,7 +53,41 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OTT vers images dans les API Python rend les modèles de texte OpenDocument en sorties d'images pour le partage visuel, la génération d'aperçus et la publication statique. Cela est utile lorsque le contenu du document doit être affiché de manière cohérente sur toutes les plateformes sans dépendre de formats sources modifiables.
+
+Cette conversion profite à l'automatisation en permettant des pipelines de rendu évolutifs pour les aperçus, les miniatures, les ressources web et les instantanés de documents qui peuvent être générés de façon programmatique et distribués largement.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Génération d'aperçu visuel**  
+  Crée des représentations statiques du contenu du document pour une visualisation rapide.
+
+* **Partage multiplateforme**  
+  Facilite l'affichage du contenu là où la prise en charge des documents est limitée.
+
+* **Support de publication**  
+  Produit des ressources image pour le web, les rapports ou l'archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de création de miniatures**  
+  Génère des images d'aperçu à partir de fichiers OTT en masse.
+
+* **Flux de travail de publication de contenu**  
+  Convertit les modèles en ressources visuelles pour les portails ou les sites de documentation.
+
+* **Archivage automatisé d'instantanés**  
+  Préserve les états du document sous forme de sorties d'image non modifiables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

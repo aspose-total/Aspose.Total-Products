@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 PPT로 변환하면 문서 내용을 편집, 검토 및 전달을 위한 프레젠테이션 파일로 전환하여 기존 슬라이드 기반 워크플로우에서 사용할 수 있습니다. 문서 정보를 커뮤니케이션이나 교육 목적의 프레젠테이션으로 재패키징해야 할 때 유용합니다.
+
+Python API는 슬라이드 구성을 자동화하고 팀 및 시스템 전반에 걸쳐 반복 가능한 문서‑to‑프레젠테이션 변환을 지원함으로써 WordML을 PPT로 변환할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **편집 가능한 프레젠테이션 생성**
+  WordML 콘텐츠를 PPT 파일로 변환하여 검토 및 추가 개선에 사용합니다.
+
+* **지식 전송**
+  작성된 문서를 프레젠테이션 기반 학습 자료로 변환하는 데 도움을 줍니다.
+
+* **비즈니스 커뮤니케이션 지원**
+  스토리텔링 또는 구조화된 콘텐츠를 이해관계자에게 보다 쉽게 전달할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서-슬라이드 파이프라인**
+  WordML 보고서, 브리프 또는 문서에서 PPT 생성을 자동화합니다.
+
+* **반복적인 프레젠테이션 업데이트**
+  원본 문서에서 프레젠테이션 자산을 자주 새로 고치는 것을 지원합니다.
+
+* **콘텐츠 배포 자동화**
+  대규모로 편집 가능한 슬라이드 덱을 효율적으로 게시할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

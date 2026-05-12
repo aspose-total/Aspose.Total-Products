@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF to DOCX 変換は、連絡先カードデータを、文書作成、構造化されたコミュニケーション、デジタル記録管理で広く使用されている、最新の編集可能なドキュメントファイルに変換します。これにより、連絡先情報をプロフェッショナルなワークフローで提示、レビュー、再利用しやすくなります。
+
+Python API を使用すると、VCF から DOCX への変換を大量処理向けに自動化でき、チームがスケーラブルなコンテンツ生成および文書処理システムに適合する標準化された連絡先ドキュメントを作成するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **モダンな連絡先ドキュメント**  
+  VCF データを DOCX ファイルに変換し、プロフェッショナルで編集可能な使用を実現します。
+
+* **チームコラボレーション**  
+  レビューと改訂をサポートする共通の文書形式で連絡先詳細を共有します。
+
+* **構造化されたコンテンツの再利用**  
+  連絡先情報をレポート、ディレクトリ、または通信用の文書に再フォーマットします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ DOCX 生成**  
+  大量の VCF ファイルを自動的に DOCX 文書に変換します。
+
+* **文書ワークフロー統合**  
+  生成された DOCX 連絡先レコードを承認、保存、または公開パイプラインに送ります。
+
+* **スケーラブルなコンテンツ標準化**  
+  Python API を使用して、システム全体で統一された連絡先文書のフォーマットを強制します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

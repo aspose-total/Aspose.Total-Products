@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 MOBI를 DIF로 변환하면 전자책 콘텐츠를 스프레드시트 중심 워크플로우에서 일반적으로 사용되는 데이터 교환 형식으로 변환할 수 있습니다. 이는 콘텐츠를 레거시 호환 데이터 환경이나 구조화된 가져오기 표준에 의존하는 시스템으로 이동해야 할 때 유용합니다.
+
+자동화 중심 환경에서 MOBI를 DIF로 변환하면 반복 가능한 콘텐츠 변환, 레거시 데이터 호환성, 그리고 문서 저장소와 스프레드시트 기반 처리 계층 간의 원활한 교환을 지원합니다. 이는 출판 파일을 구조화된 비즈니스 워크플로우와 연결하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **레거시 스프레드시트 가져오기**
+  MOBI 콘텐츠를 DIF로 변환하여 오래된 스프레드시트 및 데이터 처리 도구에 가져올 수 있도록 합니다.
+
+* **구조화된 콘텐츠 재사용**
+  교환 지향 데이터 형식에 의존하는 시스템에서 추출된 전자책 정보를 재활용합니다.
+
+* **아카이브 변환**
+  장기 처리 또는 마이그레이션 프로젝트에 적합한 구조화된 형식으로 유용한 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동화된 레거시 시스템 피드**
+  MOBI에서 파생된 콘텐츠를 DIF 생성으로 레거시 스프레드시트 워크플로우에 전달합니다.
+
+* **예약된 형식 조화**
+  반복 작업 중에 MOBI 파일을 DIF로 변환하여 혼합된 문서 소스를 표준화합니다.
+
+* **마이그레이션 지원 파이프라인**
+  Python 자동화를 사용하여 전자책 콘텐츠를 오래된 운영 시스템에 대량으로 가져오기 위해 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

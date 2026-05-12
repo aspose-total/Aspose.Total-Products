@@ -46,7 +46,53 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione di immagini in OFT tramite le API Python consente di trasformare contenuti basati su immagini in file di template email riutilizzabili che supportano la creazione di comunicazioni coerenti. Questo è utile quando i messaggi ricorrenti devono incorporare materiale visivo come banner, avvisi, grafiche brandizzate o layout strutturati basati su immagini.
+
+Per i flussi di lavoro automatizzati, la conversione di immagini in OFT supporta comunicazioni basate su template, riduce il lavoro di formattazione ripetitivo e migliora la coerenza dei risultati. Consente processi di generazione di email scalabili in cui i contenuti visivi vengono riutilizzati in scenari operativi o aziendali ricorrenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Template di comunicazione riutilizzabili**
+  Converti layout basati su immagini in template OFT per flussi di messaggistica ripetuti.
+
+* **Standardizzazione degli avvisi visivi**
+  Crea template email coerenti a partire da avvisi di policy, annunci o grafiche promozionali.
+
+* **Preparazione di messaggi operativi**
+  Crea template che includono istruzioni o materiale di riferimento basati su immagini.
+
+* **Coerenza nella comunicazione con i clienti**
+  Utilizza template email visivi per mantenere una comunicazione uniforme nelle interazioni ripetute.
+
+* **Progettazione di annunci interni**
+  Trasforma formati di messaggi basati su immagini in template riutilizzabili per la comunicazione a livello di team.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione email basata su template**
+  I sistemi possono generare comunicazioni ricorrenti da template OFT costruiti a partire da contenuti immagine.
+
+* **Supporto al flusso di lavoro delle campagne**
+  I template ricchi di immagini possono essere preparati una volta e riutilizzati nei processi di outreach programmati.
+
+* **Standardizzazione degli avvisi operativi**
+  I formati di aggiornamento comuni possono essere automatizzati usando output OFT riutilizzabili derivati da risorse visive.
+
+* **Comunicazione di processi documentati**
+  I team possono automatizzare email istruttive utilizzando template generati da contenuti di riferimento basati su immagini.
+
+* **Personalizzazione scalabile dei messaggi**
+  I template OFT creati da immagini possono essere popolati dinamicamente con dati nei flussi di lavoro automatizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

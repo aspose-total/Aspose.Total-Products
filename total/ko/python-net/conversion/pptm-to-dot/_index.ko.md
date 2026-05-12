@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 PPTM에서 DOT로의 변환은 매크로가 포함된 프레젠테이션 콘텐츠를 표준화된 텍스트 기반 출력에 사용되는 문서 템플릿 형식으로 변환합니다. 프레젠테이션 자료를 반복적인 비즈니스 또는 운영 프로세스를 위한 재사용 가능한 문서 구조의 시드로 활용해야 할 때 유용합니다.
+
+이러한 유형의 변환은 프레젠테이션에서 파생된 콘텐츠를 사용해 조직이 반복 가능한 문서 워크플로를 구축하도록 함으로써 자동화를 지원합니다. 작업 중복을 줄이고 변환된 정보가 팀 전반에 걸쳐 어떻게 형식화되고 재사용되는지를 표준화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 기반 콘텐츠 재사용**
+  슬라이드 콘텐츠를 반복적인 문서 작성을 위한 재사용 가능한 템플릿 기반으로 변환합니다.
+
+* **표준화된 문서 준비**
+  프레젠테이션 자료에서 생성된 문서의 일관성을 지원합니다.
+
+* **운영 콘텐츠 구조화**
+  변환된 콘텐츠를 내부 워크플로를 위한 사전 정의된 레이아웃으로 정리하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**
+  프레젠테이션 자산에서 DOT 템플릿 생성을 자동화합니다.
+
+* **반복 문서 워크플로**
+  표준화된 변환 템플릿을 사용한 문서의 반복 생성을 지원합니다.
+
+* **포맷 제어 자동화**
+  변환된 출력물 전반에 걸쳐 레이아웃 일관성을 프로그래밍 방식으로 강제합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

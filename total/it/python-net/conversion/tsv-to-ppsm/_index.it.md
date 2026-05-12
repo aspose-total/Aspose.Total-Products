@@ -64,7 +64,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da TSV a PPSM trasforma dati tabulari strutturati in file di presentazione con macro, utilizzati per la riproduzione di presentazioni con comportamenti avanzati. È utile nei flussi di lavoro in cui i risultati pronti per la presentazione devono allinearsi a sistemi di presentazione controllati e basati sui dati.
+
+Con le API Python, la conversione da TSV a PPSM può essere automatizzata per semplificare la produzione di presentazioni, supportare flussi di lavoro di presentazione avanzati e migliorare la scalabilità nei pipeline ricorrenti di dati‑a‑presentazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Presentazioni con macro**  
+  Converte set di dati TSV in file di presentazione adatti a ambienti di presentazione avanzati.
+
+* **Consegna della riproduzione della presentazione**  
+  Supporta output di presentazione a visualizzazione diretta costruiti da dati sorgente strutturati.
+
+* **Diapositive di reportistica automatizzate**  
+  Aiuta a confezionare dati ricorrenti in risorse di presentazione per uso operativo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Automazione dati‑a‑presentazione**  
+  Le API Python possono convertire file TSV in output PPSM con logica ripetibile.
+
+* **Flussi di lavoro di presentazione avanzati**  
+  L'automazione supporta la generazione di presentazioni per ambienti che richiedono funzionalità più ricche.
+
+* **Trasformazione batch scalabile**  
+  Grandi collezioni di TSV possono essere elaborate in file PPSM in modo efficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

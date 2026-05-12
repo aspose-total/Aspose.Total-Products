@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para RTF nas APIs Python transforma o conteúdo da caixa de correio em formato Rich Text para fluxos de trabalho de documentos editáveis e portáteis. É útil quando o texto derivado de e‑mail precisa preservar formatação básica, mantendo ampla compatibilidade com diversos ambientes de processamento de texto.
+
+Em ambientes de automação, a conversão de PST para RTF suporta a troca leve de documentos e a transformação eficiente de arquivos de caixa de correio em saídas editáveis. Ela permite a reutilização escalável de conteúdo de comunicação formatado em diferentes sistemas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Exportação de Texto Formatado**
+  Converte o conteúdo PST em RTF preservando a formatação básica do documento.
+
+* **Fluxos de Trabalho de Compatibilidade Ampla**
+  Ajuda a tornar arquivos derivados da caixa de correio utilizáveis em diversos ambientes de edição.
+
+* **Preparação de Arquivo Editável**
+  Suporta a transformação de registros de comunicação em forma de documento revisável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Conversão de Texto Automatizados**
+  Sistemas podem exportar o conteúdo PST para RTF para edição e reutilização posteriores.
+
+* **Fluxos de Trabalho de Documentação Portátil**
+  Arquivos convertidos podem ser transferidos facilmente entre aplicativos de escritório e sistemas de arquivamento.
+
+* **Reformatação de Conteúdo Escalável**
+  A conversão programática simplifica a transformação em massa do texto da caixa de correio em arquivos editáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

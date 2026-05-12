@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para SXC converte conteúdo estruturado baseado em documentos em arquivos de planilha compatíveis com fluxos de trabalho legados de planilhas abertas. Isso é útil para organizações que mantêm compatibilidade com ambientes de escritório aberto mais antigos.
+
+APIs Python suportam a conversão de WordML para SXC extraindo tabelas e automatizando a transformação em formatos orientados a planilhas para necessidades de migração e interoperabilidade.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Saída de Planilha Aberta Legada**
+  Converte tabelas WordML em arquivos SXC para ambientes de planilha mais antigos.
+
+* **Reuso de Dados de Documentos**
+  Torna o conteúdo estruturado de documentos editável em ferramentas de planilha legadas.
+
+* **Preservação de Compatibilidade**
+  Suporta fluxos de trabalho de longo prazo que ainda dependem de formatos abertos mais antigos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Exportação Legada**
+  Gera saídas SXC a partir de arquivos WordML em fluxos de trabalho focados em compatibilidade.
+
+* **Tarefas de Suporte à Migração**
+  Conecta repositórios de documentos a ambientes de processamento de planilhas mais antigos.
+
+* **Conversão em Massa de Tabelas**
+  Automatiza a extração e o empacotamento de dados de documentos em arquivos de planilha legados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

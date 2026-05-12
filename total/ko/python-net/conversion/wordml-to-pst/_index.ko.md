@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 WORDML를 PST로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML에서 PST로 변환은 문서에서 파생된 콘텐츠를 개인 저장소 테이블 워크플로우로 변환하여 메일함 데이터 조직 및 마이그레이션에 사용합니다. 문서 정보를 더 큰 이메일 저장소나 보관 작업에 통합해야 할 때 관련됩니다.
+
+Python API는 기업 커뮤니케이션 환경에서 확장 가능한 메시지 및 보관 준비를 위해 콘텐츠를 구조화함으로써 WordML에서 PST 관련 처리를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 보관 준비**
+  문서 콘텐츠를 개인 메일 저장 워크플로우의 소스 자료로 사용합니다.
+
+* **마이그레이션 및 보존 지원**
+  구조화된 텍스트를 보관 지향 커뮤니케이션 시스템에 통합하는 데 도움을 줍니다.
+
+* **기업 콘텐츠 통합**
+  메일함 중심 프로세스에서 문서 파생 레코드의 패키징을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **보관 준비 파이프라인**
+  대규모 저장 워크플로우를 위해 WordML 콘텐츠 변환을 자동화합니다.
+
+* **메일 데이터 통합**
+  문서 기반 커뮤니케이션을 보관 작업에 반복적으로 통합하는 것을 지원합니다.
+
+* **보존 프로세스 자동화**
+  시스템 전반에 걸쳐 문서‑메일함 콘텐츠 준비를 표준화하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

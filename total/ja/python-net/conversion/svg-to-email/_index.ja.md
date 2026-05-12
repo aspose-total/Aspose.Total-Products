@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG からメールへの変換は、ベクターベースの視覚ドキュメントを、プレゼンテーション、共有、下流のコミュニケーションワークフローをサポートするメールフレンドリーなコンテンツ構造に変換できるようにします。このアプローチは、組織がデザイン意図を保持しながら、メッセージ駆動型環境でグラフィックコンテンツの配布を容易にします。
+
+SVG からメールへの変換に Python API を使用することで、レポート作成、通知、文書配信、コンテンツ変換パイプライン全体での自動化がサポートされます。構造化されたビジュアル資産から再利用可能なメール出力をスケーラブルに生成できるようにし、効率性が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **ビジュアルコンテンツ配布**  
+  SVG アセットをメール対応コンテンツに変換し、図表、通知、フォーマットされた更新情報の共有を可能にします。
+
+* **ワークフローフレンドリーなメッセージング**  
+  チームがデザインベースの情報を手動でコンテンツを再構築することなく、コミュニケーションチャネルに移行できるよう支援します。
+
+* **構造化文書配信**  
+  ビジネス文書やデジタル業務の一環として、視覚的に豊かな情報の自動配信をサポートします。
+
+* **テンプレートベースの通知**  
+  標準化された SVG ソースからメール指向の出力を一貫して作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート配信**  
+  Python ワークフローは、SVG で生成されたサマリーをメール出力に変換し、スケジュール配信が可能です。
+
+* **システム通知パイプライン**  
+  SVG ビジュアルは、アラート、更新、または内部メッセージングの自動化のためのメールコンテンツに変換できます。
+
+* **バッチコミュニケーション処理**  
+  大量の SVG ファイルをプログラムでメール形式に変換し、スケーラブルなアウトリーチ業務を実現できます。
+
+* **コンテンツ公開ワークフロー**  
+  動的システムは SVG アセットを生成し、自動的にメール配信物に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

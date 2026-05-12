@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a FODS trasforma il contenuto di OpenDocument Text in un formato di foglio di calcolo XML piatto, progettato per lo scambio e l'elaborazione di dati strutturati. Questo è utile quando tabelle o record basati su documenti devono essere trasferiti in flussi di lavoro di fogli di calcolo aperti e leggibili da macchine.
+
+Con le API Python, la conversione da ODT a FODS supporta l'elaborazione orientata all'automazione, l'interoperabilità e la trasformazione di massa. È particolarmente adatta a sistemi che privilegiano formati trasparenti e l'estrazione di documenti strutturati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Conversione in foglio di calcolo aperto**  
+  Converte il contenuto del documento in un formato XML orientato ai fogli di calcolo accessibile.
+
+* **Scambio di dati strutturati**  
+  Supporta lo spostamento dei record di documento estratti tra i sistemi.
+
+* **Archiviazione leggibile da macchine**  
+  Preserva i dati in un formato facile da ispezionare e processare.
+
+* **Interoperabilità dei flussi di lavoro**  
+  Aiuta a collegare i repository di documenti con pipeline di dati aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di dati basate su XML**  
+  L'automazione Python può convertire i file ODT in FODS per un'elaborazione dei dati trasparente.
+
+* **Trasformazione di massa in formato aperto**  
+  Grandi insiemi di documenti possono essere standardizzati in output di fogli di calcolo aperti.
+
+* **Flussi di lavoro di convalida dei dati**  
+  Il contenuto estratto può essere verificato e normalizzato prima dell'esportazione in FODS.
+
+* **Automazione di archiviazione interoperabile**  
+  I sistemi possono archiviare gli output convertiti in formati aperti per un riutilizzo a lungo termine.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

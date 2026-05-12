@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から TSV への変換は、ワードプロセッシング文書をタブ区切り値形式に変換し、構造化された情報を軽量なテキストベースのデータファイルに抽出できるようにします。この形式は、文書ベースの表や整理されたコンテンツを分析や交換のワークフローに移行する際に便利です。
+
+Python API を使用すると、DOCX から TSV への変換をデータ準備システム、コンテンツ抽出パイプライン、エンタープライズ統合ワークフローで自動化できます。文書コンテンツを機械可読な表形式出力にスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **表形式データ抽出**  
+  DOCX の表や構造化された情報をテキストベースの表形式ファイルに変換します。
+
+* **システム間データ交換**  
+  プラットフォーム間で構造化コンテンツを軽量に転送できるようにします。
+
+* **分析および処理の準備**  
+  文書由来のデータを下流の分析ツール向けに準備するのに役立ちます。
+
+* **文書からテキストへのワークフロー統合**  
+  整理されたコンテンツをポータブルな表形式にエクスポートすることをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動データエクスポートパイプライン**  
+  システムは DOCX ファイルを TSV 出力に変換し、処理ワークフローで使用できます。
+
+* **バッチ構造化コンテンツ抽出**  
+  Python スクリプトで複数の文書をタブ区切りデータセットにプログラム的に変換できます。
+
+* **エンタープライズ統合自動化**  
+  文書コンテンツを TSV 形式でエクスポートし、レポートやデータベースシステムに取り込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

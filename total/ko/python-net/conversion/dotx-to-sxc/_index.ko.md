@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX에서 SXC로의 변환은 Word 템플릿 콘텐츠를 오래된 오픈 오피스 환경에서 사용되는 레거시 스프레드시트 형식으로 변환합니다. 이는 구조화된 문서 데이터를 이전 스프레드시트 생태계와의 호환성을 위해 내보내야 할 때 관련됩니다.
+
+이 변환은 Python API를 활용하여 문서에서 파생된 스프레드시트 출력을 아카이브, 상호 운용성 및 시스템 호환성 워크플로에 준비함으로써 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 스프레드시트 호환성**
+  문서 콘텐츠를 오래된 스프레드시트 도구에 적합한 형식으로 내보냅니다.
+
+* **구조화된 데이터 재사용**
+  레거시 지원이 중요한 경우 템플릿 정보를 표형 워크플로로 이동합니다.
+
+* **역사적 시스템 통합**
+  여전히 오래된 오픈 포맷에 의존하는 환경과의 데이터 교환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 레거시 내보내기**
+  호환성 중심 프로세스에서 DOTX 템플릿으로부터 SXC 파일을 생성합니다.
+
+* **데이터 마이그레이션 파이프라인**
+  변환된 출력을 사용하여 문서 콘텐츠를 오래된 스프레드시트 시스템과 연결합니다.
+
+* **아카이브 형식 처리**
+  레거시 호환 스프레드시트 자산에 템플릿의 구조화된 데이터를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

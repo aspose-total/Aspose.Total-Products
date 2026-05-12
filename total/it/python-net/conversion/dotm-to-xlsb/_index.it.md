@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a XLSB converte i modelli Word abilitati alle macro in file binari di cartelle di lavoro Excel, efficienti per l'archiviazione e le prestazioni in flussi di lavoro intensivi di fogli di calcolo. È utile quando i dati del documento estratti devono essere conservati in un formato compatto e pronto per i fogli di calcolo.
+
+L'uso delle API Python per la conversione da DOTM a XLSB supporta l'automazione generando output di cartelle di lavoro efficienti da modelli di documento ricorrenti. Ciò migliora l'elaborazione su larga scala, riduce l'overhead dei file e supporta pipeline robuste da documento a dati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione compatta di cartelle di lavoro**
+  Converti il contenuto DOTM in XLSB per un'archiviazione efficiente e una gestione dei fogli di calcolo.
+
+* **Esportazione dati ad alto volume**
+  Utilizza l'output binario della cartella di lavoro quando si elaborano numerosi set di dati derivati da documenti.
+
+* **Flussi di lavoro di fogli di calcolo orientati alle prestazioni**
+  Conserva il contenuto estratto in un formato adatto a grandi casi d'uso operativi di fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatizzata di cartelle di lavoro binarie**
+  I sistemi possono trasformare i modelli DOTM in file XLSB per flussi di lavoro efficienti in termini di archiviazione.
+
+* **Pipeline di fogli di calcolo scalabili**
+  La conversione supporta la generazione su larga scala di risorse di cartelle di lavoro da documenti strutturati.
+
+* **Elaborazione batch efficiente**
+  I lavori programmatici consentono una rapida trasformazione di più file DOTM in output XLSB.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

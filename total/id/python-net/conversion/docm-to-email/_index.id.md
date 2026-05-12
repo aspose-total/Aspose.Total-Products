@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOCM ke E
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi DOCM ke EMAIL menyiapkan konten dokumen yang mendukung makro untuk digunakan dalam alur kerja yang berorientasi email, memudahkan mengubah informasi dokumen menjadi output siap kirim. Ini berguna untuk notifikasi, ringkasan, persetujuan, atau proses komunikasi yang didorong oleh konten dokumen.
+
+Dalam sistem otomatis modern, konversi DOCM ke EMAIL membantu menjembatani dokumen yang dibuat dengan jalur komunikasi, memungkinkan distribusi yang dapat diskalakan, pesan templat, dan korespondensi yang dipicu alur kerja.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Notifikasi Berbasis Dokumen**
+  Mengubah konten dokumen menjadi materi siap email untuk komunikasi operasional.
+
+* **Alur Kerja Persetujuan**
+  Mendukung berbagi ringkasan yang dihasilkan dari dokumen dengan peninjau dan pemangku kepentingan.
+
+* **Penggunaan Ulang Konten dalam Pesan**
+  Memudahkan penggunaan kembali teks dokumen formal di dalam saluran komunikasi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Pesan Terpicu**
+  Secara otomatis membuat konten email ketika file DOCM baru masuk ke alur kerja.
+
+* **Jalur Dokumen-ke-Komunikasi**
+  Menghubungkan konten yang dibuat dengan sistem pesan keluar otomatis.
+
+* **Proses Distribusi yang Dapat Diskalakan**
+  Memungkinkan pembuatan batch output siap kirim dari banyak dokumen sekaligus.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de email para MD em Python transforma o conteúdo da mensagem em Markdown para documentação de texto leve, portátil e amigável ao versionamento. É especialmente valiosa quando as informações de email precisam ser reutilizadas em documentação, bases de conhecimento, fluxos de trabalho de desenvolvedores ou sistemas de publicação.
+
+Essa conversão melhora a automação ao tornar o conteúdo do email mais fácil de analisar, armazenar, transformar e publicar em pipelines orientados a texto com sobrecarga mínima de formatação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Publicação em Base de Conhecimento**
+  Converta emails em Markdown para portais de documentação e wikis internos.
+
+* **Arquivos Versionados**
+  Preserve comunicações importantes em um formato de texto adequado ao rastreamento em repositórios.
+
+* **Simplificação de Conteúdo**
+  Reduza a formatação complexa de emails para marcação limpa e portátil para reutilização.
+
+* **Fluxos de Trabalho Centrado no Desenvolvedor**
+  Use saídas em Markdown onde equipes técnicas gerenciam conteúdo em sistemas baseados em texto.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Automação de Caixa de Entrada para Wiki**
+  Transforme emails selecionados em páginas Markdown para plataformas de conhecimento pesquisáveis.
+
+* **Atualizações de Documentação Baseadas em Repositório**
+  Commit o conteúdo de mensagens convertido em pipelines de conteúdo versionados automaticamente.
+
+* **Fluxos de Trabalho de Publicação Estática**
+  Alimente as saídas de email em Markdown em geradores e sistemas de automação de conteúdo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

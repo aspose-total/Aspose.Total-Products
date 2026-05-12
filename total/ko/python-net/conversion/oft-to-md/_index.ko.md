@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 MD로 변환 기
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 MD 변환은 Outlook 이메일 템플릿을 가볍고 구조화된 휴대 가능한 텍스트 기반 콘텐츠 관리용 Markdown 파일로 변환합니다. 템플릿 콘텐츠를 문서 시스템, 개발자 워크플로우 또는 콘텐츠 게시 파이프라인에서 재사용해야 할 때 유용합니다.
+
+자동화 중심 환경에서 OFT에서 MD 변환은 버전 관리, 쉬운 편집 및 정적 사이트 생성기와 문서 플랫폼과의 원활한 통합을 지원합니다. 이는 콘텐츠 휴대성을 향상시키고 프로그래밍 방식 처리를 단순화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 재사용**  
+  가이드, 지식 베이스 또는 내부 문서에 포함하기 위해 OFT 템플릿을 Markdown으로 변환합니다.
+
+* **버전 관리된 콘텐츠 관리**  
+  변환된 콘텐츠를 텍스트 기반 저장소에 저장하여 추적 및 협업 편집을 가능하게 합니다.
+
+* **구조화된 게시 준비**  
+  이메일에서 유래한 콘텐츠를 정적 사이트 또는 Markdown 기반 게시 시스템에 맞게 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **콘텐츠 파이프라인 자동화**  
+  게시 및 문서 워크플로우를 위해 OFT 파일을 자동으로 Markdown으로 변환합니다.
+
+* **저장소 기반 템플릿 관리**  
+  변환된 MD 파일을 소스 제어 시스템에 푸시하여 확장 가능한 유지 관리를 수행합니다.
+
+* **프로그래밍 방식 콘텐츠 변환**  
+  Python API를 사용하여 템플릿 콘텐츠를 정규화하고 현대 텍스트 기반 플랫폼 전반에 배포합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

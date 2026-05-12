@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 FLATOPC로 변�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 FlatOPC 변환은 Outlook 이메일 템플릿을 문서 내용의 평면 XML 패키지 형태로 변환합니다. 이는 검증, 처리 또는 XML 기반 워크플로와의 깊은 통합을 위해 구조화된 기계 판독 가능한 출력을 필요로 하는 시스템에 유용합니다.
+
+이 변환은 FlatOPC가 프로그래밍 방식의 검사, 변환 및 시스템 간 교환을 지원하기 때문에 자동화와 특히 관련이 있습니다. 이는 현대 워크플로가 투명성, 이식성 및 세밀한 문서 처리를 달성하도록 돕습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **XML 기반 콘텐츠 처리**  
+  구조화된 XML 문서 데이터를 필요로 하는 워크플로를 위해 OFT 파일을 FlatOPC로 변환합니다.
+
+* **상호 운용성 및 검증**  
+  문서 분석, 검증 및 시스템 통합 작업을 위해 평면 패키지 출력을 사용합니다.
+
+* **기계 판독 가능한 보관**  
+  자동화 도구가 파싱하고 변환할 수 있는 형식으로 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **문서 변환 파이프라인**  
+  자동 재구성 또는 추출을 위해 FlatOPC 출력을 XML 처리 시스템에 전달합니다.
+
+* **데이터 워크플로와의 통합**  
+  프로그래밍 방식 변환을 사용하여 이메일 템플릿 콘텐츠를 엔터프라이즈 데이터 플랫폼과 연결합니다.
+
+* **자동화된 규정 준수 검사**  
+  스크립트를 통해 FlatOPC 출력을 검사하여 구조, 콘텐츠 규칙 또는 메타데이터 요구 사항을 검증합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

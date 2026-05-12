@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLT から ODT への変換は、Excel テンプレートファイルを編集可能で標準に基づく文書ワークフローをサポートするオープンドキュメントテキストファイルに変換します。これは、柔軟な文書相互運用性と、オープンフォーマットを好む環境全体での互換性の向上を求める組織にとって有用です。
+
+自動化の観点から見ると、XLT から ODT への変換は文書のやり取りを改善し、閉鎖的なワークフローへの依存を減らします。スプレッドシート主導のコンテンツを編集可能で携帯性のあるテキスト文書に変換し、コラボレーション、保存、または下流の自動化に利用できるスケーラブルな処理パイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンフォーマット文書作成**  
+  XLT テンプレートを ODT ファイルに変換し、編集可能で標準に準拠した文書を作成します。
+
+* **相互運用可能なコンテンツ共有**  
+  多様な文書処理環境全体で変換された文書へのアクセスを拡大します。
+
+* **テンプレートコンテンツの再利用**  
+  構造化されたスプレッドシート情報を、テキストベースのワークフローに適した文書形式へ移行します。
+
+* **プロセス柔軟性の向上**  
+  レガシーテンプレートからオープンで携帯性のある文書出力を必要とするチームを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンドキュメント自動化**  
+  Python API を使用して、XLT テンプレートから ODT ファイルを繰り返し可能な変換ワークフローで生成します。
+
+* **クロスプラットフォームコンテンツパイプライン**  
+  オープン標準と柔軟な文書交換を重視するシステムに ODT 出力を統合します。
+
+* **大量レガシー変換**  
+  自動化により、古いスプレッドシートテンプレートを大規模にオープンテキスト文書へ変換します。
+
+* **自動コンテンツルーティング**  
+  変換された ODT ファイルを承認、保存、または公開パイプラインに手動介入なしで渡します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

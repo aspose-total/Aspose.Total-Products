@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de DOCM para TSV converte documentos habilitados para macro em valores separados por tabulação, facilitando a análise, transferência e reutilização de conteúdo estruturado em fluxos de trabalho de dados. É especialmente útil quando as tabelas de documentos precisam de um formato baseado em texto simples com separação clara de campos.
+
+Em ambientes de automação, a conversão de DOCM para TSV oferece troca de dados confiável, ingestão em pipelines de processamento e transformação escalável do conteúdo do documento em saídas estruturadas leves.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Extração de Tabelas para Processamento**
+  Converte tabelas de documentos em uma estrutura baseada em texto adequada para fluxos de trabalho de dados.
+
+* **Troca de Dados Leve**
+  Suporta a movimentação de conteúdo estruturado entre ferramentas com sobrecarga mínima de formatação.
+
+* **Preparação para Importação**
+  Ajuda a preparar registros derivados de documentos para sistemas que aceitam entradas delimitadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de automação" %}}
+
+* **Exportações Estruturadas Recorrentes**
+  Automatiza a conversão de DOCM para TSV em fluxos operacionais contínuos.
+
+* **Preparação de Dados Amigável a Pipelines**
+  Produz saídas que podem ser analisadas facilmente em scripts e trabalhos de integração.
+
+* **Workflows de Transformação em Lote**
+  Converte muitos arquivos DOCM em saídas TSV consistentes de forma programática.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

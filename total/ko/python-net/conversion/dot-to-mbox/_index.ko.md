@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOT를 MBOX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to MBOX 변환은 문서 템플릿을 그룹화된 이메일 메시지 처리를 위한 메일함 스타일 저장 형식으로 변환합니다. 이는 템플릿 콘텐츠를 이메일 아카이브 또는 마이그레이션 워크플로에 조립해야 할 때 유용합니다.
+
+Python API를 사용하면 조직이 DOT 파일에서 MBOX 호환 출력물을 자동으로 생성할 수 있어 메시지 패키징 및 아카이브 준비를 효율화하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 준비**
+  DOT 기반 커뮤니케이션 템플릿을 MBOX 호환 구조로 변환합니다.
+
+* **그룹화된 메시지 저장**
+  여러 템플릿 기반 커뮤니케이션을 수집하기 위해 메일함 형식 출력을 사용합니다.
+
+* **마이그레이션 워크플로 지원**
+  문서 기반 콘텐츠를 이메일 아카이브 이동 및 보존 프로세스를 위해 준비합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 아카이브 조립**
+  Python 스크립트를 사용하면 DOT 콘텐츠를 보존 워크플로를 위한 MBOX 준비 출력물로 변환할 수 있습니다.
+
+* **대량 커뮤니케이션 패키징**
+  변환은 템플릿에서 파생된 메시지를 메일함 형식으로 프로그래밍 방식으로 그룹화하는 것을 지원합니다.
+
+* **확장 가능한 이메일 마이그레이션 지원**
+  동적 프로세스는 문서 생성 커뮤니케이션을 아카이브 친화적인 구조로 이동하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

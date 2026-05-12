@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB에서 PPS로의 변환은 이진 스프레드시트 콘텐츠를 직접 표시하도록 설계된 프레젠테이션 슬라이드쇼 파일로 변환하여 보기 전용 전달 및 프레젠테이션 재생 시나리오에 적합하게 합니다. 이는 스프레드시트 기반 콘텐츠를 즉시 실행 가능한 프레젠테이션으로 배포해야 할 때 유용합니다.
+
+자동화 시스템에서는 XLSB에서 PPS로의 변환이 키오스크, 브리핑 및 반복 커뮤니케이션을 위한 프레젠테이션 출력물을 효율적으로 생성하도록 지원하여 수동 준비를 줄이고 구조화된 데이터를 일관되게 표시할 수 있도록 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **슬라이드쇼 배포**  
+  스프레드시트 데이터를 직접 볼 수 있는 프레젠테이션 파일로 변환합니다.
+
+* **회의 재생**  
+  프레젠테이션 및 브리핑을 위한 디스플레이 준비된 콘텐츠 생성을 지원합니다.
+
+* **보기 전용 전달**  
+  스프레드시트에서 파생된 정보를 제어된 슬라이드쇼 형식으로 공유하도록 돕습니다.
+
+* **운영 브리핑**  
+  구조화된 데이터를 디스플레이 중심 워크플로에서 빠르게 표시할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 출력**  
+  XLSB 파일을 직접 프레젠테이션에 사용할 수 있는 PPS 파일로 변환할 수 있습니다.
+
+* **예약된 브리핑 생성**  
+  시스템은 반복되는 스프레드시트 입력으로부터 슬라이드쇼 준비된 출력물을 생성할 수 있습니다.
+
+* **배치 디스플레이 준비**  
+  여러 스프레드시트 파일을 재생 준비된 슬라이드쇼로 변환할 수 있습니다.
+
+* **프레젠테이션 배포 파이프라인**  
+  자동화된 워크플로는 보기 전용 프레젠테이션 콘텐츠를 효율적으로 게시할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

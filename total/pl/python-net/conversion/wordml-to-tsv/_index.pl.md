@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja WordML do TSV przekształca ustrukturyzowaną treść dokumentu w pliki tekstowe z wartościami oddzielonymi tabulatorem, które są proste, przenośne i łatwe do wczytania w przepływach danych. Jest przydatna, gdy potrzebne jest czyste oddzielenie kolumn bez formatowania specyficznego dla arkuszy kalkulacyjnych.
+
+Interfejsy API w Pythonie sprawiają, że konwersja WordML do TSV jest wydajna, poprzez wyodrębnianie struktur tabel i konwertowanie ich na lekkie, przyjazne automatyzacji wyniki do przetwarzania i wymiany danych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Eksport danych delimitowanych**
+  Konwertuje tabele WordML do plików TSV w celu czystej wymiany danych tekstowych.
+
+* **Wyjście przyjazne dla potoków**
+  Tworzy proste pliki strukturalne odpowiednie do zadań parsowania i walidacji.
+
+* **Ekstrakcja tabel z dokumentów**
+  Ułatwia programowe przetwarzanie treści tabelarycznych z dokumentów.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Masowa konwersja tabel**
+  Automatycznie konwertuje tabele dokumentów do plików TSV dla dalszych przepływów pracy.
+
+* **Wsparcie dla przepływów ETL**
+  Dostarcza wyniki TSV do procesów wczytywania, mapowania i transformacji.
+
+* **Zadania synchronizacji danych**
+  Umożliwia powtarzalny eksport zaktualizowanych danych dokumentu do tekstowych plików strukturalnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

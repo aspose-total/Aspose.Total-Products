@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API の OTT からメールへの変換は、OpenDocument テキストテンプレートをメッセージ生成、通知ワークフロー、コミュニケーション自動化に適したメール準備コンテンツに変換します。組織が文書コンテンツを構造化されたアウトバウンドメッセージとして再利用できるよう支援します。
+
+この変換は自動化に非常に関連性が高く、テンプレートからメール本文を動的に生成できるため、コミュニケーションの一貫性、スケーラビリティ、取引またはイベント駆動システムとの統合を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **テンプレートベースのメッセージング**  
+  文書テンプレートをアウトリーチや更新用の再利用可能なメールコンテンツに変換します。
+
+* **通知生成**  
+  書式設定されたテキストをアラートや確認用のメール準備メッセージに変換します。
+
+* **コンテンツ再利用**  
+  同じソース文書がドキュメントとコミュニケーションの両方のニーズをサポートできるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された顧客アップデート**  
+  ワークフロートリガーに基づいて OTT テンプレートからメールを生成します。
+
+* **トランザクションメッセージングパイプライン**  
+  確認やリマインダーを送信するシステムで文書コンテンツを使用します。
+
+* **動的パーソナライズ**  
+  大規模な受信者グループ向けに、テンプレート駆動のメールコンテンツをプログラムで埋め込みます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

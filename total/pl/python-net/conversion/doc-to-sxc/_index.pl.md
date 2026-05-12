@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja dokumentu do formatu SXC zmienia zawartość Worda na format arkusza kalkulacyjnego powiązany ze starszymi przepływami pracy OpenOffice, co czyni ją przydatną dla starszej interoperacyjności i wyodrębniania danych strukturalnych. Wspiera organizacje utrzymujące kompatybilność ze wcześniejszymi ekosystemami arkuszy kalkulacyjnych.
+
+Korzystając z interfejsów API Pythona, konwersję DOC do SXC można zautomatyzować, aby zmniejszyć ręczne wprowadzanie danych i wspierać powtarzalne przepływy pracy z danymi legacy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Kompatybilność ze starszymi arkuszami kalkulacyjnymi**
+  Konwertuj tabele dokumentu do formatu SXC dla starszych środowisk OpenOffice.
+
+* **Zachowanie danych strukturalnych**
+  Zachowaj wartości oparte na dokumencie w legacy formacie ukierunkowanym na arkusze kalkulacyjne.
+
+* **Wsparcie migracji**
+  Łącz dokumenty Word z systemami, które nadal opierają się na historycznych standardach arkuszy kalkulacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyzacja starszych przepływów pracy**
+  Automatycznie generuj pliki SXC ze źródeł DOC, gdzie starsze narzędzia są nadal używane.
+
+* **Potoki konwersji wsadowej**
+  Konwertuj wiele dokumentów do strukturalnych plików arkuszy kalkulacyjnych bez ręcznej obsługi.
+
+* **Zadania interoperacyjności systemów**
+  Programowo łącz nowoczesne źródła dokumentów ze starszymi przepływami pracy arkuszy kalkulacyjnych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

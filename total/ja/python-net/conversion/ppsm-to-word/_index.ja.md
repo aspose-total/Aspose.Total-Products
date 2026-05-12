@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における PPSM から Word への変換は、マクロ対応のスライドショー コンテンツを、編集、共同作業、長文再利用に適したワードプロセッシング文書形式に変換します。プレゼンテーションの内容をスライドだけでなく、文書中心のコミュニケーションやドキュメント作成ワークフローに移行する必要がある場合に便利です。
+
+自動化された環境では、PPSM から Word への変換によりコンテンツのアクセシビリティが向上し、繰り返し可能な公開プロセスを支援し、プレゼンテーション資料を大規模に編集可能なテキスト資産へ変換できるようになります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ナラティブコンテンツ変換**  
+  スライドコンテンツを、詳細な読解と編集に適した文書形式に変換します。
+
+* **コラボレーション有効化**  
+  プレゼンテーション由来の資料を、テキスト中心のワークフローでのレビューや修正が容易になります。
+
+* **ドキュメンテーション再利用**  
+  スライドデッキを知識資産、要約、または正式な文書に変換することを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ドキュメント生成**  
+  Python API を使用して PPSM ファイルを Word 互換の出力に変換し、ワークフローの一貫した実行を可能にします。
+
+* **コンテンツ公開パイプライン**  
+  変換により、プレゼンテーション資産から文書レビューおよびリリース段階への自動的な移行がサポートされます。
+
+* **エンタープライズコンテンツ再フォーマット**  
+  プログラムによる処理により、スライドライブラリをスケーラブルに再利用し、編集可能な文書に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

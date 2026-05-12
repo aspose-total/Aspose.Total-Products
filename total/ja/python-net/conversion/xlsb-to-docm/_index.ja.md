@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から DOCM への変換により、バイナリ形式のスプレッドシート コンテンツをマクロ対応の Word 文書に変換でき、文書自動化と編集可能なテキスト出力が共存しなければならないシナリオをサポートします。スプレッドシート データを、スクリプトやマクロ駆動の動作に依存する文書ワークフローに組み込む必要がある場合に便利です。
+
+最新の自動化システム向けに、XLSB から DOCM への変換は、構造化データ抽出と高度な文書処理を組み合わせた文書生成パイプラインをサポートし、繰り返し行われる業務や動的なレポート環境における効率性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応レポート**  
+  スプレッドシート データを、文書の自動化アクションをサポートできる文書に変換します。
+
+* **プロセス文書化**  
+  スクリプト化された文書ワークフローを使用するチーム向けに、編集可能なファイルの作成を支援します。
+
+* **運用サマリー**  
+  スプレッドシートのレコードを、構造化されたビジネスコミュニケーション向けのマクロ対応文書に変換します。
+
+* **文書自動化入力**  
+  自動化された Word ベースのプロセスに依存する環境向けに、フォーマットされた出力を提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート配布**  
+  XLSB ファイルは、マクロを含む文書ワークフロー向けに DOCM 出力に変換できます。
+
+* **データから文書へのパイプライン**  
+  システムは、より大きなプロセスの一部として、スプレッドシート入力をマクロ対応文書に変換できます。
+
+* **再利用可能なオフィスワークフロー**  
+  自動変換は、組み込みの文書ロジックを伴う定期的な文書生成をサポートします。
+
+* **バッチエンタープライズ処理**  
+  複数のスプレッドシート ファイルを、スケーラブルな運用向けに DOCM ファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

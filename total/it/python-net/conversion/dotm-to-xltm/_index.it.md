@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a XLTM converte i modelli Word con macro in file modello Excel con macro per flussi di lavoro di fogli di calcolo riutilizzabili e favorevoli all'automazione. Questo è utile quando i modelli di foglio di calcolo ricorrenti richiedono funzionalità avanzate pur essendo generati da fonti basate su documenti.
+
+L'uso delle API Python per la conversione da DOTM a XLTM supporta un'automazione scalabile trasformando i modelli di documento strutturati in modelli di cartella di lavoro riutilizzabili con comportamento avanzato dei fogli di calcolo. Aiuta a standardizzare le operazioni e a semplificare la generazione ripetuta di fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Modelli di foglio di calcolo con macro**
+  Converti i file DOTM in XLTM per modelli di cartella di lavoro riutilizzabili con funzionalità avanzate.
+
+* **Progettazione avanzata di cartelle di lavoro ripetibile**
+  Riutilizza la struttura del documento in modelli di foglio di calcolo adatti a operazioni ricorrenti.
+
+* **Asset di automazione standardizzati**
+  Crea fondamenta di cartelle di lavoro coerenti e riutilizzabili a partire da modelli di documento approvati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatizzata di modelli avanzati**
+  I flussi di lavoro possono produrre file XLTM da modelli DOTM per la creazione ripetuta di fogli di calcolo.
+
+* **Pipeline di automazione di fogli di calcolo riutilizzabili**
+  La conversione supporta la generazione scalabile di modelli di cartella di lavoro avanzati da documenti.
+
+* **Produzione batch di modelli**
+  L'elaborazione programmatica consente una trasformazione efficiente di molti file DOTM in output XLTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

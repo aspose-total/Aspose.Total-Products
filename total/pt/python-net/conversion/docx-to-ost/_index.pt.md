@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX para OST converte o conteúdo de documentos em um formato de dados de caixa de correio offline associado a ambientes de mensagens sincronizadas. Esse processo pode suportar cenários nos quais informações derivadas de documentos precisam ser incorporadas a arquivos de comunicação de acesso offline.
+
+Usando APIs Python, a conversão DOCX‑para‑OST pode ser incluída em sistemas de arquivamento corporativo, fluxos de trabalho de migração e plataformas de automação de mensagens. Ela permite a transformação programática do conteúdo de documentos em estruturas de armazenamento orientadas a caixas de correio.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Dados de Correio Offline**  
+  Converte conteúdo baseado em documentos em estruturas de armazenamento offline compatíveis com caixa de correio.
+
+* **Integração de Arquivo de Comunicação**  
+  Permite que documentos sejam incorporados aos fluxos de trabalho de arquivo de mensagens.
+
+* **Suporte à Migração de Dados Corporativos**  
+  Auxilia na transformação de conteúdo para sistemas que dependem de formatos de dados de caixa de correio.
+
+* **Armazenamento de Correio Baseado em Documentos**  
+  Suporta o armazenamento de informações de documentos em um formato alinhado ao acesso de correio offline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivo de Correio**  
+  Sistemas podem converter documentos DOCX em saídas de dados orientadas a OST para cenários de acesso offline.
+
+* **Pipelines de Migração de Mensagens em Lote**  
+  Automação em Python pode processar múltiplos documentos para integração aos fluxos de trabalho de armazenamento de caixa de correio.
+
+* **Fluxos de Trabalho de Retenção Corporativa**  
+  O conteúdo de documentos pode ser transformado em dados de mensagens offline para sistemas orientados à conformidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

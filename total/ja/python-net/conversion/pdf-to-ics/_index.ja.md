@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PDF to ICS 変換は、Python API を使用して、ユーザーが PDF ベースのスケジュール情報をカレンダーに適した形式で抽出または表現できるようにします。これは、PDF 文書に保存されたイベント詳細を計画や調整のためにデジタルカレンダーエントリに変換する必要がある場合に便利です。
+
+自動化は、手動でのカレンダー作成を削減し、チームやシステム間で正確なスケジューリングをサポートすることで大きな価値をもたらします。組織が文書ベースの日付やイベントデータをスケーラブルなワークフロー、リマインダー、スケジューリング環境に統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **イベントスケジュール変換**  
+  PDF スケジュールを ICS ファイルに変換し、カレンダーへのインポートや共有を容易にします。
+
+* **会議・予約抽出**  
+  文書ベースのイベント詳細を構造化されたカレンダーエントリに変換します。
+
+* **計画ワークフロー支援**  
+  PDF 由来の ICS ファイルを使用して、タイムライン、セッション、または締め切りを調整します。
+
+* **カレンダー配布**  
+  PDF からのイベント情報を、誰でも利用できるカレンダー形式で共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動イベント生成**  
+  Python スクリプトは PDF のスケジューリングデータを検出し、ICS ファイルを自動的に作成できます。
+
+* **リマインダー ワークフロー統合**  
+  変換されたカレンダー ファイルはリマインダーシステムやスケジューリングツールに供給できます。
+
+* **大量スケジュール処理**  
+  組織は多数のイベント文書をスケールでカレンダー対応の出力に変換できます。
+
+* **動的カレンダー公開**  
+  システムは、受信した PDF ベースのスケジュールから継続的に ICS ファイルを生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

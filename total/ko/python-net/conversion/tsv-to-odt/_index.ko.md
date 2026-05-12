@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV에서 ODT 변환은 탭으로 구분된 데이터를 편집 가능하고 휴대 가능하며 표준 기반 문서를 지원하는 오픈 문서 텍스트 파일로 변환합니다. 이는 단일 생태계에 워크플로를 고정시키지 않고 구조화된 데이터 소스에서 유연한 문서 출력을 원하는 조직에 유용합니다.
+
+Python API를 사용하면 TSV에서 ODT 변환을 자동화하여 상호 운용성을 향상하고 수동 처리를 줄이며 오픈 포맷 워크플로 전반에 걸쳐 확장 가능한 문서 생성을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 문서 보고**  
+  TSV 콘텐츠를 오픈 표준을 기반으로 한 편집 가능한 텍스트 문서로 변환합니다.
+
+* **크로스 플랫폼 문서**  
+  구조화된 데이터를 다양한 문서 환경에서 더 쉽게 공유할 수 있게 합니다.
+
+* **접근 가능한 비즈니스 기록**  
+  원시 표 형식 소스에서 읽기 쉬운 출력 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **상호 운용 가능한 문서 파이프라인**  
+  Python API를 사용하면 반복되는 TSV 내보내기에서 ODT 생성을 자동화할 수 있습니다.
+
+* **오픈 포맷 워크플로 지원**  
+  자동화를 통해 표준 기반 문서 출력의 확장 가능한 생성을 가능하게 합니다.
+
+* **배치 데이터 변환**  
+  여러 TSV 파일을 간소화된 처리 작업에서 ODT 형식으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

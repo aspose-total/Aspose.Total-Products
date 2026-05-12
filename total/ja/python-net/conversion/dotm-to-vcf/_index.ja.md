@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to VCF 変換は、マクロ対応の Word テンプレートを vCard 連絡先ファイルに変換し、ドキュメントベースの連絡先情報を共有しやすく、アドレス帳システムにインポートしやすくします。テンプレートに人物、組織、または通信の詳細が含まれ、構造化された連絡先レコードにする必要がある場合に便利です。
+
+DOTM から VCF への変換に Python API を使用すると、ドキュメントソースからの連絡先生成を自動化でき、手動での再入力を削減し、データの一貫性を向上させます。これにより、スケーラブルなオンボーディング、ディレクトリ管理、CRM に関連するワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **連絡先レコード作成**
+  DOTM テンプレートから連絡先詳細を VCF ファイルに変換し、簡単に共有およびインポートできるようにします。
+
+* **ディレクトリデータの再利用**
+  構造化されたドキュメント情報を標準化されたデジタル連絡先カードに再利用します。
+
+* **ワークフローに適した連絡先交換**
+  ドキュメントとアドレス帳システム間で連絡先データを簡単に移動できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動連絡先抽出**
+  ワークフローは、個人または組織の詳細を含む DOTM テンプレートから VCF ファイルを生成できます。
+
+* **ディレクトリ同期サポート**
+  この変換は、ドキュメントからインポート可能な連絡先レコードを自動化システムが作成するのに役立ちます。
+
+* **大量連絡先生成**
+  プログラムによる処理は、DOTM ファイルを VCF ファイルに大量に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

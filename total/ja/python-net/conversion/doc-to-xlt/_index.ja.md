@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to XLT conversion changes Word content into spreadsheet template files that support repeatable workbook creation and standardization. It is useful when document-derived structures need to become reusable spreadsheet foundations.
+
+With Python APIs, DOC to XLT conversion can be automated for consistent template generation, operational reuse, and streamlined spreadsheet production.
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **スプレッドシートテンプレート作成**
+  構造化された文書コンテンツを再利用可能なスプレッドシートテンプレートに変換します。
+
+* **標準化されたワークブック設計**
+  XLT 出力を使用して、一貫したレイアウトとデータ構造を維持します。
+
+* **再利用可能な業務フォーム**
+  文書をワークブックテンプレートに転用し、繰り返し利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートライブラリの自動化**
+  DOC ベースのソース素材から XLT ファイルを自動的に生成します。
+
+* **繰り返し可能なスプレッドシート設定**
+  標準化された文書からプログラムでワークブックテンプレートを作成します。
+
+* **業務コンテンツの再利用**
+  定期的なフォームやレポートをテンプレート駆動のスプレッドシート資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

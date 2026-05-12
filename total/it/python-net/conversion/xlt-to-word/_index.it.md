@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLT a Word in Python consente ai file modello di Excel di essere trasformati in documenti compatibili con Word per la comunicazione aziendale, la redazione di report e la documentazione strutturata. Questa conversione è utile quando i modelli di foglio di calcolo contengono informazioni che devono essere presentate in un formato più narrativo, stampabile o orientato al documento.
+
+All'interno dei flussi di lavoro automatizzati, la conversione da XLT a Word migliora la continuità dei processi collegando i file sorgente basati su fogli di calcolo con output documentali ampiamente accettati. Consente una trasformazione del contenuto scalabile, una collaborazione più fluida e un'integrazione più semplice con i sistemi di generazione e gestione dei documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione di Documenti Aziendali**  
+  Converti i modelli XLT in file compatibili con Word per report, riepiloghi e registri formali.
+
+* **Trasformazione di Contenuti Leggibili**  
+  Presenta i dati originati da fogli di calcolo in un formato documentale più facile da revisionare e distribuire.
+
+* **Espansione della Compatibilità del Flusso di Lavoro**  
+  Supporta i processi aziendali che dipendono da documentazione orientata a Word piuttosto che da fogli di calcolo.
+
+* **Riutilizzo del Contenuto dei Modelli**  
+  Riutilizza i modelli Excel esistenti come output documentali strutturati per l'efficienza operativa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Creazione Automatizzata di Documenti**  
+  Utilizza le API Python per generare output compatibili con Word dai modelli XLT nei flussi di lavoro ricorrenti.
+
+* **Sistemi di Reporting Integrati**  
+  Trasforma i dati del modello in documenti Word come parte di pipeline di reporting e documentazione più ampie.
+
+* **Conversione di File Scalabile**  
+  Converti più modelli di foglio di calcolo in output documentali in blocco con uno sforzo manuale minimo.
+
+* **Pubblicazione Programmatica di Contenuti**  
+  Consegna i documenti Word generati in sistemi di archiviazione, approvazione o comunicazione automaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

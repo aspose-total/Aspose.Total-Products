@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から PPSX への変換は、テキスト文書を直接プレゼンテーション再生用の最新スライドショーフォーマットに変換します。これは、元のコンテンツを編集可能なファイルではなく、閲覧向けのプレゼンテーションとして共有する必要がある場合に便利です。
+
+Python API を使用すると、ODT から PPSX への変換を自動レポート作成、ブリーフィング準備、プレゼンテーション配布に実用的に利用できます。書面コンテンツをクリーンでプレゼンテーション用に整った出力へスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **閲覧専用プレゼンテーション作成**  
+  直接表示に最適化されたスライドショー出力を生成します。
+
+* **レポートからスライドショーへの変換**  
+  正式な文書をプレゼンテーション用のビジュアル資産に変換します。
+
+* **会議ブリーフィングの準備**  
+  要約や更新情報を迅速なプレゼンテーション利用向けにまとめるのに役立ちます。
+
+* **最新のプレゼンテーション配布**  
+  スライドベースの共有ワークフローに対して広範な互換性をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動ブリーフィング出力**  
+  Python の自動化により、定期的な文書を PPSX スライドショーに変換できます。
+
+* **大量プレゼンテーション変換**  
+  複数の ODT ファイルをバッチジョブで直接表示用の出力に変換できます。
+
+* **コンテンツ配信ワークフロー**  
+  スライドショーファイルは自動的に生成され、レビューやプレゼンテーションのためにルーティングできます。
+
+* **文書再利用パイプライン**  
+  構造化されたテキストは、手動での再設計なしにプレゼンテーション再生フォーマットに供給できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

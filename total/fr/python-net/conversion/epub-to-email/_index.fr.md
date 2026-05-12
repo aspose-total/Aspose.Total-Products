@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion d'EPUB en EMAIL avec Python permet aux équipes de transformer le contenu de publications numériques en formats prêts pour l'email, destinés à la communication, à la révision et aux flux de travail de distribution. Elle est utile lorsque le contenu structuré d'un livre ou d'un document doit être réutilisé pour des systèmes de messagerie, des processus d'archivage ou des pipelines de livraison de contenu.
+
+Dans les environnements axés sur l'automatisation, la conversion d'EPUB en EMAIL prend en charge une transformation de contenu évolutive, un partage de documents plus rapide et une intégration transparente avec les systèmes de notification, les plateformes de documents et les moteurs de flux de travail construits avec Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Distribution de contenu**  
+  Convertir les fichiers EPUB en contenu compatible avec l'email pour un partage direct au sein des flux de travail de communication internes ou externes.
+
+* **Intégration du flux de travail de publication**  
+  Utiliser la sortie email convertie pour faire passer le contenu de la publication dans les pipelines d'approbation, de révision ou éditoriaux.
+
+* **Notifications automatisées**  
+  Transformer les documents numériques en messages basés sur l'email qui peuvent être déclenchés programmatiquement dans les systèmes d'entreprise.
+
+* **Préparation de l'archivage du contenu**  
+  Préparer le contenu EPUB pour des environnements où l'emballage de type email est utilisé pour la rétention ou les exigences d'audit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Livraison de documents planifiée**  
+  L'automatisation peut convertir les fichiers EPUB en sortie EMAIL à des intervalles définis pour une distribution récurrente du contenu.
+
+* **Routage de contenu basé sur le flux de travail**  
+  Les processus pilotés par Python peuvent convertir et acheminer le contenu de la publication dans des pipelines de messagerie sans manipulation manuelle.
+
+* **Pipelines de publication dynamiques**  
+  La conversion d'EPUB en EMAIL prend en charge les systèmes qui génèrent des sorties prêtes à communiquer à partir de sources de contenu évolutives.
+
+* **Opérations de traitement par lots**  
+  De grandes collections d'EPUB peuvent être converties programmatiquement pour rationaliser les tâches de transformation de documents à l'échelle de l'entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

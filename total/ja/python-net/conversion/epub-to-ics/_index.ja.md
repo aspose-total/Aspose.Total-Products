@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による EPUB から ICS への変換により、出版物のコンテンツを抽出または再利用して、スケジューリングやイベントベースのワークフローで使用できるカレンダー互換ファイルに変換することが可能になります。これは、文書の内容に日付主導の情報、アジェンダ、タイムライン、または構造化されたカレンダー出力が必要なイベント詳細が含まれる場合に特に有用です。
+
+最新の自動化シナリオでは、EPUB から ICS への変換が組織の文書とスケジューリングシステムを接続し、時間ベースの調整を改善し、カレンダーエントリを自動的に生成する Python 駆動のワークフローを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **イベントスケジュール抽出**  
+  スケジュールやタイムラインを含む EPUB コンテンツを、カレンダーで使用できる ICS ファイルに変換します。
+
+* **アジェンダ配布**  
+  出版物ベースのイベント情報を、共有や管理が容易なカレンダーエントリに変換します。
+
+* **計画ワークフロー支援**  
+  ICS 出力を使用して、文書コンテンツを計画および調整プロセスに結び付けます。
+
+* **構造化日付管理**  
+  日付中心の出版物資料を、カレンダーアプリやスケジューリングツールに適した形式に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動カレンダー生成**  
+  Python ワークフローは、イベント、セッション、マイルストーンを含む EPUB ドキュメントから ICS ファイルを生成できます。
+
+* **コンテンツからスケジュールへのパイプライン**  
+  自動化システムは、出版データを手動入力なしで利用可能なスケジューリング出力に変換できます。
+
+* **定期イベントの公開**  
+  繰り返しの文書更新により、同期されたカレンダー ワークフロー用の新しい ICS 生成がトリガーされます。
+
+* **バッチイベント変換**  
+  スケジュールベースの EPUB ファイルの大規模コレクションを、効率的なカレンダー作成のためにプログラムで変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

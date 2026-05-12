@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a XLSX trasforma i modelli Word abilitati a macro in moderni workbook Excel per analisi strutturata, reportistica e collaborazione. È utile quando il contenuto catturato nei modelli di documento deve essere riutilizzato in un formato incentrato sui dati, adatto ai moderni sistemi di fogli di calcolo.
+
+L'utilizzo delle API Python per la conversione da DOTM a XLSX supporta l'automazione estraendo e organizzando il contenuto dei modelli in workbook su larga scala. Ciò riduce la gestione manuale, migliora la coerenza dei dati e rafforza l'integrazione tra i flussi di lavoro dei documenti e le operazioni basate su fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione di cartelle di lavoro moderne**
+  Converti il contenuto DOTM in XLSX per analisi, reportistica e collaborazione strutturata.
+
+* **Trasformazione dei dati del modello**
+  Sposta tabelle e valori basati su documento in un formato di foglio di calcolo ampiamente supportato.
+
+* **Supporto alla reportistica operativa**
+  Utilizza i workbook convertiti come input per revisione, condivisione e processi a valle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Creazione automatizzata di workbook**
+  I sistemi possono generare file XLSX dai modelli DOTM per la reportistica e i flussi di lavoro aziendali.
+
+* **Integrazione documento‑dato**
+  La conversione supporta il passaggio automatizzato dai documenti modello ai processi di foglio di calcolo.
+
+* **Produzione scalabile di fogli di calcolo**
+  I job programmatici consentono la trasformazione ad alto volume dei file DOTM in output XLSX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

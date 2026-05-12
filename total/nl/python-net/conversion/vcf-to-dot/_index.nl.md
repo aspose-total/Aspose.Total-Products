@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een VCF naar DOT-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF‑naar‑DOT‑conversie verandert contactkaart‑informatie in Word‑sjabloonbestanden die kunnen dienen als herbruikbare basis voor gestandaardiseerde documentgeneratie. Dit is waardevol wanneer contactgegevens moeten worden ingevoegd in herhaalbare lay‑outs voor administratief of operationeel gebruik.
+
+In automatiserings‑workflows maakt VCF‑naar‑DOT‑conversie Python‑gedreven systemen mogelijk om op contact gebaseerde sjablonen voor te bereiden die consistentie, snellere documentcreatie en schaalbare opmaak over meerdere uitvoerscenario’s ondersteunen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijke gebruikssituaties" %}}
+
+* **Herbruikbare contactsjablonen**  
+  Converteer VCF‑gegevens naar DOT‑bestanden voor herhaalbare documentcreatie.
+
+* **Gestandaardiseerde opmaak**  
+  Handhaaf een consistente lay‑out voor contact‑gedreven documenten binnen teams.
+
+* **Workflow‑voorbereiding**  
+  Gebruik sjabloon‑output als startpunt voor verdere bewerking of geautomatiseerde invulling.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Sjabloon‑generatie‑pijplijnen**  
+  Maak automatisch DOT‑sjablonen aan vanuit contactrecords voor later hergebruik.
+
+* **Consistente documentproductie**  
+  Voer gegenereerde sjablonen in grotere systemen die uniforme contactopmaak vereisen.
+
+* **Programmeerbare inhoudsstructurering**  
+  Gebruik Python‑API’s om op schaal herhaalbare contactsjablonen te creëren.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

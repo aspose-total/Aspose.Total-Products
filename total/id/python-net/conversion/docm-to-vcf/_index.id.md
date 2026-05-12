@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOCM ke V
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi DOCM ke VCF mengubah konten dokumen yang mendukung makro menjadi file kartu kontak, sehingga nama, alamat, dan detail komunikasi lebih mudah digunakan kembali dalam alur kerja manajemen kontak. Ini berguna ketika dokumen berisi informasi kontak pribadi atau organisasi yang terstruktur.
+
+Untuk otomatisasi dan skalabilitas, konversi DOCM ke VCF mendukung ekstraksi kontak, pembaruan buku alamat yang disinkronkan, dan transformasi berulang detail yang disimpan dalam dokumen menjadi catatan kontak yang dapat dipindahkan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Ekstraksi Informasi Kontak**
+  Mengubah detail kontak terstruktur dari dokumen menjadi file kartu yang dapat dipindahkan.
+
+* **Pembaruan Buku Alamat**
+  Membantu memindahkan catatan kontak berbasis dokumen ke dalam lingkungan manajemen kontak.
+
+* **Berbagi Kontak Portabel**
+  Mendukung pertukaran standar informasi kontak pribadi atau bisnis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Kontak Otomatis**
+  Membuat file VCF dari dokumen DOCM yang berisi data kontak.
+
+* **Integrasi CRM dan Direktori**
+  Mendukung impor catatan kontak yang dihasilkan dari dokumen berbasis alur kerja.
+
+* **Konversi Kontak Massal**
+  Memproses banyak dokumen menjadi file kontak standar secara efisien.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

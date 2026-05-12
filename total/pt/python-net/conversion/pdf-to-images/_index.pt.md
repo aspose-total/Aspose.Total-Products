@@ -53,7 +53,47 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PDF para Imagens usando APIs Python possibilita renderizar páginas de documentos como arquivos de imagem para visualização, compartilhamento, arquivamento visual e processamento subsequente baseado em imagens. Isso é útil quando o conteúdo do documento precisa ser exibido em ambientes onde formatos de imagem são mais fáceis de distribuir ou incorporar.
+
+A automação aprimora esse processo ao permitir renderização rápida de páginas, conversão em lote e integração com fluxos de trabalho visuais, como miniaturas, pré‑visualizações ou sistemas de revisão de documentos. Ela suporta o tratamento escalável do conteúdo de documentos em plataformas digitais.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Pré‑visualização de Páginas**  
+  Converta páginas de PDF em imagens para pré‑visualizações visuais em aplicações web e móveis.
+
+* **Arquivamento de Documentos**  
+  Armazene páginas de documentos como ativos de imagem para acesso rápido e referência visual.
+
+* **Compartilhamento de Conteúdo**  
+  Use as imagens geradas para apresentações, comunicações ou snapshots de documentos incorporados.
+
+* **Fluxos de Trabalho de Processamento Visual**  
+  Prepare páginas de PDF como entradas de imagem para análise, anotação ou sistemas de reconhecimento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Criação de Miniaturas**  
+  A automação em Python pode gerar pré‑visualizações de imagem a partir de PDFs enviados em tempo real.
+
+* **Renderização em Lote de Páginas**  
+  Grandes coleções de PDFs podem ser convertidas em conjuntos de imagens por meio de fluxos de trabalho programados.
+
+* **Integração com Visualizador de Documentos**  
+  Sistemas podem criar saídas de imagem sob demanda para interfaces de navegação de documentos.
+
+* **Entrega Dinâmica de Mídia**  
+  Serviços automatizados podem distribuir imagens derivadas de PDFs em plataformas de conteúdo de forma eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTX a ODS trasforma il contenuto dei modelli Word in un formato di foglio di calcolo OpenDocument per la gestione di dati strutturati e flussi di lavoro basati su standard aperti. È utile quando le informazioni del documento devono essere rappresentate in forma di foglio di calcolo modificabile senza fare affidamento su formati proprietari.
+
+Questa conversione migliora l'automazione consentendo la produzione di file di foglio di calcolo aperti basata su Python, che possono essere integrati su larga scala in sistemi di reportistica, revisione e elaborazione dati.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Flussi di lavoro con fogli di calcolo aperti**
+  Converti il contenuto del documento in file di foglio di calcolo modificabili usando standard aperti.
+
+* **Riutilizzo dei dati**
+  Trasferisci informazioni strutturate dai modelli in processi aziendali tabulari.
+
+* **Reportistica interoperabile**
+  Supporta la collaborazione tra sistemi che utilizzano formati di fogli di calcolo aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazioni ricorrenti di fogli di calcolo**
+  Genera file ODS automaticamente dai modelli DOTX per i cicli di reportistica.
+
+* **Pipeline di dati aperti**
+  Instrada l'output del foglio di calcolo convertito verso sistemi basati su formati standard.
+
+* **Automazione da documento a tabella**
+  Scala la trasformazione del contenuto ripetuto dei modelli in risorse di fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

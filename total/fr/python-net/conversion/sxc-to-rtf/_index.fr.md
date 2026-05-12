@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion SXC vers RTF transforme les informations de feuille de calcul en un format de texte enrichi qui allie lisibilité, portabilité et large compatibilité avec les environnements d'édition de texte. Elle est utile lorsque le contenu d'une feuille de calcul doit être partagé sous forme de texte formaté tout en restant accessible sur un large éventail de systèmes.
+
+En utilisant les API Python, la conversion SXC vers RTF aide à automatiser la génération de documents légers pour la communication, l'archivage et l'échange de contenu multiplateforme sans dépendre de dépendances documentaires complexes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Partage de texte multiplateforme**  
+  Convertit le contenu de la feuille de calcul en un format pouvant être ouvert par de nombreuses applications capables de gérer du texte.
+
+* **Exportation de contenu formaté**  
+  Préserve la structure de base et la lisibilité lors du transfert de données vers des flux de travail de documents texte.
+
+* **Documentation légère**  
+  Permet la création de fichiers formatés portables pour des résumés, des notes et des rapports simples.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Sortie automatisée de documents texte**  
+  Utilise les API Python pour convertir les fichiers SXC en documents RTF pour des flux de travail de rapports légers.
+
+* **Pipelines à large compatibilité**  
+  Permet l'exportation de contenu pour les systèmes qui nécessitent des documents texte simples, formatés et portables.
+
+* **Flux de travail de conversion par lots**  
+  Prend en charge la conversion programmatique de plusieurs fichiers de feuille de calcul en sorties textuelles accessibles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

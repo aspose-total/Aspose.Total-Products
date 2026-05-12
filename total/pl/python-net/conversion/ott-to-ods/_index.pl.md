@@ -65,7 +65,41 @@ To głównie w dwóch krokach. Najpierw użyj [Aspose.Words for Python via .NET]
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do ODS w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w dokumenty arkuszy kalkulacyjnych, pomagając zamienić tekstowy materiał źródłowy w ustrukturyzowane zasoby tabelaryczne do obliczeń, przeglądu i wymiany. Jest przydatna, gdy zawartość dokumentu musi stać się edytowalnymi danymi arkusza kalkulacyjnego.
+
+Ta konwersja usprawnia automatyzację, łącząc generowanie treści oparte na szablonach z przepływami pracy w arkuszach kalkulacyjnych, umożliwiając skalowalne raportowanie, przetwarzanie i ponowne wykorzystanie w systemach zależnych od ustrukturyzowanych danych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie arkusza kalkulacyjnego**  
+  Konwertuje zawartość szablonu na edytowalne otwarte dokumenty arkusza kalkulacyjnego.
+
+* **Przygotowanie danych tabelarycznych**  
+  Organizuje informacje z dokumentu w celu sortowania, filtrowania i analizy.
+
+* **Kompatybilność z otwartymi przepływami pracy**  
+  Wspiera środowiska oparte na otwartych standardach dokumentów biurowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Cykliczne eksporty arkuszy kalkulacyjnych**  
+  Generuje pliki ODS z szablonów OTT na żądanie lub według harmonogramu.
+
+* **Potoki dokument‑do‑danych**  
+  Wprowadza przekonwertowaną zawartość do przepływów przetwarzania opartych na arkuszach kalkulacyjnych.
+
+* **Zautomatyzowane raportowanie operacyjne**  
+  Generuje spójne wyniki skoroszytów ze standardowych źródeł tekstowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

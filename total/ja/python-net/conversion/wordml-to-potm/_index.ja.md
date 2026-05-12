@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to POTM 変換は、文書コンテンツをマクロ対応のプレゼンテーションテンプレートに変換し、再利用可能なスライドと組み込みの自動化機能が必要な環境向けです。テンプレート化されたプレゼンテーションがプログラム可能な動作も必要とする場合に有用です。
+
+Python API を使用して、WordML から POTM への変換は、コンテンツの再利用と自動化指向のプレゼンテーションワークフローを一致させる、テンプレート駆動型プレゼンテーション資産のスケーラブルな生成をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート作成**
+  WordML コンテンツを再利用可能な POTM ファイルに変換し、高度なプレゼンテーションワークフローに対応します。
+
+* **自動化されたプレゼンテーション基盤**
+  構造化されたコンテンツと組み込みの自動化ロジックを組み合わせたテンプレートをサポートします。
+
+* **繰り返し可能なスライド作成**
+  マクロ対応環境でのプレゼンテーション生成を標準化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート展開**
+  WordML ソースから POTM テンプレートを生成し、繰り返し行われるプレゼンテーションプロセスに対応します。
+
+* **ワークフロー駆動型スライド作成**
+  再利用可能な文書コンテンツとプレゼンテーション自動化要件を結びつけます。
+
+* **スケーラブルなコンテンツパッケージング**
+  構造化文書からマクロ対応テンプレートを一貫して作成できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

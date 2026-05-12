@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT에서 POT로 변환은 OpenDocument Text 콘텐츠를 프레젠테이션 템플릿 형식으로 변환하여, 작성된 자료를 향후 슬라이드 제작의 기반으로 재사용할 수 있게 합니다. 이는 조직이 서술형 콘텐츠가 프레젠테이션 자산으로 표준화되기를 원할 때 유용합니다.
+
+자동화 워크플로우에서 ODT에서 POT로의 변환은 재사용 가능한 프레젠테이션 프레임워크, 빠른 콘텐츠 재활용, 템플릿 기반 보고서를 지원합니다. Python API는 반복되는 커뮤니케이션 주기 전반에 걸쳐 일관된 출력물을 만드는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션 템플릿 생성**  
+  소스 콘텐츠를 재사용 가능한 슬라이드 구조 기반으로 변환합니다.
+
+* **표준화된 보고 자산**  
+  팀 전반에 걸쳐 일관된 프레젠테이션 레이아웃을 유지하도록 돕습니다.
+
+* **콘텐츠 재사용성**  
+  문서 콘텐츠를 향후 슬라이드 데크용 템플릿으로 전환합니다.
+
+* **워크플로우 효율성**  
+  유사한 프레젠테이션을 생성할 때 반복적인 노력을 줄여줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 생성 파이프라인**  
+  Python 자동화를 통해 반복되는 ODT 문서를 재사용 가능한 POT 템플릿으로 전환할 수 있습니다.
+
+* **보고서 표준화 워크플로우**  
+  콘텐츠를 일관되게 준비하여 반복적인 프레젠테이션에 사용할 수 있습니다.
+
+* **배치 템플릿 변환**  
+  여러 소스 문서를 자동으로 템플릿 자산으로 변환할 수 있습니다.
+
+* **슬라이드 제작 가속화**  
+  템플릿 출력은 하위 프레젠테이션 생성 프로세스에 활용될 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

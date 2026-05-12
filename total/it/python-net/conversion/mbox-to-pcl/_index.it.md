@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MBOX a PCL converte gli archivi di caselle di posta in output in linguaggio di controllo della stampante, rendendo il contenuto delle email adatto a sistemi focalizzati sulla stampa e flussi di lavoro orientati ai dispositivi. Questo è utile quando i messaggi archiviati devono essere consegnati direttamente in ambienti di stampa controllata.
+
+Utilizzando le API Python, i team possono automatizzare la conversione da mailbox a PCL per supportare code di stampa, gestione di documenti ad alto volume e integrazione con i sistemi di output aziendali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione Email Orientata alla Stampa**
+  Converti i messaggi in file PCL pronti per la stampa.
+
+* **Compatibilità con Flussi di Lavoro dei Dispositivi**
+  Prepara il contenuto della casella di posta per sistemi basati su output di stampa controllato.
+
+* **Archiviazione di Stampa Operativa**
+  Conserva i record email in formati allineati ai flussi di lavoro di stampa di produzione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione Automatizzata di Code di Stampa**
+  Trasforma gli archivi delle caselle di posta in output PCL per flussi di lavoro di stampa programmata.
+
+* **Integrazione di Output Aziendale**
+  Instrada i file email convertiti nei sistemi di gestione dei dispositivi e di elaborazione della stampa.
+
+* **Rendering di Documenti ad Alto Volume**
+  Utilizza Python per scalare la conversione delle caselle di posta in ambienti operativi con elevata intensità di stampa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

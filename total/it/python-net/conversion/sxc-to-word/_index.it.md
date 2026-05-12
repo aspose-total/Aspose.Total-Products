@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a Word trasforma i contenuti basati su fogli di calcolo in un formato di elaborazione testi adatto per documentazione leggibile, reportistica e comunicazione formale. È utile quando i dati strutturati dei fogli di calcolo devono essere adattati in documenti incentrati sul testo, più facili da revisionare e distribuire.
+
+Nei sistemi incentrati sull'automazione, la conversione da SXC a Word tramite le API Python aiuta a semplificare la trasformazione dei contenuti, migliorare la coerenza dei risultati e collegare le fonti dei fogli di calcolo a flussi di lavoro più ampi di gestione documentale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti aziendali**  
+  Converte i dati dei fogli di calcolo in documenti di elaborazione testi per report, riepiloghi e comunicazioni formali.
+
+* **Consegna di contenuti leggibili**  
+  Rende i dati strutturati più facili da consumare per un pubblico non tecnico in forma di documento.
+
+* **Compatibilità del flusso di lavoro**  
+  Supporta ambienti incentrati sui documenti che si basano su formati di elaborazione testi per la collaborazione e la revisione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di reportistica automatizzata**  
+  Utilizza le API Python per creare documenti Word dai dati SXC su base ricorrente o guidata da eventi.
+
+* **Integrazione della gestione documentale**  
+  Inserisce i risultati convertiti nei sistemi di revisione, approvazione o archiviazione senza lavoro manuale.
+
+* **Trasformazione di contenuti scalabile**  
+  Consente la generazione programmatica di grandi volumi di documenti compatibili con Word a partire da input di fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

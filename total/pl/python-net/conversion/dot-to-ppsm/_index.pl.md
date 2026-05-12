@@ -64,7 +64,41 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOT do PPSM przekształca szablony dokumentów w pliki prezentacji z włączonymi makrami, przeznaczone do zaawansowanego dostarczania prezentacji. Jest to przydatne tam, gdzie wyjścia prezentacji odtwarzane bezpośrednio muszą również obsługiwać rozszerzoną funkcjonalność w kompatybilnych środowiskach.
+
+Dzięki interfejsom API Pythona, generowanie PPSM może być zautomatyzowane z źródeł DOT, aby zwiększyć powtarzalność i wspierać bardziej zaawansowane przepływy pracy prezentacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie prezentacji z włączonymi makrami**
+  Konwertuj pliki DOT do PPSM dla zaawansowanych scenariuszy odtwarzania prezentacji.
+
+* **Wyświetlanie z rozszerzoną funkcjonalnością**
+  Używaj wyjść prezentacji, które obsługują wbudowaną automatyzację lub interaktywne zachowanie.
+
+* **Wielokrotne dostarczanie prezentacji**
+  Przekształcaj szablony dokumentów w gotowe do prezentacji pliki dla kontrolowanych środowisk wyświetlania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Zautomatyzowane zaawansowane generowanie prezentacji**
+  Skrypty Pythona mogą tworzyć pliki PPSM z treści DOT dla powtarzających się potrzeb prezentacyjnych.
+
+* **Interaktywne przepływy wyświetlania**
+  Konwersja wspiera tworzenie prezentacji sterowanej dokumentem z rozszerzoną funkcjonalnością.
+
+* **Skalowalna dystrybucja prezentacji**
+  Programowe potoki pomagają wdrażać pliki prezentacji z włączonymi makrami w wielu przypadkach użycia.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

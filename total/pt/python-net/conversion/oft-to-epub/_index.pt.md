@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de OFT para EPUB usando APIs Python converte modelos de e‑mail do Outlook em arquivos de publicação digital refluíveis, adequados para leitura estruturada e distribuição. Isso é valioso quando o conteúdo baseado em e‑mail precisa ser reutilizado em documentos digitais de formato longo, portáteis e amigáveis ao leitor.
+
+Em ambientes automatizados, a conversão de OFT para EPUB suporta pipelines de transformação de conteúdo que transferem informações de modelos de mensagens para fluxos de trabalho de publicação. Ela melhora a reutilização de conteúdo, a acessibilidade e a distribuição digital escalável.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Reaproveitamento de Publicação Digital**  
+  Converta o conteúdo OFT em arquivos EPUB para distribuição eletrônica portátil e amigável ao leitor.
+
+* **Entrega de Conteúdo Estruturado**  
+  Use a saída EPUB quando as informações do modelo de e‑mail precisam ser consumidas como uma publicação digital.
+
+* **Empacotamento de Conteúdo de Conhecimento**  
+  Empacote conteúdo de comunicação reutilizável em um formato adequado para manuais ou guias.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Publicação Automatizados**  
+  Transforme modelos OFT em arquivos EPUB como parte dos fluxos de trabalho de produção de conteúdo digital.
+
+* **Distribuição de Conteúdo Multicanal**  
+  Reaproveite modelos de mensagens em ativos prontos para publicação para canais de entrega mais amplos.
+
+* **Conversão Programática de Arquivos**  
+  Converta modelos de comunicação em livros digitais estruturados para repositórios pesquisáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

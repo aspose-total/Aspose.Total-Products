@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLS a DOTM trasforma le informazioni dei fogli di calcolo in modelli Word abilitati alle macro che supportano flussi di lavoro di generazione di documenti ripetibili e avanzati. Questo formato è rilevante quando le organizzazioni hanno bisogno di file modello riutilizzabili che siano anche compatibili con ambienti che supportano le macro.
+
+L'uso delle API Python per la conversione da XLS a DOTM migliora l'efficienza automatizzando la produzione di modelli e consentendo la progettazione di documenti guidata da fogli di calcolo su sistemi scalabili.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli abilitati alle macro**
+  Produci modelli DOTM dai dati del foglio di calcolo per flussi di lavoro documentali avanzati.
+
+* **Strutture di documento ripetibili**
+  Utilizza il contenuto XLS per definire modelli per una documentazione aziendale coerente.
+
+* **Progettazione di documenti orientata al processo**
+  Supporta la generazione controllata di modelli per i dipartimenti che dipendono da file di output strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Costruzione programmatica di modelli**
+  Genera automaticamente modelli DOTM dagli input del foglio di calcolo usando le API Python.
+
+* **Pipeline di modelli aziendali**
+  Converti i file XLS in risorse modello riutilizzabili per operazioni documentali standardizzate.
+
+* **Integrazione del flusso di lavoro**
+  Incorpora la conversione DOTM nei processi automatizzati di assemblaggio e pubblicazione dei documenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,47 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XPS vers ICS avec les API Python permet de transformer les informations provenant de documents à mise en page fixe en fichiers compatibles avec les calendriers, qui prennent en charge la planification et la diffusion d'événements. Cela est précieux lorsque les documents XPS contiennent des détails de réunions, des données de rendez‑vous, des plannings d'événements ou des informations liées aux échéances qui doivent être partagées sous un format de calendrier structuré.
+
+Dans les environnements automatisés, cette conversion améliore l'efficacité de la planification, réduit la création manuelle d'événements et permet aux processus basés sur les documents de se connecter directement aux flux de travail de calendrier, aux rappels et aux systèmes de planification.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction et partage d'horaires**  
+  Convertit les informations temporelles des fichiers XPS en entrées ICS pouvant être distribuées sous forme d'événements de calendrier.
+
+* **Automatisation des réunions et des rendez‑vous**  
+  Prend en charge la création de fichiers prêts pour le calendrier à partir d'avis de réunion ou de confirmations de réservation basés sur des documents.
+
+* **Coordination des échéances**  
+  Aide à transformer les jalons ou dates d'échéance stockés dans les documents en enregistrements de calendrier exploitables.
+
+* **Support de planification inter‑systèmes**  
+  Permet aux données des documents de circuler vers des flux de travail compatibles avec les calendriers pour une coordination plus large.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée de fichiers d'événement**  
+  Les systèmes peuvent convertir les plannings XPS en fichiers ICS chaque fois que de nouveaux documents d'événement sont produits.
+
+* **Intégration du flux de travail de rappel**  
+  Les fichiers de calendrier convertis peuvent être utilisés dans des pipelines automatisés de rappel et de notification.
+
+* **Traitement des plannings récurrents**  
+  Des travaux batch peuvent extraire et convertir plusieurs fichiers XPS basés sur des dates en sorties prêtes pour le calendrier.
+
+* **Pipelines document‑vers‑planification**  
+  Les flux de travail opérationnels peuvent connecter directement la création de documents aux systèmes de planification grâce à la génération programmatique d'ICS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

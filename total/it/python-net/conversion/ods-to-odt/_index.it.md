@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODS a ODT converte i file di foglio di calcolo in documenti di testo OpenDocument. Ciò consente ai dati strutturati del foglio di calcolo di essere rappresentati in formato documento mantenendo la compatibilità con gli standard dei documenti aperti.
+
+Utilizzando le API Python, la conversione da ODS a ODT può essere automatizzata come parte dei flussi di lavoro di elaborazione dati. Ciò consente una generazione di documenti scalabile, reportistica strutturata e integrazione con gli ecosistemi dei documenti aperti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Reportistica Open Document**  
+  Convertire i set di dati del foglio di calcolo in report di documento a standard aperto.
+
+* **Trasformazione del contenuto**  
+  Rappresentare i dati tabulari del foglio di calcolo all'interno di strutture di documento.
+
+* **Documentazione dei dati**  
+  Generare documentazione leggibile dalle informazioni del foglio di calcolo.
+
+* **Archiviazione in formato aperto**  
+  Archiviare il contenuto del foglio di calcolo in formati di testo Open Document.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline Open Document automatizzate**  
+  Gli script Python convertono automaticamente i file di foglio di calcolo in documenti ODT.
+
+* **Generazione di documenti batch**  
+  I sistemi elaborano più fogli di calcolo in report Open Document.
+
+* **Sistemi di documentazione dinamica**  
+  I flussi di lavoro programmatici generano documentazione dai dati del foglio di calcolo.
+
+* **Integrazione con sistemi Open Document**  
+  Le pipeline automatizzate mantengono la compatibilità con gli standard dei documenti aperti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

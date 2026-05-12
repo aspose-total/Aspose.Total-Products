@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV から PPSX への変換は、タブ区切りデータを直接表示および配布を目的とした最新のスライドショー プレゼンテーション ファイルに変換します。構造化されたコンテンツを一貫した書式でプレゼンテーションモードで提供し、広範な互換性が必要な場合に有用です。
+
+Python API を使用することで、TSV から PPSX への変換は、定期的なプレゼンテーション ワークフロー、スケーラブルなレポーティング、構造化データセットからの動的コンテンツ生成を支援する効率的な自動化を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **最新のスライドショー配信**  
+  TSV データを直接閲覧可能なプレゼンテーション ファイルに変換します。
+
+* **構造化されたプレゼンテーション出力**  
+  表形式のコンテンツをアクセスしやすいスライドショー形式のコミュニケーションに変換するのに役立ちます。
+
+* **定期的なビジュアルレポーティング**  
+  生データからプレゼンテーション用の要約を定期的に配布することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたプレゼンテーション再生ファイル**  
+  Python API は、TSV 入力から要求に応じてまたはスケジュールに従って PPSX ファイルを生成できます。
+
+* **スケーラブルなレポーティング パイプライン**  
+  自動化により、定期的なスライドショー作成の効率が向上します。
+
+* **動的なプレゼンテーション更新**  
+  プログラムによるワークフローは、ソースデータが変更されるたびにスライドショー出力を更新できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

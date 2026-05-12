@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOC naar ICS-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document-naar-ICS-conversie zet documentafgeleide gebeurtenisdetails om in agenda‑bestanden die geïmporteerd kunnen worden in planningssystemen en digitale planners. Het is waardevol voor workflows waarin vergader‑, deadline‑ of afspraakinformatie afkomstig is uit Word‑documenten.
+
+Het gebruik van Python‑API's om DOC‑naar‑ICS-conversie te automatiseren verbetert de plannings efficiëntie, vermindert fouten bij handmatige invoer en ondersteunt naadloze integratie tussen documentopslagplaatsen en agenda‑gedreven workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Evenementplanning**
+  Haal datums en gebeurtenisdetails uit documenten en zet ze om in agenda‑items.
+
+* **Vergaderdistributie**
+  Zet agenda‑ of uitnodigingsdocumenten om in importeerbare ICS‑bestanden voor deelnemers.
+
+* **Deadlinebeheer**
+  Zet schema‑gerelateerde documentinhoud om in agenda‑items voor tracking en herinneringen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Agenda‑bestandgeneratie**
+  Maak automatisch ICS‑bestanden aan vanuit DOC‑gebaseerde schema's, mededelingen of plannen.
+
+* **Workflow‑herinneringsautomatisering**
+  Zet documentdeadlines om in agenda‑evenementen voor teamcoördinatie en opvolging.
+
+* **Systeem‑naar‑agenda‑integratie**
+  Routeer programmatisch geëxtraheerde documentdatums naar plannings‑ecosystemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

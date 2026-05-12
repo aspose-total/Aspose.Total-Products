@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OFT를 DOTM로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 OFT에서 DOTM으로의 변환은 Outlook 이메일 템플릿을 고급 문서 자동화를 위한 매크로 사용 워드 템플릿으로 변환합니다. 이는 재사용 가능한 콘텐츠를 사용자 정의 로직과 반복 가능한 문서 작업을 지원하는 템플릿 파일에 삽입해야 할 때 유용합니다.
+
+이 변환은 표준화된 템플릿 디자인과 프로그래밍 가능한 동작을 결합하여 자동화 전략을 강화합니다. 효율적인 문서 생성, 제어된 처리 및 확장 가능한 템플릿 기반 작업을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿 생성**  
+  OFT 파일을 DOTM 템플릿으로 변환하여 내장된 작업이 포함된 자동 문서 생성을 수행합니다.
+
+* **반복 가능한 비즈니스 문서 워크플로**  
+  변환된 템플릿을 사용하여 반복되는 콘텐츠 제작 작업을 표준화합니다.
+
+* **프로그래밍 가능한 콘텐츠 재사용**  
+  이메일 템플릿 콘텐츠를 사용자 정의 문서 자동화를 지원하는 구조화된 템플릿으로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 자동화 파이프라인**  
+  OFT 파일에서 DOTM 템플릿을 생성하여 문서를 자동으로 생성하는 시스템에 활용합니다.
+
+* **규칙 기반 문서 처리**  
+  변환된 템플릿을 스크립트 또는 매크로 지원 작업을 트리거하는 워크플로에 통합합니다.
+
+* **확장 가능한 콘텐츠 표준화**  
+  Python API를 사용하여 부서 또는 프로젝트 전반에 걸쳐 일관된 매크로 사용 템플릿을 제작합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

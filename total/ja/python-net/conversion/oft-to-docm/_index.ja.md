@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した OFT から DOCM への変換により、Outlook のメールテンプレートをマクロ有効な Word 文書に変換でき、高度な文書ワークフローに利用できます。変換されたコンテンツを自動化ロジック、スクリプト化されたアクション、またはカスタム文書動作と組み合わせる必要がある場合に重要です。
+
+この変換は、再利用可能なメールコンテンツとプログラム可能な文書プロセスを結び付けることで、オートメーション重視の環境をサポートします。組織がテンプレート駆動の操作を標準化し、柔軟性、再現性、ワークフロー制御を向上させるのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ有効文書生成**  
+  埋め込み自動化ロジックが必要なワークフロー向けに、OFT テンプレートを DOCM ファイルに変換します。
+
+* **高度なテンプレート再利用**  
+  カスタム処理アクションをサポートする文書内でメールコンテンツを再利用します。
+
+* **構造化ビジネス文書化**  
+  メールベースのコンテンツを動的文書システムに供給する必要がある場合に DOCM 出力を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化文書アクションフロー**  
+  変換されたテンプレートコンテンツとマクロ有効プロセスを組み合わせて、繰り返しのビジネスタスクに対応します。
+
+* **テンプレートからワークフローへの変換**  
+  OFT ファイルをルールベースの文書処理に参加する DOCM 文書に変換します。
+
+* **プログラム的レポート支援**  
+  データで埋め込まれた、または制御された文書ルーチン向けに、メールテンプレートからマクロ有効ファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

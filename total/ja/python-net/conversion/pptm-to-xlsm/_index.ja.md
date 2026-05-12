@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PPTM から XLSM への変換は、マクロ対応プレゼンテーションをマクロ対応スプレッドシート ファイルに変換し、構造化データとスプレッドシート自動化ロジックを組み合わせたワークフローで利用できるようにします。変換されたコンテンツが計算、スクリプト化されたアクション、または高度なスプレッドシートベースの操作をサポートする必要がある場合に有用です。
+
+この変換は自動化の目的に適合しており、プレゼンテーション由来のデータがマクロ、ビジネス ルール、繰り返し可能な処理ステップを含むスプレッドシート ワークフローに参加できるようにします。静的なレポートにとどまらず、プレゼンテーション コンテンツの有用性を拡張するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ対応スプレッドシートの作成**
+  プレゼンテーション データを自動化されたブック動作をサポートするスプレッドシートに変換します。
+
+* **高度なデータ処理のサポート**
+  構造化されたスライド コンテンツをロジック駆動型スプレッドシート ワークフローで再利用できるようにします。
+
+* **自動化指向のレポーティング**
+  プレゼンテーション情報を繰り返し可能なスプレッドシート タスクやルーチンと統合するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スプレッドシート自動化パイプライン**
+  PPTM ソースから XLSM 出力を生成し、マクロ駆動の処理を実現します。
+
+* **ビジネス ロジック統合**
+  変換されたデータが自動化されたスプレッドシート アクションをトリガーするワークフローをサポートします。
+
+* **プログラム的レポーティング システム**
+  プレゼンテーション コンテンツを動的でルールベースのブック環境に流し込むことができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

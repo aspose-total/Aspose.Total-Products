@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した PPTM から DOCM への変換により、マクロ対応のプレゼンテーション コンテンツを高度な編集や自動化サポートが可能なマクロ対応のワードプロセッシング形式に変換できます。これは、プレゼンテーション資料を埋め込みスクリプトやテンプレートロジックに依存する文書環境へ転送する必要がある場合に有用です。
+
+この変換は、文書の生成、カスタマイズ、スクリプト化されたポストプロセッシングが必要とされる自動化されたエンタープライズ ワークフローに特に適しています。マクロ対応の操作との互換性を保ちつつ、プレゼンテーション コンテンツを文書自動化システムと統合するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応ドキュメント作成**
+  プレゼンテーション コンテンツを自動化された文書動作をサポートする文書形式に移行します。
+
+* **高度なワークフロー統合**
+  プレゼンテーション由来のコンテンツがスクリプト化された文書プロセスに参加できるようにします。
+
+* **編集可能なビジネスコンテンツ変換**
+  スライドを制御された編集と再利用のための文書に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化コンテンツ移行**
+  文書中心のワークフロー実行のために PPTM コンテンツを DOCM ファイルに転送します。
+
+* **文書生成パイプライン**
+  プレゼンテーション データをマクロ対応の文書生成システムに供給します。
+
+* **ルール駆動型ポストプロセッシング**
+  変換された文書を自動フォーマットやロジック ルーチンによるさらなる処理にかけることができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

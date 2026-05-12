@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODS a DOTM consente di trasformare i file di foglio di calcolo in modelli di documento abilitati alle macro. Questi modelli permettono un'automazione avanzata dei documenti e strutture riutilizzabili guidate da macro incorporate.
+
+Utilizzando le API Python, gli sviluppatori possono automatizzare la trasformazione dei set di dati dei fogli di calcolo in modelli abilitati alle macro. Ciò consente sistemi di automazione scalabili che producono documenti dinamici basati su dati provenienti da fogli di calcolo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di Modelli Abilitati alle Macro**  
+  Converti le strutture dei dati dei fogli di calcolo in modelli che supportano le macro di automazione.
+
+* **Framework di Documenti Automatizzati**  
+  Utilizza gli input dei fogli di calcolo per costruire modelli di documento guidati dalle macro.
+
+* **Generazione Dinamica di Modelli**  
+  Genera modelli riutilizzabili a partire da contenuti strutturati dei fogli di calcolo.
+
+* **Sistemi di Automazione dei Documenti**  
+  Abilita flussi di lavoro documentali avanzati e automatizzati tramite modelli abilitati alle macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Produzione Automatizzata di Modelli**  
+  I flussi di lavoro Python generano modelli abilitati alle macro a partire dagli input dei fogli di calcolo.
+
+* **Conversione Batch di Modelli**  
+  I sistemi elaborano più file ODS per creare modelli abilitati alle macro.
+
+* **Automazione Documentale Aziendale**  
+  I modelli derivati dai fogli di calcolo consentono una generazione di documenti automatizzata e scalabile.
+
+* **Assemblaggio Dinamico di Documenti**  
+  I modelli abilitati alle macro supportano la creazione programmatica di contenuti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

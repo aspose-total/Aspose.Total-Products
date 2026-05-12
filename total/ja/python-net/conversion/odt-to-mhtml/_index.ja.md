@@ -53,7 +53,47 @@ ODT から MHTML (Web アーカイブ形式) への変換機能または HtmlFix
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to MHTML 変換は、OpenDocument Text ファイルをコンテンツと関連リソースを単一ファイルに結合したウェブアーカイブ形式に変換します。これは、ドキュメントを共有、プレビュー、保存しやすいブラウザフレンドリーな形で保存するのに価値があります。
+
+自動化ワークフローにおいて、ODT から MHTML への変換はウェブベースの配布、ドキュメントのキャプチャ、ポータブルなアーカイブをサポートします。Python API は、コンテンツ公開やレビューシステム向けに自己完結型出力を繰り返し生成できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ブラウザフレンドリーな保存**  
+  ドキュメントをウェブコンテンツとして開き閲覧できる形式に変換します。
+
+* **ポータブルドキュメント共有**  
+  コンテンツを単一ファイルにパッケージ化し、転送と保存を容易にします。
+
+* **アーカイブキャプチャ**  
+  ウェブ互換形式でドキュメントの外観と構造を保持するのに役立ちます。
+
+* **埋め込みコンテンツ配布**  
+  自己完結型コンテンツファイルが好まれるワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ウェブアーカイブ生成**  
+  Python ワークフローは ODT ファイルを MHTML に変換し、ブラウザベースのアクセスを可能にします。
+
+* **バッチ保存ジョブ**  
+  大量のドキュメントセットを自己完結型ウェブファイルに自動的にアーカイブできます。
+
+* **コンテンツ公開準備**  
+  システムはステークホルダーやポータル向けにポータブルな閲覧バージョンを生成できます。
+
+* **ドキュメントスナップショットワークフロー**  
+  MHTML 出力はレビューや長期保存のためにプログラムで作成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

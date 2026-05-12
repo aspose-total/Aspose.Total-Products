@@ -53,7 +53,44 @@ DOCX から MHTML (Web アーカイブ形式) への変換機能または HtmlFi
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から MHTML への変換は、ワードプロセッシング文書を HTML コンテンツと関連リソースを 1 つのファイルにまとめた Web アーカイブファイルに変換します。この形式は文書構造を保持しながら、Web 上での閲覧を可能にします。
+
+Python API を使用すると、DOCX から MHTML への変換を自動出版システム、Web アーカイブワークフロー、文書共有プラットフォームに統合できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **Web アーカイブ生成**  
+  DOCX 文書を単一ファイルの Web アーカイブに変換します。
+
+* **文書の Web 公開**  
+  文書の内容を Web 互換ファイルとして共有できるようにします。
+
+* **オフライン文書閲覧**  
+  外部依存なしで文書を閲覧できるようにします。
+
+* **コンテンツ保存**  
+  書式とリソースを単一のアーカイブファイル内に保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動 Web アーカイブエクスポート**  
+  システムは DOCX ファイルを自動的に MHTML アーカイブに変換できます。
+
+* **バッチ文書公開パイプライン**  
+  Python スクリプトで文書から Web アーカイブファイルを生成できます。
+
+* **コンテンツ配信システム**  
+  文書を動的に Web 互換のアーカイブ形式に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

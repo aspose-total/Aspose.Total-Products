@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 DOTX로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX에서 DOTX 변환은 메일함 아카이브를 최신 Word 템플릿 파일로 변환하여 조직이 이메일 콘텐츠를 재사용 가능한 문서 패턴으로 전환하도록 돕습니다. 이는 레이아웃을 표준화하고 구조를 보존하며, 아카이브된 커뮤니케이션으로 시작하는 문서 생성 워크플로를 지원하는 데 유용합니다.
+
+Python API는 자동화된 템플릿 생성, 배치 메일함 변환 및 보다 넓은 콘텐츠 관리 시스템과의 통합을 가능하게 하여 이 프로세스를 확장 가능하게 만듭니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 템플릿 디자인**
+  메시지 콘텐츠를 DOTX 템플릿으로 변환하여 반복 가능한 문서 작성을 가능하게 합니다.
+
+* **문서 표준화**
+  메일함 데이터를 사용하여 일관된 레이아웃 및 서식 구조를 설정합니다.
+
+* **구조화된 콘텐츠 재활용**
+  아카이브된 이메일 자료를 바로 사용할 수 있는 템플릿 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 템플릿 변환**
+  선택된 메일함 콘텐츠에서 DOTX 파일을 자동으로 생성합니다.
+
+* **템플릿 중심 워크플로**
+  변환된 이메일 템플릿을 보고서, 정책 또는 운영 문서 시스템에 공급합니다.
+
+* **Python 기반 문서 확장**
+  MBOX 아카이브에서 대량 템플릿 생성을 최소한의 수동 작업으로 자동화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX를 Word로 변환하면 프레젠테이션 자료를 보다 상세한 편집, 검토 및 공식 배포에 적합한 워드 프로세싱 문서 형식으로 전환합니다. 슬라이드 기반 요약이나 시각적 콘텐츠를 문서화 또는 비즈니스 커뮤니케이션을 위한 텍스트 중심 파일로 변환해야 할 때 유용합니다.
+
+자동화된 환경에서는 PPSX를 Word로 변환함으로써 콘텐츠 재사용을 향상하고 수동 복사‑붙여넣기 작업을 줄이며, Python API를 통해 확장 가능한 프레젠테이션‑문서 워크플로를 구현할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 중심 콘텐츠 재사용**  
+  슬라이드 정보를 작성 및 편집에 더 적합한 형식으로 변환합니다.
+
+* **공식 문서 작성**  
+  프레젠테이션을 보고서, 기록, 서술형 문서 등으로 재활용하는 데 도움을 줍니다.
+
+* **검토 및 협업 지원**  
+  콘텐츠를 편집 및 승인용으로 보다 쉽게 배포할 수 있게 합니다.
+
+* **운영 콘텐츠 배포**  
+  문서 중심 워크플로에서 프레젠테이션에서 파생된 정보를 공유하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 Word 파일 생성**  
+  Python API를 사용해 PPSX 콘텐츠를 반복적인 요구에 맞는 Word 호환 문서로 변환할 수 있습니다.
+
+* **대량 문서 처리**  
+  자동화를 통해 여러 프레젠테이션을 처리하고 문서 출력을 효율적으로 생성할 수 있습니다.
+
+* **콘텐츠 마이그레이션 워크플로**  
+  변환된 파일을 저장소, 검토 또는 출판 시스템에 연계할 수 있습니다.
+
+* **프로그래밍 방식 보고서 준비**  
+  프레젠테이션 자료를 수동 개입 없이 편집 가능한 문서로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

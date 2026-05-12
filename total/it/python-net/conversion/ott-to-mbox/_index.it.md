@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a MBOX nelle API Python trasforma i modelli di testo OpenDocument in formato di archivio mailbox per memorizzare collezioni di messaggi in stile email. Questo è utile quando le comunicazioni generate devono essere raggruppate, trasferite o conservate in una struttura compatibile con le mailbox.
+
+La conversione supporta l'automazione consentendo alla generazione di messaggi basata su documenti di fluire direttamente nei flussi di archiviazione e migrazione che si basano su uno storage in stile mailbox per scalabilità e organizzazione.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dell'archivio mailbox**  
+  Produce contenuti di messaggi adatti per l'archiviazione email raggruppata.
+
+* **Conservazione delle comunicazioni**  
+  Conserva i contenuti generati in un formato mailbox portatile.
+
+* **Imballaggio di messaggi in blocco**  
+  Aiuta a organizzare più messaggi generati per il trasferimento o l'ingestione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione automatica di archivi mail**  
+  Converte le comunicazioni basate su template in contenitori MBOX.
+
+* **Supporto al flusso di lavoro di migrazione**  
+  Prepara i messaggi derivati da documenti per i processi di importazione mailbox.
+
+* **Pipeline di conservazione batch**  
+  Archivia i messaggi generati ricorrenti per uso di conformità o audit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

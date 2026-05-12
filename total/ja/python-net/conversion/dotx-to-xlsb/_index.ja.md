@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から XLSB への変換は、Word テンプレートのコンテンツを、効率的な保存とパフォーマンスを目的としたバイナリ スプレッドシート形式に変換します。構造化された文書テンプレートから大規模または繰り返しのスプレッドシート出力が必要な場合に便利です。
+
+この変換は、Python API を利用してコンパクトなスプレッドシート ファイルを生成できるようにし、高ボリューム処理、ストレージ最適化、迅速な業務フローに適した自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **効率的なスプレッドシートストレージ**
+  文書データをコンパクトなスプレッドシート形式に変換し、効率的に取り扱えるようにします。
+
+* **大量出力管理**
+  テンプレートから多数のスプレッドシート ファイルを生成するワークフローをサポートします。
+
+* **パフォーマンス指向のデータエクスポート**
+  実用的な保存と使用に最適化されたスプレッドシート資産を準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ スプレッドシート変換**
+  大規模データワークフローで DOTX テンプレートから XLSB ファイルを生成します。
+
+* **ストレージ最適化レポートパイプライン**
+  コンパクトなスプレッドシート出力により、自動化レポートシステムのオーバーヘッドを削減します。
+
+* **運用効率ワークフロー**
+  繰り返し行われるテンプレート変換を、パフォーマンスの高いスプレッドシート資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

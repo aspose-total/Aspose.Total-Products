@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から OFT への変換は、OpenDocument テキストテンプレートを標準化されたコミュニケーションで再利用できるメールテンプレートファイルに変換します。これは、文書内容がメッセージ作成やコミュニケーションの一貫性のための繰り返し可能な基盤として機能する必要がある場合に価値があります。
+
+この変換は、再利用可能なコミュニケーションワークフロー、動的コンテンツの挿入、そして大規模にテンプレート化されたメッセージ資産を効率的に生成できるため、特に自動化に有用です。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **再利用可能なメールテンプレート作成**  
+  文書内容をドラフト準備ができたメッセージテンプレートに変換します。
+
+* **標準化されたコミュニケーション**  
+  メッセージ全体で一貫した言語とフォーマットを維持するのに役立ちます。
+
+* **コンテンツの再利用性**  
+  1つのソーステンプレートで複数のコミュニケーションフローをサポートできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたドラフトテンプレート生成**  
+  繰り返し使用される OTT コンテンツソースから OFT ファイルを作成します。
+
+* **ワークフロー主導のメッセージパーソナライズ**  
+  アウトバウンドプロセスでテンプレートと動的フィールドを組み合わせます。
+
+* **スケーラブルな社内コミュニケーション**  
+  部門やシステム全体で一貫したメール作成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

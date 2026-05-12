@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to PDF conversion transforms mailbox archives into fixed-layout documents that are easy to view, share, and preserve across platforms. It is one of the most practical formats for email archiving because it maintains readability while supporting long-term storage and broad accessibility.
+
+Avec les API Python, la conversion MBOX en PDF peut être automatisée pour les flux de travail de conformité, de reporting et de conservation des documents, aidant les organisations à traiter efficacement et de manière cohérente de grands ensembles de données de boîtes aux lettres.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Archivage d'e‑mail à long terme**
+  Convertir le contenu des boîtes aux lettres en fichiers PDF pour une préservation stable et largement acceptée.
+
+* **Préparation de dossiers partageables**
+  Distribuer le contenu des e‑mails dans un format fixe, facile à ouvrir et à examiner.
+
+* **Documentation de conformité**
+  Soutenir les besoins de gouvernance et d’audit avec des exportations de documents structurés à partir des archives de courriels.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération massive de PDF**
+  Convertir automatiquement les fichiers MBOX en PDF pour un archivage et une révision organisés.
+
+* **Intégration du pipeline de conformité**
+  Insérer les documents e‑mail convertis dans les flux de rétention, d’audit ou juridiques.
+
+* **Mise à l’échelle de documents basée sur Python**
+  Gérer les tâches d’exportation de boîtes aux lettres à grand volume grâce à la conversion PDF programmatique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

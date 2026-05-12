@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX から TSV への変換は、プレゼンテーションデータをシンプルで軽量なタブ区切りテキスト出力に変換し、構造化データ交換に適しています。この形式は、スライドの内容を抽出して、プレーンテキストの表形式入力を好むシステムで処理する必要がある場合に便利です。
+
+自動化のユースケースでは、PPSX から TSV への変換は信頼性の高いデータ転送をサポートし、スクリプトやパイプラインへの取り込みを簡素化し、Python API を通じて効率的な大規模処理を可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **表形式データのエクスポート**  
+  構造化されたスライドコンテンツをプレーンテキストの表形式に変換します。
+
+* **システムフレンドリーなデータ交換**  
+  区切り文字ベースのファイルを受け入れるツールに簡単にインポートできる出力を生成します。
+
+* **軽量コンテンツ変換**  
+  構造化処理タスク向けに最小限のオーバーヘッドで抽出をサポートします。
+
+* **パイプライン向けデータ準備**  
+  プレゼンテーションデータをプログラム環境で利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テキストデータ抽出**  
+  Python API を使用して PPSX ファイルを TSV に変換し、スムーズなパースワークフローを実現できます。
+
+* **パイプライン取り込みサポート**  
+  TSV 出力は自動化された ETL や変換システムに直接取り込むことができます。
+
+* **大規模変換ジョブ**  
+  自動化により、プレゼンテーションコンテンツを大規模にタブ区切りテキストへ繰り返し変換できます。
+
+* **ツール間構造化転送**  
+  変換されたファイルは、異種プラットフォーム間の効率的な移動をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

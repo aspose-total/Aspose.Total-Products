@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOTX do VCF w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to VCF conversion transforms Word template content into a contact card format used for storing and sharing personal or organizational contact information. It is useful when templates contain structured contact details that need to be reused in communication systems.
+
+Using Python APIs, this conversion supports automation by enabling contact extraction, digital address book generation, and scalable synchronization of document-based contact records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja informacji kontaktowych**
+  Convert structured contact details from templates into reusable digital cards.
+
+* **Przygotowanie katalogu**
+  Build portable contact records from document-based information.
+
+* **Integracja z systemami komunikacji**
+  Reuse template content in address books and contact-sharing workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie kontaktów**
+  Create VCF files from DOTX templates for onboarding or directory processes.
+
+* **Masowy eksport kontaktów**
+  Convert repeated document-based records into shareable contact cards.
+
+* **Zsynchronizowane przepływy kontaktów**
+  Feed converted contact data into communication and CRM-related systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

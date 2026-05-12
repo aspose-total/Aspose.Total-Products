@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to XLSX 変換は、Word のコンテンツを、分析、レポート、業務コラボレーションで広く使用されている最新の Excel ワークブック形式に変換します。文書データを構造化し、編集可能にする必要がある場合、最も実用的な変換の一つです。
+
+Python API を使用すると、DOC から XLSX への変換を効率的に行うことができ、自動レポート作成、データ抽出、最新のスプレッドシート相互運用性に依存するスケーラブルなビジネスワークフローを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **最新のスプレッドシート変換**
+  DOC の表やレコードを XLSX に変換し、幅広いスプレッドシート互換性を実現します。
+
+* **ビジネス分析の準備**
+  文書ベースのデータをソート、数式、チャート、レポート用に準備します。
+
+* **ワークフローの効率化**
+  Word のコンテンツを自動的にスプレッドシート資産に変換することで、手動での再入力を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的な Excel エクスポートの自動化**
+  DOC のレポートやフォームから XLSX ファイルを自動的に生成します。
+
+* **データパイプライン統合**
+  抽出された文書コンテンツを分析・レポートのエコシステムへルーティングします。
+
+* **スケーラブルな文書処理**
+  大量の文書コレクションをプログラムで最新のワークブックに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

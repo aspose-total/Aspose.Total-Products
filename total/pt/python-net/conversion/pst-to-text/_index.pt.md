@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para TEXTO em APIs Python extrai o conteúdo da caixa de correio em texto simples para indexação, análise e uso de arquivamento leve. É valiosa quando o foco está no conteúdo legível em vez da formatação, especialmente em sistemas que priorizam a pesquisabilidade e a eficiência de processamento.
+
+Para automação, a conversão de PST para TEXTO suporta mineração de texto, extração de conteúdo e integração com pipelines que funcionam melhor com entrada estruturada simples. Ajuda a tornar os arquivos de caixa de correio mais fáceis de analisar, transformar e analisar em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Texto Simples**
+  Converte o conteúdo PST em texto para acesso limpo, sem formatação, aos dados da mensagem.
+
+* **Suporte a Busca e Indexação**
+  Ajuda a preparar os arquivos de caixa de correio para fluxos de trabalho de recuperação e descoberta de conteúdo.
+
+* **Saída Pronta para Análise**
+  Suporta o processamento subsequente onde texto simples é preferido a documentos formatados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Processamento de Texto**
+  Sistemas automatizados podem alimentar o texto derivado de PST em fluxos de indexação ou análise.
+
+* **Fluxos de Trabalho de Extração de Dados**
+  A saída em texto simples ajuda a simplificar tarefas de análise, filtragem e transformação.
+
+* **Mineração de Conteúdo Escalável**
+  A conversão programática permite que grandes arquivos de caixa de correio sejam analisados de forma mais eficiente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

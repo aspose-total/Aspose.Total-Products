@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS에서 PPTM으로의 변환은 스프레드시트 콘텐츠를 편집 가능하고 고급 슬라이드 워크플로를 위한 매크로 지원 프레젠테이션 파일로 변환할 수 있게 합니다. 스프레드시트 기반 프레젠테이션 출력이 매크로 지원 파일을 지원하는 환경과 일치해야 할 때 유용합니다.
+
+Python API는 XLS에서 PPTM으로의 변환을 자동화하는 데 도움을 주며, 편집 가능한 프레젠테이션 자산의 반복 가능한 생성을 지원하고 비즈니스 커뮤니케이션 프로세스의 속도와 일관성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 프레젠테이션 생성**
+  고급 프레젠테이션 요구 사항을 위해 XLS 데이터를 PPTM 파일로 변환합니다.
+
+* **편집 가능한 보고 슬라이드**
+  추가 맞춤 설정이 가능한 스프레드시트 입력으로부터 프레젠테이션 파일을 구축합니다.
+
+* **구조화된 프레젠테이션 워크플로**
+  운영 및 보고 요구를 위한 프레젠테이션 출력을 생성하기 위해 스프레드시트 콘텐츠를 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 고급 데크 출력**
+  편집 가능하고 특수한 출력이 필요한 시스템에서 XLS 파일로부터 PPTM 프레젠테이션을 생성합니다.
+
+* **템플릿 인식 슬라이드 파이프라인**
+  Python API를 사용하여 데이터 소스로부터 일관된 매크로 지원 프레젠테이션 파일을 생성합니다.
+
+* **배치 보고 자동화**
+  수많은 스프레드시트 파일을 최소한의 수작업으로 프레젠테이션 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

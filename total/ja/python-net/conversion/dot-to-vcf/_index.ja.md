@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から VCF への変換は、文書テンプレートをアドレス帳へのインポートや連絡先共有に使用できるコンタクトカードファイルに変換します。文書ベースのレコードに人物や組織の詳細が含まれ、通信システムに取り込む必要がある場合に便利です。
+
+Python API を使用すると、DOT から VCF への変換を自動化でき、連絡先データのポータビリティが向上し、業務フロー全体での繰り返しの手動入力を削減できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用ケース" %}}
+
+* **連絡先レコード生成**
+  DOT ベースの情報をアドレス帳で使用できる VCF ファイルに変換します。
+
+* **ポータブル連絡先共有**
+  テンプレートから抽出された構造化された連絡先データを標準化された形式で共有します。
+
+* **通信データ入力支援**
+  テンプレート内容をインポート可能な連絡先カードに変換することで、手動入力を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動連絡先エクスポート**
+  Python ワークフローは、連絡先情報を含む DOT テンプレートから VCF ファイルを生成できます。
+
+* **CRM とディレクトリの統合**
+  変換は、文書ベースの連絡先データを通信システムへ移行することをサポートします。
+
+* **大量連絡先ファイル作成**
+  プログラムによる処理により、多数のテンプレートから VCF 出力をスケーラブルに生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

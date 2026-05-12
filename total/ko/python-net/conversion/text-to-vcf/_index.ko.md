@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 TEXT를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 텍스트를 VCF로 변환하면 일반 텍스트 연락처 정보를 표준화된 디지털 연락처 파일로 변환할 수 있습니다. 이는 연락처 공유, 데이터 이식성, 고객 기록 처리 및 원시 텍스트 소스에서 구조화된 연락처 정보가 필요한 워크플로에 유용합니다.
+
+텍스트를 VCF 형식으로 변환함으로써 자동화 시스템은 연락처 생성을 간소화하고 주소록 데이터를 동기화하며 애플리케이션 및 플랫폼 간에 구조화된 연락처 레코드의 확장 가능한 교환을 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 연락처 생성**  
+  텍스트 기반 연락처 정보를 VCF 파일로 변환하여 쉽게 가져오고 공유할 수 있습니다.
+
+* **주소록 동기화**  
+  시스템 및 장치 간 통합을 위해 연락처 데이터를 표준화하는 데 도움이 됩니다.
+
+* **리드 및 고객 기록 처리**  
+  원시 텍스트 항목을 휴대 가능한 연락처 자산으로 변환하는 것을 지원합니다.
+
+* **연락처 교환 워크플로**  
+  플랫폼 간에 사람 및 조직 세부 정보를 구조화된 형태로 전송할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 생성된 연락처 파일**  
+  양식, 데이터베이스 또는 스크립트가 텍스트 입력을 자동으로 VCF 파일로 변환할 수 있습니다.
+
+* **대량 연락처 처리**  
+  대량의 텍스트 기반 연락처 데이터를 프로그래밍 방식으로 표준화된 레코드로 변환할 수 있습니다.
+
+* **CRM 및 디렉터리 통합**  
+  자동화는 텍스트 소스로부터 연락처 파일을 준비하여 온보딩, 동기화 또는 내보내기 프로세스에 활용할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

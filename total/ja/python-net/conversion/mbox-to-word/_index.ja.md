@@ -46,9 +46,43 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から Word への変換は、メールボックスのアーカイブを編集可能なワードプロセッシング文書に変換し、メール内容を文書ベースのワークフローで整理、修正、共有しやすくします。アーカイブされた通信をレポートや記録、構造化されたビジネスコンテンツに再利用する必要がある場合に便利です。
+
+Python API を使用すれば、この変換を自動化でき、手作業の負担を減らし、一貫性を向上させ、最新システム全体で大規模なメールから文書への変換をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **編集可能なメールコンテンツのエクスポート**
+  メールをレビューや再利用のためにワードプロセッシング文書に変換します。
+
+* **ビジネス文書サポート**
+  アーカイブされたメールボックスの内容をレポート、要約、社内記録に活用します。
+
+* **共同コンテンツ処理**
+  変換されたメッセージ文書を一般的なオフィスワークフローで共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動文書作成**
+  メールボックスのエントリを Python ワークフローで Word 互換ファイルに変換します。
+
+* **運用コンテンツの再利用**
+  変換されたメール文書を管理・レポートパイプラインに組み込みます。
+
+* **スケーラブルなオフィス統合**
+  大量文書管理プロセス向けにメールボックス変換を標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

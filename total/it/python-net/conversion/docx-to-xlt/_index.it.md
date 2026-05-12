@@ -65,7 +65,44 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to XLT conversion converts word processing documents into spreadsheet template files used for repeatable worksheet creation. This process allows structured content from documents to become reusable spreadsheet foundations for reporting and operational tasks.
+
+Python APIs make DOCX-to-XLT conversion suitable for automated template generation systems, recurring reporting pipelines, and spreadsheet standardization workflows. It supports consistency in spreadsheet creation across teams and processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di modelli di foglio di calcolo riutilizzabili**  
+  Converte il contenuto DOCX in file modello per la generazione ripetuta di fogli di lavoro.
+
+* **Strutture di reportistica standardizzate**  
+  Aiuta le organizzazioni a mantenere layout di fogli di calcolo coerenti e un'organizzazione dei dati costante.
+
+* **Flussi di lavoro documento‑a‑modello**  
+  Supporta il riutilizzo di risorse documentali strutturate negli ambienti di fogli di calcolo.
+
+* **Distribuzione operativa di modelli**  
+  Consente la creazione scalabile di modelli di foglio di calcolo da fonti scritte.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione automatica di modelli**  
+  I sistemi possono convertire file DOCX in modelli XLT per flussi di lavoro di fogli di calcolo ricorrenti.
+
+* **Produzione batch di modelli di foglio di calcolo**  
+  Gli script Python possono generare modelli di foglio di lavoro riutilizzabili da più documenti.
+
+* **Pipeline di standardizzazione aziendale**  
+  Il contenuto dei documenti può essere trasformato in modelli di foglio di calcolo per operazioni di reportistica coerenti.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

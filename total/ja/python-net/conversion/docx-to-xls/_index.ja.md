@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から XLS への変換は、ワードプロセッシング文書を表形式の分析、レポート作成、構造化データ管理に使用されるスプレッドシートファイルに変換します。このプロセスにより、文書内の表や整理された情報をスプレッドシート主導のワークフローで再利用できます。
+
+Python API を使用すると、DOCX から XLS への変換をレポートシステム、移行プロジェクト、エンタープライズデータパイプラインで自動化できます。これにより、文書から構造化コンテンツをレガシーなスプレッドシート環境へ一貫して抽出できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **スプレッドシートデータ抽出**  
+  DOCX の表と構造化テキストをスプレッドシート用のワークシートに変換します。
+
+* **レガシーレポートサポート**  
+  文書ベースのデータを既存のスプレッドシートワークフローで再利用できるようにします。
+
+* **文書からのデータ移行**  
+  構造化情報を分析用のスプレッドシート環境へ転送するのに役立ちます。
+
+* **運用データ処理**  
+  文書コンテンツを表形式のレビューやレポートシステムで使用することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スプレッドシートエクスポート**  
+  システムは DOCX ファイルを下流のビジネスワークフロー用に XLS 形式に変換できます。
+
+* **バッチレガシースプレッドシート変換**  
+  Python スクリプトは文書コレクションをプログラムでスプレッドシート出力に処理できます。
+
+* **エンタープライズデータ変換**  
+  文書コンテンツをレポートやアーカイブシステム用の XLS ファイルにエクスポートできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

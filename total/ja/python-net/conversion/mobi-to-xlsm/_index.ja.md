@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MOBI から XLSM への変換は、電子書籍のコンテンツを高度なスプレッドシートワークフローに適したマクロ対応スプレッドシート形式に変換することを可能にします。抽出されたデータがブックレベルの自動化、数式、またはカスタムスクリプト化されたスプレッドシートの動作と連携する必要がある場合に有用です。
+
+最新の自動化システムにおいて、MOBI から XLSM への変換はコンテンツ抽出とスプレッドシート自動化をつなぎ、繰り返し可能な処理、組み込みのビジネスロジック、そしてより高度な運用処理を実現します。データ配信とブック自動化が連携して動作する必要があるワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スプレッドシート配信**
+  MOBI コンテンツを XLSM に変換し、ブック自動化機能に依存するワークフロー向けに提供します。
+
+* **高度なデータ処理**
+  抽出されたデータが数式、ルーチン、またはスクリプト化されたアクションをトリガーするスプレッドシート環境をサポートします。
+
+* **運用ブック統合**
+  マクロ対応スプレッドシートを通じて構造化されたプロセスを管理するチーム向けにコンテンツを準備します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ブック自動化パイプライン**
+  抽出された電子書籍コンテンツがマクロ駆動プロセスに組み込まれるよう、XLSM ファイルを自動的に生成します。
+
+* **ルールベースのスプレッドシート処理**
+  Python 変換とブック自動化を組み合わせ、繰り返しの運用タスクを効率化します。
+
+* **高度なレポートワークフロー**
+  検証とレポート作成のために組み込み自動化を適用したスプレッドシートへ構造化コンテンツを提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

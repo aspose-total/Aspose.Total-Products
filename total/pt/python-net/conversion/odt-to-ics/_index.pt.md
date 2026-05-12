@@ -46,7 +46,47 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT para ICS converte o conteúdo do documento em dados compatíveis com calendários, tornando-o útil para transformar agendas, descrições de eventos ou informações baseadas em tempo em entradas de calendário reutilizáveis. Isso é valioso quando documentos de texto contêm datas, reuniões ou cronogramas estruturados.
+
+Em ambientes automatizados, a conversão de ODT para ICS permite pipelines de agendamento, publicação de eventos e sincronização de calendários. APIs Python podem extrair conteúdo relevante baseado em datas e gerar arquivos de calendário legíveis por máquinas de forma eficiente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Agenda**  
+  Converte datas e detalhes de eventos de documentos em dados prontos para calendário.
+
+* **Distribuição de Reuniões**  
+  Ajuda a compartilhar informações de eventos em um formato adequado para ferramentas de calendário.
+
+* **Digitalização de Cronogramas**  
+  Transforma agendas escritas em artefatos de calendário acionáveis.
+
+* **Suporte ao Fluxo de Trabalho de Planejamento**  
+  Torna o conteúdo de planejamento baseado em documentos mais fácil de reutilizar operacionalmente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automática de Eventos**  
+  Scripts Python podem detectar detalhes de eventos em arquivos ODT e criar saídas ICS.
+
+* **Pipelines de Publicação de Calendário**  
+  Atualizações de documentos podem acionar a regeneração automática de arquivos de agenda compartilhados.
+
+* **Conversão em Lote de Agenda**  
+  Vários documentos de planejamento podem ser transformados em ativos de calendário em escala.
+
+* **Criação de Lembretes de Fluxo de Trabalho**  
+  A extração programática pode alimentar lembretes e sistemas de agendamento automaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

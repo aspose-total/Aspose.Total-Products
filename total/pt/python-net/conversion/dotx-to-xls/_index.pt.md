@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOTX para XLS transforma o conteúdo de modelos Word em um formato de planilha tradicional para edição tabular, revisão e compatibilidade com fluxos de trabalho de planilhas mais antigos. É útil quando os dados derivados de modelos precisam ser reutilizados em ambientes de planilhas amplamente reconhecidos.
+
+Usando APIs Python, essa conversão permite automação escalável para relatórios, transferência de dados e transformação de conteúdo estruturado em sistemas com grande volume de documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Saída de Planilha Legada**
+  Converta o conteúdo do documento para um formato de planilha familiar para fluxos de trabalho estabelecidos.
+
+* **Reuso de Dados Tabulares**
+  Mova informações estruturadas do modelo para um formato de planilha editável.
+
+* **Preparação de Relatórios**
+  Suporte à revisão operacional e analítica usando ferramentas baseadas em planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Planilhas**
+  Produza arquivos XLS a partir de modelos DOTX como parte de trabalhos de relatório recorrentes.
+
+* **Pipelines de Documento para Tabela**
+  Encaminhe o conteúdo do modelo para fluxos de trabalho de planilhas programaticamente.
+
+* **Entrega de Dados Focada em Compatibilidade**
+  Gere saídas adequadas a ambientes que ainda dependem de formatos de planilha mais antigos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

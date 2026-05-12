@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de SXC para WordML converte o conteúdo de planilhas em um formato de processamento de texto baseado em XML que é útil para geração estruturada de documentos, transformação e interoperabilidade em nível de sistema. É especialmente relevante quando o conteúdo do documento deve permanecer legível por máquinas e fácil de integrar em fluxos de trabalho que reconhecem XML.
+
+Com APIs Python, a conversão de SXC para WordML suporta automação escalável ao permitir a criação, validação e transformação programáticas de documentos dentro de sistemas de publicação orientados por dados ou de processamento empresarial.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Documentos Baseada em XML**  
+  Converte os dados da planilha em um formato estruturado adequado para fluxos de trabalho de documentos legíveis por máquinas.
+
+* **Interoperabilidade de Sistema**  
+  Ajuda a integrar o conteúdo do documento em plataformas que processam ou trocam ativos baseados em XML.
+
+* **Gerenciamento de Conteúdo Estruturado**  
+  Suporta controle preciso sobre a composição de documentos para ambientes com alta carga de transformação.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Montagem Programática de Documentos**  
+  Usa APIs Python para gerar saídas WordML que se adequam a pipelines de automação estruturada.
+
+* **Integração de Fluxo de Trabalho XML**  
+  Permite que o conteúdo derivado de planilhas seja encaminhado para sistemas de validação, transformação ou publicação.
+
+* **Processamento Escalável de Dados para Documentos**  
+  Suporta a geração dinâmica de documentos legíveis por máquinas a partir de entradas de planilhas em constante mudança.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

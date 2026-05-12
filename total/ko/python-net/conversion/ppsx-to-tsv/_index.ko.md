@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX를 TSV로 변환하면 프레젠테이션 데이터를 간단하고 가볍으며 구조화된 데이터 교환에 적합한 탭으로 구분된 텍스트 출력으로 변환합니다. 이 형식은 슬라이드 콘텐츠를 추출하여 일반 텍스트 표 형식 입력을 선호하는 시스템에서 처리해야 할 때 유용합니다.
+
+자동화 사용 사례에서는 PPSX를 TSV로 변환하여 신뢰할 수 있는 데이터 이동을 지원하고, 스크립트와 파이프라인으로의 수집을 단순화하며, Python API를 통해 효율적인 대규모 처리를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **표 형식 데이터 내보내기**  
+  구조화된 슬라이드 콘텐츠를 일반 텍스트 표 형식으로 변환합니다.
+
+* **시스템 친화적인 데이터 교환**  
+  구분자 기반 파일을 수용하는 도구에 쉽게 가져올 수 있는 출력을 생성합니다.
+
+* **경량 콘텐츠 변환**  
+  구조화된 처리 작업을 위한 최소 오버헤드 추출을 지원합니다.
+
+* **파이프라인을 위한 데이터 준비**  
+  프레젠테이션 데이터를 프로그래밍 환경에서 사용할 수 있도록 돕습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 텍스트 데이터 추출**  
+  Python API를 사용하여 PPSX 파일을 TSV로 변환함으로써 간소화된 파싱 워크플로를 구현할 수 있습니다.
+
+* **파이프라인 수집 지원**  
+  TSV 출력은 자동화된 ETL 또는 변환 시스템으로 직접 이동할 수 있습니다.
+
+* **대용량 변환 작업**  
+  자동화를 통해 프레젠테이션 콘텐츠를 대규모로 반복 변환하여 표 형식 텍스트로 만들 수 있습니다.
+
+* **도구 간 구조화된 전송**  
+  변환된 파일은 이기종 플랫폼 간 효율적인 이동을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

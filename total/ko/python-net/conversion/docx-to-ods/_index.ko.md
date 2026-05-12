@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX에서 ODS 변환은 워드 프로세싱 문서를 OpenDocument Spreadsheet 파일로 변환하여 구조화되거나 표 형식의 콘텐츠를 스프레드시트 워크플로우에서 재사용할 수 있게 합니다. 이 변환은 데이터 추출 및 오픈 오피스 시스템과의 상호 운용성을 지원합니다.
+
+Python API를 사용하면 DOCX-to-ODS 변환을 자동화된 보고, 분석 및 문서 변환 파이프라인에 통합할 수 있습니다. 이는 조직이 서술형 문서에서 구조화된 데이터를 스프레드시트 기반 프로세스로 이동하는 데 도움을 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="주요 사용 사례" %}}
+
+* **오픈 스프레드시트 내보내기**  
+  구조화된 DOCX 콘텐츠를 오픈 표준에 기반한 스프레드시트 파일로 변환합니다.
+
+* **표형 데이터 추출**  
+  문서의 표와 정리된 콘텐츠를 분석을 위해 재사용할 수 있게 합니다.
+
+* **크로스 플랫폼 데이터 상호 운용성**  
+  오픈 스프레드시트 형식을 사용하는 오피스 제품군과의 호환성을 지원합니다.
+
+* **문서-데이터 워크플로우**  
+  구조화된 정보를 스프레드시트 시스템으로 이동시키는 작업을 촉진합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 데이터 추출 파이프라인**  
+  DOCX 파일을 ODS 스프레드시트로 변환하여 하위 분석 워크플로우에 활용할 수 있습니다.
+
+* **배치 오픈 스프레드시트 생성**  
+  Python 스크립트를 사용해 여러 문서를 처리하고 스프레드시트 파일을 프로그래밍 방식으로 내보낼 수 있습니다.
+
+* **상호 운용 가능한 보고 시스템**  
+  기업 워크플로우가 문서 콘텐츠를 ODS 형식으로 변환하여 더 넓은 접근성을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

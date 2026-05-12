@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から XLSX への変換は、文書ベースの構造化コンテンツを、分析、レポート、データ共有で広く使用される最新のスプレッドシートファイルに変換します。文書の表を編集可能で、数式対応、統合しやすいブックデータにする必要がある場合に特に有用です。
+
+Python API を使用すると、コンテンツを正確に抽出し、文書からスプレッドシートへの変換を自動化パイプラインに統合することで、WordML から XLSX への変換をスケーラブルに実現できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **モダンなスプレッドシートエクスポート**
+  WordML の表を編集、分析、レポート用の XLSX ファイルに変換します。
+
+* **ビジネスデータの準備**
+  構造化された文書コンテンツを、業務および分析ワークフローに適した形にします。
+
+* **クロスシステムデータ交換**
+  文書データをスプレッドシートベースのプラットフォームへ確実に移行できるようサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチブック生成**
+  大規模なワークフロー向けに、WordML 文書を自動的に XLSX ファイルに変換します。
+
+* **レポートと分析の自動化**
+  変換されたスプレッドシートの出力をダッシュボードやレビュー工程に供給します。
+
+* **データ抽出パイプライン**
+  文書の表をブック形式に標準化し、下流の自動化に活用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

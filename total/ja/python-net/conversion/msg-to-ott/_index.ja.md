@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to OTT 変換は、メールメッセージの内容を再利用可能で標準化された文書作成のためのオープンドキュメントテキストテンプレートに変換します。メール由来の構造から繰り返し文書を作成する必要がある場合に有用です。
+
+自動化環境において、MSG to OTT ワークフローは、繰り返し可能な文書組み立て、一貫したフォーマット、スケーラブルなテンプレート管理をサポートします。コミュニケーションパターンを再利用可能な運用資産に変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **オープンテンプレート作成**  
+  メッセージ内容を再利用可能なテンプレートに変換し、繰り返し文書を生成します。
+
+* **一貫した文書レイアウト**  
+  繰り返しのメールコンテンツ構造に基づいてフォーマットを標準化します。
+
+* **テンプレートベースの操作**  
+  コミュニケーション由来のテンプレートから始まる繰り返し可能なワークフローをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **テンプレートライブラリ自動化**  
+  繰り返しの文書作成ニーズのために MSG ファイルから OTT テンプレートを生成します。
+
+* **オープンワークフロー標準化**  
+  オープンドキュメント処理を中心に構築されたシステムで変換されたテンプレートを使用します。
+
+* **スケーラブルな文書組み立て**  
+  再利用可能なテンプレートを自動コンテンツ生成パイプラインに供給します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

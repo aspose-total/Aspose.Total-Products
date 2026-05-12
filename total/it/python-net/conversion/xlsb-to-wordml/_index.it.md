@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da XLSB a WordML trasforma il contenuto binario dei fogli di calcolo in markup di elaborazione testi basato su XML, consentendo la generazione di documenti strutturati nei flussi di lavoro che valorizzano la rappresentazione di documenti leggibili da macchine. Questo è utile quando i dati del foglio di calcolo devono essere convertiti in un formato adatto per l'elaborazione, la trasformazione o l'integrazione di sistemi.
+
+Nei contesti di automazione, la conversione da XLSB a WordML supporta pipeline di documenti scalabili consentendo al contenuto derivato da fogli di calcolo di passare a flussi di lavoro XML strutturati, migliorando l'interoperabilità, il controllo della trasformazione e l'integrazione con sistemi di documenti programmatici.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di documenti basata su XML**  
+  Converte i dati del foglio di calcolo in un formato di markup strutturato per i flussi di lavoro dei documenti.
+
+* **Integrazione di sistema**  
+  Aiuta a collegare il contenuto del foglio di calcolo con ambienti di elaborazione basati su XML.
+
+* **Trasformazione programmatica**  
+  Supporta la gestione avanzata dei documenti dove la struttura leggibile da macchine è importante.
+
+* **Scambio di contenuti strutturati**  
+  Consente alle informazioni derivate dal foglio di calcolo di passare attraverso pipeline di documenti interoperabili.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline di documenti XML**  
+  I sistemi possono convertire i file XLSB in WordML per un'elaborazione automatizzata strutturata.
+
+* **Flussi di lavoro di trasformazione**  
+  Il contenuto del foglio di calcolo può essere rimodellato programmaticamente usando logica di documenti basata su XML.
+
+* **Conversione di markup in blocco**  
+  Molteplici file di fogli di calcolo possono essere trasformati in output WordML su larga scala.
+
+* **Sistemi di automazione interoperabili**  
+  I flussi di lavoro di conversione possono supportare strumenti a valle che consumano markup di documenti strutturati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

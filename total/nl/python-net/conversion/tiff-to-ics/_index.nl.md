@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een TIFF naar ICS-conversiefunctie to
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TIFF‑naar‑ICS‑conversie met Python‑API’s maakt het mogelijk om visuele documentinhoud om te zetten naar kalender‑compatibele gegevensoutput, waarbij de planningscontext wordt afgeleid van op afbeeldingen gebaseerde records. Dit kan nuttig zijn voor afspraakmeldingen, evenementenscans of roosters die moeten worden omgezet in gestructureerde kalendervermeldingen.
+
+Voor automatiseringsinitiatieven ondersteunt TIFF‑naar‑ICS‑conversie een betere integratie van planning, minder handmatige invoer en soepelere coördinatie tussen document‑capturingsystemen en kalender‑workflows. Het maakt beeld‑naar‑evenement‑verwerking mogelijk in omgevingen waar timing en herinneringen operationeel belangrijk zijn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Afspraakdocumentconversie**
+  Converteert TIFF‑gebaseerde roosters of afspraakmeldingen naar kalender‑compatibele uitvoer.
+
+* **Structurering van evenementrecords**
+  Helpt visuele evenementinformatie om te zetten in gestandaardiseerde planningsartefacten.
+
+* **Ondersteuning van herinneringsworkflow**
+  Stelt beeldafgeleide evenementdetails in staat om te worden gebruikt in herinnerings‑ en planningssystemen.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Verwerking van gescande roosters**
+  Automatiseert de conversie van TIFF‑roosters naar ICS‑uitvoer voor kalender‑importworkflows.
+
+* **Automatisering van vergaderingsinname**
+  Ondersteunt het extraheren van evenementgerelateerde documentinhoud en het omzetten naar bruikbare planningsbestanden.
+
+* **Kalendersynchronisatie‑pijplijnen**
+  Stelt programmatische generatie van kalendervermeldingen vanuit beeldgebaseerde operationele documenten mogelijk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

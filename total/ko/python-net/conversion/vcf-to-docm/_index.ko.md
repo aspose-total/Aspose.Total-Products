@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 VCF를 DOCM로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+VCF에서 DOCM으로의 변환은 연락처 카드 데이터를 매크로가 포함된 워드 프로세싱 문서로 변환하여 고급 문서 동작이 필요할 수 있는 구조화된 콘텐츠 전달을 가능하게 합니다. 이는 동적 문서 워크플로와 편집 가능한 출력물을 다루는 조직에 유용합니다.
+
+자동화 중심 시스템에서는 VCF에서 DOCM으로의 변환을 통해 Python API가 연락처 기반 문서를 생성하여 더 큰 프로그래밍 가능한 프로세스에 맞출 수 있습니다. 특히 문서 로직, 반복 가능한 서식 또는 통합 작업이 운영의 일부인 경우에 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **동적 연락처 문서**  
+  VCF 레코드를 편집 가능한 DOCM 파일로 변환하여 고급 문서 워크플로에 활용합니다.
+
+* **구조화된 내부 처리**  
+  매크로가 포함된 문서에 연락처 정보를 준비하여 통제된 비즈니스 사용에 활용합니다.
+
+* **프로그래밍 가능한 문서화**  
+  자동화와 편집 가능한 콘텐츠가 공존해야 하는 문서 환경을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 DOCM 생성**  
+  연락처 파일에서 매크로가 포함된 문서를 일괄 작업으로 생성합니다.
+
+* **규칙 기반 문서 워크플로**  
+  변환된 DOCM 파일을 일관된 서식의 자동화 비즈니스 프로세스로 라우팅합니다.
+
+* **확장 가능한 연락처 패키징**  
+  연락처 데이터를 프로그래밍 방식으로 패키징하여 기업 워크플로에 재사용 가능한 DOCM 출력물로 만듭니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

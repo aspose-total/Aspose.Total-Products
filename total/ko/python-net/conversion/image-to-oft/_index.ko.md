@@ -46,7 +46,53 @@ Python 개발자의 경우 응용 프로그램 내에서 IMAGE를 OFT로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 이미지에서 OFT 변환은 이미지 기반 콘텐츠를 재사용 가능한 이메일 템플릿 파일로 전환하여 일관된 커뮤니케이션 작성을 지원합니다. 이는 반복되는 메시지에 배너, 공지, 브랜드 그래픽 또는 구조화된 이미지 기반 레이아웃과 같은 시각 자료를 포함해야 할 때 유용합니다.
+
+자동화된 워크플로우에서는 이미지를 OFT로 변환함으로써 템플릿 기반 커뮤니케이션을 지원하고, 반복적인 포맷 작업을 줄이며, 출력 일관성을 향상시킵니다. 이는 시각 콘텐츠가 반복적인 운영 또는 비즈니스 시나리오 전반에 걸쳐 재사용되는 확장 가능한 이메일 생성 프로세스를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 커뮤니케이션 템플릿**
+  이미지 기반 레이아웃을 OFT 템플릿으로 변환하여 반복적인 메시징 워크플로우에 활용합니다.
+
+* **시각 공지 표준화**
+  정책 공지, 발표, 또는 홍보 그래픽을 기반으로 일관된 이메일 템플릿을 구축합니다.
+
+* **운영 메시지 준비**
+  이미지 기반 지침이나 참고 자료를 포함하는 템플릿을 생성합니다.
+
+* **고객 접근 일관성**
+  시각 이메일 템플릿을 사용하여 반복적인 상호작용 전반에 걸쳐 일관된 커뮤니케이션을 유지합니다.
+
+* **내부 공지 디자인**
+  이미지 기반 메시지 형식을 팀 전체 커뮤니케이션을 위한 재사용 가능한 템플릿으로 전환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 이메일 자동화**
+  시스템은 이미지 콘텐츠로 만든 OFT 템플릿을 사용해 반복적인 커뮤니케이션을 생성할 수 있습니다.
+
+* **캠페인 워크플로우 지원**
+  이미지 풍부한 템플릿을 한 번 준비하고 예정된 outreach 프로세스 전반에 걸쳐 재사용할 수 있습니다.
+
+* **운영 알림 표준화**
+  시각 자산에서 파생된 재사용 가능한 OFT 출력물을 사용해 일반적인 업데이트 형식을 자동화할 수 있습니다.
+
+* **문서화된 프로세스 커뮤니케이션**
+  팀은 이미지 기반 참고 콘텐츠에서 생성된 템플릿을 사용해 교육용 이메일을 자동화할 수 있습니다.
+
+* **확장 가능한 메시지 개인화**
+  이미지에서 만든 OFT 템플릿은 자동화 워크플로우에서 데이터를 동적으로 채워 넣을 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

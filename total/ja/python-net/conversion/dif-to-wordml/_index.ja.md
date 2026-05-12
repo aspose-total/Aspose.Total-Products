@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における DIF から WordML への変換は、構造化された DIF データを XML ベースの Word 処理文書に変換し、マークアップ指向の文書形式を必要とするシステムに適しています。これは、相互運用性、構造化文書の取り扱い、および XML 表現から利益を得るワークフローに有用です。
+
+Python API により、DIF から WordML への変換は、文書をプログラムで処理、検証、変換する自動化システムにとって効果的になります。構造化されたソースデータが機械可読性の高い構造化文書出力になる必要があるスケーラブルなパイプラインをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **XMLベースの文書生成**
+  構造化された XML 文書形式に依存するワークフロー向けに、DIF ファイルを WordML に変換します。
+
+* **システム統合と相互運用**
+  変換された文書が他の XML 対応システムと連携する必要がある場合に WordML を使用します。
+
+* **マークアップ指向のアーカイブ**
+  文書内容を構造化された保存と処理に適した形式で保持します。
+
+* **プログラムによる文書処理**
+  技術的なワークフローで検査、変換、検証が容易な出力を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **機械可読文書パイプライン**
+  構造化文書の交換を重視するシステム向けに、DIF から WordML への変換を自動化します。
+
+* **XML ワークフロー統合**
+  マークアップベースの資産を処理・変換する Python サービスに変換を組み込みます。
+
+* **大量の構造化出力**
+  DIF ソースから一括で WordML 文書を生成し、一貫したプログラム制御を提供します。
+
+* **検証と変換のチェーン**
+  自動変換を、より大規模な XML 主導の文書処理ワークフローの一ステップとして使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

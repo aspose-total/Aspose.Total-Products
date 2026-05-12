@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to PPT conversion transforms Word content into presentation files that support editing, slide structuring, and visual storytelling. It is useful for repurposing reports, proposals, and knowledge documents into shareable presentation materials.
+
+With Python APIs, DOC to PPT conversion becomes faster and more reliable, enabling teams to automate presentation creation and reduce repetitive design work.
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **ドキュメントからスライドへの再利用**
+  詳細なドキュメントをビジネス用途の編集可能なプレゼンテーションに変換します。
+
+* **会議とトレーニングのサポート**
+  PPT出力を使用して、ドキュメントの洞察をより視覚的な形式で共有します。
+
+* **コンテンツの再利用性**
+  既存のDOCコンテンツをプレゼンテーション資産に変換することで価値を拡張します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **定期的なプレゼンテーション作成**
+  週次または月次のDOCレポートを自動的にPPTファイルに変換します。
+
+* **ワークフローに基づくスライド生成**
+  ドキュメント変換を内部のコンテンツ制作パイプラインに統合します。
+
+* **大規模コンテンツ変換**
+  プログラムでドキュメントライブラリを編集可能なプレゼンテーション出力に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

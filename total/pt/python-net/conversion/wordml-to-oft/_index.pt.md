@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para OFT transforma o conteúdo de documentos em arquivos de modelo de e‑mail que podem ser reutilizados em fluxos de composição de mensagens. Isso é útil para padronizar comunicações recorrentes baseadas em conteúdo de documentos estruturados.
+
+Usando APIs Python, a conversão de WordML para OFT suporta a geração automatizada de modelos, ajudando equipes a converter texto de documentos aprovados em formatos de e‑mail reutilizáveis para maior eficiência operacional.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo de E‑mail**
+  Converte conteúdo WordML em modelos OFT reutilizáveis para mensagens consistentes.
+
+* **Comunicação Padronizada**
+  Ajuda organizações a manter estrutura uniforme em fluxos de trabalho de e‑mail recorrentes.
+
+* **Reutilização de Conteúdo**
+  Transforma conteúdo aprovado em documentos em ativos de comunicação prontos para uso.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Geração de Modelos**
+  Automatiza a criação de arquivos OFT a partir de políticas, documentos de suporte ou de divulgação.
+
+* **Padronização do Fluxo de Trabalho de Mensagens**
+  Suporta sistemas de entrega automatizados que dependem de modelos de e‑mail reutilizáveis.
+
+* **Automação da Governança de Conteúdo**
+  Garante que a linguagem aprovada nos documentos seja convertida em ativos de mensagens operacionais.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

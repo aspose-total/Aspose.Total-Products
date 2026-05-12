@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から FODS への変換は、Word テンプレートのコンテンツを、オープンで構造化されたデータ交換を目的としたフラットな OpenDocument スプレッドシート形式に変換します。オープン標準と可読な XML ベースのスプレッドシート保存を重視するワークフローに有用です。
+
+Python API を使用すると、この変換は自動化をサポートし、生成、検証、スケーラブルなデータ処理システムへの統合が可能な相互運用可能なスプレッドシート文書を作成します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープン スプレッドシート エクスポート**
+  文書のコンテンツをオープンなスプレッドシート形式に変換し、互換性を高めます。
+
+* **構造化 XML ワークフロー**
+  表形式の情報を、透明なデータ処理に適した形式で保持します。
+
+* **標準ベースの交換**
+  オープンドキュメント形式をサポートするシステム間でテンプレートコンテンツの移動を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたオープンフォーマット レポーティング**
+  定期的なレポートジョブで DOTX テンプレートから FODS ファイルを生成します。
+
+* **相互運用可能なデータパイプライン**
+  標準ベースの交換に依存するシステムへオープン スプレッドシートの出力を供給します。
+
+* **スケールでのテンプレート正規化**
+  繰り返し使用される文書構造をプログラムでオープン スプレッドシート資産に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

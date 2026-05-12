@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PowerPoint vers TSV en Python transforme le contenu d’une présentation en un format à valeurs séparées par des tabulations, adapté au traitement de texte structuré et à l’importation dans des feuilles de calcul. Cela est utile lorsque le contenu des diapositives doit être exporté sous une forme tabulaire légère, facile à analyser et à transférer entre systèmes.
+
+Dans les flux de travail d’automatisation, la conversion TSV favorise un échange de données propre, une analyse efficace et une ingestion évolutive dans les systèmes d’analyse ou de traitement de contenu. Elle est particulièrement précieuse lorsque la simplicité et la lisibilité machine sont des priorités.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Export de texte structuré**
+  Convertit les données de la présentation en enregistrements séparés par des tabulations pour une manipulation simplifiée.
+
+* **Préparation à l'importation de feuilles de calcul**
+  Aide à préparer le contenu dérivé des diapositives pour les applications de feuilles de calcul et les outils de données.
+
+* **Échange de données entre systèmes**
+  Prend en charge le transfert portable du contenu de présentation structuré entre les plateformes.
+
+* **Flux de travail d'analyse et de traitement**
+  Facilite l'ingestion de la sortie convertie dans des scripts personnalisés et des outils automatisés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Exportations compatibles avec les pipelines**
+  Automatise la génération de TSV pour les systèmes qui nécessitent des entrées structurées légères.
+
+* **Transformation de données en lot**
+  Prend en charge la conversion de plusieurs présentations en fichiers texte tabulaires à grande échelle.
+
+* **Intégration ETL**
+  Permet au contenu des diapositives d’entrer plus facilement dans les flux de travail d’extraction, de transformation et de chargement.
+
+* **Normalisation du contenu**
+  Aide à standardiser les données de présentation avant le traitement ou le stockage en aval.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

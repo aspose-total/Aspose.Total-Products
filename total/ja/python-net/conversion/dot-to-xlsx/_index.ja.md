@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to XLSX 変換は、ワードプロセッシングテンプレートを分析、共有、構造化された記録保持のための最新のスプレッドシートブックに変換します。これは、文書ベースのコンテンツを現在のビジネスワークフロー向けの編集可能なグリッドベース形式にする必要がある場合に便利です。
+
+Python API を使用すると、DOT から XLSX への変換が効率的かつ再現可能になり、チームがデータ準備を自動化し、システム間統合を改善するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **モダン ワークブック エクスポート**
+  DOT ファイルを XLSX に変換し、レポート作成、レビュー、スプレッドシートでの共同作業に利用します。
+
+* **構造化情報の再利用**
+  文書コンテンツをフィルタリング、数式、整理をサポートするワークシートに移動します。
+
+* **ビジネスワークフロー互換性**
+  テンプレート由来の情報を、業務で広く使用されている最新のスプレッドシート形式で共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動スプレッドシート生成**
+  Python ワークフローは、スケジュールされたレポート作成のために DOT テンプレートから XLSX ファイルを作成できます。
+
+* **データ統合パイプライン**
+  変換により、テンプレートコンテンツを分析および運用システムに供給するのに役立ちます。
+
+* **大量ワークブック生成**
+  プログラムによる処理は、多数の文書から XLSX 出力を大規模に生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

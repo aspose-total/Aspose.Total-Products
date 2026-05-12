@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における POTM から TSV への変換は、マクロ対応のプレゼンテーション コンテンツを構造化データ処理、移行、相互運用性に適したタブ区切りテキストに変換します。プレゼンテーション由来の情報をプレーンテキストの構造化交換を好むシステムへ移行する必要がある場合に有用です。
+
+自動化パイプラインにおいて、POTM から TSV への変換は、Python を用いてコンパクトで機械に優しい出力を生成し、ETL ジョブ、データ取り込みフロー、スケーラブルなバッチ処理にうまく組み込むことで、効率的な処理を実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **構造化テキストエクスポート**
+  プレゼンテーション情報をクリーンなテキストベースの表形式に変換します。
+
+* **データ交換準備**
+  区切りファイルを使用するシステム間で抽出されたコンテンツの移動をサポートします。
+
+* **パイプラインフレンドリー出力**
+  自動パースと変換に適した軽量ファイルを生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **ETL ワークフロー統合**
+  TSV 出力を Python ベースの抽出・変換パイプラインに供給します。
+
+* **大規模バッチ変換**
+  多数の POTM ファイルを構造化テキストに変換し、自動取り込みに利用します。
+
+* **システム相互運用タスク**
+  区切りベースのデータ転送に依存するプラットフォーム向けに定期的なエクスポートをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

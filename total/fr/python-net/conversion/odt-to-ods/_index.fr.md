@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Words for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODT vers ODS convertit le contenu d’un document texte en format OpenDocument Spreadsheet pour une analyse structurée, une édition tabulaire et une gestion des données. Elle est particulièrement utile lorsque les informations du document doivent être extraites en lignes, colonnes et structures de feuille de calcul réutilisables.
+
+Avec les API Python, la conversion ODT vers ODS prend en charge l’analyse évolutive de documents, le traitement de formats ouverts et l’intégration avec des analyses ou des flux de travail opérationnels. Elle permet une gestion efficace du contenu tabulaire dans les systèmes automatisés.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Extraction de feuille de calcul ouverte**  
+  Déplace les tableaux basés sur le document vers un format prêt pour la feuille de calcul.
+
+* **Révision et édition des données**  
+  Facilite l’inspection et la révision du contenu extrait.
+
+* **Gestion structurée des enregistrements**  
+  Prend en charge les flux de travail opérationnels qui reposent sur des données en lignes et colonnes.
+
+* **Traitement de données interopérable**  
+  Aide à connecter les dépôts de documents aux écosystèmes de feuilles de calcul ouvertes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Conversion automatisée de tableaux**  
+  Les flux de travail Python peuvent extraire des sections structurées des fichiers ODT vers des sorties ODS.
+
+* **Traitement par lots de formats ouverts**  
+  Plusieurs documents peuvent être convertis en feuilles de calcul en une seule exécution automatisée.
+
+* **Pipelines de préparation des données**  
+  Le contenu extrait peut être validé et organisé avant l’exportation vers la feuille de calcul.
+
+* **Flux de travail de reporting opérationnel**  
+  Les fichiers ODS convertis peuvent alimenter automatiquement les systèmes de révision, de planification ou d’audit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

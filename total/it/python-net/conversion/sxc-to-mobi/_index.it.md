@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a MOBI trasforma il contenuto derivato da fogli di calcolo in un formato adatto agli eBook, idoneo per la lettura digitale e la distribuzione portatile. È utile quando le informazioni strutturate dei fogli di calcolo devono essere rielaborate come contenuto leggibile a lungo termine per manuali, guide o materiali di riferimento.
+
+In ambienti automatizzati, la conversione da SXC a MOBI con le API Python aiuta a trasformare i dati di origine in pubblicazioni portatili che possono essere generate, aggiornate e distribuite in modo efficiente su larga scala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di guide digitali**  
+  Converte le informazioni dei fogli di calcolo in un formato più adatto per la consegna in stile manuale o handbook.
+
+* **Distribuzione di contenuti portatili**  
+  Aiuta a pubblicare informazioni strutturate per esperienze di lettura offline o ottimizzate per i dispositivi.
+
+* **Confezionamento di materiale di riferimento**  
+  Supporta la trasformazione del contenuto tabellare in documentazione leggibile per gli utenti finali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pubblicazione automatizzata di eBook**  
+  Utilizza le API Python per creare output MOBI da sorgenti SXC nei flussi di lavoro di contenuto ricorrenti.
+
+* **Pipeline di distribuzione della conoscenza**  
+  Consente ai dati strutturati dei fogli di calcolo di essere trasformati automaticamente in formati di lettura portatili.
+
+* **Aggiornamenti dinamici delle pubblicazioni**  
+  Semplifica la rigenerazione del contenuto digitale ogni volta che i dati del foglio di calcolo di origine cambiano.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

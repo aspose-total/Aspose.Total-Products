@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 FLATOPC를 VCF로 변�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FlatOPC를 VCF로 변환하는 Python API를 사용하면 구조화된 문서 내용을 연락처 공유, 가져오기 및 동기화를 지원하는 디지털 연락처 카드 파일로 변환할 수 있습니다. 이는 원본 문서에 사람 또는 조직 세부 정보가 포함되어 있어 연락처 관리 및 커뮤니케이션 시스템에서 재사용해야 할 때 특히 유용합니다.
+
+이 변환은 자동화와 매우 관련이 깊으며, 시스템이 프로그래밍 방식으로 연락처 데이터를 추출하고 표준화할 수 있게 하여 데이터 일관성을 향상하고 수동 입력을 줄이며 확장 가능한 CRM 및 디렉터리 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **연락처 카드 생성**  
+  FlatOPC 콘텐츠를 VCF 파일로 변환하여 휴대 가능하고 표준화된 연락처 공유를 가능하게 합니다.
+
+* **디렉터리 데이터 추출**  
+  변환을 사용하여 문서 기반 연락처 세부 정보를 재사용 가능한 디지털 레코드로 변환합니다.
+
+* **연락처 가져오기 워크플로**  
+  VCF 출력을 준비하여 주소록, 디렉터리 및 커뮤니케이션 플랫폼에 쉽게 삽입할 수 있도록 합니다.
+
+* **구조화된 신원 관리**  
+  원본 문서의 사람 및 조직 정보를 연락처 처리를 위해 설계된 형식으로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **자동화된 연락처 생성**  
+  자동화는 FlatOPC 문서에서 연락처 세부 정보를 추출하고 VCF 파일을 생성함으로써 이 시나리오를 개선합니다.
+
+* **CRM 및 디렉터리 동기화**  
+  이 주제는 표준화된 연락처 카드를 고객 또는 직원 데이터 시스템에 제공함으로써 자동화된 워크플로를 강화합니다.
+
+* **대량 연락처 내보내기**  
+  프로그래밍 방식 프로세스는 문서 저장소에서 최소한의 수동 작업으로 다수의 VCF 파일을 생성할 수 있습니다.
+
+* **동적 온보딩 파이프라인**  
+  자동화 시스템은 온보딩, 이벤트 또는 클라이언트 설정 프로세스의 일환으로 연락처 파일을 생성하고 배포할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

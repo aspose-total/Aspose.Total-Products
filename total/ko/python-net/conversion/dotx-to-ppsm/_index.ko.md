@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX를 PPSM으로 변환하면 Word 템플릿 콘텐츠를 매크로 지원 슬라이드쇼 형식으로 변환하여 고급 자동화 지원이 포함된 직접 프레젠테이션 워크플로에 사용할 수 있습니다. 프레젠테이션 재생과 내장 자동화가 함께 작동해야 하는 경우에 유용합니다.
+
+Python API를 사용하여 이 변환은 프레젠테이션 준비가 된 슬라이드쇼 파일의 생성을 자동화하는 데 도움을 주며, 반복 가능한 콘텐츠 전달과 연계된 보다 고급 워크플로 요구 사항을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 슬라이드쇼**
+  문서 템플릿을 자동화 지원이 포함된 직접 보기 프레젠테이션으로 변환합니다.
+
+* **고급 프레젠테이션 제공**
+  대화형 또는 자동화된 동작에 의존하는 환경을 위해 슬라이드쇼 출력을 준비합니다.
+
+* **구조화된 시각적 재사용**
+  문서 콘텐츠를 프레젠테이션 준비가 된 슬라이드쇼 자산으로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 슬라이드쇼 제작**
+  반복 가능한 전달 워크플로에서 DOTX 템플릿으로부터 PPSM 파일을 생성합니다.
+
+* **워크플로 기반 프레젠테이션 재생**
+  자동화가 필요한 프레젠테이션 시스템에서 변환된 슬라이드쇼 자산을 사용합니다.
+
+* **확장 가능한 시각적 배포**
+  템플릿 콘텐츠에서 매크로 기능이 가능한 슬라이드쇼 생성을 표준화합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

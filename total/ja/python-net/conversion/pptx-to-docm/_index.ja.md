@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から DOCM への変換は、プレゼンテーションのコンテンツを編集可能なテキストと高度なドキュメント自動化機能をサポートするマクロ対応ドキュメント形式に変換します。プレゼンテーション資料を、スクリプト化されたドキュメント動作、テンプレート、または制御された処理に依存するワークフローで再利用する必要がある場合に関連します。
+
+Python API を使用すると、PPTX から DOCM への変換を、コンテンツ変換とマクロ対応ドキュメント処理の両方を必要とする自動化されたエンタープライズワークフローに組み込むことができます。これにより、大量のコンテンツ環境におけるスケーラブルなドキュメント組み立て、フォームベースの処理、そして運用自動化がサポートされます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ対応ドキュメント**
+  スライドのコンテンツを、自動化アクションとスクリプト処理用に設計されたドキュメントに変換します。
+
+* **テンプレートベースのワークフロー**
+  繰り返しの業務タスクをサポートする構造化ドキュメントでプレゼンテーション資料を再利用します。
+
+* **運用フォーム生成**
+  ドキュメントロジックや組み込み自動化を含むワークフロー向けに、プレゼンテーションから派生したコンテンツを準備します。
+
+* **プロセス駆動型レポーティング**
+  プレゼンテーションを、高度なドキュメントライフサイクル管理に適した編集可能なファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化ドキュメント組み立て**
+  コンテンツとマクロロジックを組み合わせたワークフロー向けに、PPTX ファイルを DOCM 出力に変換します。
+
+* **ルールベースのコンテンツ処理**
+  変換されたドキュメントを、スクリプト化された検証や更新を適用するシステムへルーティングします。
+
+* **ビジネスフォーム向けバッチ処理**
+  繰り返し可能な運用プロセス向けに、プレゼンテーションからマクロ対応ファイルを生成します。
+
+* **エンタープライズドキュメント自動化**
+  制御されたドキュメント実行のために、プログラム的変換をより広範なシステムに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

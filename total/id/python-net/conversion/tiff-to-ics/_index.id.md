@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi TIFF ke I
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi TIFF ke ICS menggunakan API Python memungkinkan mengubah konten dokumen visual menjadi output data yang kompatibel dengan kalender, di mana konteks penjadwalan diambil dari catatan berbasis gambar. Ini dapat berguna untuk pemberitahuan janji, pemindaian acara, atau dokumen jadwal yang perlu menjadi entri kalender terstruktur.
+
+Untuk inisiatif otomasi, konversi TIFF ke ICS mendukung integrasi penjadwalan yang lebih baik, pengurangan entri manual, dan koordinasi yang lebih lancar antara sistem penangkapan dokumen dan alur kerja kalender. Ini memungkinkan pemrosesan gambar‑ke‑acara di lingkungan di mana waktu dan pengingat penting secara operasional.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Konversi Dokumen Janji**
+  Mengonversi jadwal atau pemberitahuan janji berbasis TIFF menjadi output yang kompatibel dengan kalender.
+
+* **Strukturisasi Rekam Acara**
+  Membantu mengubah informasi acara visual menjadi artefak penjadwalan standar.
+
+* **Dukungan Alur Kerja Pengingat**
+  Memungkinkan detail acara yang dihasilkan dari gambar digunakan dalam sistem pengingat dan perencanaan.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomasi" %}}
+
+* **Pemrosesan Jadwal yang Dipindai**
+  Mengotomatiskan konversi jadwal TIFF menjadi output ICS untuk alur kerja impor kalender.
+
+* **Otomasi Penerimaan Rapat**
+  Mendukung ekstraksi konten dokumen terkait acara dan mengonversinya menjadi file penjadwalan yang dapat digunakan.
+
+* **Pipa Sinkronisasi Kalender**
+  Memungkinkan pembuatan entri kalender secara programatik dari dokumen operasional berbasis gambar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

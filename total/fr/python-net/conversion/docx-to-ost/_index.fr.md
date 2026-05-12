@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers OST transforme le contenu des documents en un format de données de boîte aux lettres hors ligne associé aux environnements de messagerie synchronisés. Ce processus peut prendre en charge des scénarios où les informations dérivées de documents doivent être intégrées aux archives de communication accessibles hors ligne.
+
+En utilisant les API Python, la conversion DOCX‑vers‑OST peut être intégrée aux systèmes d’archivage d’entreprise, aux flux de migration et aux plateformes d’automatisation de messagerie. Elle permet une transformation programmatique du contenu des documents en structures de stockage orientées boîte aux lettres.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation de données de courrier hors ligne**  
+  Convertit le contenu basé sur les documents en structures de stockage hors ligne compatibles avec la boîte aux lettres.
+
+* **Intégration d’archives de communication**  
+  Permet aux documents d’être intégrés aux flux de travail d’archives de messagerie.
+
+* **Support de migration de données d’entreprise**  
+  Aide à transformer le contenu pour les systèmes qui dépendent des formats de données de boîte aux lettres.
+
+* **Stockage de courrier basé sur les documents**  
+  Prend en charge le stockage d’informations de documents dans un format aligné avec l’accès au courrier hors ligne.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération automatisée d’archives de courrier**  
+  Les systèmes peuvent convertir les documents DOCX en sorties de données orientées OST pour les scénarios d’accès hors ligne.
+
+* **Pipelines de migration de messagerie par lots**  
+  L’automatisation Python peut traiter plusieurs documents pour les intégrer aux flux de travail de stockage de boîtes aux lettres.
+
+* **Flux de travail de rétention d’entreprise**  
+  Le contenu des documents peut être transformé en données de messagerie hors ligne pour les systèmes axés sur la conformité.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

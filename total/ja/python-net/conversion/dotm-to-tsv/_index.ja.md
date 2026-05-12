@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to TSV 変換は、マクロ対応の Word テンプレートをタブ区切り値に変換し、クリーンで構造化されたデータ交換と分析を可能にします。テンプレートの内容を、表形式データを明確かつ効率的に扱えるシンプルなテキストベース形式にエクスポートする必要がある場合に有用です。
+
+DOTM から TSV への変換に Python API を使用すると、ドキュメントから構造化コンテンツを軽量データセットに繰り返し抽出できるため、Automation を支援します。これにより、ETL パイプライン、分析システム、そして大量処理ワークフローとの統合が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **構造化データエクスポート**
+  DOTM のコンテンツを TSV に変換し、表情報をクリーンに転送します。
+
+* **分析準備**
+  ドキュメントベースのデータを、スクリプト、分析、そして大量取り込みに適した形式に移行します。
+
+* **相互運用可能なテキストベース交換**
+  ワークフローが最小限のフォーマットオーバーヘッドでシンプルな構造化出力を必要とする場合に TSV を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動データ抽出**
+  ワークフローは、DOTM テンプレートを TSV ファイルに変換し、手動入力なしで下流処理に利用できます。
+
+* **パイプラインに適した変換**
+  この変換は、軽量な表形式交換フォーマットを好む自動化システムをサポートします。
+
+* **バッチデータセット作成**
+  プログラムジョブにより、多数の DOTM ファイルを TSV 出力にスケーラブルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

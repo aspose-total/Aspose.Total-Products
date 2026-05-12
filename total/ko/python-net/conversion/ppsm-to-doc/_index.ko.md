@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 PPSM을 DOC로 변환하면 매크로가 포함된 슬라이드쇼 콘텐츠를 보다 텍스트 중심의 검토, 보관 및 재사용을 위해 편집 가능한 문서 형식으로 변환할 수 있습니다. 프레젠테이션 자료를 서술형 문서로 재활용하거나 정식 텍스트 편집에 더 적합한 형식으로 변환해야 할 때 유용합니다.
+
+자동화 관점에서 PPSM을 DOC로 변환하는 워크플로는 콘텐츠 이동성을 향상하고 수동 재작성 작업을 줄이며 기업 콘텐츠 파이프라인 전반에 걸쳐 프레젠테이션 자산으로부터 확장 가능한 문서 생성을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **프레젠테이션을 문서로 재활용**  
+  슬라이드 기반 자료를 편집 가능한 텍스트 문서로 변환하여 문서화 및 커뮤니케이션 요구에 대응합니다.
+
+* **콘텐츠 검토 워크플로**  
+  워드 프로세싱 환경에서 슬라이드 콘텐츠를 검토, 주석 달기 및 수정하기 쉽게 만듭니다.
+
+* **아카이브 형식 적응**  
+  문서 기반 저장이 선호되는 레거시 문서 보존 프로세스를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 문서 생성**  
+  Python 워크플로는 PPSM 파일을 DOC 파일로 변환하여 반복 가능한 문서 생성 프로세스를 지원합니다.
+
+* **콘텐츠 마이그레이션 파이프라인**  
+  변환은 프레젠테이션 저장소의 정보를 문서 관리 시스템으로 이동하는 데 도움을 줍니다.
+
+* **템플릿 기반 퍼블리싱**  
+  프로그래밍 방식 처리로 내부 기록이나 편집 워크플로를 위한 형식화된 문서 출력을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

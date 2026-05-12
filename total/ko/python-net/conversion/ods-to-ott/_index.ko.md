@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 OTT 변환은 스프레드시트 파일을 OpenDocument 텍스트 템플릿으로 변환합니다. 이러한 템플릿은 일관된 문서 생성을 위해 재사용 가능한 문서 구조를 가능하게 합니다.
+
+Python API는 개발자가 스프레드시트 콘텐츠에서 템플릿 문서를 자동으로 생성하도록 합니다. 이는 확장 가능한 문서 워크플로와 시스템 전반에 걸친 효율적인 템플릿 관리를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 템플릿 생성**  
+  스프레드시트 구조를 재사용 가능한 문서 템플릿으로 변환합니다.
+
+* **문서 표준화**  
+  템플릿 기반 워크플로를 사용하여 일관된 문서 형식을 보장합니다.
+
+* **콘텐츠 구조화**  
+  표 형식의 스프레드시트 정보를 템플릿 준비 문서로 변환합니다.
+
+* **Open Document 템플릿 관리**  
+  스프레드시트 데이터에서 파생된 표준화된 템플릿을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 생성**  
+  Python 워크플로가 스프레드시트 입력으로부터 문서 템플릿을 생성합니다.
+
+* **배치 템플릿 처리**  
+  시스템이 여러 ODS 파일을 재사용 가능한 문서 템플릿으로 변환합니다.
+
+* **동적 문서 시스템**  
+  템플릿 기반 워크플로가 프로그래밍 방식으로 문서를 생성합니다.
+
+* **워크플로 템플릿 통합**  
+  스프레드시트에서 파생된 템플릿이 자동화된 문서 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

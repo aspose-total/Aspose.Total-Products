@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から DOC への変換は、メールボックスデータを編集可能な Word 互換ドキュメントに変換し、チームがレポート作成、レビュー、構造化された文書化のためにメールコンテンツを再利用できるようにします。メッセージを再フォーマットしたり、注釈を付けたり、より広範な業務記録に組み込む必要がある場合に有用です。
+
+Python API を使用すれば、この変換を自動化でき、文書生成を改善し、手動のコピーペースト作業を削減し、メールアーカイブを再利用可能なオフィス向けコンテンツに変換するスケーラブルなワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **編集可能なメール文書化**
+  アーカイブされたメールを編集可能な文書ファイルに変換し、改訂や書式設定ができるようにします。
+
+* **業務記録の作成**
+  メッセージ内容をレポート、承認、またはレビューに使用される文書に統合します。
+
+* **知識の再利用**
+  重要なメールボックスコンテンツを業務文書で再利用しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート作成**
+  選択したメールを DOC ファイルに変換し、定期的な業務レポートに組み込めるようにします。
+
+* **コンテンツ抽出パイプライン**
+  メールボックスアーカイブを編集可能な文書に変換し、下流のレビュー ワークフローで使用できるようにします。
+
+* **大量オフィス文書作成**
+  Python の自動化を使用して、大規模なメールデータセットから整理された DOC 出力を生成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

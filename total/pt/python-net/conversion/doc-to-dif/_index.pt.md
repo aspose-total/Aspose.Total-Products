@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de documentos para DIF permite que conteúdo baseado em Word seja transferido para um Formato de Intercâmbio de Dados adequado à troca orientada a planilhas e a ambientes legados de processamento de dados. Ajuda as organizações a preservar valores estruturados quando a interoperabilidade com sistemas mais antigos é necessária.
+
+Com APIs Python, a conversão de DOC para DIF pode ser automatizada para exportações de dados repetíveis, reduzindo o esforço manual e melhorando a consistência em fluxos de trabalho de arquivamento, financeiros e de transformação de planilhas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Troca de Planilhas Legadas**
+  Converta tabelas de documentos para DIF, garantindo compatibilidade com ferramentas e sistemas de planilhas mais antigos.
+
+* **Portabilidade de Dados Estruturados**
+  Transfira conteúdo tabular baseado em documentos para um formato adequado à troca controlada de dados.
+
+* **Transformação de Arquivamento**
+  Preserve valores extraídos de documentos em um formato estruturado leve para uso a longo prazo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Integração de Sistemas Legados**
+  Converta automaticamente conteúdo DOC para DIF em ambientes que dependem de padrões de planilhas mais antigos.
+
+* **Conversão em Lote de Tabelas**
+  Processar grandes coleções de relatórios e formulários para DIF sem trabalho manual de copiar e colar.
+
+* **Pipelines de Preparação de Dados**
+  Utilize etapas de conversão scriptadas para transformar tabelas de documentos em arquivos estruturados ingeríveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

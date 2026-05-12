@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX から XLSX への変換は、ワードプロセッシング文書を、データ分析、レポーティング、ビジネスオペレーションで広く使用されている最新のスプレッドシートファイルに変換します。このプロセスは、文書から構造化または表形式の情報を抽出し、最新のワークフローに適したスプレッドシート形式に変換するのに役立ちます。
+
+Python API を使用すると、DOCX から XLSX への変換を自動化された分析システム、レポートパイプライン、エンタープライズデータ変換プロセスに統合できます。デジタルオペレーション全体で文書コンテンツのスケーラブルな抽出と再利用をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **最新のスプレッドシートエクスポート**  
+  DOCX の表や構造化コンテンツを、広く使用されているスプレッドシートファイルに変換します。
+
+* **ビジネスデータの準備**  
+  文書由来の情報を分析・レポーティングシステムに移行するのに役立ちます。
+
+* **文書からスプレッドシートへの変換**  
+  構造化テキストや表を、業務ワークフローで再利用できるようにします。
+
+* **スケーラブルなレポートサポート**  
+  文書を最新のスプレッドシート出力に一貫して変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された XLSX 生成**  
+  システムは DOCX ファイルをスプレッドシート出力に変換し、レポートや分析に利用できます。
+
+* **バッチデータ抽出ワークフロー**  
+  Python スクリプトで複数の文書をプログラム的に XLSX ファイルに変換できます。
+
+* **エンタープライズ統合パイプライン**  
+  文書コンテンツをスプレッドシートシステムにエクスポートし、ビジネスインテリジェンスのワークフローに活用できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

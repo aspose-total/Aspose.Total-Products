@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 TIFF를 OST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 TIFF에서 OST로의 변환은 이미지 기반 문서 콘텐츠를 오프라인 이메일 액세스 및 동기화 워크플로에 사용되는 메일박스 지향 데이터 구조로 변환하는 것을 지원합니다. 이는 TIFF에서 파생된 레코드가 기업 커뮤니케이션 환경에서 사용되는 이메일 저장 모델에 맞춰야 할 때 관련될 수 있습니다.
+
+자동화와 확장성을 위해, TIFF에서 OST로의 변환은 문서 기반 커뮤니케이션 자산을 중앙 집중화하고, 메일박스 기반 처리를 지원하며, 동기화된 환경 전반에 걸쳐 운영 연속성을 향상시키는 데 도움이 됩니다. 이는 스캔된 콘텐츠와 관리되는 메시징 시스템 간의 통합을 개선하는 데 기여합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오프라인 메일 데이터 준비**
+  TIFF에서 파생된 콘텐츠를 오프라인 메일박스 워크플로에 맞는 형식으로 변환합니다.
+
+* **기업 커뮤니케이션 지원**
+  이미지 기반 레코드를 구조화된 메시징 환경과 통합하는 데 도움이 됩니다.
+
+* **동기화된 레코드 처리**
+  시각적 콘텐츠가 관리되는 메일박스 생태계에 맞춰야 하는 사용 사례를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **메일박스 동기화 파이프라인**
+  오프라인 및 동기화된 메일 워크플로를 위해 TIFF 기반 콘텐츠 준비를 자동화합니다.
+
+* **문서 중심 커뮤니케이션 시스템**
+  스캔된 입력을 프로그래밍 방식으로 구조화된 기업 메시징 프로세스에 제공할 수 있게 합니다.
+
+* **운영 데이터 통합**
+  이미지에서 파생된 정보를 메일박스에 맞춘 구조에 배치하는 대규모 변환 흐름을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OFT a DOCM usando le API Python consente di trasformare i modelli di email Outlook in documenti Word con macro per flussi di lavoro documentali avanzati. Questo è importante quando il contenuto convertito deve essere combinato con logica di automazione, azioni scriptate o comportamenti personalizzati del documento.
+
+Questa conversione supporta ambienti focalizzati sull'automazione collegando contenuti email riutilizzabili a processi documentali programmabili. Aiuta le organizzazioni a standardizzare le operazioni basate su modelli migliorando flessibilità, ripetibilità e controllo del flusso di lavoro.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di documenti con macro**  
+  Converti i modelli OFT in file DOCM per flussi di lavoro che richiedono logica di automazione incorporata.
+
+* **Riutilizzo avanzato dei modelli**  
+  Riutilizza il contenuto delle email all'interno di documenti che supportano azioni di elaborazione personalizzate.
+
+* **Documentazione aziendale strutturata**  
+  Usa gli output DOCM quando il contenuto basato su email deve alimentare sistemi documentali dinamici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Flussi di azione documentale automatizzati**  
+  Combina il contenuto del modello convertito con processi abilitati alle macro per attività aziendali ripetitive.
+
+* **Trasformazione da modello a flusso di lavoro**  
+  Trasforma i file OFT in documenti DOCM che partecipano alla gestione documentale basata su regole.
+
+* **Supporto alla reportistica programmatica**  
+  Genera file con macro dai modelli di email per routine di documenti popolati con dati o controllati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

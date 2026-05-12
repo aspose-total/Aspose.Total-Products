@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML から PST への変換は、文書由来のコンテンツをメールボックスのデータ整理や移行に使用されるパーソナルストレージテーブルワークフローへ変換することをサポートします。文書情報を大規模なメールストレージやアーカイブ操作に組み込む必要がある場合に関連します。
+
+Python API は、エンタープライズコミュニケーション環境において、スケーラブルなメッセージおよびアーカイブ作成のためにコンテンツを構造化することで、WordML から PST への処理を支援できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **メールボックスアーカイブの準備**
+  文書コンテンツを個人メールストレージワークフローのソース素材として使用します。
+
+* **移行および保持サポート**
+  構造化テキストをアーカイブ指向のコミュニケーションシステムに統合するのに役立ちます。
+
+* **エンタープライズコンテンツ統合**
+  メールボックス中心のプロセスで文書由来のレコードをパッケージ化することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **アーカイブ準備パイプライン**
+  大規模なストレージワークフロー向けに WordML コンテンツの変換を自動化します。
+
+* **メールデータ統合**
+  文書ベースのコミュニケーションをアーカイブ操作に繰り返し統合することをサポートします。
+
+* **保持プロセスの自動化**
+  システム全体で文書からメールボックスへのコンテンツ準備を標準化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

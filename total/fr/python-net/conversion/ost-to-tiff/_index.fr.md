@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OST vers TIFF transforme le contenu d’une boîte aux lettres en un format d’image de haute qualité couramment utilisé dans les flux de travail d’archivage, de numérisation et de préservation de documents. Elle est utile pour les organisations qui ont besoin de représentations durables et basées sur l’image des enregistrements de courriels.
+
+Les API Python prennent en charge la conversion évolutive d’OST vers TIFF pour des opérations automatisées de préservation, de conformité et d’imagerie. Cela aide à maintenir une qualité de sortie constante tout en permettant une intégration efficace avec les systèmes d’archivage et de gestion documentaire.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préservation d'images d'archives**  
+  Convertit le contenu de la boîte aux lettres en TIFF pour un stockage durable et d’une haute fidélité.
+
+* **Imagerie de conformité**  
+  Prend en charge les flux de travail de conservation qui reposent sur des normes de préservation basées sur l’image.
+
+* **Support d'examen de documents**  
+  Aide les équipes à examiner les enregistrements de courriels sous forme d’images statiques dans des environnements contrôlés.
+
+* **Sortie d'enregistrements compatible avec le système**  
+  Permet au contenu de la boîte aux lettres de s’adapter aux plateformes d’imagerie et d’archivage.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Automatisation du pipeline de préservation**  
+  Des scripts Python convertissent les archives OST en TIFF pour une gestion à long terme des enregistrements.
+
+* **Intégration du flux de travail d'imagerie**  
+  Les systèmes automatisés préparent les visuels dérivés de la boîte aux lettres pour les plateformes d’archivage de documents.
+
+* **Traitement de conformité à haut volume**  
+  La conversion programmatique prend en charge la génération évolutive d’enregistrements de communication basés sur l’image.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

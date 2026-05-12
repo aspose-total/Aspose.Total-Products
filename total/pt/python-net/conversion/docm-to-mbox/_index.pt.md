@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOCM para MBOX converte documentos habilitados para macro em saída de armazenamento no estilo de caixa de correio, facilitando o agrupamento, arquivamento ou migração de comunicações baseadas em documentos em sistemas orientados a e‑mail. Isso é valioso quando o conteúdo do documento deve ser preservado dentro de repositórios de mensagens agrupadas.
+
+Para automação e escala, os fluxos de trabalho de DOCM para MBOX suportam arquivamento em lote, empacotamento de comunicações e transferência de conteúdo derivado de documentos para sistemas de retenção centrados em caixas de correio.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Arquivamento de Caixa de Correio**
+  Preserva o conteúdo derivado de documentos dentro de arquivos de contêiner de caixa de correio para armazenamento de longo prazo.
+
+* **Empacotamento de Coleta de Mensagens**
+  Suporta o agrupamento de comunicações convertidas relacionadas em um arquivo consolidado.
+
+* **Suporte à Migração**
+  Ajuda a mover o conteúdo de comunicação baseada em documentos para ambientes de arquivamento de e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Arquivo**
+  Converte arquivos DOCM em saídas MBOX para fluxos de trabalho de retenção programados.
+
+* **Preparação de Repositório de Correio em Massa**
+  Empacota o conteúdo derivado de documentos em arquivos de caixa de correio em grandes conjuntos de dados.
+
+* **Pipelines de Armazenamento Programático**
+  Integra a conversão de documentos com sistemas de arquivamento e orientados à conformidade.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

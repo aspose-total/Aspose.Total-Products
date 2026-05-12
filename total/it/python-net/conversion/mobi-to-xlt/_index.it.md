@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da MOBI a XLT in Python consente di trasformare il contenuto di ebook in un formato di modello di foglio di calcolo utilizzato per la creazione ripetibile di cartelle di lavoro. Questo è utile quando i risultati strutturati devono seguire un layout fisso, formule predefinite o un design di reportistica standardizzato.
+
+Nei flussi di lavoro di automazione, la conversione da MOBI a XLT aiuta le organizzazioni a creare modelli di foglio di calcolo coerenti a partire da fonti di contenuto estratte. Supporta la standardizzazione, riduce lo sforzo di formattazione ripetitiva e consente la generazione scalabile di documenti strutturati basati su schemi uniformi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Report basato su modello**
+  Converti il contenuto MOBI in XLT per i flussi di lavoro che richiedono layout di fogli di calcolo ripetibili.
+
+* **Progettazione di cartelle di lavoro standardizzate**
+  Utilizza l'output del modello per preservare la struttura, la formattazione e un'organizzazione coerente dei fogli di lavoro.
+
+* **Creazione di documenti orientata al processo**
+  Supporta i team che generano più istanze di fogli di calcolo da una base di modello comune.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione ricorrente di modelli**
+  Crea automaticamente file XLT dai dati derivati da MOBI per cicli di reportistica ripetuti.
+
+* **Pipeline di standardizzazione del formato**
+  Utilizza l'automazione Python per garantire che ogni foglio di calcolo convertito segua lo stesso modello strutturale.
+
+* **Produzione scalabile di cartelle di lavoro**
+  Alimenta gli output basati su modello in sistemi che generano documenti operativi standardizzati su larga scala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

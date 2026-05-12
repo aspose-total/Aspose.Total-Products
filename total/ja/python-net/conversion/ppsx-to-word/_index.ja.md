@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX から Word への変換は、プレゼンテーション資料を、詳細な編集、レビュー、正式な配布により適したワードプロセッシング文書形式に変換します。スライドベースの要約やビジュアルコンテンツを、文書化やビジネスコミュニケーション向けのテキスト中心のファイルにする必要がある場合に便利です。
+
+自動化された環境では、PPSX から Word への変換によりコンテンツの再利用が向上し、手動のコピー＆ペースト作業が削減され、Python API を通じてスケーラブルなプレゼンテーションから文書へのワークフローが実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ドキュメント中心のコンテンツ再利用**  
+  スライド情報を、執筆や編集により適した形式に変換します。
+
+* **正式な文書作成**  
+  プレゼンテーションをレポート、記録、ナラティブ文書に再利用するのに役立ちます。
+
+* **レビューとコラボレーションの支援**  
+  コンテンツを編集や承認のために回覧しやすくします。
+
+* **運用コンテンツの配布**  
+  文書主導のワークフローで、プレゼンテーション由来の情報共有をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Word ファイル生成**  
+  Python API を使用して、PPSX コンテンツを繰り返し必要とされる Word 互換文書に変換できます。
+
+* **大量文書処理**  
+  自動化により複数のプレゼンテーションを処理し、文書出力を効率的に生成できます。
+
+* **コンテンツ移行ワークフロー**  
+  変換されたファイルは、ストレージ、レビュー、または出版システムに取り込むことができます。
+
+* **プログラムによるレポート作成**  
+  プレゼンテーション資料を手動介入なしで編集可能な文書に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

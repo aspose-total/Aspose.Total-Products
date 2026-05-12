@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para WordML nas APIs Python converte o conteúdo da caixa de correio em uma representação Word baseada em XML que suporta processamento estruturado e interoperabilidade de documentos. É útil em fluxos de trabalho técnicos onde o conteúdo derivado de e‑mail deve ser preservado em um formato orientado a marcação para transformação ou integração.
+
+Para automação, a conversão de PST para WordML ajuda a conectar arquivos de caixa de correio com sistemas de documentos baseados em XML e pipelines de processamento baseados em regras. Ela suporta manipulação, inspeção e troca escaláveis de conteúdo de documentos estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Representação de Documento XML**
+  Converte o conteúdo PST em WordML para manipulação estruturada de documentos.
+
+* **Troca de Conteúdo Interoperável**
+  Ajuda a mover arquivos derivados da caixa de correio através de sistemas e fluxos de trabalho baseados em marcação.
+
+* **Estrutura de Documento Inspecionável**
+  Suporta processos técnicos que se beneficiam de marcação de documento legível.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Integração de Fluxo de Trabalho XML**
+  Sistemas automatizados podem processar a saída WordML para tarefas de validação ou transformação.
+
+* **Pipelines de Documentos Estruturados**
+  Dados de caixa de correio convertidos podem fluir para processos empresariais centrados em marcação.
+
+* **Manipulação Programática de Conteúdo**
+  WordML permite a transformação escalável de documentos derivados de e‑mail por meio de código.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

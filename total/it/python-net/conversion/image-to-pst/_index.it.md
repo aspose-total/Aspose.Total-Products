@@ -46,7 +46,53 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da immagine a PST tramite le API Python consente la conversione del materiale di comunicazione basato su immagini in file di dati di cassette postali portatili che possono memorizzare grandi insiemi di contenuti di messaggi strutturati. Questo è prezioso per l'archiviazione, la migrazione e la gestione dei dati aziendali, dove i record visivi devono essere conservati all'interno di repository di comunicazione consolidati.
+
+In ambienti focalizzati sull'automazione, questa conversione supporta l'imballaggio di dati ad alto volume, la conservazione basata su policy e una gestione efficiente del ciclo di vita della comunicazione. Aiuta i sistemi moderni a trasformare file visivi isolati in contenuti di cassette postali organizzati, più facili da cercare, archiviare e trasferire.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Archiviazione della comunicazione aziendale**
+  Converti contenuti di messaggi basati su immagini in file PST per l'archiviazione centralizzata a lungo termine.
+
+* **Imballaggio di record storici in blocco**
+  Consolida le risorse di comunicazione visiva in repository di cassette postali portatili.
+
+* **Supporto alla migrazione e al trasferimento**
+  Prepara i dati di comunicazione derivati da immagini per il trasferimento tra sistemi di archiviazione o di messaggistica.
+
+* **Raggruppamento di dati per casi e dipartimenti**
+  Raggruppa i record visivi correlati in file di cassette postali strutturati per un accesso controllato.
+
+* **Archiviazione orientata alla conformità**
+  Conserva la corrispondenza basata su immagini in un formato di archivio adatto a esigenze di revisione e conservazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Generazione di archivi su larga scala**
+  I flussi di lavoro automatizzati possono raccogliere record basati su immagini e generare output PST in blocco.
+
+* **Esecuzione della policy di conservazione**
+  I sistemi possono convertire e impacchettare i dati di comunicazione visiva secondo i programmi di archiviazione.
+
+* **Automazione del flusso di migrazione**
+  Il contenuto dei messaggi derivati da immagini può essere strutturato in file di cassette postali portatili durante le transizioni di piattaforma.
+
+* **Creazione di repository centralizzati**
+  I record di immagini distribuiti possono essere uniti in archivi PST consolidati automaticamente.
+
+* **Processi di preparazione per audit**
+  Le prove di comunicazione visiva possono essere impacchettate programmaticamente per una revisione e recupero organizzati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de texto para EMLX usando APIs Python transforma texto simples em arquivos de mensagem de e‑mail projetados para ambientes que utilizam armazenamento no estilo EMLX. Isso é útil para preservação de mensagens, fluxos de trabalho de e‑mail específicos de aplicativos e tratamento estruturado de correspondência baseada em texto.
+
+A conversão suporta automação ao permitir que o conteúdo de texto seja preparado programaticamente para armazenamento de e‑mail especializado, tarefas de migração e processos de geração de mensagens orientados por sistema que exigem consistência e eficiência.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Armazenamento Estruturado de E‑mail**  
+  Converte texto em arquivos de mensagem compatíveis com EMLX para retenção e recuperação organizadas.
+
+* **Suporte à Migração de Caixa de Correio**  
+  Ajuda a preparar conteúdo de mensagens derivado de texto para sistemas que dependem de formatos no estilo EMLX.
+
+* **Empacotamento Automatizado de Mensagens**  
+  Permite que o conteúdo de texto simples seja encapsulado em uma estrutura de arquivo de e‑mail utilizável.
+
+* **Criação de Registro de Fluxo de Trabalho**  
+  Suporta a preservação de comunicações de texto geradas em um formato de arquivo orientado a mensagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Preparação para Migração**  
+  A automação pode converter grandes volumes de conteúdo de texto em arquivos EMLX para fluxos de trabalho de transição.
+
+* **Criação de Mensagens Orientada por Aplicação**  
+  Os sistemas podem gerar saídas compatíveis com EMLX diretamente de fontes de texto dinâmicas.
+
+* **Pipelines de Processamento de Arquivamento**  
+  Registros baseados em texto podem ser transformados em arquivos de mensagem estruturados para processos automatizados de retenção.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

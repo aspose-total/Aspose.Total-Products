@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 XLSX로 변환하면 OpenDocument 텍스트 템플릿을 분석, 보고 및 구조화된 데이터 재사용을 위한 최신 스프레드시트 워크북으로 변환합니다. 이는 문서 내용이 표 형식으로 널리 접근 가능하고 편집 가능해야 할 때 가장 실용적인 변환 중 하나입니다.
+
+이 변환은 템플릿에서 워크북 출력을 반복적으로 생성할 수 있게 함으로써 자동화를 지원하며, 문서에서 파생된 내용을 데이터 파이프라인, 감사 및 보고 작업에 쉽게 통합할 수 있도록 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **현대 스프레드시트 생성**  
+  텍스트 기반 템플릿에서 최신 워크북 파일을 생성합니다.
+
+* **비즈니스 분석 준비**  
+  정보를 정렬, 필터링, 계산 및 검토하기 쉽게 만듭니다.
+
+* **광범위한 워크플로 호환성**  
+  스프레드시트 기반 협업 및 데이터 교환을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **정기적인 워크북 생성**  
+  OTT 파일을 주기적으로 XLSX 출력으로 변환합니다.
+
+* **템플릿-보고 파이프라인**  
+  생성된 스프레드시트를 보고 및 분석 워크플로에 전달합니다.
+
+* **프로그래밍 방식 데이터 패키징**  
+  팀이나 시스템을 위한 구조화된 워크북 전달물을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

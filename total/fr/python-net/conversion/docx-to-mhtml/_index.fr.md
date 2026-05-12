@@ -53,7 +53,44 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOCX vers MHTML transforme les documents de traitement de texte en fichiers d'archive web qui regroupent le contenu HTML et les ressources associées dans un seul fichier. Ce format préserve la structure du document tout en permettant une visualisation via le web.
+
+Les API Python permettent d'intégrer la conversion DOCX‑vers‑MHTML dans des systèmes de publication automatisés, des flux de travail d'archivage web et des plateformes de partage de documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Génération d'archives web**  
+  Convertit les documents DOCX en archives web à fichier unique.
+
+* **Publication web de documents**  
+  Permet de partager le contenu du document sous forme de fichiers compatibles web.
+
+* **Visualisation hors ligne des documents**  
+  Permet de visualiser les documents sans dépendances externes.
+
+* **Préservation du contenu**  
+  Conserve la mise en forme et les ressources dans un seul fichier d'archive.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Exportation automatisée d'archives web**  
+  Les systèmes peuvent convertir automatiquement les fichiers DOCX en archives MHTML.
+
+* **Pipelines de publication de documents en lot**  
+  Les scripts Python peuvent générer des fichiers d'archive web à partir de documents.
+
+* **Systèmes de distribution de contenu**  
+  Les documents peuvent être convertis dynamiquement en formats d'archive compatibles web.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

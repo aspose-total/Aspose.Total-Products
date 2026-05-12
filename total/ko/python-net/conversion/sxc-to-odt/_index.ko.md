@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 ODT로의 변환은 스프레드시트 콘텐츠를 편집 가능한 문서화, 보고 및 상호 운용 가능한 텍스트 기반 워크플로에 적합한 오픈 문서 텍스트 형식으로 변환합니다. 조직이 유연한 문서 출력을 원하면서도 오픈 표준과의 호환성을 유지하고자 할 때 실용적인 선택입니다.
+
+Python API를 사용하여 SXC에서 ODT로의 변환은 보고, 기록 보관 및 콘텐츠 준비를 위해 스프레드시트 소스에서 편집 가능한 문서를 자동으로 생성함으로써 워크플로 효율성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 문서 보고**  
+  스프레드시트 데이터를 오픈 문서 워크플로에 맞는 편집 가능한 보고서로 변환합니다.
+
+* **상호 운용 가능한 문서화**  
+  조직이 오픈 표준을 지원하는 시스템 간에 문서 출력을 공유하도록 돕습니다.
+
+* **편집 가능한 기록 생성**  
+  검토, 수정 및 보관이 용이한 문서 준비를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 워크플로 자동화**  
+  Python API를 사용하여 표준화된 파이프라인에서 SXC 소스로부터 ODT 파일을 자동으로 생성합니다.
+
+* **콘텐츠 변환 시스템**  
+  스프레드시트 기반 콘텐츠가 문서 중심의 검토 및 편집 워크플로로 이동하도록 합니다.
+
+* **확장 가능한 문서 출력**  
+  최소한의 수동 개입으로 대량의 편집 가능한 오픈 포맷 문서를 생성하는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

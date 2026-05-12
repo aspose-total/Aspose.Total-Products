@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から DOTM への変換は、スプレッドシート情報を再利用可能で自動化に適した文書生成を目的とした、マクロ対応の文書テンプレート形式に変換します。組織が埋め込みロジックや高度な動作を備えた繰り返し使用できるテンプレートを必要とする場合に特に有用です。
+
+Python API を使用して、SXC から DOTM への変換は、構造化されたスプレッドシート入力と再利用可能なテンプレートアーキテクチャを組み合わせることで、スケーラブルかつ制御された文書生成のための自動化パイプラインを強化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **マクロ対応テンプレート**  
+  スプレッドシートの内容が変換された後に自動化アクションをサポートする再利用可能なテンプレートを作成します。
+
+* **高度な文書ワークフロー**  
+  構造とスクリプト機能の両方を必要とする文書のためのテンプレートシステム構築を支援します。
+
+* **繰り返し可能な出力設計**  
+  一貫したレイアウトとプロセス対応の動作で、定期的な文書生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート展開**  
+  繰り返しの運用で使用できるよう、Python ワークフローを通じて DOTM テンプレートを生成します。
+
+* **スクリプト化された文書生成**  
+  埋め込み自動化ロジックを含むテンプレートから、下流システムが文書を作成できるようにします。
+
+* **エンタープライズプロセスの標準化**  
+  構造と自動化の両方が重要な大量文書作成において、一貫性を向上させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX to RTF 変換は、プレゼンテーション資料を編集可能性と広範な互換性のバランスが取れたポータブルなリッチテキスト形式に変換します。スライドコンテンツをテキストベースのシステムで再利用したり、混在環境間で交換したり、柔軟な文書構造で保存したりする場合に便利です。
+
+Python API を使用すれば、PPTX から RTF への変換を自動化でき、コンテンツの移行、クロスプラットフォーム共有、文書処理の簡素化をサポートします。これにより、プレゼンテーションコンテンツを軽量でありながら書式付きのテキスト資産に変換し、スケーラブルな処理に適した形で効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **クロスプラットフォーム文書交換**
+  スライドコンテンツを多くのテキストエディタや文書ツールで開くことができる形式に変換します。
+
+* **リッチテキストの再利用**
+  プレゼンテーション資料を編集可能なテキスト文書に移行する際に、基本的な書式を保持します。
+
+* **レガシーワークフロー互換性**
+  処理や保存のためにシンプルな文書標準に依存する環境をサポートします。
+
+* **コンテンツの保存**
+  ドキュメント用にスライド素材を再利用する際に、可読性のある書式を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テキスト変換パイプライン**
+  プレゼンテーションから RTF ファイルを自動的に生成し、下流の互換システムで使用できるようにします。
+
+* **アーカイブ再フォーマット**
+  長期的なアクセス性のために、PPTX ファイルを一括でポータブルなテキスト文書に変換します。
+
+* **混在環境での公開**
+  さまざまな文書ツールが共通のテキスト形式を必要とする場合に、プログラムによる変換を使用します。
+
+* **文書交換の自動化**
+  プレゼンテーションワークフローとテキストベースのシステム間のコンテンツ共有を効率化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

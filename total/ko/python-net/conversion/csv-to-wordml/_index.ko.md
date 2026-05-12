@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+CSV to WordML 변환을 Python API로 수행하면 구조화된 표형 데이터를 XML 기반 워드 프로세싱 문서로 변환할 수 있어 구조화된 퍼블리싱 및 시스템 친화적인 문서 처리를 지원합니다.  
+이 변환은 자동화에 특히 유용한데, 기계가 읽을 수 있는 문서 출력을 생성하여 변환 파이프라인, 검증 단계 및 확장 가능한 콘텐츠 시스템과 원활하게 통합됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구조화된 XML 문서 출력**  
+  CSV 데이터를 WordML 파일로 변환하여 XML 기반 문서 구조의 이점을 누리는 워크플로에 활용합니다.
+
+* **시스템-문서 통합**  
+  문서가 변환, 검증 또는 처리 파이프라인에 맞춰야 할 때 WordML 출력을 생성합니다.
+
+* **데이터 기반 퍼블리싱 워크플로**  
+  표형 CSV 입력을 구조화된 WordML 문서로 변환하여 반복 가능한 콘텐츠 생성을 지원합니다.
+
+* **교환 가능한 문서 처리**  
+  통합이 많은 환경에서 제어된 문서 처리를 지원하는 WordML 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 XML 문서 생성**  
+  Python API를 사용하여 CSV 데이터세트를 WordML 파일로 변환하고 구조화된 퍼블리싱 워크플로에 활용합니다.
+
+* **파이프라인 지향 콘텐츠 변환**  
+  CSV를 WordML로 변환을 자동화 시스템에 통합하여 기계가 읽을 수 있는 문서 출력을 필요로 합니다.
+
+* **대량 구조화 문서 내보내기**  
+  다수의 CSV 파일을 일관성 있게 WordML 형식으로 변환하고 최소한의 수동 개입으로 처리합니다.
+
+* **규칙 기반 XML 조립**  
+  CSV 콘텐츠를 기반으로 WordML 문서를 프로그래밍 방식으로 구성하여 확장 가능한 자동 처리을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

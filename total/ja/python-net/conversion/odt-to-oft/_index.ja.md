@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から OFT への変換は、文書コンテンツを繰り返し使用できるメールテンプレート形式に変換し、定期的なコミュニケーションワークフローで再利用できます。これは、標準化された文書コンテンツを通知、アウトリーチ、または運用メッセージング向けの繰り返し可能なメッセージテンプレートにする必要がある場合に有用です。
+
+Python API は、一貫性、速度、テンプレートの再利用が重要な自動化システムにおいて ODT から OFT への変換を可能にします。これにより、静的なコンテンツをスケーラブルなワークフロー向けの繰り返し使用できるコミュニケーション資産に変換することができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **再利用可能なメールテンプレート作成**  
+  文書コンテンツを繰り返しメッセージングに適した形式に変換します。
+
+* **標準化されたコミュニケーション**  
+  定期的なアウトリーチや通知において、一貫した文言を確保するのに役立ちます。
+
+* **ワークフローテンプレート管理**  
+  事前定義された構造に依存する運用メッセージングプロセスをサポートします。
+
+* **メッセージングのためのコンテンツ再利用**  
+  正式な文書テキストをコミュニケーションテンプレートとして再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート生成パイプライン**  
+  Python の自動化により、承認された ODT ファイルを繰り返し使用できる OFT テンプレートに変換できます。
+
+* **通知ワークフローサポート**  
+  システムはソース文書から標準化されたテンプレートを自動的に生成できます。
+
+* **大量テンプレート作成**  
+  複数の文書バリエーションを再利用可能なメッセージング資産に変換できます。
+
+* **動的メッセージ組み立て**  
+  ODT コンテンツから派生したテンプレートは、パラメータ駆動のコミュニケーションワークフローをサポートできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から DIF への変換は、マクロ対応ドキュメントを、レガシーシステムと分析システム間の構造化テーブル交換に適したデータ交換フォーマットに変換します。これは、ドキュメント内のデータを、古いスプレッドシートやデータベースのワークフローと互換性のある形式で保持する必要がある場合に有用です。
+
+自動化の観点から、DOCM から DIF への変換は、インポートや照合のために標準化された表形式の交換フォーマットに依存するシステムへ、構造化コンテンツを繰り返し転送することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **レガシーデータ交換**
+  ドキュメントのテーブルを、古いスプレッドシートやエンタープライズツールに適した形式に変換します。
+
+* **構造化レコード移行**
+  DOCM ドキュメントからデータを、交換指向フォーマットに依存するシステムへ移行するのに役立ちます。
+
+* **表形式の保持**
+  ドキュメント内容を他の場所で再利用する必要がある場合に、行と列の構造を保持します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたデータ変換**
+  DOCM ファイルから DIF への定期的なエクスポートを自動化し、運用の一貫性を確保します。
+
+* **レガシーワークフロー統合**
+  古い財務、管理、またはレポート環境への自動ハンドオフをサポートします。
+
+* **大量ドキュメント正規化**
+  複数のソースドキュメントを、下流処理用の共通構造化フォーマットに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

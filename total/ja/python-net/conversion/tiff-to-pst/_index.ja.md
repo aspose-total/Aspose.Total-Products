@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した TIFF から PST への変換により、組織は画像ベースの文書を、保存、転送、長期的なコミュニケーション管理に使用されるポータブルなメールボックス アーカイブ形式に変換できます。これは、エンタープライズ ワークフロー全体でスケール可能な構造化アーカイブ コンテナ内で TIFF 由来の記録を保存するのに特に有用です。
+
+自動化システムにおいて、TIFF から PST への変換はアーカイブの一貫性を向上させ、手動での統合作業を削減し、視覚的記録をポータブルなメール データ ストアへ確実に移行することを支援します。これは、移行、コンプライアンス、歴史的記録管理のシナリオに非常に適しています。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **ポータブル アーカイブ作成**
+  TIFF コンテンツを PST 互換のアーカイブに変換し、ポータブルなメールボックス ストレージに保存します。
+
+* **長期記録保持**
+  画像由来のコミュニケーション資産を構造化されたアーカイブ コンテナ内で保存するのに役立ちます。
+
+* **移行ワークフロー支援**
+  文書記録をアーカイブベースのメール環境への転送のために準備できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケールでのアーカイブ生成**
+  エンタープライズの保持ワークフロー向けに、TIFF バッチを PST 出力に自動変換します。
+
+* **コンプライアンス保存パイプライン**
+  スキャンされた文書をポータブルなメールボックス形式で構造化されたアーカイブとして保存することを支援します。
+
+* **移行およびバックアップ処理**
+  TIFF 由来の記録をバックアップおよびシステム移行ワークフロー向けにプログラム的にパッケージ化できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

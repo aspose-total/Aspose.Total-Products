@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODT a XLSB trasforma il contenuto dei documenti di testo in un formato di foglio di calcolo binario ottimizzato per le prestazioni e l'archiviazione efficiente. È utile quando grandi volumi di dati estratti dai documenti devono essere gestiti nei flussi di lavoro dei fogli di calcolo con una maggiore efficienza dei file.
+
+Utilizzando le API Python, la conversione da ODT a XLSB supporta l'estrazione scalabile dei dati dei documenti, l'elaborazione batch e la generazione di fogli di calcolo orientata alle prestazioni. È particolarmente adatta a contesti operativi e analitici ad alto volume.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Archiviazione efficiente dei fogli di calcolo**  
+  Converte i dati del documento in un formato di foglio di calcolo compatto.
+
+* **Gestione di dati ad alto volume**  
+  Supporta set di dati estratti più grandi con caratteristiche di prestazioni migliorate.
+
+* **Reportistica operativa**  
+  Aiuta a preparare i dati derivati dai documenti per analisi basate su fogli di calcolo.
+
+* **Riutilizzo di contenuti strutturati**  
+  Rende più facile gestire i record estratti in un formato di cartella di lavoro binario.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Conversione batch orientata alle prestazioni**  
+  I flussi di lavoro Python possono generare output XLSB da molti file ODT in modo efficiente.
+
+* **Preparazione di grandi set di dati**  
+  L'estrazione automatizzata può supportare pipeline di reportistica con molti documenti.
+
+* **Processi di esportazione ottimizzati per l'archiviazione**  
+  I sistemi possono convertire contenuti documentali strutturati in file di cartella di lavoro compatti.
+
+* **Generazione scalabile di fogli di calcolo**  
+  Le conversioni ripetute possono essere eseguite programmaticamente per esigenze operative continue.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

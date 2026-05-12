@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から RTF への変換は、メールボックスアーカイブをリッチテキスト文書に変換し、編集可能で広く読み取れる形式でフォーマットされたメールコンテンツを保持します。これは、組織がスタイルの保持、ポータビリティ、文書の柔軟性のバランスを必要とする場合に有用です。
+
+Python API を使用すると、MBOX から RTF への変換を自動化でき、コンテンツの再利用を簡素化し、レポートワークフローを支援し、アーカイブされたメールデータからアクセシブルな文書出力を作成できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **フォーマットされたメールの保存**
+  メッセージを RTF ファイルに変換し、読みやすいリッチテキスト構造を維持します。
+
+* **編集可能な文書のエクスポート**
+  メールボックスのコンテンツを文書ワークフローでの修正、注釈付け、再利用が容易になるようにします。
+
+* **ポータブルなテキスト共有**
+  変換されたメールコンテンツの交換に、広くサポートされた形式を使用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたリッチテキスト出力**
+  バッチ駆動のパイプラインで MBOX ファイルを RTF 文書に変換します。
+
+* **コンテンツ再利用ワークフロー**
+  変換されたリッチテキストファイルをレポート、編集、またはレビューのプロセスに組み込みます。
+
+* **プログラムによるフォーマットパイプライン**
+  Python を使用して、構造化されたメールから文書への変換を効率的にスケールします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

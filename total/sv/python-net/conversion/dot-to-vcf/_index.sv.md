@@ -46,7 +46,41 @@ För en Python-utvecklare, vem försöker lägga till en DOT till VCF-konverteri
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT till VCF-omvandling omvandlar dokumentmallar till kontaktkortsfiler som kan användas för import till adressbok och delning av kontakter. Detta är användbart när dokumentbaserade register innehåller person- eller organisationsuppgifter som behöver införas i kommunikationssystem.
+
+Python‑API:er möjliggör automatisering av DOT till VCF-omvandling, vilket förbättrar portabiliteten för kontaktdata och minskar repetitiv manuell inmatning i affärsarbetsflöden.
+
+{{% blocks/products/pf/agp/feature-section-col title="Viktiga användningsområden" %}}
+
+* **Generering av kontaktposter**
+  Omvandla DOT-baserad information till VCF-filer för användning i adressboken.
+
+* **Portabel kontaktdelning**
+  Dela strukturerad kontaktdata som extraherats från mallar i ett standardiserat format.
+
+* **Stöd för datainmatning i kommunikation**
+  Minska manuell inmatning genom att omvandla mallinnehåll till importklara kontaktkort.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenarier" %}}
+
+* **Automatiserad kontaktexport**
+  Python-arbetsflöden kan generera VCF-filer från DOT-mallar som innehåller kontaktinformation.
+
+* **CRM- och katalogintegration**
+  Omvandlingen stödjer överföring av dokumentbaserad kontaktdata till kommunikationssystem.
+
+* **Massproduktion av kontaktfiler**
+  Programmerad bearbetning möjliggör skalbar generering av VCF-utdata från många mallar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

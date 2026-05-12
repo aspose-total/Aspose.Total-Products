@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da email a DOCM in Python consente di trasformare i messaggi in documenti Word con macro per flussi di lavoro documentali avanzati. Questo formato è utile quando il contenuto email convertito deve entrare in ambienti che si basano su automazione incorporata o scripting dei documenti.
+
+Rinforza l'automazione consentendo ai documenti derivati dalle email di integrarsi con processi di revisione, arricchimento e gestione dei documenti guidati da macro nei sistemi aziendali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Elaborazione di documenti con macro**
+  Converti le email in file DOCM per flussi di lavoro che dipendono da azioni documentali automatizzate.
+
+* **Operazioni di revisione strutturata**
+  Utilizza i messaggi convertiti in ambienti controllati dove modelli e macro supportano la convalida o la formattazione.
+
+* **Pipeline documentali aziendali**
+  Inserisci il contenuto delle email in file operativi che attivano comportamenti scriptati a valle.
+
+* **Standardizzazione dei processi**
+  Mantieni la coerenza quando i documenti derivati dalle email devono allinearsi ai flussi di lavoro Office con macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Arricchimento documentale scriptato**
+  Converti le email in DOCM e applica macro per aggiungere metadati, intestazioni o classificazioni automaticamente.
+
+* **Preparazione di file basata su workflow**
+  Inserisci il contenuto delle email in modelli con macro per l'elaborazione e l'instradamento interno.
+
+* **Formattazione automatizzata dei record**
+  Utilizza script documentali per standardizzare il contenuto derivato dalle email in ampi repository.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

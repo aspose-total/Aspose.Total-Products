@@ -64,7 +64,41 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja WordML do PPSM przekształca zawartość dokumentu w pliki prezentacji z włączonymi makrami, przeznaczone do przepływów pracy prezentacji, które wymagają bezpośredniego odtwarzania i wbudowanego wsparcia automatyzacji. Jest to przydatne w specjalistycznych środowiskach z zaprogramowanym zachowaniem slajdów.
+
+Korzystając z interfejsów API Pythona, konwersja WordML do PPSM umożliwia skalowalne przygotowanie zasobów prezentacji ze strukturalnych dokumentów, jednocześnie dostosowując się do wymagań automatyzacji prezentacji.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Tworzenie prezentacji z włączonymi makrami**
+  Konwertuje zawartość WordML do plików PPSM dla zaawansowanych przypadków użycia prezentacji.
+
+* **Zautomatyzowane przepływy odtwarzania**
+  Wspiera dostarczanie prezentacji, gdzie wymagane są wbudowane akcje lub logika.
+
+* **Specjalistyczne pakowanie prezentacji**
+  Przekształca zawartość dokumentu w gotowe do prezentacji zasoby z możliwością automatyzacji.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Generowanie prezentacji ze skryptami**
+  Automatyzuje tworzenie plików PPSM ze strukturalnych dokumentów źródłowych.
+
+* **Kontrolowane potoki dostarczania**
+  Wspiera powtarzalną dystrybucję prezentacji z włączonymi makrami.
+
+* **Automatyzacja od dokumentu do prezentacji**
+  Łączy konwersję treści z środowiskami prezentacji, które używają wbudowanej logiki.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

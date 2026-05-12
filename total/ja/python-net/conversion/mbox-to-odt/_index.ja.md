@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX から ODT への変換は、メールボックスの内容をオープンドキュメントのテキストファイルに変換し、アーカイブや文書再利用のための編集可能で標準ベースの形式を提供します。これは、オープンフォーマット、相互運用性、長期的な文書アクセスを重視する環境にとって価値があります。
+
+Python API を使用することで、組織は MBOX から ODT への変換を自動化し、文書作成を効率化し、オープンワークフロー標準をサポートし、アーカイブされたメールコンテンツの使いやすさを向上させることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **オープンフォーマット文書エクスポート**
+  メールを ODT ファイルに変換し、アクセスしやすく編集可能なテキストの保存を実現します。
+
+* **標準ベースのアーカイブ**
+  メールボックスの内容をオープンドキュメントワークフローに合わせた形式で保存します。
+
+* **クロスシステム文書再利用**
+  メール由来のコンテンツを、互換性のあるプラットフォーム間での交換を容易にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動オープンドキュメント作成**
+  Python ベースの処理を通じて、メールボックスのエントリを ODT ファイルに変換します。
+
+* **相互運用可能なワークフロー統合**
+  変換された文書をオープン標準のコンテンツおよびアーカイブシステムに取り込みます。
+
+* **大量メール変換**
+  最小限の労力で、メールボックスの変換を編集可能なオープンドキュメント出力に拡張します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

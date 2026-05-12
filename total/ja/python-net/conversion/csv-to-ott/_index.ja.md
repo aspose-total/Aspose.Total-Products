@@ -65,7 +65,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API を使用した CSV から OTT への変換により、構造化された表形式データを、繰り返し可能で相互運用可能な文書作成をサポートするオープンドキュメントテキストテンプレートに変換できます。  
+この変換は、CSV ソースから再利用可能なテンプレート資産を生成することで自動化を支援し、オープンドキュメント環境における標準化、速度、プロセスのスケーラビリティを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **オープンテンプレート作成**  
+  CSV データを OTT テンプレートに変換し、オープンフォーマットのワークフローで再利用可能な文書構造を実現します。
+
+* **標準化された文書フレームワーク**  
+  チーム全体で一貫したレイアウトとコンテンツ構成を維持するのに役立つテンプレートを生成します。
+
+* **相互運用可能なテンプレート配信**  
+  オープンスタンダードと柔軟な文書互換性を重視するワークフロー向けに OTT ファイルを生成します。
+
+* **再利用可能な出版資産**  
+  構造化された CSV 入力をテンプレートベースのリソースに変換し、スケーラブルな文書生成を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレート生成**  
+  Python API を使用して CSV データセットから OTT テンプレートを作成し、繰り返し可能な文書ワークフローを実現します。
+
+* **オープンフォーマットコンテンツパイプライン**  
+  CSV から OTT への変換を、再利用可能なテンプレートを自動的に準備するシステムに統合します。
+
+* **大量テンプレート処理**  
+  複数の CSV ファイルを一貫したフォーマットと構造の OTT テンプレートに変換します。
+
+* **動的テンプレート構成**  
+  変化する CSV コンテンツからプログラム的に OTT テンプレートを組み立て、スケーラブルな自動化を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

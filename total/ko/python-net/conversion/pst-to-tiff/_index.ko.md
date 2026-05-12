@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 PST를 TIFF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST를 TIFF로 변환하는 Python API는 메일함 내용을 일반적으로 아카이브 및 스캔 중심 워크플로에서 사용되는 고품질 이미지 형식으로 변환합니다. 이는 이메일 기록을 장기 보관 및 통제된 검토에 적합한 상세 시각 파일로 보존해야 할 때 유용합니다.
+
+자동화 시나리오에서 PST를 TIFF로 변환하면 문서 이미지 시스템, 규정 준수 아카이브 및 구조화된 시각 기록 관리를 지원합니다. 조직이 메일함 데이터에서 대규모로 내구성 있는 이미지 출력을 생성하는 데 도움이 됩니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **아카이브 등급 이미지**
+  PST 내용을 TIFF로 변환하여 내구성 있고 상세한 시각 보존을 제공합니다.
+
+* **문서 이미지 워크플로**
+  메일함 기록을 스캔 및 아카이브 시스템과 통합하는 데 도움이 됩니다.
+
+* **규정 준수 기록 저장**
+  이미지 중심 환경에서 통신 데이터의 고정 시각 보존을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화 이미지 파이프라인**
+  시스템은 PST 아카이브에서 TIFF 파일을 생성하여 아카이브 저장소에 사용할 수 있습니다.
+
+* **고충실도 시각 보존**
+  TIFF 출력은 안정적이고 상세한 이미지 기록이 필요한 워크플로를 지원합니다.
+
+* **확장 가능한 아카이브 처리**
+  프로그래밍 방식 변환은 대량의 메일함 이미지 작업을 관리하는 데 도움이 됩니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

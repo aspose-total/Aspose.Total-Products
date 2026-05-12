@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX から PPS への変換は、Word テンプレートのコンテンツを直接表示用のプレゼンテーションスライドショー形式に変換します。編集可能なスライドファイルではなく、すぐに提示できるビジュアルシーケンスとして文書コンテンツを配布する必要がある場合に便利です。
+
+この変換は、テンプレートからスライドショー出力を Python ベースで生成できるようにすることで自動化をサポートし、出版およびプレゼンテーション配信プロセスの効率化に役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **すぐに表示できるスライドショー**
+  文書コンテンツを直接再生できるプレゼンテーション資産に変換します。
+
+* **プレゼンテーション配布**
+  追加の編集を必要とせずにビジュアル出力を共有します。
+
+* **テンプレートベースのビジュアル配信**
+  構造化された文書をスライドショー対応のコミュニケーション資料として再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたスライドショー公開**
+  直接表示ワークフロー用に DOTX テンプレートから PPS ファイルを生成します。
+
+* **定期的なビジュアルブリーフィング**
+  繰り返し使用される文書形式からすぐに実行できるスライドショーを作成します。
+
+* **プレゼンテーション出力の標準化**
+  自動化パイプラインを通じて一貫したスライドショー資産を提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de WordML para XLAM converte lógica ou dados estruturados derivados de documentos em fluxos de trabalho de planilhas relacionados a complementos, onde funcionalidade reutilizável e recursos empacotados são necessários. É valiosa em ecossistemas avançados de planilhas que dependem de extensões modulares e ativos de automação repetíveis.
+
+APIs Python suportam fluxos de trabalho relacionados a WordML para XLAM ao preparar conteúdo estruturado para soluções de planilhas orientadas à automação e processamento escalável baseado em documentos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preparação de Complemento de Planilha**
+  Usa o conteúdo do documento como entrada para fluxos de trabalho reutilizáveis de extensão de planilhas.
+
+* **Suporte Avançado à Automação**
+  Ajuda a estruturar ativos derivados de documentos para ambientes de planilhas orientados a funções.
+
+* **Empacotamento de Lógica Reutilizável**
+  Suporta a transformação de conteúdo recorrente em recursos alinhados ao complemento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Ativos de Automação**
+  Integra conteúdo derivado de WordML em pipelines de preparação de complementos.
+
+* **Empacotamento de Fluxo de Trabalho Reutilizável**
+  Suporta processos de conversão recorrentes para componentes de automação de planilhas estruturadas.
+
+* **Capacitação de Planilhas Corporativas**
+  Conecta repositórios de documentos com fluxos de trabalho avançados de extensão de planilhas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

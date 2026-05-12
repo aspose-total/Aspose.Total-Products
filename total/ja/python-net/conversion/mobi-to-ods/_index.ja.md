@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における MOBI から ODS への変換により、電子書籍から抽出したコンテンツを分析、再利用、共同編集に適したオープンなスプレッドシート形式へ変換できるようになります。これは、オープン標準を好みつつも構造化されたスプレッドシート機能が必要な組織にとって有用です。
+
+自動化の観点から、MOBI から ODS への変換はスケーラブルなオープンドキュメントワークフロー、コスト効率の高い相互運用性、プログラムによるエクスポート手順をサポートします。チームがソース出版ファイルを構造化資産に変換し、オートメーション化されたオフィスおよびデータシステムとスムーズに統合できるよう支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープン標準スプレッドシート出力**
+  MOBI ファイルを ODS に変換し、オープンドキュメント環境で構造化された編集と分析を可能にします。
+
+* **チーム向けコンテンツ構造化**
+  抽出した ebook 情報を共同作業用スプレッドシート形式で準備し、業務で活用できるようにします。
+
+* **再利用可能なデータパッケージ**
+  コンテンツをオープンソースや標準ベースのプラットフォーム間で再利用できる形式で提供します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたオープンドキュメントエクスポート**
+  スケジュールされたコンテンツ処理ジョブ内で MOBI 入力から ODS ファイルを生成します。
+
+* **クロスプラットフォームワークフロー統合**
+  変換されたスプレッドシート出力を、オープンオフィス文書標準に依存するシステムへ供給します。
+
+* **繰り返し可能なコンテンツ構造化**
+  Python の自動化を使用して、ebook コンテンツを一貫してスプレッドシート対応のオープンファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

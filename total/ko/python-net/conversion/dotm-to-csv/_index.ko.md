@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM을 CSV로 변환하면 매크로가 포함된 Word 템플릿을 처리, 분석 및 비즈니스 시스템 간에 교환하기 쉬운 쉼표로 구분된 구조화된 데이터로 변환합니다. 조직이 문서 템플릿에서 표 형식 콘텐츠, 반복 필드 또는 보고서와 같은 섹션을 추출하여 가벼운 데이터 형식으로 변환해야 할 때 유용합니다.
+
+DOTM을 CSV로 변환하기 위한 Python API를 사용하면 수동 데이터 입력을 줄이고 일관성을 향상시키며 문서 기반 워크플로를 자동화하여 대규모로 분석, 가져오기 및 하위 처리 파이프라인에 데이터를 공급할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿에서 데이터 추출**
+  DOTM 파일의 구조화된 콘텐츠를 CSV로 변환하여 보고 및 데이터 작업에서 더 쉽게 재사용할 수 있습니다.
+
+* **시스템 상호 운용성**
+  문서 기반 정보를 데이터베이스, 스프레드시트 및 ETL 도구에서 널리 받아들여지는 형식으로 내보냅니다.
+
+* **대량 문서 처리**
+  반복되는 템플릿을 기계가 읽을 수 있는 행으로 변환해야 할 때 여러 DOTM 파일을 효율적으로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿-데이터 파이프라인**
+  자동화를 통해 표준화된 DOTM 파일에서 값을 추출하고 이를 CSV 기반 워크플로에 직접 게시할 수 있습니다.
+
+* **보고 피드 생성**
+  이 변환은 자동 보고 시스템이 문서 콘텐츠를 대시보드 및 감사용 데이터셋으로 변환하는 데 도움을 줍니다.
+
+* **배치 변환 작업**
+  프로그래밍 방식 처리를 통해 대량의 DOTM 템플릿을 수동 개입 없이 CSV로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

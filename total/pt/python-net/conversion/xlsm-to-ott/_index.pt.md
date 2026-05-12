@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLSM para OTT converte o conteúdo de planilhas com macros habilitadas em um formato de modelo de texto de documento aberto usado para criação de documentos repetíveis. Isso é útil quando os dados da planilha precisam se tornar a base para modelos reutilizáveis em fluxos de trabalho de documentos baseados em padrões.
+
+Em sistemas focados em automação, a conversão para OTT suporta formatação consistente, estruturas reutilizáveis e geração eficiente de documentos em escala. APIs Python tornam possível automatizar a criação de ativos de modelo a partir de arquivos XLSM para fluxos de trabalho operacionais, de relatórios e de documentação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Modelo Aberto**
+  Converte o conteúdo da planilha em modelos de documento reutilizáveis baseados em padrões abertos.
+
+* **Documentação Padronizada**
+  Ajuda as equipes a manter uma estrutura consistente em documentos gerados com frequência.
+
+* **Processos Baseados em Modelos**
+  Suporta fluxos de trabalho de documentos repetíveis construídos a partir de informações provenientes de planilhas.
+
+* **Reutilização Multiplataforma**
+  Permite ativos de modelo que podem ser usados em ambientes abertos e interoperáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelos**
+  APIs Python podem converter arquivos XLSM em modelos OTT para fluxos de trabalho de documentos recorrentes.
+
+* **Pipelines de Conteúdo Reutilizáveis**
+  Entradas de planilhas podem ser transformadas em modelos padronizados para automação downstream.
+
+* **Processamento em Lote de Modelos**
+  Grandes volumes de arquivos XLSM podem ser convertidos programaticamente em ativos OTT.
+
+* **Integração de Fluxo de Trabalho Aberto**
+  Saídas OTT podem ser incorporadas em sistemas que geram documentos consistentes a partir de modelos reutilizáveis.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

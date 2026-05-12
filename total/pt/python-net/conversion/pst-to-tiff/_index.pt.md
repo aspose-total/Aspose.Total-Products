@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de PST para TIFF nas APIs Python converte o conteúdo da caixa de correio em um formato de imagem de alta qualidade, comumente usado em fluxos de trabalho de arquivamento e digitalização. É útil quando os registros de e‑mail precisam ser preservados como arquivos visuais detalhados, adequados para armazenamento de longo prazo e revisão controlada.
+
+Em cenários de automação, a conversão de PST para TIFF suporta sistemas de digitalização de documentos, arquivos de conformidade e gerenciamento estruturado de registros visuais. Ela ajuda as organizações a gerar saídas de imagem duráveis a partir dos dados da caixa de correio em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Imagens de Qualidade de Arquivo**
+  Converte o conteúdo PST em TIFF para preservação visual durável e detalhada.
+
+* **Fluxos de Trabalho de Digitalização de Documentos**
+  Ajuda a integrar os registros da caixa de correio com sistemas de digitalização e arquivamento.
+
+* **Armazenamento de Registros de Conformidade**
+  Suporta retenção visual fixa de dados de comunicação em ambientes centrados em imagens.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Imagem Automatizados**
+  Os sistemas podem gerar arquivos TIFF a partir de arquivos PST para repositórios de arquivamento.
+
+* **Preservação Visual de Alta Fidelidade**
+  A saída TIFF suporta fluxos de trabalho que exigem registros de imagem estáveis e detalhados.
+
+* **Processamento Arquivístico Escalável**
+  A conversão programática ajuda a gerenciar grandes volumes de tarefas de digitalização de caixas de correio.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

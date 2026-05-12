@@ -65,7 +65,47 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de XLT para DOCM em Python permite que arquivos de modelo do Excel sejam convertidos em documentos do Word habilitados para macro, que podem suportar comportamento avançado de documentos e lógica de negócios estruturada. Isso é útil quando o conteúdo originado em planilhas precisa ser transferido para o Word, preservando a capacidade de estender o documento resultante com funcionalidades baseadas em macros.
+
+De uma perspectiva de automação, a conversão de XLT para DOCM suporta fluxos de trabalho onde documentos gerados precisam de conteúdo editável e ações programáveis. Ela ajuda a escalar a criação de documentos ao conectar fontes de dados baseadas em modelos com saídas dinâmicas do Word que podem se integrar a pipelines de processamento inteligente.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação Dinâmica de Documentos Empresariais**  
+  Converta modelos de planilhas em arquivos do Word habilitados para macro para documentos que exigem interatividade avançada.
+
+* **Preparação de Saída Pronta para Fluxos de Trabalho**  
+  Prepare arquivos DOCM a partir de fontes XLT para ambientes onde scripts automatizados ou ações de documento são necessárias.
+
+* **Migração de Conteúdo Estruturado**  
+  Mova dados organizados de modelos de planilhas para um formato Word adequado ao uso operacional formal.
+
+* **Documentação Orientada a Processos**  
+  Suporte formatos de documento que podem ser aprimorados posteriormente para ações guiadas ou rotinas automatizadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Montagem Automatizada de Documentos**  
+  Gere arquivos DOCM a partir de modelos XLT dentro de sistemas de criação de documentos impulsionados por Python.
+
+* **Entrega de Saída Baseada em Regras**  
+  Direcione documentos habilitados para macro convertidos para fluxos de trabalho que dependem de processamento condicional ou comportamento scriptado.
+
+* **Automação de Conteúdo Corporativo**  
+  Integre a conversão de XLT para DOCM em plataformas que criam e gerenciam grandes volumes de documentos de processo.
+
+* **Pipelines de Modernização de Modelos**  
+  Converta modelos de planilhas legados em saídas mais flexíveis baseadas em Word para automação escalável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

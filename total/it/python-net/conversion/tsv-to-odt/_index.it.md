@@ -65,7 +65,45 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to ODT conversion converts tab-separated data into open document text files that support editable, portable, and standards-based documentation. It is useful for organizations seeking flexible document outputs from structured data sources without locking workflows into a single ecosystem.
+
+Con la conversione da TSV a ODT converte dati separati da tabulazioni in file di testo Open Document che supportano documentazione modificabile, portabile e basata su standard. È utile per le organizzazioni che cercano output documentali flessibili da fonti di dati strutturati senza vincolare i flussi di lavoro a un unico ecosistema.
+
+With Python APIs, TSV to ODT conversion can be automated to improve interoperability, reduce manual processing, and support scalable document generation across open-format workflows.
+
+Con le API Python, la conversione da TSV a ODT può essere automatizzata per migliorare l'interoperabilità, ridurre l'elaborazione manuale e supportare la generazione scalabile di documenti nei flussi di lavoro a formato aperto.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Reportistica Open Document**  
+  Trasforma il contenuto TSV in documenti di testo modificabili basati su standard aperti.
+
+* **Documentazione multipiattaforma**  
+  Rende più semplice la condivisione di dati strutturati tra diversi ambienti documentali.
+
+* **Registri aziendali accessibili**  
+  Supporta la generazione di output leggibili da fonti tabulari grezze.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Pipeline documentali interoperabili**  
+  Le API Python possono automatizzare la generazione di ODT da esportazioni TSV ricorrenti.
+
+* **Supporto ai flussi di lavoro a formato aperto**  
+  L'automazione consente la creazione scalabile di output documentali basati su standard.
+
+* **Conversione batch di dati**  
+  Molteplici file TSV possono essere convertiti in formato ODT in lavori di elaborazione semplificati.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

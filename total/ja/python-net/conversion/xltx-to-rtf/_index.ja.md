@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX から RTF への変換は、スプレッドシートテンプレートのコンテンツを、可搬性、可読性、そして広範な互換性のバランスが取れたリッチテキスト形式に変換します。構造化されたスプレッドシート情報を、軽量で多くのシステムや文書ワークフローに適した編集可能なテキストコンテンツとして共有する必要がある場合に有用です。
+
+自動化の観点から、XLTX から RTF への変換は、効率的な文書生成、テキスト処理パイプラインへの容易な統合、そしてテンプレートベースのスプレッドシートコンテンツを広く読める出力へスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **軽量で編集可能な文書作成**  
+  スプレッドシートテンプレートをリッチテキスト文書に変換し、柔軟な編集と共有を可能にします。
+
+* **広範な互換性ワークフロー**  
+  多くのアプリケーションでサポートされるテキスト形式で構造化コンテンツの配布を支援します。
+
+* **簡素化されたコンテンツ再パッケージング**  
+  表形式のテンプレートデータを読みやすい文書スタイルの出力に変換することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたテキスト文書出力**  
+  システムは、定期的なコミュニケーションニーズに対応するために、XLTXテンプレートからRTFファイルを生成できます。
+
+* **クロスシステムコンテンツパイプライン**  
+  この変換は、軽量でポータブルな文書出力を必要とするワークフローをサポートします。
+
+* **大量のリッチテキスト処理**  
+  プログラムによる変換により、スプレッドシートテンプレートから多数のRTF文書を迅速に生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

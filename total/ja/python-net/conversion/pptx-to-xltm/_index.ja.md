@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTX から XLTM への変換は、プレゼンテーションのコンテンツを、繰り返しワークブックを生成するために使用されるマクロ対応スプレッドシートテンプレート形式に変換します。スライドから取得したデータを、定期的なレポート、データ入力、または自動化されたスプレッドシートワークフローのために再利用可能なテンプレートに標準化する必要がある場合に有益です。
+
+Python API を使用すると、PPTX から XLTM への変換は、抽出されたプレゼンテーションデータと再利用可能なスプレッドシート構造を組み合わせることで、スケーラブルなテンプレート自動化をサポートします。これにより、テンプレートベースのワークブック生成やマクロ駆動プロセスに依存する環境での一貫性と効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応スプレッドシートテンプレート**
+  スライドのコンテンツを、自動化された使用を想定した再利用可能なワークブックテンプレートに変換します。
+
+* **定期的なレポート構造**
+  繰り返し行われるレポートサイクルのために、標準化されたスプレッドシートテンプレートを作成します。
+
+* **データ入力フレームワーク**
+  プレゼンテーションから派生したレイアウトを、管理されたスプレッドシートテンプレートワークフローで再利用します。
+
+* **テンプレートベースの操作**
+  プレゼンテーションコンテンツのソースから、一貫したワークブック生成をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**
+  PPTX ファイルを、繰り返しスプレッドシートを作成するための XLTM テンプレートに変換します。
+
+* **標準化されたワークブックワークフロー**
+  再利用可能なテンプレートを使用して、自動化されたデータプロセス全体の一貫性を確保します。
+
+* **バッチテンプレート生成**
+  プレゼンテーション資産から複数のスプレッドシートテンプレートをプログラム的に作成します。
+
+* **マクロ駆動レポーティングシステム**
+  変換されたテンプレートを、自動化されたワークブック動作を必要とするワークフローに統合します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

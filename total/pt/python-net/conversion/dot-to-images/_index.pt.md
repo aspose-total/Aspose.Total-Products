@@ -53,7 +53,41 @@ Usamos a API [Aspose.Words for Python via .NET](https://products.aspose.com/word
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de DOT para Imagens renderiza modelos de documentos em formatos visuais que são fáceis de visualizar, compartilhar e incorporar em fluxos de trabalho digitais. Isso é valioso quando o documento editável original deve ser distribuído como um ativo visual estático.
+
+APIs Python permitem a renderização automatizada de arquivos DOT em imagens, ajudando as organizações a suportar visualizações, arquivamento, publicação de conteúdo e processos de revisão de documentos em escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Pré-visualizações de Documentos Visuais**
+  Converta modelos DOT em imagens para inspeção rápida e visualização baseada em navegador.
+
+* **Compartilhamento de Conteúdo Estático**
+  Distribua o conteúdo do documento como arquivos de imagem não editáveis para apresentação controlada.
+
+* **Suporte à Publicação**
+  Use as saídas renderizadas em portais, relatórios e sistemas de entrega de conteúdo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração de Miniaturas e Pré-visualizações**
+  Fluxos de trabalho Python podem gerar imagens de documentos automaticamente para sistemas de indexação e exibição.
+
+* **Pipelines de Publicação de Conteúdo**
+  A conversão suporta a preparação automatizada de ativos visuais a partir de modelos reutilizáveis.
+
+* **Operações de Renderização em Massa**
+  Processos programáticos podem gerar saídas de imagem a partir de grandes coleções de modelos de forma consistente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

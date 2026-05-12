@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF から VCF への変換は、リッチテキスト文書を、名前、電話番号、住所、その他の連絡先情報をポータブルな形式で保存できる連絡先カードファイルに変換します。これは、文書に埋め込まれた連絡先情報を構造化された共有可能なレコードにする必要がある場合に便利です。
+
+自動化ワークフローにおいて、RTF から VCF は、テキストベースのディレクトリやリストを標準化された連絡先資産に変換することで、効率的な連絡先抽出、同期、配布をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **連絡先レコード作成**  
+  文書ベースの連絡先情報をポータブルなデジタル連絡先カードに変換します。
+
+* **ディレクトリの近代化**  
+  書面の連絡先リストを、インポートや共有に適した構造化されたレコードに変換するのに役立ちます。
+
+* **ポータブルな連絡先交換**  
+  システムやデバイス間で連絡先情報のやり取りをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された連絡先抽出パイプライン**  
+  システムはRTF文書を解析し、特定された連絡先情報からVCFファイルを生成できます。
+
+* **大量のアドレス帳作成**  
+  プログラムによる変換は、テキストソースファイルから大量の連絡先レコードを作成することをサポートします。
+
+* **CRM とディレクトリの統合**  
+  動的なワークフローは、文書に保存された連絡先情報を再利用可能な連絡先資産に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,9 +46,43 @@ Python 개발자의 경우 응용 프로그램 내에서 ICS를 DOCX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 ICS에서 DOCX로의 변환은 캘린더 이벤트 데이터를 최신 Word 문서 형식으로 내보낼 수 있게 합니다. 이를 통해 구조화된 일정 정보를 쉽게 읽을 수 있는 문서로 변환하여 공유, 편집 또는 보관할 수 있습니다.
+
+변환 프로세스를 자동화함으로써 Python 애플리케이션은 캘린더 파일에서 직접 DOCX 문서를 생성할 수 있으며, 확장 가능한 보고, 문서화 및 콘텐츠 관리 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **이벤트 요약 문서**  
+  캘린더 일정을 요약한 구조화된 Word 문서를 생성합니다.
+
+* **팀 계획 보고서**  
+  계획 및 협업을 위해 이벤트 타임라인을 문서로 내보냅니다.
+
+* **디지털 문서화**  
+  향후 업데이트를 위해 캘린더 정보를 편집 가능한 DOCX 파일로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 문서 생성**  
+  자동 스크립트를 통해 ICS 캘린더에서 DOCX 보고서를 생성합니다.
+
+* **일정 통합**  
+  기업 워크플로 시스템 내에서 이벤트 데이터를 문서로 변환합니다.
+
+* **대량 문서 처리**  
+  여러 개의 ICS 일정들을 프로그래밍 방식으로 DOCX 문서로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

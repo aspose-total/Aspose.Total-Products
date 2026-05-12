@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python による XLTM から DOTX への変換は、マクロ対応の Excel テンプレートを最新の Word テンプレートファイルに変換し、標準化された文書作成を可能にします。構造化されたスプレッドシートテンプレートが再利用可能な文書レイアウトや整形されたコンテンツ配信の基盤となる場合に有用です。
+
+自動化されたワークフローにおいて、XLTM から DOTX への変換は一貫性を支え、保守性を向上させ、システムやチーム全体での文書テンプレート作成のスケール化を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **モダンテンプレート出力**  
+  最新の文書環境で標準化された Word テンプレートとして使用できる DOTX ファイルを生成します。
+
+* **再利用可能なコンテンツ構造**  
+  スプレッドシートのテンプレート要素を文書テンプレート形式に変換し、繰り返し利用できるようにします。
+
+* **文書一貫性管理**  
+  組織が生成された文書全体で統一されたレイアウトと書式を維持できるよう支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート変換パイプライン**  
+  文書生成プラットフォーム向けに、XLTM ソースから DOTX ファイルの作成を自動化します。
+
+* **スケーラブルな文書システム**  
+  構造化されたブック資産から再利用可能なテンプレートをバッチで生成することを支援します。
+
+* **統合コンテンツ自動化**  
+  Python 主導のプロセスを通じて、Excel テンプレートワークフローと Word テンプレートの公開を連携させます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

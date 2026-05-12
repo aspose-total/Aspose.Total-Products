@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers DOTM transforme les archives de boîtes aux lettres en fichiers de modèles Word activés par des macros, permettant de préserver les structures basées sur les e‑mails dans un format réutilisable et adapté à l’automatisation. Cela est précieux pour les environnements documentaires qui combinent des modèles réutilisables avec des fonctionnalités de macro intégrées.
+
+En utilisant les API Python, les équipes peuvent automatiser la conversion MBOX vers DOTM afin de prendre en charge la création de modèles à haut volume, la cohérence des flux de travail et les processus documentaires qui dépendent d’un comportement programmable.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de modèles macro‑activés**  
+  Convertir le contenu des e‑mails en modèles adaptés aux flux de travail documentaires automatisés avancés.
+
+* **Cadres de documents réutilisables**  
+  Réutiliser les structures dérivées des boîtes aux lettres comme bases de modèles pour les équipes et les systèmes.
+
+* **Préparation de contenu guidée par le flux de travail**  
+  Préparer le contenu basé sur les e‑mails pour les systèmes de modèles incluant une logique d’automatisation documentaire.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Bibliothèques de modèles automatisées**  
+  Construire des collections de modèles DOTM à partir des données de boîtes aux lettres en utilisant des flux de conversion basés sur Python.
+
+* **Génération de sortie cohérente**  
+  Standardiser la création de documents en transformant les e‑mails archivés en modèles réutilisables activés par des macros.
+
+* **Automatisation documentaire d'entreprise**  
+  Intégrer les fichiers de modèles convertis dans des pipelines plus larges de génération et de révision.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

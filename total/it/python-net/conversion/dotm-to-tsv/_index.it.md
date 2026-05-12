@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a TSV converte i modelli Word abilitati alle macro in valori separati da tabulazione per uno scambio e un'analisi dei dati puliti e strutturati. È utile quando il contenuto del modello deve essere esportato in un formato di testo semplice che gestisce i dati tabulari in modo chiaro ed efficiente.
+
+L'uso delle API Python per la conversione da DOTM a TSV supporta l'automazione consentendo l'estrazione ripetibile di contenuti strutturati dai documenti in set di dati leggeri. Ciò migliora l'integrazione con pipeline ETL, sistemi di analisi e flussi di lavoro ad alto volume.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Esportazione Dati Strutturati**
+  Converti il contenuto DOTM in TSV per un trasferimento pulito delle informazioni tabulari.
+
+* **Preparazione per l'Analisi**
+  Sposta i dati basati su documenti in un formato adatto per scripting, analisi e ingestione massiva.
+
+* **Scambio Interoperabile Basato su Testo**
+  Usa TSV quando i flussi di lavoro richiedono un output strutturato semplice con un minimo sovraccarico di formattazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Estrazione Dati Automatizzata**
+  I flussi di lavoro possono convertire i modelli DOTM in file TSV per l'elaborazione a valle senza inserimento manuale.
+
+* **Trasformazione Compatibile con le Pipeline**
+  La conversione supporta sistemi automatizzati che preferiscono formati di scambio tabulari leggeri.
+
+* **Creazione di Set di Dati in Batch**
+  I lavori programmatici consentono una trasformazione scalabile di molti file DOTM in output TSV.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

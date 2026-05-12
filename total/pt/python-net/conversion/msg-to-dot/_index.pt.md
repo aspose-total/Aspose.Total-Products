@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MSG para DOT transforma mensagens de e‑mail em arquivos de modelo de processamento de texto que podem servir como bases reutilizáveis de documentos. Isso é útil quando estruturas ou layouts derivados de e‑mail precisam ser transformados em padrões de documentos repetíveis.
+
+Em casos de uso de automação, a conversão de MSG para DOT suporta a criação de documentos baseados em modelos e processos de relatórios padronizados. Ela permite que as organizações criem saídas repetíveis a partir de fontes recorrentes de conteúdo de e‑mail.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais casos de uso" %}}
+
+* **Criação de Modelo a partir do Conteúdo de E‑mail**  
+  Use mensagens convertidas como base para estruturas de documentos repetíveis.
+
+* **Documentação Padronizada**  
+  Crie modelos uniformes para uso operacional ou administrativo recorrente.
+
+* **Estruturas de Conteúdo Reutilizáveis**  
+  Preserve layouts de mensagens e padrões de conteúdo para geração futura de documentos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de automação" %}}
+
+* **Pipelines de Geração de Modelos**  
+  Converta arquivos MSG em modelos DOT para tarefas recorrentes de criação de documentos.
+
+* **Fluxos de Trabalho de Relatórios Repetíveis**  
+  Use modelos derivados de e‑mail em sistemas automatizados de relatórios ou documentação de casos.
+
+* **Padronização de Formato**  
+  Construa estruturas de documentos controladas a partir do conteúdo de comunicações recebidas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

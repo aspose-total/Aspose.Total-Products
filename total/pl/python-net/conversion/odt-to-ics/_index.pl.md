@@ -46,7 +46,47 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji ODT do ICS w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja ODT do formatu ICS przekształca zawartość dokumentu w dane kompatybilne z kalendarzem, co czyni ją przydatną do zamiany harmonogramów, opisów wydarzeń lub informacji czasowych na wielokrotnego użytku wpisy kalendarzowe. Jest to szczególnie wartościowe, gdy dokumenty tekstowe zawierają daty, spotkania lub ustrukturyzowane linie czasu.
+
+W środowiskach zautomatyzowanych konwersja ODT do formatu ICS umożliwia pipeline'y planowania, publikowanie wydarzeń oraz synchronizację kalendarzy. API w Pythonie mogą wyodrębniać istotną treść opartą na datach i efektywnie generować pliki kalendarza w formacie czytelnym dla maszyn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja harmonogramu**  
+  Przekształca daty i szczegóły wydarzeń z dokumentów w dane gotowe do użycia w kalendarzu.
+
+* **Dystrybucja spotkań**  
+  Umożliwia udostępnianie informacji o wydarzeniach w formacie odpowiednim dla narzędzi kalendarzowych.
+
+* **Cyfryzacja osi czasu**  
+  Przekształca zapisane harmonogramy w praktyczne elementy kalendarza.
+
+* **Wsparcie przepływu pracy planowania**  
+  Ułatwia operacyjne ponowne wykorzystanie treści planowania opartej na dokumentach.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie wydarzeń**  
+  Skrypty Pythona mogą wykrywać szczegóły wydarzeń w plikach ODT i tworzyć wyjścia w formacie ICS.
+
+* **Pipeline'y publikacji kalendarza**  
+  Aktualizacje dokumentów mogą wywoływać automatyczną regenerację współdzielonych plików harmonogramów.
+
+* **Masowa konwersja harmonogramów**  
+  Wiele dokumentów planistycznych może być przekształcane w zasoby kalendarza na dużą skalę.
+
+* **Tworzenie przypomnień w przepływie pracy**  
+  Programowa ekstrakcja może automatycznie dostarczać przypomnienia i systemy planowania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -53,7 +53,47 @@ Nous utilisons l'API [Aspose.Words for Python via .NET](https://products.aspose.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion ODT vers MHTML convertit les fichiers OpenDocument Text en un format d'archive Web qui combine le contenu et les ressources associées en un seul fichier. Cela est précieux pour préserver les documents sous une forme adaptée aux navigateurs, facile à partager, à prévisualiser ou à stocker.
+
+Dans les flux de travail automatisés, la conversion ODT vers MHTML prend en charge la distribution Web, la capture de documents et l'archivage portable. Les API Python permettent de générer de manière répétable des sorties autonomes pour la publication de contenu et les systèmes de révision.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préservation adaptée aux navigateurs**  
+  Convertit les documents en un format qui peut être ouvert et affiché comme du contenu Web.
+
+* **Partage de documents portable**  
+  Regroupe le contenu dans un seul fichier pour faciliter le transfert et le stockage.
+
+* **Capture d'archive**  
+  Aide à conserver l'apparence et la structure du document dans un format compatible Web.
+
+* **Distribution de contenu intégré**  
+  Prend en charge les flux de travail où les fichiers de contenu autonomes sont préférés.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération automatisée d'archives Web**  
+  Les flux de travail Python peuvent convertir les fichiers ODT en MHTML pour un accès via le navigateur.
+
+* **Tâches de préservation par lots**  
+  De grands ensembles de documents peuvent être archivés automatiquement en fichiers Web autonomes.
+
+* **Préparation de la publication de contenu**  
+  Les systèmes peuvent générer des versions de visualisation portables pour les parties prenantes ou les portails.
+
+* **Flux de travail de capture d'instantané de documents**  
+  Les sorties MHTML peuvent être créées programmatiquement pour la révision ou le stockage à long terme.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

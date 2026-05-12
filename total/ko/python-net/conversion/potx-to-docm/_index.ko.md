@@ -65,7 +65,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+POTX를 DOCM으로 변환하는 Python API는 PowerPoint 템플릿 콘텐츠를 매크로가 포함된 Word 문서로 변환하여 고급 문서 워크플로우에 활용할 수 있게 합니다. 변환된 콘텐츠가 스크립트 동작, 내장 로직 또는 인터랙티브한 문서 동작을 지원해야 할 때 유용합니다.
+
+자동화 중심 환경에서 POTX를 DOCM으로 변환하면 프레젠테이션 템플릿과 동적 문서 시스템을 연결할 수 있습니다. 자동화 규칙, 매크로 또는 반복 처리 단계가 최종 워크플로우의 일부인 경우 확장 가능한 문서 생성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 문서 생성**
+  프레젠테이션 템플릿 자료를 자동화 동작 및 로직을 지원하는 문서로 변환합니다.
+
+* **워크플로우 확장**
+  프레젠테이션 기반 콘텐츠를 프로그래밍 가능한 기능이 포함된 고급 문서 환경으로 확장합니다.
+
+* **운영 문서 처리**
+  파일 내부의 재사용 가능한 자동화에 의존하는 프로세스를 위해 문서를 준비하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **규칙 기반 문서 출력**
+  매크로 지원이 포함된 워크플로우를 위해 DOCM 파일 생성을 자동화합니다.
+
+* **엔터프라이즈 문서 처리**
+  구조화된 내부 처리 파이프라인을 위해 POTX 템플릿을 매크로가 포함된 파일로 변환합니다.
+
+* **템플릿‑투‑액션 파이프라인**
+  변환된 문서가 자동화 작업을 트리거하거나 지원하는 동적 워크플로우를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

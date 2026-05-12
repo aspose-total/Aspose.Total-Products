@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji DOCM do VCF w ap
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to VCF conversion przekształca zawartość dokumentów z włączonymi makrami w pliki kart kontaktowych, ułatwiając ponowne wykorzystanie nazwisk, adresów i danych komunikacyjnych w procesach zarządzania kontaktami. Jest to przydatne, gdy dokumenty zawierają ustrukturyzowane informacje osobiste lub organizacyjne o kontaktach.
+
+W celu automatyzacji i skalowalności konwersja DOCM to VCF obsługuje wyodrębnianie kontaktów, zsynchronizowane aktualizacje książki adresowej oraz powtarzalną transformację danych zawartych w dokumentach w przenośne rekordy kontaktowe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Ekstrakcja informacji kontaktowych**
+  Konwertuje ustrukturyzowane dane kontaktowe z dokumentów do przenośnych plików kart.
+
+* **Aktualizacje książki adresowej**
+  Ułatwia przenoszenie rekordów kontaktowych opartych na dokumentach do środowisk zarządzania kontaktami.
+
+* **Przenośne udostępnianie kontaktów**
+  Wspiera standaryzowaną wymianę osobistych lub firmowych informacji kontaktowych.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne generowanie kontaktów**
+  Tworzy pliki VCF z dokumentów DOCM zawierających dane kontaktowe.
+
+* **Integracja z CRM i katalogiem**
+  Wspiera import rekordów kontaktowych pochodzących z dokumentów w oparciu o przepływy pracy.
+
+* **Masowa konwersja kontaktów**
+  Efektywnie przetwarza wiele dokumentów na ustandaryzowane pliki kontaktowe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

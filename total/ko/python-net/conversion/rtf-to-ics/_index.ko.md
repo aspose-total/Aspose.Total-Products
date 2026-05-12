@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 RTF를 ICS로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF to ICS 변환은 서식이 지정된 텍스트 문서를 이벤트, 일정, 알림 또는 약속 데이터를 나타낼 수 있는 캘린더 호환 파일로 변환합니다. 이는 문서에 저장된 날짜 및 시간 관련 콘텐츠를 캘린더 시스템 내에서 실행 가능한 형태로 만들 필요가 있을 때 특히 유용합니다.
+
+자동화 관점에서 RTF to ICS는 이벤트 생성, 일정 워크플로우 및 팀, 시스템, 운영 프로세스 전반에 걸친 캘린더 준비 정보의 효율적인 배포를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서에서 이벤트 생성**  
+  회의 노트 또는 일정을 캘린더 파일로 변환하여 가져오고 공유할 수 있습니다.
+
+* **알림 배포**  
+  날짜 기반 문서 콘텐츠를 실행 가능한 캘린더 항목으로 전환하는 데 도움이 됩니다.
+
+* **일정 표준화**  
+  약속 및 타임라인의 일관된 형식을 지원하여 보다 넓은 재사용을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 약속 생성**  
+  시스템은 RTF 파일에서 일정 데이터를 추출하고 수동 설정 없이 ICS 항목을 생성할 수 있습니다.
+
+* **워크플로 기반 캘린더 게시**  
+  프로그래밍 방식 변환을 통해 계획, 공지 또는 일정을 캘린더 파일로 배포할 수 있습니다.
+
+* **반복 일정 파이프라인**  
+  동적 프로세스는 정기적인 문서 피드에서 캘린더 출력을 생성하여 팀 및 이해관계자에게 제공할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

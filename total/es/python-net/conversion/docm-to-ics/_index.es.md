@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM a conversión a ICS transforma contenido de documentos con macros habilitadas en datos compatibles con calendarios, lo que permite reutilizar horarios, detalles de eventos o contenido basado en fechas en flujos de trabajo de planificación. Esto es especialmente útil cuando los documentos contienen información estructurada de eventos que necesita una mayor accesibilidad.
+
+Desde el punto de vista de la automatización, la conversión de DOCM a ICS conecta los horarios creados con los sistemas de calendario, permitiendo la generación automática de eventos, la sincronización y la coordinación de flujos de trabajo basados en tiempo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Extracción de Horarios**
+  Convierte el contenido de documentos relacionados con eventos en datos listos para el calendario para su uso en planificación.
+
+* **Publicación de Reuniones y Plazos**
+  Ayuda a distribuir cronogramas definidos en documentos a través de archivos de calendario estandarizados.
+
+* **Programación Multiplataforma**
+  Soporta la portabilidad de información basada en fechas a herramientas de calendario compatibles.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Creación Automática de Eventos**
+  Genera archivos ICS a partir del contenido DOCM que contiene detalles de reuniones o plazos.
+
+* **Flujos de Trabajo de Sincronización de Calendario**
+  Soporta la importación automática de horarios derivados de documentos en sistemas de planificación.
+
+* **Programación Recursiva por Lotes**
+  Convierte múltiples documentos de programación en salidas de calendario estandarizadas a gran escala.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

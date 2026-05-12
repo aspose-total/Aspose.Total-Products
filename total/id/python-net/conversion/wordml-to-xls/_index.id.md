@@ -65,7 +65,41 @@ Ini terutama dalam dua langkah. Pertama gunakan API [Aspose.Words for Python via
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi WordML ke XLS mengubah konten terstruktur berbasis dokumen menjadi file spreadsheet yang cocok untuk penyuntingan, pelaporan, dan alur kerja buku kerja warisan. Ini berguna ketika tabel dokumen perlu digunakan kembali dalam alat spreadsheet dengan kompatibilitas yang luas.
+
+API Python memungkinkan konversi WordML ke XLS dengan mengekstrak konten tabel dan mengotomatisasi penempatannya ke dalam struktur buku kerja untuk pemrosesan yang dapat diskalakan.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pembuatan Buku Kerja Warisan**
+  Mengonversi tabel WordML menjadi file XLS untuk alur kerja spreadsheet yang sudah mapan.
+
+* **Penggunaan Ulang Data Terstruktur**
+  Membuat data tabel yang disimpan dalam dokumen dapat diedit dan dianalisis dalam bentuk buku kerja.
+
+* **Dukungan Pelaporan Operasional**
+  Membantu memindahkan konten dokumen ke dalam proses peninjauan berbasis spreadsheet.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Ekspor Buku Kerja Otomatis**
+  Menghasilkan file XLS dari kumpulan dokumen WordML dalam pekerjaan yang dapat diulang.
+
+* **Integrasi Sistem Warisan**
+  Mendukung lingkungan yang masih bergantung pada kompatibilitas spreadsheet lama.
+
+* **Pipeline Dokumen-ke-Spreadsheet**
+  Mengonversi konten terstruktur menjadi output buku kerja untuk operasi hilir.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PPTM 변환 Python API는 OpenDocument 텍스트 템플릿을 매크로 지원 프레젠테이션 파일로 변환하여 슬라이드 기반 워크플로 내에서 고급 자동화를 지원합니다. 이는 생성된 프레젠테이션에 재사용 가능한 로직이나 스크립트 동작을 포함해야 할 때 유용합니다.
+
+이 변환은 문서 기반 콘텐츠 생성과 보다 동적이고 기능이 풍부한 보고 또는 전달 시나리오에 참여할 수 있는 프레젠테이션 파일을 결합함으로써 자동화를 강화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 지원 프레젠테이션 생성**  
+  고급 자동화 동작에 적합한 프레젠테이션을 생성합니다.
+
+* **동적 보고 지원**  
+  정적 슬라이드 콘텐츠를 넘어서는 프레젠테이션 구축을 돕습니다.
+
+* **템플릿 콘텐츠 재사용**  
+  텍스트 템플릿을 보다 풍부한 프레젠테이션 출력으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **스크립트 인식 덱 생성**  
+  반복 가능한 워크플로에서 OTT 템플릿으로부터 PPTM 파일을 생성합니다.
+
+* **고급 프레젠테이션 파이프라인**  
+  강화된 슬라이드 기능을 필요로 하는 보고 시스템을 지원합니다.
+
+* **확장 가능한 자동 브리핑**  
+  다양한 사용 사례에 걸쳐 일관되고 매크로 지원 프레젠테이션을 제공합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

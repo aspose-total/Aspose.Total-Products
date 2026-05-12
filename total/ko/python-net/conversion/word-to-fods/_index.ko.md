@@ -65,7 +65,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 Word에서 FODS로의 변환은 워드 프로세싱 문서를 평면 OpenDocument 스프레드시트 형식으로 변환할 수 있게 하며, 이는 개방형 표준 기반 데이터 처리와 투명한 XML 기반 워크플로에 유용합니다. 문서 내용을 이진 패키징에 의존하지 않고 구조화된 스프레드시트 형식으로 보존해야 할 때 유리합니다.
+
+자동화 중심 환경에서 Word‑to‑FODS 변환은 확장 가능하고 표준에 맞춘 변환 파이프라인을 지원하며, 상호 운용성, 버전 관리 친화성, 그리고 출력 데이터의 프로그램적 검사를 용이하게 하는 것을 강조합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 포맷 데이터 변환**
+  문서에서 파생된 콘텐츠를 개방형 표준을 기반으로 한 평면 구조화된 스프레드시트 형식으로 내보냅니다.
+
+* **투명한 데이터 저장**
+  XML 인식 시스템에서 스프레드시트 출력을 보다 쉽게 검사하고 처리할 수 있게 합니다.
+
+* **워크플로 상호 운용성**
+  독점 형식보다 오픈 문서 표준을 선호하는 플랫폼과의 통합을 지원합니다.
+
+* **버전 관리된 콘텐츠 처리**
+  텍스트 친화적인 저장 환경에서 구조화된 출력의 추적을 향상시킵니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **표준 기반 변환 파이프라인**
+  워드 파일을 자동으로 FODS로 변환하여 개방형 생태계 워크플로에 활용합니다.
+
+* **문서 보관 자동화**
+  장기 보관 및 감사 요구를 위해 읽기 쉬운 구조화된 스프레드시트 출력을 생성합니다.
+
+* **XML 기반 처리**
+  자동 파싱, 검증 및 변환 루틴에서 FODS 출력을 사용합니다.
+
+* **배치 OpenDocument 생성**
+  반복되는 문서 소스로부터 대규모로 평면 스프레드시트 파일을 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

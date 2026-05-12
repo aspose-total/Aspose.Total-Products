@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における PST から EPUB への変換は、メールボックスのコンテンツを構造化された読書とポータブルなアクセスに最適化されたデジタル出版フォーマットに変換します。アーカイブされたメールや抽出されたコミュニケーションを、配布や参照のために読みやすくナビゲート可能な形式にパッケージ化する必要がある場合に有用です。
+
+自動化主導のシステムにおいて、PST から EPUB への変換はコンテンツの再出版、デジタルアーカイブ、構造化された配信ワークフローをサポートします。コミュニケーション記録を、デバイスや読書環境にまたがってスケールできるアクセス可能なリソースに変換するのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **ポータブルアーカイブ出版**
+  メールボックスのコンテンツを構造化されたデジタル読書用に EPUB に変換します。
+
+* **知識のパッケージ化**
+  メール由来の資料をナビゲート可能な出版フォーマットに整理するのに役立ちます。
+
+* **参照配布**
+  アーカイブされたコミュニケーションを読者に優しいレイアウトで共有することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動出版生成**
+  システムは PST データを EPUB ファイルにパッケージ化し、内部配布やレビューに利用できます。
+
+* **コンテンツ再利用ワークフロー**
+  メールアーカイブはプログラムで構造化されたデジタルリソースに変換できます。
+
+* **スケーラブルなアクセス配信**
+  自動変換により、大規模データセット全体で一貫した出版出力が可能になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

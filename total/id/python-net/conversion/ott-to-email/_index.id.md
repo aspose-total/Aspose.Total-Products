@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OTT ke EM
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi OTT ke Email dalam API Python mengubah templat teks OpenDocument menjadi konten siap kirim email yang cocok untuk pembuatan pesan, alur kerja notifikasi, dan otomatisasi komunikasi. Ini membantu organisasi menggunakan kembali konten dokumen sebagai pesan keluar terstruktur.
+
+Konversi ini sangat relevan dengan otomatisasi karena memungkinkan pembuatan dinamis isi email dari templat, meningkatkan konsistensi komunikasi, skalabilitas, dan integrasi dengan sistem transaksional atau berbasis peristiwa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Pesan Berbasis Templat**  
+  Mengubah templat dokumen menjadi konten email yang dapat digunakan kembali untuk penjangkauan atau pembaruan.
+
+* **Pembuatan Notifikasi**  
+  Mengonversi teks terformat menjadi pesan siap kirim email untuk peringatan dan konfirmasi.
+
+* **Penggunaan Ulang Konten**  
+  Memungkinkan dokumen sumber yang sama mendukung kebutuhan dokumentasi dan komunikasi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomasi" %}}
+
+* **Pembaruan Pelanggan Otomatis**  
+  Menghasilkan email dari templat OTT berdasarkan pemicu alur kerja.
+
+* **Pipa Pesan Transaksional**  
+  Menggunakan konten dokumen dalam sistem yang mengirim konfirmasi atau pengingat.
+
+* **Personalisasi Dinamis**  
+  Mengisi konten email berbasis templat secara programatik untuk grup penerima yang besar.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

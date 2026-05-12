@@ -65,7 +65,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX에서 XLT로의 변환은 워드 프로세싱 문서를 반복 가능한 워크시트 생성을 위해 사용되는 스프레드시트 템플릿 파일로 변환합니다. 이 프로세스를 통해 문서의 구조화된 콘텐츠가 보고 및 운영 작업을 위한 재사용 가능한 스프레드시트 기반이 됩니다.
+
+Python API는 DOCX‑to‑XLT 변환을 자동화된 템플릿 생성 시스템, 반복적인 보고 파이프라인 및 스프레드시트 표준화 워크플로에 적합하게 만듭니다. 이는 팀 및 프로세스 전반에 걸친 스프레드시트 생성의 일관성을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 스프레드시트 템플릿 생성**  
+  DOCX 콘텐츠를 반복 워크시트 생성을 위한 템플릿 파일로 변환합니다.
+
+* **표준화된 보고 구조**  
+  조직이 일관된 스프레드시트 레이아웃 및 데이터 구성을 유지하도록 돕습니다.
+
+* **문서‑대‑템플릿 워크플로**  
+  스프레드시트 환경에서 구조화된 문서 자산의 재사용을 지원합니다.
+
+* **운영 템플릿 배포**  
+  작성된 소스에서 스프레드시트 템플릿을 확장 가능하게 생성할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 내보내기**  
+  시스템이 DOCX 파일을 반복적인 스프레드시트 워크플로를 위한 XLT 템플릿으로 변환할 수 있습니다.
+
+* **배치 스프레드시트 템플릿 제작**  
+  Python 스크립트가 여러 문서에서 재사용 가능한 워크시트 템플릿을 생성할 수 있습니다.
+
+* **엔터프라이즈 표준화 파이프라인**  
+  문서 콘텐츠를 일관된 보고 작업을 위한 스프레드시트 템플릿으로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

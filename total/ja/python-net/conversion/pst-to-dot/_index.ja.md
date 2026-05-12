@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における PST から DOT への変換は、メールボックスのコンテンツを再利用可能な文書生成用の Word テンプレートファイルに変換します。これは、メールベースのコンテンツを繰り返し使用できるレイアウトに標準化し、一貫した書式設定と構造化された下流出力をサポートする必要がある場合に有用です。
+
+自動化シナリオでは、PST から DOT への変換により、組織はアーカイブされたコミュニケーションからテンプレート駆動のワークフローを作成できます。メールボックスデータを繰り返し使用できる基盤に変換することで、定期的なレポート、ケースファイル、または業務文書の効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **再利用可能なテンプレート作成**
+  PST 由来のコンテンツを DOT ファイルに変換し、繰り返し使用できる文書構造を実現します。
+
+* **標準化されたレポートレイアウト**
+  メールから生成された文書出力全体で一貫した書式設定を維持するのに役立ちます。
+
+* **文書ワークフローの準備**
+  メールボックスデータが繰り返し使用されるテンプレートの基礎となるシナリオをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレートベースのレコード生成**
+  自動化システムは DOT 出力を使用して、繰り返し可能な文書フローを構築できます。
+
+* **一貫した書式設定パイプライン**
+  変換により、アーカイブされたメールコンテンツが事前定義されたレイアウト規則に合わせられます。
+
+* **スケーラブルな文書組み立て**
+  プログラムによる処理により、メールボックスデータからのテンプレート作成がより迅速かつ均一になります。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

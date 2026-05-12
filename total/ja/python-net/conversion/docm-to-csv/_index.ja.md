@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から CSV への変換は、マクロ対応のワードプロセッシング文書を、抽出・分析・再利用が容易なプレーンで構造化されたカンマ区切りデータに変換します。これは、DOCM ファイルのテキスト、表、または繰り返しコンテンツを下流処理用に標準化する必要がある場合に有用です。
+
+自動化重視の環境では、DOCM から CSV へのワークフローが、半構造化された文書コンテンツを軽量データセットに変換し、取り込み、検証、同期、そしてビジネスツール間のスケーラブルなデータ交換を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **表データ抽出**
+  DOCM ファイル内の表を構造化された行と列に変換し、分析と再利用を容易にします。
+
+* **レポートパイプライン**
+  文書ベースのデータをビジネスレポート、ダッシュボード、定期エクスポート用に準備します。
+
+* **システム相互運用性**
+  区切りテキスト入力を受け付けるツールへの文書コンテンツの簡単な転送を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチ文書処理**
+  大規模な DOCM コレクションの CSV 出力への変換を自動化し、繰り返しデータワークフローを実現します。
+
+* **ETL 準備**
+  文書コンテンツを機械可読レコードに変換することで、抽出・変換・ロード（ETL）パイプラインを支援します。
+
+* **検証とアーカイブ**
+  チェック、インデックス付け、プログラムによる保存が可能な正規化エクスポートの作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

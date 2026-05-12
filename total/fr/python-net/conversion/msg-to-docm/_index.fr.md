@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MSG vers DOCM convertit les fichiers de messages électroniques en documents de traitement de texte à macros activées qui prennent en charge un comportement avancé du document. Ceci est utile lorsque le contenu du message doit être conservé dans un format éditable tout en restant compatible avec les environnements de traitement basés sur les macros.
+
+Pour l'automatisation, les flux de travail MSG vers DOCM sont pertinents dans les systèmes qui s'appuient sur des actions de document scriptées, des routines de validation ou des tâches de formatage structuré. Ils aident à connecter le contenu dérivé des e‑mails avec des opérations de documents d'entreprise dynamiques.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Documentation à macros activées**  
+  Préparer le contenu d'e‑mail converti pour les environnements de documents qui utilisent des macros d'automatisation.
+
+* **Traitement structuré du contenu**  
+  Prendre en charge le formatage et la manipulation basés sur des règles après la conversion.
+
+* **Assemblage de documents opérationnels**  
+  Incorporer les données du message dans des modèles de documents contrôlés et prêts à l'automatisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Post‑traitement piloté par macros**  
+  Convertir les fichiers MSG en DOCM afin que les routines en aval puissent appliquer des étapes de formatage ou de validation.
+
+* **Flux de travail de documents d'entreprise**  
+  Alimenter les documents convertis dans des systèmes d'examen automatisés qui dépendent du support des macros.
+
+* **Gestion dynamique du contenu**  
+  Permettre des mises à jour programmatiques et des actions de flux de travail sur les documents dérivés des messages.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

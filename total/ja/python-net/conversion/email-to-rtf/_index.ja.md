@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python の Email から RTF への変換は、メッセージ内容を編集可能でありながら広い互換性を持つリッチテキスト文書に変換します。多くの編集ツールで動作する軽量な文書形式で、組織がフォーマットされたメール内容を必要とする場合に有用です。
+
+この変換は、構造化された再利用可能な出力を作成することで自動化を向上させ、混在した文書環境全体で効率的に編集、交換、保存できるようにします。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **フォーマットされたテキストの保持**
+  メールを RTF に変換して、編集可能な形式で基本的なスタイリングを保持します。
+
+* **ツール間の互換性**
+  異なる編集アプリケーションが同じコンテンツにアクセスする必要がある場合に、RTF 出力を使用します。
+
+* **再利用可能なコミュニケーション記録**
+  重要なメッセージテキストを保持し、さらに編集したり文書に組み込んだりできます。
+
+* **軽量文書の交換**
+  メール由来の文書を比較的シンプルで携帯性のある形式で共有します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動リッチテキストエクスポート**
+  選択したメールを RTF ファイルに変換し、保存やコラボレーションのワークフローに利用します。
+
+* **マルチシステム文書ルーティング**
+  メール由来のリッチテキストをアプリケーション間で最小限の摩擦で移動させます。
+
+* **コンテンツ再利用パイプライン**
+  RTF 出力を要約、ドラフト、内部文書に自動的に挿入します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

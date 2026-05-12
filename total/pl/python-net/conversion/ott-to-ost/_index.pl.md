@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OTT do OST w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do OST w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w struktury danych skrzynki pocztowej offline, wykorzystywane w scenariuszach zsynchronizowanego przechowywania e‑maili. Jest to istotne, gdy generowana treść komunikacji musi być zgodna z przepływami pracy i wymaganiami przechowywania opartymi na skrzynkach pocztowych.
+
+Konwersja wspiera automatyzację, łącząc generowanie wiadomości oparte na dokumentach z dostępem offline, przygotowaniem archiwalnym oraz procesami zarządzania komunikacją, które opierają się na ustrukturyzowanych danych skrzynki pocztowej.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Przygotowanie danych poczty offline**  
+  Wspiera przepływy pracy wykorzystujące zsynchronizowane przechowywanie w stylu skrzynki pocztowej.
+
+* **Pakowanie wygenerowanej komunikacji**  
+  Konwertuje zawartość szablonu na wyjście ukierunkowane na skrzynkę pocztową.
+
+* **Wsparcie archiwizacji i dostępu**  
+  Pomaga zachować dane komunikacji w scenariuszach obsługi offline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne składanie danych poczty**  
+  Tworzy wyjścia kompatybilne z OST z szablonów dokumentów.
+
+* **Korporacyjne potoki archiwizacji**  
+  Integruje wygenerowaną komunikację z zarządzanymi przepływami przechowywania.
+
+* **Masowe przetwarzanie komunikacji**  
+  Skaluje przekształcanie treści OTT w struktury gotowe do użycia w skrzynce pocztowej.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

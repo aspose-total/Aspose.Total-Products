@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOT를 EMLX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT에서 EMLX로의 변환은 문서 템플릿을 특정 메일 생태계에서 일반적으로 사용되는 이메일 파일 형식으로 변환합니다. 이는 템플릿 기반 콘텐츠를 플랫폼별 이메일 저장 또는 마이그레이션 시나리오에 맞게 준비해야 할 때 유용합니다.
+
+Python API를 사용하면 팀이 DOT 파일에서 EMLX 출력을 자동으로 생성할 수 있어 메시지 생성 표준화를 돕고 대상 메일 워크플로와의 통합을 간소화합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **플랫폼별 이메일 내보내기**
+  지원되는 메일 환경과의 호환성을 위해 DOT 콘텐츠를 EMLX로 변환합니다.
+
+* **템플릿 기반 메일 마이그레이션**
+  시스템 전환 중에 워드 프로세싱 템플릿을 구조화된 이메일 자산으로 재활용합니다.
+
+* **메시지 보존**
+  재사용 또는 검토를 위해 문서에서 파생된 커뮤니케이션을 전용 이메일 파일 형식으로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 메일 형식 변환**
+  Python 작업은 반복 워크플로에서 DOT 템플릿으로부터 EMLX 파일을 생성할 수 있습니다.
+
+* **마이그레이션 지원 프로세스**
+  변환은 최소한의 수동 작업으로 템플릿 콘텐츠를 이메일 생태계로 이동하는 데 도움을 줍니다.
+
+* **배치 출력 생성**
+  프로그램 파이프라인은 대규모로 여러 소스 문서에서 EMLX 파일을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

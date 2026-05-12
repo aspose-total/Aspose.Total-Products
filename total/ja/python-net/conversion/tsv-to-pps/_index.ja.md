@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to PPS 変換は、タブ区切りデータを直接閲覧および配布できるように設計されたプレゼンテーションスライドショーファイルに変換します。これは、構造化された情報を編集可能な作業ファイルではなく、すぐに実行できるプレゼンテーションとして提供する必要がある場合に便利です。
+
+Python API を使用して、TSV から PPS への変換は自動スライドショー生成をサポートし、組織が定期的な更新、要約、データ駆動型プレゼンテーションをより効率的に配布できるよう支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **すぐに閲覧できるスライドショー**  
+  TSV データを直接再生に最適化されたプレゼンテーションファイルに変換します。
+
+* **プレゼンテーション配布**  
+  閲覧者向けの形式で構造化情報の共有をサポートします。
+
+* **データ駆動型サマリー**  
+  バックエンドのデータセットをスライドショー形式のコミュニケーション資産に変換するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動スライドショー作成**  
+  Python API は定期的な TSV エクスポートから PPS ファイルを生成できます。
+
+* **スケジュールされたプレゼンテーション配信**  
+  自動化により、定期的なレポートサイクル向けにスライドショー出力を準備するのに役立ちます。
+
+* **バッチ出力生成**  
+  複数の TSV データセットをプログラムで閲覧可能なスライドショーファイルに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

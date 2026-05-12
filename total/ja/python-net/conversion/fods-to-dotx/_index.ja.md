@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+FODS から DOTX への変換は、フラットな OpenDocument スプレッドシートの内容を最新の Word テンプレートファイルに変換し、組織が構造化データソースから再利用可能な文書構造を作成できるよう支援します。これは、生成された大量の文書に対して一貫した外観とフォーマットを維持する必要があるチームにとって有用です。
+
+自動化システムにおいて、FODS から DOTX への変換はテンプレート駆動の出版、レポートの標準化、効率的な文書組み立てをサポートします。Python API は、手動での書式設定を削減し、自動化された文書操作全体での一貫性を向上させるスケーラブルな変換ワークフローを実現します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **再利用可能な文書テンプレート**  
+  FODS コンテンツを DOTX テンプレートに変換し、文書の繰り返し生成に利用します。
+
+* **一貫したレポートデザイン**  
+  DOTX の出力を使用して、繰り返し作成される文書全体で統一された構造とブランディングを徹底します。
+
+* **テンプレートベースの文書化**  
+  マニュアル、要約、社内ビジネス文書の再利用可能な基盤を作成します。
+
+* **スケーラブルなコンテンツ標準化**  
+  構造化されたソースファイルを使用して、チームや部門全体で標準化された文書作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化テンプレートワークフロー**  
+  Python スクリプトは FODS ファイルを DOTX テンプレートに変換し、繰り返し使用できる状態にします。
+
+* **文書標準化パイプライン**  
+  自動化システムは、一貫したレポート出力のためにテンプレートを構築・配布できます。
+
+* **大量テンプレート生成**  
+  複数の FODS 入力を大量処理の一環として DOTX ファイルに変換できます。
+
+* **統合出版プロセス**  
+  DOTX 変換は、自動文書作成システムの準備ステップとして機能します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

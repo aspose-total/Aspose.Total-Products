@@ -46,7 +46,44 @@ Python 개발자의 경우 응용 프로그램 내에서 DOCX를 EMAIL로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to Email conversion은 문서 내용을 이메일에 삽입할 수 있는 이메일 준비 형식으로 변환합니다. 이 프로세스를 통해 DOCX 파일의 텍스트, 서식 및 구조화된 정보를 이메일 워크플로에 통합할 수 있습니다.
+
+Python API를 사용하면 DOCX-to-Email 변환을 커뮤니케이션 플랫폼, 문서 배포 시스템 및 자동 알림 서비스 내에서 자동화할 수 있습니다. 이를 통해 수동 서식 지정이나 복사 없이 이메일 채널을 통한 동적 문서 전달이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **문서 기반 이메일 생성**  
+  DOCX 문서를 자동 이메일 메시지에 적합한 콘텐츠로 변환합니다.
+
+* **자동 보고서 배포**  
+  DOCX 형식으로 만든 보고서를 이메일 워크플로를 통해 배포할 수 있게 합니다.
+
+* **템플릿 기반 이메일 생성**  
+  문서 템플릿을 서식이 적용된 이메일 콘텐츠로 변환할 수 있습니다.
+
+* **커뮤니케이션 시스템 간 콘텐츠 재사용**  
+  자동 이메일 커뮤니케이션 파이프라인에서 문서 콘텐츠를 재사용할 수 있도록 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 이메일 알림 시스템**  
+  DOCX 파일을 자동으로 이메일 콘텐츠로 변환하고 프로그래밍 방식으로 수신자에게 보낼 수 있습니다.
+
+* **문서-이메일 워크플로 자동화**  
+  Python 자동화 파이프라인을 통해 생성된 문서를 이메일 준비 형식으로 변환할 수 있습니다.
+
+* **동적 콘텐츠 전달 플랫폼**  
+  시스템이 DOCX 문서를 자동화된 커뮤니케이션 프로세스를 위한 이메일 메시지로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

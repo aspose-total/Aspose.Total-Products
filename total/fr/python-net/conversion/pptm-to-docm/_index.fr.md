@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversion de PPTM en DOCM avec les API Python permet de convertir le contenu de présentation activé par des macros en un format de traitement de texte également activé par des macros, offrant ainsi des possibilités d'édition avancée et de prise en charge de l'automatisation. Cela est utile lorsque le matériel de présentation doit être transféré vers des environnements de documents qui reposent sur des scripts intégrés ou une logique de modèle.
+
+Cette conversion est particulièrement pertinente pour les flux de travail d'entreprise automatisés où la génération de documents, la personnalisation et le post‑traitement scripté sont nécessaires. Elle contribue à unifier le contenu des présentations avec les systèmes d'automatisation de documents tout en maintenant la compatibilité avec les opérations activées par des macros.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation de documents activés par macros**
+  Déplace le contenu de la présentation vers un format de document qui prend en charge les comportements automatisés des documents.
+
+* **Intégration avancée des flux de travail**
+  Permet au contenu dérivé de la présentation de participer aux processus de documents scriptés.
+
+* **Conversion de contenu métier éditable**
+  Prend en charge la transformation des diapositives en documents pour une édition contrôlée et une réutilisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Migration de contenu automatisée**
+  Transfère le contenu PPTM en fichiers DOCM pour l'exécution de flux de travail centrés sur les documents.
+
+* **Pipelines de génération de documents**
+  Alimente les données de présentation dans les systèmes de production de documents activés par macros.
+
+* **Post‑traitement basé sur des règles**
+  Permet aux documents convertis d'être traités davantage via des routines de formatage automatisé ou de logique.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

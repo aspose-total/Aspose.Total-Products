@@ -65,7 +65,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de TSV para WordML transforma dados tabulares estruturados em marcação de processamento de texto baseada em XML, adequada para geração de documentos, interoperabilidade e fluxos de trabalho de conteúdo estruturado. É valiosa quando os sistemas precisam de saída de documento amigável a máquinas que ainda se alinhe aos casos de uso de processamento de texto.
+
+Usando APIs Python, a conversão de TSV para WordML pode ser automatizada para suportar ambientes com alta integração, transformação de conteúdo escalável e montagem programática de documentos a partir de fontes de dados estruturados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Geração de Documentos Baseada em XML**  
+  Converte dados TSV em marcação estruturada adequada para fluxos de trabalho de processamento de texto.
+
+* **Troca Interoperável de Conteúdo**  
+  Suporta a saída de documentos em ambientes que dependem de representações XML estruturadas.
+
+* **Montagem Programática de Documentos**  
+  Ajuda a transformar dados tabulares brutos em formatos de documento legíveis por máquina.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Pipelines de Saída Estruturada**  
+  APIs Python podem gerar documentos WordML a partir de fontes TSV automaticamente.
+
+* **Integração Sistema-a-Sistema**  
+  A automação permite o movimento suave de dados estruturados para fluxos de trabalho de documentos baseados em XML.
+
+* **Transformação de Documentos Escalável**  
+  Grandes conjuntos de dados TSV podem ser convertidos em WordML como parte de sistemas de processamento de alto volume.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

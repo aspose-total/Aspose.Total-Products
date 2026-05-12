@@ -64,7 +64,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX를 XLTX로 변환하면 프레젠테이션 콘텐츠를 일관되고 재사용 가능하며 구조화된 워크북 생성을 위해 설계된 스프레드시트 템플릿 형식으로 변환합니다. 이 변환은 프레젠테이션에서 파생된 정보를 반복적인 비즈니스 또는 분석용 표준 스프레드시트 모델로 전환해야 할 때 유용합니다.
+
+자동화된 환경에서는 PPSX를 XLTX로 변환하여 템플릿 기반 스프레드시트 워크플로를 지원하고 일관성을 향상시키며 Python API를 사용한 확장 가능한 워크북 준비를 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 스프레드시트 템플릿**  
+  슬라이드 콘텐츠를 반복적인 스프레드시트 생성용 템플릿으로 변환합니다.
+
+* **표준화된 워크북 구조**  
+  생성된 파일 전반에 걸쳐 일관된 레이아웃과 구성을 유지하는 데 도움이 됩니다.
+
+* **프레젠테이션 데이터 재활용**  
+  추출된 콘텐츠를 반복적인 스프레드시트 기반 작업에 사용할 수 있게 합니다.
+
+* **효율적인 스프레드시트 설정**  
+  구조화된 워크북 출력을 구축할 때 수동 작업을 줄여줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **템플릿 기반 워크북 자동화**  
+  Python API를 사용하면 PPSX 파일을 반복 사용을 위한 XLTX 템플릿으로 변환할 수 있습니다.
+
+* **일관된 다중 파일 출력**  
+  자동화는 다수의 프레젠테이션에서 표준화된 스프레드시트 템플릿을 만드는 데 도움이 됩니다.
+
+* **확장 가능한 보고 프레임워크**  
+  변환된 템플릿은 반복적인 보고 및 분석 워크플로를 지원할 수 있습니다.
+
+* **프로그래밍 방식 스프레드시트 준비**  
+  프레젠테이션 콘텐츠를 자동으로 재사용 가능한 워크북 모델로 변환할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

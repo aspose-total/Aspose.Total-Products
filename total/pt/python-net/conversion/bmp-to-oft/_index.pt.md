@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de BMP para OFT permite que imagens bitmap sejam incorporadas em arquivos de modelo de e‑mail usando o formato OFT. Esses modelos são frequentemente usados para padronizar os processos de comunicação por e‑mail.
+
+Os sistemas de automação se beneficiam da conversão de BMP para OFT ao criar modelos de mensagem reutilizáveis que incluem conteúdo visual. Isso ajuda a simplificar os fluxos de trabalho de comunicação e a manter a consistência em sistemas de mensagens automatizadas.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Criação de Modelos de E‑mail**  
+  Imagens BMP podem ser incorporadas em modelos de e‑mail OFT reutilizáveis.
+
+* **Fluxos de Comunicação Padronizados**  
+  As organizações podem criar modelos visuais para mensagens automatizadas.
+
+* **Layouts de Mensagem Reutilizáveis**  
+  Os sistemas podem preparar modelos contendo elementos de imagem para uso repetido.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Modelos**  
+  Scripts geram modelos OFT a partir de imagens BMP para sistemas de mensagens.
+
+* **Modelos de Mensagens Baseados em Fluxo de Trabalho**  
+  Aplicações criam modelos de e‑mail dinâmicos com visuais incorporados.
+
+* **Sistemas de Distribuição de Modelos**  
+  Pipelines automatizados geram e distribuem modelos de e‑mail padronizados.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

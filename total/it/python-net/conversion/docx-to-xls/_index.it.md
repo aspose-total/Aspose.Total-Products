@@ -65,7 +65,44 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to XLS conversion trasforma i documenti di elaborazione testi in file di foglio di calcolo utilizzati per analisi tabulari, reportistica e gestione strutturata dei dati. Questo processo consente di riutilizzare tabelle e informazioni organizzate dai documenti nei flussi di lavoro basati sui fogli di calcolo.
+
+Le API Python consentono di automatizzare la conversione da DOCX a XLS nei sistemi di reportistica, nei progetti di migrazione e nelle pipeline di dati aziendali. Supportano l'estrazione coerente di contenuti strutturati dai documenti verso ambienti di fogli di calcolo legacy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione dati da foglio di calcolo**  
+  Converte tabelle DOCX e testo strutturato in fogli di lavoro pronti per il foglio di calcolo.
+
+* **Supporto alla reportistica legacy**  
+  Consente di riutilizzare dati basati su documenti nei flussi di lavoro consolidati dei fogli di calcolo.
+
+* **Migrazione dati da documenti**  
+  Aiuta a trasferire informazioni strutturate in ambienti di fogli di calcolo per l'analisi.
+
+* **Elaborazione dati operativi**  
+  Supporta l'uso del contenuto dei documenti nella revisione tabellare e nei sistemi di reportistica.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione automatizzata di fogli di calcolo**  
+  I sistemi possono convertire file DOCX in formato XLS per i flussi di lavoro aziendali a valle.
+
+* **Conversione batch di fogli di calcolo legacy**  
+  Gli script Python possono elaborare collezioni di documenti in output di fogli di calcolo in modo programmatico.
+
+* **Trasformazione dati aziendali**  
+  Il contenuto dei documenti può essere esportato in file XLS per sistemi di reportistica e archiviazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

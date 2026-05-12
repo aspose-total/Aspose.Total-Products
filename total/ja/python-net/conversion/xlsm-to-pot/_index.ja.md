@@ -64,7 +64,47 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM から POT への変換は、マクロ対応のスプレッドシート コンテンツを、一貫したスライドベースの出力を作成するために使用されるプレゼンテーション テンプレート形式に変換します。スプレッドシートの情報が、レポート、トレーニング、またはコミュニケーションのために繰り返し可能なプレゼンテーション構造を駆動する必要がある場合に有用です。
+
+この変換は、構造化されたスプレッドシート ソースからプログラム的にプレゼンテーション テンプレートを生成できるため、オートメーションに関連しています。Python API を使用することで、組織は XLSM から POT への変換を自動化し、プレゼンテーションの作成を効率化し、視覚的なコミュニケーション ワークフローを標準化できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **プレゼンテーション テンプレート作成**
+  スプレッドシート データを、定期的なプレゼンテーション用の再利用可能なスライド テンプレートに変換します。
+
+* **一貫したビジュアルレポート**
+  運用またはエグゼクティブレポート全体でプレゼンテーション構造の標準化に役立ちます。
+
+* **トレーニング資料のフレームワーク**
+  構造化されたスプレッドシート コンテンツから繰り返し使用できるスライド資産の構築を支援します。
+
+* **コミュニケーションの標準化**
+  内部および外部のコンテンツ配信に対して、統一されたプレゼンテーション レイアウトを実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化されたスライドテンプレート生成**
+  Python API は、定期的なプレゼンテーション ワークフロー用に XLSM ファイルを POT テンプレートに変換できます。
+
+* **バッチ プレゼンテーション作成**
+  複数のスプレッドシート ソースを、プログラム的に再利用可能なプレゼンテーション テンプレートに変換できます。
+
+* **レポート ワークフロー統合**
+  スプレッドシート駆動のデータは、プレゼンテーション用テンプレート ファイルを準備する自動化システムに供給できます。
+
+* **標準化されたコンテンツ配信**
+  変換により、スケーラブルなコミュニケーション プロセス全体で一貫したスライド構造が確保されます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

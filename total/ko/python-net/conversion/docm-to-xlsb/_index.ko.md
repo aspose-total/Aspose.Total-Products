@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to XLSB 변환은 매크로가 포함된 문서를 효율적인 저장 및 워크북 데이터 처리를 위해 설계된 이진 스프레드시트 파일로 변환합니다. 문서에서 파생된 콘텐츠를 성능에 민감한 워크플로우에서 압축된 스프레드시트 출력으로 이동해야 할 때 유용합니다.
+
+자동화 환경에서 DOCM to XLSB 변환은 대규모 스프레드시트 생성, 효율적인 데이터 패키징, 구조화된 문서 콘텐츠를 워크북 파이프라인으로 원활하게 이동하는 것을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **압축 스프레드시트 출력**
+  문서 데이터를 저장 효율성을 최적화한 이진 워크북 파일로 변환합니다.
+
+* **대용량 데이터 처리**
+  대규모 구조화된 출력이 압축 스프레드시트 형식의 이점을 얻는 시나리오를 지원합니다.
+
+* **운영 워크북 재사용**
+  문서 테이블을 성능이 뛰어난 스프레드시트 환경으로 가져오는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **효율적인 배치 워크북 생성**
+  확장 가능한 처리를 위해 DOCM 소스에서 XLSB 파일을 생성합니다.
+
+* **데이터 파이프라인 최적화**
+  압축 스프레드시트 저장 및 전송을 우선시하는 워크플로우를 지원합니다.
+
+* **자동화된 구조화 내보내기**
+  반복되는 문서 콘텐츠를 프로그래밍 방식으로 이진 워크북 출력으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

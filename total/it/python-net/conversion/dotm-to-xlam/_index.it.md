@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da DOTM a XLAM converte i modelli Word abilitati alle macro in file add-in di Excel per l'automazione dei fogli di calcolo e la distribuzione di funzionalità riutilizzabili. È utile quando la logica o il contenuto basati su modello devono supportare flussi di lavoro incentrati su Excel in forma di estensione riutilizzabile.
+
+L'uso delle API Python per la conversione da DOTM a XLAM supporta l'automazione consentendo al contenuto e alle funzionalità strutturate di passare dai modelli di documento ai flussi di lavoro degli add-in di Excel. Questo aiuta a standardizzare le operazioni riutilizzabili e supporta l'integrazione scalabile dei processi aziendali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Preparazione dell'Add-In per Foglio di Calcolo**
+  Converti le sorgenti DOTM in output XLAM per supportare flussi di lavoro riutilizzabili orientati a Excel.
+
+* **Creazione di Asset di Automazione Riutilizzabili**
+  Riutilizza contenuti basati su modello in file adatti a un uso ripetuto nei fogli di calcolo.
+
+* **Standardizzazione Operativa**
+  Supporta la distribuzione controllata di funzionalità riutilizzabili per fogli di calcolo derivanti da modelli di documento.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di Automazione" %}}
+
+* **Generazione Automatizzata di Add-In**
+  I sistemi possono creare output compatibili XLAM da modelli DOTM come parte di flussi di lavoro avanzati per fogli di calcolo.
+
+* **Distribuzione Riutilizzabile della Logica di Business**
+  La conversione supporta la preparazione programmatica di asset di supporto per fogli di calcolo ripetibili.
+
+* **Imballaggio di Automazione in Batch**
+  L'elaborazione programmatica consente la trasformazione su larga scala di file modello in output XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

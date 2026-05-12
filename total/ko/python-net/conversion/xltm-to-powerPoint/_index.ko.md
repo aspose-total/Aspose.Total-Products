@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLTM을 PowerPoint로 변환하면 매크로가 포함된 Excel 템플릿을 시각적 커뮤니케이션, 보고 및 이해관계자 공유에 적합한 프레젠테이션 파일로 변환할 수 있습니다. 구조화된 스프레드시트 내용을 슬라이드 기반 형식으로 제공해야 할 때 프레젠테이션을 보다 쉽게 제시하고 검토할 수 있습니다.
+
+자동화 기반 시스템에서는 XLTM을 PowerPoint로 변환함으로써 커뮤니케이션 효율성을 향상하고, 반복 가능한 프레젠테이션 생성을 지원하며, 분석 데이터 소스와 프레젠테이션 워크플로를 연결합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿에서 프레젠테이션 생성**  
+  워크북 템플릿 내용을 회의 및 보고용 프레젠테이션 파일로 변환합니다.
+
+* **시각적 커뮤니케이션 지원**  
+  구조화된 스프레드시트 데이터를 설명하고 공유하기 쉬운 슬라이드 기반 콘텐츠로 전환하는 데 도움을 줍니다.
+
+* **경영진 보고서 준비**  
+  반복되는 스프레드시트 기반 비즈니스 템플릿에서 프레젠테이션 자료를 만드는 것을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 프레젠테이션 생성**  
+  예약되거나 트리거 기반 워크플로의 일부로 XLTM 파일에서 슬라이드 덱을 생성합니다.
+
+* **데이터‑투‑슬라이드 파이프라인**  
+  스프레드시트 템플릿 입력을 프레젠테이션 출력과 연결하여 보고를 간소화합니다.
+
+* **배치 프레젠테이션 처리**  
+  다수의 XLTM 파일을 대규모로 PowerPoint 출력으로 변환할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

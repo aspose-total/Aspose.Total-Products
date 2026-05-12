@@ -46,7 +46,44 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion OST vers DOCM transforme les données de boîte aux lettres en format de document macro‑activé, prenant en charge des flux de travail documentaires avancés qui nécessitent un contenu modifiable avec des capacités d’automatisation intégrées. Elle est utile lorsque le contenu d’e‑mail converti doit participer à des processus documentaires structurés ou scriptés.
+
+Dans les environnements axés sur l’automatisation, la conversion OST vers DOCM permet au contenu de la boîte aux lettres de se transférer directement dans des écosystèmes de documents programmables. Les API Python permettent aux organisations d’automatiser la conversion à grande échelle, améliorant la cohérence, la rapidité opérationnelle et l’intégration avec les processus métier centrés sur les documents.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Documentation macro‑activée**  
+  Convertit le contenu des e‑mails en fichiers DOCM pour les flux de travail qui reposent sur l’automatisation intégrée des documents.
+
+* **Reporting orienté processus**  
+  Prend en charge les systèmes de reporting où les données de boîte aux lettres converties doivent fonctionner avec une logique documentaire automatisée.
+
+* **Opérations basées sur des modèles**  
+  Facilite l’intégration du contenu issu des e‑mails dans des modèles d’entreprise réutilisables et macro‑activés.
+
+* **Réutilisation structurée du contenu**  
+  Facilite l’incorporation des informations de la boîte aux lettres dans des flux de travail documentaires dynamiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Assemblage de rapports programmatique**  
+  L’automatisation Python convertit les données OST en DOCM pour des pipelines de reporting scriptés.
+
+* **Flux de travail documentaires dynamiques**  
+  Les systèmes automatisés utilisent des documents macro‑activés pour traiter et gérer le contenu d’e‑mail converti.
+
+* **Population de modèles d’entreprise**  
+  Les routines de conversion alimentent les modèles de documents avec les données de la boîte aux lettres, incluant un comportement d’automatisation intégré.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

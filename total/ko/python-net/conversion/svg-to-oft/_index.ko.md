@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 SVG를 OFT로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SVG에서 OFT로의 변환은 벡터 기반 콘텐츠를 반복 가능한 메시지 생성과 표준화된 커뮤니케이션 워크플로를 지원하는 이메일 템플릿 형식으로 변환합니다. 이는 그래픽 또는 레이아웃 중심의 원본 자료를 향후 이메일 생성용 구조화된 템플릿으로 재사용해야 할 때 유용합니다.
+
+Python API를 사용한 SVG에서 OFT로의 변환은 자동화 팀이 SVG 자산으로부터 확장 가능한 템플릿 생성 파이프라인을 구축할 수 있게 합니다. 이는 수동 포맷팅을 줄이고 일관된 출력물을 지원하며 프로그래밍 방식의 템플릿 생성을 가능하게 하여 생산성을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **재사용 가능한 이메일 템플릿 생성**  
+  반복 가능한 메시징 워크플로를 위해 SVG 콘텐츠를 OFT 파일로 변환합니다.
+
+* **일관된 커뮤니케이션 디자인**  
+  반복되는 이메일 템플릿 전반에 걸쳐 구조화된 레이아웃 의도를 유지하도록 돕습니다.
+
+* **운영 템플릿 표준화**  
+  시각적 원본 문서에서 템플릿 파일을 중앙 집중식으로 생성하는 것을 지원합니다.
+
+* **워크플로 준비된 콘텐츠 재사용**  
+  팀이 SVG 자산을 템플릿 기반 커뮤니케이션 리소스로 재활용할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 게시**  
+  Python 애플리케이션은 SVG 디자인을 OFT 템플릿으로 변환하여 일관된 재사용을 가능하게 합니다.
+
+* **캠페인 준비 워크플로**  
+  시스템은 승인된 SVG 자산으로부터 프로그래밍 방식으로 이메일 템플릿을 생성할 수 있습니다.
+
+* **배치 템플릿 생성**  
+  여러 SVG 파일을 OFT 출력으로 변환하여 확장 가능한 커뮤니케이션 작업을 수행할 수 있습니다.
+
+* **동적 템플릿 관리**  
+  자동화 파이프라인은 SVG 콘텐츠가 변경될 때 OFT 템플릿을 업데이트하고 재생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

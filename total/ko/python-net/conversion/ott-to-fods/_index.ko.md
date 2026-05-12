@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 FODS로 변환하면 OpenDocument 텍스트 템플릿을 읽기 쉽고 구조화된 평면 XML 스프레드시트 문서로 변환합니다. 이는 개방형 텍스트 기반 스프레드시트 표현을 선호하는 워크플로에 유용합니다.
+
+이 변환은 문서 내용을 버전 관리하고 검사하며 XML 친화적인 프로세스에 통합하기 쉽게 만들어 자동화를 지원합니다. 투명성, 구조 및 상호 운용성이 중요한 경우에 특히 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 스프레드시트 생성**  
+  텍스트 템플릿을 구조화된 평면 스프레드시트 문서로 변환합니다.
+
+* **읽기 쉬운 데이터 직렬화**  
+  프로그래밍 방식으로 쉽게 검사할 수 있는 텍스트 기반 스프레드시트 콘텐츠를 생성합니다.
+
+* **워크플로 상호 운용성**  
+  오픈 문서 표준 및 XML 처리를 기반으로 하는 시스템에 적합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **XML 기반 데이터 파이프라인**  
+  템플릿에서 파생된 콘텐츠를 평면 구조화된 스프레드시트 워크플로에 전달합니다.
+
+* **버전 관리 친화적 내보내기**  
+  차이점 친화적인 스프레드시트 문서를 자동으로 생성하도록 지원합니다.
+
+* **표준 기반 처리**  
+  오픈 포맷 환경에서 반복 가능한 변환을 가능하게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

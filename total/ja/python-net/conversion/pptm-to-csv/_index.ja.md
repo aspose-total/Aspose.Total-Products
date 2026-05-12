@@ -64,7 +64,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM から CSV への変換は、Python API を使用してスライドベースの表形式または構造化されたプレゼンテーションデータを、行と列用に設計されたシンプルでポータブルなテキスト形式に抽出できるようにします。これは、レポートパイプライン、データ分析環境、軽量な統合ワークフローでプレゼンテーションコンテンツを再利用する必要がある組織にとって価値があります。
+
+この変換アプローチは、プレゼンテーション由来の情報を機械可読なデータセットに変換することで、検証、変換、システム間の移動が容易になり、オートメーションを支援します。マクロ対応プレゼンテーションファイルから大規模に構造化データを取得する必要がある文書処理ワークフローにおいて、運用効率を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **分析用データ抽出**
+  プレゼンテーションベースのテーブルを、分析およびレポートに適した構造化レコードに変換します。
+
+* **データパイプラインでのコンテンツ再利用**
+  スライドコンテンツをスクリプト、データベース、オートメーションツールにインポートしやすくします。
+
+* **構造化プレゼンテーションデータのアーカイブ**
+  重要な表形式情報を軽量で相互運用可能な形式で保存します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **バッチプレゼンテーション処理**
+  複数の PPTM ファイルを CSV 出力に変換し、下流処理を自動化します。
+
+* **自動レポートワークフロー**
+  プレゼンテーションデータの抽出を、スケジュールされたレポートやダッシュボードパイプラインに対応させます。
+
+* **データ正規化パイプライン**
+  エクスポートされたスライドデータのプログラムによるクリーンアップと再構築を可能にし、システム統合を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

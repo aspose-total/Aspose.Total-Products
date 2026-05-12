@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 XLTM을 PPS로 변환하면 매크로가 포함된 Excel 템플릿을 직접 표시용 프레젠테이션 슬라이드쇼 파일로 변환할 수 있습니다. 이는 스프레드시트 기반 콘텐츠를 빠른 조회와 전달에 최적화된 프레젠테이션 출력으로 전환해야 할 때 유용합니다.
+
+자동화된 환경에서 XLTM을 PPS로 변환하면 프레젠테이션 게시가 향상되고, 슬라이드 배포가 간소화되며, 디스플레이 준비가 된 파일을 효율적으로 생성할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **슬라이드쇼 전달 출력**  
+  구조화된 스프레드시트 템플릿을 직접 재생하도록 설계된 프레젠테이션 파일로 변환합니다.
+
+* **회의 준비용 콘텐츠 준비**  
+  워크북 기반 소스 자료에서 디스플레이 중심의 프레젠테이션을 준비하는 데 도움을 줍니다.
+
+* **빠른 프레젠테이션 배포**  
+  내부 또는 외부 커뮤니케이션을 위한 사전 형식화된 슬라이드쇼 콘텐츠 전달을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 슬라이드쇼 게시**  
+  반복적인 프레젠테이션 배포 워크플로를 위해 XLTM 템플릿에서 PPS 파일을 생성합니다.
+
+* **프레젠테이션 전달 파이프라인**  
+  스프레드시트 템플릿 데이터를 바로 보여줄 수 있는 슬라이드쇼 출력과 연결합니다.
+
+* **대량 회의 자료 생성**  
+  구조화된 소스 템플릿에서 디스플레이 준비가 된 프레젠테이션을 확장 가능하게 생산할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

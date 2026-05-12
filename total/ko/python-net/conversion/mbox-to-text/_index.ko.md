@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 MBOX를 TEXT로 변환 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX를 TEXT로 변환하면 메일함 아카이브를 일반 텍스트 파일로 바꾸어 이메일 콘텐츠를 가볍고 검색 가능하며 다양한 시스템에서 쉽게 처리할 수 있게 합니다. 이는 원시 콘텐츠 추출, 인덱싱 또는 간단한 장기 보관에 중점을 둔 워크플로에 이상적입니다.
+
+Python API를 사용하면 조직이 MBOX 파일의 텍스트 변환을 자동화하여 분석, 검색 파이프라인 및 대규모 콘텐츠 정규화 프로세스를 지원할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **단순 콘텐츠 추출**
+  이메일을 텍스트 파일로 변환하여 간단히 읽고 후속 처리에 활용합니다.
+
+* **검색 및 인덱스 준비**
+  메일함 데이터를 인덱싱, 파싱 및 텍스트 분석 워크플로에 사용할 수 있도록 준비합니다.
+
+* **경량 아카이브**
+  저장 및 전송이 용이한 최소 형식으로 메시지 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 텍스트 정규화**
+  메일함 아카이브를 일반 텍스트로 변환하여 일관된 데이터 처리를 가능하게 합니다.
+
+* **검색 파이프라인 통합**
+  변환된 텍스트 파일을 인덱싱, 검색 또는 분류 시스템에 공급합니다.
+
+* **대량 콘텐츠 추출**
+  Python을 사용하여 대규모 MBOX 컬렉션을 구조화된 텍스트 출력으로 처리합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

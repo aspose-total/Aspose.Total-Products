@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para Word converte arquivos de caixa de correio em documentos editáveis de processamento de texto, facilitando a organização, revisão e compartilhamento do conteúdo de e‑mail em fluxos de trabalho baseados em documentos. Isso é útil quando comunicações arquivadas precisam ser reaproveitadas em relatórios, registros ou conteúdo empresarial estruturado.
+
+Usando APIs Python, essa conversão pode ser automatizada para reduzir o esforço manual, melhorar a consistência e suportar a transformação em larga escala de e‑mail para documento em sistemas modernos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Exportação de Conteúdo de E‑mail Editável**
+  Converta e‑mails em documentos de processamento de texto para revisão e reutilização.
+
+* **Suporte à Documentação Empresarial**
+  Utilize o conteúdo arquivado da caixa de correio em relatórios, resumos e registros internos.
+
+* **Manipulação Colaborativa de Conteúdo**
+  Compartilhe documentos de mensagens convertidos em fluxos de trabalho de escritório comuns.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Criação Automatizada de Documentos**
+  Transforme entradas da caixa de correio em arquivos compatíveis com Word por meio de fluxos de trabalho Python.
+
+* **Reuso Operacional de Conteúdo**
+  Alimente documentos de e‑mail convertidos em pipelines administrativos e de relatórios.
+
+* **Integração de Escritório Escalável**
+  Padronize a conversão de caixas de correio para processos de gerenciamento de documentos de alto volume.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

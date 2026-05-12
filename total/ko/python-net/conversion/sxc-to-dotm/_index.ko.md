@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC에서 DOTM으로의 변환은 스프레드시트 정보를 재사용 가능하고 자동화에 친화적인 문서 생성을 위해 설계된 매크로 사용 문서 템플릿 형식으로 변환합니다. 이는 조직이 내장된 로직이나 고급 동작이 포함된 반복 가능한 템플릿이 필요할 때 특히 관련이 있습니다.
+
+Python API를 사용하여 SXC에서 DOTM으로의 변환은 구조화된 스프레드시트 입력과 재사용 가능한 템플릿 아키텍처를 결합함으로써 자동화 파이프라인을 강화하고 확장 가능하며 제어된 문서 생산을 가능하게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **매크로 사용 템플릿**  
+  스프레드시트 내용이 변환된 후 자동화 작업을 지원하는 재사용 가능한 템플릿을 생성합니다.
+
+* **고급 문서 워크플로**  
+  구조와 스크립트 기능을 모두 필요로 하는 문서를 위한 템플릿 시스템 구축을 돕습니다.
+
+* **반복 가능한 출력 설계**  
+  일관된 레이아웃과 프로세스 준비된 동작으로 반복적인 문서 생성을 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 템플릿 배포**  
+  반복적인 운영 사용을 위해 Python 워크플로를 통해 DOTM 템플릿을 생성합니다.
+
+* **스크립트 기반 문서 생성**  
+  내장된 자동화 로직이 포함된 템플릿으로부터 하위 시스템이 문서를 생성하도록 합니다.
+
+* **기업 프로세스 표준화**  
+  구조와 자동화가 모두 중요한 대량 문서 생성에서 일관성을 향상시킵니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+BMPからMSGへの変換により、ビットマップ画像をMSGメールメッセージ形式に埋め込んだり添付したりできます。この形式は、完全なメタデータを含む個々のメールメッセージを保存するために一般的に使用されます。
+
+自動化された環境では、BMP画像をMSGファイルに変換することで、プログラム的に構造化されたメールメッセージを生成するのに役立ちます。これにより、自動レポート作成、アーカイブ、コミュニケーションワークフローが可能になります。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **自動メッセージ作成**  
+  システムは、コミュニケーションワークフローのためにBMP画像を含むMSGメールファイルを生成できます。
+
+* **ビジュアル文書配布**  
+  アプリケーションは、構造化されたメールメッセージを通じて画像ベースの情報を送信できます。
+
+* **メール記録の保存**  
+  組織は、文書化のために画像ベースの通信をMSG形式で保存できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラム的メール生成**  
+  アプリケーションは、BMP画像から自動的にMSGメッセージを作成します。
+
+* **自動通知システム**  
+  監視ツールは、画像ベースのアラートをMSGファイルとしてパッケージ化して生成します。
+
+* **バッチメッセージ処理**  
+  大量のBMP画像を自動パイプラインを通じてMSGメッセージに変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

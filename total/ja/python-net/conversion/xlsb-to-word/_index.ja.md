@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から Word への変換は、バイナリのスプレッドシート データをワードプロセッシング ドキュメントに変換し、スプレッドシートベースの情報を文書指向の環境で読みやすく、編集しやすく、配布しやすくします。構造化データを物語形式やプレゼンテーション用コンテンツに変換する必要がある場合に価値があります。
+
+自動化システム向けに、XLSB から Word への変換は、スプレッドシート ソースから効率的にドキュメントを作成できるよう支援し、組織がレポート作成を拡大し、手動の書式設定作業を削減し、データ処理と文書化ワークフローを結びつけるのに役立ちます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **読みやすいドキュメント出力**  
+  スプレッドシートの内容をワードプロセッシング ファイルに変換し、レビューや共有を容易にします。
+
+* **ビジネスコミュニケーション**  
+  構造化データを、より広い受け手向けの文書に適した形式に変換するのに役立ちます。
+
+* **コンテンツの再フォーマット**  
+  スプレッドシート情報を編集可能なテキストドキュメントに再利用することをサポートします。
+
+* **ワークフロー文書化**  
+  スプレッドシート由来のコンテンツを標準的な文書プロセスに組み込めるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された Word ドキュメント生成**  
+  システムは、レポート パイプラインの一部として XLSB ファイルを Word ドキュメントに変換できます。
+
+* **大量変換プロセス**  
+  複数のスプレッドシート ソースを効率的に編集可能なドキュメント出力に変換できます。
+
+* **統合レポートワークフロー**  
+  スプレッドシート データは、定期的なビジネスニーズ向けの自動ドキュメント作成に供給できます。
+
+* **一貫したコンテンツ配信**  
+  自動変換は、スプレッドシート データが最終ドキュメントにどのように表示されるかを標準化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

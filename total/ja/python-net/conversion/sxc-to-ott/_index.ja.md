@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC から OTT への変換は、スプレッドシートベースのコンテンツを、繰り返し利用可能で構造化されたテキスト文書作成を目的としたオープンドキュメントテンプレート形式に変換します。これは、スプレッドシートの情報をレポート、通知、要約、または標準化された社内文書の再利用可能なテンプレートに反映させる必要がある場合に便利です。
+
+Python API を使用することで、SXC から OTT への変換は、テンプレート中心のワークフローを可能にし、一貫性の向上、手動フォーマットの削減、そして大規模な文書生成の簡素化を実現し、効率的な自動化をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープンテンプレート作成**  
+  スプレッドシートデータを将来の文書生成のための再利用可能なテンプレートに変換します。
+
+* **一貫した文書レイアウト**  
+  繰り返し行われる業務文書作成タスク全体で均一なフォーマットを維持するのに役立ちます。
+
+* **再利用可能なプロセス資産**  
+  業務文書作成を効率化するテンプレートファイルの作成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化パイプライン**  
+  Python ベースの変換ワークフローを通じて、SXC ファイルから OTT テンプレートを生成します。
+
+* **標準化された出力生成**  
+  単一の再利用可能なオープンフォーマットテンプレートから繰り返し文書を作成できるようにします。
+
+* **プロセス効率の向上**  
+  構造化されたテンプレートをプログラムで準備することで、手動設定時間を削減します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

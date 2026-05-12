@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PST から DOC への変換は、Python API においてメールボックスのコンテンツを編集可能な文書ワークフローで再利用しやすくします。メールやスレッド、抽出されたテキストをレビュー、編集、構造化された文書化のためにワードプロセッサ形式に変換する必要がある場合に有用です。
+
+自動化の観点からは、PST から DOC への変換は、アーカイブされたコミュニケーションとビジネス文書システムをつなぐ橋渡しをします。メールボックスデータをテンプレート、レポートパイプライン、共同編集プロセスに流すことで、効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **編集可能なメッセージエクスポート**
+  メールボックスのコンテンツを、直接の修正と書式設定をサポートする文書形式に変換します。
+
+* **ドキュメント作成**
+  メール記録を内部または外部で使用できる構造化ファイルに変換するのに役立ちます。
+
+* **コンテンツ再利用ワークフロー**
+  抽出されたコミュニケーションを、業務文書で再利用しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動化されたメールから文書へのパイプライン**
+  システムは PST コンテンツを DOC ファイルに変換し、下流の編集や承認に利用できます。
+
+* **テンプレートベースのレポーティング**
+  変換されたコンテンツは、編集可能なソース素材が必要な文書ワークフローに挿入できます。
+
+* **スケーラブルなレコードパッケージング**
+  プログラムによる処理により、メールボックスデータを大量にエクスポートし、管理しやすい文書出力に変換できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

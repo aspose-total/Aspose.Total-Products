@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS에서 DOT로의 변환을 통해 스프레드시트 데이터를 Word 템플릿 파일로 전환할 수 있으며, 이는 향후 문서 생성에 재사용 가능한 기반으로 활용될 수 있습니다. 스프레드시트 내용이 일회성 출력이 아니라 반복 가능한 문서 구조에 반영되어야 할 때 유용합니다.
+
+Python API를 사용하면 시스템이 프로그래밍 방식으로 템플릿 준비 자산을 생성하고 부서나 워크플로 전반에 걸쳐 일관되게 적용할 수 있어 XLS에서 DOT로의 변환을 자동화에 효율적으로 만들 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **템플릿 생성**
+  스프레드시트 내용을 DOT 파일로 변환하여 향후 문서를 위한 재사용 가능한 레이아웃을 정의합니다.
+
+* **표준화된 문서 디자인**
+  XLS 데이터를 사용하여 반복적인 문서 요구에 맞는 구조화된 템플릿을 설계합니다.
+
+* **재사용 가능한 콘텐츠 프레임워크**
+  스프레드시트 기반 원본 자료를 활용해 템플릿 기반 워크플로를 구축합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 템플릿 생성**
+  수동 디자인 작업 없이 스프레드시트 입력을 통해 DOT 템플릿을 생성합니다.
+
+* **문서 팩토리 워크플로**
+  Python API를 사용하여 구조화된 스프레드시트 데이터를 재사용 가능한 문서 템플릿 파이프라인에 공급합니다.
+
+* **표준 출력 준비**
+  일관된 문서 작성을 필요로 하는 팀을 위해 템플릿 자산을 동적으로 생성합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

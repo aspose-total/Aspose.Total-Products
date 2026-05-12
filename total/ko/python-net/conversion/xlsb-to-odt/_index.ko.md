@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB를 ODT로 변환하면 이진 스프레드시트 파일을 오픈 문서 텍스트 파일로 전환하여 구조화된 데이터를 편집 가능하고 표준 기반 문서 워크플로우에서 재사용하기 쉽게 만듭니다. 이는 상호 운용성, 접근성 및 장기 문서 유연성을 우선시하는 조직에 가치가 있습니다.
+
+자동화 관점에서 XLSB를 ODT로 변환하면 크로스 플랫폼 문서 생성을 지원하여 스프레드시트 기반 데이터를 확장 가능한 보고, 협업 및 보관 프로세스와 잘 통합되는 오픈 텍스트 형식으로 이동할 수 있게 합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 문서 보고**  
+  오픈 형식을 사용하여 스프레드시트 내용을 편집 가능한 텍스트 문서로 변환합니다.
+
+* **크로스 플랫폼 협업**  
+  스프레드시트에서 파생된 정보를 다양한 시스템 간에 더 쉽게 공유할 수 있게 합니다.
+
+* **접근 가능한 문서화**  
+  유연한 편집 환경에 적합한 형식으로 문서 작성을 지원합니다.
+
+* **상호 운용 가능한 콘텐츠 교환**  
+  스프레드시트 데이터를 표준 기반 문서 워크플로우로 전송하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **오픈 형식 자동화**  
+  XLSB 파일을 플랫폼 중립 워크플로우를 위해 ODT 출력으로 자동 변환할 수 있습니다.
+
+* **배치 보고 파이프라인**  
+  여러 스프레드시트 파일을 대규모로 오픈 문서로 변환할 수 있습니다.
+
+* **시스템 통합 흐름**  
+  자동화된 프로세스가 스프레드시트 데이터를 상호 운용 가능한 문서 생태계로 라우팅할 수 있습니다.
+
+* **보관 준비**  
+  변환 워크플로우는 장기 사용을 위한 편집 가능한 오픈 형식 레코드를 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

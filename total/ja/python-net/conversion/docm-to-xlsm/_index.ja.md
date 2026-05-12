@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から XLSM への変換は、マクロ対応ドキュメントをマクロ対応スプレッドシートファイルに変換し、構造化されたドキュメントデータと共に高度なスプレッドシート自動化を保持できるようにします。変換されたコンテンツが動的なブックワークフローで引き続き使用可能である必要がある場合に価値があります。
+
+最新の自動化システム向けに、DOCM から XLSM への変換は、再利用可能なスプレッドシートプロセス、組み込みロジック、およびドキュメントコンテンツを実行可能なブック資産にスケーラブルに変換することをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用ケース" %}}
+
+* **マクロ対応ブック作成**
+  ドキュメントコンテンツを高度な自動化動作をサポートするスプレッドシートに変換します。
+
+* **動的データ処理**
+  スプレッドシートロジックと構造化コンテンツが連携して動作する必要があるワークフローをサポートします。
+
+* **再利用可能な運用資産**
+  ドキュメントを、繰り返し行われるビジネスプロセスに適したスプレッドシートに変換するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化された高度なブック生成**
+  ロジック駆動のスプレッドシートワークフロー向けに、DOCM 入力から XLSM ファイルを生成します。
+
+* **組み込みプロセスの保持**
+  スプレッドシートベースの出力で自動化機能を保持することをサポートします。
+
+* **スケーラブルなレポートおよび計算パイプライン**
+  大量のドキュメントをマクロ対応ブックに変換することを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

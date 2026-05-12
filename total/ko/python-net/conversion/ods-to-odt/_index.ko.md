@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS에서 ODT로 변환하면 스프레드시트 파일을 OpenDocument 텍스트 문서로 변환합니다. 이를 통해 구조화된 스프레드시트 데이터를 문서 형식으로 표현하면서 오픈 문서 표준과의 호환성을 유지할 수 있습니다.
+
+Python API를 사용하면 ODS에서 ODT로 변환을 데이터 처리 워크플로의 일부로 자동화할 수 있습니다. 이를 통해 확장 가능한 문서 생성, 구조화된 보고 및 오픈 문서 생태계와의 통합이 가능해집니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **오픈 문서 보고**  
+  스프레드시트 데이터 세트를 오픈 표준 문서 보고서로 변환합니다.
+
+* **콘텐츠 변환**  
+  표 형식의 스프레드시트 데이터를 문서 구조 내에 표현합니다.
+
+* **데이터 문서화**  
+  스프레드시트 정보를 기반으로 읽기 쉬운 문서를 생성합니다.
+
+* **오픈 포맷 아카이빙**  
+  스프레드시트 내용을 오픈 문서 텍스트 형식으로 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동화된 오픈 문서 파이프라인**  
+  Python 스크립트가 스프레드시트 파일을 ODT 문서로 자동 변환합니다.
+
+* **배치 문서 생성**  
+  시스템이 여러 스프레드시트를 오픈 문서 보고서로 처리합니다.
+
+* **동적 문서 시스템**  
+  프로그래밍 워크플로가 스프레드시트 데이터에서 문서를 생성합니다.
+
+* **오픈 문서 시스템과의 통합**  
+  자동화된 파이프라인이 오픈 문서 표준과의 호환성을 유지합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

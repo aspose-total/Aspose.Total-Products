@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML을 TSV로 변환하면 구조화된 문서 내용을 간단하고 휴대 가능하며 데이터 워크플로우에서 쉽게 활용할 수 있는 탭 구분 텍스트 파일로 변환합니다. 스프레드시트 전용 형식 없이도 깔끔한 열 구분이 필요할 때 유용합니다.
+
+Python API를 사용하면 테이블 구조를 추출하고 이를 가볍고 자동화에 친화적인 출력물로 변환하여 데이터 처리 및 교환을 효율적으로 수행할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **구분된 데이터 내보내기**
+  WordML 테이블을 TSV 파일로 변환하여 깔끔한 텍스트 기반 데이터 교환을 가능하게 합니다.
+
+* **파이프라인 친화적 출력**
+  구문 분석 및 검증 작업에 적합한 간단한 구조화 파일을 생성합니다.
+
+* **문서 테이블 추출**
+  문서의 표 형식 콘텐츠를 프로그래밍 방식으로 더 쉽게 처리할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 테이블 변환**
+  문서 테이블을 자동으로 TSV 파일로 변환하여 하위 워크플로우에 활용합니다.
+
+* **ETL 워크플로우 지원**
+  TSV 출력을 수집, 매핑 및 변환 파이프라인에 전달합니다.
+
+* **데이터 동기화 작업**
+  업데이트된 문서 데이터를 텍스트 기반 구조 파일로 반복적으로 내보낼 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

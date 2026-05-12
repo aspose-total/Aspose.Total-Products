@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Conversão de DOT para ICS transforma modelos de documentos em dados compatíveis com calendários que podem ser usados para agendamento e troca de eventos. Isso é importante quando o conteúdo do modelo contém informações orientadas por datas que precisam ser compartilhadas por meio de fluxos de trabalho de calendário.
+
+Com APIs Python, a conversão de DOT para ICS pode ser automatizada para suportar geração de eventos, distribuição de compromissos e integração com sistemas de agendamento de forma confiável e repetível.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Eventos a partir de Modelos**
+  Converta informações de agenda baseadas em DOT em arquivos ICS para uso em calendários.
+
+* **Distribuição de Reuniões e Cronogramas**
+  Compartilhe datas e eventos derivados de documentos em um formato padrão de agendamento.
+
+* **Integração de Agendamento de Fluxos de Trabalho**
+  Transforme conteúdo de modelo estruturado em artefatos de calendário para planejamento operacional.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Geração Automatizada de Calendário**
+  Scripts Python podem converter modelos DOT orientados a datas em arquivos ICS para distribuição.
+
+* **Suporte ao Pipeline de Agendamento**
+  A conversão permite que sistemas enviem eventos definidos em documentos para fluxos de trabalho de calendário.
+
+* **Publicação em Lote de Eventos**
+  Processamento programático permite a criação em grande volume de arquivos ICS a partir de múltiplos modelos.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

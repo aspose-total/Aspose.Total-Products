@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Document to PPSM 変換は、Word コンテンツをマクロ対応スライドショーファイルに変換し、再生形式と高度な自動化機能を必要とするプレゼンテーションワークフローに対応します。再利用可能なロジックで構造化されたプレゼンテーション配信を扱う組織に有用です。
+
+Python API を使用すると、DOC から PPSM への変換をドキュメントライブラリ全体にスケールさせることができ、マクロ対応スライドショーの生成と標準化されたプレゼンテーション展開の効率が向上します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **マクロ対応スライドショー作成**
+  ドキュメントコンテンツを高度なプレゼンテーション動作をサポートするスライドショーファイルに変換します。
+
+* **自動化プレゼンテーション配信**
+  プレゼンテーションの再生と組み込み自動化の両方が重要な場面で PPSM 出力を使用します。
+
+* **構造化コミュニケーションパッケージング**
+  ドキュメントベースの情報を制御されたスライドショーフォーマットにパッケージ化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動化スライドショー制作**
+  高度なプレゼンテーションワークフロー向けに DOC 入力から PPSM ファイルを生成します。
+
+* **再生指向コンテンツパイプライン**
+  ドキュメントコンテンツをプログラムでマクロ対応スライドショー資産に変換します。
+
+* **繰り返し可能な配布ワークフロー**
+  Python の自動化を活用して、スケールでプレゼンテーション配信ファイルを標準化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

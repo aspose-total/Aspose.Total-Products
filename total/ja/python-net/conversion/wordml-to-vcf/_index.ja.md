@@ -46,9 +46,43 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordMLからVCFへの変換は、文書ベースの連絡先情報をvCardファイルに変換し、連絡先管理システムにインポートできるようにします。これは、文書に保存された名前、電話番号、住所、または関連情報を標準化された連絡先レコードにする必要がある場合に便利です。
+
+Python API を使用すると、WordMLからVCFへの変換を自動化でき、関連する連絡先フィールドを抽出し、CRM、ディレクトリ、同期ワークフロー向けのポータブルなvCard出力を生成します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **連絡先レコード抽出**
+  WordMLドキュメントから連絡先詳細を変換し、インポート可能なVCFファイルにします。
+
+* **ディレクトリとCRMのサポート**
+  文書ベースの連絡先データを構造化された連絡先システムへ移行するのに役立ちます。
+
+* **ポータブルな連絡先共有**
+  プラットフォーム間で標準化された連絡先情報の交換を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **大量連絡先生成**
+  WordMLに保存されたディレクトリ、フォーム、または連絡先リストからVCF作成を自動化します。
+
+* **CRMデータ準備**
+  標準化された連絡先レコードを自動化された業務システムに取り込むことをサポートします。
+
+* **同期ワークフローの有効化**
+  文書に保持された連絡先詳細を、定期的な同期のためのポータブルファイルに変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
-{{< blocks/products/pf/agp/about-autogen-total >}}
+
 {{< /blocks/products/pf/main-wrap-class >}}
 
 {{< /blocks/products/pf/feature-page-wrap >}}

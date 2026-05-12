@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PST vers RTF dans les API Python transforme le contenu de la boîte aux lettres en format Rich Text pour des flux de travail de documents éditables et portables. Elle est utile lorsque le texte provenant d’e‑mail nécessite la préservation d’une mise en forme de base tout en restant largement compatible avec de nombreux environnements de traitement de texte.
+
+Dans les contextes d’automatisation, la conversion PST vers RTF prend en charge l’échange de documents légers et la transformation efficace des archives de boîtes aux lettres en sorties éditables. Elle permet une réutilisation évolutive du contenu de communication formaté sur différents systèmes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de texte formaté**
+  Convertit le contenu PST en RTF tout en préservant le style de base du document.
+
+* **Flux de travail à large compatibilité**
+  Aide à rendre les fichiers dérivés de la boîte aux lettres utilisables dans divers environnements d’édition.
+
+* **Préparation d'archives éditables**
+  Prend en charge la transformation des enregistrements de communication en forme de document révisable.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de conversion de texte automatisés**
+  Les systèmes peuvent exporter le contenu PST en RTF pour une édition et une réutilisation en aval.
+
+* **Flux de travail de documentation portable**
+  Les fichiers convertis peuvent se déplacer facilement entre les applications bureautiques et les systèmes d’archive.
+
+* **Reformatage de contenu évolutif**
+  La conversion programmatique simplifie la transformation en masse du texte de la boîte aux lettres en fichiers éditables.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

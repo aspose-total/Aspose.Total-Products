@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における Excel から OTT への変換は、スプレッドシートの内容をオープンドキュメントのテキストテンプレートに変換し、一定の文書生成に再利用できるようにします。構造化されたスプレッドシートデータを標準化されたオープンフォーマットテンプレートの基盤として必要とする場合に有用です。
+
+この変換は、スプレッドシートデータを再利用可能な資産に変換し、繰り返し可能な文書化プロセスのためのテンプレート指向ワークフローを実現することで、オートメーションを強化します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **オープンテンプレート作成**  
+  Excel データを OTT ファイルに変換し、再利用可能なテキスト文書テンプレートを作成します。
+
+* **標準化されたオープンワークフロー**  
+  チームやシステム全体で一貫した文書化を支援するテンプレート資産を構築します。
+
+* **文書フレームワークの準備**  
+  繰り返し使用されるオープンフォーマット文書のための構造化された出発点を作成します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**  
+  Python API を使用して、Excel ソースから直接 OTT テンプレートを生成します。
+
+* **繰り返し可能な文書ワークフロー**  
+  変換されたテンプレートを、大規模に文書を作成するシステムに供給します。
+
+* **オープン標準の統合**  
+  ポータビリティと再利用のためにオープンテンプレート形式に依存するオートメーション環境をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

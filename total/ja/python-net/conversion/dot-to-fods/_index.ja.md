@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から FODS への変換は、文書テンプレートをオープンで構造化されたデータ交換に適したフラットな OpenDocument スプレッドシート ファイルに変換します。これは、透明なフォーマットと広範な相互運用性を重視する環境で有用です。
+
+Python API を使用することで、チームは DOT から FODS への処理を自動化し、オープンなワークフローを支援し、手動変換を削減し、データ指向の文書変換における一貫性を向上させることができます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープン スプレッドシート エクスポート**
+  DOT ファイルを FODS に変換し、オープン文書エコシステムでの構造化データ処理を実現します。
+
+* **相互運用可能なデータ共有**
+  フラットなスプレッドシート出力を使用して、システム間でテンプレートベースの情報を交換します。
+
+* **可読性のある構造化ストレージ**
+  抽出されたコンテンツをオープンな XML ベースのスプレッドシート形式で保持し、保守と再利用を可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープン ワークフロー 統合**
+  Python の自動化により、DOT テンプレートから FODS ファイルを生成し、標準ベースの処理を行うことができます。
+
+* **スケジュールされたテンプレート変換**
+  繰り返し実行されるジョブは、最小限の手間でテンプレートコンテンツをフラットなスプレッドシート ファイルにエクスポートできます。
+
+* **スケーラブルなオープンフォーマット変換**
+  動的パイプラインは、大規模な文書から FODS への変換操作を標準化するのに役立ちます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

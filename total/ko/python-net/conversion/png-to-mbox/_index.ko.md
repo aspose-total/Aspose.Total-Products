@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 PNG를 MBOX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG to MBOX 변환은 이미지 기반 콘텐츠를 메일함 아카이브 파일에 포함할 수 있게 하여, 시각 커뮤니케이션 기록을 이메일 저장 및 마이그레이션에 널리 사용되는 형식으로 통합하기 쉽게 합니다. 이는 대량 이메일 아카이브에서 이미지 기반 메시지를 보존하거나 전송해야 하는 조직에 유용합니다.
+
+Python API를 사용하면 팀이 PNG 입력으로부터 MBOX 생성을 자동화하여 일관성을 향상하고, 대량 처리 지원 및 아카이빙, 마이그레이션, 데이터 보존 워크플로와의 통합을 간소화할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 생성**  
+  PNG 기반 커뮤니케이션 콘텐츠를 장기 보관을 위한 MBOX 아카이브로 변환합니다.
+
+* **대량 이메일 데이터 패키징**  
+  이미지 기반 메시지를 하나의 메일함 파일로 그룹화하여 이동성과 검토를 용이하게 합니다.
+
+* **마이그레이션 워크플로 지원**  
+  시각 콘텐츠에서 생성된 아카이브된 메일함 출력이 필요한 이메일 마이그레이션 프로젝트를 지원합니다.
+
+* **중앙 집중식 메시지 보존**  
+  시각 커뮤니케이션 기록을 통합된 메일함 컨테이너에 보관할 수 있게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 아카이브 생성**  
+  Python API는 대량의 PNG 콘텐츠에서 MBOX 파일 생성을 자동화할 수 있습니다.
+
+* **보존 정책 워크플로**  
+  시스템은 이미지 기반 레코드를 구조화된 보존 및 규정 준수 프로세스를 위한 메일함 아카이브로 변환할 수 있습니다.
+
+* **메일함 가져오기 준비**  
+  자동화된 파이프라인은 하위 이메일 시스템 수집을 위해 MBOX 출력을 준비할 수 있습니다.
+
+* **콘텐츠 통합 프로세스**  
+  조직은 프로그래밍 워크플로를 통해 PNG 기반 메시지를 동적으로 결합하여 통합된 MBOX 아카이브를 만들 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

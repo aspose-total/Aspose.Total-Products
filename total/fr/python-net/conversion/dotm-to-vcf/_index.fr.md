@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOTM vers VCF transforme les modèles Word activés par des macros en fichiers de contact vCard, facilitant le partage et l'importation d'informations de contact basées sur des documents dans les systèmes de carnet d'adresses. Elle est utile lorsque les modèles contiennent des informations sur des personnes, des organisations ou des communications qui doivent devenir des enregistrements de contact structurés.
+
+L'utilisation des API Python pour la conversion DOTM vers VCF permet d'automatiser la génération de contacts à partir de sources documentaires, réduisant la saisie manuelle et améliorant la cohérence des données. Cela prend en charge l'intégration évolutive, la gestion d'annuaires et les flux de travail adjacents aux CRM.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Création d'enregistrement de contact**
+  Convertir les détails de contact des modèles DOTM en fichiers VCF pour un partage et une importation faciles.
+
+* **Réutilisation des données d'annuaire**
+  Réutiliser les informations structurées des documents sous forme de cartes de contact numériques standardisées.
+
+* **Échange de contacts adapté aux flux de travail**
+  Permettre le transfert simple des données de contact entre les documents et les systèmes de carnet d'adresses.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Extraction automatisée de contacts**
+  Les flux de travail peuvent générer des fichiers VCF à partir de modèles DOTM contenant des informations personnelles ou organisationnelles.
+
+* **Support de synchronisation d'annuaire**
+  La conversion aide les systèmes automatisés à créer des enregistrements de contact prêts à l'importation à partir de documents.
+
+* **Génération massive de contacts**
+  Le traitement programmatique prend en charge la transformation à grande échelle des fichiers DOTM en fichiers VCF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

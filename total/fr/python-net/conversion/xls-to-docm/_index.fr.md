@@ -65,7 +65,41 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLS vers DOCM permet de transformer le contenu des feuilles de calcul en documents Word activés par des macros, qui prennent en charge une documentation structurée et un comportement avancé du document. Cela est précieux lorsque des informations issues de feuilles de calcul doivent être livrées sous forme de document tout en restant compatibles avec les flux de travail qui reposent sur des modèles activés par des macros.
+
+La conversion XLS vers DOCM basée sur l'API Python prend en charge l'automatisation en permettant aux systèmes de générer des sorties de documents de manière programmatique, aidant les organisations à rationaliser l'assemblage de documents, la création de modèles et la distribution contrôlée du contenu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Préparation de documents activés par des macros**
+  Convertir les données XLS en fichiers DOCM pour les flux de travail qui dépendent de formats de documents compatibles avec les macros.
+
+* **Sortie basée sur des modèles**
+  Utiliser le contenu des feuilles de calcul pour remplir des documents DOCM structurés utilisés dans des processus métier répétables.
+
+* **Documentation opérationnelle**
+  Transformer les enregistrements de feuilles de calcul en documents modifiables adaptés aux procédures internes guidées.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Population automatisée de modèles**
+  Alimenter les données XLS dans les pipelines de génération de documents DOCM à l'aide des API Python.
+
+* **Services de conversion par lots**
+  Convertir plusieurs fichiers de feuilles de calcul en sorties DOCM pour un traitement d'entreprise standardisé.
+
+* **Livraison de documents intégrée**
+  Générer automatiquement des fichiers DOCM dans le cadre de systèmes d'approbation, d'archivage ou de reporting.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

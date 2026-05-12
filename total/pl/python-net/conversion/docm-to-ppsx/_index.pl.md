@@ -64,7 +64,41 @@ To głównie w dwóch krokach. Najpierw użyj API [Aspose.Words for Python via .
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja DOCM do PPSX przekształca dokumenty z włączonymi makrami w nowoczesne pliki prezentacji przeznaczone do bezpośredniego wyświetlania i usprawnionej dostawy prezentacji. Jest to przydatne, gdy treść dokumentu powinna być prezentowana wizualnie w przenośnym, nastawionym na odtwarzanie formacie.
+
+W środowiskach automatyzacji konwersja DOCM do PPSX wspiera skalowalną dystrybucję gotowych do prezentacji wyników bez konieczności ręcznego formatowania lub edycji przed wyświetleniem.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Nowoczesne dostarczanie prezentacji**
+  Przekształca materiały dokumentu w pliki prezentacji do bezpośredniego wyświetlania przeznaczone do użytku w prezentacjach.
+
+* **Przenośna komunikacja wizualna**
+  Umożliwia udostępnianie wniosków opartych na dokumentach w lekkim formacie prezentacji.
+
+* **Wynik nastawiony na odtwarzanie**
+  Wspiera scenariusze prezentacji, w których edycja jest drugorzędna wobec wyświetlania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Automatyczne tworzenie prezentacji**
+  Generuje pliki PPSX z źródeł DOCM dla zaplanowanych przepływów pracy prezentacji.
+
+* **Publikowanie treści sterowane przepływem pracy**
+  Łączy tworzenie dokumentów z systemami dostarczania prezentacji.
+
+* **Masowy eksport prezentacji**
+  Przekształca duże ilości plików DOCM w zasoby gotowe do prezentacji w sposób programowy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API における OTT から PowerPoint への変換は、OpenDocument テキストテンプレートを、広く使用されているスライドベースのコミュニケーションワークフローに適したプレゼンテーションファイルに変換します。これは、文書の内容を会議、研修、レポート用のプレゼンテーション資産に変換するのに役立ちます。
+
+この変換は、標準テンプレートからプログラム的にプレゼンテーションを生成しやすくすることで自動化を促進し、コンテンツ配信ワークフローにおける効率性、一貫性、スケーラビリティを向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **プレゼンテーション資産作成**  
+  テキストテンプレートをスライドベースのコミュニケーション資料に変換します。
+
+* **会議・レポート支援**  
+  文書化されたコンテンツをビジュアルプレゼンテーションのワークフローで再利用します。
+
+* **クロスフォーマット配信**  
+  文書情報をより広いオーディエンスに提示しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動デッキ生成**  
+  繰り返し使用される OTT テンプレートから PowerPoint 出力を生成します。
+
+* **テンプレートベースのレポート**  
+  定期的なサマリーや更新のためのプレゼンテーションファイルを作成します。
+
+* **スケーラブルなコンテンツ配信**  
+  複数のチームやクライアント向けにデッキをプログラム的に生成することをサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

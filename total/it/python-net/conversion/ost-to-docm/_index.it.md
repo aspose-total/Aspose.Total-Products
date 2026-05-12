@@ -46,7 +46,44 @@ Per uno sviluppatore Python, chi sta cercando di aggiungere una funzione di conv
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OST a DOCM trasforma i dati della casella di posta in un formato di documento abilitato alle macro, supportando flussi di lavoro documentali avanzati che richiedono contenuti modificabili con capacità di automazione integrate. È utile quando il contenuto email convertito deve partecipare a processi documentali strutturati o scriptati.
+
+In ambienti focalizzati sull'automazione, la conversione da OST a DOCM consente al contenuto della casella di posta di passare direttamente negli ecosistemi di documenti programmabili. Le API Python permettono alle organizzazioni di automatizzare la conversione su larga scala, migliorando la coerenza, la velocità operativa e l'integrazione con processi aziendali incentrati sui documenti.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Documentazione abilitata alle macro**  
+  Converte il contenuto delle email in file DOCM per flussi di lavoro che si basano sull'automazione documentale integrata.
+
+* **Reportistica guidata dai processi**  
+  Supporta i sistemi di reportistica in cui i dati della casella di posta convertiti devono funzionare con logica documentale automatizzata.
+
+* **Operazioni basate su modelli**  
+  Aiuta a integrare il contenuto derivato dalle email in modelli aziendali riutilizzabili abilitati alle macro.
+
+* **Riutilizzo di contenuti strutturati**  
+  Rende più semplice l'incorporamento delle informazioni della casella di posta in flussi di lavoro documentali dinamici.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Assemblaggio programmatico di report**  
+  L'automazione Python converte i dati OST in DOCM per pipeline di reportistica scriptate.
+
+* **Flussi di lavoro documentali dinamici**  
+  I sistemi automatizzati usano documenti abilitati alle macro per elaborare e gestire il contenuto email convertito.
+
+* **Popolamento di modelli aziendali**  
+  Le routine di conversione alimentano i dati della casella di posta nei modelli di documento con comportamento di automazione integrato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Python 개발자의 경우 응용 프로그램 내에서 JPEG를 VCF로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 JPEG에서 VCF로의 변환은 이미지 기반 연락처 정보 워크플로를 디지털 연락처 카드 파일로 전환할 수 있게 합니다. 이는 시각적인 연락처 기록, 스캔한 명함, 또는 이미지 기반 프로필 세부 정보를 표준 형식으로 변환하여 연락처 공유 및 관리에 활용해야 할 때 유용합니다.
+
+자동화를 통해 시스템이 이미지 입력으로부터 연락처 파일을 추출, 구조화 및 생성하도록 함으로써 데이터 이식성, 연락처 처리 속도 및 통신 플랫폼과의 통합을 향상시킵니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 연락처 카드 생성**
+  JPEG 기반 연락처 시각 자료를 VCF 파일로 변환하여 손쉽게 공유하고 가져올 수 있습니다.
+
+* **명함 디지털화**
+  스캔하거나 촬영한 명함을 구조화된 디지털 연락처 레코드로 변환합니다.
+
+* **연락처 데이터 이식성**
+  VCF 출력물을 사용해 이미지 형태의 연락처 세부 정보를 재사용 가능한 주소록 형식으로 이동합니다.
+
+* **CRM 및 디렉터리 지원**
+  이미지 기반 연락처 소스를 표준 파일로 변환하여 조직적인 연락처 관리 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 연락처 추출 파이프라인**
+  Python API를 사용해 JPEG 연락처 이미지를 VCF 파일로 변환하여 데이터 캡처를 간소화합니다.
+
+* **대량 명함 처리**
+  다량의 촬영된 명함을 프로그래밍 방식으로 변환해 이식 가능한 연락처 레코드로 만들 수 있습니다.
+
+* **온보딩 및 디렉터리 자동화**
+  시스템이 이미지 기반 연락처 데이터에서 VCF 파일을 생성하여 사용자 및 파트너 설정을 빠르게 진행합니다.
+
+* **모바일 및 이메일 통합 워크플로**
+  변환된 VCF 파일이 자동화된 프로세스를 통해 통신 도구 및 연락처 플랫폼으로 흐르게 합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

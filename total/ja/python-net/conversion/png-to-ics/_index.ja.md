@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG から ICS への変換は、視覚的なスケジュール情報、イベントグラフィック、または画像ベースのカレンダー詳細を、イベント共有やスケジューリングワークフローをサポートする構造化カレンダーファイルに変換します。これは、イベントデータが画像形式で存在し、機械可読かつ相互運用可能になる必要がある場合に特に有用です。
+
+Python API は、このプロセスを自動化しやすくし、PNG ベースの入力からプログラム的に ICS ファイルを生成できるようにすることで、スケジューリングの効率化、手動入力の削減、アプリケーション間でのスケーラブルなカレンダー統合を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **イベントグラフィック変換**  
+  PNG のイベント告知を ICS カレンダーファイルに変換し、スケジューリングと配布を容易にします。
+
+* **カレンダーエントリ作成**  
+  画像ベースのスケジュール情報を構造化されたカレンダーイベントに変換します。
+
+* **会議招待の準備**  
+  視覚的な会議詳細を共有可能なカレンダーファイルに変換するワークフローをサポートします。
+
+* **スケジュールのデジタル化**  
+  画像形式で保存されたイベント情報をデジタルカレンダーシステムで再利用できるようにします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **自動カレンダー生成**  
+  Python API は、イベント管理パイプラインで PNG ベースのイベント入力から ICS ファイルを作成できます。
+
+* **大量スケジュール処理**  
+  複数の PNG スケジュール画像を ICS 出力に変換し、カレンダー公開を効率化します。
+
+* **ワークフロー主導の招待配信**  
+  システムはイベント情報を抽出・変換し、ICS 添付ファイルとして自動招待に利用できます。
+
+* **統合スケジューリングシステム**  
+  アプリケーションは PNG から ICS への変換を利用して、視覚的なイベントソースとカレンダープラットフォームを橋渡しできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

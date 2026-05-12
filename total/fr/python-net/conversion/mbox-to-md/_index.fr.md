@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers MD transforme les archives de boîtes aux lettres en fichiers Markdown, rendant le contenu des e‑mails plus facile à lire, à versionner et à réutiliser dans des systèmes de documentation légers basés sur du texte. Ce format est idéal pour la portabilité du contenu, les flux de travail des développeurs et les environnements de gestion des connaissances.
+
+Avec les API Python, la conversion MBOX vers Markdown peut être automatisée pour prendre en charge l'extraction de contenu à grande échelle, la publication statique et l'intégration efficace avec les pipelines de documentation modernes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Documentation texte légère**
+  Convertissez les e‑mails en Markdown pour une documentation propre, lisible et portable.
+
+* **Intégration à la base de connaissances**
+  Réutilisez le contenu de la boîte aux lettres dans les wikis, les dépôts ou les flux de travail de contenu statique.
+
+* **Archivage compatible avec le versionnage**
+  Stockez le contenu des e‑mails convertis dans un format adapté au suivi et aux mises à jour.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Génération de contenu statique**
+  Convertissez automatiquement les données de la boîte aux lettres en Markdown pour la publication ou l'indexation.
+
+* **Flux de travail basés sur les dépôts**
+  Utilisez Python pour transférer les archives d'e‑mail vers des systèmes de gestion de contenu axés sur le texte.
+
+* **Pipelines de documentation évolutifs**
+  Transformez par lots les fichiers MBOX en actifs Markdown structurés pour la réutilisation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

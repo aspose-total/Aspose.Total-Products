@@ -64,7 +64,41 @@ Para um desenvolvedor Python, que está tentando adicionar um recurso de convers
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de Excel para PPTX em Python permite que os dados de planilhas sejam transformados em arquivos de apresentação modernos para edição, compartilhamento e narrativa visual. É valiosa para converter tabelas estruturadas e métricas em conteúdo de apresentação que seja mais fácil de ser consumido pelas partes interessadas.
+
+Essa conversão suporta a automação ao permitir que aplicações Python gerem arquivos PPTX refinados a partir de fontes Excel como parte de fluxos de trabalho regulares de relatórios e comunicação.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Criação de Decks de Slides Modernos**  
+  Converta arquivos Excel em apresentações PPTX para comunicação e relatórios profissionais.
+
+* **Relatórios para Partes Interessadas**  
+  Apresente insights baseados em planilhas de forma mais clara e acessível em formato de slide.
+
+* **Saídas de Apresentação Reutilizáveis**  
+  Gere apresentações editáveis que podem ser revisadas, atualizadas e redistribuídas facilmente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Relatórios Executivos Automatizados**  
+  Produza arquivos PPTX a partir de dashboards Excel de forma programada ou baseada em eventos.
+
+* **Fluxos de Trabalho de Dados para Apresentação**  
+  Integre a conversão em sistemas Python que transformam dados de origem em saídas prontas para slides.
+
+* **Pipelines de Comunicação Escaláveis**  
+  Gere apresentações atualizadas automaticamente à medida que as entradas de planilhas evoluem.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

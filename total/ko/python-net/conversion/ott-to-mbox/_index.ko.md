@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 OTT를 MBOX로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 MBOX로 변환하면 OpenDocument 텍스트 템플릿을 이메일 형식 메시지 컬렉션을 저장하기 위한 메일함 아카이브 형식으로 변환합니다. 이는 생성된 커뮤니케이션을 그룹화하거나 전송하거나 메일함 호환 구조에 보관해야 할 때 유용합니다.
+
+이 변환은 문서 기반 메시지 생성을 메일함 스타일 저장소에 의존하는 아카이브 및 마이그레이션 파이프라인으로 직접 흐르게 하여 자동화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 준비**  
+  그룹화된 이메일 저장에 적합한 메시지 콘텐츠를 생성합니다.
+
+* **커뮤니케이션 기록 보관**  
+  생성된 콘텐츠를 휴대 가능한 메일함 형식으로 보존합니다.
+
+* **대량 메시지 패키징**  
+  전송 또는 수집을 위해 여러 생성된 메시지를 정리하는 데 도움을 줍니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 메일 아카이브 생성**  
+  템플릿 기반 커뮤니케이션을 MBOX 컨테이너로 변환합니다.
+
+* **마이그레이션 워크플로 지원**  
+  문서에서 파생된 메시지를 메일함 가져오기 프로세스를 위해 준비합니다.
+
+* **배치 보존 파이프라인**  
+  규정 준수 또는 감사 용도로 반복 생성된 메시지를 저장합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,44 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de e‑mail para RTF em Python transforma o conteúdo das mensagens em documentos de texto rico que equilibram editabilidade com ampla compatibilidade. É útil quando as organizações precisam de conteúdo de e‑mail formatado em um formato de documento mais leve que funciona em muitas ferramentas de edição.
+
+Essa conversão melhora a automação ao criar saídas estruturadas e reutilizáveis que podem ser editadas, trocadas e armazenadas de forma eficiente em ambientes de documentos mistos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Preservação de Texto Formatado**
+  Converta e‑mails para RTF para manter a formatação básica em um formato editável.
+
+* **Compatibilidade entre Ferramentas**
+  Use saídas RTF onde diferentes aplicativos de edição precisam acessar o mesmo conteúdo.
+
+* **Registros de Comunicação Reutilizáveis**
+  Preserve o texto importante das mensagens para edição posterior ou inclusão em documentos.
+
+* **Troca de Documentos Leve**
+  Compartilhe documentos derivados de e‑mail em um formato relativamente simples e portátil.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Exportação Automatizada de Texto Rico**
+  Converta e‑mails selecionados em arquivos RTF para fluxos de trabalho de armazenamento e colaboração.
+
+* **Roteamento de Documentos Multi‑Sistema**
+  Mova texto rico derivado de e‑mail entre aplicativos com atrito mínimo.
+
+* **Pipelines de Reuso de Conteúdo**
+  Insira saídas RTF em resumos, rascunhos e documentação interna automaticamente.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

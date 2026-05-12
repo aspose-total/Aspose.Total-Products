@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS から ODT への変換は、スプレッドシートの内容を編集可能でポータブル、かつ標準志向のドキュメントであるオープンドキュメントテキストファイルに変換します。これは、組織が幅広いオフィス環境でアクセス可能なテキストベースの出力を必要とする場合に有用です。
+
+Python API の自動化により、XLS から ODT への変換はオープンフォーマットのドキュメントワークフローを効率化し、スプレッドシートデータソースから編集可能なファイルをスケーラブルに生成することを支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **オープンドキュメントレポーティング**
+  XLS の内容を ODT ファイルに変換し、オープンで編集可能なビジネス文書を作成します。
+
+* **相互運用可能なコンテンツ共有**
+  プラットフォーム間の文書互換性が重要な場合に ODT 出力を使用します。
+
+* **スプレッドシートからテキストへの変換**
+  表形式データをナラティブや混合レイアウトの文書形式に再パッケージします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **オープンワークフロー自動化**
+  標準ベースのシステムでスプレッドシートの提出から ODT ファイルを自動的に生成します。
+
+* **大量文書変換**
+  Python API を使用して多数の XLS ファイルを編集可能なオープンテキスト文書に変換します。
+
+* **統合ドキュメント処理**
+  XLS から ODT への変換を自動レビュー、保存、公開パイプラインに組み込みます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

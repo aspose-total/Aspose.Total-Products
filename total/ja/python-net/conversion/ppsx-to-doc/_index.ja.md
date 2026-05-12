@@ -65,7 +65,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPSX から DOC への変換は、プレゼンテーション コンテンツを編集可能な文書形式に変換し、スライド資料を文書コミュニケーション、ドキュメンテーション、レビューに再利用しやすくします。この変換は、視覚的なプレゼンテーション コンテンツを、より広範な運用または管理用途のためにテキスト中心のファイルに変換する必要がある場合に有用です。
+
+自動化の観点から、PPSX から DOC への変換はコンテンツの再利用を促進し、手動での書き直しを削減し、モダンなデジタルシステムで Python API を通じて管理できるスケーラブルな文書生成ワークフローをサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **プレゼンテーションから文書への再利用**  
+  スライド コンテンツを物語的または管理的な用途の文書形式に変換します。
+
+* **内部ドキュメント作成**  
+  会議のデッキや要約を編集可能な文書記録に変換するのに役立ちます。
+
+* **コンテンツのレビューと編集**  
+  チームがプレゼンテーション資料をワードプロセッサ形式で修正できるようにします。
+
+* **テキストベースの配布**  
+  文書中心の環境でプレゼンテーション コンテンツを共有しやすくします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動レポート生成**  
+  Python API を使用して、プレゼンテーション ファイルを定期的なレポート作業用の DOC 文書に変換できます。
+
+* **大量ドキュメントワークフロー**  
+  自動化により、複数の PPSX ファイルを1つのパイプラインで編集可能な文書に処理できます。
+
+* **コンテンツ変換パイプライン**  
+  変換された文書は、承認、編集、または公開のワークフローに組み込むことができます。
+
+* **アーカイブ文書の作成**  
+  プログラムによる変換は、テキストに適した形式での長期保存をサポートします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT から TSV への変換は、ドキュメントテンプレートをシンプルでポータブル、かつ処理しやすいタブ区切りデータファイルに変換します。これは、構造化されたテンプレートコンテンツを信頼性の高いデータ交換をサポートする区切り文字ベースの形式でエクスポートする必要がある場合に有用です。
+
+Python API を使用すると、DOT から TSV へのワークフローを自動化でき、クリーンなデータ抽出、システム間相互運用性、そしてスケーラブルなドキュメントからデータへの処理をサポートします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主なユースケース" %}}
+
+* **構造化テキストエクスポート**
+  DOT ファイルを TSV に変換し、クリーンな区切り文字ベースのデータ処理を実現します。
+
+* **システムフレンドリーなデータ交換**
+  タブが予測可能なフィールド区切りとして好まれる場合に、TSV 出力を使用します。
+
+* **テンプレートコンテンツ抽出**
+  ドキュメント情報をスクリプトや運用ツール向けのシンプルな形式に再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動データ抽出**
+  Python スクリプトは、DOT テンプレートを TSV ファイルに変換し、定期的な処理ジョブに利用できます。
+
+* **ETL ワークフローサポート**
+  変換により、テンプレート由来のデータをパイプラインや統合システムに供給しやすくなります。
+
+* **スケーラブルなテキストベースエクスポート**
+  プログラムによる変換により、ドキュメントリポジトリから大量の TSV を生成できます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

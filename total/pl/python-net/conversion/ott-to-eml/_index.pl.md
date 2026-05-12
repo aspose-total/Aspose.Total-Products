@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji OTT do EML w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja OTT do EML w interfejsach API Pythona przekształca szablony tekstowe OpenDocument w standardowe pliki wiadomości e‑mail, które zachowują strukturę wiadomości dla przechowywania, transferu i dalszego przetwarzania. Jest to przydatne, gdy zawartość dokumentu musi stać się przenośnym artefaktem e‑mail.
+
+Konwersja wspiera automatyzację, umożliwiając generowanie plików e‑mail opartych na dokumentach, które mogą być archiwizowane, przeglądane, importowane lub przetwarzane przez systemy kompatybilne z e‑mail w powtarzalnych przepływach pracy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Generowanie plików e‑mail**  
+  Tworzy standardowe pliki wiadomości z wielokrotnego użytku szablonów dokumentów.
+
+* **Przygotowanie do archiwizacji**  
+  Tworzy artefakty e‑mail odpowiednie do prowadzenia ewidencji i transferu.
+
+* **Przekazanie systemowe**  
+  Wspiera przepływy pracy, które wymagają plików wiadomości zamiast bezpośredniego wysyłania e‑mail.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Tworzenie serii szkiców e‑mail**  
+  Konwertuje wiele szablonów OTT do plików EML w celu przeglądu lub pipeline'ów dostawczych.
+
+* **Automatyczne generowanie rekordów**  
+  Przechowuje gotowe do komunikacji wyniki jako standardowe pliki e‑mail.
+
+* **Integracja z systemami przetwarzania poczty**  
+  Wprowadza wygenerowane pliki EML do procesów ingestii, archiwizacji lub zgodności.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Slides for 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion PPSX vers TSV transforme les données de présentation en une sortie texte à séparateur de tabulation, simple, légère et adaptée à l'échange de données structurées. Ce format est utile lorsque le contenu des diapositives doit être extrait pour être traité dans des systèmes qui privilégient une entrée tabulaire en texte brut.
+
+Pour les cas d'utilisation d'automatisation, la conversion PPSX vers TSV prend en charge un déplacement fiable des données, simplifie l'ingestion dans les scripts et les pipelines, et permet un traitement efficace à grande échelle via les API Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Exportation de données tabulaires**  
+  Convertit le contenu structuré des diapositives en un format de tableau en texte brut.
+
+* **Échange de données convivial pour les systèmes**  
+  Produit une sortie facile à importer dans les outils qui acceptent les fichiers à séparateurs.
+
+* **Transformation de contenu légère**  
+  Prend en charge une extraction à faible surcharge pour les tâches de traitement structuré.
+
+* **Préparation des données pour les pipelines**  
+  Aide à rendre les données de présentation utilisables dans des environnements programmatiques.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Extraction automatisée de données textuelles**  
+  Les API Python peuvent convertir les fichiers PPSX en TSV pour des flux de travail d'analyse simplifiés.
+
+* **Support d'ingestion de pipeline**  
+  Les sorties TSV peuvent être transférées directement vers des systèmes ETL ou de transformation automatisés.
+
+* **Jobs de conversion à haut volume**  
+  L'automatisation permet la conversion répétée du contenu des présentations en texte tabulaire à grande échelle.
+
+* **Transfert structuré inter-outils**  
+  Les fichiers convertis facilitent le déplacement efficace entre des plateformes hétérogènes.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

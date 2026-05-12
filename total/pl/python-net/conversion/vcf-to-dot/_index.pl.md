@@ -46,7 +46,41 @@ Dla programisty Pythona, kto próbuje dodać funkcję konwersji VCF do DOT w apl
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konwersja VCF do DOT zmienia informacje z karty kontaktowej w pliki szablonów Word, które mogą służyć jako wielokrotnego użytku podstawy do standaryzowanej generacji dokumentów. Jest to przydatne, gdy dane kontaktowe muszą być wstawiane do powtarzalnych układów w zastosowaniach administracyjnych lub operacyjnych.
+
+W przepływach pracy automatyzacji konwersja VCF do DOT umożliwia systemom opartym na Pythonie przygotowywanie szablonów opartych na kontaktach, które zapewniają spójność, szybsze tworzenie dokumentów oraz skalowalne formatowanie w wielu scenariuszach wyjściowych.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kluczowe przypadki użycia" %}}
+
+* **Szablony kontaktów wielokrotnego użytku**  
+  Konwertuj dane VCF do plików DOT w celu powtarzalnego tworzenia dokumentów.
+
+* **Standaryzowane formatowanie**  
+  Utrzymuj spójny układ dokumentów opartych na kontaktach w całych zespołach.
+
+* **Przygotowanie przepływu pracy**  
+  Użyj wyników szablonu jako punktu wyjścia do dalszej edycji lub automatycznego wypełniania.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenariusze automatyzacji" %}}
+
+* **Potoki generowania szablonów**  
+  Automatycznie twórz szablony DOT z rekordów kontaktów do późniejszego ponownego użycia.
+
+* **Spójna produkcja dokumentów**  
+  Wprowadzaj wygenerowane szablony do większych systemów wymagających jednolitego formatowania kontaktów.
+
+* **Programowa strukturyzacja treści**  
+  Użyj interfejsów API Pythona do tworzenia powtarzalnych szablonów kontaktów w dużej skali.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

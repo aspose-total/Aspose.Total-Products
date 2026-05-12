@@ -65,7 +65,47 @@ C'est principalement en deux étapes. Utilisez d'abord l'API [Aspose.Cells for P
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion XLSB vers DOCM permet de transformer le contenu binaire d’une feuille de calcul en documents Word à macros, prenant en charge les scénarios où l’automatisation des documents et la sortie de texte éditable doivent coexister. Cela est utile lorsque les données de la feuille de calcul doivent être intégrées dans des flux de travail documentaires qui dépendent d’un comportement scripté ou piloté par des macros.
+
+Pour les systèmes d’automatisation modernes, la conversion XLSB vers DOCM prend en charge les pipelines de génération de documents qui combinent l’extraction de données structurées avec un traitement avancé des documents, améliorant l’efficacité des opérations commerciales répétitives et des environnements de reporting dynamique.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Rapports à macros**  
+  Convertit les données de la feuille de calcul en documents pouvant prendre en charge des actions documentaires automatisées.
+
+* **Documentation des processus**  
+  Aide à créer des fichiers éditables pour les équipes utilisant des flux de travail documentaires scriptés.
+
+* **Résumés opérationnels**  
+  Transforme les enregistrements de la feuille de calcul en documents prêts pour les macros, destinés à une communication d’entreprise structurée.
+
+* **Entrées d’automatisation de documents**  
+  Fournit des sorties formatées pour les environnements qui s’appuient sur des processus automatisés basés sur Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Distribution automatisée de rapports**  
+  Les fichiers XLSB peuvent être convertis en sorties DOCM pour des flux de travail documentaires incluant des macros.
+
+* **Pipelines données-vers-document**  
+  Les systèmes peuvent transformer les entrées de feuilles de calcul en documents à macros dans le cadre de processus plus vastes.
+
+* **Flux de travail bureautiques réutilisables**  
+  Les conversions automatisées soutiennent la génération récurrente de documents avec une logique documentaire intégrée.
+
+* **Traitement d’entreprise par lots**  
+  Plusieurs fichiers de feuilles de calcul peuvent être convertis en fichiers DOCM pour des opérations évolutives.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

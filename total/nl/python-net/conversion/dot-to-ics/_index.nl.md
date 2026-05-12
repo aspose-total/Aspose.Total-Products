@@ -46,7 +46,41 @@ Voor een Python-ontwikkelaar, die probeert een DOT naar ICS-conversiefunctie toe
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT-naar-ICS-conversie transformeert documentsjablonen naar kalendercompatibele gegevens die kunnen worden gebruikt voor planning en uitwisseling van evenementen. Dit is belangrijk wanneer sjablooninhoud datumgestuurde informatie bevat die via kalenderworkflows moet worden gedeeld.
+
+Met Python‑API's kan DOT-naar-ICS-conversie geautomatiseerd worden om gebeurtenisgeneratie, afspraakdistributie en integratie met planningssystemen op een betrouwbare en herhaalbare manier te ondersteunen.
+
+{{% blocks/products/pf/agp/feature-section-col title="Belangrijkste gebruikssituaties" %}}
+
+* **Evenementcreatie vanuit sjablonen**
+  Converteer op DOT gebaseerde planningsinformatie naar ICS‑bestanden voor kalendergebruik.
+
+* **Vergader- en tijdlijnverspreiding**
+  Deel uit documenten afgeleide data en evenementen in een standaard planningsformaat.
+
+* **Workflow‑planningsintegratie**
+  Zet gestructureerde sjablooninhoud om in kalenderartefacten voor operationele planning.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatiseringsscenario's" %}}
+
+* **Geautomatiseerde kalendergeneratie**
+  Python‑scripts kunnen datumgerichte DOT‑sjablonen omzetten naar ICS‑bestanden voor distributie.
+
+* **Ondersteuning van planningspijplijn**
+  Conversie stelt systemen in staat om door documenten gedefinieerde evenementen in kalenderworkflows te plaatsen.
+
+* **Batchpublicatie van evenementen**
+  Programmerende verwerking maakt grootschalige creatie van ICS‑bestanden vanuit meerdere sjablonen mogelijk.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

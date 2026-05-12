@@ -53,7 +53,41 @@ DOTM를 MHTML(웹 아카이브 형식)로 변환 기능 또는 HtmlFixed에 추�
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM to MHTML 변환은 매크로가 포함된 Word 템플릿을 MIME HTML 문서로 변환하여 콘텐츠와 리소스를 하나의 웹 친화적인 파일로 결합합니다. 이는 휴대용 문서 공유, 브라우저 기반 보기 및 자체 포함 형식으로 서식이 지정된 콘텐츠를 보존하는 데 유용합니다.
+
+Python API를 사용한 DOTM to MHTML 변환은 재사용 가능한 템플릿을 최소한의 노력으로 웹 호환 자산으로 게시할 수 있게 하여 자동화를 지원합니다. 이는 콘텐츠 이동성을 향상하고 문서 전달을 단순화하며 확장 가능한 렌더링 워크플로를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **휴대용 웹 렌더링**
+  DOTM 파일을 MHTML로 변환하여 단일 패키지 파일로 브라우저 친화적인 보기 환경을 제공합니다.
+
+* **자체 포함 문서 공유**
+  텍스트, 서식 및 연결된 리소스를 함께 보존하여 신뢰할 수 있는 배포를 가능하게 합니다.
+
+* **템플릿 게시**
+  문서 템플릿을 포털이나 아카이브용 웹 지향 출력물로 재활용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 웹 내보내기**
+  시스템은 수동 서식 지정 없이 DOTM 템플릿을 MHTML 파일로 변환하여 웹 전달을 할 수 있습니다.
+
+* **콘텐츠 패키징 워크플로**
+  이 변환은 공유 및 저장을 위한 자체 포함 문서 파일의 자동 생성을 지원합니다.
+
+* **확장 가능한 렌더링 파이프라인**
+  프로그래밍 작업은 반복되는 템플릿 문서에서 대량의 MHTML 출력을 생성할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

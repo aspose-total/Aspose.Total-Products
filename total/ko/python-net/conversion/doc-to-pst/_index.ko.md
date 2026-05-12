@@ -46,7 +46,41 @@ Python 개발자의 경우 응용 프로그램 내에서 DOC를 PST로 변환 �
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+문서에서 PST 변환은 Word에서 파생된 메시지 콘텐츠를 대규모 메일함 관리 및 보관 시나리오에서 일반적으로 사용되는 개인 저장 형식으로 변환합니다. 문서 콘텐츠를 보다 넓은 이메일 저장 워크플로에 통합해야 할 때 유용합니다.
+
+Python API를 사용하면 DOC를 PST로 변환하는 작업이 기업 보존, 마이그레이션 및 보관 작업에 대해 보다 효율적이며, 문서‑메일 저장 프로세스의 표준화를 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 통합**
+  문서에서 파생된 커뮤니케이션 콘텐츠를 PST로 변환하여 저장 및 전송합니다.
+
+* **마이그레이션 워크플로**
+  기업 메일 마이그레이션 시나리오를 위해 문서 기반 메시지 자산을 준비합니다.
+
+* **보존 지원**
+  널리 사용되는 개인 메일함 저장 형식에 구조화된 콘텐츠를 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **아카이브 파일 자동화**
+  DOC 기반 메시지 소스에서 프로그래밍 방식으로 PST 콘텐츠를 생성합니다.
+
+* **대량 메일 데이터 패키징**
+  대량의 문서 파생 콘텐츠를 메일함 저장 컨테이너로 변환합니다.
+
+* **규정 준수 중심 처리**
+  자동 변환을 사용하여 제어된 보존 및 보관 워크플로를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

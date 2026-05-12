@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da OTT a CSV nelle API Python trasforma i modelli di testo OpenDocument in dati strutturati e delimitati, più facili da elaborare, scambiare e analizzare nei moderni sistemi aziendali. È utile quando i contenuti basati su testo devono essere normalizzati per la reportistica, la migrazione o la gestione dei dati a valle.
+
+Questa conversione supporta l'automazione trasformando il contenuto dei documenti in un output tabellare leggero, adatto a pipeline di dati, lavori programmati e flussi di integrazione dove coerenza, portabilità e parsing veloce sono fondamentali.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Estrazione di dati strutturati**  
+  Converte il contenuto testuale basato su modelli in righe e colonne per una più facile elaborazione.
+
+* **Preparazione di report**  
+  Rende le informazioni basate su documenti adatte a dashboard e analisi in fogli di calcolo.
+
+* **Interoperabilità di sistema**  
+  Consente uno scambio semplice di dati con strumenti che supportano importazioni di testo delimitato.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Esportazione batch di contenuti**  
+  Automatizza la conversione di più file OTT in CSV per l'elaborazione in blocco.
+
+* **Integrazione nella pipeline di dati**  
+  Alimenta i dati estratti dal documento nelle pipeline ETL o nei flussi di lavoro di validazione.
+
+* **Parsing programmato dei documenti**  
+  Supporta lavori ricorrenti che trasformano i modelli in dataset leggibili dalla macchina.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

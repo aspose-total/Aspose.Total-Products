@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion WordML vers OST prend en charge la transformation du contenu basé sur des documents en formats utilisables dans les flux de travail de données de boîtes aux lettres hors ligne et les écosystèmes de stockage d’e‑mail. Elle est pertinente dans des scénarios spécialisés de migration ou d’archivage où les informations de documents deviennent partie intégrante de la gestion de contenu orientée boîte aux lettres.
+
+Les API Python peuvent aider à préparer et structurer le contenu pour l’automatisation liée à WordML vers OST, améliorant la répétabilité dans les processus de messagerie d’entreprise et de migration.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation des données de boîte aux lettres**  
+  Utilise le contenu des documents comme entrée pour le stockage de courriels hors ligne et les flux de travail de migration.
+
+* **Support d'archivage d'entreprise**  
+  Aide à aligner les communications dérivées de documents avec les processus de rétention centrés sur les boîtes aux lettres.
+
+* **Emballage de contenu structuré**  
+  Prend en charge la transformation de texte approuvé en contextes de stockage orientés messages.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Pipelines de support de migration**  
+  Automatise la préparation du contenu WordML pour les flux de travail de traitement de boîtes aux lettres hors ligne.
+
+* **Tâches de consolidation d'archives**  
+  Intègre les enregistrements dérivés de documents dans les opérations d’archives d’e‑mail plus larges.
+
+* **Structuration de contenu d'entreprise**  
+  Permet une gestion répétable du contenu de documents prêt à être envoyé à grande échelle.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -64,7 +64,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python における XLTM から PPSM への変換により、マクロ有効な Excel テンプレートをマクロ有効なスライドショー プレゼンテーション ファイルに変換できるようになります。これは、スプレッドシートベースのソース コンテンツを、拡張された自動化や高度なプレゼンテーション 動作をサポートするプレゼンテーション ファイルとして提供しなければならないワークフローで役立ちます。
+
+自動化の観点から、XLTM から PPSM への変換はオフィス ワークフローの統合を支援し、プログラムによるスライドショー作成をサポートし、プレゼンテーション中心のシステム向けの出力準備性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要なユースケース" %}}
+
+* **マクロ有効スライドショー作成**  
+  拡張機能を必要とする高度なプレゼンテーション環境に適合したスライドショー ファイルを生成します。
+
+* **テンプレート駆動型プレゼンテーション出力**  
+  ワークブック テンプレートを構造化されたコミュニケーション向けのスライドショー対応ファイルに変換します。
+
+* **運用プレゼンテーション自動化**  
+  定期的なプレゼンテーション資産の準備と配信を自動化するチームを支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **プログラムによるスライドショー生成**  
+  レポート ワークフロー内で XLTM テンプレートから PPSM ファイルの生成を自動化します。
+
+* **クロスフォーマット オフィス自動化**  
+  スプレッドシートベースのテンプレートと統合システム内のスライドショー プレゼンテーション ターゲットを接続します。
+
+* **繰り返し可能なプレゼンテーション配布**  
+  標準化されたコミュニケーション向けに、マクロ有効スライドショー ファイルの定期的な生成を支援します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

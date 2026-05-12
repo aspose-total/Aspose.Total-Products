@@ -46,7 +46,41 @@ Para un desarrollador de Python, ¿quién está tratando de agregar una función
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversión de OTT a OST en APIs de Python transforma plantillas de texto OpenDocument en estructuras de datos de buzón offline utilizadas para escenarios de almacenamiento de correo sincronizado. Esto es relevante cuando el contenido de comunicación generado debe alinearse con flujos de trabajo y requisitos de almacenamiento orientados a buzones.
+
+La conversión soporta la automatización al conectar la generación de mensajes basada en documentos con acceso offline, preparación de archivo y procesos de gestión de comunicación que dependen de datos de buzón estructurados.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Clave" %}}
+
+* **Preparación de Datos de Correo Offline**  
+  Soporta flujos de trabajo que utilizan almacenamiento estilo buzón sincronizado.
+
+* **Empaquetado de Comunicación Generada**  
+  Convierte el contenido de la plantilla en salida orientada a buzón.
+
+* **Soporte de Archivo y Acceso**  
+  Ayuda a preservar los datos de comunicación para escenarios de manejo offline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Escenarios de Automatización" %}}
+
+* **Ensamblaje Automatizado de Datos de Correo**  
+  Produce salidas compatibles con OST a partir de plantillas de documentos.
+
+* **Canales de Archivo Empresarial**  
+  Integra la comunicación generada en flujos de trabajo de almacenamiento gestionado.
+
+* **Procesamiento Masivo de Comunicación**  
+  Escala la transformación del contenido OTT en estructuras listas para buzón.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB から DOTM への変換は、バイナリのスプレッドシート コンテンツをマクロ対応の Word テンプレートに変換し、構造化されたレイアウトと自動化ロジックの両方を必要とする繰り返し可能な文書生成プロセスをサポートします。これは、事前に定義された書式設定とスクリプト化された動作で大量に文書を作成する環境で有用です。
+
+自動化重視のシステム向けに、XLSB から DOTM への変換は、スプレッドシート主導のデータ準備と再利用可能なマクロ対応テンプレートを組み合わせることで、動的な文書ワークフローと標準化されたエンタープライズ出力を支援し、効率性を向上させます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **マクロ対応テンプレート**  
+  自動化された文書ロジックをサポートできる再利用可能な文書テンプレートを作成します。
+
+* **標準化されたビジネス文書**  
+  スプレッドシートベースの入力から一貫した文書構造を生成するのに役立ちます。
+
+* **再利用可能なワークフロー資産**  
+  定期的な業務やレポート作成タスク向けのテンプレート作成をサポートします。
+
+* **構造化コンテンツ配信**  
+  スプレッドシート由来のデータを自動化に適したテンプレート形式にパッケージ化します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **テンプレート自動化パイプライン**  
+  XLSB データを DOTM テンプレートに変換し、繰り返し文書生成を実現します。
+
+* **スケーラブルな文書生産**  
+  自動化システムがエンタープライズ ワークフロー向けに大量のマクロ対応テンプレートを準備できます。
+
+* **ルール駆動型文書作成**  
+  変換プロセスが構造化コンテンツを再利用可能な自動化テンプレートに供給します。
+
+* **業務標準化**  
+  チームはスプレッドシートベースのソースから一貫した文書の自動生成を行えます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM から OFT への変換は、マクロ対応ドキュメントを再利用可能なメールテンプレートファイルに変換し、文書ベースのコンテンツを繰り返しのコミュニケーションタスクで標準化しやすくします。作成された文書ソースから一貫したメッセージを生成する必要がある場合に役立ちます。
+
+自動化ワークフローにおいて、DOCM から OFT への変換は、テンプレート化されたアウトリーチ、プロセス主導のコミュニケーション、そして繰り返しのメッセージングシナリオ全体で文書コンテンツをスケーラブルに再利用することを可能にします。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **テンプレートベースのメッセージング**
+  文書コンテンツを再利用可能なメールテンプレートに変換し、標準化されたコミュニケーションを実現します。
+
+* **プロセスの一貫性**
+  チームが繰り返し送信されるアウトバウンドメッセージ全体で一貫した構造を維持するのに役立ちます。
+
+* **コンテンツの再利用**
+  手動での再フォーマットなしに、正式な文書テキストをコミュニケーションテンプレートで再利用します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テンプレート生成**
+  DOCM ドキュメントから OFT ファイルを生成し、繰り返し可能なメッセージワークフローを実現します。
+
+* **ワークフロー起動型コミュニケーション**
+  承認、通知、またはサポートプロセスで変換されたテンプレートを使用します。
+
+* **スケーラブルなメッセージ準備**
+  テンプレートベースのコンテンツを大規模に動的に埋め込み、配布することを可能にします。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

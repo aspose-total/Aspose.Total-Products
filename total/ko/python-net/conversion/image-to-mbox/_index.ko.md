@@ -46,7 +46,53 @@ Python 개발자의 경우 응용 프로그램 내에서 IMAGE를 MBOX로 변환
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API를 사용한 이미지 → MBOX 변환은 이미지 기반 커뮤니케이션을 메일함 아카이브 파일로 패키징하여 단일 컨테이너에 여러 메시지 레코드를 저장할 수 있게 합니다. 이는 통합된 이메일 아카이브 워크플로우 내에서 시각적 커뮤니케이션 데이터를 보존하거나 마이그레이션해야 하는 조직에 유용합니다.
+
+자동화 관점에서 이미지 → MBOX 변환은 확장 가능한 아카이브 처리, 배치 커뮤니케이션 조립, 시스템 간 메시지 콘텐츠 효율적 전송을 지원합니다. 이를 통해 이미지 기반 정보를 보존 및 마이그레이션 작업에 실용적인 구조화된 형식으로 저장할 수 있습니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **메일함 아카이브 구축**
+  이미지 기반 커뮤니케이션 레코드를 중앙 집중식 저장을 위한 MBOX 아카이브로 변환합니다.
+
+* **대량 레코드 보존**
+  여러 이미지 파생 메시지를 단일 아카이브 파일에 그룹화하여 장기 보존합니다.
+
+* **마이그레이션 준비**
+  메일함 아카이브를 지원하는 시스템으로 전송하기 위해 시각적 커뮤니케이션 콘텐츠를 준비합니다.
+
+* **사례 및 프로젝트 번들링**
+  관련 이미지 기반 메시지 레코드를 하나의 휴대용 메일함 파일에 정리합니다.
+
+* **역사적 커뮤니케이션 저장**
+  스크린샷, 공지 및 스캔된 서신을 아카이브 친화적인 형태로 보존합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **배치 아카이브 생성**
+  대량 이미지 컬렉션을 자동으로 MBOX 기반 커뮤니케이션 아카이브로 변환할 수 있습니다.
+
+* **보존 파이프라인 자동화**
+  이미지 파생 레코드를 정책 기반 일정에 따라 메일함 아카이브로 그룹화할 수 있습니다.
+
+* **데이터 통합 워크플로우**
+  분산된 시각 파일을 통합된 아카이브 출력으로 변환하여 관리가 용이해집니다.
+
+* **내보내기 및 전송 프로세스**
+  자동화 시스템이 이미지 기반 메시지를 시스템 마이그레이션을 위한 MBOX 파일로 패키징할 수 있습니다.
+
+* **규정 준수 저장 자동화**
+  시각적 커뮤니케이션 증거를 검토 및 보존을 위해 구조화된 메일함 형식으로 아카이브할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi OTT ke MB
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi OTT ke MBOX dalam API Python mengubah templat teks OpenDocument menjadi format arsip mailbox untuk menyimpan koleksi pesan bergaya email. Ini berguna ketika komunikasi yang dihasilkan perlu dikelompokkan, dipindahkan, atau disimpan dalam struktur yang kompatibel dengan mailbox.
+
+Konversi ini mendukung otomatisasi dengan memungkinkan pembuatan pesan berbasis dokumen mengalir langsung ke pipeline arsip dan migrasi yang mengandalkan penyimpanan bergaya mailbox untuk skala dan organisasi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Persiapan Arsip Mailbox**  
+  Menghasilkan konten pesan yang cocok untuk penyimpanan email yang dikelompokkan.
+
+* **Pencatatan Komunikasi**  
+  Menyimpan konten yang dihasilkan dalam format mailbox yang dapat dipindahkan.
+
+* **Pengemasan Pesan Massal**  
+  Membantu mengatur banyak pesan yang dihasilkan untuk transfer atau penyerapannya.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomatisasi" %}}
+
+* **Pembuatan Arsip Mail Otomatis**  
+  Mengonversi komunikasi berbasis templat menjadi kontainer MBOX.
+
+* **Dukungan Alur Kerja Migrasi**  
+  Menyiapkan pesan yang berasal dari dokumen untuk proses impor mailbox.
+
+* **Pipeline Retensi Batch**  
+  Menyimpan pesan yang dihasilkan berulang untuk kepatuhan atau penggunaan audit.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

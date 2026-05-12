@@ -46,7 +46,41 @@ Untuk pengembang Python, siapa yang mencoba menambahkan fitur konversi DOC ke OS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Konversi dokumen ke OST menyiapkan konten yang berasal dari dokumen untuk alur kerja yang terkait dengan data kotak surat offline dan lingkungan surat yang disinkronkan. Ini berguna dalam skenario di mana informasi dokumen harus selaras dengan struktur penyimpanan pesan perusahaan.
+
+Menggunakan API Python untuk pemrosesan yang berorientasi DOC ke OST meningkatkan kesiapan otomatisasi, mendukung penanganan standar, dan mengurangi pekerjaan manual dalam operasi perusahaan yang terkait surat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kasus Penggunaan Utama" %}}
+
+* **Persiapan Data Kotak Surat**
+  Konversi konten berbasis dokumen untuk alur kerja yang berinteraksi dengan penyimpanan surat offline.
+
+* **Dukungan Komunikasi Perusahaan**
+  Menyelaraskan output dokumen dengan lingkungan pesan yang digunakan dalam sistem surat yang disinkronkan.
+
+* **Integrasi Alur Kerja Retensi**
+  Mempertahankan atau memproses konten yang berasal dari dokumen dalam operasi yang berorientasi kotak surat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Skenario Otomasi" %}}
+
+* **Otomatisasi Penyimpanan Surat**
+  Menyiapkan konten dokumen secara programatik untuk alur kerja perusahaan yang terkait OST.
+
+* **Pekerjaan Konversi Skala Besar**
+  Mengotomatiskan penanganan dokumen di mana pemrosesan yang kompatibel dengan kotak surat diperlukan.
+
+* **Pipa Kepatuhan dan Retensi**
+  Gunakan langkah konversi yang terprogram untuk mendukung lingkungan data-pesan yang terkontrol.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

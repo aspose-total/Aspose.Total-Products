@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion DOT vers OST transforme les modèles de documents en un format hors ligne orienté boîte aux lettres pour les flux de travail de messagerie et la préparation d'archives. Cela est pertinent dans les scénarios où le contenu dérivé de modèles est intégré aux processus de stockage de communications hors ligne.
+
+Avec les API Python, cette conversion peut être intégrée à des systèmes automatisés qui préparent des actifs de communication basés sur des documents pour la synchronisation de boîtes aux lettres ou la gestion d'archives.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d'utilisation clés" %}}
+
+* **Préparation de courrier hors ligne**
+  Convertir le contenu basé sur DOT en flux de travail compatibles OST pour le traitement lié aux boîtes aux lettres.
+
+* **Support d'archivage et de synchronisation**
+  Utiliser les données de communication dérivées de modèles dans des environnements nécessitant des structures de stockage hors ligne.
+
+* **Emballage du flux de travail de messagerie**
+  Préparer des sorties structurées à partir de modèles de documents pour des opérations centrées sur les boîtes aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d'automatisation" %}}
+
+* **Préparation automatisée du stockage de courrier**
+  Les scripts Python peuvent prendre en charge la conversion récurrente de fichiers DOT pour les flux de travail de courrier hors ligne.
+
+* **Intégration du courrier pilotée par les documents**
+  La conversion aide à connecter les dépôts de modèles aux processus de communication synchronisés.
+
+* **Gestion en masse des actifs de courrier**
+  Les pipelines programmatiques rationalisent la préparation à haut volume des sorties orientées boîte aux lettres.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

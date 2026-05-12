@@ -65,7 +65,41 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da SXC a WordML converte il contenuto dei fogli di calcolo in un formato di elaborazione testi basato su XML, utile per la generazione di documenti strutturati, la trasformazione e l'interoperabilità a livello di sistema. È particolarmente rilevante quando il contenuto del documento deve rimanere leggibile da macchine e facile da integrare in flussi di lavoro consapevoli di XML.
+
+Con le API Python, la conversione da SXC a WordML supporta l'automazione scalabile consentendo la creazione, la validazione e la trasformazione programmatica di documenti all'interno di sistemi di pubblicazione guidati dai dati o di elaborazione aziendale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Generazione di documenti basata su XML**  
+  Converte i dati del foglio di calcolo in un formato strutturato adatto ai flussi di lavoro di documenti leggibili da macchine.
+
+* **Interoperabilità di sistema**  
+  Aiuta a integrare il contenuto del documento nelle piattaforme che elaborano o scambiano risorse basate su XML.
+
+* **Gestione di contenuti strutturati**  
+  Supporta un controllo preciso sulla composizione del documento per ambienti ad alta intensità di trasformazione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Assemblaggio programmatico di documenti**  
+  Utilizza le API Python per generare output WordML che si adattano a pipeline di automazione strutturate.
+
+* **Integrazione del flusso di lavoro XML**  
+  Consente al contenuto derivato dal foglio di calcolo di passare a sistemi di validazione, trasformazione o pubblicazione.
+
+* **Elaborazione scalabile dati‑a‑documento**  
+  Supporta la generazione dinamica di documenti leggibili da macchine a partire da input di fogli di calcolo in evoluzione.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

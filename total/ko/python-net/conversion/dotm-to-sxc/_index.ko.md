@@ -65,7 +65,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM에서 SXC로의 변환은 매크로가 포함된 Word 템플릿을 오래된 OpenOffice 스타일 환경과 호환되는 스프레드시트 파일로 변환합니다. 문서 내용을 구조화된 스프레드시트 출력으로 변환하면서 레거시 오피스 워크플로와의 호환성을 유지해야 할 때 유용합니다.
+
+DOTM에서 SXC로 변환하기 위해 Python API를 사용하면 재사용 가능한 문서 템플릿을 레거시 호환 시스템용 스프레드시트 자산으로 전환하여 자동화를 향상시킵니다. 이는 효율적인 데이터 추출, 보다 넓은 상호 운용성, 그리고 확장 가능한 형식 변환을 지원합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **레거시 오픈 스프레드시트 호환성**
+  오래된 스프레드시트 형식에 여전히 의존하는 워크플로를 위해 DOTM 콘텐츠를 SXC로 변환합니다.
+
+* **템플릿 데이터 재사용**
+  검토 및 처리를 위해 구조화된 문서 내용을 스프레드시트 형태로 추출합니다.
+
+* **마이그레이션 지원**
+  레거시 오피스 환경으로 또는 그 환경을 통해 콘텐츠를 전환할 때 SXC 출력을 사용합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 레거시 스프레드시트 내보내기**
+  시스템은 호환성 중심 워크플로의 일환으로 DOTM 템플릿을 SXC로 변환할 수 있습니다.
+
+* **문서-데이터 자동화**
+  이 변환은 구조화된 콘텐츠를 스프레드시트 자산으로 정기적으로 추출하는 것을 지원합니다.
+
+* **배치 레거시 형식 처리**
+  프로그래밍 작업을 통해 DOTM 파일을 SXC로 대규모 변환을 효율적으로 수행할 수 있습니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

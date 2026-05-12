@@ -65,7 +65,47 @@ Per uno sviluppatore Python, che sta cercando di aggiungere una funzionalità di
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversione da ODS a DOCM trasforma i file di foglio di calcolo in documenti di elaborazione testi abilitati alle macro. Questo consente di incorporare i dati del foglio di calcolo all'interno di documenti che supportano script automatizzati e comportamenti avanzati del documento.
+
+Con le API Python, la conversione da ODS a DOCM può essere integrata in sistemi automatizzati che generano documentazione abilitata alle macro. Ciò consente l'elaborazione dinamica dei documenti, conversioni su larga scala e l'integrazione in ambienti di automazione aziendale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casi d'uso principali" %}}
+
+* **Creazione di documenti abilitati alle macro**  
+  Converti il contenuto del foglio di calcolo in documenti in grado di supportare macro di automazione.
+
+* **Modelli di documento automatizzati**  
+  Trasforma i dati basati su fogli di calcolo in flussi di lavoro documentali guidati dalle macro.
+
+* **Documentazione basata sui dati**  
+  Integra i set di dati dei fogli di calcolo in report abilitati alle macro.
+
+* **Elaborazione avanzata dei documenti**  
+  Supporta attività automatizzate incorporate nei documenti generati da fonti di fogli di calcolo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scenari di automazione" %}}
+
+* **Documenti di flusso di lavoro automatizzati**  
+  I sistemi generano file DOCM dai fogli di calcolo per l'elaborazione guidata dalle macro.
+
+* **Automazione della reportistica aziendale**  
+  I dati dei fogli di calcolo vengono convertiti in documenti abilitati alle macro per l'analisi automatizzata.
+
+* **Generazione dinamica di documenti**  
+  Le pipeline Python creano documentazione abilitata alle macro basata su input di fogli di calcolo.
+
+* **Elaborazione batch di documenti macro**  
+  I servizi automatizzati convertono grandi insiemi di file ODS in documenti DOCM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

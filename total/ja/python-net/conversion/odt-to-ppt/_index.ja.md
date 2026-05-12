@@ -64,7 +64,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT から PPT への変換は、OpenDocument Text のコンテンツを編集、共有、スライドベースのコミュニケーションに適したプレゼンテーション形式に変換します。物語的またはレポート中心のコンテンツを視覚的なプレゼンテーションで再利用する必要がある場合に有用です。
+
+自動化ワークフローにおいて、ODT から PPT への変換は、スケーラブルな文書再利用と定期的なプレゼンテーション生成をサポートします。Python API を使用すると、会議、ブリーフィング、運用レポート向けの効率的な変換パイプラインを構築できます。
+
+{{% blocks/products/pf/agp/feature-section-col title="主な使用例" %}}
+
+* **文書からプレゼンテーションへの変換**  
+  書かれたコンテンツを編集可能なスライド形式の出力に変換します。
+
+* **ビジネスコミュニケーションの準備**  
+  レポート、提案書、要約からプレゼンテーションを作成するのに役立ちます。
+
+* **研修・教育支援**  
+  教材テキストをプレゼンテーション資料に再利用します。
+
+* **共同プレゼンテーション編集**  
+  チームが変換されたコンテンツをスライド形式で洗練させることができます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **スケジュールされたプレゼンテーション生成**  
+  Python ワークフローで定期的な ODT 文書を PPT ファイルに自動変換できます。
+
+* **大量レポートの変換**  
+  大量のテキストコンテンツをバッチ処理でプレゼンテーションに変換できます。
+
+* **テンプレートに合わせたスライド作成**  
+  構造化されたセクションをプログラムでプレゼンテーションレイアウトにマッピングできます。
+
+* **チーム間配布パイプライン**  
+  生成されたプレゼンテーションをレビューや共有システムへ自動的にルーティングできます。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

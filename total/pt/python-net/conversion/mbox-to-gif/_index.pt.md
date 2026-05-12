@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para GIF converte o conteúdo da caixa de correio em arquivos de imagem leves que são fáceis de visualizar, compartilhar e incorporar em fluxos de trabalho visuais. Isso é útil quando mensagens de e‑mail precisam ser representadas como gráficos compactos para relatórios, arquivamento ou referência rápida.
+
+Por meio de APIs Python, as organizações podem automatizar a conversão para GIF para renderização em lote de caixas de correio, melhorar a portabilidade dos resultados e simplificar a integração com sistemas que consomem registros baseados em imagens.
+
+{{% blocks/products/pf/agp/feature-section-col title="Principais Casos de Uso" %}}
+
+* **Exportações Visuais Compactas de E‑mail**
+  Converta mensagens em arquivos GIF leves para visualização e compartilhamento simples.
+
+* **Recursos de Visualização e Relatórios**
+  Use as imagens geradas em painéis, resumos ou documentação visual interna.
+
+* **Preservação Estática de Mensagens**
+  Preserve a aparência do conteúdo do e‑mail em um formato gráfico não editável.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Renderização em Lote de Imagens**
+  Converta automaticamente mensagens da caixa de correio em arquivos GIF para geração rápida de resultados visuais.
+
+* **Suporte a Fluxos de Trabalho Incorporados**
+  Insira os gráficos de e‑mail convertidos em relatórios, portais ou sistemas de monitoramento.
+
+* **Exportação de Arquivo Orientada por Python**
+  Escalone a conversão de caixas de correio baseada em imagens com regras de processamento programáticas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

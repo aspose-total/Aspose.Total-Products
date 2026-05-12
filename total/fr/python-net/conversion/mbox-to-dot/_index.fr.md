@@ -46,7 +46,41 @@ Pour un développeur Python, qui essaie d'ajouter une fonctionnalité de convers
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+La conversion MBOX vers DOT transforme le contenu d’une boîte aux lettres en fichiers de modèle Word, permettant aux structures dérivées des e‑mails d’être réutilisées comme bases de documents standardisées. Cela est utile lorsque les messages archivés doivent alimenter des mises en page de documents réutilisables ou des processus de reporting basés sur des modèles.
+
+Grâce aux API Python, les organisations peuvent automatiser la création de fichiers DOT à partir d’archives MBOX afin de soutenir une génération de modèles évolutive, un formatage cohérent et l’automatisation des flux de travail documentaires.
+
+{{% blocks/products/pf/agp/feature-section-col title="Cas d’utilisation clés" %}}
+
+* **Création de modèles à partir d’e‑mails**  
+  Transformez le contenu de la boîte aux lettres en modèles de documents réutilisables pour une utilisation récurrente.
+
+* **Flux de travail de formatage standardisé**  
+  Conservez les mises en page dérivées des messages dans un format conçu pour une génération de documents cohérente.
+
+* **Mise en place de la documentation des processus**  
+  Utilisez le contenu des e‑mails comme base structurée pour la création future de documents.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Scénarios d’automatisation" %}}
+
+* **Génération de modèles réutilisables**  
+  Convertissez les e‑mails sélectionnés en fichiers DOT qui prennent en charge une documentation standardisée.
+
+* **Préservation automatisée des mises en page**  
+  Créez programmétiquement des sorties de modèles à partir d’archives de boîtes aux lettres pour des flux de travail répétés.
+
+* **Structuration de contenu évolutive**  
+  Utilisez Python pour transformer les enregistrements d’e‑mail en actifs prêts à être utilisés comme modèles pour l’entreprise.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python에서 DIF를 MOBI로 변환하면 구조화된 DIF 콘텐츠를 휴대용 읽기와 디지털 배포에 적합한 전자책 친화 형식으로 변환할 수 있습니다. 이는 데이터 기반 콘텐츠를 읽을 수 있는 출판 자산으로 재활용해야 할 때 유용합니다.
+
+Python API를 사용하면 DIF를 MOBI로 변환하는 작업을 자동화하여 디지털 매뉴얼, 레퍼런스 자료 또는 구조화된 출판물을 생성하는 콘텐츠 제작 파이프라인에 적용할 수 있습니다. 이는 원본 데이터에서 읽기 준비된 출력물을 준비할 때 효율성을 높여 줍니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **디지털 레퍼런스 출판**
+  구조화된 정보를 휴대용으로 접근할 수 있도록 DIF 데이터를 MOBI 파일로 변환합니다.
+
+* **데이터 기반 전자책 제작**
+  기술 문서나 정보 전자책을 생성하기 위한 소스로 DIF 콘텐츠를 사용합니다.
+
+* **오프라인 콘텐츠 배포**
+  지속적인 연결 없이도 사용자가 읽을 수 있는 콘텐츠가 필요할 때 MOBI 파일을 제작합니다.
+
+* **교육 자료 제공**
+  교육용 또는 내부 학습 콘텐츠를 전자책 형식으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **자동 전자책 제작**
+  콘텐츠 출판 워크플로에서 DIF 데이터셋으로부터 MOBI 파일을 생성합니다.
+
+* **콘텐츠 재활용 파이프라인**
+  원본 데이터를 디지털 읽기 형식으로 자동 변환하여 보다 넓은 재사용을 가능하게 합니다.
+
+* **대량 출판 생성**
+  대규모 콘텐츠 라이브러리를 위해 많은 DIF 파일을 프로그래밍 방식으로 MOBI 출력물로 처리합니다.
+
+* **다채널 콘텐츠 제공**
+  동일한 원본 자료를 여러 형식으로 출판하는 시스템에 변환을 통합합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

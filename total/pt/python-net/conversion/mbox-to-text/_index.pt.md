@@ -46,7 +46,41 @@ Para um desenvolvedor Python, quem está tentando adicionar um recurso de conver
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A conversão de MBOX para TEXT transforma arquivos de caixa de correio em arquivos de texto simples, tornando o conteúdo de e‑mail leve, pesquisável e fácil de processar em diversos sistemas. Isso é ideal para fluxos de trabalho focados na extração de conteúdo bruto, indexação ou armazenamento simples de longo prazo.
+
+Usando APIs Python, as organizações podem automatizar a conversão de texto a partir de arquivos MBOX para apoiar análises, pipelines de busca e processos de normalização de conteúdo em larga escala.
+
+{{% blocks/products/pf/agp/feature-section-col title="Casos de Uso Principais" %}}
+
+* **Extração de Conteúdo Simples**
+  Converta e‑mails em arquivos de texto para leitura simples e processamento subsequente.
+
+* **Prontidão para Busca e Indexação**
+  Prepare os dados da caixa de correio para indexação, parsing e fluxos de trabalho de análise de texto.
+
+* **Arquivamento Leve**
+  Preserve o conteúdo das mensagens em um formato mínimo que seja fácil de armazenar e transferir.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Cenários de Automação" %}}
+
+* **Normalização de Texto Automatizada**
+  Transforme arquivos de caixa de correio em texto simples para um processamento de dados consistente.
+
+* **Integração de Pipeline de Busca**
+  Alimente os arquivos de texto convertidos em sistemas de indexação, recuperação ou classificação.
+
+* **Extração em Massa de Conteúdo**
+  Use Python para processar grandes coleções de MBOX em saídas de texto estruturadas.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

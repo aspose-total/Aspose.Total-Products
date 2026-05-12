@@ -65,7 +65,39 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python API에서 OTT를 XLSB로 변환하면 OpenDocument 텍스트 템플릿을 대용량 워크북 시나리오에서 효율적인 저장 및 처리를 위해 최적화된 이진 스프레드시트 파일로 변환합니다. 변환된 데이터가 스프레드시트 형식을 유지하면서 압축된 파일 표현의 이점을 누려야 할 때 유용합니다.
+
+{{% blocks/products/pf/agp/feature-section-col title="핵심 사용 사례" %}}
+
+* **컴팩트 스프레드시트 출력**  
+  효율적인 저장 및 처리를 위해 이진 워크북 파일을 생성합니다.
+
+* **대용량 데이터 워크플로 지원**  
+  생성된 스프레드시트가 크기가 커지는 시나리오에 적합합니다.
+
+* **구조화된 콘텐츠 제공**  
+  템플릿 콘텐츠를 성능이 뛰어난 워크북 자산으로 변환합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="자동화 시나리오" %}}
+
+* **고볼륨 워크북 생성**  
+  OTT 소스에서 XLSB 내보내기를 대규모로 자동화합니다.
+
+* **스토리지 효율적인 보고**  
+  반복 프로세스를 위한 컴팩트 스프레드시트 출력을 생성합니다.
+
+* **성능 중심 데이터 파이프라인**  
+  자동화된 스프레드시트 워크플로에서 더 빠른 처리를 지원합니다.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

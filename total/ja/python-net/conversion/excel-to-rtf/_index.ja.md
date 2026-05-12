@@ -65,7 +65,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Python の Excel から RTF への変換は、スプレッドシートの内容を、可搬性と編集可能な書式設定のバランスが取れたリッチテキスト文書に変換します。スプレッドシートデータを構造と可読性を保持したテキスト中心の形式に再利用する必要がある場合に便利です。
+
+この変換は、スプレッドシートデータを共有可能な書式付きテキスト出力に変換する軽量な文書生成ワークフローを実現することで、Automation を支援します。
+
+{{% blocks/products/pf/agp/feature-section-col title="主要な使用例" %}}
+
+* **書式付きテキストエクスポート**  
+  Excel データを RTF 文書に変換し、可読性と編集可能なテキストベースの配布を実現します。
+
+* **エディタ間互換性**  
+  異なるワードプロセッシング環境全体で広くサポートが必要な文書出力の場合に RTF を使用します。
+
+* **構造化コンテンツ共有**  
+  スプレッドシート情報を、レビューや再利用に適したシンプルな文書形式に変換します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="自動化シナリオ" %}}
+
+* **自動テキスト文書生成**  
+  レポート作成やアーカイブワークフロー内で、Python API を使用して Excel 入力から RTF ファイルを作成します。
+
+* **軽量ドキュメントパイプライン**  
+  完全な文書の複雑さなしで書式付きテキスト出力が必要なシステムをサポートします。
+
+* **バッチコンテンツ変換**  
+  スプレッドシートのコレクションをプログラムで RTF ファイルに変換し、より迅速な配信を実現します。
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>
