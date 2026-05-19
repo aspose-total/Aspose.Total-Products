@@ -46,7 +46,53 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi hình ảnh sang MBOX bằng các API Python giúp đóng gói các giao tiếp dựa trên hình ảnh vào các tệp lưu trữ hộp thư có thể lưu trữ nhiều bản ghi tin nhắn trong một container duy nhất. Điều này hữu ích cho các tổ chức cần bảo tồn hoặc di chuyển dữ liệu giao tiếp hình ảnh trong quy trình làm việc lưu trữ email hợp nhất.
+
+Từ góc độ tự động hoá, việc chuyển đổi hình ảnh sang MBOX hỗ trợ quy trình lưu trữ có khả năng mở rộng, lắp ráp giao tiếp hàng loạt và chuyển giao nội dung tin nhắn một cách hiệu quả giữa các hệ thống. Nó cho phép thông tin dựa trên hình ảnh được lưu trữ ở định dạng có cấu trúc, thực tiễn cho các nhiệm vụ bảo quản và di chuyển.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Mailbox Archive Building**
+  Chuyển đổi các bản ghi giao tiếp dựa trên hình ảnh thành các kho lưu trữ MBOX để lưu trữ tập trung.
+
+* **Bulk Record Preservation**
+  Gom nhóm nhiều tin nhắn xuất phát từ hình ảnh vào một tệp lưu trữ duy nhất để bảo quản lâu dài.
+
+* **Migration Preparation**
+  Chuẩn bị nội dung giao tiếp hình ảnh để chuyển sang các hệ thống hỗ trợ lưu trữ hộp thư.
+
+* **Case and Project Bundling**
+  Tổ chức các bản ghi tin nhắn dựa trên hình ảnh liên quan trong một tệp hộp thư di động.
+
+* **Historical Communication Storage**
+  Bảo tồn ảnh chụp màn hình, thông báo và thư từ quét dưới dạng thân thiện với lưu trữ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Batch Archive Generation**
+  Các bộ sưu tập hình ảnh lớn có thể được chuyển đổi thành các kho lưu trữ giao tiếp dựa trên MBOX một cách tự động.
+
+* **Retention Pipeline Automation**
+  Các bản ghi xuất phát từ hình ảnh có thể được gom nhóm vào các lưu trữ hộp thư theo lịch trình dựa trên chính sách.
+
+* **Data Consolidation Workflows**
+  Các tệp hình ảnh rải rác có thể được chuyển đổi thành các đầu ra lưu trữ thống nhất để quản lý dễ dàng hơn.
+
+* **Export and Transfer Processes**
+  Các hệ thống tự động có thể đóng gói các tin nhắn dựa trên hình ảnh vào tệp MBOX để di chuyển hệ thống.
+
+* **Compliance Storage Automation**
+  Bằng chứng giao tiếp hình ảnh có thể được lưu trữ trong định dạng hộp thư có cấu trúc để xem xét và bảo quản.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSB ל-WordML המרה ממירה תוכן גיליון אלקטרוני בינרי לסימון מבוסס XML לעיבוד תמלילים, ומאפשרת יצירת מסמכים מובנים בתהליכי עבודה שמעריכים ייצוג מסמך קריא למכונה. זה שימושי כאשר יש צורך להמיר נתוני גיליון לפורמט המתאים לעיבוד, המרה או אינטגרציית מערכת.
+
+בהקשרים של אוטומציה, המרה מ-XLSB ל-WordML תומכת בצינורות מסמכים בקנה מידה על ידי אפשרות להעביר תוכן שמקורו בגיליון לתוך זרימות עבודה מבוססות XML, משפרת אינטראופרטיביות, שליטה בהמרה, ואינטגרציה עם מערכות מסמכים תכנותיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמכים מבוססי XML**  
+  ממיר נתוני גיליון אל פורמט סימון מובנה עבור זרימות עבודה של מסמכים.
+
+* **אינטגרציית מערכת**  
+  עוזר לחבר תוכן גיליון עם סביבות עיבוד מונעות XML.
+
+* **המרה תכנותית**  
+  תומך בטיפול מתקדם במסמכים כאשר מבנה קריא למכונה הוא חשוב.
+
+* **החלפת תוכן מובנית**  
+  מאפשר למידע שמקורו בגיליון לנוע דרך צינורות מסמכים מתאימים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות מסמכי XML**  
+  מערכות יכולות להמיר קבצי XLSB ל-WordML לעיבוד אוטומטי מובנה.
+
+* **זרימות עבודה של המרה**  
+  תוכן גיליון יכול להיות מעוצב מחדש תכנותית באמצעות לוגיקת מסמכי XML.
+
+* **המרת סימון בכמות גדולה**  
+  קבצי גיליון מרובים יכולים להיות מומרצים לפלטי WordML בקנה מידה גדול.
+
+* **מערכות אוטומציה מתאימות**  
+  זרימות המרה יכולות לתמוך בכלים במטה שצורכים סימון מסמכים מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

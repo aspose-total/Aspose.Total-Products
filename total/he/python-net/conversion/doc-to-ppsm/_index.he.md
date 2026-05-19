@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑PPSM ממירה תוכן Word לקבצי מצגת עם מקרו עבור זרימות עבודה של מצגות הדורשות פורמט הפעלה והתנהגות אוטומציה מתקדמת. היא שימושית לארגונים המטפלים במשלוח מצגות מובנה עם לוגיקה ניתנת לשימוש חוזר.
+
+באמצעות API‑ים של Python, ניתן להרחיב המרת DOC ל‑PPSM על פני ספריות מסמכים, לשפר את היעילות ביצירת מצגות עם מקרו ובפריסת מצגות מתוקננות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת מצגת עם מקרו**
+  המרת תוכן המסמך לקבצי מצגת התומכים בהתנהגות מצגת מתקדמת.
+
+* **מסירת מצגת אוטומטית**
+  השתמש בפלט PPSM כאשר הפעלת המצגת והאוטומציה המוטמעת חשובות גם יחד.
+
+* **אריזת תקשורת מובנית**
+  ארוז מידע מבוסס מסמך לתוך פורמטים של מצגות מבוקרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצור מצגת אוטומטית**
+  צור קבצי PPSM מקלטי DOC עבור זרימות עבודה של מצגות מתקדמות.
+
+* **צינוריות תוכן ממוקדות הפעלה**
+  המרת תוכן המסמך לנכסי מצגת עם מקרו באופן תכנותי.
+
+* **זרימות הפצה חוזרות**
+  השתמש באוטומציה של Python כדי לתקן קבצי מסירת מצגות בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

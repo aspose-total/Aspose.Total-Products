@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTX ל‑DOT ממיר תוכן של תבנית גיליון אלקטרוני לפורמט תבנית עיבוד תמלילים שניתן להשתמש בו מחדש ליצירת מסמכים סטנדרטיים מרובים. זה בעל ערך כאשר פריסות גיליון אלקטרוני מובנות צריכות להפוך לתבניות מסמך חוזרות לשימוש לתקשורת פורמלית, דוחות או ניירת תפעולית.
+
+בסביבות אוטומטיות, המרה מ‑XLTX ל‑DOT מסייעת לצוותים ליצור יסודות מסמך לשימוש חוזר ממקורות מונעי‑גיליון, משפרת עקביות, מצמצמת עבודה חוזרת של הגדרה, ותומכת בתהליכי יצירת מסמכים בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית מסמך לשימוש חוזר**  
+  ממירה תבניות גיליון אלקטרוני לתבניות מסמך שניתן להשתמש בהן באופן חוזר לתוצרים דומים.
+
+* **עיצוב עסקי תקני**  
+  מסייע לשמור על מבנה ופריסה עקביים במערכי המסמכים שנוצרו.
+
+* **תיעוד מונחה תהליך**  
+  תומך בסביבות שבהן טפסים או דוחות חוזרים חייבים להתחיל מתבנית מבוקרת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת ספריית תבניות**  
+  אוטומציה יכולה לבנות מאגרי תבניות מסמך מקלטי XLTX לשימוש ארגוני.
+
+* **צינורות תקנון מסמכים**  
+  ההמרה תומכת בתהליכי עבודה שדורשים תבניות התחלה עקביות בין מחלקות.
+
+* **פריסת תבניות בכמות גדולה**  
+  עיבוד תכנותי מאפשר יצירה רחבת היקף של תבניות DOT מתוך עיצובים של גיליונות אלקטרוניים מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

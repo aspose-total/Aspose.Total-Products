@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOCM-t hozzáadni ICS-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOCM‑ról‑ICS konverzió átalakítja a makrókkal ellátott dokumentumtartalmat naptár‑kompatibilis adatokra, lehetővé téve ütemtervek, esemény részletek vagy dátum‑alapú tartalom újrahasználatát a tervezési munkafolyamatokban. Ez különösen hasznos, ha a dokumentumok strukturált eseményinformációkat tartalmaznak, amelyek szélesebb körű hozzáférhetőséget igényelnek.
+
+Automatizálási szempontból a DOCM‑ról‑ICS konverzió összekapcsolja a szerkesztett ütemterveket a naptárrendszerekkel, lehetővé téve az automatikus eseménygenerálást, szinkronizációt és az időalapú munkafolyamat‑koordinációt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Ütemterv kinyerése**
+  Átalakítja az eseményekkel kapcsolatos dokumentumtartalmat naptár‑kész adatokra a tervezési felhasználáshoz.
+
+* **Találkozók és határidők közzététele**
+  Segít a dokumentum által meghatározott ütemtervek terjesztésében szabványos naptárfájlok segítségével.
+
+* **Keresztplatformos ütemezés**
+  Támogatja a dátum‑alapú információk hordozhatóságát kompatibilis naptáreszközökbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált esemény létrehozása**
+  ICS fájlokat generál a DOCM tartalomból, amely találkozó- vagy határidő‑részleteket tartalmaz.
+
+* **Naptárszinkronizációs munkafolyamatok**
+  Támogatja a dokumentumból származó ütemtervek automatikus importálását a tervezési rendszerekbe.
+
+* **Ismétlődő kötegelt ütemezés**
+  Több ütemezési dokumentumot alakít át nagyméretben szabványos naptárkimenetekre.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

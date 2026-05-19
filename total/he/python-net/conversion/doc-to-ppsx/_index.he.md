@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑PPSX משנה את תוכן ה‑Word לקבצי מצגת מודרניים המיועדים להפעלת מצגות ולשיתוף קל. זה בעל ערך כאשר מידע מבוסס מסמך צריך להפוך לנכס מצגת ממוקד, מוכן לצפייה.
+
+המרת DOC ל‑PPSX מבוססת API של Python מסייעת לאוטומציה של פרסום מצגות, תומכת בפלט תקני ומשלבת את שינוי המסמך בתהליכי תקשורת ניתנים להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ייצוא מצגת מודרנית**
+  המרת תוכן המסמך ל‑PPSX להפעלת מצגת ישירה.
+
+* **שיתוף והפצה**
+  הצעת מצגות שמקורן במסמך בפורמט המתאים לצריכה רחבה.
+
+* **פישוט מצגת**
+  המרת תוכן Word ארוך למבנה מצגות מובנה, מוכן לצפייה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות פרסום מצגות**
+  יצירת קבצי PPSX באופן אוטומטי מתוכן DOC לאירועים או מחזורי דיווח.
+
+* **המרת מצגות בכמות גדולה**
+  המרת מסמכים מרובים לשקופיות מוכנות להפעלה באמצעות אוטומציה ב‑Python.
+
+* **תהליכי אספקה תקניים**
+  הפצת תוכן מוכן למצגת מתוכניות ממאגרי מסמכים באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

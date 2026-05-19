@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}}
+
+המרת PPS ל-TSV בפייתון מאפשרת לייצא תוכן מצגת לערכי מופרדים בטאבים לטיפול במבני נתונים ובאינטראופרטיביות מערכתית. פורמט זה מועיל במיוחד כאשר המידע המומר צריך להישאר פשוט, קל משקל וקל לניתוח בתהליכי עבודה טכניים.
+
+מנקודת מבט של אוטומציה, המרת PPS ל-TSV תומכת בחילוץ בר‑קנה מידה, קבלה לתסריטים ולכלים, ועיבוד יעיל של נתונים שמקורם במצגות. היא מתאימה היטב לצינורות שבהם פלט טבלאי נקי ומינימום עומס עיצוב הם עדיפויות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא טקסט מובנה**
+  המרת נתוני מצגת לפורמט טבלאי פשוט לשימוש חוזר.
+
+* **אינטראופרטיביות מערכת**
+  הכנת מידע שמקורו במצגות לכלים הצופים בקלט מבוסס מפריד.
+
+* **הכנת נתונים בכמות גדולה**
+  המרת מספר רב של מצגות לרשומות מובנות וקלי משקל.
+
+* **תמיכה בתהליכי עבודה טכניים**
+  שימוש בפלט מופרד בטאבים לתסריטים, ייבוא והמרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **קבלת צינור נתונים**
+  אוטומציה של המרת PPS ל-TSV למטרות ניתוח והמרה בעבודות המשך.
+
+* **שירותי חילוץ במאצעים**
+  עיבוד אוספי מצגות לקבצי TSV על בסיס מתוזמן.
+
+* **אוטומציית ייצוא ידידותית לתסריטים**
+  יצירת פלט טבלאי נקי לשורת פקודה ולתהליכי עבודה תכנותיים.
+
+* **עיבוד ארכיון קל משקל**
+  המרת תוכן מצגת לטקסט מובנה קומפקטי לאחסון והעברה בר‑קנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

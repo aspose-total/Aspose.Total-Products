@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT ל‑DOT המרה בפייתון מאפשרת קבצי תבנית Excel להיות מומרי לתבניות מסמך Word שיכולות לשמש נקודות התחלה ניתנות לשימוש חוזר ליצירת מסמכים עתידיים. זה שימושי במיוחד כאשר תבניות גיליון מכילות מידע מובנה שצריך לארוז מחדש לתבניות מסמך לשימוש חוזר.
+
+בסביבות ממוקדות אוטומציה, המרת XLT ל‑DOT תומכת באיחוד תבניות ויצירת מסמכים בקנה מידה. היא מאפשרת למערכות מבוססות פייתון לשנות פריסות גיליון לתבניות Word ניתנות לשימוש חוזר שניתן למלא תכנותית במגוון תהליכים עסקיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת תבנית מסמך ניתנת לשימוש חוזר**  
+  המרת קבצי XLT לתבניות DOT לייצור מסמכים מתוקננים.
+
+* **יישור תבניות תהליך**  
+  העברת מבנים מונעי גיליון אל פורמטים של תבניות Word המשמשים בתהליכי תיעוד.
+
+* **שימוש חוזר בתוכן תפעולי**  
+  יצירת תבניות בסיסיות שניתן ליישם באופן חוזר לדוחות, טפסים או מסמכים פנימיים.
+
+* **המרת תבניות מורשת**  
+  המודרניזציה של תבניות גיליון ישנות על ידי הפיכתם למשאבי תבניות Word ניתנים לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות יצירת תבניות**  
+  המרה אוטומטית של קבצי XLT לתבניות DOT לתהליכי עבודה חוזרים של מסמכים.
+
+* **הקמת מסמכים תכנותית**  
+  שימוש ב‑APIs של Python ליצירת תבניות Word בסיסיות מתוכן גיליון להמשך מילוי.
+
+* **מערכות פלט מתוקננות**  
+  הזנת קבצי DOT שהומרו למערכות ארגוניות הדורשות נקודות התחלה עקביות למסמכים.
+
+* **הגירה המונית של תבניות**  
+  אוטומציה של המרת נכסי XLT ישנים לספריות תבניות Word בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

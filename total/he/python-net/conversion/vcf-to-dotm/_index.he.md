@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑DOTM ממירה נתוני כרטיסי קשר לקבצי תבניות Word עם מקרו, מה שמאפשר לשלב פריסות ניתנות לשימוש חוזר עם התנהגויות מתקדמות של מסמכים. זה שימושי עבור ארגונים שזקוקים לתבניות מובנות עם תכונות ניתנות לעריכה ותכנות.
+
+כאשר מתבצעת אוטומציה עם API‑ים של Python, המרת VCF ל‑DOTM תומכת ביצירת תבניות בקנה מידה, ומסייעת לתהליכי עבודה לייצר מסמכים עקביים המבוססים על קשרים ומתאימים לדרישות תפעוליות דינמיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **תבניות עם מקרו**  
+  המרת נתוני קשר VCF לקבצי DOTM עבור מבני מסמכים מתקדמים הניתנים לשימוש חוזר.
+
+* **עיצוב קשרים חוזר**  
+  אחיד את האופן שבו מידע הקשר מופיע בתבניות שנוצרו.
+
+* **בקרת מסמכים תפעולית**  
+  תמיכה בסביבות המתבססות על לוגיקת תבניות ופלטים של מסמכים מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת תבניות אוטומטית**  
+  יצירת תבניות DOTM מרשומות קשר מרובות באמצעות עיבוד אצווה.
+
+* **נכסי קשר מוכנים לתהליכי עבודה**  
+  הכנת קבצי תבנית ניתנים לשימוש חוזר למערכות תיעוד פנימיות אוטומטיות.
+
+* **אספקת תבניות בקנה מידה**  
+  שימוש ב‑API‑ים של Python ליצירה וניהול של תבניות קשר עם מקרו ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

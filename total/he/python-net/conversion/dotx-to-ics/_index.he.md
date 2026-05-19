@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל-ICS משנה את תוכן תבנית ה-Word לנתונים תואמי‑לוח שנה לצורך תזמון אירועים וזרימות עבודה מבוססות זמן. היא חשובה כאשר תוכן מסמך מובנה מכיל מידע על פגישות, מועדים או לוחות זמנים שיש להשתמש בו מחדש במערכות לוח שנה.
+
+באמצעות ממשקי API של Python, המרה זו מאפשרת יצירת רשומות לוח שנה באופן אוטומטי מתבניות, ומסייעת לצוותים לייעל תזמון, תזכורות והפצת אירועים במערכות משולבות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **חילוץ אירועים**
+  המרת תוכן מסמך הקשור ללוח זמנים לקבצים מוכנים ללוח שנה.
+
+* **הפצת פגישות**
+  הפיכת תבניות מובנות לפריטים ניתנים לשימוש חוזר בלוח השנה עבור המשתתפים.
+
+* **ניהול מועדים**
+  עיצוב מחדש של תאריכים חשובים מהמסמכים לנכסי תזמון ניתנים למעקב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת לוח שנה אוטומטית**
+  יצירת קבצי ICS מתבניות DOTX בזרימות עבודה מונעות אירועים.
+
+* **צינורות תזכורת ותזמון**
+  שימוש בפלט המומר למילוי מערכות תכנון והתראה אוטומטיות.
+
+* **פרסום אירועים מבוסס תבנית**
+  יצירת קבצי לוח שנה עקביים מתבניות מסמך חוזרות בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi email sang DOCM bằng Python cho phép chuyển các tin nhắn thành tài liệu Word có hỗ trợ macro cho các quy trình công việc tài liệu nâng cao. Định dạng này hữu ích khi nội dung email đã chuyển đổi cần được đưa vào các môi trường dựa trên tự động hoá nhúng hoặc kịch bản tài liệu.
+
+Nó tăng cường tự động hoá bằng cách cho phép các tài liệu xuất phát từ email tích hợp với các quy trình xem xét, làm giàu và xử lý tài liệu dựa trên macro trong các hệ thống doanh nghiệp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Xử lý tài liệu hỗ trợ macro**
+  Chuyển email thành tệp DOCM cho các quy trình công việc phụ thuộc vào các hành động tài liệu tự động.
+
+* **Hoạt động xem xét có cấu trúc**
+  Sử dụng các tin nhắn đã chuyển đổi trong môi trường kiểm soát, nơi các mẫu và macro hỗ trợ việc xác thực hoặc định dạng.
+
+* **Đường ống tài liệu doanh nghiệp**
+  Chèn nội dung email vào các tệp hoạt động để kích hoạt hành vi kịch bản hạ nguồn.
+
+* **Tiêu chuẩn hoá quy trình**
+  Duy trì tính nhất quán khi các tài liệu xuất phát từ email phải phù hợp với các quy trình công việc văn phòng hỗ trợ macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Làm giàu tài liệu bằng kịch bản**
+  Chuyển email sang DOCM và áp dụng macro để tự động thêm siêu dữ liệu, tiêu đề hoặc phân loại.
+
+* **Chuẩn bị tệp dựa trên quy trình công việc**
+  Cung cấp nội dung email vào các mẫu hỗ trợ macro để xử lý và định tuyến nội bộ.
+
+* **Định dạng hồ sơ tự động**
+  Sử dụng kịch bản tài liệu để tiêu chuẩn hoá nội dung xuất phát từ email trên các kho lưu trữ lớn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

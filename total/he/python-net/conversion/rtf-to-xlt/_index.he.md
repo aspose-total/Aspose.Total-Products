@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל‑XLT משנה מסמכי טקסט עשיר לקבצי תבנית גיליון אלקטרוני המשמשים כנקודות התחלה ניתנות לשימוש חוזר ליצירת חוברות. זה שימושי כאשר תוכן המסמך צריך להפוך לבסיס תקני לדוחות, טפסים או כלי מעקב מבוססי גיליון אלקטרוני חוזרים.
+
+מנקודת מבט של אוטומציה, RTF ל‑XLT תומך ביצירת גיליונות אלקטרוניים מונעי‑תבנית, מה שמסייע לצוותים ליצור מבני חוברות עקביים ממסמכי מקור תוך הפחתת עבודה חוזרת של הגדרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת תבנית גיליון אלקטרוני ניתנת לשימוש חוזר**  
+  ממיר את תוכן המסמך לתבניות חוברות לדיווח והזנת נתונים חוזרים.
+
+* **טפסים תפעוליים תקניים**  
+  מסייע ביצירת מבני גיליון אלקטרוני עקביים מחומר מקור מאושר.
+
+* **הקמת זרימת עבודה נתונים חוזרת**  
+  תומך בהכנת תבניות לתהליכים עסקיים תדירים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**  
+  מערכות יכולות להמיר מסמכי RTF לקבצי XLT עבור זרימות עבודה של גיליונות אלקטרוניים חוזרות.
+
+* **צינורות דיווח מבוססי‑תבנית**  
+  המרה תכנותית מסייעת לאכוף עקביות במשימות יצירת חוברות חוזרות.
+
+* **הכנת חוברות בקנה מידה**  
+  תהליכים דינמיים יכולים לייצר תבניות גיליון אלקטרוני ממסמכים נרטיביים או מובנים לשימוש רחב יותר בצוות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

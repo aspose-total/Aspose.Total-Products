@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ל‑XLSM ממיר מסמכי עיבוד תמלילים לקבצי גיליון אלקטרוני עם מקרו התומכים בזרימות עבודה מתקדמות של גיליונות אלקטרוניים. שינוי זה שימושי כאשר יש צורך להשתמש מחדש בתוכן מובנה מבוסס מסמך בגיליונות אלקטרוניים המאפשרים אוטומציה משופרת.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת DOCX‑ל‑XLSM בפלטפורמות דיווח, מערכות פיננסיות ולוחות מחוונים תפעוליים. זה מסייע לשלב נתונים שמקורם במסמכים בסביבות גיליון אלקטרוני המיועדות לתהליכים עסקיים חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת גיליון אלקטרוני עם מקרו**  
+  ממיר תוכן DOCX לקבצי גיליון אלקטרוני מתקדמים עבור זרימות עבודה עסקיות אוטומטיות.
+
+* **שימוש חוזר בנתונים מובנים**  
+  מאפשר להעביר טבלאות ותוכן מסודר של מסמכים למערכות גיליון אלקטרוני.
+
+* **תמיכה בדיווח תפעולי**  
+  עוזר להפוך מידע מבוסס מסמך לנכסי גיליון אלקטרוני שניתן להשתמש בהם מחדש.
+
+* **זרימות עבודה אנליטיות מתקדמות**  
+  תומך בסביבות גיליון אלקטרוני שמרוויחות מיכולת אוטומציה משופרת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא XLSM אוטומטי**  
+  מערכות יכולות להמיר קבצי DOCX לגיליונות אלקטרוניים עם מקרו באופן תכנותי.
+
+* **צינורות אוטומציה של גיליונות אלקטרוניים במצב אצווה**  
+  סקריפטים ב‑Python יכולים לעבד אוספי מסמכים לפלטים בפורמט XLSM.
+
+* **זרימות עבודה של דיווח ארגוני**  
+  נתונים שמקורם במסמכים יכולים להיות מומרצים לקבצי גיליון אלקטרוני מתקדמים לניתוח בר‑קנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

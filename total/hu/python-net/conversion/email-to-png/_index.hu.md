@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál EMAIL-t hozzáadni PNG-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az e-mail PNG-re konvertálása Pythonban átalakítja az üzenettartalmat magas minőségű raszteres képekké, amelyek jól alkalmasak előnézetekhez, átlátszóság támogatásához és vizuális archiváláshoz. Hasznos, ha az e-mail elrendezéseket tisztán meg kell őrizni egy széles körben támogatott képfájlformátumban.
+
+Ez a konverzió javítja az automatizálást azáltal, hogy lehetővé teszi az e-mail vizuálok skálázható előállítását webes felületek, nyilvántartási rendszerek és jelentéskészítési munkafolyamatok számára, anélkül, hogy szerkeszthető dokumentumformátumokra lenne szükség.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Magas minőségű üzenet előnézetek**
+  Az e-maileket PNG fájlokká konvertálja a portálokban és műszerfalakon való tiszta megjelenítéshez.
+
+* **Vizuális archiválási rekordok**
+  Az üzenet megjelenését képfájlokként őrzi meg gyors hivatkozás céljából.
+
+* **Munkafolyamat csatolmányok**
+  Használja a PNG kimeneteket támogatási rendszerekben, auditokban vagy felülvizsgálati folyamatokban.
+
+* **Webbarát megjelenítés**
+  E-mail vizuálokat generál böngésző-alapú alkalmazásokhoz és tartalmi rendszerekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Előnézet generálási szolgáltatások**
+  Automatikusan PNG rendereléseket hoz létre bejövő vagy tárolt e-mailekből.
+
+* **Működési dokumentációs csővezetékek**
+  Üzenetképeket csatol a jegyekhez, jelentésekhez és automatizált naplókhoz.
+
+* **Webes terjesztés automatizálása**
+  Az e-mail előnézeteket közzéteszi tartalomkezelő vagy felügyeleti rendszerekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

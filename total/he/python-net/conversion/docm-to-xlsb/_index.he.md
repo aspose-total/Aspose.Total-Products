@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑XLSB ממירה מסמכים עם מקרו לקבצי גיליון אלקטרוני בינאריים המיועדים לאחסון יעיל וטיפול בנתוני חוברת העבודה. זה שימושי כאשר יש להעביר תוכן שמקורו במסמך לפלטים קומפקטיים של גיליונות אלקטרוניים עבור זרימות עבודה רגישות לביצועים.
+
+בסביבות אוטומציה, המרת DOCM ל‑XLSB תומכת ביצירת גיליונות אלקטרוניים בקנה מידה גדול, אריזת נתונים יעילה, ותנועה חלקה של תוכן מסמך מובנה לצינורות חוברת העבודה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט גיליון אלקטרוני קומפקטי**
+  ממיר נתוני מסמך לקבצי חוברת עבודה בינאריים המותאמים ליעילות אחסון.
+
+* **טיפול בנתונים בעומס גבוה**
+  תומך בתרחישים שבהם פלטים מובנים גדולים נהנים מפורמטים קומפקטיים של גיליונות אלקטרוניים.
+
+* **שימוש חוזר בחוברת עבודה תפעולית**
+  מסייע להעביר טבלאות מסמך לסביבות גיליון אלקטרוני בעלות ביצועים גבוהים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת חוברות עבודה באצווה יעילה**
+  מייצר קבצי XLSB ממקורות DOCM לעיבוד בר‑קנה מידה.
+
+* **אופטימיזציה של צינור נתונים**
+  תומך בתהליכי עבודה שמעדיפים אחסון והעברה של גיליונות אלקטרוניים קומפקטיים.
+
+* **ייצוא מובנה אוטומטי**
+  ממיר תוכן מסמך חוזר לפלטי חוברות עבודה בינאריים באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

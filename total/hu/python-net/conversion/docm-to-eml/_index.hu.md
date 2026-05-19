@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOCM-t hozzáadni EML-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOCM‑ról EML‑re konverzió makróval ellátott dokumentumokat alakít át szabványos e‑mail üzenetfájlokká, megkönnyítve a dokumentumtartalom tárolását, küldését vagy feldolgozását e‑mail‑kompatibilis környezetekben. Különösen hasznos, ha egy dokumentumot önálló üzenet‑tárgyként kell megőrizni.
+
+Az automatizálás és integráció érdekében a DOCM‑ról EML‑re munkafolyamatok támogatják az ismételhető üzenetgenerálást, archiválást és irányítást a nyílt e‑mail fájlszerkezetekre támaszkodó kommunikációs rendszerek között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Üzenetfájl létrehozása**
+  Átalakítja a dokumentumtartalmat hordozható e‑mail üzenetfájlokká tárolás vagy terjesztés céljából.
+
+* **Kommunikáció archiválása**
+  Támogatja azokat a környezeteket, ahol a dokumentumból származó levelezést e‑mail formátumban kell megőrizni.
+
+* **Rendszerek közötti hordozhatóság**
+  Segít a dokumentumalapú kommunikációt kompatibilis levelezőplatformok között áthelyezni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált e‑mail csomagolás**
+  EML fájlokat generál DOCM dokumentumokból manuális üzenetösszeállítás nélkül.
+
+* **Munkafolyamat‑vezérelt archiválás**
+  A dokumentumból származó kommunikációt üzenetfájlokként tárolja nyilvántartási rendszerek számára.
+
+* **Tömeges export műveletek**
+  Több DOCM fájlt alakít át EML kimenetekké skálázható feldolgozási csővezetékekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

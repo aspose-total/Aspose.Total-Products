@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni OFT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑ról OFT‑re konvertálás a Python API‑kban átalakítja az OpenDocument szövegsablonokat e‑mail sablonfájlokká, amelyeket újra fel lehet használni szabványosított kommunikációhoz. Ez akkor értékes, amikor a dokumentumtartalomnak ismételhető alapot kell biztosítania az üzenetírás és a kommunikáció konzisztenciájához.
+
+A konvertálás különösen hasznos az automatizálásban, mivel támogatja az újrahasználható kommunikációs munkafolyamatokat, a dinamikus tartalombeillesztést, és a skálázható sablonos üzeneteszközök hatékony előállítását.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Újrahasználható e‑mail sablon létrehozása**  
+  Átalakítja a dokumentumtartalmat vázlatkész üzenetsablonokká.
+
+* **Szabványosított kommunikáció**  
+  Segít fenntartani a konzisztens nyelvezetet és formázást az üzenetek között.
+
+* **Tartalom újrahasználhatósága**  
+  Lehetővé teszi, hogy egy forrássablon több kommunikációs folyamatot is támogasson.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált vázlat sablon előállítás**  
+  OFT fájlokat hoz létre ismétlődő OTT tartalomforrásokból.
+
+* **Munkafolyamat‑vezérelt üzenet személyre szabás**  
+  Összekapcsolja a sablonokat a dinamikus mezőkkel a kimenő folyamatokban.
+
+* **Skálázható belső kommunikáció**  
+  Támogatja a konzisztens e‑mail előkészítést a részlegek vagy rendszerek között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

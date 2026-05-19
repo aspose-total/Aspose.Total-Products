@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑TSV ממירה תוכן מסמכים מובנה לקבצי טקסט מופרדים בטאבים שהם פשוטים, ניידים וקלים לשילוב בתהליכי נתונים. היא חשובה כאשר נדרשת הפרדת עמודות נקייה ללא עיצוב ספציפי של גיליון אלקטרוני.
+
+ממשקי ה‑API של Python הופכים את המרת WordML ל‑TSV ליעילה על‑ידי חילוץ מבני טבלאות והמרתם לפלטים קלים, ידידותיים לאוטומציה, לעיבוד והחלפת נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ייצוא נתונים מופרדים**
+  ממיר טבלאות WordML לקבצי TSV לייצוא נתונים נקי מבוסס טקסט.
+
+* **פלט ידידותי לצינור עבודה**
+  מייצר קבצים מובנים פשוטים המתאימים למשימות ניתוח ואימות.
+
+* **חילוץ טבלאות מסמך**
+  הופך תוכן טבלאי ממסמכים לקל יותר לעיבוד תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרת טבלאות במצב אצווה**
+  ממיר באופן אוטומטי טבלאות מסמך לקבצי TSV עבור תהליכים משניים.
+
+* **תמיכה בצינור עבודה של ETL**
+  מזין פלטי TSV לתהליכי קליטה, מיפוי והמרה.
+
+* **משימות סינכרון נתונים**
+  מאפשר ייצוא חוזר של נתוני מסמך מעודכנים לקבצים מובנים מבוססי טקסט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

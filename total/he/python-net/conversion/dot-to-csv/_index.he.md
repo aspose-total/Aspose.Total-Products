@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑CSV משנה תבניות עיבוד תמלילים מובנות לנתונים טבלאיים פשוטים שניתן להשתמש בהם לדיווח, חילופי נתונים וניתוח קל משקל. זה בעל ערך כאשר יש צורך לחלץ תוכן מבוסס מסמכים לפורמט פשוט ותומך באופן רחב עבור זרימות עבודה תפעוליות.
+
+באמצעות ממשקי API של Python, המרה זו תומכת בצינורות אוטומציה שמעבירים מידע מתבניות מסמכים ניתנות לשימוש חוזר למערכי נתונים מובנים, משפרת את מהירות העיבוד, העקביות וההתאמה למערכות במטה‑שרשרת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **חילוץ נתוני תבנית**
+  המרת קבצי DOT ל‑CSV כדי ללכוד טקסט מובנה ושדות לדיווח או לשימוש ארכיוני.
+
+* **תאימות מערכת**
+  ייצוא תוכן המסמך לפורמט שניתן לצרוך על ידי מסדי נתונים, סקריפטים, וכלי עסקים.
+
+* **עיבוד מסמכים במקבץ**
+  עיבוד אוספים גדולים של תבניות לפלט טבלאי לצורך טיפול ובדיקה יעילים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות מסמך‑ל‑נתונים**
+  אוטומציה ממירה מסמכי תבנית לקבצי CSV לצורך טעינה לניתוחים או זרימות עבודה של ETL.
+
+* **ייצוא תוכן מתוזמן**
+  משימות מבוססות Python יכולות להמיר באופן חוזר קבצי DOT ל‑CSV לדיווח תפעולי חוזר.
+
+* **הכנת נתונים בקנה מידה**
+  המרה תכנותית מסייעת לתקנון יצירת הפלט במאגרים גדולים של מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

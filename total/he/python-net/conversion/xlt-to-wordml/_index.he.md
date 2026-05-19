@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLT ל‑WordML בפייתון מאפשרת קבצי תבנית Excel להיות מומרצים למסמכי Word מבוססי XML שהם שימושיים לעיבוד מובנה, אינטרופרטיביות וטיפול במסמכים ברמת המערכת. זה בעל ערך במיוחד כאשר פלטי המסמכים חייבים להישאר קריאים למכונות וכן ניתנים להתאמה לתהליכי עבודה מבוססי טקסט.
+
+בהקשרים של אוטומציה, המרת XLT ל‑WordML תומכת בהמרת מסמכים ניתנת להרחבה ותכנותית. היא מסייעת למערכות לייצר תוכן מובנה תואם Word שניתן לאמת, לשנות או לשלב בצינורות עיבוד מודעים ל‑XML עם שליטה וגמישות משופרות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **פלט מסמך מובנה**  
+  המרת תבניות XLT לקבצי WordML עבור זרימות עבודה של מסמכים המרוויחות ממבנה XML.
+
+* **תמיכה באינטגרציית מערכת**  
+  השתמש בפלטי WordML בסביבות הדורשות ייצוגי מסמכים קריאים למכונה.
+
+* **סיריאליזציית תוכן תבנית**  
+  המרת פריסות מבוססות גיליון אל סימון מסמך מובנה לעיבוד מבוקר.
+
+* **תכנון זרימת עבודה מתאימה**  
+  אפשר תרחישי חילופי מסמכים שבהם עיצוב מבוסס XML משפר עקביות וטיפול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות המרה מודעים ל‑XML**  
+  השתמש ב‑APIs של פייתון כדי ליצור קבצי WordML מתבניות XLT עבור זרימות עבודה אוטומטיות מובנות.
+
+* **מניפולציה תכנותית של מסמכים**  
+  הזנת פלטי WordML למערכות הבודקות, משנות או מעשירות את תוכן המסמך באופן דינמי.
+
+* **פרסום מובנה ניתנת להרחבה**  
+  המרת תבניות גיליון למסמכי Word מבוססי XML עבור מערכות פרסום או אספקה אוטומטיות.
+
+* **זרימות עבודה של אימות תוכן**  
+  השתמש בפלטי WordML מובנים בצינורות הדורשים עיצוב עקבי ועיבוד ברמת מכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

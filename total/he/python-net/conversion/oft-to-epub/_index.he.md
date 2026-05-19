@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OFT ל‑EPUB באמצעות API‑ים של Python ממירה תבניות אימייל של Outlook לקבצי פרסום דיגיטלי נמתחים המתאימים לקריאה מובנית והפצה. זה בעל ערך כאשר יש צורך לשנות תוכן מבוסס אימייל למסמכים דיגיטליים ארוכים, ניידים וידידותיים לקורא.
+
+בסביבות אוטומטיות, המרת OFT ל‑EPUB תומכת בצינורות שינוי תוכן שמעבירים מידע מתבניות הודעות לתהליכי פרסום. היא משפרת שימוש חוזר בתוכן, נגישות והפצה דיגיטלית בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **המרת פרסום דיגיטלי**  
+  המרת תוכן OFT לקבצי EPUB להפצה אלקטרונית ניידת וידידותית לקורא.
+
+* **אספקת תוכן מובנה**  
+  השתמש בפלט EPUB כאשר יש צורך לצרוך מידע מתבנית אימייל כפרסום דיגיטלי.
+
+* **אריזת תוכן ידע**  
+  ארוז תוכן תקשורת שניתן לשימוש חוזר בפורמט המתאים למדריכים או למדריכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות פרסום אוטומטיים**  
+  המרת תבניות OFT לקבצי EPUB כחלק מצינורות ייצור תוכן דיגיטלי.
+
+* **הפצת תוכן חוצת ערוצים**  
+  המרת תבניות הודעות לנכסים מוכנים לפרסום עבור ערוצי הפצה רחבים יותר.
+
+* **המרת ארכיון תכנותית**  
+  המרת תבניות תקשורת לספרים דיגיטליים מובנים למאגרי חיפוש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

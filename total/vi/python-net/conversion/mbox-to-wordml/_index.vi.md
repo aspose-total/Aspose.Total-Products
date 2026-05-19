@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi MBOX sang WordML biến các kho lưu trữ hộp thư thành định dạng tài liệu Word dựa trên XML, cho phép biểu diễn có cấu trúc và xử lý có thể đọc được bởi máy cho nội dung xuất phát từ email. Điều này có giá trị khi quy trình làm việc yêu cầu tính minh bạch, tùy chỉnh hoặc tương tác lập trình với cấu trúc tài liệu.
+
+Các API Python làm cho việc chuyển đổi sang WordML trở nên thực tiễn ở quy mô lớn bằng cách hỗ trợ chuyển đổi tự động, xử lý ở mức XML và tích hợp với các hệ thống xử lý dữ liệu tài liệu có cấu trúc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Xuất tài liệu Word dựa trên XML**
+  Chuyển đổi email sang WordML để xử lý tài liệu có cấu trúc và có thể đọc được bởi máy.
+
+* **Xử lý tài liệu tùy chỉnh**
+  Cho phép thao tác cấp thấp nội dung xuất phát từ email bằng các quy trình làm việc dựa trên markup.
+
+* **Trao đổi dữ liệu tương thích**
+  Bảo tồn dữ liệu hộp thư trong định dạng phù hợp cho các hệ thống tài liệu có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Chuyển đổi XML tự động**
+  Tạo ra các đầu ra WordML từ các kho lưu trữ MBOX cho các pipeline xử lý có nhận thức tài liệu.
+
+* **Quy trình làm việc dữ liệu có cấu trúc**
+  Sử dụng Python để kiểm tra, sửa đổi hoặc xác thực các tài liệu hộp thư đã chuyển đổi một cách lập trình.
+
+* **Tích hợp hệ thống mở rộng**
+  Cung cấp các tài liệu XML xuất phát từ email vào các hệ thống nội dung và chuyển đổi doanh nghiệp.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

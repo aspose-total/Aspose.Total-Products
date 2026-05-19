@@ -105,7 +105,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTM ל‑DOTM באמצעות ממשקי Python ממירה מצגות עם מקרו לתבניות מסמכים עם מקרו עבור זרימות עבודה הדורשות הן מבנה שניתן לשימוש חוזר והן לוגיקת אוטומציה משובצת. היא רלוונטית בסביבות שבהן על התוכן המומר לתמוך בהתנהגות מתקדמת של המסמך לאחר ההמרה.
+
+המרה זו משפרת את הקנה מידה על‑ידי קישור תוכן שמקורו במצגות למערכות תבניות דינמיות שניתן להשתמש בהן תכנותית. היא מתאימה היטב למסגרות אוטומציה של מסמכים שבהן תקינה ואוטומציה פועלות יחד.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**
+  מייצרת תבניות שניתן להשתמש בהן מחדש ותומכות בפעולות לוגיקה של מסמכים אוטומטיים.
+
+* **תקינה של תוכן מובנה**
+  מסייעת להמיר חומר מצגת לפורמטים של מסמכים מבוקרים וניתנים לחזרה.
+
+* **יסודות מסמך מוכנים לאוטומציה**
+  תומכת ביצירת מסמכים במורד הצינור על בסיס נכסי תבנית שהומרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **זרימות עבודה של אוטומציית תבניות**
+  מייצרת קבצי DOTM מתוכן PPTM עבור ייצור מסמכים אוטומטי.
+
+* **הרכבת מסמכים מבוססת כללים**
+  תומכת בזרימות עבודה שבהן תבניות מומרות מניעות יצירת פלט חוזר.
+
+* **הפצת תוכן בקנה מידה**
+  מאפשרת שימוש חוזר דינמי בתבניות שמקורן במצגות במספר מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

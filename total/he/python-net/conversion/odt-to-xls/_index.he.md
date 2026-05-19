@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑XLS ממירה תוכן של OpenDocument Text לפורמט גיליון אלקטרוני מסורתי המשמש לעריכה טבלאית, סקירה ודיווח. היא בעלת ערך מיוחד כאשר יש להעביר תוכן מסמך מובנה לתהליכי עבודה של גיליונות אלקטרוניים מוכרים נרחבות.
+
+ממשקי API של Python הופכים את המרת ODT ל‑XLS ליעילה בתרחישי אוטומציה הכוללים תאימות למערכות מדור קודם, הכנת דוחות ועיבוד מסמכים במצב אצווה. זה משפר את היעילות על‑ידי הפיכת תוכן המסמך לגיליונות ניתנים לעריכה ולניתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **המרת גיליון אלקטרוני מדור קודם**  
+  מעביר טבלאות מסמך לפורמט גיליון אלקטרוני מסורתי.
+
+* **סקירת נתוני עסק**  
+  הופך מידע שהוצא לקל יותר למיון, סינון ובדיקה.
+
+* **תמיכה בתהליך עבודה של דיווח**  
+  עוזר להכין נתונים מהמסמכים לניתוח והצגה.
+
+* **תאימות מערכת**  
+  תומך בסביבות שבהן פורמטים של גיליונות אלקטרוניים ישנים עדיין נדרשים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצוא טבלאות מסמך אוטומטי**  
+  משימות פייתון יכולות להמיר תוכן ODT לקבצי XLS לשימוש במ downstream.
+
+* **עיבוד פורמט מדור קודם במצב אצווה**  
+  אוספים גדולים של מסמכים יכולים להיות מומרצים לגיליונות אלקטרוניים באופן אוטומטי.
+
+* **צינורות מבנה נתונים**  
+  ערכים שהוצאו יכולים להיות מנורמלים לפני כתיבתם לפלטי XLS.
+
+* **אינטגרציית דיווח תפעולית**  
+  גיליונות אלקטרוניים מומרצים יכולים להזין תהליכי סקירה ותכנון מדור קודם.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

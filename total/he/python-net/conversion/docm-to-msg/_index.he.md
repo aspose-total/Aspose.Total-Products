@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑MSG ממירה מסמכים עם מקרו לקבצי הודעות דוא"ל נפרדים המתאימים לאחסון והחלפת הודעות בתהליכי עבודה. היא שימושית כאשר יש צורך לשמר את תוכן המסמך כאובייקט דוא"ל מובנה לצורך תקשורת, סקירה או שמירה.
+
+לצורך אוטומציה, זרימות עבודה של DOCM ל‑MSG מפשטות את יצירת ההודעות, האחסון וההעברה במערכות המתבססות על פריטי דוא"ל נפרדים לטיפול בתהליכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **אריזת הודעה יחידה**
+  יוצרת קבצי הודעה עצמאיים מתוכן המסמך עבור זרימות עבודה מאורגנות של תקשורת.
+
+* **ארכיון וביקורת**
+  שומרת על ההתכתבות המופקת מהמסמך בפורמט הודעה מובנה.
+
+* **תאימות למערכת דואר**
+  תומכת בסביבות המעבדות או מאחסנות תקשורת כאובייקטים נפרדים של הודעות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קובץ הודעה אוטומטית**
+  מייצרת קבצי MSG ישירות ממסמכי DOCM כחלק מזרימות עבודה חוזרות.
+
+* **שמירה מבוססת זרימת עבודה**
+  מנתבת קבצי הודעה מומרות למערכות ציות, ביקורת או ארכיון.
+
+* **עיבוד אצווה בר‑קנה מידה**
+  ממירה קבוצות גדולות של קבצי DOCM לאובייקטי הודעה באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

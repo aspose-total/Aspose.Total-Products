@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑DOT ממירה תוכן גיליון אלקטרוני לפורמט תבנית מסמך שיכול לשמש כבסיס ניתן לשימוש חוזר ליצירת מסמכים עתידית. זה שימושי כאשר מידע שמקורו בגיליון אלקטרוני צריך להיות משולב בתבניות סטנדרטיות לשימוש עסקי או תפעולי חוזר.
+
+באמצעות ממשקי API של Python, המרת SXC ל‑DOT תומכת באוטומציה מונעת תבניות על‑ידי אפשרות למבנה מסמך עקבי, יצירת פלט מהירה יותר ושליטה משופרת בעיצוב בתהליכי עבודה בעלי נפח גבוה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת תבנית**  
+  ממירה תוכן גיליון אלקטרוני לתבניות מסמך ניתנות לשימוש חוזר לצרכי תקשורת חוזרים.
+
+* **עיצוב סטנדרטי**  
+  מסייעת לשמור על מבנה והצגה עקביים בכל המסמכים שנוצרים.
+
+* **תיעוד תהליכים**  
+  תומכת ביצירת תבניות חוזרות לטפסים, סיכומים ורשומות תפעוליות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **מערכות דיווח מבוססות תבנית**  
+  מאפשרת את ייצור תבניות DOT שיכולות לאחר מכן לייצר מסמכים אחידים רבים.
+
+* **מבנה תוכן בכמות גדולה**  
+  משתמשת בממשקי API של Python כדי להכין מספר תבניות שמקורן בגיליון אלקטרוני לתהליכי עבודה מסמכים ניתנים להרחבה.
+
+* **צינורות פלט עקביים**  
+  מבטיחה שהייצור של מסמכים במ downstream יתחיל ממבנה מבוקר וניתן לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

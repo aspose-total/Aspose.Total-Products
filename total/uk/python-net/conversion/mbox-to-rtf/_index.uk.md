@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MBOX to RTF conversion converts mailbox archives into rich text documents, preserving formatted email content in an editable and widely readable format. This is useful when organizations need a balance between styling retention, portability, and document flexibility.
+
+With Python APIs, MBOX to RTF conversion can be automated to simplify content reuse, support reporting workflows, and create accessible document outputs from archived email data.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Збереження форматованих листів**
+  Convert messages into RTF files while maintaining readable rich-text structure.
+
+* **Експорт редагованих документів**
+  Make mailbox content easier to revise, annotate, or reuse in document workflows.
+
+* **Портативний обмін текстом**
+  Use a broadly supported format for exchanging converted email content.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизований вивід Rich Text**
+  Transform MBOX files into RTF documents in batch-driven pipelines.
+
+* **Робочі процеси повторного використання вмісту**
+  Feed converted rich text files into reporting, editorial, or review processes.
+
+* **Програмні конвеєри форматування**
+  Use Python to scale structured email-to-document conversion efficiently.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

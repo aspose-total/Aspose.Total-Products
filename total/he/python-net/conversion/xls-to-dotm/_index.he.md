@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑DOTM ממירה מידע גיליון אלקטרוני לתבניות Word עם מקרו המאפשרות זרימות עבודה של יצירת מסמכים מתקדמות וחוזרות. פורמט זה רלוונטי כאשר ארגונים זקוקים לקבצי תבנית שניתן להשתמש בהם מחדש ושמתאימים גם לסביבות עם תמיכה במקרו.
+
+שימוש ב‑APIs של Python להמרת XLS ל‑DOTM משפר יעילות על ידי אוטומציה של ייצור תבניות ומאפשר עיצוב מסמכים מונע‑גיליון אלקטרוני במערכות ניתנות להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**
+  הפקת תבניות DOTM מנתוני גיליון אלקטרוני עבור זרימות עבודה מתקדמות של מסמכים.
+
+* **מבנים חוזרים של מסמכים**
+  השתמש בתוכן XLS כדי להגדיר תבניות לתיעוד עסקי עקבי.
+
+* **עיצוב מסמכים מבוסס תהליך**
+  תמיכה ביצירת תבניות מבוקרת למחלקות שתלויות בקבצי פלט מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **בניית תבניות תכנותית**
+  הפקת תבניות DOTM באופן אוטומטי מקלטי גיליון אלקטרוני באמצעות APIs של Python.
+
+* **צינורות תבניות ארגוניים**
+  המרת קבצי XLS לנכסי תבנית שניתן להשתמש בהם מחדש עבור פעולות מסמכים מתוקננות.
+
+* **שילוב זרימת עבודה**
+  הטמעת המרת DOTM בתהליכי הרכבה ופרסום אוטומטיים של מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

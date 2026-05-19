@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל‑PPSM משנה מסמכי טקסט עשיר לקבצי מצגת עם מקרו המשלבים הפעלת מצגת עם יכולות אוטומציה מורחבות. זה שימושי כאשר מצגות מוכנות להצגה דורשות התנהגות מתקדמת או רכיבים אוטומטיים שניתן להשתמש בהם מחדש.
+
+לצורך אוטומציה, RTF ל‑PPSM תומך בתהליכי עבודה מיוחדים של מצגות שבהם תוכן המסמך צריך להפוך לנכס מצגת שיכול להשתתף בתהליכים דינמיים, מבוקרים או אינטראקטיביים יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגות מתקדמת**  
+  ממיר תוכן כתוב למצגות מוכנות להצגה עם תמיכה בפונקציונליות מורחבת.
+
+* **הצגת מצגות אינטראקטיבית**  
+  מסייע בהכנת קבצי מצגת לתרחישים דינמיים יותר או מצגות מודרכות.
+
+* **מצגות אוטומטיות חוזרות**  
+  תומך ביצירה עקבית של פלטי מצגות עם יכולות משופרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות מצגת עם מקרו**  
+  מערכות יכולות לייצר קבצי PPSM ממסמכי RTF לתהליכי עבודה מתקדמים של מצגות.
+
+* **הצגת מצגות מודרכת אוטומטית**  
+  המרה תכנותית תומכת בסביבות שזקוקות לפלטי מצגות עם התנהגות עשירה יותר.
+
+* **תהליכי תצוגה אינטראקטיביים ניתנים להרחבה**  
+  תהליכי עבודה דינמיים יכולים להפוך מסמכי מקור לנכסי מצגת מיוחדים לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

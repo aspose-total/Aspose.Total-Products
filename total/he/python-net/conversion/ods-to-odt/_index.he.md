@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑ODT ממירה קבצי גיליון אלקטרוני למסמכי טקסט של OpenDocument. זה מאפשר לנתוני גיליון מובנים להיות מיוצגים בפורמט מסמך תוך שמירה על תאימות לתקני המסמכים הפתוחים.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת ODS ל‑ODT כחלק מתהליכי עיבוד נתונים. זה מאפשר יצירת מסמכים בקנה מידה, דיווח מובנה, ושילוב עם מערכות האקוסיסטם של מסמכי פתוחים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח מסמכי Open Document**  
+  המרת מערכי נתוני גיליון למסמכי דוח בתקן פתוח.
+
+* **המרת תוכן**  
+  ייצוג נתוני גיליון טבלאיים בתוך מבני מסמך.
+
+* **תיעוד נתונים**  
+  יצירת תיעוד קריא ממידע גיליון אלקטרוני.
+
+* **ארכוב בפורמט פתוח**  
+  אחסון תוכן הגיליון בפורמטים טקסטיים של מסמכי פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות מסמכי פתוח אוטומטיים**  
+  סקריפטים ב‑Python ממירים קבצי גיליון למסמכי ODT באופן אוטומטי.
+
+* **יצירת מסמכים במצב אצווה**  
+  מערכות מעבדות מספר גיליונות למסמכי דוח בתקן פתוח.
+
+* **מערכות תיעוד דינמיות**  
+  זרימות עבודה תכנותיות מייצרות תיעוד מנתוני גיליון.
+
+* **שילוב עם מערכות מסמכי פתוח**  
+  צינורות אוטומטיים שומרים על תאימות לתקני מסמכי פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

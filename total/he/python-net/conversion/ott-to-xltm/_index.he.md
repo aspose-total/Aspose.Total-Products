@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑XLTM ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לתבניות גיליון אלקטרוני עם מקרו למקרים מתקדמים של חוברות עבודה שניתן להשתמש בהם מחדש. זה מועיל כאשר מופעי גיליון אלקטרוני עתידיים חייבים לשלב מבנה סטנדרטי עם יכולות אוטומציה מובנות.
+
+ההמרה תומכת באוטומציה על ידי יצירת נכסי תבנית שיכולים להרחיב את יצירת החוברות תוך שמירה על הלוגיקה, העקביות והיעילות במשימות תפעוליות חוזרות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **הפקת תבנית עם מקרו**  
+  יוצרת תבניות חוברות עבודה שניתן להשתמש בהן מחדש עם תמיכה בהתנהגות מתקדמת.
+
+* **חוברות עבודה תפעוליות חוזרות**  
+  מאחדת גיליונות אלקטרוניים המתבססים על לוגיקת אוטומציה משובצת.
+
+* **שימוש חוזר בתבניות מובנות**  
+  ממירה תבניות טקסט לתוכניות גיליון אלקטרוני ניתנות להרחבה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצור תבנית אוטומטית**  
+  מייצרת קבצי XLTM ממקורות OTT לתהליכים חוזרים.
+
+* **עיצוב זרימת עבודה מתקדמת בגיליון אלקטרוני**  
+  תומכת במבני חוברות עבודה שניתן להשתמש בהם מחדש עם פונקציונליות עשירה יותר.
+
+* **אחידות תהליכים ארגוניים**  
+  מסייעת להפיץ תבניות חוברות עבודה אוטומטיות עקביות באופן רחב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

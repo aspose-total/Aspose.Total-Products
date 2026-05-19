@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑DOCX משנה את תוכן הגיליון האלקטרוני לפורמט מסמך מודרני המשמש נרחבות לקבצים ניתנים לעריכה, ניידים ומבוססי טקסט מובנה. היא חשובה כאשר יש צורך להשתמש במידע מהגיליון האלקטרוני כ‑דוחות, סיכומים, הצעות או תיעוד עם קריאות ותאימות משופרות.
+
+באמצעות ממשקי API של Python, המרת SXC ל‑DOCX תומכת באוטומציה של מסמכים בקנה מידה גדול על‑ידי הפיכת נתונים טבלאיים לתוצרים סטנדרטיים המתאימים לתהליכי עבודה דיגיטליים, מערכות תוכן ותהליכי סקירה שיתופיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת דוח עסקי**  
+  ממירה מידע מונע‑גיליון אל מסמכים מלוטשים לתקשורת פנימית וחיצונית.
+
+* **תיעוד ניתן לעריכה**  
+  הופכת את נתוני המקור לקלים יותר לעריכה, להוספת הערות ולשימוש חוזר בסביבות ממוקדות מסמך.
+
+* **אחידות פורמט**  
+  עוזרת לארגונים לאחד פורמטים של פלט בין צוותים ומערכות באמצעות תקן מסמך מודרני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה של דוחות מתוזמנים**  
+  מייצרת קבצי DOCX ממקורות SXC באופן אוטומטי כחלק ממשימות דיווח חוזרות.
+
+* **שילוב בתהליך זרימת מסמכים**  
+  מזינה קבצים מומרצים למערכות אישור, שיתוף פעולה או פרסום ללא צורך בעיצוב ידני מחדש.
+
+* **יצירת תוכן דינמי**  
+  מאפשרת לשירותים מבוססי Python ליצור מסמכים מותאמים אישית או מונעי‑נתונים בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

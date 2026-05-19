@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOC-t hozzáadni ICS-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A dokumentum‑ICS átalakítás a dokumentumból származó eseményadatokat naptárfájlokká alakítja, amelyeket be lehet importálni ütemező rendszerekbe és digitális tervezőkbe. Hasznos olyan munkafolyamatokban, ahol a megbeszélés, határidő vagy időpont információk Word‑dokumentumokból származnak.
+
+A Python API‑k használata a DOC‑ICS átalakítás automatizálásához javítja az ütemezés hatékonyságát, csökkenti a kézi adatbevitel hibáit, és támogatja a dokumentumtárak és a naptár‑vezérelt munkafolyamatok közötti zökkenőmentes integrációt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Esemény ütemezése**
+  Kinyeri a dátumokat és az esemény részleteit a dokumentumokból, és naptárbejegyzésekké alakítja.
+
+* **Találkozó terjesztése**
+  Az agenda vagy meghívó dokumentumokat importálható ICS fájlokká alakítja a résztvevők számára.
+
+* **Határidőkezelés**
+  A menetrendhez kapcsolódó dokumentumtartalmat naptárelemekké alakítja a nyomon követés és emlékeztetők céljából.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Naptárfájl generálása**
+  Automatikusan létrehozza az ICS fájlokat DOC‑alapú ütemezésekből, értesítésekből vagy tervekből.
+
+* **Munkafolyamat‑emlékeztető automatizálás**
+  A dokumentum határidőket naptáreseményekké alakítja a csapatkoordináció és az utókövetés érdekében.
+
+* **Rendszer‑naptár integráció**
+  Programozottan irányítja a kinyert dokumentumdátumokat az ütemező ökoszisztémákba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל-ICS ממירה תבניות מסמכים לנתונים תואמי לוח שנה שניתן להשתמש בהם לתזמון והחלפת אירועים. זה חשוב כאשר תוכן התבנית מכיל מידע מונע תאריך שיש לשתף דרך תהליכי עבודה של לוח שנה.
+
+עם ממשקי API של Python, ניתן לאוטומט את המרת DOT ל-ICS כדי לתמוך ביצירת אירועים, הפצת פגישות, ושילוב עם מערכות תזמון בצורה אמינה וניתנת לחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת אירוע מתבניות**
+  המרת מידע לוח זמנים מבוסס DOT לקבצי ICS לשימוש בלוח שנה.
+
+* **הפצת פגישות וקווי זמן**
+  שיתוף תאריכים ואירועים שמקורם במסמך בפורמט תזמון סטנדרטי.
+
+* **שילוב תזמון בתהליכי עבודה**
+  המרת תוכן תבנית מובנה לאובייקטים של לוח שנה לתכנון תפעולי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת לוח שנה אוטומטית**
+  סקריפטים ב-Python יכולים להמיר תבניות DOT ממוקדות תאריך לקבצי ICS להפצה.
+
+* **תמיכה בצינור תזמון**
+  המרה מאפשרת למערכות לדחוף אירועים מוגדרים במסמך לתהליכי עבודה של לוח שנה.
+
+* **פרסום אירועים במרוכז**
+  עיבוד תכנותי מאפשר יצירת קבצי ICS בכמות גבוהה ממספר תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑PPSM ממירה נתוני גיליון אלקטרוני לקבצי מצגת עם מקרו, ומשלבת פלט מוכן להצגה עם אוטומציה משולבת של המצגת. זה שימושי עבור זרימות עבודה שבהן תוכן המצגת דורש גם הפעלה מיידית וגם התנהגות מתקדמת.
+
+אוטומציה של המרת XLSX ל‑PPSM תומכת במערכות מצגת ניתנות להרחבה על ידי אפשרות ליצירת מצגות דינמיות מנתוני גיליון אלקטרוני תוך שמירה על פונקציונליות עם מקרו לפי הצורך.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **מצגות עם מקרו**  
+  ממירה תוכן גיליון אלקטרוני לקבצי מצגת שיכולים לשמור על התנהגויות מצגת אוטומטיות.
+
+* **הפצת מצגות אינטראקטיביות**  
+  עוזרת ליצור פלטי מצגת התומכים בדרישות מצגת פנימיות מתקדמות.
+
+* **חבילות תדריך אוטומטיות**  
+  תומכת ביצירת קבצי מצגת עבור זרימות עבודה המתבססות על לוגיקה משולבת או התנהגות מתוכנתת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת מצגת עם מקרו באופן אוטומטי**  
+  מערכות יכולות להמיר קלטי גיליון אלקטרוני לקבצי PPSM עבור זרימות מצגת מתמחות.
+
+* **הרכבה דינמית של מצגות**  
+  המרה תומכת ביצירת פלטי מצגת מוכנים להפעלה באופן אוטומטי מנתונים משתנים.
+
+* **אוטומציה פנימית של מצגות ניתנת להרחבה**  
+  זרימות עבודה תכנותיות יכולות לייצר קבצי מצגת עם מקרו לצרכים תפעוליים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

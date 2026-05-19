@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑DOTM ממירה מידע גיליון אלקטרוני לפורמט תבנית מסמך עם מקרו, שנועד ליצירת מסמכים שניתנים לשימוש חוזר וידידותיים לאוטומציה. זה רלוונטי במיוחד כאשר ארגונים זקוקים לתבניות חוזרות עם לוגיקה משובצת או התנהגות מתקדמת.
+
+באמצעות ממשקי API של Python, המרת SXC ל‑DOTM מחזקת קווי אוטומציה על‑ידי שילוב קלט גיליון אלקטרוני מובנה עם ארכיטקטורת תבניות שניתנות לשימוש חוזר לייצור מסמכים בר‑קנה מידה ובשליטה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות עם מקרו**  
+  יוצר תבניות שניתנות לשימוש חוזר התומכות בפעולות אוטומטיות לאחר המרת תוכן הגיליון.
+
+* **זרימות עבודה מתקדמות למסמכים**  
+  מסייע בבניית מערכות תבניות למסמכים הדורשים גם מבנה וגם פונקציונליות מתוכנתת.
+
+* **עיצוב פלט חוזר**  
+  תומך ביצירת מסמכים חוזרים עם פריסה עקבית והתנהגות מוכנה לתהליך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פריסת תבניות אוטומטית**  
+  מייצר תבניות DOTM דרך זרימות עבודה ב‑Python לשימוש תפעולי חוזר.
+
+* **יצירת מסמכים מתוכנתת**  
+  מאפשר למערכות משנית ליצור מסמכים מתבניות הכוללות לוגיקת אוטומציה משובצת.
+
+* **תקינה של תהליכים ארגוניים**  
+  משפרת עקביות ביצירת מסמכים בכמויות גבוהות שבהן הן המבנה והן האוטומציה חשובים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

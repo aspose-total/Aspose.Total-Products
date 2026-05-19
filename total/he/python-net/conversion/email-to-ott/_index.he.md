@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת דוא"ל ל-OTT בפייתון ממירה הודעות לתבניות מסמכי פתוח שניתן להשתמש בהן מחדש ליצירת תוכן מתוקנן. זה מועיל כאשר מבני דוא"ל חוזרים צריכים להפוך לנכסי תבניות בתוך סביבות מסמכי פתוח.
+
+זה משפר את האוטומציה על ידי הפיכת תבניות תקשורת לקבצי תבנית שניתן להשתמש בהם מחדש, מה שמייעל את יצירת המסמכים ומפחית עבודה חוזרת של עיצוב.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית פתוחה**
+  המרת דוא"ל לקבצי OTT ליצירת מסמכים מבוססי תבנית שניתן לחזור עליהם.
+
+* **תקינה חוזרת של פריסות**
+  לכידת מבני דוא"ל עקביים כתבניות מסמכי פתוח.
+
+* **הכנת טופס זרימת עבודה**
+  יצירת תבניות התחלה מתוכן ההודעה לתהליכים עסקיים חוזרים.
+
+* **תמיכה בתבניות חוצות פלטפורמות**
+  שימוש בתבניות פתוחות במערכות מסמכים שיתופיות ללא תלות בקנייניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **אוטומציה של ספריית תבניות**
+  בניית תבניות OTT מדוא"ל מובנים לשימוש מחלקתי.
+
+* **יצירת פלט מתוקנן**
+  החלת תבניות שמקורן בדוא"ל לאוטומציה של יצירת מסמכי פתוח חוזרים.
+
+* **ייעול תהליכים**
+  הפחתת עיצוב ידני על ידי הטמעת לוגיקת תבנית בתהליכי מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

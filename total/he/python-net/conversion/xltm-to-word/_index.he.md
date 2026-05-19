@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTM ל‑Word בפייתון מאפשרת לתבניות Excel עם מקרו להיות מומרות למסמכי Word תואמים לעריכה, סקירה ושיתוף תוכן מקצועי. זה בעל ערך כאשר קבצי מקור של גיליונות מובנים צריכים להפוך למסמכים קריאים המתאימים לתהליכי עבודה ממוקדי טקסט.
+
+במקרי שימוש של אוטומציה, המרת XLTM ל‑Word משפרת את גמישות התהליך, תומכת ביצירת מסמכים בקנה מידה, ויוצרת מעבר חלק יותר בין סביבת הגיליון האלקטרוני לסביבת עיבוד תמלילים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמך תואם Word**  
+  ממיר את תוכן תבנית הגיליון למסמכים המתאימים לתהליכי עריכה וסקירה נפוצים.
+
+* **שימוש חוזר במידע מובנה**  
+  מסייע במיחזור נתוני חוברת העבודה לפורמטים של נרטיב ותיעוד.
+
+* **פלט ידידותי לתהליך עבודה**  
+  תומך ביצירת מסמכים שניתנים לשיתוף מתבניות גיליון חוזרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום מסמכים אוטומטי**  
+  ממיר קבצי XLTM לפלטים תואמי Word כחלק מתהליכי עבודה חוזרים של תוכן.
+
+* **אינטגרציה מגיליון אל מסמך**  
+  מחבר קלטי תבניות מובנות עם פלטי מסמכים ניתנים לעריכה ביישומי פייתון.
+
+* **המרת קבצים בקנה מידה גדול**  
+  מאפשר המרה במרוכז לצוותים המנהלים מספר רב של תבניות חוברות עבודה ברחבי הפעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

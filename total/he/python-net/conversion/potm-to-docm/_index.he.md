@@ -105,7 +105,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTM ל‑DOCM ב‑Python מסייעת להמיר קבצי מצגות עם מקרו לקבצי עיבוד תמלילים עם מקרו תוך שמירה על הצורך בהתנהגות מתקדמת של המסמך. זה מועיל כאשר זרימות עבודה אינטראקטיביות או עם סקריפטים חייבות להמשיך בסביבת מסמך במקום בפורמט מצגת.
+
+למערכות המתמקדות באוטומציה, המרת POTM ל‑DOCM תומכת ברציפות תהליכים על‑ידי מתן אפשרות לצינורות מבוססי Python לייצר מסמכים ניתנים לעריכה עם תמיכה במקרו בקנה מידה לשימושים תפעוליים וארגוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **העברת תוכן עם מקרו**
+  מעביר תוכן מצגת למבנה מסמך הנתמך במקרו.
+
+* **הכנת מסמך אינטראקטיבי**
+  תומך בתהליכי עבודה שבהם הפלט המומר עשוי לדרוש לוגיקה אוטומטית או סקריפטים משובצים.
+
+* **התאמת תבנית ארגונית**
+  עוזר לשימוש חוזר בחומר מצגת לתהליכים תפעוליים מבוססי מסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא אוטומטי מוכן למקרו**
+  מייצר קבצי DOCM ממקורות POTM עבור תהליכי עבודה של מסמכים עם סקריפטים.
+
+* **הרכבה של מסמכים מבוססת צינור**
+  משלב קבצים מומרצים במערכות יצירת מסמכים מנוהלות על ידי Python.
+
+* **עיבוד ציות חוזר**
+  מייצר תיעוד עם מקרו לתהליכים פנימיים חוזרים וסביבות מבוקרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑DOC מאפשרת להמיר נתוני גיליון אלקטרוני למסמכי Word מובנים לתיעוד, דיווח ושיתוף תוכן. היא שימושית כאשר נתוני עסקים בטבלאות צריכים להיות מוצגים בצורה נרטיבית או בפורמט ידידותי להדפסה לשימוש ארגוני רחב.
+
+בזרימות עבודה מודרניות, אוטומציה של המרת XLSX ל‑DOC מסייעת להפחית מאמץ עיצוב ידני, משפרת עקביות במסמכים שנוצרו, ותומכת בייצור מסמכים בקנה מידה רחב בצינורות דיווח וציות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת דוחות עסקיים**  
+  ממירה נתונים מבוססי גיליון אלקטרוני לפריסות מסמך קריאות לסיכומים, סקירות ודיווח פורמלי.
+
+* **שיתוף נתונים למשתמשים שאינם משתמשים בגיליונות**  
+  הופכת את מידע הגיליון לאלקטרוני לקל יותר לצריכה עבור קוראים שמעדיפים פורמטים מבוססי מסמך.
+
+* **תיעוד מוכן להדפסה**  
+  תומכת ביצירת מסמכים שקל יותר לארכיב, להדפיס ולהפיץ בסביבות תפעוליות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום דוחות מתוזמן**  
+  אוטומציה יכולה להמיר פלטי גיליון חוזרים לקבצי DOC להפצה קבועה לבעלי עניין.
+
+* **יצירת מסמכים מונעת זרימת עבודה**  
+  המרת XLSX ל‑DOC יכולה להיות מופעלת אוטומטית לאחר עדכוני נתונים בצינורות עיבוד.
+
+* **יצירת פלט מבוסס תבנית**  
+  המרה תכנותית מסייעת לתקנן את מבנה המסמך על פני נפחים גדולים של תוכן מונע גיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

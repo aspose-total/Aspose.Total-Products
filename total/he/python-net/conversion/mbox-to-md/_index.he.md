@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑MD ממירה ארכיוני תיבות דואר לקבצי Markdown, מה שמקל על קריאת תוכן האימייל, גרסאותיו ושימוש חוזר בו במערכות תיעוד טקסטואליות קלות משקל. פורמט זה אידיאלי לניידות תוכן, זרימות עבודה של מפתחים וסביבות ניהול ידע.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת MBOX ל‑Markdown כדי לתמוך בחילוץ תוכן בר‑קנה מידה, פרסום סטטי, ושילוב יעיל עם צינורות תיעוד מודרניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תיעוד טקסט קל משקל**
+  המרת אימיילים ל‑Markdown לתיעוד נקי, קריא ונייד.
+
+* **שילוב במאגר ידע**
+  שימוש חוזר בתוכן תיבת הדואר בוויקי, במאגר או בזרימות עבודה של תכנים סטטיים.
+
+* **ארכוב ידידותי לגרסאות**
+  אחסון תוכן האימייל המומר בפורמט המתאים למעקב ולעדכונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תוכן סטטי**
+  המרה אוטומטית של נתוני תיבת הדואר ל‑Markdown לפרסום או אינדוקס.
+
+* **זרימות עבודה מבוססות מאגר**
+  שימוש ב‑Python להעברת ארכיוני אימייל למערכות ניהול תוכן שמעדיפות טקסט.
+
+* **צינורות תיעוד ברי‑קנה מידה**
+  המרה קבוצתית של קבצי MBOX לנכסי Markdown מובנים לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

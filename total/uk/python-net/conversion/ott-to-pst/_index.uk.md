@@ -102,7 +102,45 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PST conversion in Python APIs converts OpenDocument text templates into personal storage mailbox structures for email-oriented archiving and transport workflows. This is useful when document-generated communications must be preserved in a mailbox-centric format.
+
+Конвертація OTT у PST у Python API перетворює шаблони тексту OpenDocument у структури особистих сховищ поштових скриньок для архівування та транспортних робочих процесів, орієнтованих на електронну пошту. Це корисно, коли комунікації, створені документом, мають бути збережені у форматі, орієнтованому на поштову скриньку.
+
+The conversion supports automation by helping organizations move template-based message content into storage workflows that support archival, migration, and large-scale communication management.
+
+Конвертація підтримує автоматизацію, допомагаючи організаціям переміщати вміст повідомлень, створений на основі шаблонів, у робочі процеси зберігання, які підтримують архівування, міграцію та управління комунікаціями у великому масштабі.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Створення архіву поштової скриньки**  
+  Упаковує згенерований вміст комунікацій у формат пошти, орієнтований на зберігання.
+
+* **Підтримка збереження та передачі**  
+  Допомагає ефективно зберігати та переміщати вміст, заснований на повідомленнях.
+
+* **Зберігання комунікацій на основі шаблонів**  
+  Повторно використовує шаблони документів для виводу, сумісного з поштовою скринькою.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизоване створення архіву**  
+  Перетворює вміст повідомлень на основі OTT у PST у великих обсягах.
+
+* **Робочі процеси, орієнтовані на відповідність**  
+  Підтримує збереження записів та процеси структурованого зберігання пошти.
+
+* **Конвеєри міграції комунікацій**  
+  Передає згенерований вміст у корпоративні робочі процеси передачі пошти.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

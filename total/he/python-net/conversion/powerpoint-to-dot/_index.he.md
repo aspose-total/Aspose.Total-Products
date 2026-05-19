@@ -105,7 +105,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PowerPoint ל‑DOT ב‑Python מאפשר לייצא את תוכן המצגת לפורמט תבנית Word המשמש ליצירת מסמכים מתוקננים. זה שימושי כאשר יש לשלב מידע משקופיות במבני מסמכים ניתנים לשימוש חוזר לשמירה על עיצוב עקבי ושימוש חוזר.
+
+לסביבות המתמקדות באוטומציה, המרת PowerPoint ל‑DOT מסייעת לבסס זרימות עבודה תיעודיות חוזרות ותומכת בפרסום מבוסס תבניות. היא מאפשרת לארגונים להרחיב את יצירת המסמכים תוך שמירה על עקביות במבנה ובעיצוב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית מהמצגות**
+  ממירה את תוכן השקופיות לבסיס שניתן להשתמש בו מחדש ליצירת מסמכים עקבית.
+
+* **תיעוד מתוקנן**
+  עוזר לארגונים ליישם את אותה מבנה מסמך על פני פלטים מרובים שהומרו.
+
+* **מסגרות תוכן ניתנות לשימוש חוזר**
+  תומך בהפיכת מצגות לתבניות לדוחות או סיכומים חוזרים.
+
+* **עקביות עיצוב**
+  מקלה על שמירת סגנון המסמך בספריות תוכן גדולות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום מונחה תבניות**
+  מממשק את יצירת תבניות Word מובנות מחומר מצגת.
+
+* **זרימות עבודה של דוחות חוזרים**
+  תומך במערכות שיוצרות מסמכים באופן חוזר מתוכן מבוסס שקופיות.
+
+* **פלט מסמך מבוקר**
+  משפר עקביות בסביבות יצירת מסמכים אוטומטיות.
+
+* **המרת תוכן בקנה מידה**
+  מאפשר תהליכי המרה חוזרים לארגונים המנהלים נכסי מצגות רבים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑ODT ממירה נתונים מופרדים בטאבים לקבצי טקסט של מסמכי פתוח התומכים בתיעוד שניתן לעריכה, נייד ובעל תקנים. היא שימושית לארגונים המחפשים פלטי מסמכים גמישים ממקורות נתונים מובנים מבלי לנעול את זרימות העבודה לאקוסיסטם יחיד.
+
+עם ממשקי API של Python, ניתן לאוטומט את המרת TSV ל‑ODT כדי לשפר אינטרופרביליות, להפחית עיבוד ידני, ולתמוך ביצירת מסמכים בקנה מידה רחב בתהליכי עבודה בפורמט פתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **דיווח מסמכי פתוח**  
+  ממירה תוכן TSV למסמכי טקסט ניתנים לעריכה על בסיס תקנים פתוחים.
+
+* **תיעוד חוצה פלטפורמות**  
+  הופכת נתונים מובנים לקלים יותר לשיתוף במגוון סביבות מסמכים.
+
+* **רשומות עסקיות נגישות**  
+  תומכת ביצירת פלט קריא ממקורות טבלאיים גולמיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות מסמכים אינטרופרביליים**  
+  ממשקי API של Python יכולים לאוטומט את יצירת ODT מייצואי TSV חוזרים.
+
+* **תמיכה בתהליכי עבודה בפורמט פתוח**  
+  אוטומציה מאפשרת יצירה בקנה מידה רחב של פלטי מסמכים מבוססי תקנים.
+
+* **המרת נתונים במצב אצווה**  
+  קבצי TSV מרובים יכולים להיות מומרי לפורמט ODT בעבודות עיבוד יעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

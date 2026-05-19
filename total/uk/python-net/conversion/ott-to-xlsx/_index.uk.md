@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to XLSX conversion in Python APIs converts OpenDocument text templates into modern spreadsheet workbooks for analysis, reporting, and structured data reuse. This is one of the most practical transformations when document content must become broadly accessible and editable in tabular form.
+
+The conversion supports automation by enabling repeatable creation of workbook outputs from templates, making it easier to integrate document-derived content into data pipelines, audits, and reporting operations.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Modern Spreadsheet Generation**  
+  Produces current workbook files from text-based templates.
+
+* **Business Analysis Readiness**  
+  Makes information easier to sort, filter, calculate, and review.
+
+* **Broad Workflow Compatibility**  
+  Supports spreadsheet-driven collaboration and data exchange.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Scheduled Workbook Production**  
+  Converts OTT files into XLSX outputs on recurring cycles.
+
+* **Template-to-Report Pipelines**  
+  Feeds generated spreadsheets into reporting and analytics workflows.
+
+* **Programmatic Data Packaging**  
+  Creates structured workbook deliverables for teams or systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

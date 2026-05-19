@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOT-t hozzáadni MBOX-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOT‑MBOX átalakítás a dokumentumsablonokat egy postafiók‑stílusú tárolási formátumba konvertálja, amely alkalmas csoportos e‑mail üzenetek kezelésére. Ez akkor hasznos, amikor a sablon tartalmát e‑mail archívumba vagy migrációs munkafolyamatokba kell összeállítani.
+
+Python API‑k használatával a szervezetek automatizálhatják a DOT‑fájlokból MBOX‑kompatibilis kimenetek létrehozását, ezzel elősegítve az üzenetek csomagolásának és archiválásának hatékonyabbá tételét.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Postafiók-archívum előkészítése**
+  A DOT‑alapú kommunikációs sablonokat MBOX‑kompatibilis struktúrákká konvertálja.
+
+* **Csoportos üzenettárolás**
+  A postafiók formátumú kimenetet használja több sablon‑alapú kommunikáció összegyűjtésére.
+
+* **Migrációs munkafolyamat támogatása**
+  A dokumentumalapú tartalmat előkészíti az e‑mail archívum áthelyezéséhez és megőrzési folyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált archívum összeállítás**
+  Python szkriptek képesek a DOT tartalmat MBOX‑kész kimenetekké konvertálni a megőrzési munkafolyamatokhoz.
+
+* **Tömeges kommunikáció csomagolása**
+  Az átalakítás támogatja a sablonból származó üzenetek programozott csoportosítását postafiók formátumokba.
+
+* **Skálázható e‑mail migráció támogatása**
+  Dinamikus folyamatok segítik a dokumentum‑alapú kommunikációk áthelyezését archívum‑barát struktúrákba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

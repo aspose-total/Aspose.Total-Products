@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑POT בפייתון מאפשרת לתוכן גיליון אלקטרוני להיות מומר לקבצי תבנית מצגת התומכים בעיצוב שקופיות שניתן להשתמש בו מחדש. זה בעל ערך ליצירת מבני מצגות עקביים ממקורות גיליון אלקטרוני מונעי‑נתונים.
+
+המרה זו תומכת באוטומציה על ידי אפשרות לתהליכי עבודה בפייתון להכין תבניות מצגת סטנדרטיות לדיווח, תקשורת ויצירת שקופיות חוזרות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית מצגת**  
+  המרת תוכן Excel לקבצי POT לתבניות מבוססות שקופיות שניתן להשתמש בהן מחדש.
+
+* **עיצוב שקופיות עקבי**  
+  הכנת פריסות סטנדרטיות למצגות חוזרות שנבנות מתוך נתוני גיליון אלקטרוני.
+
+* **הקמת מצגת מונעת‑נתונים**  
+  שימוש בתוכן גיליון אלקטרוני לאתחול מסגרות מצגת מובנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית שקופיות אוטומטית**  
+  יצירת קבצי POT מקלטי Excel כחלק מתהליכי ייצור מצגות.
+
+* **מסגרות דיווח**  
+  תמיכה במצגות חוזרות עם תבניות שניתן להשתמש בהן מחדש שנוצרות באופן תכנותי.
+
+* **נכסי תקשורת ניתנים להרחבה**  
+  בניית תבניות מצגת בפייתון לשימוש רחב בארגון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

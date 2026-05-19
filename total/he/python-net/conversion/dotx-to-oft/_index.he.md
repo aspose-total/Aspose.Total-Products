@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל-OFT ממירה תוכן תבנית Word לפורמט תבנית אימייל המשמש ליצירת הודעות שניתן להשתמש בהן מחדש. היא חשובה כאשר תוכן מבוסס מסמכים צריך להפוך לתבנית תקשורת חוזרת לשימוש בתהליכי יציאה עקביים.
+
+באמצעות ממשקי API של Python, המרה זו תומכת באוטומציה על ידי מתן אפשרות לצוותים ליצור תבניות אימייל שניתן להשתמש בהן מחדש ממקורות מסמכים ולשלב אותן במערכות הודעות מתוקננות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **תבניות אימייל שניתן להשתמש בהן מחדש**
+  הפוך תוכן מסמך מובנה לתבניות הודעה שניתן לחזור עליהן.
+
+* **עיצוב תקשורת עקבי**
+  תקן את הרכבת האימייל באמצעות פריסות מסמך מאושרות.
+
+* **פעולות מבוססות תבנית**
+  השתמש מחדש בתוכן פורמלי בהתכתבות פנימית או חיצונית חוזרת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**
+  צור קבצי OFT מתבניות DOTX לתהליכי אימייל עקביים.
+
+* **הקמת תקשורת בקנה מידה**
+  הכן נכסי הודעה שניתן להשתמש בהם מחדש בכמות גדולה לצוותים תפעוליים.
+
+* **צינורות מסמך-לתבנית**
+  המר פורמטים של מסמכים מאושרים לתבניות אימייל באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

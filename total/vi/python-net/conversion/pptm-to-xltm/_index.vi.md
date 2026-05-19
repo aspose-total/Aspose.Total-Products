@@ -64,7 +64,41 @@ Nó chủ yếu trong hai bước. Đầu tiên sử dụng API [Aspose.Slides f
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM to XLTM conversion with Python APIs enables conversion of macro-enabled presentations into macro-enabled spreadsheet templates used for repeatable workbook generation. It is useful when presentation-derived data or structures must serve as the basis for standardized spreadsheet outputs with reusable automation logic.
+
+This conversion supports process automation by connecting presentation content with template-based spreadsheet workflows that improve consistency and reduce setup effort. It is well suited for recurring reporting, operational planning, and reusable data-driven document creation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo mẫu bảng tính có thể tái sử dụng**
+  Chuyển đổi nội dung bản trình chiếu thành các mẫu để tạo sổ làm việc lặp lại.
+
+* **Quy trình làm việc mẫu dựa trên macro**
+  Hỗ trợ các mẫu bảng tính bao gồm logic tự động và các hành vi có thể lặp lại.
+
+* **Nền tảng báo cáo tiêu chuẩn**
+  Giúp tạo ra các cấu trúc bảng tính nhất quán từ các đầu vào dựa trên bản trình chiếu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tự động hoá tạo mẫu**
+  Tạo ra các tệp XLTM từ nội dung PPTM để tạo bảng tính lặp lại.
+
+* **Đường ống báo cáo định kỳ**
+  Hỗ trợ việc sử dụng tự động các mẫu trong các quy trình tạo sổ làm việc theo lịch trình.
+
+* **Hệ thống tiêu chuẩn hoá quy trình**
+  Cho phép tái sử dụng lập trình các mẫu bảng tính được xây dựng từ dữ liệu bản trình chiếu đã chuyển đổi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

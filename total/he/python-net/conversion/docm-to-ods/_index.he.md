@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל-ODS ממירה מסמכים עם מקרו לקבצי גיליון אלקטרוני פתוחים, מה שמקל על ניתוח, עריכה ושיתוף של נתונים מובנים מהמסמכים בתהליכי עבודה מבוססי גיליונות. זה בעל ערך כאשר טבלאות או רשומות חוזרות בתוך קבצי DOCM דורשות שימוש תפעולי רחב יותר.
+
+לצורך אוטומציה וניתוקיות, המרה מ-DOCM ל-ODS תומכת בצינוריות נתונים פתוחות, ייצוא שגרתי והמרה בקנה מידה של תוכן המסמך לנכסים מוכנים לגיליון אלקטרוני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ניתוח גיליון אלקטרוני פתוח**
+  מעביר את טבלאות המסמך לצורת גיליון אלקטרוני לצורך סינון, סקירה ועדכונים.
+
+* **ניידות נתונים**
+  תומך בהחלפת תוכן מובנה באמצעות תקן גיליון אלקטרוני פתוח.
+
+* **שימוש חוזר תפעולי**
+  הופך את הנתונים הכלולים במסמך לנגישים יותר עבור משימות תכנון ודיווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצוא חוזר של גיליונות**
+  מממש את ההמרה של קבצי DOCM ל-ODS עבור זרימות עבודה מתוזמנות.
+
+* **צינוריות נתונים בפורמט פתוח**
+  מסייע לנתב את נתוני המסמך למערכות המבוססות על תקנים פתוחים.
+
+* **המרה ברמת נפח גבוהה**
+  מעבד קבוצות גדולות של מסמכים לקבצי גיליון אלקטרוני ניתנים לשימוש חוזר באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑MOBI ממירה תוכן שמקורו בגיליונות אל פורמט ידידותי ל‑eBook המתאים לקריאה דיגיטלית והפצה ניידת. היא חשובה כאשר מידע מובנה מגיליונות צריך להיות ארוז מחדש כתוכן ארוך קריא למדריכים, מדריכי משתמש או חומרי ייחוס.
+
+בסביבות אוטומטיות, המרת SXC ל‑MOBI עם API‑ים של Python מסייעת להפוך נתוני מקור לפרסומים ניידים שניתן ליצור, לעדכן ולהפיץ ביעילות בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת מדריך דיגיטלי**  
+  ממירה מידע מגיליון לפורמט המתאים יותר למסירת מדריך או חוברת בסגנון ידני.
+
+* **הפצת תוכן נייד**  
+  מסייעת לפרסם מידע מובנה לחוויות קריאה ללא חיבור לאינטרנט או ידידותיות למכשירים.
+
+* **אריזת חומרי ייחוס**  
+  תומכת בהמרת תוכן טבלאי לתיעוד קריא למשתמשי קצה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **פרסום eBook אוטומטי**  
+  משתמש ב‑API‑ים של Python ליצירת פלטי MOBI ממקורות SXC בתהליכי עבודה חוזרים של תוכן.
+
+* **צינורות אספקת ידע**  
+  מאפשרים לנתוני גיליון מובנה להיות מומרי לפורמטים ניידים לקריאה באופן אוטומטי.
+
+* **עדכוני פרסום דינמיים**  
+  מפשטים את יצירת מחדש של תוכן דיגיטלי בכל פעם שנתוני הגיליון המקוריים משתנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

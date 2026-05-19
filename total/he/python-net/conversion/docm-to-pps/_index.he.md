@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑PPS ממירה מסמכים עם מקרו לקבצי מצגת שנועדו להצגה ישירה במקום עריכה. היא שימושית כאשר יש צורך להעביר את תוכן המסמך כהצגה חזותית מוכנה להפעלה.
+
+במערכות אוטומטיות, המרת DOCM ל‑PPS מסייעת לייעל את הפצת המצגות, ומקלה על יצירת פלט ממוקד צפייה עבור קיוסקים, הדגמות, ותהליכי תקשורת מתוזמנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הפצת מצגת ישירה**
+  ממירה את תוכן המסמך למצגות המיועדות להפעלה מיידית.
+
+* **תצוגת פגישות ואירועים**
+  תומכת בתרחישים שבהם יש צורך להציג תובנות המסמך בצורה חזותית ללא שלבי עריכה.
+
+* **פלט מצגת מבוקר**
+  מסייעת להפצת תוכן מצגת בפורמט ממוקד צפייה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום מצגת אוטומטי**
+  מייצרת קבצי PPS ממקורות DOCM להפצה מוכנה להצגה.
+
+* **שילוב זרימת עבודה לתצוגה**
+  תומכת במשלוח אוטומטי למסכי מצגות או למפגשים מתוזמנים.
+
+* **יצירת פלט חזותי במאצ'**
+  ממירה אוספי מסמכים לנכסי מצגת מוכנים להפעלה ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

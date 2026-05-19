@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOCM-t hozzáadni MSG-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM‑ról MSG‑re konverzió makróval ellátott dokumentumokat egyedi e‑mail üzenetfájlokká alakítja, amelyek alkalmasak üzenetalapú tárolási és cserélési munkafolyamatokra. Hasznos, ha a dokumentum tartalmát strukturált e‑mail tárgyként kell megőrizni a kommunikáció, felülvizsgálat vagy archiválás céljából.
+
+Automatizálás esetén a DOCM‑ról MSG‑re munkafolyamatok egyszerűsítik az üzenetgenerálást, tárolást és átvitelét olyan rendszerekben, amelyek a folyamatkezeléshez különálló levél elemekre támaszkodnak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Egyszemélyes üzenetcsomagolás**
+  Az dokumentumtartalomból önálló üzenetfájlokat hoz létre a szervezett kommunikációs munkafolyamatokhoz.
+
+* **Archiválás és felülvizsgálat**
+  A dokumentumból származó levelezést strukturált üzenetformátumban őrzi meg.
+
+* **E‑mail rendszer kompatibilitás**
+  Támogatja azokat a környezeteket, amelyek a kommunikációt önálló üzenetobjektumokként dolgozzák fel vagy tárolják.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált üzenetfájl létrehozás**
+  MSG kimeneteket generál közvetlenül DOCM dokumentumokból ismételhető munkafolyamatok részeként.
+
+* **Munkafolyamat-alapú megőrzés**
+  Átirányítja a konvertált üzenetfájlokat megfelelőségi, audit vagy archiváló rendszerekbe.
+
+* **Skálázható kötegelt feldolgozás**
+  Nagy DOCM fájlkészleteket programozottan alakít át üzenet‑tárgyakká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

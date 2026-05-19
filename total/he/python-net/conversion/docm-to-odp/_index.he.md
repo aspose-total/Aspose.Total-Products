@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑ODP ממירה מסמכים עם מקרו לקבצי מצגות פתוחים, ומאפשרת להשתמש מחדש בתוכן מובנה במצגות ובזרימות עבודה של מצגות. זה שימושי כאשר נרטיבים של מסמכים, סיכומים או מידע מתומצת צריך להיות מותאם לנכסי מצגות ניידים.
+
+במערכות ממוקדות אוטומציה, המרת DOCM ל‑ODP מסייעת ביצירת פלטי מצגות פתוחים לדיווח, הדרכה ופרסום תוכן ברמת סקלה בפלטפורמות מצגות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת מצגת**
+  ממירה את תוכן המסמך לחומר מוכן לשקופיות לפגישות וביקורות.
+
+* **הפצת פורמט פתוח**
+  תומכת בזרימות עבודה של מצגות המתבססות על תקני קבצים פתוחים וניידים.
+
+* **שימוש חוזר בתוכן מובנה**
+  הופכת מידע מבוסס מסמך לנכסי מצגת חזותיים לתקשורת רחבה יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת שקופיות אוטומטית**
+  מייצרת קבצי ODP ממקורות DOCM עבור זרימות עבודה של מצגות חוזרות.
+
+* **צינורות הדרכה ודיווח**
+  ממירה מסמכים שנכתבו לפלטי מצגות המשמשים צוותים שונים.
+
+* **פרסום תוכן במרוכז**
+  תומכת ביצירת קבצים פתוחים של מצגות בקנה מידה גדול ללא עיצוב ידני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

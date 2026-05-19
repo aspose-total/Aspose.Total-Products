@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Email ל‑DOCM בפייתון מאפשרת להמיר הודעות למסמכי Word עם מקרו למטרות זרימות עבודה מתקדמות של מסמכים. פורמט זה שימושי כאשר תוכן האימייל המומר חייב להיכנס לסביבות שתלויות באוטומציה משובצת או בתסריטי מסמכים.
+
+זה מחזק את האוטומציה על‑ידי מתן אפשרות למסמכים שמקורם באימייל להשתלב בתהליכי סקירה, העשרה וטיפול במסמכים המונעים על‑ידי מקרו במערכות ארגוניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **עיבוד מסמכים עם מקרו**
+  המרת אימיילים לקבצי DOCM עבור זרימות עבודה שתלויות בפעולות מסמכים אוטומטיות.
+
+* **פעולות סקירה מובנות**
+  השתמש בהודעות שהומרו בסביבות מבוקרות שבהן תבניות ומקרו תומכים באימות או בעיצוב.
+
+* **צינורות מסמכים ארגוניים**
+  הכנסת תוכן האימייל לקבצים תפעוליים שמפעילים התנהגות מתוכנתת בהמשך.
+
+* **אחידות תהליכים**
+  שמירה על עקביות כאשר מסמכים שמקורם באימייל חייבים להתאים לזרימות עבודה של משרד עם מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **העשרת מסמכים מתוכנתת**
+  המרת אימיילים ל‑DOCM והחלת מקרו להוספת מטא‑נתונים, כותרות או סיווגים באופן אוטומטי.
+
+* **הכנת קבצים מבוססת זרימת עבודה**
+  הזנת תוכן האימייל לתבניות עם מקרו לצורך עיבוד פנימי והפנייה.
+
+* **עיצוב רשומות אוטומטי**
+  שימוש בתסריטי מסמכים לתקנון תוכן שמקורו באימייל במאגרים גדולים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑PPTM ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי מצגת עם תמיכה במקרו, התומכים באוטומציה מתקדמת בתוך זרימות עבודה מבוססות שקופיות. זה בעל ערך כאשר מצגות שנוצרות חייבות לכלול לוגיקה ניתנת לשימוש חוזר או פעולות מתוכנתות.
+
+ההמרה משפרת את האוטומציה על‑ידי שילוב יצירת תוכן מונעת‑מסמך עם קבצי מצגת שיכולים להשתתף בתרחישים של דיווח או מסירה דינמיים ועשירים בתכונות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגת עם מקרו**  
+  מייצרת מצגות המתאימות להתנהגויות אוטומטיות מתקדמות.
+
+* **תמיכה בדיווח דינמי**  
+  עוזרת לבנות מצגות החורגות מתוכן שקופיות סטטי.
+
+* **שימוש חוזר בתוכן תבנית**  
+  ממירה תבניות טקסט לפלטי מצגות עשירים יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת חבילה מודעת לסקריפטים**  
+  יוצרת קבצי PPTM מתבניות OTT בתהליכים חוזרים.
+
+* **צינורות מצגת מתקדמים**  
+  תומכת במערכות דיווח הדורשות פונקציונליות שקופיות משופרת.
+
+* **הצגות תמציתיות אוטומטיות בקנה מידה**  
+  מספקת מצגות עקביות עם יכולת מקרו במגוון מקרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

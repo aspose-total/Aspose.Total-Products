@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑XLSM ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לגיליונות אלקטרוניים עם תמיכה במקרו, התומכים באוטומציה מתקדמת של חוברות עבודה. זה בעל ערך כאשר יש למקם את התוכן המומר בגיליונות שכוללים לוגיקה ניתנת לשימוש חוזר או פעולות מתוכנתות.
+
+ההמרה משפרת את האוטומציה על‑ידי שילוב תוכן מסמך מובנה עם סביבות גיליון אלקטרוני תומכות במקרו, ומאפשרת זרימות עבודה עשירות יותר של עיבוד, אימות ודיווח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת חוברת עבודה עם מקרו**  
+  מייצרת גיליונות אלקטרוניים המתאימים לפעולות מתקדמות אוטומטיות.
+
+* **טיפול דינמי בנתונים**  
+  תומך בחוברות עבודה החורגות מאחסון והצגה סטטיים.
+
+* **שימוש חוזר בתוכן תבנית**  
+  מעביר מידע מבוסס מסמך לפורמטים משופרים של גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת חוברת עבודה מועשרת באופן אוטומטי**  
+  יוצר קבצי XLSM מתבניות OTT לשימוש חוזר.
+
+* **שילוב לוגיקה בגיליון אלקטרוני**  
+  תומך בתהליכי עבודה המשלבים נתונים מומררים עם אוטומציה מובנית.
+
+* **דיווח תפעולי בר‑קנה מידה**  
+  מספק פלטים עשירים יותר של חוברות עבודה לתהליכים עסקיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

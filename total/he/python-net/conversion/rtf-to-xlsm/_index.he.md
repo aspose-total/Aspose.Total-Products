@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל‑XLSM ממירה מסמכי טקסט עשיר למחברות גיליון אלקטרוני עם אפשרות למקרו, המשולבות באחסון נתונים מובנה עם פונקציונליות מתקדמת של המחברת. זה שימושי כאשר מידע שמופק מהמסמך צריך לתמוך בתהליכי עבודה של גיליון אלקטרוני הכוללים פעולות אוטומטיות או לוגיקה מורחבת.
+
+בסביבות אוטומציה, המרה מ‑RTF ל‑XLSM מאפשרת שינוי בר‑קנה מידה של תוכן המסמך לנכסי גיליון אלקטרוני שיכולים להשתתף בתהליכי עבודה תפעוליים, דיווחיים ותהליכיים עשירים יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת מחברת מתקדמת**  
+  ממירה מסמכי טקסט לקבצי גיליון אלקטרוני המתאימים לפונקציונליות משופרת של המחברת.
+
+* **נתונים מובנים עם לוגיקה מורחבת**  
+  עוזרת להכין תוכן מסמך שהוצא לתהליכי עבודה של גיליון אלקטרוני הדורשים יותר מאחסון סטטי.
+
+* **הכנת גיליון אלקטרוני ממוקדת תהליך**  
+  תומכת בתרחישים תפעוליים שבהם התנהגות המחברת היא חלק מתהליך העבודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות נתונים עם אפשרות למקרו**  
+  מערכות יכולות להמיר קלטי RTF למחברות XLSM לתהליכי אוטומציה מתקדמים של גיליון אלקטרוני.
+
+* **יצירת מחברת תפעולית חוזרת**  
+  המרה תכנותית תומכת ביצירה קבועה של נכסי גיליון אלקטרוני מועשרים.
+
+* **תהליכי ניתוח דינאמיים**  
+  תהליכים אוטומטיים יכולים להפוך תוכן מקור כתוב למחברות המיועדות לעיבוד אינטראקטיבי או מורחב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

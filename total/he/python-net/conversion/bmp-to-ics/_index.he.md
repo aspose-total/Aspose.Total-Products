@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת BMP ל-ICS מאפשרת לשלב תמונות ביטמפה בקבצי אירועי לוח שנה באמצעות פורמט ה-ICS. גישה זו מאפשרת לחומרי חזותיים כגון לוחות זמנים, באנרים של אירועים או דיאגרמות ללוות את רשומות הלוח שנה.
+
+במערכות אוטומטיות, המרת קבצי BMP לאירועי ICS מסייעת לשלב מידע חזותי עם תהליכי תזמון. זה תומך בהפצת אירועים אוטומטית, תזכורות ושיתוף פעולה בין פלטפורמות לוח שנה.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **הפצת הודעת אירוע**  
+  הזמנות ללוח שנה יכולות לכלול תמונות BMP כגון פוסטרים של אירועים או דיאגרמות.
+
+* **תיעוד חזותי של תזמון**  
+  ארגונים יכולים לצרף הפניות חזותיות לאירועים מתוזמנים.
+
+* **תקשורת מבוססת לוח שנה**  
+  צוותים יכולים להפיץ גרפיקה הקשורה לאירועים בתוך רשומות לוח השנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת אירועי לוח שנה אוטומטית**  
+  מערכות מייצרות קבצי ICS עם ויזואלים של BMP משובצים לתזמון אוטומטי.
+
+* **הודעות אירוע מבוססות זרימת עבודה**  
+  צינורות אוטומטיים ממירים חומרים מבוססי תמונה לאירועי לוח שנה.
+
+* **הזמנות פגישות תכנותיות**  
+  יישומים יוצרים באופן דינמי הזמנות ICS המכילות הפניות חזותיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

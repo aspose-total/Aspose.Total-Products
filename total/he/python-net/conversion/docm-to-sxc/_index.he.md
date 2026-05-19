@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑SXC ממירה מסמכים עם מקרו לקבצי גיליון אלקטרוני תואמים לתהליכי עבודה של גיליונות אלקטרוניים פתוחים ישנים, ומאפשרת להשתמש בתוכן מובנה מחדש בצורה טבלאית. זה שימושי כאשר יש צורך להחליף נתונים מבוססי מסמך עם מערכות מורשת שתלויות עדיין בתקני גיליונות אלקטרוניים ישנים.
+
+לצורך אוטומציה, המרת DOCM ל‑SXC תומכת בחילוץ נתונים שגרתי, תאימות לאחור, והמרה ניתנת להרחבה של טבלאות מסמך לפלטי גיליון אלקטרוני ידידותיים למורשת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **תאימות גיליון אלקטרוני מורשת**
+  ממירה את תוכן המסמך לפורמט גיליון אלקטרוני ישן המשמש בסביבות מבוססות.
+
+* **שימוש חוזר בטבלאות מובנות**
+  מסייעת להעביר נתונים טבלאיים ממסמכי DOCM לתהליכי עבודה של גיליונות אלקטרוניים.
+
+* **החלפת נתונים תואמת לאחור**
+  תומכת במערכות שטרם עברו במלואן לפורמטים חדשים של גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא מורשת אוטומטי**
+  מייצרת קבצי SXC ממקורות DOCM לצורכי תהליכי עבודה ישנים.
+
+* **המרת נתונים בכמות גדולה**
+  ממירה קבוצות גדולות של טבלאות מסמך לפלטים מוכנים לגיליון אלקטרוני ביעילות.
+
+* **תמיכה בצינור תאימות**
+  מחברת בין מקורות מסמכים מודרניים למערכות עיבוד גיליונות אלקטרוניים מורשת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

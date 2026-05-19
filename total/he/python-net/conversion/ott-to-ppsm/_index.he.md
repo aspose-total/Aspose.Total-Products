@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑PPSM ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי מצגת עם מקרו לצורך הפצה ישירה של מצגות עם תמיכה בהתנהגות מתקדמת. זה מועיל כאשר פלט מוכן להצגה חייב גם לתמוך בפעולות מצגת אוטומטיות.
+
+ההמרה משפרת אוטומציה על‑ידי שילוב תוכן מסמך שניתן להשתמש בו מחדש עם פלט מצגת תומך במקרו, תומכת בתהליכי אספקה דינמיים יותר ובתהליכי מצגת חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת מצגת עם מקרו**  
+  מייצרת קבצי מצגת התומכים בהתנהגות מתקדמת אוטומטית.
+
+* **הפצה ישירה של מצגת**  
+  ממירה תוכן תבנית לקבצי מצגת מוכנים להשקה.
+
+* **פלט חזותי ניתן לשימוש חוזר**  
+  מסייעת לאחיד מצגות שנוצרות ממסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הרכבה אוטומטית של מצגת**  
+  יוצרת קבצי PPSM מתבניות מקור OTT חוזרות.
+
+* **זרימות עבודה של מצגת מתוכנתות**  
+  תומכת בפלט מצגת לסביבות המשתמשות בלוגיקה של מצגות.
+
+* **הפצה ניתנת להרחבה של אירועים או תדריכים**  
+  מייצרת קבצי מצגת דינמיים לשימוש ארגוני חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

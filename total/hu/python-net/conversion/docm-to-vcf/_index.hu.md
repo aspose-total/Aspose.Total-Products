@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOCM-t hozzáadni VCF-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOCM‑ról VCF‑re konverzió a makrókkal ellátott dokumentumtartalmat átalakítja névjegykártya‑fájlokká, megkönnyítve a nevek, címek és kommunikációs adatok újrahasznosítását a kapcsolattartási munkafolyamatokban. Hasznos, ha a dokumentumok strukturált személyes vagy szervezeti kapcsolatinformációkat tartalmaznak.
+
+Az automatizálás és a méretezhetőség érdekében a DOCM‑ról VCF‑re konverzió támogatja a kapcsolatinformációk kinyerését, a szinkronizált címjegyzék‑frissítéseket, valamint a dokumentumban tárolt adatok ismételhető átalakítását hordozható névjegyekké.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Kapcsolatinformációk kinyerése**
+  Átalakítja a dokumentumokban lévő strukturált kapcsolati adatokat hordozható névjegyfájlokká.
+
+* **Címjegyzék frissítések**
+  Segít a dokumentumalapú kapcsolati rekordok áthelyezésében a kapcsolattartási környezetekbe.
+
+* **Hordozható kapcsolatok megosztása**
+  Támogatja a személyes vagy üzleti kapcsolatinformációk szabványos cseréjét.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált kapcsolatteremtés**
+  VCF‑fájlokat hoz létre DOCM‑dokumentumokból, amelyek kapcsolati adatokat tartalmaznak.
+
+* **CRM és címtár integráció**
+  Támogatja a munkafolyamat‑alapú importot a dokumentumból származó kapcsolati rekordokhoz.
+
+* **Tömeges kapcsolatok konvertálása**
+  Hatékonyan dolgozza fel több dokumentumot szabványosított kapcsolati fájlokká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

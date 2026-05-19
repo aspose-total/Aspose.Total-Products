@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑XLSM משנה תוכן מסמך מובנה לקבצי גיליון אלקטרוני עם מאקרו המשלבים נתוני חוברת עבודה עם יכולות אוטומציה. זה שימושי כאשר הנתונים המומרים חייבים לתמוך בלוגיקה מבוססת גיליון אלקטרוני, בתסריטאות או במשימות חוזרות.
+
+באמצעות ממשקי API של Python, המרת WordML ל‑XLSM מאפשרת לנתוני המסמך לזרום לתוך זרימות עבודה מתקדמות של גיליונות אלקטרוניים עם אוטומציה ניתנת להרחבה ולוגיקה מעבדתית שניתנת לשימוש חוזר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת חוברת עבודה עם מאקרו**
+  ממיר טבלאות WordML לקבצי XLSM עבור זרימות עבודה של גיליונות אלקטרוניים הממוקדות באוטומציה.
+
+* **עיבוד נתונים מתקדם**
+  תומך בפלטי גיליון אלקטרוני המתבססים על פעולות משובצות או לוגיקה.
+
+* **הפעלת משימות תפעוליות**
+  מסייע להעביר נתוני מסמך לחוברות עבודה המיועדות לעיבוד חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת חוברת עבודה עם מאקרו באופן אוטומטי**
+  יוצר קבצי XLSM ממקורות WordML בזרימות עבודה עסקיות חוזרות.
+
+* **שילוב לוגיקת גיליון אלקטרוני**
+  מחבר נתוני מסמך שהוצאו עם סביבות עיבוד מונעות מאקרו.
+
+* **אריזת נתונים מוכנה לתהליך**
+  מאפשר הכנה ניתנת להרחבה של נכסי חוברת העבודה לפעולות אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

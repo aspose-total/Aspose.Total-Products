@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑XLAM ממירה תבניות Word עם מקרו לקבצי תוסף Excel לצורך אוטומציה של גיליונות אלקטרוניים והפצת פונקציונליות ניתנת לשימוש חוזר. היא חשובה כאשר לוגיקה או תוכן מבוססי תבנית צריכים לתמוך בתהליכי עבודה ממוקדי Excel בצורה של הרחבה ניתנת לשימוש חוזר.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑XLAM תומך באוטומציה על ידי אפשרות להעביר תוכן ופונקציונליות מובנים מתבניות מסמכים לתהליכי עבודה של תוספי גיליון אלקטרוני. זה מסייע בתיקון תהליכים ניתנים לשימוש חוזר ותומך באינטגרציה של תהליכי עסק ברי‑קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת תוסף גיליון אלקטרוני**
+  המרת מקורות DOTM לפלטים XLAM לתמיכה בתהליכי עבודה ניתנים לשימוש חוזר הממוקדים ב‑Excel.
+
+* **יצירת נכס אוטומציה ניתנת לשימוש חוזר**
+  הפיכת תוכן מונע תבניות לקבצים המתאימים לשימוש חוזר בגיליונות אלקטרוניים.
+
+* **תקינה תפעולית**
+  תמיכה בהפצה מבוקרת של פונקציונליות גיליון אלקטרוני ניתנת לשימוש חוזר המופקת מתבניות מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תוסף אוטומטית**
+  מערכות יכולות ליצור פלטים תואמי XLAM מתבניות DOTM כחלק מתהליכי עבודה מתקדמים של גיליונות אלקטרוניים.
+
+* **הפצת לוגיקה עסקית ניתנת לשימוש חוזר**
+  ההמרה תומכת בהכנה תכנותית של נכסי תמיכה בגיליון אלקטרוני שניתנים לחזרה.
+
+* **אריזת אוטומציה במרוכז**
+  עיבוד תכנותי מאפשר שינוי בקנה מידה גדול של קבצי תבנית לפלטים XLAM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

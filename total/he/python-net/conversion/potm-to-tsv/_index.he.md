@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTM ל‑TSV ב‑Python ממירה תוכן מצגת עם מקרו לתמליל מופרד בטאבים המתאים לטיפול בנתונים מובנים, הגירה ויכולת פעולה משותפת. זה שימושי כאשר יש להעביר מידע שמקורו במצגת למערכות המעדיפות חילופי טקסט פשוטים מובנים.
+
+בצינורות אוטומציה, המרת POTM ל‑TSV מאפשרת עיבוד יעיל עם Python על‑ידי יצירת פלטים קומפקטיים ידידותיים למכונה המתאימים היטב למטלות ETL, זרימות קבלת נתונים ותפעול קבוצתי בר-קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא טקסט מובנה**
+  ממיר מידע מצגת לפורמט טבלאי מבוסס טקסט נקי.
+
+* **הכנת חילופי נתונים**
+  תומך בתנועת תוכן מחולץ בין מערכות הצורכות קבצים מופרדים.
+
+* **פלט ידידותי לצינור עבודה**
+  מייצר קבצים קלים המתאימים לפענוח והמרה אוטומטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **שילוב זרימת עבודה ETL**
+  מזין פלטי TSV לצינורות חילוץ והמרה מבוססי Python.
+
+* **המרה קבוצתית בקנה מידה גדול**
+  מעבד קבצי POTM רבים לטקסט מובנה לצריכה אוטומטית.
+
+* **משימות אינטרופרביליות מערכת**
+  תומך ביצוא חוזר לפלטפורמות המתבססות על העברת נתונים מבוססת מפריד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

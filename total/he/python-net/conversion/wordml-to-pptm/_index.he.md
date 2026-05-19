@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑PPTM ממירה את תוכן המסמך לקבצי מצגות עם מקרו למטרות זרימות עבודה המשולבות שקופיות ניתנות לעריכה עם לוגיקת אוטומציה משובצת. זה שימושי כאשר קבצי מצגות צריכים גם תוכן מובנה וגם התנהגויות ניתנות לתכנות.
+
+באמצעות ממשקי API של Python, המרת WordML ל‑PPTM תומכת ביצירת מצגות בקנה מידה גדול תוך התאמה לדרישות האוטומציה המתקדמות של שקופיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת מצגת עם מקרו**
+  ממירה את תוכן ה‑WordML לקבצי PPTM עבור מצגות עם יכולת אוטומציה.
+
+* **תמיכה מתקדמת בזרימות עבודה**
+  מאפשרת מצגות שתלויות הן בתוכן שניתן לעריכה והן בלוגיקה משובצת.
+
+* **תוכן תפעולי ניתן לשימוש חוזר**
+  הופכת חומר מסמך לנכסי מצגת ניתנים לתכנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **הרכבת חבילה אוטומטית**
+  מייצרת מצגות PPTM ממסמכים מובנים בזרימות עבודה חוזרות.
+
+* **שילוב לוגיקת מצגת**
+  תומכת בתרחישים שבהם על שקופיות שהומרו לפעול עם אוטומציה משובצת.
+
+* **אריזת תוכן ארגונית**
+  מקשרת המרת מסמכים למערכות מתקדמות של אספקת מצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

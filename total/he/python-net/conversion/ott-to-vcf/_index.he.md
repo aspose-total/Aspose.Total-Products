@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑VCF ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי כרטיסי קשר המשמשים לשיתוף פרטים של אנשים וארגונים. זה בעל ערך כאשר תוכן התבנית מכיל מידע קשר מובנה שחייב להיות נייד ומוכן לייבוא.
+
+ההמרה תומכת באוטומציה על‑ידי הפיכת פרטי קשר מנוהלים במסמך לקבצי חילוף מתוקננים, מה שמפחית הזנה ידנית ומשפר סינכרון בתהליכי תקשורת וספריות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת קובץ קשר**  
+  ממירה תוכן קשר מובנה לקבצי כרטיסים שניתן לייבא.
+
+* **שיתוף נתוני ספרייה**  
+  הופכת את מידע הקשר לקל יותר להחלפה בין מערכות.
+
+* **ניהול קשר מבוסס תבנית**  
+  מממשת מחדש תבניות מסמך לפלט קשר מתוקנן.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצוא קשר אוטומטי**  
+  יוצרת קבצי VCF מתבניות OTT המכילות נתוני אנשים או ארגונים.
+
+* **אינטגרציה עם CRM או ספרייה**  
+  מזינה קבצי קשר שנוצרו למערכות מידע משניות.
+
+* **אריזת קשרים בכמות גדולה**  
+  מייצרת פלטי קשר מתוקננים למערכות קשר גדולות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

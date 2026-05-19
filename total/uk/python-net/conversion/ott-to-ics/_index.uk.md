@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to ICS conversion in Python APIs converts OpenDocument text templates into calendar data files used for scheduling and event exchange. This is valuable when document content includes appointments, deadlines, or structured date-driven information that must become calendar-ready.
+
+This conversion is automation-friendly because it allows event information to be generated from templates and pushed into scheduling workflows, reminders, and synchronization processes without manual calendar entry.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Створення файлів подій**  
+  Перетворює вміст документу, пов’язаний з розкладом, у файли, сумісні з календарем.
+
+* **Розповсюдження термінів**  
+  Ділиться важливими датами та етапами у стандартному форматі календаря.
+
+* **Підтримка робочих процесів планування**  
+  Перетворює структуровані дані про події у портативні активи для планування.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматичне створення календаря**  
+  Створює файли ICS з повторюваних шаблонів подій на основі OTT.
+
+* **Інтеграція робочих процесів нагадувань**  
+  Передає згенеровані події у системи, які запускають сповіщення.
+
+* **Синхронізація розкладу**  
+  Підтримує програмний обмін календарними даними між командами або інструментами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

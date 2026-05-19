@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál RTF-t hozzáadni EMAIL-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF‑ről e‑mail konverzió formázott szöveges dokumentumokat e‑mail‑kész tartalommá alakít, amely beágyazható a kimenő kommunikációkba, értesítésekbe vagy üzenetsablonokba. Hasznos a jelentés szöveg, közlemények, összefoglalók vagy ügyfélnek szánt tartalom kommunikációra alkalmas formátumba való átalakításához.
+
+Automatizált környezetekben az RTF‑ről e‑mail támogatja a skálázható üzenetküldési munkafolyamatokat, az elkészített dokumentumtartalmat újrahasználható e‑mail‑testekre konvertálva riasztásokhoz, kampányokhoz, jóváhagyásokhoz és tranzakciós kommunikációhoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Dokumentum-alapú e‑mail vázlatkészítés**  
+  Átalakítja a gazdag szöveges tartalmat újrahasználható e‑mail üzenetekké belső vagy külső kommunikációhoz.
+
+* **Közlemények és frissítések terjesztése**  
+  Támogatja bejelentések vagy összefoglalók küldését, amelyek előkészített dokumentumokból származnak.
+
+* **Sablon-alapú üzenetküldés**  
+  Segít a szabványos dokumentumtartalom átalakításában egységes e‑mail kimenetekké a csapatok között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Automatizált értesítés generálás**  
+  A rendszerek RTF fájlokat e‑mail tartalommá konvertálhatnak ütemezett vagy esemény‑alapú kézbesítéshez.
+
+* **Munkafolyamat jóváhagyási üzenetküldés**  
+  A dokumentumösszefoglalók programozottan átalakíthatók jóváhagyási kérésekké és állapot‑e‑mail‑ekké.
+
+* **Tömeges megkeresési folyamatok**  
+  A nagy mennyiségű kommunikációs csővezetékek előnyét veszik, ha a előkészített szöveges eszközöket skálázható e‑mail‑kész tartalommá alakítják.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

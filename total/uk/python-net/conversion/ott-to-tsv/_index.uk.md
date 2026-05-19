@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to TSV conversion in Python APIs converts OpenDocument text templates into tab-separated values for clean, lightweight, structured data exchange. This is useful when template-based content must be moved into systems that prefer simple, text-based tabular output.
+
+The conversion improves automation by enabling easy parsing, transformation, and loading into workflows that value minimal overhead, portability, and reliable delimiter-based structure.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Експорт даних з розділювачами**  
+  Перетворює вміст документа у структурований вивід, розділений табуляцією.
+
+* **Форматування, дружнє до конвеєрів**  
+  Підтримує системи, які обробляють легкі текстові таблиці.
+
+* **Підготовка даних**  
+  Полегшує імпорт витягнутого контенту в аналітичні або операційні інструменти.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Пакетне табличне конвертування**  
+  Генерує TSV‑файли з OTT‑шаблонів у масштабі.
+
+* **Подача у ETL‑конвеєр**  
+  Надсилає дані, отримані з документу, у конвеєри парсингу та трансформації.
+
+* **Заплановані структуровані експорти**  
+  Підтримує регулярне створення простих машинозчитуваних наборів даних.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

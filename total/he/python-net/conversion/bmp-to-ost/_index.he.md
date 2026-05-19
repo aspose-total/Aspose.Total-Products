@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת BMP ל-OST מאפשרת לכלול קבצי תמונת ביטמפה בקבצי אחסון דוא"ל לא מקוונים המשמשים לקוחות הודעות. קבצי OST שומרים עותקים מסונכרנים של נתוני תיבת הדואר לגישה לא מקוונת.
+
+זרימות עבודה של המרה אוטומטית מסייעות למערכות לשלב הודעות מבוססות תמונה באחסון תיבת דואר לא מקוונת. זה תומך בארכיון ארגוני, סינכרון ותהליכי ניהול תיבת דואר אוטומטיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **אחסון תיבת דואר לא מקוונת**  
+  הודעות מבוססות BMP ניתן לאחסן בתוך קבצי תיבת דואר לא מקוונים.
+
+* **ארכיון דוא"ל ארגוני**  
+  ארגונים יכולים לשמר תקשורת חזותית בתוך מערכות אחסון תיבות דואר.
+
+* **סינכרון נתוני תיבת דואר**  
+  תוכן חזותי ניתן לשילוב ברשומות תיבת דואר מסונכרנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אכלוס תיבת דואר אוטומטי**  
+  מערכות מייצרות הודעות מבוססות BMP ושומרות אותן בקבצי OST.
+
+* **זרימות עבודה של מיגרציית תיבת דואר**  
+  תוכן דוא"ל חזותי ניתן להמרה לאחסון תיבת דואר לא מקוונת במהלך המיגרציה.
+
+* **ניהול תיבת דואר תכנותי**  
+  יישומים מעדכנים באופן דינמי קבצי OST עם תקשורת מבוססת תמונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

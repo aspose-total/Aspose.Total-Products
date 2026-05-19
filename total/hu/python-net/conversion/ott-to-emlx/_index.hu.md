@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni EMLX-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑ról EMLX‑re konvertálás Python API‑kban átalakítja az OpenDocument szövegsablonokat EMLX üzenetfájlokká, amelyeket adott levéltároló környezetek használnak. Releváns, amikor a sablonalapú tartalmat olyan rendszerekbe kell integrálni, amelyek ezt az e‑mail fájlstruktúrát igénylik.
+
+Ez a konverzió erősíti az automatizálást, lehetővé téve, hogy a dokumentumból származó kommunikációs tartalom kézzel történő újraírás nélkül áramoljon a speciális e‑mail ökoszisztémákba, támogatva a skálázható üzenet‑előkészítést és archiválási munkafolyamatokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Speciális levéltároló támogatás**  
+  Üzenetfájlokat hoz létre, amelyek kompatibilisek az EMLX‑alapú környezetekkel.
+
+* **Sablon‑vezérelt kommunikáció**  
+  Újra felhasználja az OTT tartalmat strukturált e‑mail generáláshoz.
+
+* **Hordozható üzenetkimenet**  
+  Fájlokat állít elő, amelyeket a levélmunkafolyamatok során tárolhat vagy továbbíthat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált e‑mail fájlgyártás**  
+  Tömegesen generál EMLX kimeneteket dokumentumsablonokból.
+
+* **Archiválási munkafolyamatok**  
+  A sablonból származó kommunikációkat strukturált levéltárakban tárolja.
+
+* **Rendszerek közötti tartalom előkészítés**  
+  Áthidalja a dokumentumgenerálást a platform‑specifikus e‑mail kezelésével.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

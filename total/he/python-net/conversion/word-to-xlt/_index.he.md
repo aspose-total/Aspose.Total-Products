@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Word ל‑XLT באמצעות API‑ים של Python מאפשרת המרה של תוכן עיבוד תמלילים לקבצי תבניות גיליון אלקטרוני קלאסיים ליצירת חוברות עבודה חוזרות. זה שימושי כאשר מבנים מבוססי מסמך או פריסות נתונים חוזרות צריכים להפוך לתבניות גיליון אלקטרוני שניתן להשתמש בהן מחדש בסביבות מדור קודם.
+
+במסגרות אוטומציה, המרה זו תומכת בעקביות ובקנה מידה על ידי הפיכת תוכן שנכתב במסמך למסגרות חוברות עבודה חוזרות לשימוש תפעולי מתמשך.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית מדור קודם**
+  ממירה תוכן מסמך לתבניות גיליון אלקטרוני קלאסיות לשימוש חוזר.
+
+* **מסגרות חוברות עבודה מתוקננות**
+  עוזרת לשמור על עקביות בתפוקות גיליון אלקטרוני חוזרות.
+
+* **פריסות דוחות שניתן להשתמש בהן מחדש**
+  תומכת ביצירה חוזרת של גיליונות עבודה ממבני תוכן מאושרים.
+
+* **תאימות למערכות ישנות**
+  מאפשרת זרימות עבודה מבוססות תבנית בסביבות גיליון אלקטרוני מסורתיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **זרימות עבודה של אספקת תבניות**
+  מייצרת באופן אוטומטי קבצי XLT ממסמכי Word לשימוש תפעולי רגיל.
+
+* **אוטומציה חוזרת של גיליון אלקטרוני**
+  משתמשת בתבניות שמקורן במסמכים כדי לתקנון יצירת חוברות עבודה.
+
+* **תמיכה בתהליכים מדור קודם**
+  משלבת פלטי תבניות במערכות קיימות המתבססות על תקני גיליון אלקטרוני ישנים.
+
+* **יצירת נכסים חוזרים במרוכז**
+  מייצרת קבצי תבנית מרובים ממסמכי מקור מתוקננים ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

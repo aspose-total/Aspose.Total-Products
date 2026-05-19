@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM ל‑VCF ממירה תוכן מסמכי עם מקרו לקבצי כרטיסי קשר, מה שמקל על שימוש חוזר בשמות, כתובות ופרטי תקשורת בתהליכי ניהול קשרים. היא חשובה כאשר המסמכים מכילים מידע ליצירת קשר אישי או ארגוני מובנה.
+
+לצורך אוטומציה וקנה מידה, המרת DOCM ל‑VCF תומכת בחילוץ פרטי קשר, עדכונים מסונכרנים של ספר כתובות, והמרה חוזרת של פרטים שנשמרים במסמכים לרשומות קשר ניידות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ מידע קשר**
+  ממיר פרטי קשר מובנים מהמסמכים לקבצי כרטיסים ניידים.
+
+* **עדכוני ספר כתובות**
+  מסייע להעביר רשומות קשר מבוססות מסמך לסביבות ניהול קשרים.
+
+* **שיתוף קשר נייד**
+  תומך בחילוף תקני של מידע קשר אישי או עסקי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת קשרים אוטומטית**
+  יוצרת קבצי VCF ממסמכי DOCM המכילים נתוני קשר.
+
+* **אינטגרציה עם CRM וספרייה**
+  תומכת בייבוא מבוסס זרימת עבודה של רשומות קשר שמקורן במסמכים.
+
+* **המרת קשרים בכמות גדולה**
+  מעבדת מספר מסמכים לקבצי קשר תקניים ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

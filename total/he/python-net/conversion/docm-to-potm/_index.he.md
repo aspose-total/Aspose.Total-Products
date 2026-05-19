@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑POTM ממירה מסמכים עם מקרו למסגרות מצגות עם מקרו, ומאפשרת למבני שקופיות שניתן להשתמש בהם מחדש לשמר התנהגות אוטומציה מתקדמת. היא חשובה לסביבות שבהן עקביות תבניות ולוגיקה אינטראקטיבית של מצגות חייבות להתקיים יחד.
+
+בזרימות עבודה מודרניות, המרת DOCM ל‑POTM תומכת ביצירת מצגות אוטומטית תוך שמירה על היכולת לשלב אוטומציה ברמת התבנית בנכסי שקופיות שניתנים לחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות עם מקרו לשימוש חוזר**
+  יוצרת תבניות מצגות המשלבות עיצוב מובנה עם תכונות אוטומציה.
+
+* **זרימות עבודה מתקדמות של מצגות**
+  תומכת בתרחישים שבהם יצירת שקופיות חוזרת מתבססת על פעולות או לוגיקה משובצות.
+
+* **אחידות תבניות**
+  מסייעת לשמור על עקביות בין מצגות מבלי לאבד את יכולת האוטומציה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבניות תכנותית**
+  ממירה קבצי DOCM לפלטי POTM עבור תהליכי ייצור שקופיות חוזרים.
+
+* **הרכבת מצגות אוטומטית**
+  מאפשרת למערכות למלא תבניות עם מקרו בתוכן משתנה.
+
+* **אספקת תוכן בקנה מידה**
+  תומכת בזרימות עבודה של מצגות מבוססות תבניות בקנה מידה גדול עם אוטומציה מובנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

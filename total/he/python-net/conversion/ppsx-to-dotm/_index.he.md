@@ -105,7 +105,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPSX ל‑DOTM ממירה את תוכן השקופיות לתבנית מסמך עם מקרו המותאמת לייצור מסמכים חוזר וידוע לתהליכי אוטומציה. היא שימושית כאשר ארגונים זקוקים לתוכן שמקורו במצגות המשולב בתבניות ניתנות לשימוש חוזר ותומכות בהתנהגות מתקדמת של המסמך.
+
+במסגרות אוטומציה, המרת PPSX ל‑DOTM מאפשרת יצירת תבניות בקנה מידה, תומכת בתהליכי עבודה של מסמכים מתוכנתים, ומשפרת את היעילות התפעולית כאשר מנוהלת תכנותית דרך ממשקי API של Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית עם מקרו**  
+  ממירה חומר מצגת לתבניות ניתנות לשימוש חוזר עם תמיכה באוטומציה.
+
+* **מסמכים דינמיים מתוקננים**  
+  מסייע ביצירת קבצי תבנית למסמכים הדורשים לוגיקה חוזרת.
+
+* **שימוש חוזר במבנה תוכן**  
+  הופך את תוכן המצגת למתאים לפלט מבוסס תבנית מבוקרת.
+
+* **עיצוב תבנית ממוקד בתהליכי עבודה**  
+  תומך בסביבות שבהן יצירת מסמכים קשורה לתהליכים פנימיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **אספקת תבניות אוטומטית**  
+  ממשקי API של Python יכולים ליצור תבניות DOTM מקבצי PPSX עבור תהליכי עבודה חוזרים.
+
+* **צינורות מסמכים דינמיים**  
+  אוטומציה יכולה להעביר תבניות מומרות למערכות יצירת מסמכים.
+
+* **תיקון תבניות בכמות גדולה**  
+  כמויות גדולות של תוכן מצגות ניתן להפוך לתבניות אחידות עם מקרו.
+
+* **פריסת תוכן מודעת לתהליך**  
+  המרה תכנותית תומכת בהפצת תבניות בסביבות אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

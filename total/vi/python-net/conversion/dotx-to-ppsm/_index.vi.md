@@ -64,7 +64,41 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi DOTX sang PPSM biến đổi nội dung mẫu Word thành định dạng bản trình chiếu hỗ trợ macro cho các quy trình trình chiếu trực tiếp với hỗ trợ tự động hoá nâng cao. Điều này có giá trị khi việc phát trình chiếu và tự động hoá nhúng phải hoạt động cùng nhau.
+
+Sử dụng các API Python, quá trình chuyển đổi này giúp tự động hoá việc tạo ra các tệp bản trình chiếu sẵn sàng cho trình chiếu, đồng thời hỗ trợ các yêu cầu quy trình làm việc nâng cao liên quan đến việc giao nội dung lặp lại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Bản trình chiếu có macro**
+  Chuyển đổi mẫu tài liệu thành các bản trình chiếu xem trực tiếp với hỗ trợ tự động hoá.
+
+* **Cung cấp trình chiếu nâng cao**
+  Chuẩn bị đầu ra bản trình chiếu cho các môi trường dựa vào hành vi tương tác hoặc tự động hoá.
+
+* **Tái sử dụng hình ảnh có cấu trúc**
+  Tái sử dụng nội dung tài liệu thành các tài sản bản trình chiếu sẵn sàng cho trình chiếu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Sản xuất bản trình chiếu tự động**
+  Tạo tệp PPSM từ các mẫu DOTX trong quy trình giao hàng lặp lại.
+
+* **Phát trình chiếu dựa trên quy trình làm việc**
+  Sử dụng các tài sản bản trình chiếu đã chuyển đổi trong các hệ thống trình chiếu có nhu cầu tự động hoá.
+
+* **Phân phối hình ảnh có khả năng mở rộng**
+  Chuẩn hoá việc tạo ra các bản trình chiếu có khả năng macro từ nội dung mẫu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

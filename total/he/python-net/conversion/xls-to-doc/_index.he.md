@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑DOC מאפשרת להמיר נתוני גיליון אל פורמט מסמך שניתן לעריכה לצורכי דיווח, תיעוד ושימוש חוזר במבנה תוכן. זה מסייע לצוותים להפוך מידע עסקי בטבלאות למסמכי נרטיב קריאים התומכים בשיתוף פעולה, ביקורת ופרסום במורד השרשרת.
+
+שימוש ב‑APIs של Python להמרת XLS ל‑DOC משפר את האוטומציה בתהליכי העבודה של מסמכים על ידי הפחתת מאמץ העיצוב הידני והאפשרות לייצר באופן חוזר מסמכי עסקים ממקורות גיליון במרחב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת דוחות**
+  המרת נתונים מבוססי גיליון לפריסות מסמך עבור סיכומים, דוחות פנימיים ותקשורת עסקית.
+
+* **עיצוב מחדש של תוכן**
+  המרת תוכן XLS בטבלאות למבני מסמך ידידותיים לפסקאות, לקריאה ועריכה קלה יותר.
+
+* **תהליכי תיעוד**
+  שימוש ברשומות גיליון כחומר מקור למסמכי תפעול, תזכירי תהליכים או קבצי ציות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמכים מתוזמנים**
+  יצירת קבצי DOC באופן אוטומטי מקלטי XLS חוזרים לתהליכי דיווח תקופתיים.
+
+* **המרת קבצים מבוססת זרימת עבודה**
+  הפעלת ההמרה כאשר קבצי גיליון נכנסים לצינור עיבוד מסמכים.
+
+* **פרסום תוכן דינמי**
+  שימוש ב‑APIs של Python כדי להמיר גיליונות מעודכנים למסמכים שניתנים לעריכה לצורך ביקורת והפצה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

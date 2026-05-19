@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF ל‑DIF ממיר מסמכי טקסט מעוצבים לפורמט חילופי נתונים שנועד להחלפת גיליונות ונתונים טבלאיים. זה שימושי כאשר ארגונים צריכים לשמר תוכן מובנה בפורמט תואם למערכות אנליטיות ופיננסיות ישנות.
+
+מפרספקטיבת האוטומציה, RTF ל‑DIF תומך בהמרה אמינה של מידע מבוסס מסמכים למערכי נתונים מובנים שיכולים לנוע בין דיווח, חשבונאות וזרימות עבודה של גיליונות עם מינימום טיפול ידני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **החלפת נתוני גיליון**  
+  ממיר את תוכן המסמך לפורמט התומך בהעברה בין מערכות טבלאיות תואמות.
+
+* **שילוב זרימת עבודה מדורגת**  
+  מסייע לסביבות אנליטיות ישנות לצרוך מידע שנשמר במקור במסמכי טקסט עשיר.
+
+* **הכנת רשומות מובנות**  
+  מאארגן טקסט שהוצא לתבניות מוכנות לנתונים לצורך סקירה, ייבוא או שימוש ארכיוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הזנות נתונים מדורגות אוטומטיות**  
+  שגרות המרה יכולות להפוך קבצי RTF נכנסים ל‑DIF עבור זרימות עבודה מבוססות גיליון ישן.
+
+* **הכנת נתונים פיננסיים חוזרת**  
+  צינורות אוטומטיים יכולים לתקן דוחות מבוססי טקסט לפורמטים נתונים המתאימים למערכות חשבונאיות.
+
+* **העברת נתונים בין‑מערכות**  
+  המרה תכנותית מסייעת לגשר בין מאגרי מסמכים לכלי ניתוח מובנים בתהליכים מתוזמנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑ODP ב‑APIs של Python ממירה תבניות טקסט של OpenDocument למסמכי מצגות, ומאפשרת למידע הכתוב לשמש מחדש לתקשורת מבוססת שקופיות והצגה חזותית מובנית. זה בעל ערך עבור הפיכת תוכן נרטיבי או דוח לחומר מוכן למצגת.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות לייצור חוזר של מצגות מתבניות, מה שמפחית הכנת שקופיות ידנית ומשפר עקביות בתהליכי דיווח ותקשורת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגות**  
+  הופכת תבניות מונעות טקסט למסמכי שקופיות שניתן לערוך.
+
+* **שימוש חוזר בתוכן**  
+  מממשת מחדש חומר מסמך לפגישות, תדריכים או סיכומים.
+
+* **פלט שקופיות בפורמט פתוח**  
+  תומכת בתהליכי מצגות המבוססים על תקני מסמכים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת חבילת שקופיות אוטומטית**  
+  מייצרת מצגות ODP מתוכן OTT חוזר.
+
+* **שילוב בתהליך דיווח**  
+  ממירה טקסט מובנה לשקופיות לעדכונים מתוזמנים.
+
+* **הצגת מצגות מונעת תבנית**  
+  מאחדת יצירת מצגות בין צוותים או תהליכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

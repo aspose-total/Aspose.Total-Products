@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑SXC ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי גיליון אלקטרוני המתאימים לתהליכי עבודה של OpenOffice ישנים. זה מועיל כאשר יש צורך להמיר את תוכן המסמך לפורמט טבלאי מובנה וניתן לעריכה עבור סביבות תואמות למורשת.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות לחילוץ תקני של מידע מהמסמך לתהליכי עבודה של גיליונות אלקטרוניים שעדיין תלויים בפורמטים המוכרים של OpenOffice.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תמיכה בגיליונות אלקטרוניים מדור קודם**  
+  יוצרת פלטי גיליון אלקטרוני תואמים לתהליכי עבודה של OpenOffice ישנים.
+
+* **ארגון נתוני מסמך**  
+  ממירה תוכן תבנית טקסטית לטבלאות ניתנות לעריכה.
+
+* **תאימות תפעולית**  
+  מסייעת לשלב את הנתונים שנוצרו עם מערכות האקוסיסטם של גיליונות אלקטרוניים מבוססות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא מדור קודם אוטומטי**  
+  מייצר קבצי SXC ממקורות OTT עבור תהליכי עבודה המונעים תאימות.
+
+* **המרת נתונים במאצור**  
+  ממירה קבצי תבנית רבים לפלטים טבלאיים מדור קודם ביעילות.
+
+* **שילוב המשכיות מערכת**  
+  תומכת בסביבות השומרות על שרשראות עיבוד גיליונות אלקטרוניים ישנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

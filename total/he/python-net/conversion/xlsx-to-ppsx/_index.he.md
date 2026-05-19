@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑PPSX ממירה תוכן גיליון אלקטרוני לקבצי מצגת מודרניים המיועדים להפעלה ישירה של מצגת. היא שימושית כאשר מידע מבוסס גיליון צריך להיות משותף כמצגת מלוטשת, מוכנה לפתיחה מיידית ללא צורך בגישה לעריכה.
+
+בסביבות אוטומטיות, המרת XLSX ל‑PPSX מסייעת לייעל את אספקת המצגות על‑ידי יצירת פלטים מוכנים למצגת ממקורות נתונים מובנים, משפרת מהירות, עקביות ושימושיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט מצגת ישיר**  
+  ממירה נתוני גיליון לקבצי מצגת שמופעלים במצב מצגת לשימוש מיידי.
+
+* **הפצת תדרוכת בעלי עניין**  
+  מסייעת להעביר מצגות מונעות נתונים בפורמט המותאם לצפייה ולא לעריכה.
+
+* **אספקת שקופיות מתוקננת**  
+  תומכת ביצירת מצגות עקבית לתקשורת עסקית מחזורית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום מצגות מתוזמן**  
+  מערכות יכולות באופן אוטומטי ליצור קבצי PPSX מדוחות גיליון תקופתיים.
+
+* **אוטומציית אספקת מצגות**  
+  המרה תומכת בצינורות שממירים תוכן גיליון לקבצי מצגת מוכנים.
+
+* **תקשורת חזותית ברמת נפח גבוהה**  
+  זרימות עבודה תכנותיות יכולות להרחיב יצירת מצגות על פני מחזורי דיווח מרובים או מחלקות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

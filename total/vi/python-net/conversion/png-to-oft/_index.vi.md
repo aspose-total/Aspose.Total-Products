@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PNG to OFT conversion enables image-based content to be transformed into reusable email template files, helping organizations standardize communication built around visual inputs. This is valuable when recurring messages need consistent structure while incorporating PNG-based graphics, notices, or image-driven information.
+
+Với các API Python, việc tạo OFT có thể được tự động hoá để hỗ trợ việc tạo mẫu ở quy mô lớn, cải thiện tính nhất quán trong các quy trình giao tiếp, và tối ưu hoá các hệ thống dựa vào định dạng giao tiếp có thể lặp lại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo mẫu email có thể tái sử dụng**  
+  Chuyển đổi nội dung PNG thành các mẫu dựa trên OFT cho các giao tiếp lặp lại.
+
+* **Tin nhắn hình ảnh chuẩn hoá**  
+  Giúp các nhóm xây dựng các định dạng email có thể lặp lại, bao gồm thông tin dựa trên hình ảnh.
+
+* **Thiết kế giao tiếp vận hành**  
+  Hỗ trợ các quy trình làm việc cần các mẫu có cấu trúc được tạo ra từ tài sản PNG.
+
+* **Tiếp cận dựa trên mẫu**  
+  Cho phép chuẩn bị các mẫu email có thông tin hình ảnh cho việc gửi hoặc chỉnh sửa trong tương lai.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động hoá" %}}
+
+* **Tạo mẫu động**  
+  Các API Python có thể tạo các mẫu OFT từ đầu vào PNG cho các hệ thống giao tiếp tự động.
+
+* **Chuẩn bị mẫu hàng loạt**  
+  Nhiều bố cục tin nhắn dựa trên PNG có thể được chuyển đổi thành tệp OFT cho các hoạt động quy mô lớn.
+
+* **Chuẩn hoá quy trình làm việc**  
+  Các hệ thống có thể tự động tạo ra các mẫu email hình ảnh nhất quán trên các phòng ban hoặc quy trình.
+
+* **Đường ống giao tiếp kích hoạt**  
+  Các ứng dụng có thể tạo mẫu OFT theo yêu cầu khi tài sản PNG mới được đưa vào quy trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

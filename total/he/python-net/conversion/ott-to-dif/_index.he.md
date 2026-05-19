@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑DIF ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לפורמט חילופי נתונים שנועד להעברת נתונים טבלאיים בין מערכות מדורגות למערכות תואמות גיליונות אלקטרוניים. זה בעל ערך כאשר תוכן מובנה חייב לעבור בין סביבות עם תמיכה רחבה בייבוא.
+
+ההמרה משפרת אוטומציה על‑ידי הפיכת הנתונים המופקים מתבניות לניידים בין מערכות המתבססות על פורמטים סטנדרטיים להחלפה, מה שמסייע להפחתת ארגון ידני ולשיפור תהליכים חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **החלפת נתונים מדורגת**  
+  תומך בסביבות שעדיין מסתמכות על פורמטים קלאסיים של החלפת טבלאות.
+
+* **הגירת גיליונות אלקטרוניים**  
+  מכין נתונים שמקורם במסמכים לייבוא לכלים אנליטיים תואמים.
+
+* **נרמול נתוני תבנית**  
+  מחלץ מידע מובנה מתבניות טקסט לפורמט ניתן להעברה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **גשר פורמט אוטומטי**  
+  מחבר תבניות מסמכים מודרניות עם מערכות דיווח ישנות.
+
+* **משימות המרה בכמות גדולה**  
+  ממיר קבוצות גדולות של קבצי OTT ל‑DIF ללא טיפול ידני.
+
+* **תאימות צינור עבודה**  
+  מאמת שלבי יצוא עבור זרימות עבודה הדורשות ערכות נתונים מוכנות להחלפה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

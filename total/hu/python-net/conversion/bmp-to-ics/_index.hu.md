@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál BMP-t hozzáadni ICS-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A BMP‑ről‑ICS konverzió lehetővé teszi, hogy a bitmap képeket naptáresemény‑fájlokba (ICS formátum) ágyazzuk be. Ez a megközelítés lehetővé teszi, hogy vizuális anyagok, például menetrendek, esemény‑banner vagy diagramok kísérjék a naptárbejegyzéseket.
+
+Automatizált rendszerekben a BMP‑fájlok ICS‑eseményekké alakítása segíti a vizuális információk integrálását az ütemezési munkafolyamatokba. Ez támogatja az automatikus esemény‑terjesztést, emlékeztetőket és az együttműködést a naptárplatformok között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Esemény bejelentés terjesztése**  
+  A naptármeghívók BMP képeket tartalmazhatnak, például eseményposztereket vagy diagramokat.
+
+* **Vizualizált ütemezési dokumentáció**  
+  A szervezetek vizuális hivatkozásokat csatolhatnak a tervezett eseményekhez.
+
+* **Naptár‑alapú kommunikáció**  
+  A csapatok eseményhez kapcsolódó grafikákat terjeszthetnek a naptárbejegyzésekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált naptáresemény‑generálás**  
+  A rendszerek beágyazott BMP vizuális elemekkel ellátott ICS fájlokat generálnak az automatizált ütemezéshez.
+
+* **Munkafolyamat‑alapú eseményértesítések**  
+  Az automatizált csővezetékek képalapú anyagokat alakítanak át naptáreseményekké.
+
+* **Programozott találkozómeghívók**  
+  Az alkalmazások dinamikusan hoznak létre vizuális hivatkozásokat tartalmazó ICS meghívókat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

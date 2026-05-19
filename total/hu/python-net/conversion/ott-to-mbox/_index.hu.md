@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni MBOX-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT-től MBOX-ig konverzió a Python API-kban átalakítja az OpenDocument szövegsablonokat postafiók-archívum formátummá, amely e‑mail‑szerű üzenetek gyűjteményének tárolására szolgál. Ez akkor hasznos, amikor a generált kommunikációkat csoportosítani, átvinni vagy postafiók‑kompatibilis struktúrában megőrizni kell.
+
+A konverzió támogatja az automatizálást azáltal, hogy a dokumentumalapú üzenetgenerálást közvetlenül az archiválási és migrációs folyamatokba irányítja, amelyek a skálázhatóság és szervezés érdekében postafiók‑stílusú tárolásra támaszkodnak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Postafiók‑archívum előkészítése**  
+  Üzenettartalmat állít elő, amely alkalmas csoportos e‑mail tárolásra.
+
+* **Kommunikációs nyilvántartás**  
+  Megőrzi a generált tartalmat egy hordozható postafiók formátumban.
+
+* **Tömeges üzenetcsomagolás**  
+  Segít több generált üzenetet szervezni átvitel vagy befogadás céljából.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált postafiók‑archívum generálás**  
+  Átalakítja a sablon‑alapú kommunikációkat MBOX konténerekbe.
+
+* **Migrációs munkafolyamat támogatás**  
+  Előkészíti a dokumentumból származó üzeneteket a postafiók importfolyamatokhoz.
+
+* **Kötegelt megőrzési folyamatok**  
+  Tárolja az ismétlődő generált üzeneteket megfelelőség vagy audit célokra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

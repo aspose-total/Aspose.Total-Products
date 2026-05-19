@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OFT sang DOCM bằng các API Python cho phép các mẫu email Outlook được chuyển thành tài liệu Word có macro cho các quy trình công việc tài liệu nâng cao. Điều này quan trọng khi nội dung đã chuyển đổi phải được kết hợp với logic tự động, các hành động được lập trình, hoặc hành vi tài liệu tùy chỉnh.
+
+Quá trình chuyển đổi này hỗ trợ các môi trường tập trung vào tự động hoá bằng cách liên kết nội dung email có thể tái sử dụng với các quy trình tài liệu có thể lập trình. Nó giúp các tổ chức chuẩn hoá các hoạt động dựa trên mẫu đồng thời nâng cao tính linh hoạt, khả năng lặp lại và kiểm soát quy trình công việc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tạo Tài Liệu Hỗ Trợ Macro**  
+  Chuyển đổi các mẫu OFT thành tệp DOCM cho các quy trình công việc yêu cầu logic tự động nhúng.
+
+* **Tái Sử Dụng Mẫu Nâng Cao**  
+  Tái sử dụng nội dung email trong các tài liệu hỗ trợ các hành động xử lý tùy chỉnh.
+
+* **Tài Liệu Kinh Doanh Có Cấu Trúc**  
+  Sử dụng đầu ra DOCM khi nội dung dựa trên email phải được đưa vào các hệ thống tài liệu động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Luồng Hành Động Tài Liệu Tự Động**  
+  Kết hợp nội dung mẫu đã chuyển đổi với các quy trình hỗ trợ macro cho các nhiệm vụ kinh doanh lặp đi lặp lại.
+
+* **Biến Đổi Mẫu Thành Quy Trình**  
+  Chuyển đổi các tệp OFT thành tài liệu DOCM tham gia vào việc xử lý tài liệu dựa trên quy tắc.
+
+* **Hỗ Trợ Báo Cáo Lập Trình**  
+  Tạo các tệp hỗ trợ macro từ mẫu email cho các quy trình tài liệu được điền dữ liệu hoặc kiểm soát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

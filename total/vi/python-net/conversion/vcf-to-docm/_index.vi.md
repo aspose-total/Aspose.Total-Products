@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi VCF sang DOCM biến dữ liệu thẻ liên hệ thành các tài liệu xử lý văn bản có macro, cho phép cung cấp nội dung có cấu trúc khi cần hành vi tài liệu nâng cao. Điều này hữu ích cho các tổ chức làm việc với quy trình tài liệu động và các đầu ra có thể chỉnh sửa.
+
+Trong các hệ thống tập trung vào tự động hoá, việc chuyển đổi VCF sang DOCM cho phép các API Python tạo ra các tài liệu dựa trên liên hệ phù hợp với các quy trình lập trình lớn hơn, đặc biệt khi logic tài liệu, định dạng có thể lặp lại hoặc các hành động tích hợp là một phần của hoạt động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tài liệu Liên hệ Động**  
+  Chuyển đổi các bản ghi VCF thành các tệp DOCM có thể chỉnh sửa cho các quy trình tài liệu nâng cao.
+
+* **Xử lý Nội bộ Có Cấu trúc**  
+  Chuẩn bị thông tin liên hệ trong các tài liệu có macro để sử dụng kinh doanh có kiểm soát.
+
+* **Tài liệu Có Thể Lập Trình**  
+  Hỗ trợ môi trường tài liệu nơi tự động hoá và nội dung có thể chỉnh sửa phải cùng tồn tại.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Tạo DOCM Tự Động**  
+  Tạo các tài liệu có macro từ các tệp liên hệ trong các hoạt động hàng loạt.
+
+* **Quy trình Tài liệu Dựa trên Quy tắc**  
+  Chuyển các tệp DOCM đã chuyển đổi vào các quy trình kinh doanh tự động với định dạng nhất quán.
+
+* **Đóng Gói Liên hệ Có Thể Mở Rộng**  
+  Đóng gói dữ liệu liên hệ một cách lập trình thành các đầu ra DOCM có thể tái sử dụng cho các quy trình doanh nghiệp.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

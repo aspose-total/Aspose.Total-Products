@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál OST-t hozzáadni MD-konverziós funk
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OST‑MD átalakítás a postafiók adatait Markdown formátumba konvertálja, könnyű, olvasható és hordozható szövegtartalmat hozva létre, amely alkalmas dokumentációs és tudásmenedzsment munkafolyamatokra. Különösen hasznos azoknak a csapatoknak, amelyek e‑mailből származó tartalmat szeretnének strukturált, egyszerű szövegformátumban, amely platformok között is jól működik.
+
+Az automatizálás előnyei erősek, mivel az OST‑MD átalakítás természetesen illeszkedik a tartalomcsővezetékekbe, fejlesztői munkafolyamatokba és dokumentációs rendszerekbe. A Python API‑k gyors, skálázható átalakítást tesznek lehetővé a postafiók-archívumokból Markdown fájlokba, indexelés, publikálás és újrahasználat céljából.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Könnyű dokumentáció**  
+  Az e‑mail tartalmat Markdown‑ra konvertálja egyszerű, strukturált szöveges nyilvántartásokhoz.
+
+* **Tudásbázis előkészítése**  
+  Segít a fontos postafiók‑információk újrahasználatában a belső dokumentációs rendszerekben.
+
+* **Fejlesztőbarát tartalomexport**  
+  Támogatja azokat a munkafolyamatokat, ahol a hordozható egyszerű szövegformátumok előnyben részesülnek.
+
+* **Verziókezelésű nyilvántartások**  
+  Az e‑mail‑alapú tartalmat könnyebben nyomon követhetővé és kezelhetővé teszi szövegalapú környezetekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Dokumentációs csővezeték automatizálása**  
+  Python‑szkriptek konvertálják az OST tartalmat Markdown‑ra a publikálási és indexelési munkafolyamatokhoz.
+
+* **Tartalomkinyerési munkafolyamatok**  
+  Automatizált rendszerek előkészítik a postafiók‑szöveget kereshető tárolók és strukturált jegyzetek számára.
+
+* **Hordozható archívum generálása**  
+  Programozott átalakítás újrahasználható szöveges eszközöket hoz létre a tárolt e‑mail adatokból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

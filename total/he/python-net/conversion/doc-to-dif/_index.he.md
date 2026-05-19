@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑DIF מאפשרת להעביר תוכן מבוסס Word לתוך פורמט חילופי נתונים המתאים להחלפת מידע מבוססת גיליונות אלקטרוניים ולסביבות עיבוד נתונים מדורגות. זה מסייע לארגונים לשמר ערכים מובנים כאשר נדרשת אינטרופראביליות עם מערכות ישנות.
+
+עם ממשקי API של Python, ניתן לאוטומט את המרת DOC ל‑DIF לייצוא נתונים חוזר, מה שמפחית מאמץ ידני ומשפר עקביות בתהליכי ארכיב, פיננסיים והמרת גיליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **החלפת גיליונות אלקטרוניים מדורגים**
+  המרת טבלאות מסמך ל‑DIF לתאימות עם כלי גיליונות אלקטרוניים ומערכות ישנות.
+
+* **ניידות נתונים מובנית**
+  העברת תוכן טבלאי מבוסס מסמך לפורמט המתאים לחילופי נתונים מבוקרים.
+
+* **המרת ארכיון**
+  שימור ערכים שהוצאו מהמסמכים בפורמט מובנה קל משקל לשימוש ארוך טווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **אינטגרציה של מערכת מדורגת**
+  המרה אוטומטית של תוכן DOC ל‑DIF עבור סביבות התלויות בתקני גיליונות אלקטרוניים ישנים.
+
+* **המרת טבלאות במאצ'**
+  עיבוד אוספים גדולים של דוחות וטפסים ל‑DIF ללא עבודה ידנית של העתקה והדבקה.
+
+* **צינורות הכנת נתונים**
+  השתמש בצעדים מתוכנתים של המרה כדי להפוך טבלאות מסמך לקבצים מובנים הניתנים לצריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to XLSM conversion in Python APIs transforms OpenDocument text templates into macro-enabled spreadsheets that support advanced workbook automation. This is valuable when converted content must be placed in spreadsheets that include reusable logic or scripted operations.
+
+The conversion improves automation by combining structured document content with macro-capable spreadsheet environments, enabling richer processing, validation, and reporting workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Створення робочих книг з підтримкою макросів**  
+  Створює електронні таблиці, придатні для розширених автоматизованих операцій.
+
+* **Динамічне оброблення даних**  
+  Підтримує робочі книги, які виходять за межі статичного зберігання та відображення.
+
+* **Повторне використання вмісту шаблону**  
+  Переносить інформацію, засновану на документах, у розширені формати електронних таблиць.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизоване створення розширених робочих книг**  
+  Створює файли XLSM з шаблонів OTT для повторного використання.
+
+* **Інтеграція логіки електронних таблиць**  
+  Підтримує робочі процеси, які поєднують конвертовані дані з вбудованою автоматизацією.
+
+* **Масштабована операційна звітність**  
+  Надає більш насичені результати робочих книг для бізнес-процесів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

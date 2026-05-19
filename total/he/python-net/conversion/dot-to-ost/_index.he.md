@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל-OST ממירה תבניות מסמכים לפורמט תיבת דואר בלתי מקוונת המיועד לתהליכי הודעות והכנה לארכיון. זה רלוונטי בתרחישים שבהם תוכן שמופק מתבניות משולב בתהליכי אחסון תקשורת בלתי מקוונת.
+
+עם ממשקי API של Python, ניתן לשלב המרה זו במערכות אוטומטיות שמכינות נכסי תקשורת מבוססי מסמכים לסנכרון תיבת דואר או טיפול בארכיון.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת דואר בלתי מקוונת**
+  המרת תוכן מבוסס DOT לתהליכים תואמי OST לעיבוד הקשור לתיבת דואר.
+
+* **תמיכה בארכיון וסינכרון**
+  שימוש בנתוני תקשורת שמופקים מתבניות בסביבות הדורשות מבני אחסון בלתי מקוונים.
+
+* **אריזת תהליך הודעות**
+  הכנת פלטים מובנים מתבניות מסמכים לפעולות ממוקדות בתיבת דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הכנת אחסון דואר אוטומטית**
+  סקריפטים ב-Python יכולים לתמוך בהמרה חוזרת של קבצי DOT לתהליכי דואר בלתי מקוונים.
+
+* **אינטגרציית דואר מונעת מסמכים**
+  ההמרה מסייעת לחבר מאגרי תבניות עם תהליכי תקשורת מסונכרנים.
+
+* **טיפול בנכסי דואר בכמות גדולה**
+  צינורות תכנותיים מפשטים הכנה ברמת נפח גבוהה של פלטים המיועדים לתיבת דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

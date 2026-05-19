@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi tài liệu sang SXC chuyển đổi nội dung Word thành định dạng bảng tính liên quan đến các quy trình làm việc của OpenOffice cũ, giúp hữu ích cho khả năng tương thích di truyền và việc trích xuất dữ liệu có cấu trúc. Nó hỗ trợ các tổ chức duy trì tính tương thích với các hệ sinh thái bảng tính trước đây.
+
+Bằng cách sử dụng API Python, việc chuyển đổi DOC sang SXC có thể được tự động hoá để giảm việc nhập lại thủ công và hỗ trợ các quy trình làm việc dữ liệu di truyền có thể lặp lại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tương thích Bảng tính Di truyền**
+  Chuyển đổi các bảng trong tài liệu sang SXC cho môi trường OpenOffice cũ.
+
+* **Bảo tồn Dữ liệu Có cấu trúc**
+  Giữ lại các giá trị dựa trên tài liệu trong định dạng bảng tính di truyền.
+
+* **Hỗ trợ Di chuyển**
+  Kết nối tài liệu Word với các hệ thống vẫn dựa vào các tiêu chuẩn bảng tính lịch sử.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Tự động hoá Quy trình Làm việc Di truyền**
+  Tự động tạo các tệp SXC từ nguồn DOC khi các công cụ cũ vẫn còn được sử dụng.
+
+* **Đường ống Chuyển đổi Hàng loạt**
+  Chuyển đổi nhiều tài liệu thành các tệp bảng tính có cấu trúc mà không cần thao tác thủ công.
+
+* **Công việc Tương thích Hệ thống**
+  Kết nối lập trình các nguồn tài liệu hiện đại với các quy trình làm việc bảng tính di truyền.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

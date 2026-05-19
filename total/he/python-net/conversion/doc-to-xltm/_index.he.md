@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑XLTM משנה את תוכן ה‑Word לתבניות גליון אלקטרוני עם מקרו, המתאימות ליצירת חוברות עבודה לשימוש חוזר עם התנהגות אוטומציה מתקדמת. היא בעלת ערך בסביבות תהליכים כבדים שבהן התבניות חייבות לתמוך ביותר ממבנה סטטי.
+
+ממשקי API של Python מסייעים לאוטומציה של המרת DOC ל‑XLTM, ומאפשרים ניהול תבניות בקנה מידה, עקביות בתהליכי עבודה, ותפעול גליון אלקטרוני מתקדם.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**
+  המרת תוכן המסמך לתבניות גליון אלקטרוני לשימוש חוזר עם תמיכה באוטומציה.
+
+* **אחידות תהליכים**
+  השתמש בפלט XLTM כאשר חוברות עבודה חוזרות דורשות גם מבנה וגם יכולות מתקדמות.
+
+* **שימוש חוזר בתבנית תפעולית**
+  הפוך מסמכים פורמליים למסגרות גליון אלקטרוני שניתנות לחזרה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **הפקת תבנית אוטומטית**
+  צור קבצי XLTM ממקורות DOC עבור זרימות עבודה מתקדמות בגליונות אלקטרוניים.
+
+* **צינורות חוברת עבודה לשימוש חוזר**
+  המרה תכנותית של מבני מסמכים לתבניות עם מקרו.
+
+* **ניהול גליון אלקטרוני ארגוני**
+  אחיד את יצירת התבניות בין צוותים באמצעות המרה מתוכנתת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

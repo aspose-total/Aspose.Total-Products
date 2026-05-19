@@ -102,7 +102,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑ICS ממירה את תוכן המסמך לנתונים תואמי‑לוח שנה, מה שהופך אותה לשימושית להפיכת לוחות זמנים, תיאורי אירועים או מידע מבוסס זמן לרשומות לוח שנה שניתן להשתמש בהן מחדש. זה בעל ערך כאשר מסמכי טקסט מכילים תאריכים, פגישות או קווי זמן מובנים.
+
+בסביבות אוטומטיות, המרת ODT ל‑ICS מאפשרת צינורות תזמון, פרסום אירועים וסנכרון לוחות שנה. ממשקי API של Python יכולים לחלץ תוכן מונע‑תאריך רלוונטי וליצור קבצי לוח שנה קריאים למכונה ביעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **חילוץ לוח זמנים**  
+  ממיר תאריכים ופרטי אירועים ממסמכים לנתונים מוכנים ללוח שנה.
+
+* **הפצת פגישות**  
+  מסייע לשתף מידע על אירועים בפורמט המתאים לכלי לוח שנה.
+
+* **דיגיטציה של קו זמן**  
+  ממיר לוחות זמנים כתובים לאובייקטים של לוח שנה שניתן לפעול עליהם.
+
+* **תמיכה בתהליך תכנון**  
+  הופך תוכן תכנון מבוסס מסמכים לקל יותר לשימוש חוזר תפעולי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת אירועים אוטומטית**  
+  סקריפטים של Python יכולים לזהות פרטי אירועים בקבצי ODT וליצור פלטי ICS.
+
+* **צינורות פרסום לוח שנה**  
+  עדכוני מסמכים יכולים להפעיל חידוש אוטומטי של קבצי לוחות זמנים משותפים.
+
+* **המרת לוחות זמנים במקבץ**  
+  מספר מסמכי תכנון יכולים להיות מומרי לנכסי לוח שנה בקנה מידה גדול.
+
+* **יצירת תזכורות לתהליך עבודה**  
+  חילוץ תכנותי יכול להזין תזכורות ומערכות תזמון באופן אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

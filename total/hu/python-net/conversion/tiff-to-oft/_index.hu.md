@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál TIFF-t hozzáadni OFT-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A TIFF‑ről OFT‑re konvertálás Python API‑k használatával segít átalakítani a képes dokumentumokat újrahasználható e‑mail sablonformátumokká, amelyek támogatják az ismételhető kommunikációs folyamatokat. Ez akkor értékes, amikor TIFF‑alapú tartalmakat vagy elrendezéseket strukturált sablonokká kell alakítani a konzisztens kimenő üzenetküldési munkafolyamatokhoz.
+
+Automatizálási környezetekben a TIFF‑ről OFT‑re konvertálás javítja a sablonok szabványosítását, csökkenti az ismétlődő tartalom előkészítését, és támogatja a skálázható kommunikációs tervezést. Különösen hasznos ismétlődő értesítésekhez, űrlap‑alapú megkeresésekhez és operatív üzenetküldési keretekhez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Újrahasználható üzenetsablonok**  
+  Átalakítja a TIFF‑ből származó tartalmat OFT fájlokká az ismételhető e‑mail összeállítási munkafolyamatokhoz.
+
+* **Szabványosított kommunikációs eszközök**  
+  Segít fenntartani a konzisztens formázást és struktúrát az ismétlődő üzenetfolyamatok során.
+
+* **Sablon‑alapú műveletek**  
+  Támogatja a képes dokumentumok strukturált kiindulópontokká alakítását a jövőbeni kommunikációkhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Ismétlődő értesítési munkafolyamatok**  
+  Automatizálja az OFT sablonok létrehozását TIFF forrásokból az ismétlődő operatív üzenetküldéshez.
+
+* **Űrlap‑alapú e‑mail előkészítés**  
+  Támogatja a vizuális űrlap tartalom átalakítását újrahasználható e‑mail sablonokká a strukturált megkereséshez.
+
+* **Sablon‑elosztási csővezetékek**  
+  Lehetővé teszi a dinamikus generálást és szállítást e‑mail sablon eszközöknek TIFF bemenetek alapján.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל-OST תומכת בהמרת תוכן מבוסס מסמכים לפורמטים שניתן להשתמש בהם בתהליכי עבודה של נתוני תיבת דואר לא מקוונת ובמערכות אחסון דוא"ל. היא רלוונטית בתרחישי מיגרציה או ארכיבציה מיוחדים שבהם מידע המסמך הופך לחלק מהתמודדות עם תוכן ממוקד תיבת דואר.
+
+ממשקי API של Python יכולים לסייע בהכנה ובמבנה של תוכן עבור אוטומציה הקשורה להמרת WordML ל-OST, ולשפר את החזרתיות בתהליכי הודעות ארגוניות ומיגרציה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **הכנת נתוני תיבת דואר**
+  משתמש בתוכן המסמך כקלט לאחסון דואר לא מקוון ולתהליכי מיגרציה.
+
+* **תמיכה בארכיון ארגוני**
+  מסייע ליישר תקשורת שמקורה במסמכים עם תהליכי שמירה ממוקדי תיבת דואר.
+
+* **אריזת תוכן מובנית**
+  תומך בהמרת טקסט מאושר להקשרים של אחסון ממוקד הודעות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות תמיכה במיגרציה**
+  מאפשר אוטומציה של הכנת תוכן WordML לתהליכי עיבוד תיבת דואר לא מקוונת.
+
+* **משימות קונסולידציית ארכיון**
+  משלב רשומות שמקורן במסמכים לתוך פעולות ארכיב רחבות יותר של דוא"ל.
+
+* **מבנה תוכן ארגוני**
+  מאפשר טיפול חוזר בתוכן מסמך מוכן להודעה בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

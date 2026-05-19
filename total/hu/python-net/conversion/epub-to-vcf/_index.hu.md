@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál EPUB-t hozzáadni VCF-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az EPUB‑ról VCF‑re konvertálás Pythonban lehetővé teszi, hogy a dokumentumtartalom kontakt‑orientált adatfájlokká alakuljon, ha a kiadvány anyagában címtár, profil vagy kapcsolati adatok szerepelnek. Ez hasznos olyan munkafolyamatok számára, amelyeknek strukturált személyazonosító információkat kell kinyerni és újrahasznosítani digitális kiadványokból.
+
+Az automatizációra fókuszáló rendszerekben az EPUB‑ról VCF‑re konvertálás javítja az adatok hordozhatóságát, csökkenti a kézi kapcsolati adatok bevitelét, és lehetővé teszi, hogy a Python‑alkalmazások a kiadványból származó kapcsolati információkat beépítsék a modern kommunikációs és szinkronizációs munkafolyamatokba.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Kapcsolati információk kinyerése**  
+  Az EPUB‑tartalom, amely személyeket vagy címtáradatokat tartalmaz, VCF‑fájlokká konvertálása kontakt‑alapú felhasználáshoz.
+
+* **Címtáradatok átalakítása**  
+  A strukturált kiadványinformációk újrahasznosítása hordozható kapcsolati rekordokká.
+
+* **CRM és címjegyzék támogatás**  
+  A VCF‑kimenet használata a releváns kapcsolati adatok áthelyezéséhez olyan rendszerekbe, amelyek a kommunikációs kapcsolatok kezelésével foglalkoznak.
+
+* **Profilalapú adatmegosztás**  
+  A kontakt‑orientált kiadványtartalom megosztása olyan formátumban, amely könnyen importálható és terjeszthető.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált kapcsolati generálás**  
+  A Python munkafolyamatok VCF‑fájlokat hozhatnak létre EPUB‑dokumentumokból, amelyek kapcsolati tartalmat tartalmaznak.
+
+* **Címtárszinkronizációs csővezetékek**  
+  Az automatizált rendszerek képesek kinyerni és konvertálni a kiadványalapú címtáradatokat hordozható kapcsolati rekordokká.
+
+* **Tömeges kapcsolati feldolgozás**  
+  Nagy mennyiségű, kapcsolatokban gazdag EPUB‑fájl programozottan átalakítható a hatékony újrahasználat érdekében.
+
+* **Dinamikus adatintegráció**  
+  Az EPUB‑ról VCF‑re konvertálás támogatja az automatizált munkafolyamatokat, amelyek a kapcsolati információkat kommunikációs platformokra továbbítják.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

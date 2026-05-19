@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM ל‑MOBI המרה בפייתון מאפשרת להפוך תבניות Excel עם מקרו לקבצים תואמי‑ספרים אלקטרוניים לקריאה דיגיטלית וגישה ניידת לתוכן. זה בעל ערך כאשר מידע מבוסס גיליון צריך להיות מופץ בפורמט ידידותי לקורא לשיתוף ידע או צריכה ניידת.
+
+במסגרות עבודה של אוטומציה, המרת XLTM ל‑MOBI מרחיבה את אפשרויות אספקת התוכן, תומכת בצינוריות פרסום דיגיטלי, ועוזרת לשימוש חוזר בנתונים מובנים לתוצרים ארוכים נגישים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת תוכן ספר אלקטרוני**  
+  ממירה תוכן תבנית גיליון אלקטרוני מובנה לפורמט נייד המתאים למכשירי קריאה דיגיטליים.
+
+* **הפצת ידע**  
+  תומכת במתן חומר מבוסס חוברת בפורמט שנועד להנגשה רחבה יותר של קריאה.
+
+* **שימוש חוזר בתוכן לגישה ניידת**  
+  מאפשרת לשתף מידע שמקורו בגיליון אלקטרוני בפורמט קריאה קל משקל ונייד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום דיגיטלי אוטומטי**  
+  מייצר קבצי MOBI ממקורות XLTM עבור זרימות עבודה של פרסום תוכן חוזר.
+
+* **מסירת תיעוד נייד**  
+  תומכת בהמרה אוטומטית של נתוני תבנית מובנית לנכסי קריאה מותאמים למובייל.
+
+* **יצירת ספרים אלקטרוניים במקבץ**  
+  מאפשרת יצירה בקנה מידה גדול של קבצי קריאה דיגיטליים ממאגרי תוכן מונעי גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

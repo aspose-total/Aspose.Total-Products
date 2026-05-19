@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Quá trình chuyển đổi DOCM sang MSG chuyển các tài liệu có macro thành các tệp tin email riêng lẻ, phù hợp cho việc lưu trữ và trao đổi dựa trên tin nhắn. Nó hữu ích khi nội dung tài liệu cần được bảo tồn dưới dạng một tài liệu email có cấu trúc cho mục đích giao tiếp, đánh giá hoặc lưu trữ.
+
+Trong tự động hoá, các quy trình DOCM sang MSG tối ưu hoá việc tạo, lưu trữ và chuyển giao tin nhắn trong các hệ thống dựa vào các mục thư riêng lẻ để xử lý quy trình.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Đóng Gói Tin Nhắn Đơn**
+  Tạo các tệp tin tin nhắn độc lập từ nội dung tài liệu để hỗ trợ quy trình giao tiếp có tổ chức.
+
+* **Lưu Trữ và Đánh Giá**
+  Bảo tồn thư từ xuất phát từ tài liệu dưới dạng tin nhắn có cấu trúc.
+
+* **Tương Thích Hệ Thống Thư**
+  Hỗ trợ các môi trường xử lý hoặc lưu trữ giao tiếp dưới dạng các đối tượng tin nhắn riêng lẻ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Tạo Tập Tin Tin Nhắn Tự Động**
+  Tạo ra các tệp MSG trực tiếp từ tài liệu DOCM như một phần của quy trình lặp lại.
+
+* **Lưu Trữ Dựa Trên Quy Trình**
+  Chuyển các tệp tin tin nhắn đã chuyển đổi vào các hệ thống tuân thủ, kiểm toán hoặc lưu trữ.
+
+* **Xử Lý Hàng Loạt Có Thể Mở Rộng**
+  Chuyển đổi hàng loạt các tệp DOCM thành các tài liệu tin nhắn một cách lập trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

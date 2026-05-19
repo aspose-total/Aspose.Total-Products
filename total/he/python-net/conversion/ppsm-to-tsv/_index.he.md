@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPSM ל-TSV בפייתון מאפשרת חילוץ של תוכן מצגת לפורמט טקסט פשוט מופרד בטאבים, המתאים לטיפול במבני נתונים מובנים ולתפעוליות מערכת. זה בעל ערך כאשר יש צורך לייצא מידע מבוסס שקופיות לרשומות פשוטות המופרדות במפרידים, לצורך חילופי נתונים או עיבוד.
+
+לצורך אוטומציה, המרת PPSM ל-TSV תומכת בניתוח יעיל, קבלה בקנה מידה, ושילוב חלק עם זרימות עבודה של נתונים התלויות בפורמטים טבלאיים קלים ובמעמס עיצוב מינימלי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא נתונים מופרד**  
+  ממיר את תוכן המצגת לפורמט מובנה פשוט לניתוח והעברה.
+
+* **תמיכה בהחלפת מערכות**  
+  מסייע להעביר מידע שמקורו בשקופיות בין יישומים המתבססים על פורמטים טבלאיים בטקסט פשוט.
+
+* **הכנת ניקוי נתונים**  
+  הופך את תוכן המצגת לקל יותר לנרמול ולאימות בתהליכי עבודה מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **קלט צינור נתונים אוטומטי**  
+  זרימות עבודה בפייתון יכולות לייצר קבצי TSV לצורך קבלה על ידי מערכות וסקריפטים במורד הצינור.
+
+* **חילוץ תוכן במאצ'**  
+  המרה מאפשרת עיבוד חוזר של קבצי PPSM מרובים לפלטי טקסט מובנים.
+
+* **זרימות אינטגרציה קלות**  
+  המרה תכנותית תומכת בחילוף מהיר בין מקורות מצגות לכלי עיבוד טבלאיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

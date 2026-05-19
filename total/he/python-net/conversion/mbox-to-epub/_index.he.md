@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑EPUB ממירה ארכיוני תיבת דואר לקבצי פרסום דיגיטלי נמתחים, מה שמקל על הפצת תוכן האימייל, קריאתו ושימורו בסביבות תואמות קוראי‑ספרים אלקטרוניים. זה בעל ערך כאשר יש צורך להציג תקשורת משומרת כתוכן דיגיטלי ארוך ומאורגן.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את ההמרה כדי לבנות פרסומים ניידים מנתוני תיבת הדואר, לשפר את נגישות התוכן ולתמוך בתהליכי הפצה דיגיטליים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת פרסום דיגיטלי**
+  המרת ארכיוני אימייל לקבצי EPUB לחוויות קריאה מובנות וניידות.
+
+* **אריזת תוכן ארוך**
+  שילוב תוכן תיבת הדואר בפורמטים דיגיטליים מוכנים לפרסום לשימוש כהפניה או הפצה.
+
+* **הפצת ארכיון נגיש**
+  הצגת אוספי הודעות בפורמט ידידותי לקורא המתאים למגוון מכשירים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ספר אלקטרוני אוטומטית**
+  המרת תוכן תיבת הדואר לפרסומי EPUB באמצעות זרימות עבודה חוזרות של Python.
+
+* **הפצת ידע ניידת**
+  ייצוא ארכיוני אימייל מסודרים לחבילות קריאה דיגיטליות לשיתוף פנימי.
+
+* **פרסום תוכן מובנה**
+  שילוב המרת תיבת דואר ל‑EPUB בתהליכי פרסום וארכיבציה אוטומטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

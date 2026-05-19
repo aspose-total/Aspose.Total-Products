@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑ICS משנה תבניות Word עם מקרו לקבצים תואמי‑לוח שנה המייצגים אירועים, לוחות זמנים או תזכורות בפורמט סטנדרטי. זה שימושי כאשר תבניות מסמכים מכילות מידע דומה לפגישות שיש לשתף בין מערכות תזמון.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑ICS משפר את האוטומציה על‑ידי אפשרות ליצירת רשומות לוח שנה ישירות ממסמכי תבנית. זה מצמצם את המאמץ הידני בתזמון, תומך ביצירת אירועים מונעי‑תהליך, ועוזר לשלב זרימות עבודה של מסמכים עם פלטפורמות לוח שנה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ לוח זמנים**
+  המרת פרטי אירוע מקבצי DOTM ל‑ICS לצורך ייבוא ושיתוף בלוח השנה.
+
+* **שימוש חוזר בתבנית פגישה**
+  המרדת סדרי יום או הודעות מבוססי מסמך לרשומות לוח שנה מובנות.
+
+* **תזמון חוצת פלטפורמות**
+  יצירת פורמט לוח שנה סטנדרטי הפועל במגוון רחב של כלי תזמון וסביבות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קובץ לוח שנה אוטומטית**
+  זרימות עבודה יכולות לחלץ תאריכים ופרטי פגישות מתבניות DOTM וליצור קבצי ICS באופן אוטומטי.
+
+* **הפצת אירועים מונעת‑תהליך**
+  ההמרה מאפשרת למערכות לפרסם מידע תזמון ישירות מתוכן המסמך.
+
+* **פעולות תזמון באצווה**
+  עיבוד תכנותי תומך ביצירת קבצי לוח שנה בקנה מידה גדול מתבניות חוזרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni ICS-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑ról‑ICS konverzió a Python API‑kban OpenDocument szövegsablonokat alakít át naptáradat‑fájlokká, amelyeket ütemezésre és eseménycserére használnak. Ez akkor hasznos, amikor a dokumentum tartalma találkozókat, határidőket vagy strukturált, dátum‑alapú információkat tartalmaz, amelyeket naptárkész állapotba kell hozni.
+
+Ez a konverzió automatizálásbarát, mivel lehetővé teszi az eseményinformációk sablonokból történő előállítását és azok beillesztését ütemezési munkafolyamatokba, emlékeztetőkbe és szinkronizációs folyamatokba manuális naptárbejegyzés nélkül.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Eseményfájl létrehozása**  
+  Átalakítja az ütemezéssel kapcsolatos dokumentumtartalmat naptár‑kompatibilis fájlokká.
+
+* **Határidő‑elosztás**  
+  Megosztja a fontos dátumokat és mérföldköveket egy szabványos naptárformátumban.
+
+* **Tervezési munkafolyamat támogatása**  
+  Átalakítja a strukturált eseményadatokat hordozható ütemezési eszközökké.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált naptárgenerálás**  
+  ICS fájlokat hoz létre ismétlődő OTT‑alapú eseménysablonokból.
+
+* **Emlékeztető munkafolyamat integrációja**  
+  A generált eseményeket olyan rendszerekbe táplálja, amelyek értesítéseket indítanak.
+
+* **Ütemezés szinkronizációja**  
+  Támogatja a naptáradatok programozott megosztását csapatok vagy eszközök között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

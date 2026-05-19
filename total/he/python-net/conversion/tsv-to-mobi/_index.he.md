@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑MOBI משנה נתונים טבלאיים מובנים לפורמט מוכן לספר אלקטרוני התומך בקריאה דיגיטלית ובהפצת תוכן נייד. זה שימושי כאשר מידע מבוסס TSV צריך להיות ממושמע לתוכן ארוך קריא למטרות העברת ידע או אריזת תיעוד.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת TSV ל‑MOBI כדי לייעל תהליכי פרסום דיגיטלי, ולהפוך את ההמרה של נתונים גולמיים לחוויות קריאה ניידות בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פרסום ידע נייד**  
+  ממיר נתונים מובנים לתוכן תואם ספר אלקטרוני להפצה.
+
+* **חומרי ייחוס קריאים**  
+  מסייע להצגת מידע טבלאי בפורמט קריאה נגיש יותר.
+
+* **אריזת תוכן דיגיטלי**  
+  תומך בממושמע נתוני TSV לנכסי תיעוד להורדה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת ספר אלקטרוני אוטומטית**  
+  API‑ים של Python יכולים להמיר קלטי TSV חוזרים לקבצי MOBI לצורך אספקה דיגיטלית.
+
+* **צינורות ממושמע תוכן**  
+  אוטומציה מסייעת להפוך נתוני backend לפלטי פרסום ידידותיים לקורא.
+
+* **תהליכי פרסום בכמות**  
+  ניתן להמיר באופן תכנותי מספר ערכות נתוני TSV לפורמט MOBI ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

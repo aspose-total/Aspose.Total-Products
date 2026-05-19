@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tài liệu sang MBOX chuyển đổi nội dung Word thành định dạng lưu trữ tương thích với hộp thư, có thể nhóm các đầu ra dạng tin nhắn để lưu trữ hoặc di chuyển. Nó hữu ích khi nội dung tài liệu cần được bảo tồn hoặc chuyển giao trong quy trình lưu trữ email.
+
+Với các API Python, việc chuyển đổi DOC sang MBOX có thể được tự động hoá cho các hoạt động lưu trữ quy mô lớn, cải thiện tính lặp lại và hỗ trợ các hệ thống làm việc với các container dựa trên hộp thư.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo lưu trữ hộp thư**
+  Chuyển đổi các tin nhắn xuất phát từ tài liệu sang MBOX để lưu trữ dạng email nhóm.
+
+* **Chuẩn bị di chuyển**
+  Sử dụng đầu ra MBOX khi tài liệu phải vào quy trình lưu trữ email hoặc chuyển giao.
+
+* **Bảo tồn giao tiếp**
+  Lưu trữ nội dung tài liệu đã chuyển đổi trong định dạng hợp nhất, thân thiện với hộp thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tự động đóng gói lưu trữ**
+  Tự động tạo đầu ra MBOX từ nội dung DOC cho mục đích tuân thủ hoặc di chuyển.
+
+* **Chuyển đổi hàng loạt container thư**
+  Chuyển đổi nhiều tài liệu thành các lưu trữ hộp thư với tối thiểu công sức thủ công.
+
+* **Kết nối quy trình công việc tài liệu‑đến‑thư**
+  Chuẩn bị nội dung dựa trên tài liệu một cách lập trình cho hệ sinh thái lưu trữ email.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

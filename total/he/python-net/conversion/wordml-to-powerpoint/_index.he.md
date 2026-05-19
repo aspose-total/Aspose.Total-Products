@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML ל‑PowerPoint ממירה את תוכן המסמך לפורמטים של מצגות מבוססות שקופיות לתקשורת חזותית, הדרכה, דיווח והעברת מידע לבעלי עניין. היא חשובה כאשר חומר עשיר בטקסט צריך להיות מותאם לתוכן תמציתי וידידותי למצגות.
+
+ממשקי API של Python תומכים בהמרת WordML ל‑PowerPoint על‑ידי בניית שקופיות תכנותית, שימוש חוזר בחלקי המסמך, והאצת תהליכי עבודה של מסמך‑למצגת בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **המרת דוח לשקופיות**
+  ממירה מסמכי WordML לתוכן מוכן למצגת לתקשורת חזותית.
+
+* **יצירת חומרי הדרכה**
+  ממירה נהלים או מדריכים כתובים לחבילות שקופיות מובנות.
+
+* **הכנת מצגות לבעלי עניין**
+  עוזרת לשנות את תוכן המסמך לתמציות מצגות קצרות וניתנות לשיתוף.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת שקופיות אוטומטית**
+  יוצרת קבצי מצגות מדוחות, סיכומים או תיעוד חוזרים.
+
+* **תהליכי סיכום תוכן**
+  תומכת בהמרה תכנותית של תוכן מסמך ארוך לשקופיות.
+
+* **פרסום מצגות בקנה מידה**
+  מאפשרת ייצור בכמות גבוהה של נכסי מצגות ממאגרי מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

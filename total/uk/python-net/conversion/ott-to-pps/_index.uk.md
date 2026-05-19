@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PPS conversion in Python APIs converts OpenDocument text templates into presentation show files designed for direct display and delivery. This is valuable when content must be shared as a ready-to-run slideshow instead of a standard editable presentation.
+
+The conversion supports automation by enabling document-driven creation of presentation shows for kiosks, briefings, and distribution scenarios where immediate playback and consistent formatting are important.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Доставка слайд-шоу**  
+  Створює готові до показу файли презентацій з текстових шаблонів.
+
+* **Контрольований вихід презентації**  
+  Підтримує безпосереднє відтворення замість повних процесів редагування.
+
+* **Пакування візуальної комунікації**  
+  Перетворює вміст документу у ресурси для презентаційного шоу.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизована публікація слайд-шоу**  
+  Генерує PPS‑файли для повторюваних презентацій або оголошень.
+
+* **Інтеграція робочого процесу відображення**  
+  Підтримує безнаглядові або прямі запускові середовища презентацій.
+
+* **Масове створення брифінгів**  
+  Ефективно перетворює кілька OTT‑файлів у готові до показу результати.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

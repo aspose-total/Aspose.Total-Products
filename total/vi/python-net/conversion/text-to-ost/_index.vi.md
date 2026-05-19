@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi văn bản sang OST bằng các API Python đề cập đến việc biến nội dung văn bản thuần thành dữ liệu phù hợp cho các quy trình lưu trữ kiểu hộp thư ngoại tuyến. Điều này có liên quan trong các kịch bản môi trường giao tiếp đồng bộ, chuẩn bị lưu trữ, hoặc các bộ dữ liệu tin nhắn do hệ thống tạo ra nhằm truy cập hộp thư có cấu trúc.
+
+Trong bối cảnh tự động hoá, quá trình chuyển đổi này giúp chuẩn bị dữ liệu giao tiếp xuất phát từ văn bản cho các mô hình lưu trữ có tổ chức, hỗ trợ xử lý quy mô lớn, duy trì hoạt động liên tục và tích hợp với các hệ sinh thái tin nhắn được quản lý.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Chuẩn bị dữ liệu thư ngoại tuyến**  
+  Chuyển đổi nội dung văn bản thành các dạng có cấu trúc phù hợp cho các quy trình hộp thư ngoại tuyến.
+
+* **Hỗ trợ lưu trữ tin nhắn**  
+  Giúp tổ chức dữ liệu giao tiếp cho các hệ thống được thiết kế dựa trên truy cập hộp thư đồng bộ.
+
+* **Cấu trúc dữ liệu lưu trữ**  
+  Hỗ trợ chuẩn bị các bản ghi xuất phát từ văn bản cho môi trường lưu trữ được quản lý.
+
+* **Xử lý giao tiếp doanh nghiệp**  
+  Cho phép xử lý quy mô lớn nội dung văn bản thành các định dạng hướng tới hộp thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động" %}}
+
+* **Tạo dữ liệu hộp thư**  
+  Tự động hoá có thể cấu trúc dữ liệu giao tiếp dựa trên văn bản cho các quy trình truy cập ngoại tuyến.
+
+* **Đường ống xử lý hàng loạt**  
+  Các bộ dữ liệu văn bản lớn có thể được chuẩn bị một cách lập trình cho các hoạt động lưu trữ kiểu hộp thư.
+
+* **Hệ thống duy trì hoạt động liên tục**  
+  Quá trình chuyển đổi tự động hỗ trợ việc xử lý nhất quán các bản ghi giao tiếp trên các môi trường được quản lý.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

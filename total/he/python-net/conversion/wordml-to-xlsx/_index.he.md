@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑XLSX ממירה תוכן מובנה מבוסס מסמך לקבצי גיליון אלקטרוני מודרניים המשמשים נרחבות לניתוח, דיווח ושיתוף נתונים. היא בעלת ערך מיוחד כאשר טבלאות המסמך צריכות להפוך לעריכות, מוכנות לנוסחאות ולנתונים ניתנים לשילוב בגיליון עבודה.
+
+ממשקי ה‑API של Python מאפשרים המרת WordML ל‑XLSX בקנה מידה על‑ידי חילוץ תוכן מדויק ושילוב שינוי המסמך לגיליון אלקטרוני בצינורות אוטומטיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא גיליון אלקטרוני מודרני**
+  ממיר טבלאות WordML לקבצי XLSX לעריכה, ניתוח ודיווח.
+
+* **הכנת נתוני עסק**
+  הופך תוכן מסמך מובנה למתאים לתהליכי עבודה תפעוליים וניתוחיים.
+
+* **החלפת נתונים בין‑מערכות**
+  תומך בתנועה אמינה של נתוני מסמך לפלטפורמות מבוססות גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת חוברות עבודה במרוכז**
+  ממיר באופן אוטומטי מסמכי WordML לקבצי XLSX לתהליכי עבודה בקנה מידה גדול.
+
+* **אוטומציית דיווח וניתוח**
+  מזין פלטי גיליון אלקטרוני מומרות ללוחות מחוונים ותהליכי ביקורת.
+
+* **צינורות חילוץ נתונים**
+  מאמת טבלאות מסמך לצורת חוברת עבודה עבור אוטומציה בתהליכים הבאים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

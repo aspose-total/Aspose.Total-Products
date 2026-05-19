@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑ICS משנה פרטי אירוע שמקורם במסמך לקבצי לוח שנה שניתן לייבא למערכות תזמון ולמתכננים דיגיטליים. זהו ערך לתהליכי עבודה שבהם מידע על פגישות, מועדים או תורים נובע ממסמכי Word.
+
+שימוש ב‑APIs של Python לאוטומציה של המרת DOC ל‑ICS משפר את יעילות התזמון, מצמצם שגיאות הקלדה ידניות, ותומך באינטגרציה חלקה בין מאגרי מסמכים לתהליכי עבודה מונחי לוח שנה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תזמון אירועים**
+  חילוץ תאריכים ופרטי אירוע מהמסמכים והמרתם לרשומות לוח שנה.
+
+* **הפצת פגישות**
+  המרת מסמכי סדר יום או הזמנה לקבצי ICS שניתן לייבא עבור המשתתפים.
+
+* **ניהול מועדים**
+  המרת תוכן מסמכי הקשורים ללוח זמנים לפריטי לוח שנה למעקב ותזכורות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קובץ לוח שנה**
+  יצירת קבצי ICS באופן אוטומטי משגרות, הודעות או תוכניות מבוססות DOC.
+
+* **אוטומציה של תזכורות בתהליכי עבודה**
+  המרת מועדי מסמכים לאירועי לוח שנה לתיאום צוות ומעקב.
+
+* **אינטגרציה ממערכת ללוח שנה**
+  ניתוב תאריכים מחולצים מהמסמכים לתוך מערכות תזמון באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

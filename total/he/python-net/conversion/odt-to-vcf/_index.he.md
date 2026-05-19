@@ -102,7 +102,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑VCF ממירה מידע ליצירת קשר או פרופיל מבוסס מסמך לפורמט כרטיס קשר סטנדרטי המתאים לפנקסי כתובות ולמערכות ניהול קשרים. זה שימושי כאשר מסמכים מכילים פרטי קשר אישיים או ארגוניים מובנים.
+
+ממשקי API של Python מאפשרים המרת ODT ל‑VCF בתהליכי חילוץ, הגירה וסינכרון של קשרים באופן אוטומטי. זה מסייע לארגונים להפוך רשומות טקסט סטטיות לנתוני קשר ניתנים לשימוש חוזר עם מהירות ודיוק גבוהים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ מידע קשר**  
+  ממיר שמות, מספרים וכתובות ממסמכים לכרטיסי קשר.
+
+* **תמיכה במעבר ספרייה**  
+  מסייע להעביר נתוני קשר ממסמכי טקסט לפנקסי כתובות מובנים.
+
+* **אחידות פרופילים**  
+  הופך רשימות קשר בלתי פורמליות לרשומות קשר דיגיטליות ניתנות לשימוש חוזר.
+
+* **הכנה למערכת CRM**  
+  תומך בייבוא נקי של נתוני קשר למערכות עסקיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ניתוח קשר אוטומטי**  
+  סקריפטים ב‑Python יכולים לזהות שדות קשר בקבצי ODT וליצור פלטי VCF.
+
+* **המרת ספרייה גורפת**  
+  רשימות קשר גדולות יכולות להיות מומרות לכרטיסים ניתנים לשימוש חוזר בעבודות אצווה.
+
+* **תהליכי סינכרון**  
+  קשרים מומרצים יכולים להזין צינורות ייבוא לפנקסי כתובות ולמערכות קשורות.
+
+* **הכנה להעשרת נתונים**  
+  פלטי VCF מובנים יכולים לתמוך בתהליכי אימות ואינטגרציה במערכות המשך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

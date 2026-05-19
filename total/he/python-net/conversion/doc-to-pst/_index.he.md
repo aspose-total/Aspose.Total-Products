@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמכים ל‑PST ממירה תוכן הודעות שמקורו ב‑Word לפורמט אחסון אישי המשמש בדרך כלל לניהול תיבות דואר בקנה מידה גדול ולתרחישי ארכיון. היא שימושית כאשר יש לשלב את תוכן המסמך בתהליכי אחסון אימייל רחבים יותר.
+
+ממשקי ה‑API של Python הופכים את המרת DOC ל‑PST ליעילה יותר עבור משימות שמירת נתונים ארגוניות, הגירה וארכיון, ומסייעים לתקנון תהליכי אחסון מסמכים למייל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **איחוד ארכיון תיבת דואר**
+  המרת תוכן תקשורת שמקורו במסמך ל‑PST לצורך אחסון והעברה.
+
+* **תהליכי הגירה**
+  הכנת נכסי הודעות מבוססי מסמך לתרחישי הגירת דואר ארגוניים.
+
+* **תמיכה בשמירה**
+  שמירת תוכן מובנה בפורמט אחסון אישי לתיבת דואר המשמש נרחבות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה של קבצי ארכיון**
+  יצירת תוכן PST באופן תכנותי ממקורות הודעות מבוססי DOC.
+
+* **אריזת נתוני דואר בכמות גדולה**
+  המרת נפחים גבוהים של תוכן שמקורו במסמך למכולות אחסון של תיבות דואר.
+
+* **עיבוד ממוקד ציות**
+  שימוש במרת אוטומטית לתמיכה בתהליכי שמירה מבוקרת וארכיון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

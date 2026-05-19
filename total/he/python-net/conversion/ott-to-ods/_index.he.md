@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל-ODS ב-APIs של פייתון ממירה תבניות טקסט של OpenDocument למסמכי גיליון אלקטרוני, מסייעת להמרת חומר מקור טקסטואלי לנכסים טבלאיים מובנים לחישוב, ביקורת והחלפה. זה שימושי כאשר תוכן המסמך צריך להפוך לנתוני גיליון אלקטרוני ניתנים לעריכה.
+
+המרה זו משפרת את האוטומציה על ידי חיבור יצירת תוכן מבוססת תבניות עם זרימות עבודה של גיליונות אלקטרוניים, מאפשרת דיווח, עיבוד ושימוש חוזר בקנה מידה רחב במערכות התלויות בנתונים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת גיליון אלקטרוני**  
+  ממירה תוכן תבנית למסמכי גיליון אלקטרוני פתוחים ניתנים לעריכה.
+
+* **הכנת נתונים טבלאיים**  
+  מאורגנת מידע המסמך למיון, סינון וניתוח.
+
+* **תאימות זרימת עבודה פתוחה**  
+  תומכת בסביבות שנבנו על תקני מסמכי משרד פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא חוזר של גיליונות אלקטרוניים**  
+  מייצרת קבצי ODS מתבניות OTT לפי דרישה או בתזמון.
+
+* **צינורות מסמך-ל-נתונים**  
+  מזינה תוכן מומר לזרימות עיבוד מבוססות גיליון אלקטרוני.
+
+* **דיווח תפעולי אוטומטי**  
+  מייצרת פלטי חוברת עבודה עקביים ממקורות טקסט סטנדרטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

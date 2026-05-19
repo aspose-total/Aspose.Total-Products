@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל-ICS ממירה מידע מסמכים לנתונים תואמי לוח שנה שיכולים לתמוך בתזמון, תזכורות, ובזרימות עבודה מבוססות אירועים. זה בעל ערך כאשר פרטי פגישות, לוחות זמנים, או פריטי סדר יום המאוחסנים במסמכים צריכים להיות מומרי לרשומות לוח שנה.
+
+באמצעות API של Python, ניתן לאוטומט את המרת WordML ל-ICS כדי לחלץ מידע על אירועים וליצור קבצי לוח שנה ניתנים לשימוש חוזר עבור מערכות תזמון ואוטומציה של תהליכים מבוססי זמן.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **חילוץ אירועים**
+  ממיר תוכן הקשור ללוח זמנים מקבצי WordML לנתוני ICS מוכנים ללוח שנה.
+
+* **תמיכה בתהליך פגישות**
+  ממיר סדרי יום או מסמכי תכנון לרשומות אירוע שניתן לייבא.
+
+* **תאימות לוח שנה**
+  מאפשר לתוכן המסמך לעבור לפלטפורמות תזמון באמצעות פורמט סטנדרטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת קובץ לוח שנה אוטומטית**
+  יוצר קבצי ICS ממסמכי פגישה או אירוע ב-WordML בזרימות עבודה חוזרות.
+
+* **סנכרון לוח זמנים**
+  משלב פרטי אירוע מבוססי מסמך לתהליכי ייבוא לוח שנה.
+
+* **אוטומציית תזכורות ותכנון**
+  תומך ביצירת רשומות מוגבלות בזמן באופן תכנותי מתוכן מסמך מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

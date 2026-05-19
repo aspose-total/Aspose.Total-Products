@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi MBOX sang EPUB chuyển các kho lưu trữ hộp thư thành các tệp xuất bản kỹ thuật số có thể tái định dạng, giúp nội dung email dễ dàng phân phối, đọc và bảo tồn trên các môi trường tương thích với máy đọc điện tử. Điều này có giá trị khi các giao tiếp đã lưu trữ cần được trình bày dưới dạng nội dung kỹ thuật số dài có tổ chức.
+
+Với các API Python, quá trình chuyển đổi này có thể được tự động hoá để tạo ra các ấn phẩm di động từ dữ liệu hộp thư, cải thiện khả năng tiếp cận nội dung và hỗ trợ các quy trình làm việc phân phối kỹ thuật số có cấu trúc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo ấn phẩm kỹ thuật số**
+  Chuyển đổi các kho lưu trữ email thành các tệp EPUB để có trải nghiệm đọc có cấu trúc và di động.
+
+* **Đóng gói nội dung dạng dài**
+  Kết hợp nội dung hộp thư thành các định dạng kỹ thuật số sẵn sàng xuất bản để tham khảo hoặc phân phối.
+
+* **Cung cấp lưu trữ dễ tiếp cận**
+  Trình bày các bộ sưu tập tin nhắn trong định dạng thân thiện với người đọc, phù hợp với nhiều thiết bị.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tạo eBook tự động**
+  Chuyển đổi nội dung hộp thư thành các ấn phẩm EPUB thông qua các quy trình làm việc Python có thể lặp lại.
+
+* **Phân phối kiến thức di động**
+  Xuất các kho lưu trữ email đã được chọn lọc thành các gói đọc kỹ thuật số để chia sẻ nội bộ.
+
+* **Xuất bản nội dung có cấu trúc**
+  Tích hợp quá trình chuyển đổi hộp thư sang EPUB vào các quy trình tự động xuất bản và lưu trữ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

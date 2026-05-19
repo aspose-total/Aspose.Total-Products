@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑PCL ממירה ארכיוני תיבות דואר לשפת פקודות מדפסת, מה שהופך את תוכן האימייל למתאים למערכות ממוקדות הדפסה ולתהליכי עבודה מבוססי מכשירים. זה מועיל כאשר יש צורך להעביר הודעות משוכנות ישירות לסביבות הדפסה מבוקרות.
+
+באמצעות API‑ים של Python, צוותים יכולים לאוטומט את ההמרה מתיבת דואר ל‑PCL כדי לתמוך בתורי הדפסה, בטיפול במסמכים ברמת נפח גבוהה ובשילוב עם מערכות פלט ארגוניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ייצוא אימייל מכוון הדפסה**
+  המרת הודעות לקבצי PCL לעיבוד מוכן להדפסה.
+
+* **תאימות לתהליכי עבודה של מכשירים**
+  הכנת תוכן תיבת הדואר למערכות שנבנו סביב פלט הדפסה מבוקר.
+
+* **ארכוב הדפסה תפעולי**
+  שמירת רשומות אימייל בפורמטים המתואמים עם תהליכי עבודה של הדפסת ייצור.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תור הדפסה אוטומטית**
+  המרת ארכיוני תיבות דואר לפלטי PCL עבור תהליכי הדפסה מתוזמנים.
+
+* **שילוב פלט ארגוני**
+  הפניית קבצי האימייל המומרים למערכות ניהול מכשירים ועיבוד הדפסה.
+
+* **המרת מסמכים ברמת נפח גבוהה**
+  שימוש ב‑Python להרחבת המרת תיבות הדואר לסביבות תפעוליות עם הדפסה מרובה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

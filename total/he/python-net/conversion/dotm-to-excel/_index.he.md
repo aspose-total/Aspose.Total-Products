@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑Excel ממירה תבניות Word עם מקרו לתוך חוברות עבודה ידידותיות לגיליונות אלקטרוניים לצורך ניתוח, דיווח וטיפול בנתונים מובנים. זה שימושי כאשר תבניות מסמכים מכילות טבלאות, חלקים חוזרים, או נתונים שצריך להעביר לפורמט המותאם לחישוב ובדיקה.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑Excel מאפשר חילוץ אוטומטי של תוכן מובנה ממסמכים לתוך זרימות עבודה של גיליונות אלקטרוניים. זה משפר את היעילות התפעולית, תומך בדיווח בר‑קנה מידה, ומקשר תהליכים מונעי‑מסמך עם מערכות עסקיות ממוקדות‑נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח ממסמך לגיליון**
+  המרת תוכן מבוסס תבנית לחוברות Excel לצורך ניתוח והצגה.
+
+* **ייצוא טבלאות מובנות**
+  העברת מידע טבלאי מקבצי DOTM לפורמט המתאים יותר למיון ולחישובים.
+
+* **העברת נתונים תפעוליים**
+  העברת מידע שנאסף במסמכים לתוך זרימות עבודה של גיליונות אלקטרוניים המשמשות צוותים ומערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת דוחות אוטומטית**
+  קבצי DOTM יכולים לעבור עיבוד לפלטי Excel כחלק מצינורות דיווח מתוזמנים.
+
+* **זרימות עבודה של איחוד נתונים**
+  ההמרה מאפשרת איסוף אוטומטי של ערכי מסמכים לתוך נכסי גיליונות אלקטרוניים מרוכזים.
+
+* **שירותי המרה ברמת נפח גבוהה**
+  עיבוד מתוכנת מאפשר להמיר מספר רב של תבניות DOTM לקבצי Excel באופן עקבי ומהיר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

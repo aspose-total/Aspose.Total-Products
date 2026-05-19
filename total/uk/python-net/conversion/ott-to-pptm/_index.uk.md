@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to PPTM conversion in Python APIs converts OpenDocument text templates into macro-enabled presentation files that support advanced automation inside slide-based workflows. This is valuable when generated presentations must include reusable logic or scripted actions.
+
+The conversion enhances automation by combining document-driven content generation with presentation files that can participate in more dynamic and feature-rich reporting or delivery scenarios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Створення презентацій з підтримкою макросів**  
+  Створює презентації, придатні для розширених автоматизованих дій.
+
+* **Підтримка динамічного звітування**  
+  Допомагає створювати презентації, що виходять за межі статичного вмісту слайдів.
+
+* **Повторне використання вмісту шаблонів**  
+  Перетворює текстові шаблони у більш насичені презентаційні результати.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Генерація колод, орієнтованих на скрипти**  
+  Створює файли PPTM з шаблонів OTT у повторюваних робочих процесах.
+
+* **Розширені конвеєри презентацій**  
+  Підтримує системи звітування, які потребують розширеної функціональності слайдів.
+
+* **Масштабовані автоматизовані брифінги**  
+  Забезпечує послідовні презентації з підтримкою макросів у різних випадках використання.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

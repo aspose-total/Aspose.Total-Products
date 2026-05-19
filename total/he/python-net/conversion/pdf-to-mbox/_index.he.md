@@ -102,7 +102,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PDF ל‑MBOX באמצעות ממשקי API של Python מאפשרת להפוך תוכן PDF לפורמט ארכיון תיבת דואר המשמש לאחסון אוספים של הודעות דוא"ל. זה מועיל כאשר יש לשלב מידע מסמכים בתהליכי ארכיון דוא"ל או לשמרו במאגרי הודעות בכמות גדולה.
+
+אוטומציה של המרה זו תומכת בפעולות ארכיון בקנה מידה, בתהליכי הגירה ובאחסון תקשורת מובנה. היא מצמצמת מאמץ ידני על‑ידי אפשרות להכין מסמכי PDF תכנותית למערכות המתבססות על פורמטים מאוחדים של נתוני תיבת דואר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת ארכיון תיבת דואר**  
+  המרת תוכן PDF לרשומות תואמות MBOX למטרות ארכיון ואחסון.
+
+* **אריזת תקשורת בכמות גדולה**  
+  ארגון הודעות שמקורן במסמכים לאוספי תיבות דואר לשם ניידות המערכת.
+
+* **שילוב ארכיון דוא"ל**  
+  שימוש בתוצרים המומרים בסביבות המנהלות נתונים דרך מכולות MBOX.
+
+* **שימור רשומות**  
+  שמירת מידע מבוסס PDF בתוך תהליכי ארכיון הודעות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת ארכיון במקבצים**  
+  זרימות עבודה ב‑Python יכולות לעבד מספר רב של קבצי PDF לתוצרים תואמי MBOX באופן אוטומטי.
+
+* **צינורות שמירת ציות**  
+  ניתן להכניס תוכן מומר למאגרי ארכיון לשמירה ארוכת טווח.
+
+* **הכנת הגירה**  
+  מערכות יכולות לארוז תוכן שמקורו ב‑PDF להעברה לפלטפורמות מבוססות תיבת דואר.
+
+* **עדכוני מאגר אוטומטיים**  
+  מסמכי PDF נכנסים יכולים להיות מומרצים באופן רציף ולהצטרף לתהליכי ארכיון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

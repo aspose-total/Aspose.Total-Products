@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑PPT ממירה מסמכים עם מקרו לקבצי מצגת המתאימים לעריכה, סקירה והפצה בעבודות מבוססות שקופיות. היא שימושית כאשר יש צורך לארגן מחדש תוכן מובנה ממסמכים לחומרי תקשורת חזותיים.
+
+לצורך אוטומציה וקנה מידה, המרת DOCM ל‑PPT תומכת ביצירת מצגות חוזרת, יצירת דוחות, והמרה תפעולית של מידע מסמכי לנכסי שקופיות ניתנים לעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת שקופיות ניתנות לעריכה**
+  ממירה את תוכן המסמך לקבצי מצגת שניתן לחדד או להרחיב.
+
+* **דיווח עסקי**
+  מסייעת להפוך חומרי מסמך פורמליים לסיכומי שקופיות לצוותים ובעלי עניין.
+
+* **פיתוח חומרי הדרכה**
+  תומכת במימוש חוזר של נרטיבים מסמכיים בפורמטים של מצגות חינוכיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **הרכבת מצגות אוטומטית**
+  מייצרת קבצי PPT ממסמכי DOCM עבור זרימות תקשורת חוזרות.
+
+* **צינורות מיחזור תוכן**
+  ממירה מסמכים שנכתבו לנכסי מצגת ניתנים לעריכה באופן תכנותי.
+
+* **זרימות עבודה של דיווח באצוות**
+  מאפשרת יצירה בקנה מידה גדול של מצגות ממקורות מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

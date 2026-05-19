@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑DOTM בפייתון מאפשרת להמיר תוכן גיליון אלקטרוני לקבצי תבנית Word עם אפשרות למקרו עבור זרימות עבודה מתקדמות מבוססות תבנית. זה שימושי כאשר מבני מסמכים שניתן להשתמש בהם מחדש גם דורשים התנהגות ניתנת לתכנות.
+
+המרה זו מוסיפה ערך אוטומציה על ידי שילוב של שינוי תוכן מונע גיליון אלקטרוני עם קבצי תבנית התומכים בתהליכי מסמכים עם אפשרות למקרו.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **תבניות עם אפשרות למקרו**  
+  המרת נתוני Excel לקבצי DOTM עבור יצירת מסמכים חוזרת עם לוגיקת אוטומציה משובצת.
+
+* **מסמכי תהליך מתוקננים**  
+  יצירת תבניות שניתן להשתמש בהן מחדש התומכות הן במבנה עקבי והן בתכונות אוטומציה של מסמכים.
+
+* **הכנת מסמכי ארגון**  
+  שימוש בקלטי גיליון אלקטרוני לבניית תבניות עם אפשרות למקרו עבור זרימות עבודה תפעוליות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות אוטומציית תבניות**  
+  יצירת קבצי DOTM באופן תכנותי ממקורות Excel עבור פעולות מסמכים חוזרות.
+
+* **הפעלת תהליך מסמך**  
+  תמיכה בזרימות עבודה המתבססות על תבניות עם פונקציונליות מקרו מובנית.
+
+* **ניהול תבניות בר‑קנה מידה**  
+  אוטומציה של יצירת תבניות עם אפשרות למקרו ממערכי נתוני גיליון אלקטרוני משתנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

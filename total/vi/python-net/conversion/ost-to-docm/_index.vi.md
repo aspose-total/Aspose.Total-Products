@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OST sang DOCM biến đổi dữ liệu hộp thư thành định dạng tài liệu có macro, hỗ trợ các quy trình công việc tài liệu nâng cao yêu cầu nội dung có thể chỉnh sửa kèm theo khả năng tự động hoá nhúng. Nó hữu ích khi nội dung email đã chuyển đổi cần tham gia vào các quy trình tài liệu có cấu trúc hoặc được lập trình.
+
+Trong các môi trường tập trung vào tự động hoá, việc chuyển đổi OST sang DOCM cho phép nội dung hộp thư di chuyển trực tiếp vào các hệ sinh thái tài liệu có thể lập trình. Các API Python cho phép các tổ chức tự động hoá quá trình chuyển đổi ở quy mô lớn, nâng cao tính nhất quán, tốc độ vận hành và tích hợp với các quy trình kinh doanh trung tâm tài liệu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tài Liệu Có Macro**  
+  Chuyển đổi nội dung email thành các tệp DOCM cho các quy trình công việc dựa vào tự động hoá tài liệu nhúng.
+
+* **Báo Cáo Dựa Trên Quy Trình**  
+  Hỗ trợ các hệ thống báo cáo nơi dữ liệu hộp thư đã chuyển đổi phải hoạt động cùng với logic tài liệu tự động.
+
+* **Hoạt Động Dựa Trên Mẫu**  
+  Giúp tích hợp nội dung xuất phát từ email vào các mẫu kinh doanh có macro có thể tái sử dụng.
+
+* **Tái Sử Dụng Nội Dung Có Cấu Trúc**  
+  Giúp thông tin hộp thư dễ dàng hơn trong việc tích hợp vào các quy trình công việc tài liệu động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Lắp Ráp Báo Cáo Theo Chương Trình**  
+  Tự động hoá Python chuyển đổi dữ liệu OST thành DOCM cho các pipeline báo cáo được lập trình.
+
+* **Quy Trình Tài Liệu Động**  
+  Các hệ thống tự động sử dụng tài liệu có macro để xử lý và quản lý nội dung email đã chuyển đổi.
+
+* **Điền Dữ Liệu Vào Mẫu Doanh Nghiệp**  
+  Các quy trình chuyển đổi cung cấp dữ liệu hộp thư vào các mẫu tài liệu có hành vi tự động hoá nhúng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

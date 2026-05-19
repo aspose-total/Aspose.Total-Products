@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑DIF מאפשרת לתבניות עיבוד תמלילים להיות מומרות לפורמט חילופי נתונים המתאים להחלפת נתונים בסגנון גיליון אלקטרוני. זה שימושי כאשר תוכן מובנה מתבניות המסמך צריך להיות משותף עם מערכות נתונים מיושנות או מתמחות.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט תהליכי עבודה של DOT ל‑DIF כדי לתמוך בהמרה חוזרת של מסמכים, להפחית עבודה ידנית של עיצוב, ולשפר תאימות עם סביבות אנליטיות ישנות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **החלפת נתונים מדורגת**
+  המרת קבצי DOT ל‑DIF כאשר מערכות גיליון אלקטרוני ישנות תואמות דורשות פורמטים מובנים של ייבוא.
+
+* **הגירת תוכן מובנה**
+  העברת נתוני תבנית ניתנים לשימוש חוזר לפורמט ידידותי להעברה לצורך עיבוד והחלפה.
+
+* **ייצוא ידידותי לארכיון**
+  שימור מידע המסמך המופק במבנה חילופי מתוקן לשימוש חוזר עתידי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אינטגרציה מדורגת אוטומטית**
+  תהליכי עבודה ב‑Python יכולים לייצר פלטי DIF מקבצי DOT עבור פלטפורמות עסקיות ישנות.
+
+* **המרת נתונים חוזרת**
+  סקריפטים מתוזמנים יכולים לעבד מסמכי תבנית ל‑DIF ללא התערבות ידנית.
+
+* **תקינה גורפת של פורמט**
+  המרה תכנותית מסייעת לשמור על עקביות בכמויות גדולות של נתוני מסמכים מיוצאים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

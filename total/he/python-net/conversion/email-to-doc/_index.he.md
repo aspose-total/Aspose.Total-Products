@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Email ל‑DOC בפייתון מאפשרת להפוך את תוכן ההודעה למסמכי Word ניתנים לעריכה לצורך סקירה, עיצוב ושימוש חוזר. זה בעל ערך כאשר תקשורת בדוא"ל צריכה להפוך לחלק מדוחות, הצעות או תיעוד תפעולי.
+
+התהליך משפר את האוטומציה על ידי המרת נתוני תיבת הדואר למסמכים מובנים שניתן לערוך, לגרסאות ולנתב דרך מערכות ניהול תוכן או אישור בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **רשומות תקשורת ניתנות לעריכה**
+  המרת אימיילים לקבצי DOC כך שהצוותים יכולים לעדכן ולשימוש חוזר בתוכן ההודעה.
+
+* **הכנת תיעוד עסקי**
+  הכנסת תוכן האימייל למסמכים פורמליים למטרות פרויקט, משפטיות או מנהליות.
+
+* **לכידת ידע**
+  שמירת דיונים חשובים במייל בפורמט המתאים למאגרי מסמכים.
+
+* **עריכה משותפת**
+  אפשרות לצוותים להוסיף הערות ולעדכן את תוכן האימייל המומר בסביבות עיבוד תמלילים מוכרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות תיבת‑דואר‑למסמך**
+  המרה אוטומטית של אימיילים נבחרים לקבצי DOC עבור זרימות עבודה של עריכה במורד.
+
+* **הרכבת תיקי מקרה**
+  מיזוג מסמכי האימייל המומרים לתוך מערכי תיעוד רחבים יותר של מקרה או פרויקט.
+
+* **אוטומציה של שימוש חוזר בתוכן**
+  חילוץ ושימוש חוזר בנרטיבים של האימייל לתבניות, סיכומים או רשומות פנימיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

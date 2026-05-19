@@ -105,7 +105,44 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCX ל‑MHTML ממירה מסמכי עיבוד תמלילים לקבצי ארכיון אינטרנט שמאגדים תוכן HTML ומשאבים קשורים לקובץ יחיד. פורמט זה שומר על מבנה המסמך תוך מתן אפשרות לצפייה מבוססת אינטרנט.
+
+ממשקי API של Python מאפשרים לשלב המרת DOCX ל‑MHTML במערכות פרסום אוטומטיות, זרימות עבודה של ארכיון אינטרנט ופלטפורמות לשיתוף מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת ארכיון אינטרנט**  
+  ממיר מסמכי DOCX לארכיוני אינטרנט קבצים יחידיים.
+
+* **פרסום מסמכים ברשת**  
+  מאפשר לשתף את תוכן המסמך כקבצים תואמי אינטרנט.
+
+* **צפייה במסמך במצב לא מקוון**  
+  מאפשר צפייה במסמכים ללא תלות חיצונית.
+
+* **שימור תוכן**  
+  שומר על העיצוב והמשאבים בתוך קובץ ארכיון יחיד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא ארכיון אינטרנט אוטומטי**  
+  מערכות יכולות להמיר קבצי DOCX לארכיוני MHTML באופן אוטומטי.
+
+* **צינורות פרסום מסמכים במצב אצווה**  
+  סקריפטים של Python יכולים ליצור קבצי ארכיון אינטרנט ממסמכים.
+
+* **מערכות הפצת תוכן**  
+  מסמכים יכולים להיות מומרי דינמית לפורמטים של ארכיונים תואמי אינטרנט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

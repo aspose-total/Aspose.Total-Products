@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to ODS conversion chuyển đổi nội dung có cấu trúc dựa trên tài liệu thành các tệp OpenDocument Spreadsheet để xử lý dữ liệu theo tiêu chuẩn mở và chỉnh sửa bảng tính. Điều này có giá trị khi các tổ chức cần đầu ra bảng tính có thể chỉnh sửa mà không phụ thuộc vào các định dạng độc quyền.
+
+Python APIs giúp tự động hoá quá trình chuyển đổi WordML sang ODS bằng cách trích xuất các bảng và ánh xạ chúng vào các sheet bảng tính phù hợp cho quy trình làm việc hợp tác, di động và có khả năng mở rộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Đầu ra bảng tính mở**
+  Chuyển đổi các bảng WordML thành các tệp ODS có thể chỉnh sửa cho quy trình làm việc bảng tính theo tiêu chuẩn mở.
+
+* **Trao đổi dữ liệu di động**
+  Hỗ trợ việc di chuyển nội dung có cấu trúc vào các môi trường bảng tính có khả năng tương tác.
+
+* **Tái sử dụng bảng trong tài liệu**
+  Giúp dữ liệu lưu trong tài liệu dễ phân tích và bảo trì hơn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Chuyển đổi bảng tính hàng loạt**
+  Tự động tạo các tệp ODS từ nhiều tài liệu WordML.
+
+* **Tích hợp quy trình làm việc mở**
+  Cung cấp các bảng tính đã chuyển đổi vào các môi trường xử lý dựa trên tiêu chuẩn.
+
+* **Trích xuất dữ liệu có khả năng mở rộng**
+  Hỗ trợ chuyển đổi quy mô lớn các bảng trong tài liệu thành các tài sản bảng tính có thể tái sử dụng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

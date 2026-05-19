@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT ל‑TEXT המרה באמצעות API‑ים של Python מחלץ את תוכן תבנית האימייל של Outlook לטקסט פשוט לצורך עיבוד, אינדוקס וארכיון פשוטים. זה שימושי כאשר העיצוב פחות חשוב מזמינות התוכן, חיפוש וניהול נתונים קל משקל.
+
+בזרימות עבודה של אוטומציה, המרה מ‑OFT ל‑TEXT תומכת בניתוח, ניתוח ו‑integration עם מערכות המתבססות על תוכן טקסטואלי גולמי. היא משפרת יעילות בחילוץ תוכן, אופטימיזציית חיפוש ותפעול נתונים במורד.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ תוכן פשוט**  
+  המרת קבצי OFT לטקסט לגישה ישירה לתוכן ההודעה ללא מורכבות העיצוב.
+
+* **הכנת חיפוש ואינדקס**  
+  השתמש בפלטי טקסט פשוטים כדי לשפר אינדוקס, אחזור ותהליכי ניתוח מבוססי טקסט.
+
+* **אחסון ארכיון קל משקל**  
+  שמר את התוכן החיוני של התבניות בפורמט קומפקטי ופשוט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינוריות חצירת טקסט**  
+  הזנת תוכן OFT שחולץ לתהליכי סיווג, תיוג או ניתוח אוטומטיים.
+
+* **יצירת ארכיון ניתן לחיפוש**  
+  המרת תבניות לטקסט פשוט לצורך אינדוקס מאגר ושחזור מהיר.
+
+* **נרמול תוכן תכנותי**  
+  השתמש ב‑APIs של Python כדי לתקן את טקסט התבנית לאינטגרציות ופעולות עיבוד נתונים במורד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

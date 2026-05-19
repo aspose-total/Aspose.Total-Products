@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑PST ב‑APIs של Python ממירה תבניות טקסט של OpenDocument למבני תיבות דואר של אחסון אישי עבור ארכיון והעברת תהליכי עבודה הממוקדים בדוא"ל. זה שימושי כאשר יש צורך לשמר תקשורת שנוצרה על‑ידי מסמכים בפורמט מבוסס תיבת דואר.
+
+המרה זו תומכת באוטומציה על‑ידי סיוע לארגונים להעביר תוכן הודעות מבוסס תבניות לתהליכי אחסון התומכים בארכיון, במיגרציה ובניהול תקשורת בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימושיים" %}}
+
+* **יצירת ארכיון תיבת דואר**  
+  אורז תוכן תקשורת שנוצר לתבנית דואר ממוקדת אחסון.
+
+* **תמיכה בשימור והעברה**  
+  עוזר לשמר ולהעביר תוכן מבוסס הודעות ביעילות.
+
+* **אחסון תקשורת מונע תבניות**  
+  מחזיר תבניות מסמך לפלט תואם תיבת דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ארכיון אוטומטית**  
+  ממיר תוכן הודעות מבוסס OTT לפלטי PST בכמויות גדולות.
+
+* **תהליכי עבודה ממוקדי ציות**  
+  תומך בתהליכי שמירת רשומות ואחסון דואר מובנה.
+
+* **צינורות מיגרציית תקשורת**  
+  מזין תוכן שנוצר לתהליכי העברת דואר ארגוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

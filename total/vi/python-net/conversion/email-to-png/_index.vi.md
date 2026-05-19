@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi email sang PNG trong Python chuyển nội dung tin nhắn thành các hình ảnh raster chất lượng cao, phù hợp cho việc xem trước, hỗ trợ trong suốt và lưu trữ hình ảnh. Nó hữu ích khi bố cục email cần được bảo tồn một cách rõ ràng trong định dạng hình ảnh được hỗ trợ rộng rãi.
+
+Quá trình chuyển đổi này cải thiện tự động hoá bằng cách cho phép tạo ra các hình ảnh email một cách mở rộng cho giao diện web, hệ thống hồ sơ và quy trình báo cáo mà không cần các định dạng tài liệu có thể chỉnh sửa.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Xem trước tin nhắn chất lượng cao**
+  Chuyển email thành các tệp PNG để hiển thị sắc nét trên các cổng thông tin và bảng điều khiển.
+
+* **Hồ sơ lưu trữ hình ảnh**
+  Bảo tồn giao diện tin nhắn dưới dạng tệp hình ảnh để tham khảo nhanh.
+
+* **Đính kèm quy trình làm việc**
+  Sử dụng các tệp PNG trong hệ thống hỗ trợ, kiểm toán hoặc quy trình xem xét.
+
+* **Kết xuất thân thiện với web**
+  Tạo hình ảnh email cho các ứng dụng dựa trên trình duyệt và hệ thống nội dung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Dịch vụ tạo xem trước**
+  Tự động tạo các bản render PNG từ email đến hoặc đã lưu.
+
+* **Quy trình tài liệu vận hành**
+  Đính kèm hình ảnh tin nhắn vào các ticket, báo cáo và log tự động.
+
+* **Tự động hoá phân phối web**
+  Công bố các bản xem trước email vào hệ thống quản lý nội dung hoặc giám sát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

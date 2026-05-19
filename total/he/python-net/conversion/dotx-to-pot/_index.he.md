@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑POT ממירה את תוכן תבנית ה‑Word לפורמט תבנית מצגת המשמש ליצירת שקופיות ניתנות לשימוש חוזר. היא שימושית כאשר חומר מסמך מובנה צריך להפוך לבסיס מצגת חוזר ליצוא עקבי.
+
+המרה זו תומכת באוטומציה על‑ידי אפשרות ל‑APIs של Python לייצר תבניות מצגת ממסמכים, מה שהופך את ייצור השקופיות לסטנדרטי יותר, מהיר יותר, וקלה יותר להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **יצירת תבנית מצגת**
+  המרת תוכן המסמך לתוך נכסי תבנית שקופיות ניתנות לשימוש חוזר.
+
+* **זרימות עבודה ויזואליות עקביות**
+  אחיד את מבנה המצגת בין צוותים ותוצרים חוזרים.
+
+* **שימוש חוזר בתוכן**
+  השתמש מחדש בחומר מסמך מונחה תבנית בעיצוב מצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**
+  הפק קבצי POT מתבניות DOTX בזרימות עבודה של מצגות סטנדרטיות.
+
+* **ייצור שקופיות חוזר**
+  השתמש בתבניות שהומרו כדי לזרז יצירת מצגות חוזרות.
+
+* **אריזת תוכן ניתנת להרחבה**
+  בנה בסיסי מצגות ניתנים לשימוש חוזר באופן תכנותי ממקורות המסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

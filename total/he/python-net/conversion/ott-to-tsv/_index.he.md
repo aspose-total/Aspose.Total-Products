@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT ל-TSV המרה ב-APIs של Python ממירה תבניות טקסט של OpenDocument לערכי מופרדים בטאבים עבור חילופי נתונים נקיים, קלים ומבניים. זה שימושי כאשר תוכן מבוסס תבנית צריך להיות מועבר למערכות שמעדיפות פלט טבלאי פשוט מבוסס טקסט.
+
+ההמרה משפרת אוטומציה על ידי אפשרות ניתוח, שינוי וטעינה קלים לתוך זרימות עבודה שמעריכות עומס מינימלי, ניידות ומבנה אמין מבוסס מפריד.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא נתונים מופרדים**  
+  ממירה את תוכן המסמך לפלט מובנה מופרד בטאבים.
+
+* **עיצוב ידידותי לצינור עבודה**  
+  תומך במערכות המעבדות טבלאות טקסט קלות.
+
+* **הכנת נתונים**  
+  הופך את התוכן המופק לקל יותר לייבוא לכלים אנליטיים או תפעוליים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרה טבלאית במאצעים**  
+  מייצר קבצי TSV מתבניות OTT בקנה מידה גדול.
+
+* **הזנת זרימת עבודה ETL**  
+  שולח נתונים שמקורם במסמך לתוך צינורות ניתוח והמרה.
+
+* **ייצוא מובנה מתוזמן**  
+  תומך ביצירה חוזרת של מערכי נתונים פשוטים קריאים למכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

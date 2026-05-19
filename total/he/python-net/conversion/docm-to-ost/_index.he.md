@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל-OST ממירה מסמכים עם מקרו לנתונים המתאימים לתהליכי עבודה בסגנון תיבת דואר לא מקוונת, שבהם אחסון תקשורת מסונכרן הוא חשוב. זה שימושי בתרחישים שבהם תוכן שמקורו במסמך צריך להתאים לסביבות תקשורת במטמון ולתהליכי אחסון דואר מובנים.
+
+מנקודת מבט של אוטומציה, המרת DOCM ל-OST תומכת בהכנה ארכיבית, בתהליכי סינכרון מבוקרים ובשינוי קנה-מידה של תוכן המסמך למבנים ממוקדי דואר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **תמיכה באחסון דואר לא מקוון**
+  עוזר להתאים את תוכן המסמך לתהליכי עבודה הכוללים נתוני תיבת דואר מסונכרנים.
+
+* **שימור רשומות תקשורת**
+  תומך בשמירת מידע שמקורו במסמך בתוך הקשרים של אחסון ממוקד דואר.
+
+* **התאמת תהליכי עבודה ארגוניים**
+  מחבר נכסי מסמכים עם סביבות שנבנו סביב מאגרי תקשורת במטמון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **הכנת נתוני דואר אוטומטית**
+  ממירה קבצי DOCM לפלטים המתאימים לתהליכי עבודה של תיבת דואר מובנית.
+
+* **צינורות שמירה וסינכרון**
+  תומך בטיפול ארכיון וסינכרון מונעי תהליכים.
+
+* **פעולות המרה בכמות גדולה**
+  מעבד אוספי מסמכים לפלטים תואמי אחסון דואר ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

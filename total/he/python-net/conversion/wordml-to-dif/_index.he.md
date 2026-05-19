@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑DIF מאפשרת לייצא נתוני מסמכים מובנים לפורמט חילופי נתונים (Data Interchange Format) לצורך תאימות למערכות גיליון אלקטרוני ותהליכי נתונים מדור קודם. זה שימושי כאשר ארגונים צריכים לשמר תוכן מובנה בפורמטים ישנים אך עדיין נתמכים.
+
+ממשקי API של Python הופכים את המרת WordML ל‑DIF ליעילה על‑ידי חילוץ טבלאות, שמירת יחסי נתונים לוגיים, ואוטומציה של שינוי המסמך למטרות מיגרציה ופרויקטים של אינטראופרביליות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **החלפת גיליון אלקטרוני מדור קודם**  
+  ממיר את תוכן הטבלאות של WordML ל‑DIF לצורך תאימות לסביבות גיליון אלקטרוני מדור קודם.
+
+* **פרויקטי מיגרציית נתונים**  
+  מסייע להעביר מידע מובנה ממסמכים לפורמטים ארכיביים או העברתיים המתאימים לאינטראופרביליות.
+
+* **שימור רשומות מובנות**  
+  תומך בשימור ארוך טווח של תוכן טבלאי בפורמט שנועד לחילופי נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא גורף מדור קודם**  
+  מאפשר אוטומציה של המרת טבלאות מבוססות מסמך ל‑DIF עבור מערכי נתונים היסטוריים גדולים.
+
+* **תמיכה בתהליך עבודה של מיגרציה**  
+  משתלב בפרויקטים של מודרניזציה אוטומטית הדורשים פורמטים ישנים של חילופי נתונים.
+
+* **משימות תקנון נתונים**  
+  מאפשר רוטינות המרה חוזרות לשיפור תקנון תוכן מובנה במאגרים שונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

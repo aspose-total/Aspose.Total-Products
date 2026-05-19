@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל‑DOC באמצעות API‑ים של Python מאפשרת להמיר נתונים טבלאיים מובנים למסמכי עיבוד תמלילים ישנים שקל יותר לסקור, לשתף ולאחסן בתהליכי עבודה עסקיים ותיעודיים.  
+המרה זו תומכת באוטומציה על‑ידי הפיכת מערכי נתונים גולמיים לתוצרים מעוצבים המשפרים עקביות, מצמצמים מאמץ ידני, ומשתלבים בצורה חלקה בצינוריות יצירת מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת דוחות עסקיים**  
+  המרת רשומות CSV למסמכי DOC עבור סיכומים קריאים, דוחות פנימיים והצגת נתונים מעוצבת.
+
+* **תמיכה בתהליכי עבודה ישנים**  
+  יצירת קבצי DOC לסביבות שעדיין תלויות בפורמטים ישנים של עיבוד תמלילים לצורך תאימות.
+
+* **תיעוד מונע נתונים**  
+  המרת קלט CSV מובנה לתוכן DOC נרטיבי או טבלאי למטרות פרסום ובדיקה.
+
+* **פלט דוחות ניתן לשימוש חוזר**  
+  יצירת קבצי DOC סטנדרטיים ממערכי CSV חוזרים לשמירה על איכות תיעוד עקבית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמכים מתוזמנת**  
+  אוטומציה של ייצוא CSV ל‑DOC חוזר עבור תהליכי דוחות הפועלים בלוחות זמנים קבועים.
+
+* **צינוריות עיבוד אחוריות**  
+  שילוב לוגיקת המרה של Python במערכות שממירות באופן אוטומטי נתונים גולמיים למסמכי DOC.
+
+* **פעולות המרה בכמות גדולה**  
+  עיבוד קבצי CSV מרובים לפורמט DOC עם מינימום התערבות ידנית ועיצוב צפוי.
+
+* **יצירת פלט מבוסס תבנית**  
+  שימוש בכללים תכנותיים להרכבת קבצי DOC מתוכן CSV דינמי לאוטומציה ניתנת להרחבה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

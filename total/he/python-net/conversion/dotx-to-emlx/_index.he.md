@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑EMLX ממירה את תוכן תבנית ה‑Word לפורמט קובץ דוא"ל המשמש בדרך כלל בסביבות דואר שולחניות מסוימות. היא מסייעת לארגונים להתאים תוכן מסמכים מובנה לאחסון דוא"ל ממוקד ולתהליכי עבודה ספציפיים ללקוח.
+
+באמצעות API‑ים של Python, המרה זו תומכת באוטומציה שבה יש להפוך תבניות מסמכים לנכסי דוא"ל תואמים ללקוח לצורך עיבוד, הכנת משלוח או ארכוב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **פלט דוא"ל ספציפי ללקוח**
+  המרת תוכן המסמך לפורמט דוא"ל המתאים לסביבות שולחן עבודה נתמכות.
+
+* **אחסון הודעות ממוקד**
+  שמירת תוכן מוכן לדוא"ל בפורמט המתאים לאחסון ברמת תיבת הדואר.
+
+* **תקשורת מבוססת תבנית**
+  שימוש חוזר בתבניות Word כבסיס ליצירת דוא"ל מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **תהליכי הכנת תיבת דואר**
+  יצירת קבצי EMLX באופן אוטומטי מתבניות DOTX לטיפול בשלבים הבאים.
+
+* **אריזת דוא"ל אוטומטית**
+  הפקת קבצי דוא"ל ממוקדי לקוח במהלך משימות עיבוד תקשורת.
+
+* **ארכוב מסמך לדוא"ל**
+  אחסון תוכן תבנית שהומר בארכיונים תואמי דוא"ל לצורך התייחסות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

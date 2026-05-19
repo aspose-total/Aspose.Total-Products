@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML לתמונות מציגה את תוכן המסמך בפורמטים של תמונות לצורך תצוגה מקדימה, שיתוף, פרסום וארכוב חזותי. היא שימושית כאשר יש צורך להציג דפי מסמך באופן עקבי על פני פלטפורמות מבלי לדרוש תוכנת עריכת מסמכים.
+
+ממשקי ה-API של Python מפשטים את המרת WordML לתמונות על ידי רינדור דפים באופן תכנותי, מאפשרים יצירת תמונות ממוזערות בקנה מידה גדול, תצוגות מקדימות של דפים, וזרימות עבודה של הפצת מסמכים חזותית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תצוגה מקדימה של מסמך**
+  ממיר דפי WordML לתמונות לצפייה מהירה ואינדוקס.
+
+* **שיתוף חזותי**
+  הופך את תוכן המסמך לקל יותר להפצה בערוצים וממשקים תואמי תמונה.
+
+* **הצגה בלתי ניתנת לשינוי**
+  שומר על מראה הדף לצורך סקירה, פרסום או הפנייה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות יצירת תמונות ממוזערות**
+  מייצר באופן אוטומטי תמונות תצוגה מקדימה ממאגרי מסמכי WordML.
+
+* **תמיכה בזרימת עבודה של פרסום**
+  ממיר דפים לתמונות עבור אתרי אינטרנט, מערכות ידע או כלי סקירה.
+
+* **הדמיית ארכיון**
+  מאפשר גישה מבוססת תמונה למסמכים מאוחסנים מבלי לפתוח את פורמט הקובץ המקורי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

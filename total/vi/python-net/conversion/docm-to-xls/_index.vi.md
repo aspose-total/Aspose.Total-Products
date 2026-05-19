@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to XLS conversion biến các tài liệu có macro thành các tệp bảng tính hỗ trợ xử lý dữ liệu có cấu trúc, xem xét và báo cáo. Nó hữu ích khi các bảng và bản ghi trong tệp DOCM cần được chuyển sang quy trình làm việc với bảng tính quen thuộc để sử dụng tiếp.
+
+Với góc độ tự động hoá, chuyển đổi DOCM sang XLS hỗ trợ việc trích xuất dữ liệu tài liệu có thể lặp lại, tương thích với các bảng tính cũ, và các quy trình báo cáo có khả năng mở rộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tái Sử Dụng Dữ Liệu Bảng Tính**
+  Chuyển các bảng trong tài liệu sang dạng bảng tính để phân tích và chỉnh sửa.
+
+* **Tương Thích Với Sổ Làm Việc Cũ**
+  Hỗ trợ các môi trường vẫn dựa vào các định dạng bảng tính cũ.
+
+* **Báo Cáo Vận Hành**
+  Giúp tái sử dụng dữ liệu dựa trên tài liệu cho các nhiệm vụ định kỳ dựa trên bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Xuất Sổ Làm Việc Tự Động**
+  Tạo các tệp XLS từ nguồn DOCM trong các công việc xử lý thường xuyên.
+
+* **Chuyển Đổi Hàng Loạt Bảng**
+  Chuyển đổi các bộ tài liệu lớn thành đầu ra bảng tính cho các hoạt động tiếp theo.
+
+* **Tích Hợp Hệ Thống Cũ**
+  Cung cấp dữ liệu có cấu trúc vào các quy trình làm việc phụ thuộc vào định dạng sổ làm việc cũ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

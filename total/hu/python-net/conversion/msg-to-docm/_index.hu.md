@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MSG-t hozzáadni DOCM-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az MSG‑t DOCM‑re konvertálás e‑mail üzenetfájlokat makró‑engedélyezett szövegszerkesztő dokumentumokká alakít, amelyek fejlett dokumentumviselkedést támogatnak. Ez akkor hasznos, ha az üzenet tartalmát szerkeszthető formátumban kell megőrizni, miközben kompatibilis marad a makró‑alapú feldolgozási környezetekkel.
+
+Automatizálás esetén az MSG‑t DOCM‑re konvertáló munkafolyamatok relevánsak azokban a rendszerekben, amelyek szkriptelt dokumentumműveletekre, validációs rutinokra vagy strukturált formázási feladatokra támaszkodnak. Segítenek összekapcsolni az e‑mailből származó tartalmat a dinamikus vállalati dokumentumműveletekkel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Makró‑engedélyezett dokumentáció**  
+  Készítse elő a konvertált e‑mail tartalmat olyan dokumentumkörnyezetekhez, amelyek automatizálási makrókat használnak.
+
+* **Strukturált tartalomfeldolgozás**  
+  Támogatja a szabály‑alapú formázást és manipulációt a konverzió után.
+
+* **Működési dokumentumösszeállítás**  
+  Integrálja az üzenet adatokat szabályozott, automatizálásra kész dokumentumsablonokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Makró‑vezérelt utófeldolgozás**  
+  Konvertálja az MSG fájlokat DOCM‑re, hogy a downstream rutinok formázási vagy validációs lépéseket alkalmazhassanak.
+
+* **Vállalati dokumentum munkafolyamatok**  
+  Adja át a konvertált dokumentumokat automatizált felülvizsgálati rendszereknek, amelyek a makró‑támogatásra támaszkodnak.
+
+* **Dinamikus tartalomkezelés**  
+  Lehetővé teszi a programozott frissítéseket és munkafolyamat‑akciókat az üzenetből származó dokumentumokon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

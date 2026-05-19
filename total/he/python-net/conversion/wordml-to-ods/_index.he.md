@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑ODS ממירה תוכן מובנה מבוסס מסמכים לקבצי OpenDocument Spreadsheet לצורך טיפול בנתונים לפי תקן פתוח ועריכת גיליונות אלקטרוניים. היא חשובה כאשר ארגונים זקוקים לפלטי גיליון אלקטרוני ניתנים לעריכה מבלי להסתמך על פורמטים קנייניים.
+
+ממשקי API של Python מסייעים לאוטומציה של המרת WordML ל‑ODS על‑ידי חילוץ טבלאות והמרתן לגיליונות אלקטרוניים המתאימים לתהליכי עבודה שיתופיים, ניידים וניתנים להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט גיליון אלקטרוני פתוח**
+  ממירה טבלאות WordML לקבצי ODS ניתנים לעריכה עבור תהליכי עבודה של גיליונות אלקטרוניים לפי תקן פתוח.
+
+* **החלפת נתונים ניידת**
+  תומכת בהעברת תוכן מובנה לסביבות גיליונות אלקטרוניים מתאימות לשילוב.
+
+* **שימוש חוזר בטבלאות מסמך**
+  הופכת את הנתונים השוכנים במסמך לקלים יותר לניתוח ולתחזוקה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרת גיליונות אלקטרוניים במרוכז**
+  יוצרת באופן אוטומטי קבצי ODS ממספר מסמכי WordML.
+
+* **שילוב בתהליכי עבודה פתוחים**
+  מזינה את הגיליונות המומרים לסביבות עיבוד מבוססות תקנים.
+
+* **חילוץ נתונים בר‑קנה מידה**
+  תומכת בהמרה רחבת היקף של טבלאות מסמך לנכסי גיליון אלקטרוני שניתן להשתמש בהם מחדש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

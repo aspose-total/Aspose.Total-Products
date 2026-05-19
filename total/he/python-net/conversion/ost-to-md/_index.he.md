@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OST ל‑MD ממירה נתוני תיבת דואר לפורמט Markdown, ויוצרת תוכן טקסט קל משקל, קריא ונייד המתאים לתיעוד ולתהליכי ידע. זה בעל ערך לצוותים שרוצים תוכן שמקורו באימייל בפורמט טקסט פשוט ומובנה שעובד היטב על פני פלטפורמות.
+
+היתרונות של האוטומציה חזקים מכיוון שהמרת OST ל‑MD משתלבת בטבעיות בצינורות תוכן, בתהליכי עבודה של מפתחים ובמערכות תיעוד. ממשקי API של Python מאפשרים המרה מהירה וניתנת להרחבה של ארכיוני תיבות דואר לקבצי Markdown לצורך אינדוקס, פרסום ושימוש חוזר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **תיעוד קל משקל**  
+  ממיר תוכן אימייל ל‑Markdown עבור רשומות טקסט פשוטות ומובנות.
+
+* **הכנת בסיס ידע**  
+  עוזר לשימוש חוזר במידע חשוב מתיבת הדואר במערכות תיעוד פנימיות.
+
+* **ייצוא תוכן ידידותי למפתחים**  
+  תומך בתהליכי עבודה שבהם פורמטים ניידים של טקסט פשוט מועדפים.
+
+* **רשומות מבוקרות גרסה**  
+  הופך תוכן שמקורו באימייל לקל יותר למעקב וניהול בסביבות מבוססות טקסט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של צינור תיעוד**  
+  סקריפטים ב‑Python ממירים תוכן OST ל‑Markdown עבור תהליכי פרסום ואינדוקס.
+
+* **תהליכי חילוץ תוכן**  
+  מערכות אוטומטיות מכינות טקסט מתיבת הדואר למאגרי חיפוש והערות מובנות.
+
+* **יצירת ארכיון נייד**  
+  המרה תכנותית יוצרת נכסי טקסט לשימוש חוזר מנתוני אימייל מאוחסנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

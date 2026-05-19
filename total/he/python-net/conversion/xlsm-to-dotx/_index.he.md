@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM ל-DOTX המרה משנה נתוני גיליון אלקטרוני עם מקרו לפורמט תבנית Word מודרני שנועד ליצירת מסמכים עקבית. זה שימושי כאשר יש צורך להפוך מידע מגיליון אלקטרוני למסגרות מסמך ניתנות לשימוש חוזר לדוחות, מכתבים או תקשורת מובנית.
+
+בסביבות אוטומטיות, DOTX תומך בתקינה מסמכתית ניתנת להרחבה ובייצור תוכן חוזר ללא צורך בהגדרת תבנית ידנית. ממשקי API של Python מאפשרים יעילות ביצירת נכסים מבוססי תבנית ממקורות XLSM לתיעוד ארגוני ואוטומציית זרימת עבודה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תבנית מודרנית**
+  ממיר תוכן גיליון אלקטרוני לתבניות מסמך ניתנות לשימוש חוזר עבור פלטים מתוקננים.
+
+* **עקביות מסמכים**
+  עוזר לשמור על פורמט ועיצוב אחידים בין סוגי מסמכים חוזרים.
+
+* **אספקת תוכן מובנה**
+  תומך בצוותים הזקוקים למידע מונע-גיליון אלקטרוני המארז בפורמטים של תבניות פורמליות.
+
+* **שימוש חוזר בתהליכי עבודה**
+  מאפשר יצירת מסמכים חוזרת ממקורות גיליון אלקטרוני משותפים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצור תבנית אוטומטי**
+  ממשקי API של Python יכולים ליצור תבניות DOTX מקבצי XLSM עבור זרימות תיעוד שגרתיות.
+
+* **תקינה ניתנת להרחבה של תוכן**
+  ניתן לאוטומט את ההמרה כדי להבטיח שהתבניות יישארו עקביות בין מחלקות או פרויקטים.
+
+* **עיבוד תבניות במקבץ**
+  כמויות גדולות של קבצי XLSM ניתן להמיר באופן תכנותי לנכסי DOTX.
+
+* **שילוב זרימת עבודה של מסמכים**
+  פלטי DOTX יכולים להזין מערכות שמייצרות מסמכים סופיים מתבניות ניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

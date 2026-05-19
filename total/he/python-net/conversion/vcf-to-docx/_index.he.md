@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑DOCX ממירה נתוני כרטיסי קשר לקבצי מסמך ניתנים לעריכה מודרניים המשמשים נרחבות לתיעוד, תקשורת מובנית וניהול רשומות דיגיטליות. זה מקל על הצגת מידע קשר, סקירתו ושימושו מחדש בתהליכי עבודה מקצועיים.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת VCF ל‑DOCX לפעולות ברמת נפח גבוהה, מה שמסייע לצוותים ליצור מסמכי קשר מתוקננים המתאימים למערכות ייצור תוכן ברת‑קנה ועיבוד מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תיעוד קשר מודרני**  
+  המרת נתוני VCF לקבצי DOCX לשימוש מקצועי וניתן לעריכה.
+
+* **שיתוף פעולה צוותי**  
+  שיתוף פרטי קשר בפורמט מסמך משותף התומך בביקורת ועריכה.
+
+* **שימוש חוזר במבנה תוכן**  
+  עיצוב מחדש של פרטי קשר למסמכים עבור דוחות, מדריכים או התכתבות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצור DOCX במרוכז**  
+  המרה אוטומטית של קבוצות גדולות של קבצי VCF למסמכי DOCX.
+
+* **שילוב זרימת עבודה של מסמכים**  
+  שליחת רשומות קשר ב‑DOCX שנוצרו לאישור, אחסון או צינורות פרסום.
+
+* **תקינה ברת‑קנה של תוכן**  
+  שימוש ב‑APIs של Python כדי לאכוף פורמט אחיד למסמכי קשר במערכות שונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

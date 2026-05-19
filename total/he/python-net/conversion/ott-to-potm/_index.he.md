@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑POTM ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לתבניות מצגת עם אפשרות למקרו עבור זרימות עבודה הדורשות מבני שקופיות ניתנים לשימוש חוזר עם התנהגות אוטומציה מתקדמת. זה שימושי במקרים שבהם לוגיקת התבנית ועיצוב חוזר חייבים להתקיים יחד.
+
+המרה זו מוסיפה ערך אוטומציה על‑ידי הפעלת תבניות מצגת לתמיכה בתהליכים מתוכנתים או בעזרת מקרו, מה שמסייע לייעל משימות דיווח והפקת מצגות מורכבות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **יצירת תבנית עם אפשרות למקרו**  
+  בונה תבניות מצגת ניתנות לשימוש חוזר עם תמיכה בהתנהגות מתקדמת.
+
+* **מסגרות דיווח חוזרות**  
+  מאמת מצגות שעשויות להסתמך על לוגיקת שקופיות אוטומטית.
+
+* **שימוש חוזר במבנה תוכן**  
+  ממירה תוכן מסמך לנכסי תבנית מצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מצגות מתקדמת**  
+  תומך ביצירה אוטומטית של תבניות מצגת עם אפשרות למקרו.
+
+* **לוגיקת מצגת מונעת תהליכים**  
+  מכין תבניות שקופיות לתהליכים הכוללים פעולות מתוכנתות.
+
+* **אחידות תבניות ארגוניות**  
+  מגדיל את היקף תהליכי מצגת מורכבים באמצעות קבצי תבנית ניתנים לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

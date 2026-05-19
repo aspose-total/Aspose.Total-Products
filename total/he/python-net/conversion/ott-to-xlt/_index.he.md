@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑XLT ב‑API‑ים של Python ממירה תבניות טקסט של OpenDocument לקבצי תבנית גיליון אלקטרוני המשמשים לתקנון יצירת חוברות עבודה עתידיות. זה שימושי כאשר תוכן המסמך צריך להפוך לתוכנית טבלאית ניתנת לשימוש חוזר במקום קובץ פלט יחיד.
+
+המרה מוסיפה ערך אוטומציה על‑ידי אפשרות ליצירת גיליונות אלקטרוניים עקביים ממבנים מונחי‑תבנית, מה שמפחית הקמה חוזרת ומשפר אחידות תפעולית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית גיליון אלקטרוני**  
+  ממירה מסמכי מקור לתבניות חוברות עבודה ניתנות לשימוש חוזר.
+
+* **מסגרות קלט נתונים תקניות**  
+  מסייעת להגדיר מבני גיליון אלקטרוני חוזרים לשימוש עתידי.
+
+* **עקביות בתהליך**  
+  תומכת ביצירת חוברות עבודה אחידות בין צוותים וזרימות עבודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ספריית תבניות**  
+  מייצרת קבצי XLT ממסמכי OTT תקניים.
+
+* **הקמת חוברות עבודה חוזרות**  
+  מאוטומטת את ההכנה של יסודות גיליון אלקטרוני ניתנים לשימוש חוזר.
+
+* **זרימות עבודה לאיסוף נתונים בקנה מידה**  
+  תומכת ביצירת חוברות עבודה חוזרות עם מבנה מוגדר מראש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

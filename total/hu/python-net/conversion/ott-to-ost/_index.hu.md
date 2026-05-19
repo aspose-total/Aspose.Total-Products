@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni OST-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑ról OST‑ra konverzió a Python API‑kban átalakítja az OpenDocument szövegsablonokat offline postafiók adatstruktúrákká, amelyeket szinkronizált e‑mail tárolási forgatókönyvekhez használnak. Ez akkor releváns, amikor a generált kommunikációs tartalomnak meg kell felelnie a postafiók‑orientált munkafolyamatoknak és tárolási követelményeknek.
+
+A konverzió támogatja az automatizálást azáltal, hogy összekapcsolja a dokumentumalapú üzenetgenerálást az offline hozzáféréssel, archiválási előkészítéssel és a strukturált postafiók adatokra támaszkodó kommunikációmenedzsment folyamatokkal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Offline levéladat előkészítés**  
+  Támogatja azokat a munkafolyamatokat, amelyek szinkronizált postafiók‑stílusú tárolást használnak.
+
+* **Generált kommunikáció csomagolása**  
+  Átalakítja a sablon tartalmát postafiók‑orientált kimenetté.
+
+* **Archiválási és hozzáférési támogatás**  
+  Segít megőrizni a kommunikációs adatokat offline kezelési forgatókönyvekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált levéladat összeállítás**  
+  OST‑kompatibilis kimeneteket állít elő dokumentumsablonokból.
+
+* **Vállalati archiválási csővezetékek**  
+  Integrálja a generált kommunikációt a kezelt tárolási munkafolyamatokba.
+
+* **Tömeges kommunikáció feldolgozása**  
+  Méretezhetővé teszi az OTT tartalom postafiók‑kész struktúrákká alakítását.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

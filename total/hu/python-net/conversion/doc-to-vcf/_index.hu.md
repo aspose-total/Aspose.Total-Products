@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOC-t hozzáadni VCF-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A dokumentumok VCF formátumba konvertálása a Word dokumentumokban tárolt kapcsolati információkat egy szabványosított vCard formátummá alakítja át a címjegyzékek és kapcsolati rendszerek számára. Hasznos, amikor névjegykártyákat, címtárakat vagy kapcsolati listákat kell a dokumentumokból digitális kapcsolati munkafolyamatokba átvinni.
+
+A Python API‑k használata a DOC‑ról VCF‑re konvertáláshoz növeli a pontosságot, csökkenti a kézi kapcsolati adatbevitel szükségességét, és támogatja a skálázható szinkronizációt a dokumentumforrások és a kapcsolati kezelő rendszerek között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Kapcsolati adatok kinyerése**
+  A kapcsolati adatokat a dokumentumokból vCard fájlokká konvertálja újrahasználatra.
+
+* **Címjegyzék importálása**
+  A dokumentum alapú kapcsolati információkat közvetlen importálásra készíti elő a kapcsolati rendszerekbe.
+
+* **Címtár modernizálása**
+  Átalakítja a statikus kapcsolati listákat hordozható digitális kapcsolati rekordokká.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált kapcsolati generálás**
+  Programozottan VCF fájlokat hoz létre DOC könyvtárakból, listákból vagy űrlapokból.
+
+* **CRM és kapcsolati szinkronizáció támogatása**
+  Az kinyert dokumentumkapcsolatokat a kapcsolati kezelő munkafolyamatokba irányítja.
+
+* **Kötegelt kapcsolati feldolgozás**
+  Sok kapcsolati dokumentumot skálázható módon konvertál újrahasználható vCard eszközökké.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

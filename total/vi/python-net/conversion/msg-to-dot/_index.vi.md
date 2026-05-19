@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi MSG sang DOT biến các tin nhắn email thành các tệp mẫu xử lý văn bản có thể dùng làm nền tảng tài liệu có thể tái sử dụng. Điều này hữu ích khi các cấu trúc hoặc bố cục được tạo ra từ email cần được chuyển thành các mẫu tài liệu có thể lặp lại.
+
+Trong các trường hợp sử dụng tự động hoá, việc chuyển đổi MSG sang DOT hỗ trợ việc tạo tài liệu dựa trên mẫu và các quy trình báo cáo tiêu chuẩn hoá. Nó cho phép các tổ chức xây dựng các đầu ra có thể lặp lại từ các nguồn nội dung email định kỳ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo mẫu từ nội dung email**  
+  Sử dụng các tin nhắn đã chuyển đổi làm cơ sở cho các cấu trúc tài liệu có thể lặp lại.
+
+* **Tài liệu tiêu chuẩn hoá**  
+  Tạo các mẫu đồng nhất cho việc sử dụng vận hành hoặc hành chính định kỳ.
+
+* **Khung nội dung có thể tái sử dụng**  
+  Bảo tồn bố cục tin nhắn và các mẫu nội dung cho việc tạo tài liệu trong tương lai.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Quy trình tạo mẫu**  
+  Chuyển đổi các tệp MSG thành các mẫu DOT cho các nhiệm vụ tạo tài liệu định kỳ.
+
+* **Quy trình báo cáo có thể lặp lại**  
+  Sử dụng các mẫu được tạo từ email trong các hệ thống báo cáo tự động hoặc tài liệu vụ việc.
+
+* **Tiêu chuẩn hoá định dạng**  
+  Xây dựng các cấu trúc tài liệu được kiểm soát từ nội dung giao tiếp đến.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

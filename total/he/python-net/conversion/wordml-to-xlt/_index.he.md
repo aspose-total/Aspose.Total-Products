@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑XLT ממירה תוכן מסמך מובנה לקבצי תבנית גיליון אלקטרוני המשמשים כנקודות התחלה חוזרות של חוברת עבודה. זה שימושי כאשר פריסות נתונים מונעות מסמך או דוחות חוזרים דורשים תבניות גיליון אלקטרוני מתוקנות.
+
+ממשקי ה‑API של Python תומכים בהמרת WordML ל‑XLT על‑ידי אוטומציה של יצירת תבניות והפיכת יצירת גיליונות אלקטרוניים חוזרת מתוכן מסמכים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית חוברת עבודה**
+  ממירה תוכן WordML לקבצי XLT עבור מבנים חוזרים של גיליונות אלקטרוניים.
+
+* **תקינה של דוחות חוזרים**
+  מסייעת להגדיר פריסות חוברת עבודה עקביות על בסיס תבניות מסמך.
+
+* **עקביות בתהליך**
+  תומכת ביצירת גיליונות אלקטרוניים חוזרת מתוכן מקור מאושר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **תזרימי יצירת תבניות**
+  מאפשרת אוטומציה של יצירת XLT מדוחות WordML, טפסים או טבלאות מובנות.
+
+* **תקינה של ייצור גיליונות אלקטרוניים**
+  תומכת בצוותים היוצרים חוברות עבודה חוזרות מתבניות משותפות.
+
+* **אוטומציה של פריסות מונעות מסמך**
+  ממירה תוכן מסמך מובנה לבסיסי גיליון אלקטרוני חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

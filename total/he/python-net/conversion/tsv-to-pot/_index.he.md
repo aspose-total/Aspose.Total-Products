@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑POT ממירה נתונים טבלאיים מובנים לקבצי תבניות מצגת התומכים ביצירת תוכן מבוסס שקופיות שניתן לחזור עליו. היא שימושית כאשר יש צורך להכין נתונים לתהליכי מצגת התלויים בפריסות עקביות ובפורמטים שניתנים לשימוש חוזר.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת TSV ל‑POT כדי לחבר מקורות נתונים מובנים עם מערכות יצירת מצגות, מה שמשפר את המהירות, העקביות והסקלאביליות בייצור שקופיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת תבנית מצגת**  
+  הופך נתוני TSV לפורמטים המתאימים לתהליכי עיצוב שקופיות חוזרים.
+
+* **מסגרות שקופיות סטנדרטיות**  
+  מסייע לשמור על עקביות בתוצרים חוזרים של מצגות.
+
+* **נכסי מצגת מבוססי נתונים**  
+  תומך בהכנת תוכן מובנה למסירה ממוקדת מצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית שקופיות אוטומטית**  
+  ממשקי API של Python יכולים ליצור נכסים תואמי POT מייצואי נתוני TSV.
+
+* **תהליכי מצגת חוזרים**  
+  האוטומציה תומכת בייצור תבניות עקבי למחזורי דיווח קבועים.
+
+* **עיבוד מצגות סקלאבילי**  
+  קבוצות נתוני TSV גדולות ניתן להפוך לקבצי POT באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

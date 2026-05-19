@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OFT-t hozzáadni DOT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OFT‑ról DOT‑ra konvertálás Python API‑k használatával lehetővé teszi, hogy az Outlook e‑mail sablonok örökölt Word sablonfájlokká alakuljanak a szabványosított dokumentumkészítéshez. Ez akkor hasznos, ha a szervezetek újrahasználható dokumentumszerkezetekre támaszkodnak, és át kell alakítaniuk az üzenetküldési tartalmat sablon‑vezérelt formátumokká.
+
+Az automatizációra fókuszáló környezetekben az OFT‑ról DOT‑ra konvertálás segít az e‑mail‑ből származó tartalmat összehangolni az ismételhető dokumentumkészítési folyamatokkal. Javítja a konzisztenciát, támogatja a sablon‑irányítást, és egyszerűsíti a downstream generálási feladatokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Újrahasználható dokumentumsablon létrehozása**  
+  Az OFT tartalmat DOT fájlokká konvertálja, hogy egy rögzített struktúra alapján ismételt dokumentumgenerálásra legyen lehetőség.
+
+* **Örökölt munkafolyamat-kompatibilitás**  
+  Támogatja azokat a rendszereket, amelyek még mindig a régebbi Word sablonformátumokra támaszkodnak az üzleti műveletekhez.
+
+* **Szabványosított tartalomterjesztés**  
+  Sablon‑kész fájlokat biztosít, amelyek megőrzik a konzisztens formázást a generált dokumentumokban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált sablonkönyvtárak**  
+  Építsen és tartson fenn dokumentumsablon‑tárakat OFT tartalomból Python API‑k használatával.
+
+* **Következetes űrlapgenerálás**  
+  Használja a konvertált DOT fájlokat automatizált rendszerekben, amelyek ismétlődő jelentéseket vagy űrlapokat hoznak létre.
+
+* **Strukturált tartalomtranszformáció**  
+  Az e‑mail sablonokat újrahasználható dokumentummintákká alakítja a skálázható operációs munkafolyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

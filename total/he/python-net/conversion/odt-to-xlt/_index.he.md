@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑XLT משנה את תוכן המסמך לפורמט תבנית גיליון אלקטרוני התומך ביצירת חוברות חוזרות. זה שימושי כאשר מבני נתונים שמקורם במסמך צריכים להפוך לתבניות גיליון אלקטרוני ניתנות לשימוש חוזר לשימוש תפעולי מתמשך.
+
+באמצעות ממשקי API של Python, המרת ODT ל‑XLT תומכת באוטומציה מונעת תבניות, בדיווח סטנדרטי ובזרימות עבודה של נתונים חוזרות. היא מסייעת להפוך תוכן מסמך סטטי לנכסי גיליון אלקטרוני ניתנים לשימוש חוזר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית גיליון אלקטרוני**  
+  ממירה תוכן שהוצא למבני חוברות ניתנים לשימוש חוזר.
+
+* **פריסות דיווח סטנדרטיות**  
+  מסייעת לשמור על עקביות בתוצרים חוזרים של גיליונות אלקטרוניים.
+
+* **מסגרות נתונים ניתנות לשימוש חוזר**  
+  תומכת ביצירת חוברות חוזרות ממקור תוכן דומה.
+
+* **יעילות תפעולית**  
+  מפחיתה עבודה חוזרת של הגדרת גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות יצירת תבניות**  
+  סקריפטים של Python יכולים להמיר נתונים שמקורם ב‑ODT לתבניות XLT באופן אוטומטי.
+
+* **הכנת חוברות חוזרות**  
+  מבנים מבוססי מסמך ניתנים לשימוש חוזר בזרימות עבודה חוזרות של גיליונות אלקטרוניים.
+
+* **תקינה קבוצתית של תבניות**  
+  קבצים מרובים יכולים להיות מומרצים לפורמטים של גיליון אלקטרוני ניתנים לשימוש חוזר.
+
+* **יצירת דוחות מונעת תהליך**  
+  פלטי תבניות יכולים לתמוך ביצירת חוברות אוטומטית בתהליכים הבאים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

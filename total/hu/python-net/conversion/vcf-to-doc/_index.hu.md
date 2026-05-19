@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál VCF-t hozzáadni DOC-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A VCF‑ról DOC‑ra konvertálás strukturált kapcsolatinformációkat alakít át szerkeszthető szövegszerkesztő dokumentumokká, amelyek alkalmasak üzleti nyilvántartásokra, formázott listákra és adminisztratív dokumentációra. Ez segíti a csapatokat abban, hogy a kapcsolati adatokat olvasható elrendezésben mutassák be, amely támogatja a megjegyzéseket és a kézi felülvizsgálatot.
+
+Python API automatizálással a VCF‑ról DOC‑ra konvertálás egyszerűsítheti a dokumentumgenerálási munkafolyamatokat, a kapcsolati bejegyzéseket újrahasználható fájlokká alakítva jelentésekhez, kommunikációs előkészítéshez és belső nyilvántartáskezeléshez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Szerkeszthető kapcsolati dokumentumok**  
+  Alakítsa át a kapcsolati kártyákat szerkeszthető DOC fájlokká felülvizsgálathoz és frissítésekhez.
+
+* **Adminisztratív nyilvántartás**  
+  Tárolja a kapcsolati adatokat szabványos dokumentumformátumban irodai munkafolyamatokhoz.
+
+* **Formázott terjesztés**  
+  Ossza meg a kapcsolati információkat olvasható elrendezésben, amely alkalmas csapatok és érintettek számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Tömeges dokumentumgenerálás**  
+  Automatikusan hozza létre a DOC fájlokat több VCF rekordból a rendezett tárolás érdekében.
+
+* **Munkafolyamat-alapú jelentés**  
+  Adja át a konvertált kapcsolati dokumentumokat automatizált jelentési vagy jóváhagyási rendszereknek.
+
+* **Sablonvezérelt kimenet**  
+  Illessze be a kapcsolati adatokat strukturált DOC dokumentumokba skálázható Python folyamatok segítségével.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

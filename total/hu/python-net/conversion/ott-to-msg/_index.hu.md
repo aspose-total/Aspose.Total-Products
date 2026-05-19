@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni MSG-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑ről MSG‑re konvertálás Python API‑kban átalakítja az OpenDocument szövegsablonokat olyan üzenetfájlokká, amelyeket asztali e‑mail ökoszisztémákban tárolásra és cserére használnak. Ez akkor hasznos, amikor a strukturált dokumentumtartalmat újrahasználható e‑mail műtárggá kell tenni, nem pedig egyszerű dokumentummá.
+
+Ez a konverzió támogatja az automatizálást, mivel segíti a csapatokat, hogy programozottan generáljanak üzenetfájlokat sablonokból felülvizsgálatra, archiválásra vagy a kommunikációs munkafolyamatok skálázható integrálására.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Üzenetfájl létrehozása**  
+  Átalakítja a dokumentumsablonokat strukturált e‑mail üzenetfájlokká.
+
+* **Kommunikációs munkafolyamat támogatás**  
+  Lehetővé teszi a dokumentumtartalom újrahasználatát e‑mail‑orientált környezetekben.
+
+* **Hordozható üzenettárolás**  
+  Üzenetkimeneteket állít elő, amelyeket könnyen el lehet menteni és átvinni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Tömeges üzenetgenerálás**  
+  Sok MSG fájlt hoz létre szabványosított OTT sablonokból.
+
+* **Jóváhagyás-alapú e‑mail munkafolyamatok**  
+  Áttekinthető üzenetfájlokat hoz létre a kézbesítés vagy archiválás előtt.
+
+* **Rendszerintegráció**  
+  Összekapcsolja a dokumentumgenerálási csővezetékeket az üzenetkezelési folyamatokkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

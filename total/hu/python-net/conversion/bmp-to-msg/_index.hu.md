@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál BMP-t hozzáadni MSG-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A BMP‑ről MSG‑re konvertálás lehetővé teszi, hogy a bitmap képeket beágyazzák vagy csatolják az MSG e‑mail üzenetformátumban. Ez a formátum gyakran használatos egyedi e‑mail üzenetek teljes metaadatokkal történő tárolására.
+
+Automatizált környezetekben a BMP képek MSG fájlokká konvertálása segít programozottan strukturált e‑mail üzeneteket létrehozni. Ez lehetővé teszi az automatizált jelentéstételt, archiválást és kommunikációs munkafolyamatokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Automatizált üzenet létrehozása**  
+  A rendszerek képesek MSG e‑mail fájlokat generálni, amelyek BMP képeket tartalmaznak a kommunikációs munkafolyamatokhoz.
+
+* **Vizuális dokumentum terjesztése**  
+  Az alkalmazások képesek képalapú információkat küldeni strukturált e‑mail üzeneteken keresztül.
+
+* **E‑mail rekordok megőrzése**  
+  A szervezetek képalapú kommunikációkat tárolhatnak MSG formátumban a dokumentációhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Programozott e‑mail generálás**  
+  Az alkalmazások automatikusan létrehoznak MSG üzeneteket BMP képekből.
+
+* **Automatizált értesítési rendszerek**  
+  A felügyeleti eszközök képalapú riasztásokat generálnak, amelyeket MSG fájlokba csomagolnak.
+
+* **Kötegelt üzenetfeldolgozás**  
+  Nagy mennyiségű BMP képet automatikus csővezetékeken keresztül lehet MSG üzenetekké konvertálni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

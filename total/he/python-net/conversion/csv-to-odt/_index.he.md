@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל-ODT באמצעות API של פייתון מאפשרת להמיר נתונים טבלאיים מובנים לקבצי טקסט של מסמכי פתוח התומכים בתהליכי תיעוד ניתנים לעריכה ובין-מערכתיים.
+המרה זו שימושית לאוטומציה מכיוון שהיא מייצרת פלט בפורמט פתוח מתוקן המשפר גמישות, אינטגרציה ונגישות ארוכת טווח.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **דיווח מסמך פתוח**  
+  המרת רשומות CSV לקבצי ODT עבור דוחות ניתנים לעריכה, סיכומים ותיעוד מקצועי.
+
+* **החלפת תוכן בין-מערכתית**  
+  יצירת מסמכי ODT כאשר תהליכי העבודה דורשים תקנים פתוחים ושימושיות חוצת פלטפורמות.
+
+* **פלט תיעוד מובנה**  
+  המרת קלט CSV לתוכן ODT קריא עם סעיפים מאורגנים, טבלאות וטקסט מעוצב.
+
+* **תוצרים בפורמט פתוח ניתנים לשימוש חוזר**  
+  ייצור מסמכי ODT עקביים ממערכי נתוני CSV חוזרים לצרכי תפעול או פרסום.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצור פורמט פתוח חוזר**  
+  אוטומציה של המרת CSV ל-ODT עבור תהליכי עבודה מתוזמנים הדורשים מסמכי תקן פתוח ניתנים לעריכה.
+
+* **צינורות אינטגרציית מערכת**  
+  שילוב API של פייתון בתהליכי backend הממירים נתונים לקבצי ODT באופן אוטומטי.
+
+* **יצירת מסמכים בכמות גדולה**  
+  המרת מקורות CSV רבים לפלט ODT בקנה מידה גדול תוך שמירה על עקביות ומבנה.
+
+* **הרכבת מסמכים מבוססת כללים**  
+  בניית קבצי ODT באופן דינמי משדות CSV והיגיון לתמיכה במערכות פרסום אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

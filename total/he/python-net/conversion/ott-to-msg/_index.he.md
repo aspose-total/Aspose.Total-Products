@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑MSG ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי הודעה המשמשים במערכות אימייל לשולחן העבודה לאחסון והחלפה. זה שימושי כאשר תוכן מסמך מובנה צריך להפוך לאובייקט אימייל שניתן להשתמש בו מחדש במקום מסמך רגיל.
+
+המרה זו תומכת באוטומציה על ידי סיוע לצוותים ליצור קבצי הודעה באופן תכנותי מתבניות לצורך סקירה, ארכיב או אינטגרציה לתהליכי תקשורת בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת קובץ הודעה**  
+  ממירה תבניות מסמך לקבצי הודעת אימייל מובנים.
+
+* **תמיכה בתהליכי תקשורת**  
+  מאפשרת שימוש חוזר בתוכן המסמך בסביבות ממוקדות אימייל.
+
+* **אחסון הודעות נייד**  
+  מייצרת פלטי הודעה שניתן לשמור ולהעביר בקלות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת הודעות בכמות גדולה**  
+  מייצרת קבצי MSG רבים מתבניות OTT מתוקננות.
+
+* **תהליכי אימייל מבוססי אישור**  
+  יוצרת קבצי הודעה שניתנים לסקירה לפני משלוח או ארכיב.
+
+* **אינטגרציה מערכתית**  
+  מחברת קווי ייצור מסמכים עם תהליכי טיפול בהודעות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

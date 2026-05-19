@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOT-t hozzáadni EMLX-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOT‑ról EMLX‑re konverzió a dokumentumsablonokat egy olyan e‑mail fájlformátummá alakítja, amelyet bizonyos levelezőrendszerek gyakran használnak. Ez akkor hasznos, amikor a sablonalapú tartalmat platformspecifikus e‑mail tárolásra vagy migrációs forgatókönyvekre kell előkészíteni.
+
+Python API‑k használatával a csapatok automatizálhatják az EMLX kimenetek előállítását DOT fájlokból, elősegítve az üzenetgenerálás szabványosítását és egyszerűsítve a célzott levelezési munkafolyamatok integrációját.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Platformspecifikus e‑mail export**
+  A DOT tartalmat EMLX‑re konvertálja a támogatott levelezőkörnyezetekkel való kompatibilitás érdekében.
+
+* **Sablonalapú e‑mail migráció**
+  A szövegszerkesztő sablonokat strukturált e‑mail eszközökké alakítja a rendszerátállások során.
+
+* **Üzenetmegőrzés**
+  A dokumentumból származó kommunikációkat egy dedikált e‑mail fájlformátumban tárolja újrahasználatra vagy felülvizsgálatra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált e‑mail formátumkonverzió**
+  Python feladatok képesek EMLX fájlokat generálni DOT sablonokból ismétlődő munkafolyamatokban.
+
+* **Migrációt támogató folyamatok**
+  A konverzió segít a sablontartalom e‑mail ökoszisztémákba történő áthelyezésében minimális manuális erőfeszítéssel.
+
+* **Kötegelt kimenet generálás**
+  Programozott csővezetékek nagyméretben képesek EMLX fájlokat létrehozni több forrásdokumentumból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑DOC ממירה מידע קשר מובנה למסמכי עיבוד תמלילים ניתנים לעריכה המתאימים לרשומות עסקיות, רשימות מעוצבות ותיעוד מנהלי. זה מסייע לצוותים להציג נתוני קשר בפריסה קריאה התומכת בהערות ובבדיקה ידנית.
+
+באמצעות אוטומציה של API ב‑Python, המרת VCF ל‑DOC יכולה לייעל תהליכי יצירת מסמכים על‑ידי שינוי רשומות קשר לקבצים ניתנים לשימוש חוזר לדיווח, הכנת תקשורת וטיפול ברשומות פנימיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **מסמכי קשר ניתנים לעריכה**  
+  המרת כרטיסי קשר לקבצי DOC ניתנים לעריכה לצורך סקירה ועדכונים.
+
+* **תיעוד מנהלי**  
+  אחסון פרטי קשר בצורת מסמך סטנדרטית לתהליכי עבודה משרדיים.
+
+* **הפצה מעוצבת**  
+  שיתוף מידע קשר בפריסה קריאה המתאימה לצוותים ולבעלי עניין.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכים בכמות גדולה**  
+  יצירת קבצי DOC באופן אוטומטי ממספר רשומות VCF לאחסון מאורגן.
+
+* **דיווח מבוסס זרימת עבודה**  
+  הזנת מסמכי קשר שהומרו למערכות דיווח או אישור אוטומטיות.
+
+* **פלט מבוסס תבנית**  
+  הכנסת נתוני קשר למסמכי DOC מובנים באמצעות תהליכי Python ניתנים להרחבה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

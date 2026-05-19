@@ -65,7 +65,47 @@ Nó chủ yếu trong hai bước. Đầu tiên sử dụng API [Aspose.Cells fo
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi FODS sang DOCM biến các tệp bảng tính OpenDocument dạng phẳng thành các tài liệu Word có hỗ trợ macro, giúp hữu ích cho các quy trình công việc yêu cầu nội dung có thể chỉnh sửa kết hợp với hành vi tài liệu nâng cao. Việc chuyển đổi này hỗ trợ các môi trường mà dữ liệu nguồn dạng bảng tính cần được tích hợp vào các tài liệu có cấu trúc với các yếu tố động hoặc có thể lập trình.
+
+Với góc nhìn tự động hoá, việc chuyển đổi FODS sang DOCM giúp xây dựng các quy trình tài liệu thông minh kết hợp chuyển đổi dữ liệu với xử lý hỗ trợ macro. Các API Python giúp dễ dàng tự động hoá các chuyển đổi quy mô lớn, kết nối việc tạo tài liệu với các hệ thống doanh nghiệp, và hỗ trợ các quy trình cung cấp nội dung lặp lại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Báo cáo hỗ trợ macro**  
+  Chuyển đổi dữ liệu bảng tính thành các tài liệu DOCM có thể hỗ trợ logic tự động hoá tài liệu nâng cao.
+
+* **Tài liệu quy trình**  
+  Biến nội dung FODS có cấu trúc thành các tệp có thể chỉnh sửa, phù hợp cho các quy trình công việc hướng dẫn và nội dung thủ tục.
+
+* **Kết quả dựa trên mẫu**  
+  Sử dụng các tệp DOCM khi dữ liệu đã chuyển đổi cần khớp vào các mẫu tài liệu có tính năng tự động hoá tích hợp.
+
+* **Phân phối tài liệu vận hành**  
+  Cung cấp các tài liệu dựa trên dữ liệu ở định dạng phù hợp cho việc chỉnh sửa có kiểm soát và xử lý quy trình nội bộ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Lắp ráp tài liệu tự động**  
+  Các API Python có thể chuyển đổi các tệp FODS thành đầu ra DOCM như một phần của quy trình tạo tài liệu.
+
+* **Hỗ trợ quy trình làm việc dựa trên quy tắc**  
+  Các hệ thống tự động có thể chuẩn bị tài liệu hỗ trợ macro cho các môi trường yêu cầu các hành động tài liệu mở rộng.
+
+* **Chuyển đổi hàng loạt cho hoạt động doanh nghiệp**  
+  Các nhóm lớn tệp FODS có thể được chuyển đổi thành định dạng DOCM một cách lập trình để đạt tính nhất quán và quy mô.
+
+* **Chuẩn bị đầu ra động**  
+  Các quy trình chuyển đổi có thể tạo ra tài liệu DOCM sẵn sàng cho việc chỉnh sửa tự động tiếp theo hoặc xử lý có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

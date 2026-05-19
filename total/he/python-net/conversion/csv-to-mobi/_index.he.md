@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל‑MOBI באמצעות API‑ים של Python מאפשרת להמיר נתונים טבלאיים מובנים לקבצי ספר דיגיטלי המתאימים לקריאה ניידת ולתהליכי פרסום אלקטרוני.  
+המרה זו תומכת באוטומציה על‑ידי המרת נתונים גולמיים לתוכן מוכן להפצה שניתן לפרסם, להשתמש בו מחדש ולהרחיב במערכות תוכן דיגיטלי.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **פרסום תוכן ספר דיגיטלי**  
+  המרת נתוני CSV לקבצי MOBI לקריאה ניידת, תוכן ייחוס מובנה והפצה דיגיטלית.
+
+* **פרסומים דיגיטליים מבוססי נתונים**  
+  המרת מערכי נתונים טבלאיים לפלט קריא בסגנון ספר אלקטרוני למדריכים, קטלוגים או מוצרי מידע מובנים.
+
+* **אספקת תוכן נייד**  
+  יצירת קבצי MOBI כאשר יש צורך לארוז את התוכן בפורמט פרסום קומפקטי וידידותי לקורא.
+
+* **אריזת מידע ניתנת להרחבה**  
+  שימוש במקורות CSV לבניית פרסומים דיגיטליים עקביים ממערכי נתונים חוזרים או מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת ספר אלקטרוני אוטומטית**  
+  שימוש ב‑API‑ים של Python כדי להמיר קלט CSV לקבצי MOBI עבור זרימות פרסום חוזרות.
+
+* **שילוב צינור פרסום**  
+  הטמעת המרת CSV ל‑MOBI במערכות שמארזות באופן אוטומטי תוכן מובנה לקוראי דיגיטל.
+
+* **ייצוא דיגיטלי בכמות גדולה**  
+  עיבוד נפחים גדולים של נתוני CSV לפלט MOBI עבור פרסום קטלוגים או הפצת תוכן.
+
+* **הרכבת פרסום דינמית**  
+  בניית קבצי MOBI באופן תכנותי ממערכי נתונים CSV משתנים כדי לתמוך ביצירת תוכן ניתנת להרחבה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

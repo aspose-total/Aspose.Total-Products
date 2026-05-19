@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EMLX sang chuyển đổi DOTM trong Python chuyển các tin nhắn email thành các mẫu Word hỗ trợ macro, có thể hỗ trợ các quy trình công việc tài liệu tái sử dụng nâng cao. Điều này có giá trị khi nội dung dựa trên email cần được nhúng vào các hệ thống mẫu với hành vi có thể lập trình.
+
+Đối với các trường hợp tự động hoá, việc chuyển đổi EMLX sang DOTM giúp các đội chuẩn hoá việc tạo tài liệu đồng thời duy trì tính linh hoạt cho các xử lý phức tạp. Nó hỗ trợ việc tạo mẫu mở rộng, quy trình làm việc lặp lại và tích hợp tốt hơn với các hệ thống văn phòng tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường hợp Sử dụng Chính" %}}
+
+* **Thiết kế mẫu hỗ trợ macro**  
+  Chuyển đổi tệp EMLX thành mẫu DOTM để tạo tài liệu động.
+
+* **Bố cục tự động có thể tái sử dụng**  
+  Xây dựng các mẫu kết hợp nội dung lấy từ email với cấu trúc có thể lập trình.
+
+* **Đầu vào quy trình làm việc chuẩn hoá**  
+  Sử dụng các mẫu đã chuyển đổi trong tài liệu kinh doanh và vận hành lặp lại.
+
+* **Sản xuất tài liệu có kiểm soát**  
+  Chuẩn bị các mẫu hỗ trợ macro để tạo ra đầu ra nhất quán, dựa trên quy tắc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Đường ống Tự động hoá Mẫu**  
+  Tạo tệp DOTM từ dữ liệu EMLX trong quy trình chuẩn bị nội dung có kịch bản.
+
+* **Quy trình làm việc Tài liệu Nâng cao**  
+  Cung cấp các mẫu đã chuyển đổi vào hệ thống dựa trên định dạng tài liệu hỗ trợ macro.
+
+* **Thư viện Mẫu có thể mở rộng**  
+  Tự động tạo ra các tài sản DOTM có thể tái sử dụng từ nội dung email lưu trữ.
+
+* **Cấu trúc Nội dung Theo chương trình**  
+  Sử dụng API Python để chuyển dữ liệu tin nhắn thành các thành phần mẫu có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

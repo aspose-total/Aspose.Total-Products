@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál EMLX-t hozzáadni OTT-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az EMLX-OTT átalakítás Pythonban e‑mail tartalmat alakít át nyílt dokumentum sablonokká, amelyeket újra fel lehet használni a következetes dokumentumgeneráláshoz. Ez akkor értékes, amikor az üzenetalapú információt szabványosított sabloneszközökké kell átalakítani, nem pedig önálló fájlokká.
+
+Automatizálási felhasználási esetekben az EMLX-OTT átalakítás támogatja a sablonvezérelt munkafolyamatokat, a hatékony tartalomújrafelhasználást és a skálázható kimenet szabványosítását. Segít a csapatoknak ismételhető dokumentumrendszereket építeni a korábban strukturálatlan kommunikációs adatokból.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Nyílt sablon létrehozása**  
+  Alakítsa át az EMLX fájlokat OTT sablonokká az ismételhető dokumentumgeneráláshoz.
+
+* **Újrahasználható dokumentumszerkezetek**  
+  Építsen sablonelrendezéseket üzenetalapú tartalomból és formázásból.
+
+* **Szabványosított kimeneti modellek**  
+  Használja a konvertált sablonokat a generált dokumentumok közötti konzisztencia biztosításához.
+
+* **Nyílt munkafolyamat előkészítése**  
+  Támogassa a sablonalapú folyamatokat olyan környezetekben, amelyek nyílt dokumentum szabványokat használnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Sablon generálás automatizálása**  
+  Hozzon létre OTT sablonokat EMLX fájlokból a skálázható Python munkafolyamatok részeként.
+
+* **Következetes dokumentumgyártás**  
+  Adja át az OTT kimeneteket olyan rendszereknek, amelyek dokumentumokat generálnak újrahasználható sablonokból.
+
+* **Nyílt szabványú munkafolyamat integráció**  
+  Használja a konvertált sablonokat automatizált környezetekben, amelyek a kompatibilitást helyezik előtérbe.
+
+* **Tartalom struktúrázási csővezetékek**  
+  Alakítsa át az e‑mail adatokat újrahasználható sabloneszközökké szkriptelt feldolgozással.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

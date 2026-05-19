@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל‑XLS ממירה מסמכי טקסט עשיר למחברות גיליון אלקטרוני שמארגנות את התוכן בשורות, בעמודות ובגיליונות לצורך סקירה וחישוב קלים יותר. זה שימושי כאשר נתונים מבוססי מסמך צריכים להיות משוכתבים לדיווח, מעקב או ניתוח תפעולי.
+
+במערכות אוטומטיות, RTF ל‑XLS תומך בעיבוד יעיל של מסמך לגיליון אלקטרוני, ומאפשר לצוותים להמיר תוכן טקסט מורשתי למחברות שימושיות לתהליכי עבודה עסקיים חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת גיליון אלקטרוני מורשת**  
+  ממירה את תוכן המסמך לקבצי מחברת המתאימים לסקירה וניתוח מובנים.
+
+* **תמיכה בדיווח תפעולי**  
+  מסייעת להמיר טקסט נרטיבי או חצי‑מובנה למידע מוכן לגיליון אלקטרוני.
+
+* **שימוש חוזר בנתונים ממסמכים מאוחסנים**  
+  תומכת בחילוץ ערך מקבצי RTF ישנים על‑ידי הצבת תוכנם בפורמטים טבלאיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מחברת אוטומטית**  
+  מערכות יכולות להמיר קבצי RTF לפלטי XLS כחלק מתהליכי עסקים באצווה.
+
+* **משימות הכנת נתונים חוזרות**  
+  המרה תכנותית תומכת בדיווח קבוע, מעקב וזרימות עבודה של ייבוא.
+
+* **שילוב מערכת מורשת**  
+  תהליכים דינמיים יכולים לספק לכלים מבוססי גיליון אלקטרוני נתונים שמקורם במסמכי טקסט מעוצבים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

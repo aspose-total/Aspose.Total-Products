@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT לתמונות מציגה תבניות מסמכים בפורמטים חזותיים שקל לתצוגה מקדימה, שיתוף והטמעה בתהליכי עבודה דיגיטליים. זה בעל ערך כאשר יש צורך להפיץ את המסמך המקורי הניתן לעריכה כנכס חזותי סטטי.
+
+ממשקי API של Python מאפשרים רינדור אוטומטי של קבצי DOT לפלטי תמונה, ומסייעים לארגונים לתמוך בתצוגות מקדימות, ארכיבציה, פרסום תוכן ותהליכי סקירת מסמכים בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **תצוגות מסמך חזותיות**
+  המרת תבניות DOT לתמונות לבחינה מהירה ותצוגה בדפדפן.
+
+* **שיתוף תוכן סטטי**
+  הפצת תוכן המסמך כקבצי תמונה שאינם ניתנים לעריכה להצגה מבוקרת.
+
+* **תמיכה בפרסום**
+  שימוש בפלטים המרותקים בפורטלים, דוחות ומערכות אספקת תוכן.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תמונות ממוזערות ותצוגות מקדימות**
+  תהליכי עבודה ב-Python יכולים לייצר תמונות מסמכים באופן אוטומטי למערכות אינדקס והצגה.
+
+* **צינורות פרסום תוכן**
+  המרה תומכת בהכנה אוטומטית של נכסים חזותיים מתבניות שניתן להשתמש בהן מחדש.
+
+* **פעולות רינדור בכמות גדולה**
+  תהליכים תכנותיים יכולים לייצר פלטי תמונה מאוספי תבניות גדולים באופן עקבי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

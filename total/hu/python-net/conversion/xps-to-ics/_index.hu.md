@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál XPS-t hozzáadni ICS-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az XPS‑ról ICS‑re konvertálás Python API‑kkal lehetővé teszi, hogy a rögzített elrendezésű dokumentumokból származó információk naptár‑kompatibilis fájlokká alakuljanak, amelyek támogatják a ütemezést és az események terjesztését. Ez akkor értékes, amikor az XPS‑dokumentumok tartalmaznak megbeszélés részleteket, időpont adatokat, eseménynaptárakat vagy határidőkkel kapcsolatos információkat, amelyeket strukturált naptárformátumban kell megosztani.
+
+Automatizált környezetekben ez a konverzió javítja az ütemezés hatékonyságát, csökkenti a kézi eseménylétrehozást, és lehetővé teszi, hogy a dokumentumalapú folyamatok közvetlenül kapcsolódjanak a naptár munkafolyamatokhoz, emlékeztetőkhöz és tervezési rendszerekhez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Ütemezés kinyerése és megosztása**  
+  Átalakítja az XPS‑fájlokban lévő időalapú információkat ICS‑bejegyzésekké, amelyeket naptáreseményként lehet terjeszteni.
+
+* **Találkozó és időpont automatizálás**  
+  Támogatja a naptárra kész fájlok létrehozását dokumentum‑alapú értekezeti értesítésekből vagy foglalási visszaigazolásokból.
+
+* **Határidő koordináció**  
+  Segít a dokumentumban tárolt mérföldköveket vagy határidőket cselekvőképes naptárbejegyzésekké alakítani.
+
+* **Rendszerek közötti ütemezés támogatása**  
+  Lehetővé teszi, hogy a dokumentumadatok naptár‑kompatibilis munkafolyamatokba áramoljanak a szélesebb körű koordináció érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált eseményfájl generálás**  
+  A rendszerek XPS‑ütemezéseket átalakíthatják ICS‑fájlokká, amikor új eseménydokumentumok jönnek létre.
+
+* **Emlékeztető munkafolyamat integráció**  
+  Az átalakított naptárfájlok felhasználhatók automatizált emlékeztető és értesítési csővezetékekben.
+
+* **Ismétlődő ütemezés feldolgozása**  
+  Kötegelt feladatok kinyerhetik és átalakíthatják a több dátum‑alapú XPS‑fájlt naptár‑kész kimenetekké.
+
+* **Dokumentum‑tervezés csővezetékek**  
+  Az operatív munkafolyamatok közvetlenül összekapcsolhatják a dokumentumkészítést a ütemezési rendszerekkel programozott ICS‑generálás révén.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

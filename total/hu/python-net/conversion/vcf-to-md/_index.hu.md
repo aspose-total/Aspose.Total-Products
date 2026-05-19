@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál VCF-t hozzáadni MD-konverziós funk
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A VCF‑MD átalakítás a névjegykártya adatokat Markdown dokumentumokká alakítja, amelyek könnyen olvashatók, szerkeszthetők, és beilleszthetők szövegalapú tudásrendszerekbe. Különösen hasznos olyan dokumentációs környezetekben, amelyek értékelik a hordozhatóságot, az egyszerűséget és a verzióbarát tartalmat.
+
+Automatizálási munkafolyamatokban a VCF‑MD átalakítás lehetővé teszi, hogy a Python API‑k könnyűsúlyú névjegydokumentumokat állítsanak elő, amelyek természetesen illeszkednek a tartalom‑repozitóriumokba, statikus webhelyekbe és a strukturált jegyzetkészítési csővezetékekbe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Olvasható szöveges dokumentáció**  
+  Alakítsa át a VCF rekordokat Markdown formátumba a tiszta és hordozható dokumentáció érdekében.
+
+* **Tudásbázis integráció**  
+  Tárolja a névjegyinformációkat olyan formátumban, amely alkalmas szövegközpontú rendszerekhez.
+
+* **Verzióbarát tartalomkezelés**  
+  Kezelje a névjegyadatokat strukturált egyszerű szövegformátumban, amely könnyen nyomon követhető.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált Markdown generálás**  
+  Hozzon létre MD fájlokat névjegykártya csomagokból a rendezett dokumentáció érdekében.
+
+* **Statikus tartalomcsővezetékek**  
+  Adja át az átalakított névjegyfájlokat automatizált publikálási és repozitóriumi munkafolyamatokba.
+
+* **Skálázható szövegtranszformáció**  
+  Használja a Python API‑kat a névjegyadatok szabványosításához könnyűsúlyú jelölőnyelvi formátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל‑DOCM באמצעות ממשקי Python מאפשרת להמיר נתונים טבלאיים מובנים למסמכי עיבוד תמלילים עם מקרו, התומכים בעיצוב מתקדם ובהתנהגות אוטומציה משובצת.  
+המרה זו חשובה למערכות אוטומטיות מכיוון שהיא משלבת שינוי נתונים עם לוגיקת מסמך, ומסייעת לתהליכי עבודה לגדול עם פחות עריכה ידנית ועם עקביות תהליך גבוהה יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **דיווח עם מקרו**  
+  המרת נתוני CSV לקבצי DOCM כאשר המסמכים שנוצרים דורשים תכונות אוטומציה משובצות או פעולות מתוכנתות.
+
+* **תיעוד ממוקד תהליך**  
+  יצירת מסמכי DOCM המשלבים תוכן מובנה עם התנהגות חוזרת בצד המסמך.
+
+* **אריזת נתונים תפעוליים**  
+  המרת מערכי נתוני CSV לקבצים עם מקרו המתאימים לתהליכי עבודה עסקיים מבוקרים ולעיבוד פנימי.
+
+* **מסמכי אוטומציה ניתנים לשימוש חוזר**  
+  יצירת פלטי DOCM חוזרים מקלט מובנה לצוותים המתבססים על רוטינות מסמך סטנדרטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **מילוי טפסים אוטומטי**  
+  שימוש בממשקי Python להמרת נתוני CSV לקבצי DOCM התומכים בפעולות מסמך מוכנות מראש ובלוגיקה ניתנת לשימוש חוזר.
+
+* **ייצור מסמכים משולב בתהליכי עבודה**  
+  הפקת פלטי DOCM באופן אוטומטי כחלק ממשימות ארגוניות, מערכות דיווח או תהליכי ניהול מסמכים.
+
+* **יצירת מסמכי מקרו במאצ'**  
+  המרת אוספים גדולים של קבצי CSV לפורמט DOCM לצורך אספקה אוטומטית, ניתנת להרחבה ועקבית.
+
+* **הרכבת תוכן מונעת חוקים**  
+  בניית מסמכי DOCM באופן דינמי מקלט CSV תוך שמירה על מבנה מוכן לאוטומציה עבור משימות משנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

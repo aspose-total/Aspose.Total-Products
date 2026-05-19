@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML לדוא"ל משנה את תוכן המסמך לתפוקת דוא"ל מוכנה לשימוש שניתן להשתמש בה עבור זרימות עבודה של תקשורת, הודעות מתבניות, ושימוש חוזר בתוכן. היא חשובה כאשר טקסט המסמך צריך להפוך לתוכן דוא"ל שניתן להפיץ ללא כתיבה ידנית.
+
+עם ממשקי API של Python, ניתן לאוטומט את המרת WordML לדוא"ל כדי לחלץ את טקסט הגוף, לשמר מבנה במקומות הרלוונטיים, ולייעל זרימות עבודה של מסמך-להודעה עבור התראות, קמפיינים ותקשורת תפעולית.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **שימוש חוזר בתוכן**
+  ממיר את טקסט המסמך לתוכן מוכן לדוא"ל לשימושים בתקשורת.
+
+* **יצירת תבנית**
+  משתמש במסמכי WordML כחומר מקור להודעות יוצאות עקביות.
+
+* **הודעות תפעוליות**
+  עוזר להפוך מסמכים פנימיים או שנוצרו לתקשורת דוא"ל מובנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות מסמך-להודעה**
+  ממיר באופן אוטומטי קבצי WordML לתוכן דוא"ל עבור מערכות יוצאות.
+
+* **תמיכה בזרימת עבודה של התראות**
+  מאפשר יצירה דינמית של גופי דוא"ל ממקורות מסמך מתוקננים.
+
+* **אוטומציה של תקשורת ברמת נפח גבוהה**
+  מגדיל את יצירת ההודעות לדוחות חוזרים, עדכונים, או התראות מבוססות מסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

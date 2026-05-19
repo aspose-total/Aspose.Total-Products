@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑XLAM ממירה תבניות מסמך לקבצי גיליון אלקטרוני ממוקדי תוסף המשמשים להרחבת זרימות עבודה של גיליון אלקטרוני. זה רלוונטי כאשר תוכן מונחה תבנית תורם לפונקציונליות חוזרת של גיליון אלקטרוני או לוגיקה ארוזה בסביבות נתמכות.
+
+עם ממשקי API של Python, ניתן לשלב המרת DOT ל‑XLAM במערכות אוטומטיות המסטנדרטות יצירת נכסי גיליון אלקטרוני מתקדמים ממקורות מבוססי מסמך.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת נכס תוסף גיליון אלקטרוני**
+  המרת תוכן DOT לפלטים ממוקדי XLAM עבור הרחבות חוזרות של גיליון אלקטרוני.
+
+* **אריזת זרימת עבודה לשימוש חוזר**
+  תמיכה בתרחישים שבהם מבנים מוגדרים במסמך מזינים פתרונות גיליון אלקטרוני מתקדמים.
+
+* **נכסים פונקציונליים מונחי תבנית**
+  הפיכת תוכן המסמך למשאבי גיליון אלקטרוני ארוזים לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **הכנת תוסף אוטומטית**
+  זרימות עבודה של Python יכולות להפוך תבניות DOT לפלטים תואמי XLAM לפי הצורך.
+
+* **תמיכה בצינור עבודה מתקדמת של גיליון אלקטרוני**
+  המרה מסייעת למאגרי מסמכים לתרום לנכסי גיליון אלקטרוני לשימוש חוזר.
+
+* **יצירת פלט פונקציונלי בר‑קנה מידה**
+  מערכות תכנותיות מפשטות יצירה ברמת נפח גבוהה של קבצי חבילות גיליון אלקטרוני מתקדמים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

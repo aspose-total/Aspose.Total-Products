@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML ל‑MBOX חבילות תוכן שמקורו במסמכים לתוך פורמט ארכיון תיבת דואר המתאים לאחסון הודעות מקובצות ולתהליכי הגירה. זה בעל ערך כאשר יש צורך לארגן תקשורת מבוססת מסמכים מרובה לתוך מאגרי תיבות דואר.
+
+ממשקי API של Python מאפשרים המרת WordML ל‑MBOX על‑ידי שינוי תוכן לתוך רשומות הודעה ואיחודן לפלטי ארכיון ניתנים להרחבה למערכות ממוקדות דוא"ל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת ארכיון תיבת דואר**
+  ממירה תוכן מסמך לאוספי הודעות תואמים ל‑MBOX.
+
+* **אריזת תקשורת בכמות גדולה**
+  קובצת רשומות מומרות מרובות לקובץ ארכיון יחיד להעברה או שמירה.
+
+* **תמיכה במעבר דוא"ל**
+  מסייעת בהכנת תוכן לייבוא לסביבות ממוקדות תיבות דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ארכיון במאצ'**
+  מממשת אוטומטית את יצירת קבצי MBOX ממקורות מסמכי WordML חוזרים.
+
+* **שילוב זרימת עבודה לשימור**
+  תומכת באחסון ארוך טווח של תקשורת נגזרת ממסמכים בארכיוני תיבות דואר.
+
+* **הפעלת צינור מעבר**
+  מזינה פלטי MBOX מומרות לתהליכי ייבוא או מעבר אוטומטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

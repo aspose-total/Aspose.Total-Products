@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OTT sang SXC trong các API Python chuyển các mẫu văn bản OpenDocument thành các tệp bảng tính phù hợp với quy trình làm việc bảng tính OpenOffice cũ. Điều này hữu ích khi nội dung tài liệu cần được chuyển đổi thành định dạng bảng có cấu trúc, có thể chỉnh sửa cho các môi trường tương thích với hệ thống kế thừa.
+
+Quá trình chuyển đổi hỗ trợ tự động hoá bằng cách cho phép trích xuất tiêu chuẩn thông tin tài liệu vào các quy trình làm việc bảng tính vẫn dựa vào các định dạng OpenOffice đã được thiết lập.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Hỗ trợ bảng tính kế thừa**  
+  Tạo ra các đầu ra bảng tính tương thích với quy trình làm việc OpenOffice cũ.
+
+* **Cấu trúc dữ liệu tài liệu**  
+  Chuyển đổi nội dung mẫu văn bản thành các bảng có thể chỉnh sửa.
+
+* **Tương thích vận hành**  
+  Giúp tích hợp dữ liệu được tạo ra với các hệ sinh thái bảng tính đã được thiết lập.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Xuất khẩu kế thừa tự động**  
+  Tạo ra các tệp SXC từ nguồn OTT cho các quy trình làm việc dựa trên tính tương thích.
+
+* **Biến đổi dữ liệu hàng loạt**  
+  Chuyển đổi nhiều tệp mẫu thành các đầu ra bảng kế thừa một cách hiệu quả.
+
+* **Tích hợp liên tục hệ thống**  
+  Hỗ trợ các môi trường duy trì chuỗi xử lý bảng tính cũ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

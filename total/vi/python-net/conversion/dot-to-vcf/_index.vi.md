@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi DOT sang VCF biến các mẫu tài liệu thành các tệp thẻ liên hệ có thể được sử dụng để nhập vào sổ địa chỉ và chia sẻ liên hệ. Điều này hữu ích khi các hồ sơ dựa trên tài liệu chứa thông tin cá nhân hoặc tổ chức cần đưa vào các hệ thống giao tiếp.
+
+API Python cho phép tự động hoá quá trình chuyển đổi DOT sang VCF, cải thiện khả năng di chuyển dữ liệu liên hệ và giảm việc nhập liệu thủ công lặp đi lặp lại trong các quy trình kinh doanh.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng" %}}
+
+* **Tạo Hồ Sơ Liên Hệ**
+  Chuyển đổi thông tin dựa trên DOT thành các tệp VCF để sử dụng trong sổ địa chỉ.
+
+* **Chia Sẻ Liên Hệ Di Động**
+  Chia sẻ dữ liệu liên hệ có cấu trúc được trích xuất từ mẫu dưới dạng tiêu chuẩn.
+
+* **Hỗ Trợ Nhập Dữ Liệu Giao Tiếp**
+  Giảm nhập liệu thủ công bằng cách chuyển đổi nội dung mẫu thành các thẻ liên hệ sẵn sàng nhập.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động" %}}
+
+* **Xuất Liên Hệ Tự Động**
+  Các quy trình Python có thể tạo tệp VCF từ các mẫu DOT chứa thông tin liên hệ.
+
+* **Tích Hợp CRM và Danh Bạ**
+  Quá trình chuyển đổi hỗ trợ di chuyển dữ liệu liên hệ dựa trên tài liệu vào các hệ thống giao tiếp.
+
+* **Tạo Tệp Liên Hệ Hàng Loạt**
+  Xử lý bằng chương trình cho phép tạo ra các tệp VCF quy mô lớn từ nhiều mẫu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

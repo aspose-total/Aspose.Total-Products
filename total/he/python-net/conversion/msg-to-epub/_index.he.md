@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MSG ל‑EPUB משנה את תוכן הודעת האימייל לפורמט פרסום דיגיטלי המיועד לקריאה מובנית במגוון מכשירים. זה בעל ערך כאשר מידע מבוסס אימייל צריך להיות ארוז מחדש לתוכן נייד וידידותי לקורא.
+
+בהקשרים של אוטומציה, זרימות עבודה של MSG ל‑EPUB תומכות בפרסום תוכן, הפצה ותהליכי הרכבה של מסמכים ארוכים. הן מסייעות להפוך רשומות תקשורת לנכסי קריאה דיגיטליים נגישים בקנה מידה רחב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט קריאה נייד**  
+  המרת הודעות לפורמט המתאים לסביבות קריאה דיגיטליות.
+
+* **הידור תוכן**  
+  הכללת חומר שמקורו באימייל באוספי פרסומים מובחרים.
+
+* **הפצת ידע**  
+  אריזת מחדש של תוכן ההודעה לצורכי הדרכה, התייחסות או מסירת מידע.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות פרסום אוטומטיים**  
+  המרת קבצי MSG לתוכן EPUB להפצה דיגיטלית מובנית.
+
+* **זרימות עבודה ארכיון‑לקורא**  
+  הפיכת אוספי הודעות מאוחסנים לפרסומי ייחוס ניידים.
+
+* **אריזת תוכן תכנותית**  
+  איסוף קלטים מרובים מבוססי אימייל לתוצרי קריאה נגישים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

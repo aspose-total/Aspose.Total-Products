@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Email ל-ODT בפייתון ממירה את תוכן ההודעה לקבצי טקסט של מסמכי פתוח המתאימים לעבודה עם מסמכים ניתנים לעריכה ובסביבת תקנים. זה שימושי כאשר אינטראופרביליות, פורמטים פתוחים ואחסון ניתנת לעריכה הם דרישות חשובות.
+
+המרה זו תומכת באוטומציה על ידי אפשרות לתוכן שמקורו במייל לזרום אל מערכות מסמכי פתוח, תהליכי עריכה משותפת, ואסטרטגיות ארכיון ארוכות טווח.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **עריכה בפורמט פתוח**
+  המרת מיילים לקבצי ODT לטיפול במסמכים ניתנים לעריכה בסביבות מבוססות תקנים.
+
+* **שמירת רשומות אינטראופרבילית**
+  שמירת תקשורת בפורמט פתוח המתאים להחלפה ולשימוש חוזר.
+
+* **תיעוד משותף**
+  שימוש במיילים שהומרו בתהליכי עבודה התלויים במסמכי פתוח ניתנים לעריכה.
+
+* **נגישות ארוכת טווח**
+  אחסון תוכן הודעה חשוב בפורמט המתאים לשיטות מסמכי פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות מסמך פתוח**
+  המרה אוטומטית של הודעות מייל לקבצי ODT עבור תהליכי עבודה צוותיים.
+
+* **אינטגרציה של מאגר וארכיון**
+  הפניית מסמכי פתוח שהומרו לאחסון ולמערכות רישום.
+
+* **אוטומציית עריכה חוצת פלטפורמות**
+  הפיכת עריכה ושיתוף עקביים של תוכן שמקורו במייל לכלים שונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

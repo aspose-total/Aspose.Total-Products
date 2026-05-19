@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OST ל‑BMP משנה נתוני תיבת דואר לפלט תמונת ביטמאפ, מה שהופך את תוכן האימייל לקל יותר לשימור, סקירה ושיתוף בצורה חזותית סטטית. זה שימושי לארכוב צילומי מסך של הודעות, יצירת רשומות חזותיות, ותמיכה בתהליכים הדורשים רינדור עקבי של תוכן האימייל על בסיס תמונה.
+
+בצינורות אוטומציה מודרניים, המרת OST ל‑BMP מסייעת לאחיד את ויזואליזציית האימייל לדיווח, ציות, ומשימות עיבוד מסמכים. ממשקי API של Python מאפשרים להמיר את תוכן תיבת הדואר תכנותית בקנה מידה, משפרים יעילות, חזרתיות, ושילוב במערכות ארגוניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ארכוב צילום מסך של דוא"ל**  
+  ממיר את תוכן תיבת הדואר לתמונות ביטמאפ לצורך שמירה סטטית והפניה חזותית.
+
+* **תיעוד ציות**  
+  תומך בסביבות מוסדרות הדורשות תפסים חזותיים בלתי ניתנים לעריכה של רשומות תקשורת.
+
+* **תהליכי סקירה ידנית**  
+  עוזר לצוותים לבדוק את תוכן ההודעות בצורה של תמונה מבלי להסתמך על גישה ללקוח דוא"ל.
+
+* **פלטים מוכנים להצגה**  
+  מאפשר שילוב חזותי של תוכן דוא"ל בדוחות, קבצי מקרה או חומרי ביקורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרת דוא"ל במרוכז**  
+  אוטומציה ממירה פריטים מרובים של OST לקבצי BMP לצורך ארכיב רחב היקף או סקירה.
+
+* **יצירת ראיות ציות**  
+  זרימות עבודה ב‑Python יוצרות רשומות מבוססות תמונה מתוכן תיבת הדואר לתהליכי שמירה.
+
+* **צינורות ייצוא חזותיים**  
+  המרה תכנותית תומכת במערכות משנית המעבדות מסמכי תמונה סטטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

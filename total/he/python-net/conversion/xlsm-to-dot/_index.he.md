@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSM ל‑DOT מאפשרת לתוכן גיליון אלקטרוני עם מקרו להיות מומר לפורמט תבנית Word המשמש ליצירת מסמכים מתוקננים. זה בעל ערך כאשר נתוני הגיליון משמשים כבסיס ליצירת מסמכים חוזרים על עצמם בין מחלקות או בתהליכי עבודה חוזרים.
+
+בסביבות המתמקדות באוטומציה, המרת XLSM ל‑DOT תומכת במבני מסמכים ניתנים לשימוש חוזר, עיצוב עקבי ויצירת תבניות בקנה מידה. ממשקי API של Python מאפשרים לאוטומט תהליך זה עבור מערכות הרכבת מסמכים, מסגרות דיווח וצינורות תוכן תפעוליים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית**
+  ממיר תוכן מבוסס גיליון אלקטרוני לתבניות עיבוד תמלילים ניתנות לשימוש חוזר.
+
+* **פלטים מתוקננים**
+  תומך בעיצוב מסמכים עקבי בתהליכי עסק חוזרים.
+
+* **עיצוב מסמכים תפעוליים**
+  מסייע לצוותים לבנות מסמכים מונעי תבנית מקלטי גיליון אלקטרוני מובנים.
+
+* **מסגרות תוכן ניתנות לשימוש חוזר**
+  מאפשר מודלים של מסמכים שניתן למלא או להתאים בתהליכי עבודה משניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות יצירת תבניות**
+  ממשקי API של Python יכולים להמיר קבצי XLSM לתבניות DOT לצורכי תיעוד חוזרים.
+
+* **תקינה אוטומטית**
+  תהליכי המרה יכולים להבטיח שמבני המסמכים יישארו אחידים במספר פלטים.
+
+* **הכנת תבניות במרוכז**
+  קבוצות גדולות של גיליונות אלקטרוניים ניתן להפוך לתבניות ניתנות לשימוש חוזר באופן תכנותי.
+
+* **שילוב הרכבת מסמכים**
+  פלטי DOT יכולים להזין מערכות אוטומטיות שמייצרות מסמכי עסקים מתוקננים בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

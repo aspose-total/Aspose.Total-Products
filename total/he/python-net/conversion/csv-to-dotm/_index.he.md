@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל‑DOTM באמצעות API‑ים של Python מאפשרת להמיר נתונים טבלאיים מובנים לתבניות עיבוד תמלילים עם מקרו עבור זרימות עבודה של מסמכים הדורשות גם תקני עיצוב וגם אוטומציה משולבת.
+המרה זו תומכת ביעילות על ידי שילוב יצירת תבניות עם התנהגות מוכנה לאוטומציה, מה שהופך אותה למתאימה למערכות מסמכים ניתנות להרחבה ולחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**  
+  המרת נתוני CSV לתבניות DOTM עבור מסמכים ניתנים לשימוש חוזר התומכים בפעולות או לוגיקה משולבת.
+
+* **טפסים אוטומטיים מתוקננים**  
+  יצירת תבניות המשלבות פריסה מונחית נתונים מובנית עם התנהגות מסמך ממוקדת אוטומציה.
+
+* **עיצוב מסמכי עסקים חוזר**  
+  שימוש בקלט CSV ליצירת תבניות DOTM לייצור מסמכים עקבי בין צוותים.
+
+* **נכסי תבנית מוכנים לזרימת עבודה**  
+  הפקת קבצי DOTM התומכים בעיצוב מבוקר ובאוטומציה בסביבות תפעוליות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות אוטומציה של תבניות**  
+  שימוש בלוגיקת המרה של Python ליצירת תבניות DOTM מקלט CSV לייצור מסמכים חוזר.
+
+* **אינטגרציה של זרימת עבודה ארגונית**  
+  שילוב המרת CSV ל‑DOTM במערכות המכינות תבניות מסמכים מוכנות לאוטומציה בקנה מידה גדול.
+
+* **המרת תבניות בכמות גדולה**  
+  עיבוד קבצי CSV רבים לפלטי DOTM עם עיצוב עקבי ומבנה ניתן לשימוש חוזר.
+
+* **הרכבה דינמית של תבניות**  
+  בניית תבניות DOTM תכנותית באמצעות כללים, חלקים ומיפוי תוכן מונעי CSV.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

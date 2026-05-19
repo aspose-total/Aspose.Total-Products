@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MOBI ל‑XLS בפייתון ממירה את תוכן הספר האלקטרוני לפורמט גיליון אלקטרוני קלאסי, החשוב לשמירה על תאימות עם כלי גיליון אלקטרוני ישנים ותהליכי עסק מבוססים. היא שימושית כאשר יש צורך לשתף את הנתונים המופקים בפורמט מוכר נרחב עם תמיכה תפעולית רחבה.
+
+בזרימות עבודה של אוטומציה, המרת MOBI ל‑XLS מסייעת לשמור על תאימות לאחור, מפשטת דיווחים מבוססי גיליון אלקטרוני ותומכת בתהליכי ייצוא חוזרים. היא מבטיחה שתוכן המיועד לפרסום ניתן לשימוש חוזר למטרות עסקיות מובנות מבלי להפריע למערכות הקיימות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תאימות גיליון אלקטרוני קלאסי**
+  המרת קבצי MOBI ל‑XLS עבור משתמשים ומערכות שעדיין מסתמכים על פורמטים מסורתיים של גיליונות אלקטרוניים.
+
+* **סקירת נתונים תפעוליים**
+  הצגת התוכן המופק במבנה גיליון עבודה מוכר לבדיקות ידניות וניתוח.
+
+* **המשכיות תהליך עסקי**
+  תמיכה בזרימות עבודה ישנות הדורשות פלטי XLS לייבוא, סקירה או דיווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא גיליון אלקטרוני מתוזמן**
+  יצירת קבצי XLS באופן אוטומטי מקלטי MOBI עבור זרימות עבודה תפעוליות חוזרות.
+
+* **שילוב זרימת עבודה ישנה**
+  הזנת הפלטים המומרים לכלים מבוססי גיליון אלקטרוני ישנים ללא צורך בעיצוב ידני.
+
+* **הכנת נתונים אוטומטית**
+  שימוש בסקריפטים של פייתון כדי לחלץ, לארגן ולייצא את תוכן הספר האלקטרוני לקבצי חוברת עבודה קלאסיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

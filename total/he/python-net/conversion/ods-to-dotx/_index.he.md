@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑DOTX ממירה קבצי גיליון אל תבניות מסמכים מודרניות מבוססות XML. תבניות אלו מאפשרות יצירת מסמכים מובנית תוך שמירה על תאימות לסביבות עריכת מסמכים מודרניות.
+
+צינורות המרה המופעלים על‑ידי Python מאפשרים יצירה אוטומטית של תבניות DOTX מגיליונות. זה מאפשר יצירת תבניות יעילה, אוטומציה ניתנת להרחבה, ושילוב עם זרימות עבודה של ייצור מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות מסמך ניתנות לשימוש חוזר**  
+  המרת מבני גיליון לתבניות מסמך מודרניות.
+
+* **מסגרות מסמך מובנות**  
+  שימוש בנתוני גיליון להגדרת פריסות תבנית.
+
+* **אחידות עיצוב תוכן**  
+  יצירת תבניות מסמך עקביות המופקות מנתוני גיליון.
+
+* **ארכוב תבניות**  
+  אחסון מבני מסמך ניתנים לשימוש חוזר שנוצרו מגיליונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**  
+  זרימות עבודה ב‑Python מייצרות תבניות DOTX מקלטי גיליון.
+
+* **עיבוד תבניות במקבץ**  
+  מערכות ממירות קבצי ODS מרובים לתבניות ניתנות לשימוש חוזר.
+
+* **מערכות מסמך דינמיות**  
+  יצירת תבניות תומכת בצינורות יצירת מסמכים אוטומטיים.
+
+* **אחידות זרימת עבודה**  
+  צינורות המרה שומרים על מבני תבנית עקביים בין מערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOCM-t hozzáadni MBOX-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOCM‑ról MBOX‑ra konverzió makróval ellátott dokumentumokat alakít át postafiók‑stílusú tároló kimenetté, megkönnyítve a dokumentumalapú kommunikációk csoportosítását, archiválását vagy áthelyezését e‑mail‑orientált rendszerekben. Ez akkor értékes, amikor a dokumentum tartalmát csomagolt üzenettárolókban kell megőrizni.
+
+Az automatizálás és a méretezhetőség érdekében a DOCM‑ról MBOX‑ra munkafolyamatok támogatják a kötegelt archiválást, a kommunikáció csomagolását, valamint a dokumentumból származó tartalom átvitelét postafiók‑központú megőrzési rendszerekbe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Postafiók archiválás**
+  Megőrzi a dokumentumból származó tartalmat a postafiók konténerfájlokban hosszú távú tárolás céljából.
+
+* **Üzenetgyűjtemény csomagolása**
+  Támogatja a kapcsolódó átalakított kommunikációk csoportosítását egy egységes fájlba.
+
+* **Migrációs támogatás**
+  Segít a dokumentumalapú kommunikációs tartalom áthelyezésében e‑mail archiv környezetekbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált archívum generálás**
+  DOCM fájlokat alakít át MBOX kimenetekre ütemezett megőrzési munkafolyamatokhoz.
+
+* **Tömeges levél tároló előkészítése**
+  A dokumentumból származó tartalmat postafiók fájlokba csomagolja nagy adathalmazokban.
+
+* **Programozott tárolási csővezetékek**
+  Integrálja a dokumentumkonverziót archiválási és megfelelőségi rendszerekkel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

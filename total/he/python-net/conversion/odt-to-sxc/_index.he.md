@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑SXC משנה את תוכן OpenDocument Text לפורמט ממוקד גיליון המשמש לטיפול בנתונים מובנים. זה שימושי כאשר יש צורך לשנות טבלאות, רשימות או רשומות מבוססות מסמך לתצוגות מבוססות תאים לצורך ביקורת ועיבוד.
+
+בסביבות אוטומציה, המרת ODT ל‑SXC תומכת בחילוץ נתוני מסמך, אינטראופרטיביות עם גיליונות ישנים, והצגת תוכן בקנה מידה. ממשקי API של Python מסייעים לאוטומט את ההמרות באופן אמין על פני קבצים מרובים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתונים ממוקד גיליון**  
+  ממיר תוכן מסמך מובנה לתצוגות מבוססות תאים.
+
+* **תמיכה בפורמט ישן**  
+  עוזר לשמור על תאימות עם זרימות עבודה של גיליונות ישנים.
+
+* **הגירה של טבלאות ורשומות**  
+  מעביר מידע מהמסמך למבנה שניתן לניתוח טוב יותר.
+
+* **שימוש חוזר בנתונים תפעוליים**  
+  הופך את התוכן המוחלץ לקל יותר לבחינה ולעיבוד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות המרה של גיליונות ישנים**  
+  אוטומציית פייתון יכולה להמיר טבלאות ODT לפלטי SXC באופן אוטומטי.
+
+* **חילוץ רשומות במאצ'**  
+  ניתן לעבד מסמכים מרובים לתבניות גיליון במרחב גדול.
+
+* **אימות וייצוא נתונים**  
+  ניתן לנרמל את התוכן המוחלץ לפני המרה ל‑SXC.
+
+* **תמיכה באינטראופרטיביות של זרימות עבודה**  
+  הפלטים המומרים יכולים להזין מערכות שעדיין מסתמכות על מבני גיליון ישנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

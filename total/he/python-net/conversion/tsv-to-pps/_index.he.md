@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑PPS משנה נתונים מופרדים בטאבים לקבצי מצגת שנועדו לצפייה ישירה והפצה. זה שימושי כאשר יש צורך להעביר מידע מובנה כמצגות מוכנות להפעלה במקום קבצים ניתנים לעריכה.
+
+באמצעות ממשקי API של Python, המרת TSV ל‑PPS תומכת ביצירת מצגות אוטומטית, מה שמסייע לארגונים להפיץ עדכונים חוזרים, סיכומים ומצגות מונעי‑נתונים בצורה יעילה יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **מצגות מוכנות לצפייה**  
+  ממיר נתוני TSV לקבצי מצגת המותאמים לניגון ישיר.
+
+* **הפצת מצגות**  
+  תומך בשיתוף מידע מובנה בפורמט המתאים לקהלים הצופים.
+
+* **סיכומים מונעי נתונים**  
+  מסייע להפוך מערכי נתונים אחוריים לנכסי תקשורת מבוססי מצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מצגות אוטומטית**  
+  ממשקי ה‑API של Python יכולים ליצור קבצי PPS מייצואי TSV חוזרים.
+
+* **מסירת מצגות מתוזמנת**  
+  האוטומציה מסייעת להכין פלטי מצגות למחזורי דיווח קבועים.
+
+* **יצירת פלטים במקבץ**  
+  ניתן להמיר מספר מערכי נתוני TSV לקבצי מצגת מוכנים לצפייה באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MBOX-t hozzáadni DOCM-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az MBOX‑ról DOCM‑re konvertálás a postafiók-archívumokat makrókkal ellátott Word‑dokumentumokká alakítja, lehetővé téve, hogy az e‑mail tartalom egy olyan formátumban maradjon meg, amely támogatja a fejlett dokumentumfolyamatokat. Ez akkor hasznos, amikor a konvertált fájloknak kompatibilisnek kell maradniuk a beágyazott automatizációra vagy egyedi logikára támaszkodó dokumentumrendszerekkel.
+
+Python API‑k használatával a csapatok automatizálhatják az MBOX‑ról DOCM‑re konvertálást, ezzel egyszerűsítve a levéltár-feldolgozást, támogatva a sablonalapú munkafolyamatokat, és strukturált kimeneteket generálva a dokumentumközpontú műveletekhez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Makrókkal ellátott dokumentummunkafolyamatok**
+  Exportálja az e‑mail tartalmat DOCM fájlokba olyan rendszerek számára, amelyek automatizált dokumentumviselkedést használnak.
+
+* **Strukturált levéltartalom újrahasználata**
+  Megőrzi az üzeneteket egy olyan formátumban, amely alkalmas a fejlett szerkesztésre és a szabályozott feldolgozásra.
+
+* **Működési dokumentumcsomagolás**
+  Előkészíti az e‑mailből származó fájlokat olyan környezetekhez, amelyek a Word automatizálási funkciókra épülnek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Sablonalapú levélexport**
+  Átalakítja a postafiók bejegyzéseit DOCM kimenetekké, amelyek összhangban vannak a belső dokumentummunkafolyamatokkal.
+
+* **Automatizált Office feldolgozás**
+  A konvertált e‑mail dokumentumokat szkriptelt felülvizsgálati és formázási csővezetékekbe táplálja.
+
+* **Skálázható archívumtranszformáció**
+  Használjon Python‑t az MBOX tartalom kötegelt konvertálásához makrókkal ellátott dokumentumeszközökké.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

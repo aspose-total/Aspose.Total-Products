@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל-RTF ממירה מידע גיליון אלקטרוני לפורמט טקסט עשיר שמאזן קריאות, ניידות ותאימות רחבה בסביבות עריכת טקסט. היא שימושית כאשר יש צורך לשתף תוכן גיליון אלקטרוני כטקסט מעוצב תוך שמירה על נגישות במגוון רחב של מערכות.
+
+באמצעות API של פייתון, המרת SXC ל-RTF מסייעת לאוטומציה של יצירת מסמכים קלים לתקשורת, ארכיבציה והחלפת תוכן חוצת פלטפורמות ללא תלות בתלויות מסמך מורכבות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **שיתוף טקסט חוצת פלטפורמות**  
+  ממיר את תוכן הגיליון לפורמט שניתן לפתוח על ידי יישומים רבים התומכים בטקסט.
+
+* **ייצוא תוכן מעוצב**  
+  שומר על מבנה בסיסי וקריאות בעת העברת נתונים לתהליכי עבודה של מסמכי טקסט.
+
+* **תיעוד קל משקל**  
+  תומך ביצירת קבצים מעוצבים ניידים לסיכומים, הערות ודוחות פשוטים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פלט מסמך טקסט אוטומטי**  
+  משתמש ב-API של פייתון כדי להמיר קבצי SXC למסמכי RTF עבור תהליכי דיווח קלים.
+
+* **צינורות תאימות רחבה**  
+  מאפשר ייצוא תוכן למערכות הדורשות מסמכי טקסט פשוטים, מעוצבים וניידים.
+
+* **תהליכי המרה במצב אצווה**  
+  תומך בהמרה תכנותית של קבצי גיליון מרובים לפלטים מבוססי טקסט נגישים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

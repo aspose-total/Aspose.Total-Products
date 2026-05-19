@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLS to DOC conversion enables spreadsheet data to be transformed into editable document format for reporting, documentation, and structured content reuse. It helps teams turn tabular business information into readable narrative documents that support collaboration, review, and downstream publishing.
+
+Using Python APIs for XLS to DOC conversion improves automation across document workflows by reducing manual formatting effort and enabling repeatable generation of business documents from spreadsheet sources at scale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Генерація звітів**
+  Convert spreadsheet-based data into document layouts for summaries, internal reports, and business communication.
+
+* **Переформатування контенту**
+  Transform tabular XLS content into paragraph-friendly document structures for easier reading and editing.
+
+* **Документальні робочі процеси**
+  Use spreadsheet records as source material for operational documents, process notes, or compliance files.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Заплановане створення документів**
+  Automatically generate DOC files from recurring XLS inputs for periodic reporting processes.
+
+* **Трансформація файлів на основі робочих процесів**
+  Trigger conversion when spreadsheet files enter a document processing pipeline.
+
+* **Динамічне публікування контенту**
+  Use Python APIs to convert updated spreadsheets into editable documents for review and distribution.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

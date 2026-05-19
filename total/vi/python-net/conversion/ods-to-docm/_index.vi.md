@@ -65,7 +65,47 @@ Nó chủ yếu trong hai bước. Đầu tiên sử dụng API [Aspose.Cells fo
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi ODS sang DOCM biến các tệp bảng tính thành tài liệu xử lý văn bản có hỗ trợ macro. Điều này cho phép dữ liệu bảng tính được nhúng vào các tài liệu hỗ trợ các script tự động và các hành vi tài liệu nâng cao.
+
+Với các API Python, việc chuyển đổi ODS sang DOCM có thể được tích hợp vào các hệ thống tự động tạo tài liệu có hỗ trợ macro. Điều này cho phép xử lý tài liệu động, chuyển đổi quy mô lớn và tích hợp vào môi trường tự động hóa doanh nghiệp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo tài liệu hỗ trợ macro**  
+  Chuyển đổi nội dung bảng tính thành các tài liệu có khả năng hỗ trợ macro tự động.
+
+* **Mẫu tài liệu tự động**  
+  Biến đổi dữ liệu dựa trên bảng tính thành quy trình công việc tài liệu được điều khiển bằng macro.
+
+* **Tài liệu dựa trên dữ liệu**  
+  Tích hợp các bộ dữ liệu bảng tính vào các báo cáo có hỗ trợ macro.
+
+* **Xử lý tài liệu nâng cao**  
+  Hỗ trợ các tác vụ tự động được nhúng trong các tài liệu được tạo từ nguồn bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hóa" %}}
+
+* **Tài liệu quy trình tự động**  
+  Hệ thống tạo tệp DOCM từ bảng tính để xử lý dựa trên macro.
+
+* **Tự động hoá báo cáo doanh nghiệp**  
+  Dữ liệu từ bảng tính được chuyển đổi thành tài liệu có hỗ trợ macro để phân tích tự động.
+
+* **Tạo tài liệu động**  
+  Các pipeline Python tạo tài liệu có hỗ trợ macro dựa trên đầu vào từ bảng tính.
+
+* **Xử lý tài liệu macro hàng loạt**  
+  Dịch vụ tự động chuyển đổi một lượng lớn tệp ODS thành tài liệu DOCM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

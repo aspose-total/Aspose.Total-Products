@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi TIFF sang VCF bằng các API Python cho phép các tài liệu dựa trên hình ảnh chứa thông tin liên hệ được biến đổi thành các định dạng thẻ liên hệ có cấu trúc cho sổ địa chỉ kỹ thuật số và các hệ thống truyền thông. Điều này hữu ích khi các danh thiếp, mẫu đơn hoặc hồ sơ liên hệ dạng hình ảnh được quét cần trở thành các mục liên hệ có thể tìm kiếm và tái sử dụng.
+
+Từ góc độ tự động hoá, việc chuyển đổi TIFF sang VCF cải thiện hiệu quả thu thập liên hệ, giảm nhập liệu thủ công và hỗ trợ tích hợp quy mô lớn giữa việc quét tài liệu và quy trình quản lý liên hệ. Nó giúp chuyển đổi dữ liệu liên hệ tĩnh dạng hình ảnh thành thông tin kinh doanh có thể hành động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Số hoá danh thiếp**
+  Chuyển đổi các hình ảnh TIFF của danh thiếp thành các bản ghi liên hệ kỹ thuật số tương thích VCF.
+
+* **Trích xuất liên hệ dựa trên mẫu**
+  Giúp biến các tài liệu đăng ký hoặc tiếp nhận đã quét thành các mục liên hệ có thể tái sử dụng.
+
+* **Điền dữ liệu vào sổ địa chỉ**
+  Hỗ trợ chuyển dữ liệu liên hệ dạng hình ảnh vào các hệ thống quản lý liên hệ có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tiếp nhận liên hệ tự động**
+  Chuyển đổi các tài liệu liên hệ dựa trên TIFF thành đầu ra VCF để nhập hệ thống ngay lập tức.
+
+* **Quy trình thu thập khách hàng tiềm năng**
+  Hỗ trợ việc biến các tài liệu liên hệ đã quét thành các bản ghi tiềm năng có cấu trúc một cách tự động.
+
+* **Quy trình đồng bộ danh bạ**
+  Cho phép tạo thẻ liên hệ kỹ thuật số từ các tệp nguồn dạng hình ảnh một cách lập trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

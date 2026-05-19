@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑EMAIL מכינה תוכן מסמך עם מקרו לשימוש בתהליכי עבודה הממוקדים במייל, מה שמקל על הפיכת מידע המסמך לפלט מוכן להודעה. זה שימושי עבור התראות, סיכומים, אישורים או תהליכי תקשורת המונעים מתוכן המסמך.
+
+במערכות אוטומטיות מודרניות, המרת DOCM ל‑EMAIL מסייעת לגשר בין מסמכים שנכתבו לבין צינורות תקשורת, מאפשרת הפצה בקנה מידה, הודעות מתבניות, ותכתובת שמופעלת על ידי זרימת עבודה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **התראות מבוססות מסמך**
+  ממירה את תוכן המסמך לחומר מוכן למייל לתקשורת תפעולית.
+
+* **זרימות עבודה של אישור**
+  תומכת בשיתוף סיכומים שמקורם במסמך עם סוקרים ובעלי עניין.
+
+* **שימוש חוזר בתוכן בהודעות**
+  מקלה על שימוש חוזר בטקסט פורמלי של המסמך בתוך ערוצי תקשורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת הודעה מופעלת**
+  יוצרת באופן אוטומטי תוכן מייל כאשר קבצי DOCM חדשים נכנסים לזרימת עבודה.
+
+* **צינורות מסמך‑לתקשורת**
+  מחברת תוכן שנכתב עם מערכות הודעות יוצאות אוטומטיות.
+
+* **תהליכי הפצה בקנה מידה**
+  מאפשרת יצירת פלטים מוכנים להודעה במרוכז ממסמכים רבים בבת אחת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑XLS ממירה תבניות עיבוד תמלילים למחברות גיליון אלקטרוני המתאימות לביקורת מובנית, הזנת נתונים ודיווח. זה שימושי כאשר יש להעביר את תוכן התבנית לסביבת גיליון עבודה מוכרת.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת DOT ל‑XLS כדי לשפר עקביות, לזרז את שינוי המסמכים ולתמוך בהכנת גיליונות אלקטרוניים בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח גיליונות אלקטרוניים**
+  המרת קבצי DOT למחברות XLS לניתוח מאורגן וביקורת תפעולית.
+
+* **ארגון נתונים**
+  העברת תוכן המסמך לפריסות גיליון עבודה התומכות במיון ומעקב.
+
+* **תאימות למחברות קיימות**
+  שיתוף מידע שהוצא בפורמט גיליון אלקטרוני המשמש במערכות מבוססות רבות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מחברת אוטומטית**
+  סקריפטים ב‑Python יכולים להמיר תבניות DOT לקבצי XLS לצרכי דיווח חוזרים.
+
+* **צינורות עיבוד נתונים**
+  ההמרה מסייעת להזין תוכן שמקורו במסמך לתהליכי עבודה המתמקדים בגיליונות אלקטרוניים.
+
+* **פלט גיליונות אלקטרוניים בכמות גדולה**
+  אוטומציה תכנותית מאפשרת יצירה ניתנת להרחבה של קבצי XLS מרבות תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

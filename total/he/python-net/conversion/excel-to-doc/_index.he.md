@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Excel ל‑DOC המרה בפייתון מאפשרת לתוכן גיליון מובנה להיות מומר למסמכי עיבוד תמלילים ניתנים לעריכה לצורכי דיווח, תיעוד ותקשורת עסקית. זה בעל ערך כאשר נתונים בטבלאות צריכים להיות מוצגים בפורמט נרטיבי קריא לצוותים, לקוחות או רשומות.
+
+המרה זו תומכת באוטומציה על‑ידי הפיכת גיליונות מבוססי נתונים למסמכי פלט ניתנים לשימוש חוזר בתוך צינורות דיווח, מערכות יצירת מסמכים וסביבות פרסום מבוססות זרימת עבודה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת דוחות עסקיים**  
+  המרת סיכומים מבוססי גיליון ל‑קבצי DOC לצורך דוחות פנימיים או חיצוניים הניתנים לעריכה.
+
+* **זרימות עבודה של תיעוד**  
+  שימוש בנתוני גיליון כמקור ליצירת מסמכים כתובים התומכים בצרכי תפעול או ציות.
+
+* **הצגת נתונים**  
+  המרת מידע טבלאי לפורמט המתאים יותר לבחינה, הערה ושיתוף פעולה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום דוחות מתוזמנים**  
+  אוטומציה של המרת Excel ל‑DOC חוזרת לצורכי זרימות דיווח יומיות, שבועיות או חודשיות.
+
+* **יצירת מסמכים מבוססי תבנית**  
+  יצירת מסמכים ניתנים לעריכה מקלטי גיליון לתמיכה בתהליכים עסקיים מתוקננים.
+
+* **שילוב בצינור עבודה**  
+  הטמעת ההמרה במערכות מונעות פייתון המכינות מסמכים לאישור, אחסון או הפצה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

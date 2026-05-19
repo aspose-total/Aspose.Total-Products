@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTX ל‑PPS משנה את תוכן תבנית הגיליון האלקטרוני לפורמט מצגת שנועד לנגינה ישירה של מצגת. זה שימושי כאשר מידע מובנה על בסיס גיליון אלקטרוני צריך להיות מופץ כחומר מצגת מוכן להפעלה ללא צורך בעריכה נוספת לפני ההצגה.
+
+בזרימות עבודה אוטומטיות, המרת XLTX ל‑PPS מסייעת לייעל את אספקת המצגות על‑ידי הפיכת תוכן גיליון אלקטרוני מונחה‑תבנית למצגות מוכנות לנגינה שניתן לייצר באופן עקבי ולהפיץ במערכות דיווח או הדרכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט מצגת מוכן לנגינה**  
+  ממיר תבניות גיליון אלקטרוני למצגות שנועדו להצגה מיידית.
+
+* **הפצת תדריכים אוטומטית**  
+  תומך במתן תוכן מובנה כקבצי מצגת מוכנים לפגישות או הדרכות.
+
+* **פישוט דיווח חזותי**  
+  עוזר להציג מידע מבוסס תבנית בצורה ישירה ונגישה יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מצגות מתוזמנות**  
+  מערכות יכולות ליצור קבצי PPS באופן אוטומטי מתבניות XLTX עבור מצגות חוזרות.
+
+* **צינורות אספקת מצגות ישירה**  
+  הנושא תומך בתהליכי עבודה המייצרים קבצים המיועדים לנגינה מיידית.
+
+* **יצירת תוכן שידור תכנותית**  
+  המרה דינמית מאפשרת יצירה בקנה מידה גדול של נכסי מצגות מוכנים לתצוגה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

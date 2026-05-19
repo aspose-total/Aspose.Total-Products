@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM ל-PowerPoint ממיר מסמכים עם מקרו לתבניות שקופיות מוכנות להצגה, מה שמקל על העברת תוכן המסמך בצורה חזותית בפגישות, סקירות והקשרים של דיווח. זה בעל ערך כאשר יש צורך להתאים טקסט מובנה, סיכומים או מתווה לתהליך עבודה של מצגת.
+
+מנקודת מבט של אוטומציה, המרה מ-DOCM ל-PowerPoint תומכת ביצירת שקופיות בקנה מידה, בדיווח שגרתי ובשינוי יעיל של תוכן נרטיבי לנכסי מצגת ניתנים לשימוש חוזר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הצגה חזותית של תוכן המסמך**
+  ממיר מסמכים עם טקסט רב לחומרי מצגת מבוססי שקופיות לתקשורת רחבה יותר.
+
+* **דיווח מנהלים וצוות**
+  עוזר להציג תובנות מהמסמך בפורמט חזותי תמציתי ומובנה.
+
+* **חומרי הדרכה והצגה**
+  מחזיר את תוכן המסמך ליצירת מצגות לקהלים פנימיים או חיצוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת שקופיות מתוזמנת**
+  ממיר באופן אוטומטי מסמכי DOCM לתוצרי מצגת לעדכונים חוזרים.
+
+* **דיווח מבוסס זרימת עבודה**
+  מספק תובנות שמקורן במסמך לתהליכי מצגת אוטומטיים.
+
+* **המרת תוכן בקנה מידה**
+  תומך בהמרה ברמת נפח גבוהה של מסמכים לחבילות שקופיות באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

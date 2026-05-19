@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑Excel ממירה מסמכים עם מקרו למסמכי עבודה מוכנים לגיליון אלקטרוני, ומאפשרת לנתוני המסמך כגון טבלאות, רשימות ורשומות להיות מנותחים, ערוכים ומשומשים מחדש בצורה יעילה יותר. זה בעל ערך כאשר נתוני עסק שנקלטו בפורמט DOCM חייבים להיות מועברים לסביבות ידידותיות לחישוב.
+
+לצורך אוטומציה וקנה מידה, זרימות עבודה של DOCM ל‑Excel תומכות בחילוץ מובנה, צינוריות דיווח, והמרה חוזרת של תוכן המסמך לגיליונות אלקטרוניים תפעוליים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **ניתוח מבוסס גיליון אלקטרוני**
+  מעביר את נתוני המסמך לצורת חוברת עבודה למיון, סינון ובדיקה.
+
+* **דיווח תפעולי**
+  ממיר תוכן מובנה לגיליונות אלקטרוניים המשמשים בתהליכי דיווח חוזרים.
+
+* **שימוש חוזר בנתונים**
+  הופך מידע המוכלל במסמך לקל יותר לעריכה ולשילוב בין צוותים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת חוברות עבודה במרוכז**
+  ממיר באופן אוטומטי קבצי DOCM מרובים לפלטי גיליון אלקטרוני לעיבוד בקנה מידה.
+
+* **הכנת אנליטיקה**
+  מספק נתונים שמקורם במסמך לתוך זרימות עבודה אוטומטיות של גיליונות אלקטרוניים ודיווח.
+
+* **החלפת נתונים מובנית**
+  תומך במעבר תכנותי בין מערכות מסמכים לכלים מבוססי גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

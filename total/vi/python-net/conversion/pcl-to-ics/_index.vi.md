@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi PCL sang ICS bằng các API Python cho phép nội dung dựa trên in ấn được chuyển đổi thành các định dạng dữ liệu tương thích với lịch để lên lịch và các quy trình liên quan đến sự kiện. Điều này hữu ích khi thông tin nhạy thời gian, ban đầu được tạo dưới dạng luồng in, cần được tái sử dụng cho việc phân phối và phối hợp lịch kỹ thuật số.
+
+Tự động hoá làm cho việc chuyển đổi này trở nên có giá trị hơn bằng cách biến các đầu ra PCL tĩnh thành các tệp lịch có cấu trúc, có thể được tạo, định tuyến và đồng bộ một cách hiệu quả. Nó hỗ trợ các quy trình lên lịch có khả năng mở rộng, nơi các tài liệu do máy tạo ra cần trở thành dữ liệu sự kiện có thể hành động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo sự kiện lịch**  
+  Chuyển đổi thông tin lịch trình dựa trên PCL thành các tệp ICS để tương thích lịch.
+
+* **Phân phối cuộc hẹn**  
+  Giúp chuyển đổi chi tiết sự kiện đã in thành lời mời kỹ thuật số hoặc hồ sơ lên lịch.
+
+* **Hỗ trợ lên lịch quy trình làm việc**  
+  Cho phép các thời gian biểu vận hành xuất phát từ in ấn được chia sẻ dưới dạng thân thiện với lịch.
+
+* **Phối hợp các quy trình dựa trên thời gian**  
+  Giúp việc phân phối dữ liệu lên lịch có cấu trúc từ các nguồn tài liệu kế thừa trở nên dễ dàng hơn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động hoá" %}}
+
+* **Tạo tệp sự kiện tự động**  
+  Hệ thống có thể tạo các tệp ICS từ tài liệu PCL bất cứ khi nào phát hiện dữ liệu lên lịch.
+
+* **Chuyển đổi lịch định kỳ**  
+  Các công việc batch có thể xử lý các đầu ra PCL lặp lại thành các tệp lịch cho các quy trình lập kế hoạch liên tục.
+
+* **Các pipeline thông báo tích hợp**  
+  Các tệp ICS đã chuyển đổi có thể được đính kèm vào các thông báo tự động hoặc hệ thống phối hợp.
+
+* **Quy trình lên lịch lập trình**  
+  Các ứng dụng doanh nghiệp có thể chuyển đổi các thời gian biểu được tạo từ in thành các tài liệu lịch có thể sử dụng ở quy mô lớn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

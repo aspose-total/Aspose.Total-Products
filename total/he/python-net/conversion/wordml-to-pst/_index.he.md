@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑PST תומכת בהמרת תוכן שמקורו במסמך לתהליכי טבלאות אחסון אישיות המשמשים לארגון והגירה של נתוני תיבת דואר. זה רלוונטי כאשר יש צורך לשלב מידע מהמסמך באחסון דוא"ל רחב יותר או בפעולות ארכיון.
+
+ממשקי API של Python יכולים לסייע בעיבוד הקשור ל‑WordML ל‑PST על‑ידי ארגון התוכן להכנה בקנה מידה של הודעות וארכיונים בסביבות תקשורת ארגוניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **הכנת ארכיון תיבת דואר**
+  משתמש בתוכן המסמך כחומר מקור לתהליכי אחסון דואר אישי.
+
+* **תמיכה במיגרציה ושימור**
+  מסייע לשלב טקסט מובנה במערכות תקשורת ממוקדות ארכיון.
+
+* **איחוד תוכן ארגוני**
+  תומך באריזת רשומות שמקורן במסמך בתהליכים ממוקדי תיבת דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות הכנת ארכיון**
+  מממש אוטומציה של המרת תוכן WordML לתהליכי אחסון בקנה מידה גדול.
+
+* **איחוד נתוני דואר**
+  תומך באינטגרציה חוזרת של תקשורת מבוססת מסמך לתוך פעולות ארכיון.
+
+* **אוטומציה של תהליך השימור**
+  מסייע לתקנן הכנת תוכן ממסמך לתיבת דואר במערכות שונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

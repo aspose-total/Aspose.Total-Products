@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to VCF conversion transforms Word template content into a contact card format used for storing and sharing personal or organizational contact information. It is useful when templates contain structured contact details that need to be reused in communication systems.
+
+Using Python APIs, this conversion supports automation by enabling contact extraction, digital address book generation, and scalable synchronization of document-based contact records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Trích xuất Thông tin Liên hệ**
+  Convert structured contact details from templates into reusable digital cards.
+
+* **Chuẩn bị Danh bạ**
+  Build portable contact records from document-based information.
+
+* **Tích hợp Hệ thống Giao tiếp**
+  Reuse template content in address books and contact-sharing workflows.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Tạo Liên hệ Tự động**
+  Create VCF files from DOTX templates for onboarding or directory processes.
+
+* **Xuất Liên hệ Hàng loạt**
+  Convert repeated document-based records into shareable contact cards.
+
+* **Quy trình Liên hệ Đồng bộ**
+  Feed converted contact data into communication and CRM-related systems.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

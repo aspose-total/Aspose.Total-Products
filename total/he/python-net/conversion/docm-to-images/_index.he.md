@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM לתמונות ממירה מסמכים עם מקרו לפלטי קבצים חזותיים, מה שמקל על תצוגה מקדימה, שיתוף, ארכוב או הטמעה במערכות אחרות. זה שימושי כאשר יש צורך לשמר את האמינות החזותית של המסמך בפלטפורמות שאינן תומכות באופן טבעי בפורמטים ניתנים לעריכה.
+
+בזרימות עבודה מונעות אוטומציה, המרת DOCM לתמונות תומכת בצינורות רינדור של מסמכים, יצירת תמונות ממוזערות, מערכות סקירה חזותיות ותהליכי פרסום בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **תצוגה חזותית של מסמך**
+  ממיר דפים לקבצי תמונה שקל להציגם בדפדפנים וביישומים.
+
+* **שיתוף תוכן**
+  מאפשר הפצה מהירה של תמונות מסמך כאשר עריכה אינה נדרשת.
+
+* **אמינות ארכיון**
+  שומר על המראה החזותי של המסמך המקורי לצורך הפנייה ועמידה בתקנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תמונות ממוזערות ותצוגה מקדימה**
+  יוצר באופן אוטומטי תמונות לגלריות מסמכים, רשימות או פורטלים.
+
+* **צינורות פרסום**
+  תומך ביצוא חזותי לאתרים, בסיסי ידע, וצופים למסמכים.
+
+* **תהליכי רינדור במאצ'**
+  מעבד מספר גדול של קבצי DOCM לפלטי תמונה ללא התערבות ידנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

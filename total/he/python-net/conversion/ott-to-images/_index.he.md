@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT לתמונות ב-APIs של Python ממירה תבניות טקסט של OpenDocument לפלטי תמונה לשיתוף חזותי, יצירת תצוגות מקדימות ופרסום סטטי. זה שימושי כאשר יש צורך להציג את תוכן המסמך באופן עקבי על פני פלטפורמות מבלי להסתמך על פורמטים ניתנים לעריכה.
+
+המרה זו תורמת לאוטומציה על ידי אפשרות ליצירת קווי רינדור ניתנים להרחבה לתצוגות מקדימות, תמונות ממוזערות, נכסי אינטרנט וצלמי מסמכים שניתן לייצר באופן תכנותי ולהפיץ באופן רחב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תצוגה מקדימה חזותית**  
+  יוצרת ייצוגים סטטיים של תוכן המסמך לצפייה מהירה.
+
+* **שיתוף חוצת פלטפורמות**  
+  מקלה על הצגת התוכן במקומות שבהם תמיכת המסמכים מוגבלת.
+
+* **תמיכה בפרסום**  
+  מייצרת נכסי תמונה לאינטרנט, לדיווח או לשימוש בארכיון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **קווי יצירת תמונות ממוזערות**  
+  מייצר תמונות תצוגה מקדימה מקבצי OTT בכמות גדולה.
+
+* **זרימות עבודה של פרסום תוכן**  
+  ממיר תבניות לנכסי חזות עבור פורטלים או אתרי תיעוד.
+
+* **ארכוב צילומי מסך אוטומטי**  
+  שומרת על מצבי המסמך כפלטי תמונה שאינם ניתנים לעריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

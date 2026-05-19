@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑TSV ממירה את תוכן המסמך לפורמט טקסט מופרד בטאבים המתאים להחלפת נתונים מובנית ולעיבוד קל משקל. היא חשובה כאשר יש להעביר טבלאות או רשומות מבוססות מסמך למבנה פשוט וקריא למכונה.
+
+באמצעות ממשקי API של Python, המרת ODT ל‑TSV תומכת בחילוץ נתונים בר‑קנה מידה, צינורות קלט, ועיבוד מסמכים מתואם. היא מפשטת את העברת התוכן המובנה לניתוחים, אחסון, ותהליכי שינוי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ייצוא מובנה פשוט**  
+  ממיר טבלאות מסמך לפורמט קל משקל מופרד בטאבים.
+
+* **הכנת צינור נתונים**  
+  תומך בקליטת נתונים קלה למערכות עיבוד וניתוח.
+
+* **נרמול רשומות**  
+  מסייע לתקנן את התוכן המוחלץ לשימוש בשלבים הבאים.
+
+* **החלפה טקסטית מתואמת**  
+  הופך את תוכן המסמך המובנה לקל יותר להעברה בין פלטפורמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **חילוץ טבלאות אוטומטי**  
+  זרימות עבודה ב‑Python יכולות להמיר תוכן ODT ל‑TSV לפלט מוכן לצינור.
+
+* **המרה קבוצתית לניתוח**  
+  קבוצות גדולות של מסמכים ניתן לייצא לטקסט מובנה פשוט באופן אוטומטי.
+
+* **תהליכי ניקוי וייצוא נתונים**  
+  ניתן לאמת ערכים מוחלצים לפני כתיבתם לקבצי TSV.
+
+* **צינורות אינטגרציית מערכת**  
+  פלטי TSV שהומרו יכולים להזין מסדי נתונים, סקריפטים, או תהליכי דיווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑CSV משנה תוכן תבנית Word מובנה לערכי מופרדים בפסיקים כדי להקל על חילופי נתונים, דיווח, ואינטראופרטיביות מערכת. זה שימושי כאשר מידע מבוסס מסמך צריך להיות משומש מחדש בתהליכי עבודה טבלאיים או מיובא לניתוחים ומערכות עסקיות.
+
+המרה זו תומכת באוטומציה על‑ידי הפיכת תוכן תבנית שניתן להשתמש בו מחדש למערכי נתונים קריאים למכונה שניתן לעבד בצינורות, לסנכרן עם מאגרי נתונים, ולהרחיב על‑גבי פעולות מרובות מסמכים באמצעות API‑ים של Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתונים מובנה**
+  המרת תוכן מסמך מונחה תבנית לשורות ועמודות לעיבוד המשכי.
+
+* **תהליכי דיווח**
+  הכנת נתוני המסמך ללוחות מחוונים, ביקורות וניתוח מבוסס גיליונות אלקטרוניים.
+
+* **אינטראופרטיביות מערכת**
+  הפיכת ייבוא תוכן המסמך לפלטפורמות נתונים ויישומי עסקים לקלה יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **עיבוד מסמכים במקבץ**
+  המרה אוטומטית של קבצי DOTX מרובים ל‑CSV לטיפול בנתונים בקנה מידה גדול.
+
+* **צינורות תבנית-למאגר**
+  שימוש בפלט CSV כפורמט ביניים לייבוא אוטומטי למאגרי נתונים.
+
+* **נרמול נתוני תפעול**
+  אחידות פלטי מסמכים חוזרים לפורמט המתאים לאוטומציה מתוזמנת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

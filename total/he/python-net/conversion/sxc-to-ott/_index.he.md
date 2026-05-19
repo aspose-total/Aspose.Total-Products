@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל-OTT ממירה תוכן מבוסס גיליון אלקטרוני לפורמט תבנית מסמך פתוח המיועד ליצירת מסמכי טקסט חוזרים ומובנים. זה שימושי כאשר מידע מגיליון צריך למלא תבניות ניתנות לשימוש חוזר עבור דוחות, הודעות, סיכומים או מסמכים פנימיים מתוקננים.
+
+עם ממשקי API של Python, המרת SXC ל-OTT תומכת באוטומציה יעילה על ידי אפשרות לתהליכי עבודה ממוקדי תבנית המשפרים עקביות, מצמצמים עיצוב ידני, ומפשטים יצירת מסמכים בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית פתוחה**  
+  הופכת נתוני גיליון לתבניות ניתנות לשימוש חוזר ליצירת מסמכים עתידיים.
+
+* **פריסות מסמך עקביות**  
+  מסייעת לשמור על עיצוב אחיד במשימות תיעוד עסקיות חוזרות.
+
+* **נכסי תהליך ניתנים לשימוש חוזר**  
+  תומכת ביצירת קבצי תבנית המייעלים את הכנת המסמכים התפעוליים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות אוטומציה של תבניות**  
+  מייצרת תבניות OTT מקבצי SXC דרך תהליכי המרה מבוססי Python.
+
+* **יצירת פלט מתוקננת**  
+  מאפשרת יצירת מסמכים חוזרים מתבנית פתוחה ניתנת לשימוש חוזר אחת.
+
+* **שיפור יעילות התהליך**  
+  מצמצמת זמן הגדרה ידני על ידי הכנת תבניות מובנות בתכנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

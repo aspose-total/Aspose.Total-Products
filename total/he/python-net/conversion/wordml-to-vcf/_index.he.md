@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑VCF ממירה מידע קשר מבוסס מסמכים לקבצי vCard שניתן לייבא למערכות ניהול קשרים. זה שימושי כאשר שמות, מספרי טלפון, כתובות או פרטים קשורים המאוחסנים במסמכים צריכים להפוך לרשומות קשר מתוקננות.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת WordML ל‑VCF כדי לחלץ שדות קשר רלוונטיים וליצור פלטי vCard ניידים עבור CRM, ספריות ותהליכי סינכרון.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* **חילוץ רשומות קשר**
+  ממיר פרטי קשר ממסמכי WordML לקבצי VCF שניתן לייבא.
+
+* **תמיכה בספרייה ו‑CRM**
+  מסייע להעביר נתוני קשר מבוססי מסמכים למערכות קשר מובנות.
+
+* **שיתוף קשר נייד**
+  מאפשר חילוף תקני של מידע קשר בין פלטפורמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קשרים בכמות גדולה**
+  מאפשר אוטומציה של יצירת קבצי VCF מספריות, טפסים או רשימות קשר המאוחסנות ב‑WordML.
+
+* **הכנת נתוני CRM**
+  תומך בקליטת רשומות קשר מתוקננות למערכות עסקיות אוטומטיות.
+
+* **הפעלת תהליך סינכרון**
+  ממיר פרטי קשר המוחזקים במסמכים לקבצים ניידים לסינכרון מחזורי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi DOT sang TSV thay đổi các mẫu tài liệu thành các tệp dữ liệu phân tách bằng tab, đơn giản, di động và dễ xử lý. Điều này có giá trị khi nội dung mẫu có cấu trúc phải được xuất ra định dạng dựa trên dấu phân cách, hỗ trợ trao đổi dữ liệu đáng tin cậy.
+
+Bằng cách sử dụng các API Python, quy trình làm việc chuyển đổi DOT sang TSV có thể được tự động hoá để hỗ trợ việc trích xuất dữ liệu sạch, khả năng tương tác hệ thống và xử lý tài liệu sang dữ liệu có khả năng mở rộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Xuất văn bản có cấu trúc**
+  Chuyển đổi các tệp DOT sang TSV để xử lý dữ liệu dựa trên dấu phân cách một cách sạch sẽ.
+
+* **Trao đổi dữ liệu thân thiện với hệ thống**
+  Sử dụng đầu ra TSV khi tab được ưu tiên để tách trường một cách dự đoán được.
+
+* **Trích xuất nội dung mẫu**
+  Tái sử dụng thông tin tài liệu thành định dạng đơn giản cho các script và công cụ vận hành.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Trích xuất dữ liệu tự động**
+  Các script Python có thể chuyển đổi các mẫu DOT thành tệp TSV cho các công việc xử lý định kỳ.
+
+* **Hỗ trợ quy trình ETL**
+  Việc chuyển đổi giúp đưa dữ liệu xuất phát từ mẫu vào các pipeline và hệ thống tích hợp.
+
+* **Xuất bản dựa trên văn bản có khả năng mở rộng**
+  Biến đổi bằng chương trình cho phép tạo ra TSV với khối lượng lớn từ các kho tài liệu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

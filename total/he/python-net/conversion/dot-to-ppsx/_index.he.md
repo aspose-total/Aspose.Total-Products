@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑PPSX משנה תבניות עיבוד תמלילים לקבצי מצגת מודרניים המיועדים להפעלה ישירה של מצגת. זה שימושי כאשר יש צורך לשתף את תוכן המסמך בפורמט תצוגה מלוטש ללא צורך בגישה לעריכה.
+
+באמצעות ממשקי API של Python, צוותים יכולים לאוטומט את יצירת קבצי PPSX מתבניות DOT לפרסום מצגות יעיל ולמסירת תוכן חוזרת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **ייצוא מצגת מודרנית**
+  המרת תבניות DOT ל‑PPSX לצורך מסירה עם עדיפות למצגת.
+
+* **שיתוף תוכן בלתי ניתן לעריכה**
+  ספק פלטים מבוססי שקופיות הפתוחים ישירות במצב מצגת.
+
+* **פרסום מצגות מבוסס תבנית**
+  השתמש בתוכן מסמך מובנה מחדש לתקשורת חזותית מבוקרת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום מצגת אוטומטי**
+  תהליכי עבודה ב‑Python יכולים ליצור קבצי PPSX מתבניות DOT להפצת תוכן.
+
+* **צינורות אספקת מצגות**
+  המרה מחברת מקורות מסמך למערכות פרסום שקופיות הממוקדות בתצוגה.
+
+* **יצירת פלט חזותי בכמות גדולה**
+  תהליכים תכנותיים תומכים בייצור בר‑קנה מידה של קבצים מוכנים למצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

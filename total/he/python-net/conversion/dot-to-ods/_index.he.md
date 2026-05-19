@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל-ODS ממירה תבניות עיבוד תמלילים לגיליונות OpenDocument לטיפול במבני נתונים ותאימות לתהליכי עבודה פתוחים. זה חשוב כאשר תוכן המסמך צריך לעבור לפורמט גיליון שמאפשר ניתוח, מעקב או דיווח.
+
+API של פייתון מאפשרים אוטומציה של המרת DOT ל-ODS כך שהצוותים יכולים להפוך מסמכים לנכסי גיליון פתוח במהירות ובאופן עקבי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת גיליון פתוח**
+  המרת קבצי DOT ל-ODS לצורך סקירה וניתוח ממוקדי נתונים.
+
+* **מבנה נתוני תבנית**
+  העברת תוכן מסמך שניתן לשימוש חוזר לצורת גיליון לשימוש תפעולי.
+
+* **החלפה חוצת פלטפורמות**
+  שיתוף מידע שהוצא בפורמט פתוח המתאים לסביבות מגוונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **תהליכי עבודה אוטומטיים של גיליונות**
+  סקריפטים בפייתון יכולים להפוך תבניות DOT לקבצי ODS בצינורות מתוזמנים.
+
+* **אינטגרציית נתונים פתוחה**
+  ההמרה תומכת במערכות המתבססות על פורמטים פתוחים של גיליונות לעיבוד.
+
+* **המרת מסמכים בכמות גדולה**
+  אוטומציה תכנותית מסייעת לייצר פלטי ODS מרבות תבניות ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

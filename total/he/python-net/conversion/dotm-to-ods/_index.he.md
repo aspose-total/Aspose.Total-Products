@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑ODS ממירה תבניות Word עם מקרו לקבצי OpenDocument Spreadsheet, מה שמקל על ניתוח ושיתוף של נתוני המסמך המופקים בסביבות גיליון אלקטרוני פתוחות. היא בעלת ערך לתהליכי עבודה מבוססי תקנים הדורשים ניידות של נתונים מובנים.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑ODS משפר את האוטומציה על‑ידי הפיכת תוכן התבנית לגיליונות אלקטרוניים ניתנים לשימוש חוזר ללא העתקה ידנית. זה תומך בצינורות מסמך‑ל‑נתונים בקנה מידה, משפר את האינטרופראביליות, ועוזר למערכות מודרניות לעבוד עם תקני גיליון אלקטרוני פתוחים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **דיווח גיליון אלקטרוני פתוח**
+  המרת תוכן DOTM ל‑ODS לניתוח ושיתוף פעולה בכלים מבוססי תקנים.
+
+* **ייצוא נתונים מובנה**
+  העברת טבלאות ותוכן חוזר מתבניות לצורת גיליון אלקטרוני לשימוש חוזר.
+
+* **תמיכה בתהליכי עבודה אינטרופראביליים**
+  הפיכת החלפת נתונים רחבה יותר אפשרית באמצעות פורמט גיליון אלקטרוני פתוח מוכר נרחבות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת גיליון אלקטרוני אוטומטית**
+  תהליכי עבודה יכולים ליצור קבצי ODS מתבניות DOTM כחלק מצינורות דיווח או ייבוא.
+
+* **עיבוד נתונים מבוסס תקנים**
+  ההמרה תומכת במערכות שמאוטומטות פעולות סביב פורמטים של מסמכים פתוחים.
+
+* **המרת תבניות בכמות גדולה**
+  משימות תכנותיות יכולות להמיר מספר רב של קבצי DOTM ל‑ODS ביעילות ובאופן עקבי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

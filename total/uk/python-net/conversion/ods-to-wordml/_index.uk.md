@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to WORDML conversion converts spreadsheet files into WordprocessingML, an XML-based document format used for structured document representation. This enables spreadsheet data to be represented in machine-readable document structures.
+
+Python APIs allow automated generation of WordprocessingML documents from spreadsheet inputs. This supports scalable document processing, data transformation pipelines, and integration with structured document workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Structured Document Generation**  
+  Convert spreadsheet data into XML-based document structures.
+
+* **Data Interoperability**  
+  Enable machine-readable document formats derived from spreadsheets.
+
+* **Document Processing Pipelines**  
+  Integrate spreadsheet content into XML-based document workflows.
+
+* **Content Transformation**  
+  Transform tabular spreadsheet information into structured document data.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Programmatic Document Generation**  
+  Python systems generate structured documents directly from spreadsheet inputs.
+
+* **Batch XML Document Conversion**  
+  Automated pipelines convert large sets of spreadsheets into WordprocessingML.
+
+* **Data Integration Workflows**  
+  Structured documents generated from spreadsheets integrate with enterprise systems.
+
+* **Dynamic Content Transformation**  
+  Programmatic pipelines transform spreadsheet datasets into XML-based document formats.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

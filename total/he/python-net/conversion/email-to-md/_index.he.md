@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Email ל‑MD בפייתון ממירה את תוכן ההודעה ל‑Markdown לתיעוד טקסטואלי קל משקל, נייד וידידותי לגרסאות. היא בעלת ערך מיוחד כאשר יש צורך להשתמש במידע מה‑email בתיעוד, בסיסי ידע, תהליכי פיתוח, או מערכות פרסום.
+
+המרה זו משפרת אוטומציה על‑ידי הפיכת תוכן ה‑email לקל יותר לניתוח, אחסון, שינוי ופרסום במאגרים הממוקדים בטקסט עם מינימום עומס עיצוב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פרסום בסיס ידע**
+  המרת אימיילים ל‑Markdown עבור פורטלי תיעוד וויקיות פנימיות.
+
+* **ארכיונים מבוקרי גרסאות**
+  שמירת תקשורת חשובה בפורמט טקסט המתאים למעקב במאגרי קוד.
+
+* **פישוט תוכן**
+  הפחתת עיצוב מורכב של אימיילים למרקם נקי ונייד לשימוש חוזר.
+
+* **תהליכי עבודה ממוקדי מפתחים**
+  שימוש בפלטי Markdown כאשר צוותים טכניים מנהלים תוכן במערכות מבוססות טקסט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה מתיבת דואר ל‑Wiki**
+  המרת אימיילים נבחרים לעמודי Markdown עבור פלטפורמות ידע ניתנות לחיפוש.
+
+* **עדכוני תיעוד מבוססי מאגר**
+  הגשת תוכן הודעה מומר לפייפליינים של תוכן מבוססי גרסאות באופן אוטומטי.
+
+* **תהליכי פרסום סטטיים**
+  הזנת פלטי אימייל Markdown למחוללים ולמערכות אוטומציה של תוכן.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

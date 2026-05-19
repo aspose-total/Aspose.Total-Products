@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑EPUB ממירה מידע כרטיסי קשר לפורמט פרסום דיגיטלי נמתח, מה שהופך את התוכן לנגיש בסביבות קריאה ניידות ובתהליכי תיעוד ניידים. זה שימושי כאשר יש צורך לאגד נתוני קשר לחומר ייחוס דיגיטלי מובנה.
+
+באמצעות ממשקי API של Python, המרת VCF ל‑EPUB יכולה לתמוך בצינורות פרסום אוטומטיים על‑ידי הפיכת רשומות קשר לתוכן נייד ומאורגן שקל להפיץ ולצפות בו במכשירים שונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פרסום ייחוס דיגיטלי**  
+  המרת נתוני קשר לקבצי EPUB לקריאה ניידת והפצה.
+
+* **אריזת מידע מובנית**  
+  ארגון רשומות קשר לתוכן דיגיטלי ידידותי לפרסום.
+
+* **נגישות חוצת מכשירים**  
+  מסירת מידע קשר בפורמט המתאים למגוון סביבות קריאה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ספר קשר אוטומטית**  
+  יצירת קבצי EPUB ממספר רב של רשומות VCF עבור מדריכים ניידים.
+
+* **שילוב בתהליך פרסום**  
+  הזנת תוכן קשר שהומר לתהליכי פרסום דיגיטליים.
+
+* **צינורות הפצה ניתנים להרחבה**  
+  שימוש בממשקי API של Python לייצור והפצת פלטי EPUB מובנים ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

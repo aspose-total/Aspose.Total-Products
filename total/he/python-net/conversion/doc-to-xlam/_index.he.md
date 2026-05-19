@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑XLAM ממירה תוכן Word לפלט גיליון אלקטרוני קשור לתוסף עבור תרחישים הכוללים פונקציונליות מתקדמת מבוססת Excel ורכיבי אוטומציה ניתנים לשימוש חוזר. היא שימושית כאשר לוגיקה נגזרת ממסמך או תוכן מובנה חייבים לתמוך בתוספי גיליון אלקטרוני.
+
+ממשקי API של Python יכולים לייעל זרימות עבודה של המרת DOC ל‑XLAM, ולעזור לארגונים לשלב שינוי מסמכים בסביבות אוטומציה מתקדמות של גיליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **תמיכה בתוסף גיליון אלקטרוני**
+  המרת תוכן מסמך רלוונטי לזרימות עבודה הקשורות לפריסת תוסף Excel.
+
+* **אריזת אוטומציה מתקדמת**
+  תמיכה בתהליכים מובנים שבהם תוכן המסמך מזין פונקציונליות גיליון אלקטרוני ניתנת לשימוש חוזר.
+
+* **תקינה של תהליכים**
+  הפיכת תיעוד פורמלי לנכסים המתואמים עם זרימות עבודה מתקדמות של גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרה ממוקדת אוטומציה**
+  הכנת פלטים קשורים ל‑XLAM ממקורות DOC באופן תכנותי בזרימות עבודה מבוקרות.
+
+* **צינורות לוגיקה של גיליון אלקטרוני ניתנים לשימוש חוזר**
+  המרת נכסים מבוססי מסמך לפורמטים המתאימים לפעולות מתקדמות ב‑Excel.
+
+* **שילוב זרימת עבודה ארגונית**
+  אוטומציה של שינוי מסמכים לצוותים המשתמשים בתוספי גיליון אלקטרוני בקנה מידה רחב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

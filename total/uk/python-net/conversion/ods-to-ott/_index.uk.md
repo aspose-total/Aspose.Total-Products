@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to OTT conversion converts spreadsheet files into OpenDocument text templates. These templates enable reusable document structures that can be used for consistent document generation.
+
+Python APIs allow developers to automate the creation of template documents from spreadsheet content. This supports scalable document workflows and efficient template management across systems.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Створення багаторазових шаблонів**  
+  Перетворюйте структури електронних таблиць у багаторазові шаблони документів.
+
+* **Стандартизація документів**  
+  Забезпечуйте послідовне форматування документів за допомогою робочих процесів, заснованих на шаблонах.
+
+* **Структурування вмісту**  
+  Перетворюйте табличну інформацію електронних таблиць у документи, готові до використання шаблонів.
+
+* **Управління шаблонами Open Document**  
+  Підтримуйте стандартизовані шаблони, отримані з даних електронних таблиць.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизоване створення шаблонів**  
+  Python‑робочі процеси створюють шаблони документів на основі вхідних даних електронних таблиць.
+
+* **Пакетна обробка шаблонів**  
+  Системи перетворюють кілька ODS‑файлів у багаторазові шаблони документів.
+
+* **Динамічні системи документів**  
+  Робочі процеси, засновані на шаблонах, генерують документи програмно.
+
+* **Інтеграція шаблонів у робочі процеси**  
+  Шаблони, отримані з електронних таблиць, підтримують автоматизоване створення документів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

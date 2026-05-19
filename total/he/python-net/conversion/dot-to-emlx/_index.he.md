@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑EMLX משנה תבניות מסמכים לפורמט קובץ דוא"ל המשמש בדרך כלל במערכות דואר מסוימות. זה שימושי כאשר יש צורך להכין תוכן מונחה תבניות לאחסון דוא"ל ספציפי לפלטפורמה או לתרחישי הגירה.
+
+באמצעות ממשקי API של Python, צוותים יכולים לאוטומט את יצירת קבצי EMLX מקבצי DOT, מה שמסייע לתקנון יצירת הודעות ופשטת האינטגרציה עם זרימות עבודה של דואר ממוקדות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **ייצוא דוא"ל ספציפי לפלטפורמה**
+  המרת תוכן DOT ל‑EMLX לתאימות עם סביבות דואר נתמכות.
+
+* **הגירת דואר מבוססת תבניות**
+  השתמש מחדש בתבניות עיבוד תמלילים כנכסי דוא"ל מובנים במהלך מעברי מערכת.
+
+* **שימור הודעות**
+  אחסן תקשורת שמקורה במסמכים בפורמט קובץ דוא"ל ייעודי לשימוש חוזר או לביקורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרת פורמט דוא"ל אוטומטית**
+  משימות Python יכולות ליצור קבצי EMLX מתבניות DOT בזרימות עבודה חוזרות.
+
+* **תהליכי תמיכת הגירה**
+  המרה מסייעת להעביר תוכן תבניות למערכות דוא"ל עם מאמץ ידני מינימלי.
+
+* **יצירת פלט במרוכז**
+  צינורות תכנותיים יכולים ליצור קבצי EMLX ממספר מסמכי מקור בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

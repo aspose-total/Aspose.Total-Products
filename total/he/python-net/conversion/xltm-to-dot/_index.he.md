@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTM ל‑DOT בפייתון תומכת בהמרת תבניות Excel עם מקרו לקבצי תבנית Word המשמשים למבני מסמכים שניתן להשתמש בהם מחדש. זה מועיל כאשר יש צורך לשנות פריסות או דפוסי תוכן שמקורם בגיליונות אל תבניות מסמך לשימוש חוזר.
+
+במערכות המתמקדות באוטומציה, המרת XLTM ל‑DOT משפרת תקנון תבניות, מאפשרת יצירת מסמכים חוזרים, ותומכת בהכנת תוכן יעילה בין פורמטים שונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית מסמך לשימוש חוזר**  
+  ממירה תוכן תבנית מבוסס גיליון אל קבצי תבנית Word ליצירת מסמכים חוזרים.
+
+* **פלט עיצוב תקני**  
+  מסייעת לשמור על מבנה עקבי בעת המעבר מתבניות חוברת עבודה לתבניות מסמך.
+
+* **מסגרות תיעוד פנימיות**  
+  תומכת בארגונים הבונים מסמכים חוזרים מתבניות מקור מובנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציית פרסום תבניות**  
+  מייצרת קבצי DOT באופן אוטומטי ממקורות XLTM לשימוש במערכות יצירת מסמכים.
+
+* **תקנון תוכן רב‑מחלקתי**  
+  מאפשרת הפצה עקבית של תבניות בין צוותים באמצעות חומר מקור מונע גיליונות.
+
+* **ספריות תבניות מונעות המרה**  
+  תומכת ביצירת ספריות תבניות Word לשימוש חוזר באופן אוטומטי מנכסי תבניות Excel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MOBI ל‑XLSB בפייתון ממירה תוכן מבוסס ספר אלקטרוני לפורמט גיליון אלקטרוני בינארי שנועד לאחסון יעיל וביצועים. זה במיוחד שימושי בעת טיפול בתוצרים מובנים גדולים יותר שמרוויחים מייצוג חוברת עבודה קומפקטית וטעינה מהירה יותר בסביבות גיליון אלקטרוני.
+
+לצורך אוטומציה, המרת MOBI ל‑XLSB תומכת בעיבוד ברמת נפח גבוהה, טיפול יעיל בקבצים, וייצור גיליונות אלקטרוניים ניתנים להרחבה. היא מתאימה היטב לצינורות מסמכים שדורשים פלט ממוקד ביצועים תוך שמירה על מבנה הגיליון לניתוח ולשימוש תפעולי.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **אחסון חוברת עבודה יעיל**
+  המרת תוכן MOBI ל‑XLSB כדי להפחית עומס בעבודות גיליון אלקטרוני גדולות יותר.
+
+* **טיפול בנתונים בעומס גבוה**
+  השתמש בפלט חוברת עבודה בינארית לייצוא נתונים מובנים שדורש מאפייני ביצועים טובים יותר.
+
+* **הפצה מבוססת גיליון אלקטרוני**
+  מסור מידע מחולץ בפורמט המתאים לשימוש אינטנסיבי בגיליונות אלקטרוניים תפעוליים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **משימות ייצוא ממוקדות ביצועים**
+  יצירת קבצי XLSB באופן אוטומטי כאשר זרימות עבודה מעבדות קבוצות גדולות של נתונים שמקורם בספרים אלקטרוניים.
+
+* **צינורות גיליון אלקטרוני ניתנים להרחבה**
+  השתמש בלוגיקת המרה בפייתון כדי לייצר פלטי חוברות עבודה קומפקטיים למשימות אצווה חוזרות.
+
+* **מסירת נתונים תפעוליים**
+  הפנה תוכן מובנה לקבצי גיליון אלקטרוני בעלי יעילות גבוהה לצוותים ולמערכות בתהליכים הבאים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

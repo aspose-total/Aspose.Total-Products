@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi EMLX sang MD bằng Python biến nội dung email thành các tệp Markdown dễ đọc, chỉnh sửa, quản lý phiên bản và xuất bản. Điều này hữu ích khi cần tái sử dụng thông tin dựa trên tin nhắn thành các tài liệu văn bản nhẹ cho quy trình tài liệu hoặc nội dung.
+
+Trong các kịch bản tự động, việc chuyển đổi EMLX sang MD hỗ trợ trích xuất văn bản sạch, xuất bản hợp lý và tích hợp hiệu quả với các hệ thống thân thiện với nhà phát triển. Nó đặc biệt hiệu quả cho việc quản lý kiến thức quy mô lớn và các pipeline chuyển đổi nội dung.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tài liệu nhẹ**  
+  Chuyển đổi các tệp EMLX sang Markdown để có các tài liệu dựa trên văn bản đơn giản, dễ đọc.
+
+* **Nội dung được kiểm soát phiên bản**  
+  Lưu trữ thông tin xuất phát từ email dưới dạng phù hợp cho việc cập nhật có theo dõi.
+
+* **Chuẩn bị cơ sở kiến thức**  
+  Tái sử dụng nội dung tin nhắn trong các hệ thống tài liệu có cấu trúc.
+
+* **Sẵn sàng xuất bản**  
+  Chuẩn bị nội dung đã chuyển đổi cho các trang tĩnh hoặc nền tảng nội dung ưu tiên văn bản.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Các pipeline tài liệu tự động**  
+  Chuyển đổi hàng loạt các tệp EMLX sang Markdown để tái sử dụng nội dung quy mô lớn.
+
+* **Quy trình xuất bản tĩnh**  
+  Cung cấp đầu ra MD vào các hệ thống tạo và xuất bản trang tự động.
+
+* **Quy trình chuẩn hoá văn bản**  
+  Sử dụng các script Python để chuẩn hoá nội dung tin nhắn thành cấu trúc markdown.
+
+* **Quản lý nội dung dựa trên kho lưu trữ**  
+  Tích hợp các tệp Markdown đã chuyển đổi vào các pipeline tự động có phiên bản.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

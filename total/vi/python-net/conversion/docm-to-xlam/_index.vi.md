@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to XLAM conversion chuyển đổi các tài liệu có macro thành các đầu ra dạng bảng tính kiểu add‑in được thiết kế để hỗ trợ chức năng bảng tính có thể tái sử dụng. Nó hữu ích khi logic dựa trên tài liệu hoặc nội dung có cấu trúc cần đóng góp vào các quy trình làm việc bảng tính có thể mở rộng.
+
+Trong các hệ thống tự động, chuyển đổi DOCM sang XLAM giúp đóng gói các khả năng tái sử dụng, chuẩn hoá các chức năng bảng tính nâng cao, và kết nối các quy trình dựa trên tài liệu với môi trường sổ làm việc có thể mở rộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Mở rộng Bảng tính Tái sử dụng**
+  Hỗ trợ tạo ra các đầu ra kiểu add‑in từ logic dựa trên tài liệu hoặc nội dung có cấu trúc.
+
+* **Chuẩn hoá Quy trình làm việc**
+  Giúp tập trung hành vi bảng tính tái sử dụng trên các hoạt động lặp lại.
+
+* **Kích hoạt Bảng tính Nâng cao**
+  Kết nối nội dung tài liệu được tạo ra với các trường hợp sử dụng bảng tính mở rộng hơn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Chuẩn bị Add‑In Tự động**
+  Chuyển đổi nguồn DOCM thành các đầu ra tương thích XLAM cho các quy trình làm việc bảng tính chuẩn hoá.
+
+* **Phân phối Logic Tái sử dụng**
+  Hỗ trợ cung cấp quy mô các khả năng bảng tính lặp lại cho các nhóm.
+
+* **Tích hợp Bảng tính Theo chương trình**
+  Kết nối việc chuyển đổi tài liệu với các quy trình tự động hoá dựa trên sổ làm việc nâng cao.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

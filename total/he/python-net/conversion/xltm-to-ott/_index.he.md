@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM ל-OTT המרה בפייתון תומכת בהמרת תבניות Excel עם מקרו לתבניות טקסט של מסמכים פתוחים ליצירת מסמכים חוזרים וסטנדרטיים. זה שימושי כאשר מבני תבניות מונעי‑גיליון צריכים להיות מומרות לתבניות בפורמט פתוח למשימות תיעוד חוזרות.
+
+במערכות אוטומטיות, המרת XLTM ל-OTT מסייעת ביצירת נכסים לשימוש חוזר, מקדמת תקנים פתוחים ומחזיקה בתהליכי ניהול תבניות בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית פתוחה**  
+  ממירה תבניות גיליון אל תבניות טקסט פתוחות לשימוש חוזר עבור פלט מתוקן.
+
+* **שימוש חוזר בתבניות בין מערכות**  
+  תומכת ביצירת מסמכים חוזרת באמצעות פורמטים של תבניות פתוחות וניתנות לעריכה.
+
+* **תמיכה בתהליך עבודה נייטרלי פורמט**  
+  עוזרת לארגונים לאמץ אסטרטגיות תבנית גמישות שאינן קשורות למערכת קבצים יחידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של ספריית תבניות**  
+  מייצרת תבניות OTT מקבצי XLTM לשימוש בתהליכי תיעוד חוזרים.
+
+* **שילוב תהליך עבודה עם תקנים פתוחים**  
+  תומכת בהפצת תבניות אוטומטית בין מערכות המבוססות על פורמטים של מסמכים פתוחים.
+
+* **ייצור תבניות בכמות גדולה**  
+  מאפשרת המרה בקנה מידה של תבניות גיליון לתוך נכסי תבניות טקסט לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

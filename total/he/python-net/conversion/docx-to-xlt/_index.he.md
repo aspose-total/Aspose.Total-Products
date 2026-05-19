@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ל‑XLT ממירה מסמכי עיבוד תמלילים לקבצי תבנית גיליון אלקטרוני המשמשים ליצירת גיליונות חוזרים. תהליך זה מאפשר לתוכן מובנה מהמסמכים להפוך לבסיסי גיליון אלקטרוני ניתנים לשימוש חוזר לדיווח ומשימות תפעוליות.
+
+ממשקי API של Python הופכים את המרת DOCX‑ל‑XLT למתאימה למערכות יצירת תבניות אוטומטיות, צינורות דיווח חוזרים, וזרימות עבודה של תקינה בגיליונות אלקטרוניים. הם תומכים בעקביות ביצירת גיליונות אלקטרוניים בין צוותים ותהליכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית גיליון אלקטרוני ניתנת לשימוש חוזר**  
+  ממירה תוכן DOCX לקבצי תבנית ליצירת גיליונות חוזרים.
+
+* **מבני דיווח מתוקננים**  
+  עוזר לארגונים לשמור על פריסות גיליון אלקטרוני עקביות וארגון נתונים.
+
+* **תהליכי עבודה ממסמך לתבנית**  
+  תומך בשימוש חוזר בנכסי מסמכים מובנים בסביבות גיליון אלקטרוני.
+
+* **הפצת תבניות תפעוליות**  
+  מאפשר יצירה בקנה מידה של תבניות גיליון אלקטרוני ממקורות כתובים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא תבנית אוטומטי**  
+  מערכות יכולות להמיר קבצי DOCX לתבניות XLT לתהליכי עבודה חוזרים של גיליון אלקטרוני.
+
+* **ייצור תבניות גיליון אלקטרוני במרוכז**  
+  סקריפטים ב‑Python יכולים ליצור תבניות גיליון אלקטרוני ניתנות לשימוש חוזר ממסמכים מרובים.
+
+* **צינורות תקינה ארגוניים**  
+  תוכן מסמך יכול להיות מומר לתבניות גיליון אלקטרוני לתפעול דיווח עקבי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

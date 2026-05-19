@@ -102,7 +102,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCX ל‑VCF משנה מידע קשר מבוסס מסמכים לקבצי כרטיסי קשר דיגיטליים המשמשים ספרי כתובות ומערכות ניהול קשרים. תהליך זה מאפשר לחלץ שמות, מספרי טלפון, כתובות דוא"ל ושדות קשר קשורים מהמסמכים לפורמט תקני נייד.
+
+באמצעות API‑ים של Python, ניתן לשלב המרת DOCX‑ל‑VCF בתהליכי נתוני לקוחות, צינורות העברת קשרים ומערכות תקשורת אוטומטיות. היא תומכת בהמרה בקנה מידה של נתוני קשר מובנים מהמסמכים לרשומות קשר שניתן להשתמש בהן מחדש.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתוני קשר**  
+  ממיר מידע קשר המאוחסן בקבצי DOCX לכרטיסי קשר דיגיטליים ניידים.
+
+* **העברת ספר כתובות**  
+  מאפשר רשימות קשר מבוססות מסמכים להיות מיובאות למערכות ניהול קשרים.
+
+* **שימוש חוזר במידע לקוח**  
+  תומך בהמרת רשומות קשר מובנות לתהליכי תקשורת.
+
+* **יצירת קובץ קשר נייד**  
+  מסייע להפיץ ולאחסן פרטי קשר בפורמט מקובל נרחב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת קובץ קשר אוטומטית**  
+  מערכות יכולות לחלץ שדות קשר מקבצי DOCX וליצור רשומות VCF באופן אוטומטי.
+
+* **צינורות העברת קשרים במצב אצווה**  
+  סקריפטים ב‑Python יכולים לעבד מספר מסמכים לכרטיסי קשר דיגיטליים.
+
+* **אוטומציה של CRM ותקשורת**  
+  נתוני קשר שמקורם במסמכים יכולים להיות מומרי לקבצי VCF עבור תהליכי פנייה מתואמים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

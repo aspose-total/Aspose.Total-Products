@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑XLS משנה את תוכן תבנית Word לפורמט גיליון אלקטרוני מסורתי לעריכה טבלאית, סקירה ותאימות עם זרימות עבודה של גיליונות אלקטרוניים ישנים. היא שימושית כאשר יש צורך להשתמש מחדש בנתונים שמקורם בתבנית בסביבות גיליונות אלקטרוניים מוכרות נרחבות.
+
+באמצעות ממשקי API של Python, המרה זו מאפשרת אוטומציה ניתנת להרחבה לדיווח, העברת נתונים והמרת תוכן מובנה במערכות עם עומס מסמכים גבוה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט גיליון אלקטרוני מדור קודם**
+  המרת תוכן המסמך לפורמט גיליון אלקטרוני מוכר עבור זרימות עבודה מבוססות.
+
+* **שימוש חוזר בנתונים טבלאיים**
+  העברת מידע מובנה מהתבנית לצורת גיליון אלקטרוני שניתן לערוך.
+
+* **הכנת דוחות**
+  תמיכה בסקירה תפעולית וניתוחית באמצעות כלי גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת גיליון אלקטרוני אוטומטית**
+  יצירת קבצי XLS מתבניות DOTX כחלק ממשימות דיווח חוזרות.
+
+* **צינורות מסמך‑לטבלה**
+  הפניית תוכן התבנית לזרימות עבודה של גיליונות אלקטרוניים באופן תכנותי.
+
+* **אספקת נתונים ממוקדת תאימות**
+  יצירת פלטים המתאימים לסביבות שעדיין תלויות בפורמטים של גיליונות אלקטרוניים ישנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

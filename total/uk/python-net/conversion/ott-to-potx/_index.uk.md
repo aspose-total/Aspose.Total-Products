@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to POTX conversion in Python APIs converts OpenDocument text templates into modern presentation template files for repeatable slide creation. This is valuable when structured written content must become a clean, reusable starting point for future presentations.
+
+The conversion supports automation by enabling template-based presentation workflows that reduce design repetition, improve consistency, and simplify large-scale content generation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Сучасний шаблонний вихід**  
+  Створює багаторазові шаблони презентацій з вмісту документу.
+
+* **Послідовне створення слайдів**  
+  Допомагає стандартизувати форматування та структуру у всіх презентаціях.
+
+* **Перетворення контенту в шаблон**  
+  Перетворює наративний вихідний матеріал у готові до презентації структури.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизована публікація шаблонів**  
+  Генерує файли POTX для повторюваних потреб у презентаціях.
+
+* **Масштабоване створення слайдів**  
+  Використовує стандартизовані шаблони для прискорення створення колод.
+
+* **Інтеграція операцій з контентом**  
+  З’єднує генерацію документів з повторюваними робочими процесами презентацій.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

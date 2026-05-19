@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál ODT-t hozzáadni EML-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT‑ról EML‑re konvertálás az OpenDocument Text fájlokat egy szabványos e‑mail üzenetformátumba alakítja, amely megőrzi az üzenet szerkezetét a tárolás, átvitel vagy archiválás céljaira. Ez akkor hasznos, amikor a dokumentum tartalmát e‑mail tárgyként kell csomagolni a kommunikáció vagy a nyilvántartáskezelés érdekében.
+
+Automatizálási környezetekben az ODT‑ról EML‑re konvertálás támogatja a dokumentum‑üzenet munkafolyamatokat, az e‑mail archiválási folyamatokat és a tömeges tartalomátalakítást. A Python API‑k lehetővé teszik, hogy ezek a feladatok programozottan és következetesen fussonak nagy dokumentumkészleteken.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **E‑mail üzenet létrehozása**  
+  Átalakítja a dokumentum tartalmát egy hordozható e‑mail üzenetformátumba.
+
+* **Archiválási csomagolás**  
+  Segít megőrizni a kommunikációra kész tartalmat egy szabványos struktúrában.
+
+* **Munkafolyamat átadás**  
+  Előkészíti a dokumentumokat olyan rendszerek számára, amelyek üzenetalapú cserét használnak.
+
+* **Tartalom terjesztésre való felkészültség**  
+  Lehetővé teszi a downstream kézbesítést vagy felülvizsgálatot e‑mail objektumokként.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált üzenetcsomagolás**  
+  A Python munkafolyamatok átalakíthatják a dokumentumokat EML fájlokká tárolás vagy átvitel céljából.
+
+* **Archiválási csővezetékek**  
+  Az ODT tartalom automatikusan konvertálható hosszú távú kommunikációs nyilvántartásokhoz.
+
+* **Tömeges e‑mail tárgy létrehozása**  
+  Nagy dokumentumgyűjtemények batch feladatokban feldolgozhatók EML formátumba.
+
+* **Rendszer‑rendszer közötti csere**  
+  Az automatizált folyamatok az EML kimeneteket használhatják üzenetalapú integrációkban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

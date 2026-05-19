@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת BMP ל‑VCF מאפשרת קישור של תמונות ביטמפה לכרטיסי קשר דיגיטליים המאוחסנים בפורמט VCF. גישה זו מאפשרת לכלול תמונות פרופיל או מזהים חזותיים בתוך רשומות הקשר.
+
+מערכות אוטומציה יכולות להמיר תמונות BMP לקבצי קשר תואמי VCF לניהול קשרים בר‑קנה מידה וסינכרון בין פלטפורמות. זה משפר את האוטומציה של יצירת ספרי כתובות והחלפת נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **תמונות פרופיל קשר**  
+  ניתן לצרף תמונות BMP לכרטיסי קשר דיגיטליים.
+
+* **יצירת ספר כתובות**  
+  מערכות יכולות ליצור קבצי VCF המכילים מזהים חזותיים של קשרים.
+
+* **החלפת נתוני קשר**  
+  רשומות קשר חזותיות יכולות להיות משותפות בין פלטפורמות באמצעות קבצי VCF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת קשר אוטומטית**  
+  יישומים מייצרים קבצי קשר VCF עם תמונות פרופיל BMP.
+
+* **עיבוד ספר כתובות בכמות גדולה**  
+  מערכות ממירות מערכי נתוני תמונות לרשומות כרטיסי קשר מובנות.
+
+* **סינכרון קשרים תכנותי**  
+  זרימות עבודה מייצרות באופן דינמי קבצי VCF להפצת קשרים אוטומטית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi EML sang DOTM bằng các API Python chuyển các tin nhắn email thành các mẫu tài liệu có macro cho các quy trình công việc dựa trên mẫu nâng cao. Định dạng này hữu ích khi nội dung xuất phát từ giao tiếp cần được tích hợp vào các mẫu có thể tái sử dụng và hỗ trợ hành vi tự động bổ sung.
+
+Đối với các hệ thống tự động hoá, việc chuyển đổi EML sang DOTM giúp kết nối các giao tiếp đến với các quy trình tạo tài liệu lặp lại. Nó hỗ trợ các hoạt động mở rộng quy mô, nơi các mẫu có macro được sử dụng để tạo ra tài liệu có cấu trúc, hướng hành động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo mẫu có macro**  
+  Chuyển đổi nội dung email thành các mẫu DOTM có thể tái sử dụng cho các quy trình tài liệu nâng cao.
+
+* **Thiết kế tài liệu hướng quy trình**  
+  Giúp nắm bắt cấu trúc giao tiếp trong các mẫu hỗ trợ các hành động tự động.
+
+* **Thư viện mẫu doanh nghiệp**  
+  Hỗ trợ tạo ra các tài sản mẫu có cấu trúc từ các mẫu email lặp lại.
+
+* **Đóng gói nội dung sẵn sàng cho quy trình làm việc**  
+  Chuẩn bị tài liệu xuất phát từ email để sử dụng trong môi trường tài liệu hỗ trợ macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Cung cấp mẫu tự động**  
+  Các pipeline có thể chuyển đổi tin nhắn EML thành các mẫu DOTM cho đầu ra kinh doanh tiêu chuẩn.
+
+* **Lắp ráp tài liệu mở rộng quy mô**  
+  Các mẫu xuất phát từ email có thể được tái sử dụng một cách lập trình trong các quy trình tài liệu khối lượng lớn.
+
+* **Tái sử dụng nội dung có cấu trúc**  
+  Tự động hoá giúp chuyển đổi bố cục tin nhắn thành các khung mẫu có macro.
+
+* **Tích hợp quy trình làm việc vận hành**  
+  Các tệp DOTM đã chuyển đổi có thể cung cấp cho các hệ thống tài liệu phụ thuộc vào các mẫu thông minh có thể tái sử dụng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

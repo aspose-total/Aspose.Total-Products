@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל-RTF באמצעות API של Python מאפשרת להמיר נתונים טבלאיים מובנים למסמכי טקסט עשיר המשמרים עיצוב ובו בזמן תואמים באופן רחב למגוון פלטפורמות.  
+המרה זו תומכת באוטומציה על‑ידי המרת מערכי נתונים גולמיים לפלט מעוצב קריא שניתן לייצר במהירות, לשתף בקלות ולשלב בתהליכי עבודה של מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט טקסט מעוצב**  
+  המרת נתוני CSV למסמכי RTF עבור דוחות קריאים, סיכומים והעברת טקסט מובנה.
+
+* **החלפת מסמכים חוצת פלטפורמות**  
+  יצירת קבצי RTF כאשר זרימות העבודה דורשות תוכן מעוצב שנשאר נגיש במגוון סביבות.
+
+* **פרסום טקסט מונע נתונים**  
+  המרת רשומות CSV למסמכי טקסט מעוצבים שקל יותר לסקור ולהפיץ.
+
+* **ייצור דוחות סטנדרטיים**  
+  ייצור פלטי RTF עקביים ממערכי נתונים חוזרים למשימות תיעוד ותקשורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת טקסט עשיר אוטומטית**  
+  שימוש ב‑APIs של Python כדי להמיר קלט CSV לקבצי RTF עבור זרימות עבודה של דיווח ופרסום חוזרים.
+
+* **המרת מסמכים ברמת המערכת**  
+  שילוב המרת CSV ל‑RTF בצינורות נתונים שמייצרים מסמכים מעוצבים באופן אוטומטי.
+
+* **ייצוא טקסט עשיר בכמות גדולה**  
+  עיבוד קבצי CSV מרובים לפלט RTF בקנה מידה גדול תוך שמירה על עקביות העיצוב.
+
+* **הרכבת טקסט דינמית**  
+  בניית מסמכי RTF תכנותית משדות CSV משתנים לתמיכה ביצירת תוכן אוטומטית וגמישה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

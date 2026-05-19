@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to XLS conversion ממירה תוכן מובנה מבוסס מסמך לקבצי גיליון אלקטרוני המתאימים לעריכה, דיווח וזרימות עבודה של חוברות ישנות. זה שימושי כאשר יש צורך להשתמש מחדש בטבלאות מסמך בכלי גיליון אלקטרוני עם תאימות רחבה.
+
+Python APIs מאפשרים המרת WordML ל‑XLS על‑ידי חילוץ תוכן טבלאי ואוטומציה של מיקומו במבני חוברות לעיבוד בר‑קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת חוברת ישנה**
+  ממיר טבלאות WordML לקבצי XLS עבור זרימות עבודה של גיליונות אלקטרוניים מבוססות.
+
+* **שימוש חוזר במבנה נתונים**
+  הופך את נתוני הטבלאות שבמסמך לעריכים וניתנים לניתוח בצורה של חוברת.
+
+* **תמיכה בדיווח תפעולי**
+  מסייע להעביר את תוכן המסמך לתהליכי ביקורת מבוססי גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא חוברת אוטומטי**
+  מייצר קבצי XLS ממאגרי מסמכי WordML בעבודות חוזרות.
+
+* **אינטגרציה עם מערכות ישנות**
+  תומך בסביבות שעדיין תלויות בתאימות של גיליונות אלקטרוניים ישנים.
+
+* **צינורות מסמך‑לגיליון אלקטרוני**
+  ממיר תוכן מובנה לפלטי חוברות עבור פעולות downstream.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

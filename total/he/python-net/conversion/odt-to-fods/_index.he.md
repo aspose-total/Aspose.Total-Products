@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑FODS ממירה את תוכן OpenDocument Text לפורמט XML של גיליון אלקטרוני שטוח המיועד להחלפת נתונים מובנית ולעיבוד. זה מועיל כאשר יש להעביר טבלאות או רשומות מבוססות מסמך לתהליכי גיליון אלקטרוני פתוח וקריא למכונה.
+
+עם ממשקי API של Python, המרת ODT ל‑FODS תומכת בעיבוד ידידותי לאוטומציה, בתאימות בין‑מערכתית ובשינוי בכמות גדולה. היא מתאימה למערכות שמעדיפות פורמטים שקופים והוצאת מסמכים מובנית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **המרת גיליון אלקטרוני פתוח**  
+  ממירה את תוכן המסמך לפורמט XML המיועד לגיליון אלקטרוני נגיש.
+
+* **החלפת נתונים מובנית**  
+  תומכת בתנועת רשומות מסמך שהוצאו בין מערכות.
+
+* **ארכוב קריא למכונה**  
+  שומרת על הנתונים בפורמט שקל לבדוק ולעבד.
+
+* **תאימות זרימת עבודה**  
+  עוזרת לחבר מאגרי מסמכים עם צינורות נתונים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות נתונים מבוססי XML**  
+  אוטומציה ב‑Python יכולה להמיר קבצי ODT ל‑FODS לעיבוד נתונים שקוף.
+
+* **המרת פורמט פתוח בכמות גדולה**  
+  קבוצות גדולות של מסמכים יכולות להיות מתוקננות לפלטים של גיליונות אלקטרוניים פתוחים.
+
+* **זרימות עבודה לאימות נתונים**  
+  ניתן לבדוק ולנרמל את התוכן שהוצא לפני ייצוא ל‑FODS.
+
+* **אוטומציה של אחסון מתאימה**  
+  מערכות יכולות לאחסן פלטים מומרצים בפורמטים פתוחים לשימוש חוזר ארוך טווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

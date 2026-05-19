@@ -105,7 +105,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTM ל‑DOTM בפייתון מסייעת לשנות מצגות עם מקרו לתבניות מסמכים עם מקרו שיכולות לתמוך הן במבנה והן בהתנהגות מתוכנתת. זה בעל ערך עבור סביבות שבהן צורך להשתמש בתבניות מחדש ואוטומציית מסמכים צריכים להתקיים יחד.
+
+מנקודת מבט של אוטומציה, המרת POTM ל‑DOTM מאפשרת זרימות עבודה בפייתון לייצר תבניות דינמיות וניתנות לשימוש חוזר שתומכות ביצירת מסמכים ברמת הארגון ועיבוד מבוסס תבניות מבוקר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית עם מקרו**
+  מייצרת תבניות מסמך ניתנות לשימוש חוזר שיכולות לתמוך בפעולות מסמך מתקדמות.
+
+* **הפעלת זרימת עבודה מובנית**
+  ממירה חומר מצגת לפורמטים המתאימים ליצירת מסמכי עסקים חוזרים.
+
+* **שימוש חוזר מתקדם בתבניות**
+  תומכת בסביבות הדורשות גם עקביות עיצובית וגם יכולת מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינוריות תבניות ניתנות להרחבה**
+  מממשת אוטומציה ליצירת נכסי DOTM מקבצי POTM במאגרי תוכן שונים.
+
+* **מערכות מסמכים דינמיות**
+  מספקת תבניות עם תמיכה במקרו לתהליכי אוטומציית מסמכים המנוהלים על ידי פייתון.
+
+* **פלט ארגוני חוזר**
+  מייצרת קבצי תבנית למשימות תפעוליות, דיווח או מנהלתיות בתדירות גבוהה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

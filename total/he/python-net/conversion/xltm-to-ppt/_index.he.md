@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTM ל‑PPT בפייתון מאפשרת לתבניות Excel עם מקרו להיות מומרות לקבצי מצגות לדיווח חזותי ותקשורת. המרה זו שימושית כאשר תוכן מובנה בגיליון אלקטרוני צריך להיות משותף בפורמט המיועד להסבר והצגה על בסיס שקופיות.
+
+מבחינת אוטומציה, המרת XLTM ל‑PPT מייעלת את יצירת המצגות, תומכת בתהליכי דיווח חוזרים ומשפרת את השימוש החוזר בנתונים מבוססי תבניות לאורך זרימות עבודה של תקשורת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת חבילת שקופיות**  
+  ממירה את תוכן תבנית חוברת העבודה לקבצי מצגות לדיווח והצגות.
+
+* **תמיכה בהצגת נתונים**  
+  מסייעת להמיר מידע מובנה בגיליון אלקטרוני לפורמט המתאים יותר להסבר חזותי.
+
+* **נכסי דיווח ניתנים לשימוש חוזר**  
+  תומכת ביצירת מצגות חוזרת ממקורות גיליון אלקטרוני מבוססי תבנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה חוזרת של מצגות**  
+  מייצרת קבצי PPT מתבניות XLTM לדיווח שגרתי ומשימות תקשורת.
+
+* **זרימות עבודה של שקופיות מבוססות תבנית**  
+  מחברת תבניות גיליון אלקטרוני עם תהליכי יצירת מצגות כדי להפחית מאמץ ידני.
+
+* **המרת מצגות במצב אצווה**  
+  מאפשרת יצירת קבצי מצגות בקנה מידה רחב ממספר תבניות חוברות עבודה בתהליך אחד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

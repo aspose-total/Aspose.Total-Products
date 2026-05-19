@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑ODT ממירה את תוכן תיבת הדואר לקבצי טקסט של מסמכי פתוח, ומספקת פורמט ניתן לעריכה ומתבסס על תקנים לצורך ארכוב ושימוש חוזר במסמכים. זהו ערך משמעותי לסביבות שמעדיפות פורמטים פתוחים, אינטרופרביליות ונגישות מסמכים לטווח ארוך.
+
+באמצעות API‑ים של Python, ארגונים יכולים לאוטומט את המרת MBOX ל‑ODT כדי לייעל את יצירת המסמכים, לתמוך בתקני זרימת עבודה פתוחה ולשפר את השימושיות של תוכן דוא״ל מאורכב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא מסמך בפורמט פתוח**
+  המרת הודעות דוא״ל לקבצי ODT לשמירה נגישת וניתנת לעריכה של הטקסט.
+
+* **ארכוב מבוסס תקנים**
+  שמירת תוכן תיבת הדואר בפורמט המתאים לזרימות עבודה של מסמכים פתוחים.
+
+* **שימוש חוזר במסמכים בין מערכות**
+  הפיכת תוכן שמקורו בדוא״ל לקל יותר להחלפה בין פלטפורמות תואמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמך פתוח אוטומטית**
+  המרת רשומות תיבת הדואר לקבצי ODT באמצעות עיבוד מבוסס Python.
+
+* **שילוב זרימת עבודה אינטרופרבילית**
+  הזנת המסמכים המומרים למערכות תוכן וארכיב המבוססות על תקנים פתוחים.
+
+* **המרת דוא״ל בכמות גדולה**
+  הרחבת המרת תיבת הדואר לפלטים של מסמכי פתוח ניתנים לעריכה במאמץ מינימלי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

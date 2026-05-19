@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PST ל‑TEXT ב‑APIs של Python מחלצת את תוכן תיבת הדואר לטקסט פשוט לצורך אינדוקס, ניתוח ושימוש בארכיון קל משקל. זהו תהליך בעל ערך כאשר המיקוד הוא על תוכן קריא ולא על עיצוב, במיוחד במערכות שמעדיפות חיפושיות ויעילות עיבוד.
+
+לצורך אוטומציה, המרת PST ל‑TEXT תומכת בכריית טקסט, חילוץ תוכן, ושילוב עם צינורות עבודה המתאימים ביותר לקלט מובנה ופשוט. היא מסייעת להפוך ארכיוני תיבות דואר לקלים יותר לפירוק, שינוי וניתוח בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימושיים" %}}
+
+* **חילוץ טקסט פשוט**
+  ממירה את תוכן ה‑PST לטקסט עבור גישה נקייה וללא פורמט לנתוני ההודעות.
+
+* **תמיכה בחיפוש ואינדקס**
+  מסייעת בהכנת ארכיוני תיבות הדואר לאחזור ולתהליכי גילוי תוכן.
+
+* **פלט מוכן לניתוח**
+  תומכת בעיבוד משני שבו טקסט פשוט מועדף על פני מסמכים מעוצבים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות עיבוד טקסט**
+  מערכות אוטומטיות יכולות להעביר את הטקסט המופק מ‑PST לצינורות אינדוקס או ניתוח.
+
+* **תהליכי חילוץ נתונים**
+  פלט טקסט פשוט מסייע לפשט משימות פירוק, סינון והמרה.
+
+* **כריית תוכן בקנה מידה**
+  המרה תכנותית מאפשרת לנתח ארכיוני תיבות דואר גדולים בצורה יעילה יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

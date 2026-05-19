@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑MOBI משנה קבצי גיליון אל פורמט המותאם למכשירי קריאה דיגיטליים. זה מאפשר להפיץ מידע מובנה מגיליונות כמסמכים קריאים המתאימים לצפייה ניידת.
+
+ממשקי API של Python מאפשרים המרה אוטומטית של תוכן גיליון לפורמטים מוכנים לספרים אלקטרוניים. זה תומך בתהליכי פרסום בקנה מידה, יצירת מסמכים אוטומטית, ומערכות הפצת תוכן דיגיטלי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מפתח" %}}
+
+* **פרסום נתונים לקריאה דיגיטלית**  
+  המרת מידע מבוסס גיליון אל מסמכים דיגיטליים ניידים.
+
+* **הפצת תוכן מובנה**  
+  המרת מערכי נתוני גיליון לפורמטים קריאים לצריכה דיגיטלית.
+
+* **פרסום דוחות**  
+  המרת גיליונות אנליטיים למסמכים דיגיטליים מעוצבים.
+
+* **שימוש חוזר בתוכן**  
+  התאמת תוכן גיליון לתיעוד בסגנון ספר אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות פרסום אוטומטיים**  
+  תהליכי עבודה ב‑Python ממירים גיליונות לפורמטים דיגיטליים לקריאה באופן אוטומטי.
+
+* **יצירת מסמכים דיגיטליים בכמות גדולה**  
+  מערכות מעבדות מספר רב של גיליונות למסמכי קריאה ניידים.
+
+* **פרסום תוכן דינמי**  
+  תהליכי עבודה פרוגרמטיים מייצרים מסמכים ידידותיים לקורא מתוך קלטי גיליון.
+
+* **מערכות הפצת תוכן דיגיטלי**  
+  צינורות המרה תומכים בתשתיות פרסום אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל-ODT ממירה תוכן גיליון אלקטרוני לפורמט טקסט של מסמך פתוח המתאים היטב לתיעוד ניתן לעריכה, דיווח, וזרימות עבודה מבוססות טקסט אינטרופרטיביות. זהו בחירה פרקטית כאשר ארגונים רוצים פלט מסמכים גמיש תוך שמירה על תאימות לתקנים פתוחים.
+
+באמצעות API של פייתון, המרת SXC ל-ODT משפרת את יעילות זרימת העבודה על ידי אפשרות ליצירת מסמכים ניתנים לעריכה באופן אוטומטי ממקורות גיליון אלקטרוני לצורך דיווח, שמירת רשומות והכנת תוכן.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח מסמך פתוח**  
+  ממיר נתוני גיליון אלקטרוני לדוחות ניתנים לעריכה המתאימים לזרימות עבודה של מסמכים פתוחים.
+
+* **תיעוד אינטרופרטיבי**  
+  עוזר לארגונים לשתף פלטי מסמכים בין מערכות התומכות בתקנים פתוחים.
+
+* **יצירת רשומות ניתנות לעריכה**  
+  תומך בהכנת מסמכים שניתן לסקור, לעדכן ולארכיב בקלות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של זרימת עבודה פתוחה**  
+  משתמש ב-API של פייתון כדי ליצור קבצי ODT באופן אוטומטי ממקורות SXC בצינורות סטנדרטיים.
+
+* **מערכות שינוי תוכן**  
+  מאפשר לתוכן מונע גיליון אלקטרוני לעבור לזרימות עבודה של סקירה ועריכה ממוקדות מסמך.
+
+* **פלט תיעוד בר-קנה מידה**  
+  תומך ביצירת מסמכי פורמט פתוח ניתנים לעריכה בכמות גבוהה עם מינימום התערבות ידנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

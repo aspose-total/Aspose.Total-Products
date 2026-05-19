@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi email sang SVG trong Python cho phép nội dung tin nhắn được hiển thị dưới dạng đồ họa vector có thể mở rộng cho việc sử dụng hình ảnh độ phân giải cao. Điều này có giá trị khi các ảnh chụp nhanh của email cần giữ độ nét trên các kích thước màn hình, đồ họa nhúng, hoặc tài sản thiết kế được tạo ra.
+
+Nó nâng cao tự động hoá bằng cách tạo ra các đầu ra hình ảnh có thể mở rộng, có thể được nhúng một cách lập trình vào bảng điều khiển, báo cáo, giao diện và quy trình xuất bản.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Trực quan hoá Email có thể mở rộng**
+  Chuyển đổi email thành các tệp SVG để hiển thị sắc nét ở nhiều kích thước.
+
+* **Nhúng vào Bảng điều khiển và Web**
+  Sử dụng các đầu ra vector trong các hệ thống dựa trên trình duyệt hiển thị bản xem trước tin nhắn.
+
+* **Tái sử dụng Đồ họa Độ phân giải cao**
+  Bảo tồn hình ảnh email cho báo cáo, tài sản thiết kế, hoặc tài liệu thuyết trình.
+
+* **Quy trình Render linh hoạt**
+  Hỗ trợ các hệ thống cần biểu diễn hình ảnh gọn gàng và có thể mở rộng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động hoá" %}}
+
+* **Tự động hoá Xem trước Web**
+  Tạo các bản xem trước email dạng SVG cho các giao diện cần đồ họa đáp ứng.
+
+* **Nhúng Đồ họa Lập trình**
+  Chèn các phiên bản vector của email vào báo cáo và tóm tắt tự động.
+
+* **Trình bày Lưu trữ có thể mở rộng**
+  Hiển thị hình ảnh tin nhắn một cách nhất quán trên các thiết bị và ngữ cảnh hiển thị.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

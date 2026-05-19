@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál OST-t hozzáadni DOC-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OST‑DOC átalakítás a postafiók tartalmát szerkeszthető dokumentumformátumba konvertálja, lehetővé téve az e‑mail adatok újrahasznosítását, strukturálását és megőrzését egy ismerős szövegszerkesztő környezetben. Hasznos a dokumentációhoz, üzleti jelentéskészítéshez és olyan munkafolyamatokhoz, amelyek módosítható formában igénylik az üzenettartalmat.
+
+Az automatizációra épülő rendszerek számára az OST‑DOC átalakítás skálázható tartalomkinyerést és dokumentumgenerálást biztosít a postafiók‑archívumokból. A Python API‑k segítenek egyszerűsíteni ezt a folyamatot, lehetővé téve az ismételhető átalakítási munkafolyamatokat vállalati tartalomkezeléshez és digitális műveletekhez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Szerkeszthető e‑mail dokumentáció**  
+  Átalakítja a postafiók üzeneteit DOC fájlokká felülvizsgálatra, módosításra és újrahasznosításra.
+
+* **Rekordkonszolidáció**  
+  Segít az e‑mail tartalmat összekapcsolni a szélesebb körű dokumentumalapú jelentésekkel vagy esetanyagokkal.
+
+* **Belső tudás rögzítése**  
+  Megőrzi a fontos postafiók‑információkat egy strukturált dokumentációhoz megfelelő formátumban.
+
+* **Munkafolyamat‑átadási fájlok**  
+  Megkönnyíti az e‑mailből származó információk szerkeszthető formában történő megosztását a csapatok között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált dokumentumkészítés**  
+  Python szkriptek DOC fájlokat generálnak az OST tartalomból jelentés‑ és nyilvántartási munkafolyamatokhoz.
+
+* **Postafiók tartalomfeldolgozás**  
+  Az átalakítási csővezetékek kinyerik és átalakítják az üzeneteket szerkeszthető dokumentumokká üzleti felhasználásra.
+
+* **Archívum‑dokumentum automatizálás**  
+  A programozott átalakítás skálázható migrációt támogat az e‑mail tárolásból a dokumentumrendszerekbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

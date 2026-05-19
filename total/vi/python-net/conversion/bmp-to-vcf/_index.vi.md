@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi BMP sang VCF cho phép các hình ảnh bitmap được liên kết với danh thiếp kỹ thuật số được lưu ở định dạng VCF. Cách tiếp cận này cho phép ảnh hồ sơ hoặc các định danh hình ảnh được đưa vào trong bản ghi liên hệ.
+
+Các hệ thống tự động có thể chuyển đổi hình ảnh BMP thành các tệp liên hệ tương thích VCF để quản lý liên hệ quy mô lớn và đồng bộ hóa trên nhiều nền tảng. Điều này cải thiện việc tự động tạo sổ địa chỉ và trao đổi dữ liệu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Ảnh hồ sơ liên hệ**  
+  Hình ảnh BMP có thể được đính kèm vào danh thiếp kỹ thuật số.
+
+* **Tạo sổ địa chỉ**  
+  Hệ thống có thể tạo các tệp VCF chứa các định danh hình ảnh của liên hệ.
+
+* **Trao đổi dữ liệu liên hệ**  
+  Các bản ghi liên hệ hình ảnh có thể được chia sẻ trên các nền tảng bằng cách sử dụng tệp VCF.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tạo liên hệ tự động**  
+  Các ứng dụng tạo ra các tệp VCF chứa ảnh hồ sơ BMP.
+
+* **Xử lý sổ địa chỉ hàng loạt**  
+  Hệ thống chuyển đổi các bộ dữ liệu hình ảnh thành các bản ghi danh thiếp có cấu trúc.
+
+* **Đồng bộ hoá liên hệ theo chương trình**  
+  Luồng công việc tạo ra các tệp VCF một cách động để phân phối liên hệ tự động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

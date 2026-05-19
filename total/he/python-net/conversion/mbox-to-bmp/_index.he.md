@@ -102,7 +102,39 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑BMP ממירה ארכיוני תיבות דואר לתמונות ביטמפה, מה שמקל על סקירת תוכן הודעות דוא"ל בודדות, שמירתן והפצתן בצורה חזותית. זה שימושי ללכידת רשומות, רינדור סטטי, ולתהליכי עבודה שבהם יש לשתף את תוכן ההודעה כתמונה בלתי ניתנת לעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **ארכוב צילום מסך של אימייל**
+  המר הודעות תיבת דואר לתמונות ביטמפה לשימור חזותי קבוע והפניה.
+
+* **תהליכי סקירה חזותית**
+  אפשר לצוותים לבדוק את תוכן האימייל כתמונות סטטיות מבלי לפתוח לקוחות דואר.
+
+* **הכנת ראיות מסמכיות**
+  תמוך בתהליכי ציות וביקורת על ידי ייצוא הודעות לרשומות תמונה שניתן לשתף.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **רינדור תיבות דואר במאצ'**
+  המר באופן אוטומטי אוספי MBOX גדולים לקבצי BMP ליצירת פלט מובנה.
+
+* **שילוב בצינור ארכיון**
+  העבר תמונות אימייל מרונדרות לתהליכי שמירה, אינדוקס או תיעוד מקרים.
+
+* **ייצוא הודעות תכנותי**
+  השתמש בלוגיקה מונעת Python כדי לחלץ, לרנדר ולשמור הודעות כנכסי ביטמפה בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑CSV משנה תוכן WordprocessingML מובנה לקבצי נתונים פשוטים מבוססי מפריד, שקל לנתח, לייבא ולעבד אותם במערכות דיווח וצינורות נתונים. היא חשובה כאשר יש צורך להמיר טבלאות מבוססות מסמך לרשומות קלות משקל, קריאות למכונה.
+
+שימוש ב‑APIs של Python להמרת WordML ל‑CSV מסייע לאוטומציה של חילוץ טבלאות, נרמול שורות ועמודות, ותמיכה בתהליכי עבודה מתרחבים של מסמך‑לנתונים בסביבות עסקיות, ארכיון ואינטגרציה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתוני טבלה**
+  ממיר תוכן טבלאי מקבצי WordML לפורמט CSV כדי להקל על העיבוד בשלבים הבאים.
+
+* **הכנת ניתוחים**
+  הופך נתונים מבוססי מסמך לשימושיים בדיווח, ויזואליזציה, ובתהליכי מודיעין עסקי.
+
+* **תאימות מערכת**
+  מפשט החלפת נתונים בין מאגרי מסמכים לבין מערכות גיליונות אלקטרוניים או מסדי נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פענוח מסמכים במצב אצווה**
+  מאיץ את חילוץ הטבלאות ממספר קבצי WordML לפלטי CSV מתוקננים.
+
+* **שילוב צינור נתונים**
+  תומך בקליטת קבצי CSV שהומרו באופן אוטומטי לתוך תהליכי ETL, אנליטיקה או אימות.
+
+* **ייצוא תוכן מתוזמן**
+  מאפשר משימות המרה חוזרות לדיווח תפעולי ולעדכוני נתונים מבוססי מסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

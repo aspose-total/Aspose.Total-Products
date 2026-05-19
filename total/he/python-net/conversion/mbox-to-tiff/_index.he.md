@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑TIFF ממירה את תוכן תיבת הדואר לקבצי תמונה מתוייגים באיכות גבוהה המתאימים לדימות מסמכים, אחסון ארכיוני ושימור חזותי מפורט. זה בעל ערך בתהליכי עבודה שבהם דימות מרובה עמודים, נאמנות גבוהה ותפיסת מסמכים יציבה הם חשובים.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת MBOX ל‑TIFF עבור ארכיונים בסגנון סריקה, מאגרי ציות וצינורות דימות ארגוניים המנהלים נפחים גדולים של רשומות דוא״ל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **שימור תמונות ארכיוניות**
+  המרת תוכן הדוא״ל לקבצי TIFF לאחסון חזותי אמין לטווח ארוך.
+
+* **תהליכי דימות מסמכים**
+  שימוש בתמונות שמקורן בתיבת הדואר במערכות המיועדות לרשומות סרוקות או מתועדות.
+
+* **ייצוא הודעות באמינות גבוהה**
+  שמירת מראה הדוא״ל בפורמט תמונה המתמקד באיכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרת TIFF במצב אצווה**
+  המרה אוטומטית של רשומות תיבת הדואר לתמונות TIFF לפלט מוכן לארכיון.
+
+* **צינורות דימות לציות**
+  הפניית תמונות דוא״ל מומרות למערכות ניהול רשומות ותפיסת מסמכים.
+
+* **שימור חזותי בר‑קנה מידה**
+  שימוש באוטומציה של Python לעיבוד ארכיוני דוא״ל גדולים לקבצי תמונה מפורטים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

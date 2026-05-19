@@ -105,7 +105,47 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל-MHTML ממירה קבצי OpenDocument Text לפורמט ארכיון אינטרנטי המשלב תוכן ומשאבים קשורים לקובץ יחיד. זה בעל ערך לשימור מסמכים בצורה ידידותית לדפדפן שקל לשתף, להציג מראש או לאחסן.
+
+בזרימות עבודה אוטומטיות, המרת ODT ל-MHTML תומכת בהפצה מבוססת אינטרנט, לכידת מסמכים וארכיון נייד. ממשקי API של Python מאפשרים יצירה חוזרת של פלטים עצמאיים לפרסום תוכן ומערכות סקירה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **שימור ידידותי לדפדפן**  
+  ממיר מסמכים לפורמט שניתן לפתוח ולצפות בו כתוכן אינטרנטי.
+
+* **שיתוף מסמכים נייד**  
+  אורז תוכן לקובץ יחיד להקלה על העברה ואחסון.
+
+* **לכידת ארכיון**  
+  עוזר לשמר את המראה והמבנה של המסמך בפורמט תואם אינטרנט.
+
+* **הפצת תוכן משובץ**  
+  תומך בתהליכי עבודה שבהם קבצי תוכן עצמאיים מועדפים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת ארכיון אינטרנטי אוטומטית**  
+  תהליכי עבודה ב-Python יכולים להמיר קבצי ODT ל-MHTML לגישה דרך דפדפן.
+
+* **משימות שימור במאצ'**  
+  קבוצות מסמכים גדולות יכולות להיות מאוחסנות בקבצי אינטרנט עצמאיים באופן אוטומטי.
+
+* **הכנת פרסום תוכן**  
+  מערכות יכולות ליצור גרסאות צפייה ניידות לבעלי עניין או פורטלים.
+
+* **תהליכי צילום מסמך**  
+  פלטי MHTML יכולים להיווצר תכנותית לצורך סקירה או אחסון ארוך טווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

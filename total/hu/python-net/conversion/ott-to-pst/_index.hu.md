@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni PST-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑t PST‑re konvertáló Python API‑k az OpenDocument szövegsablonokat személyes tároló postafiók struktúrákká alakítják e‑mail‑orientált archiválási és szállítási munkafolyamatokhoz. Ez akkor hasznos, amikor a dokumentum által generált kommunikációkat postafiók‑központú formátumban kell megőrizni.
+
+A konverzió támogatja az automatizálást, segítve a szervezeteket a sablon‑alapú üzenettartalom áthelyezésében olyan tárolási munkafolyamatokba, amelyek támogatják az archiválást, migrációt és a nagyszabású kommunikációkezelést.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Postafiók‑archívum létrehozása**  
+  Csomagolja a generált kommunikációs tartalmat egy tároló‑orientált levélformátumba.
+
+* **Megőrzés és átvitel támogatása**  
+  Segít hatékonyan megőrizni és áthelyezni az üzenetalapú tartalmakat.
+
+* **Sablon‑alapú kommunikációs tárolás**  
+  Újra felhasználja a dokumentumsablonokat a postafiók‑kompatibilis kimenethez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált archívum generálás**  
+  Tömegesen átalakítja az OTT‑alapú üzenettartalmat PST kimenetekké.
+
+* **Megfelelőség‑orientált munkafolyamatok**  
+  Támogatja a nyilvántartás megőrzését és a strukturált levéltárolási folyamatokat.
+
+* **Kommunikációs migrációs csővezetékek**  
+  Beilleszti a generált tartalmat vállalati levélátviteli munkafolyamatokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

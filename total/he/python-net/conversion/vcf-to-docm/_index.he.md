@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑DOCM ממירה נתוני כרטיסי קשר למסמכי עיבוד תמלילים עם מקרו, ומאפשרת אספקת תוכן מובנה במקרים שבהם נדרש התנהגות מתקדמת של המסמך. זה שימושי עבור ארגונים העובדים עם זרימות עבודה דינמיות של מסמכים ופלטים ניתנים לעריכה.
+
+במערכות המתמקדות באוטומציה, המרת VCF ל‑DOCM מאפשרת ל‑APIs של Python ליצור מסמכי קשר המתאימים לתהליכים מתכנתים גדולים יותר, במיוחד במקרים שבהם לוגיקת המסמך, עיצוב חוזר, או פעולות משולבות הם חלק מהפעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **מסמכי קשר דינמיים**  
+  המרת רשומות VCF לקבצי DOCM ניתנים לעריכה עבור זרימות עבודה מתקדמות של מסמכים.
+
+* **עיבוד פנימי מובנה**  
+  הכנת מידע קשר במסמכי מקרו לשימוש עסקי מבוקר.
+
+* **תיעוד מתכנת**  
+  תמיכה בסביבות מסמכים שבהן אוטומציה ותוכן ניתן לעריכה חייבים להתקיים יחד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת DOCM אוטומטית**  
+  יצירת מסמכי מקרו מקבצי קשר בפעולות אצווה.
+
+* **זרימות עבודה של מסמכים מבוססות כללים**  
+  הפניית קבצי DOCM שהומרו לתהליכים עסקיים אוטומטיים עם עיצוב עקבי.
+
+* **אריזת קשר ניתנת להרחבה**  
+  אריזת נתוני קשר באופן מתכנת לפלטי DOCM ניתנים לשימוש חוזר עבור זרימות עבודה ארגוניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

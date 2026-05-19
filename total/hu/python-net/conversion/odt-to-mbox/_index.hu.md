@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál ODT-t hozzáadni MBOX-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az ODT‑ról MBOX‑ra konverzió a dokumentumtartalmat egy postafiók‑stílusú formátumba alakítja, amely alkalmas csoportos üzenettárolásra és archiválási munkafolyamatokra. Ez akkor hasznos, amikor a dokumentum szövegét e‑mail‑szerű tárolásra, migrációra vagy rekordkonszolidációra kell csomagolni.
+
+Python API‑k használatával az ODT‑ról MBOX‑ra konverzió integrálható automatizált archiválási és kommunikációs csővezetékekbe. Támogatja a dokumentumtartalom következetes átalakítását üzenetalapú tárolókba a további feldolgozáshoz.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Postafiók‑archívum előkészítése**  
+  Dokumentumokat alakít át egy olyan formátumba, amely alkalmas csoportos üzenettárolásra.
+
+* **Kommunikációs rekordcsomagolás**  
+  Segít a dokumentumból származó tartalmat e‑mail‑orientált archívumokkal együtt szervezni.
+
+* **Migrációs támogatás**  
+  Lehetővé teszi a tartalom áthelyezését üzenetalapú tárolókba.
+
+* **Tömeges tartalomkonszolidáció**  
+  Lehetővé teszi több átalakított elem csoportos tárolását.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Archívumgenerálási munkafolyamatok**  
+  Python feladatok automatikusan több ODT fájlt alakíthatnak át postafiók‑stílusú kimenetekre.
+
+* **Megőrzési csővezeték támogatása**  
+  Automatizált rendszerek hosszú távú archívumokba tárolhatják a dokumentumból származó üzeneteket.
+
+* **Tömeges csomagolási műveletek**  
+  Nagy mennyiségű dokumentum csoportosítható átvihető postafiók‑fájlokba.
+
+* **Tartalommigráció automatizálása**  
+  Konverziós csővezetékek előkészíthetik a rekordokat olyan rendszerek számára, amelyek postafiók‑tárolókat használnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

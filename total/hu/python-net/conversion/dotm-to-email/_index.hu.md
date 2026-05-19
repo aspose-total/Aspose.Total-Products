@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOTM-t hozzáadni EMAIL-konverziós 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTM‑ról EMAIL‑re konverzió átalakítja a makrókkal ellátott Word‑sablonokat e‑mail‑kész tartalommá a kommunikáció, értesítés vagy munkafolyamat‑vezérelt üzenetküldő rendszerek számára. Hasznos, ha a dokumentumsablonok olyan tartalmat tartalmaznak, amelyet üzleti levelezéshez üzenettörzseként kell újra felhasználni.
+
+A Python API‑k használata a DOTM‑ról EMAIL‑re konverzióhoz segít automatizálni a kommunikációs munkafolyamatokat, csökkenteni az ismétlődő formázási munkát, és egységes üzenetküldést biztosítani a sablon‑alapú forrásokból. Ez javítja a skálázhatóságot azokban a rendszerekben, amelyek dinamikusan generálnak e‑mail‑eket szabványosított dokumentumokból.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Sablon‑alapú üzenetküldés**
+  Konvertálja a DOTM‑dokumentumokat e‑mail‑tartalommá értesítések, frissítések vagy strukturált levelezés céljából.
+
+* **Tartalom újrahasznosítása csatornák között**
+  Használja újra a formális dokumentumsablonokat e‑mail‑barát kommunikációhoz anélkül, hogy manuálisan kellene újra létrehozni a tartalmat.
+
+* **Munkafolyamat‑értesítések**
+  Használja a konvertált tartalmat a vállalati rendszerek folyamat‑vezérelt üzenetküldésének részeként.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált e‑mail generálás**
+  A DOTM‑sablonok programozottan konvertálhatók e‑mail‑tartalommá, amelyet kiváltott vagy ütemezett kommunikációhoz használnak.
+
+* **Értesítési munkafolyamat‑integráció**
+  A konverzió támogatja az automatizált rendszereket, amelyek a dokumentumbemenetek alapján szabványosított frissítéseket küldenek.
+
+* **Nagy mennyiségű üzenet előkészítése**
+  A dinamikus feldolgozás lehetővé teszi nagyléptékű, e‑mail‑kész tartalom létrehozását visszatérő sablon‑dokumentumokból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Email ל‑DOTM בפייתון ממירה הודעות לתבניות Word עם אפשרות למקרו, המשולבות במבנה שניתן לשימוש חוזר ותמיכה באוטומציה מתקדמת. זה בעל ערך כאשר דפוסי תוכן מבוססי דוא"ל חייבים להפוך לחלק מתהליכי יצירת מסמכים מתוכנתים.
+
+הפורמט משפר את האוטומציה על ידי מתן אפשרות לארגונים לתקנן תבניות מונעות הודעות תוך תמיכה בלוגיקה מבוססת מקרו לעיצוב, ניתוב והעשרת תוכן.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **עיצוב תבנית עם אפשרות למקרו**
+  המרת הודעות דוא"ל לקבצי DOTM עבור זרימות עבודה של תבניות חוזרות עם אוטומציה מובנית.
+
+* **יצירת טפסים אוטומטית**
+  השתמש בתבניות שמקורן בדוא"ל בסביבות שבהן מקרו מסייעים למלא או לאמת תוכן.
+
+* **תיעוד ממוקד תהליך**
+  המרת הודעות מובנות לתבניות שניתן להשתמש בהן מחדש עבור תהליכים פנימיים.
+
+* **תקינה מתקדמת**
+  שילוב פריסות עקביות עם התנהגות אוטומציה של מסמכים בפורמט תבנית אחד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של זרימת עבודה מבוססת תבנית**
+  צור קבצי DOTM מהודעות דוא"ל והשתמש במקרו כדי להכין מסמכים סופיים באופן אוטומטי.
+
+* **אכלוס תוכן מבוקר**
+  אכלס תבניות שמקורן בדוא"ל בנתוני מערכת במהלך יצירת מסמכים אוטומטית.
+
+* **עיבוד משרד בר‑קנה מידה**
+  תקן מסמכים חוזרים מבוססי תקשורת עם טיפול בעזרת מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

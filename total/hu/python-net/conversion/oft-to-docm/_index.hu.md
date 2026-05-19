@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OFT-t hozzáadni DOCM-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OFT‑ról DOCM‑re konvertálás Python API‑k használatával lehetővé teszi, hogy az Outlook e‑mail sablonok makróval ellátott Word‑dokumentumokká alakuljanak a fejlett dokumentumfolyamatokhoz. Ez akkor fontos, amikor a konvertált tartalmat automatizálási logikával, szkriptelt műveletekkel vagy egyedi dokumentumviselkedéssel kell kombinálni.
+
+Ez a konverzió az automatizálásra fókuszáló környezeteket támogatja az újrahasználható e‑mail tartalom és a programozható dokumentumfolyamatok összekapcsolásával. Segít a szervezeteknek szabványosítani a sablon‑alapú műveleteket, miközben növeli a rugalmasságot, az ismételhetőséget és a munkafolyamat‑vezérlést.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Makróval ellátott dokumentumgenerálás**  
+  Konvertálja az OFT sablonokat DOCM fájlokká olyan munkafolyamatokhoz, amelyek beágyazott automatizálási logikát igényelnek.
+
+* **Fejlett sablonújrahasználat**  
+  Használja újra az e‑mail tartalmat olyan dokumentumokban, amelyek egyedi feldolgozási műveleteket támogatnak.
+
+* **Strukturált üzleti dokumentáció**  
+  Használja a DOCM kimeneteket, amikor az e‑mail alapú tartalmat dinamikus dokumentumrendszereknek kell szolgáltatni.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált dokumentumműveleti folyamatok**  
+  Kombinálja a konvertált sablontartalmat makróval ellátott folyamatokkal ismétlődő üzleti feladatokhoz.
+
+* **Sablon‑a‑munkafolyamat átalakítás**  
+  Alakítsa át az OFT fájlokat DOCM dokumentumokká, amelyek részt vesznek szabályalapú dokumentumkezelésben.
+
+* **Programozott jelentéstámogatás**  
+  Hozzon létre makróval ellátott fájlokat e‑mail sablonokból adatfeltöltött vagy szabályozott dokumentumfolyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

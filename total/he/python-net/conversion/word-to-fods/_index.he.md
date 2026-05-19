@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Word ל‑FODS באמצעות API‑ים של Python מאפשרת המרה של מסמכי עיבוד תמלילים לפורמט גיליון אלקטרוני פתוח שטוח, מה שמועיל לטיפול בנתונים על בסיס תקנים פתוחים ולתהליכי עבודה שקופים המונעים על‑ידי XML. זה מועיל כאשר יש צורך לשמר את תוכן המסמך בפורמט גיליון מובנה מבלי להסתמך על אריזות בינריות.
+
+בסביבות מונעות אוטומציה, המרת Word ל‑FODS תומכת בצינורות שינוי קנה מידה, תואמים לתקנים, המדגישים אינטר‑אופרביליות, ידידותיות לבקרת גרסאות ובדיקה תכנותית קלה של נתוני הפלט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **המרת נתונים בפורמט פתוח**
+  מייצא תוכן שמקורו במסמך לפורמט גיליון אלקטרוני שטוח ומובנה המבוסס על תקנים פתוחים.
+
+* **אחסון נתונים שקוף**
+  הופך את פלט הגיליון לאפשרי לבדיקה ולעיבוד במערכות מודעות ל‑XML.
+
+* **תאימות זרימת עבודה**
+  תומך באינטגרציה עם פלטפורמות שמעדיפות תקני מסמכים פתוחים על פני פורמטים קנייניים.
+
+* **ניהול תוכן מבוקר גרסאות**
+  מאפשר מעקב טוב יותר אחרי פלט מובנה בסביבות אחסון ידידותיות לטקסט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות המרה מבוססי תקנים**
+  ממיר באופן אוטומטי קבצי Word ל‑FODS עבור זרימות עבודה במערכת אקולוגית פתוחה.
+
+* **אוטומציה של ארכיב מסמכים**
+  יוצר פלטי גיליון קריאים ומובנים לאחסון ארוך טווח ולצרכי ביקורת.
+
+* **עיבוד מונע XML**
+  משתמש בפלטי FODS בתהליכי ניתוח, אימות והמרה אוטומטיים.
+
+* **יצירת OpenDocument במאצעים**
+  מייצר קבצי גיליון שטוחים בקנה מידה גדול ממקורות מסמכים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

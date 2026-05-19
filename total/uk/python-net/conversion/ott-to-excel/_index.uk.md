@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to Excel conversion in Python APIs converts OpenDocument text templates into spreadsheet-compatible workbooks, making document content easier to analyze, organize, and reuse in data-centric environments. This is helpful when textual information needs tabular presentation or business reporting.
+
+The conversion enhances automation by moving template content into spreadsheet workflows where formulas, filters, validation, and integration processes can operate at scale with minimal manual intervention.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Структурування бізнес-даних**  
+  Переносить вміст шаблону у форму робочої книги для перегляду та обробки.
+
+* **Аналітичне повторне використання**  
+  Полегшує сортування, фільтрацію та обчислення інформації, отриманої з документу.
+
+* **Оперативна звітність**  
+  Підтримує перетворення текстових шаблонів у звітні активи.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Регулярне створення робочих книг**  
+  Перетворює стандартні OTT‑файли у Excel‑вихідні дані за розкладом.
+
+* **Конвеєри збагачення даних**  
+  Об’єднує витягнутий вміст документу з формулами та правилами електронних таблиць.
+
+* **Автоматичний розподіл**  
+  Створює вихідні робочі книги для команд, систем або процесів звітування.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

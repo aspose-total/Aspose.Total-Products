@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑XLSB ממירה תוכן מובנה מבוסס מסמך לקבצי גיליון אלקטרוני בינאריים המותאמים לאחסון יעיל וטיפול במחברות גדולות. זה בעל ערך כאשר הנתונים המומרים דורשים פונקציונליות גיליון אלקטרוני עם מאפייני ביצועים משופרים.
+
+ממשקי API של Python מסייעים לאוטומציה של המרת WordML ל‑XLSB על‑ידי חילוץ וארגון של טבלאות המסמך לפלטים של מחברות בינאריות המתאימים לתהליכי עבודה בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **אחסון מחברת יעיל**
+  ממיר תוכן WordML לקבצי XLSB לטיפול בגיליון אלקטרוני קומפקטי.
+
+* **תמיכה בתהליכי עבודה עם נתונים גדולים**
+  מסייע בניהול מערכי נתונים מומרות גדולות בצורה תואמת לגיליון אלקטרוני.
+
+* **המרת טבלאות מובנות**
+  הופך את נתוני המסמך לשימושיים בסביבות מחברת ממוקדות ביצועים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרת גיליונות אלקטרוניים בנפח גבוה**
+  מאפשר אוטומציה של יצירת קבצי XLSB ממערכות גדולות של מסמכי WordML.
+
+* **צינורות נתונים ממוקדי ביצועים**
+  תומך בתהליכי עבודה המרוויחים מפלטים של גיליונות אלקטרוניים בינאריים.
+
+* **הכנת דוחות בקנה מידה**
+  מאפשר המרה חוזרת של טבלאות מסמך לנכסי מחברת יעילים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

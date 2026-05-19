@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTM ל-XLTM בפייתון ממירה תוכן מצגת עם מקרו לתבניות גיליון אלקטרוני עם מקרו שניתן להשתמש בהן מחדש ליצירת חוברות עבודה מובנות. זה בעל ערך כאשר חומר מצגת צריך להפוך לבסיס גיליון אלקטרוני חוזר למשימות תפעוליות.
+
+בזרימות עבודה מונעות אוטומציה, המרת POTM ל-XLTM מאפשרת למערכות פייתון לייצר נכסי תבניות שניתן להשתמש בהם מחדש התומכים בעקביות, בקנה מידה ובתהליכים עסקיים מתקדמים הממוקדים בחוברות עבודה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת תבנית גיליון אלקטרוני לשימוש חוזר**
+  יוצרת קבצי תבנית לייצור חוזר של גיליונות אלקטרוניים.
+
+* **מסגרות תפעוליות עם תמיכה במקרו**
+  תומכת בזרימות עבודה מתקדמות מונעות תבניות המתבססות על לוגיקת גיליון אלקטרוני.
+
+* **עיצוב חוברת עבודה עקבי**
+  מסייעת לאכוף מבנה חוזר על פלטי גיליון אלקטרוני שנוצרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של ספריית תבניות**
+  בונה תבניות XLTM מתוכן POTM לשימוש תפעולי חוזר.
+
+* **זרימות עבודה של מפעל גיליונות**
+  משתמשת בפייתון ליצירת תבניות לשימוש חוזר ליצירת חוברות עבודה חוזרות.
+
+* **אספקת תהליכים מתוקננת**
+  תומכת במערכות ארגוניות הדורשות פלטי גיליון אלקטרוני חוזרים ומבוקרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

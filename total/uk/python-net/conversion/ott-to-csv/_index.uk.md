@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to CSV conversion in Python APIs transforms OpenDocument text templates into structured, delimited data that is easier to process, exchange, and analyze across modern business systems. It is useful when text-based content must be normalized for reporting, migration, or downstream data handling.
+
+This conversion supports automation by turning document content into lightweight tabular output that fits data pipelines, scheduled jobs, and integration workflows where consistency, portability, and fast parsing matter.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Структуроване вилучення даних**  
+  Перетворює текстовий вміст, керований шаблонами, у рядки та стовпці для спрощеної обробки.
+
+* **Підготовка звітності**  
+  Зробить інформацію, що базується на документах, придатною для панелей інструментів та аналізу електронних таблиць.
+
+* **Системна взаємодія**  
+  Дозволяє простий обмін даними з інструментами, які підтримують імпорт розділених текстових файлів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Пакетний експорт вмісту**  
+  Автоматизує конвертацію кількох файлів OTT у CSV для пакетної обробки.
+
+* **Інтеграція в конвеєрі даних**  
+  Передає вилучені дані документу у ETL або процеси валідації.
+
+* **Запланований розбір документів**  
+  Підтримує повторювані завдання, які перетворюють шаблони у машиночитані набори даних.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

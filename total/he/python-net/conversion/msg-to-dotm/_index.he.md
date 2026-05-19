@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MSG ל‑DOTM ממירה הודעות דוא"ל לקבצי תבנית עם מקרו למטרת אוטומציה מתקדמת של מסמכים. היא מתאימה כאשר תוכן הדוא"ל צריך להפוך לחלק מתבניות חוזרות שניתן לתמוך גם בהתנהגות מתוכנתת או בעיבוד מבוסס כללים.
+
+במסגרות אוטומטיות, זרימות עבודה של MSG ל‑DOTM מסייעות לשלב מבנים ניתנים לשימוש חוזר עם פעולות המופעלות במקרו. זה הופך אותן לרלוונטיות עבור הרכבת מסמכים ארגונית, זרימות עבודה מוסדרות ותפעול מונחה תבניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **פיתוח תבנית עם מקרו**  
+  הפוך את תוכן הדוא"ל לתבניות ניתנות לשימוש חוזר עם תמיכה בלוגיקת אוטומציה.
+
+* **זרימות עבודה מבוקרות של מסמכים**  
+  תמוך ביצירת מסמכים סטנדרטית בסביבות המשתמשות בכללי עיבוד מתקדמים.
+
+* **מבני תוכן חוזרים**  
+  השתמש מחדש בפריסות שמקורן בהודעות במסמכים תפעוליים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **מערכות אוטומציה של תבניות**  
+  המר קבצי MSG לתבניות DOTM ליצירת מסמכים בעזרת מקרו.
+
+* **הרכבת מסמכים מבוססת כללים**  
+  השתמש בתבניות המומרות בזרימות עבודה אוטומטיות שמחייבות פורמט או כללי תוכן.
+
+* **עיבוד ארגוני בר‑קנה מידה**  
+  תקן פלטים מבוססי דוא"ל חוזרים עם תבניות תואמות למקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

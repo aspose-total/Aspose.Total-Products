@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑WORD מאפשרת קבצי גיליון אלקטרוני להיות מומרי למסמכי עיבוד תמלילים המתאימים לעריכה ותיעוד. תהליך זה מאפשר לשלב נתוני גיליון אלקטרוני בתהליכי עבודה של מסמכים ובמערכות דיווח.
+
+ממשקי API מבוססי Python מספקים יכולות תכנותיות לאוטומציה של המרות מגיליון אל מסמך. זה מאפשר צינורות מסמכים בקנה מידה, דיווח אוטומטי, וזרימות עבודה יעילות לניהול מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח מגיליון למסמך**  
+  המרת מערכי נתוני גיליון למסמכי עיבוד תמלילים לצורך דיווח.
+
+* **יצירת תיעוד**  
+  המרת נתוני גיליון למסמכים מובנים.
+
+* **הצגת נתונים**  
+  הצגת תוכן הגיליון בפריסות מסמך קריאות.
+
+* **הגירת תוכן**  
+  המרת ארכיוני גיליון לפורמטים ניתנים לעריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות דיווח אוטומטיים**  
+  זרימות עבודה ב‑Python ממירות נתוני גיליון למסמכים באופן אוטומטי.
+
+* **עיבוד מסמכים במקבץ**  
+  מערכות מעבדות מספר גיליונות ומייצרות פלטי מסמכים.
+
+* **יצירת מסמכים דינאמיים**  
+  קלטי גיליון ממלאים באופן דינמי מסמכים מובנים.
+
+* **שילוב בתהליכי עבודה ארגוניים**  
+  מערכות המרה משולבות עם תשתיות ניהול מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

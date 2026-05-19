@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑PPSM ממירה נתונים טבלאיים מובנים לקבצי מצגות עם מקרו המשמשים להפעלת מצגות עם התנהגות מתקדמת. היא שימושית בתהליכי עבודה שבהם פלטים מוכנים להצגה צריכים להתאים למערכות מצגות מבוקרות ומונעות נתונים.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת TSV ל‑PPSM כדי לפשט את יצירת המצגות, לתמוך בתהליכי מצגת מתקדמים, ולשפר את ההרחבה בצינורות נתונים‑למצגת חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **מצגות עם מקרו**  
+  ממירה מערכי נתוני TSV לקבצי מצגות המתאימים לסביבות מצגת מתקדמות.
+
+* **הפצת הפעלת מצגת**  
+  תומכת בפלטי מצגת בתצוגה ישירה שנבנים מתוך נתונים מקוריים מובנים.
+
+* **שקופיות דיווח אוטומטיות**  
+  עוזרת לארוז נתונים חוזרים לנכסי מצגת לשימוש תפעולי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של נתונים למצגת**  
+  ממשקי API של Python יכולים להמיר קבצי TSV לפלטי PPSM עם לוגיקה חוזרת.
+
+* **תהליכי מצגת מתקדמים**  
+  האוטומציה תומכת ביצירת מצגות עבור סביבות הדורשות פונקציונליות עשירה יותר.
+
+* **המרה בקבוצות ניתנת להרחבה**  
+  אוספים גדולים של TSV יכולים להיות מעובדים לקבצי PPSM ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

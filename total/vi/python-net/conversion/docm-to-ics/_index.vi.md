@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to ICS conversion biến đổi nội dung tài liệu có macro thành dữ liệu tương thích với lịch, cho phép tái sử dụng lịch trình, chi tiết sự kiện hoặc nội dung dựa trên ngày trong các quy trình lập kế hoạch. Điều này đặc biệt hữu ích khi các tài liệu chứa thông tin sự kiện có cấu trúc cần được truy cập rộng rãi hơn.
+
+Về mặt tự động hoá, việc chuyển đổi DOCM sang ICS kết nối các lịch trình đã được tạo với hệ thống lịch, cho phép tạo sự kiện tự động, đồng bộ hoá và phối hợp quy trình làm việc dựa trên thời gian.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Trích Xuất Lịch Trình**
+  Chuyển đổi nội dung tài liệu liên quan đến sự kiện thành dữ liệu sẵn sàng cho lịch để sử dụng trong lập kế hoạch.
+
+* **Xuất Bản Cuộc Họp và Hạn Chót**
+  Giúp phân phối các thời gian biểu được định nghĩa trong tài liệu thông qua các tệp lịch chuẩn hoá.
+
+* **Lập Lịch Đa Nền Tảng**
+  Hỗ trợ khả năng di chuyển thông tin dựa trên ngày sang các công cụ lịch tương thích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động" %}}
+
+* **Tạo Sự Kiện Tự Động**
+  Tạo các tệp ICS từ nội dung DOCM chứa chi tiết cuộc họp hoặc hạn chót.
+
+* **Quy Trình Đồng Bộ Lịch**
+  Hỗ trợ nhập tự động các lịch trình được tạo từ tài liệu vào hệ thống lập kế hoạch.
+
+* **Lập Lịch Hàng Loạt Định Kỳ**
+  Chuyển đổi nhiều tài liệu lập lịch thành các đầu ra lịch chuẩn hoá ở quy mô lớn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

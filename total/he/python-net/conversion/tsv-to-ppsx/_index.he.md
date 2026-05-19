@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV ל-PPSX ממירה נתונים מופרדים בטאבים לקבצי מצגת מודרניים המיועדים לתצוגה ישירה והפצה. זהו ערך מוסף כאשר יש צורך להעביר תוכן מובנה במצב מצגת עם פורמט עקבי ותאימות רחבה.
+
+באמצעות API של פייתון, המרה מ-TSV ל-PPSX מאפשרת אוטומציה יעילה התומכת בתהליכי עבודה חוזרים של מצגות, דיווח ברמת סקלאביליות ויצירת תוכן דינמי ממקורות נתונים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הפצת מצגת מודרנית**  
+  ממירה נתוני TSV לקבצי מצגת מוכנים לצפייה ישירה.
+
+* **פלט מצגת מובנה**  
+  מסייעת להמרת תוכן טבלאי לתקשורת מבוססת מצגת נגישה.
+
+* **דיווח חזותי חוזר**  
+  תומכת בהפצה שוטפת של סיכומים מוכנים למצגת מנתונים גולמיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **קבצי הפעלה אוטומטית של מצגות**  
+  ממשקי ה-API של פייתון יכולים ליצור קבצי PPSX מקלטי TSV לפי דרישה או בלו"ז.
+
+* **צינורות דיווח ניתנים להרחבה**  
+  האוטומציה משפרת את היעילות של ייצור מצגות חוזרות.
+
+* **עדכוני מצגת דינאמיים**  
+  זרימות עבודה תכנותיות יכולות לרענן פלטי מצגות בכל שינוי של נתוני המקור.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

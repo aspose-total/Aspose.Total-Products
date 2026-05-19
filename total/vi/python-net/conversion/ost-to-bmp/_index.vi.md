@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OST sang BMP biến dữ liệu hộp thư thành đầu ra hình ảnh bitmap, giúp nội dung email dễ dàng được lưu trữ, xem xét và chia sẻ dưới dạng hình ảnh tĩnh. Nó hữu ích cho việc lưu trữ các ảnh chụp nhanh của tin nhắn, tạo ra các bản ghi hình ảnh, và hỗ trợ các quy trình làm việc yêu cầu việc hiển thị nội dung email dưới dạng hình ảnh nhất quán.
+
+Trong các quy trình tự động hiện đại, việc chuyển đổi OST sang BMP giúp chuẩn hoá việc hiển thị email cho các nhiệm vụ báo cáo, tuân thủ và xử lý tài liệu. Các API Python cho phép chuyển đổi nội dung hộp thư một cách lập trình ở quy mô lớn, nâng cao hiệu quả, khả năng lặp lại và tích hợp trong các hệ thống doanh nghiệp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Lưu trữ ảnh chụp nhanh email**  
+  Chuyển đổi nội dung hộp thư thành các hình ảnh bitmap để lưu trữ tĩnh và tham chiếu hình ảnh.
+
+* **Tài liệu tuân thủ**  
+  Hỗ trợ các môi trường được quy định yêu cầu các bản ghi hình ảnh không thể chỉnh sửa của các bản ghi giao tiếp.
+
+* **Quy trình xem xét thủ công**  
+  Giúp các nhóm kiểm tra nội dung tin nhắn dưới dạng hình ảnh mà không cần truy cập vào client email.
+
+* **Kết quả sẵn sàng cho bản trình bày**  
+  Cho phép đưa nội dung email vào báo cáo, hồ sơ vụ việc hoặc tài liệu kiểm toán dưới dạng hình ảnh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Kết xuất email hàng loạt**  
+  Tự động chuyển đổi nhiều mục OST thành các tệp BMP cho việc lưu trữ hoặc xem xét quy mô lớn.
+
+* **Tạo bằng chứng tuân thủ**  
+  Các quy trình Python tạo ra các bản ghi dựa trên hình ảnh từ nội dung hộp thư cho các quy trình lưu trữ.
+
+* **Đường ống xuất hình ảnh**  
+  Việc chuyển đổi lập trình hỗ trợ các hệ thống hạ nguồn xử lý tài liệu hình ảnh tĩnh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

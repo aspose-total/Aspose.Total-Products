@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál RTF-t hozzáadni ICS-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF‑t‑ICS átalakítás formázott szöveges dokumentumokat naptár‑kompatibilis fájlokká alakít, amelyek eseményeket, ütemterveket, emlékeztetőket vagy időpontadatokat tudnak reprezentálni. Különösen hasznos, ha a dokumentumokban tárolt dátum‑ és időalapú tartalom naptárrendszerekben tevékennyé kell, hogy váljon.
+
+Automatizálási szempontból az RTF‑t‑ICS lehetővé teszi az események generálását, ütemezési munkafolyamatokat és a naptárra kész információk egyszerűbb elosztását csapatok, rendszerek és operatív folyamatok között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Esemény létrehozása dokumentumokból**  
+  Átalakítja a megbeszélés jegyzeteit vagy ütemterveket naptárfájlokká, amelyeket importálni és megosztani lehet.
+
+* **Emlékeztető terjesztése**  
+  Segít a dátumalapú dokumentumtartalmat cselekvőképes naptáreseményekké alakítani.
+
+* **Ütemterv szabványosítás**  
+  Támogatja az időpontok és idővonalak egységes formázását a szélesebb körű újrahasználhatóság érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált időpontgenerálás**  
+  A rendszerek képesek az RTF fájlokból kinyerni az ütemezési adatokat, és manuális beállítás nélkül létrehozni ICS bejegyzéseket.
+
+* **Munkafolyamat‑alapú naptárközzététel**  
+  A programozott átalakítás lehetővé teszi, hogy tervek, értesítések vagy ütemtervek naptárfájlokként legyenek terjesztve.
+
+* **Ismétlődő ütemezési csővezetékek**  
+  A dinamikus folyamatok képesek rutin dokumentumáramlatokból naptárkimeneteket generálni csapatok és érintettek számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OFT-t hozzáadni BMP-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OFT‑BMP átalakítás Python API‑kkal lehetővé teszi, hogy az e‑mail sablonok tartalma bitmap képekké alakuljon archiválás, előnézet‑generálás és rögzített elrendezésű megosztás céljából. Ez a folyamat akkor értékes, amikor a vizuális konzisztencia fontos, és amikor az üzenetalapú tartalmat statikus, széles körben olvasható képformátumban kell megőrizni.
+
+A modern munkafolyamatokban az OFT‑BMP átalakítás automatizálást támogat azzal, hogy újrahasználható e‑mail sablonokat képesek képeszközökké alakít, amelyeket indexelni, felülvizsgálni és terjeszteni lehet e‑mail kliensek nélkül. Javítja a működési hatékonyságot a dokumentumkezelésben, a jelentés‑csővezetékekben és a vizuális nyilvántartás‑kezelésben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Sablon előnézet archiválása**  
+  Alakítsa át az OFT fájlokat BMP képekké, hogy az e‑mail sablon elrendezéseket statikus vizuális feljegyzésekként megőrizze.
+
+* **Vizualis megfelelőségi felülvizsgálat**  
+  Használja a bitmap kimeneteket a formázás, a nyilatkozatok és a márkaelemek manuális vagy automatizált ellenőrzéséhez.
+
+* **Offline képek terjesztése**  
+  Ossza meg a renderelt e‑mail tartalmat egyszerű képformátumban belső felülvizsgálat vagy dokumentáció céljából.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Kötegelt e‑mail sablon renderelés**  
+  Automatizálja több OFT sablon BMP fájlokká konvertálását a katalogizálás és a minőség‑ellenőrzés érdekében.
+
+* **Dokumentum munkafolyamat integráció**  
+  Irányítsa a konvertált BMP kimeneteket dokumentumtárakba, audit rendszerekbe vagy jóváhagyási csővezetékekbe.
+
+* **Előnézet generálási csővezetékek**  
+  Dinamikusan generáljon vizuális előnézeteket OFT sablonokból irányítópultok, portálok vagy tartalomkönyvtárak számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

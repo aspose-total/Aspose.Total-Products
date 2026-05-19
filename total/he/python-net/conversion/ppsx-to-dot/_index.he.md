@@ -105,7 +105,47 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPSX ל‑DOT ממירה תוכן מצגת לפורמט תבנית מסמך שיכול לשמש כבסיס ליצירת פלטים טקסטיים עקביים. זה שימושי כאשר יש צורך להשתמש מחדש בחומר שמקורו במצגת במבני מסמכים מתוקננים לצרכים תפעוליים או תיעודיים חוזרים.
+
+בזרימות עבודה של אוטומציה, המרת PPSX ל‑DOT תומכת ביצירת מסמכים מונעי‑תבנית, משפרת עקביות ומאפשרת תהליכי עיצוב חוזרים באמצעות אינטגרציות של API של פייתון.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמך מבוסס תבנית**  
+  ממירה את תוכן השקופיות למבנה מסמך שניתן להשתמש בו מחדש עבור פלטים עתידיים.
+
+* **עיצוב תוכן מתוקנן**  
+  תומכת בפריסה ועיצוב עקביים בכל המסמכים שנוצרו.
+
+* **מודלים תיעודיים ניתנים לשימוש חוזר**  
+  מסייעת ביצירת קבצים בסיסיים ממידע שמקורו במצגת.
+
+* **הכנת מסמכים תפעוליים**  
+  מאפשרת לתוכן השקופיות להפוך לחלק ממסגרות תיעוד חוזרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות יצירת תבניות**  
+  API של פייתון יכולים לאוטומט את ההמרה לתבניות DOT ליצירת מסמכים חוזרים.
+
+* **פלטים ארגוניים מתוקננים**  
+  אוטומציה מסייעת לשמור על מבני מסמכים אחידים ממקורות PPSX מרובים.
+
+* **זרימות עבודה של פרסום חוזרות**  
+  תבניות מומרות ניתנות לשימוש חוזר במשימות פרסום או דיווח אוטומטיות.
+
+* **מבנה תוכן בקנה מידה גדול**  
+  המרה תכנותית תומכת ביצירת קבצים רבים מוכנים לתבנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

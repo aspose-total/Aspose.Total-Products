@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOCM-t hozzáadni PST-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM‑PST átalakítás makróval ellátott dokumentumokat személyes tároló kimenetekké alakítja, amelyeket az üzenetalapú tartalom konszolidált levéladat‑fájlokban történő szervezésére használnak. Hasznos, ha a dokumentumból származó kommunikációs anyagok strukturált tárolást igényelnek archiválási vagy migrációs célokra.
+
+Automatizált rendszerekben a DOCM‑PST átalakítás támogatja a postafiók csomagolását, a megfelelőségi munkafolyamatokat, valamint a konvertált dokumentumtartalom skálázható áthelyezését rendezett kommunikációs tárolókba.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Konszolidált levél tárolás**
+  Segít megőrizni a konvertált dokumentumtartalmat egy strukturált személyes tárolóegységben.
+
+* **Archiválási előkészítés**
+  Támogatja a dokumentumból származó kommunikációs rekordok hosszú távú megőrzését.
+
+* **Migrációs munkafolyamatok**
+  Lehetővé teszi az üzenetalapú kimenetek átvitelét rendezett tárolókészletekbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált postafiók csomagolás**
+  A DOCM fájlokat PST‑kompatibilis kimenetekké alakítja a megőrzési munkafolyamatokhoz.
+
+* **Megfelelőség‑orientált feldolgozás**
+  Támogatja a dokumentum‑levél tárolási csővezetékeket, amelyeket szabályozott környezetekben használnak.
+
+* **Nagy mennyiségű átalakítás és tárolás**
+  Programozottan kezeli a dokumentumok tömeges átalakítását strukturált levéltárolókba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

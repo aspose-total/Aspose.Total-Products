@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOTM-t hozzáadni OST-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOTM‑ról OST‑ra konverzió makróval ellátott Word sablonokat alakít át postafiók‑adatokká, amelyek alkalmasak offline levéltárolási forgatókönyvekre és üzenetküldési munkafolyamatokra. Releváns, ahol dokumentumalapú tartalmat integrálnak levél‑orientált környezetekbe, amelyek szinkronizált helyi adatbázisokra támaszkodnak.
+
+A Python API‑k használata a DOTM‑ról OST‑ra konverzióhoz segít automatizálni a dokumentumsablonokból származó strukturált levéladatok előkészítését. Támogatja a skálázható feldolgozást, csökkenti a kézi konverziós erőfeszítést, és javítja a dokumentumrendszerek és a vállalati üzenetküldési munkafolyamatok közötti integrációt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Offline levéladat előkészítése**
+  Dokumentumalapú tartalmat olyan formátumba konvertál, amely összhangban van az offline üzenettárolási munkafolyamatokkal.
+
+* **Sablon‑alapú kommunikáció archiválása**
+  Megőrzi az újrahasználható sablontartalmat a levél‑orientált feldolgozási környezetekben.
+
+* **Vállalati üzenetküldés integrációja**
+  Összeköti a dokumentummunkafolyamatokat azokkal a rendszerekkel, amelyek szinkronizált postafiók‑adatokat kezelnek.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált levéltár generálás**
+  A munkafolyamatok képesek a DOTM tartalmat OST‑kompatibilis adatkezelési folyamatokká alakítani.
+
+* **Üzenetküldő rendszer integrációja**
+  A konverzió támogatja a dokumentumból származó kommunikáció automatizált előkészítését offline hozzáférési forgatókönyvekhez.
+
+* **Kötegelt vállalati feldolgozás**
+  Programozott feladatok lehetővé teszik a DOTM sablonok nagyszabású kezelését a levéladat‑munkafolyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

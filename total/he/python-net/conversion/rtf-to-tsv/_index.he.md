@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל‑TSV משנה מסמכי טקסט מעוצבים לקבצי נתונים מופרדים בטאבים שקל לייבא, לבדוק ולעבד במערכות אנליטיקה ואינטגרציה. זה בעל ערך כאשר יש צורך להפוך את תוכן המסמך לטקסט פשוט ומבנה עם הפרדת שדות ברורה.
+
+לצורך אוטומציה, RTF ל‑TSV תומך בצינורות שינוי נתונים קלים, מה שמקל על העברת תוכן שמופק מהמסמך לסקריפטים, מסדי נתונים וכלי עיבוד המעדיפים פורמטים טבלאיים של טקסט פשוט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **מבנה נתונים בטקסט פשוט**  
+  ממיר תוכן טקסט עשיר לרשומות מופרדות בטאבים כדי להקל על ניתוח וייבוא.
+
+* **ייצוא ידידותי לאינטגרציה**  
+  מסייע בהכנת מידע המסמך למערכות המקבלות קבצי נתונים קלים מבוססי טקסט.
+
+* **המרת נתונים בכמות גדולה**  
+  תומך בהמרה ברמת נפח גבוהה של תוכן RTF לפלט טבלאי מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות נתונים מונעי סקריפט**  
+  מערכות יכולות להמיר קבצי RTF ל‑TSV לצורך ניתוח והמרה שלבים מאוחרים.
+
+* **זרימות עבודה של ייצוא חוזר**  
+  המרה תכנותית תומכת ביצירת פלטי טקסט מובנים מתוזמנים ממקורות מסמכים.
+
+* **החלפת נתונים בין‑מערכות**  
+  תהליכים דינמיים יכולים להעביר את תוכן המסמך לכלים אנליטיים או תפעוליים באמצעות TSV כפורמט ביניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑ODT מאפשרת לתוכן גיליון אלקטרוני להיות מומר לקבצי טקסט של מסמכי פתוח, ניתנים לעריכה, ניידים ובעלי התאמה לתקנים. זה שימושי כאשר ארגונים זקוקים לפלטים מבוססי טקסט הנגישים במגוון רחב של סביבות משרדיות.
+
+אוטומציה של API ב‑Python להמרת XLS ל‑ODT מסייעת לייעל זרימות עבודה של מסמכי פורמט פתוח ותומכת ביצירת קבצים ניתנים לעריכה בקנה מידה מהנתונים של גיליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח מסמכי פתוח**
+  המרת תוכן XLS לקבצי ODT עבור תיעוד עסקי פתוח וניתן לעריכה.
+
+* **שיתוף תוכן מתואם**
+  השתמש בפלט ODT כאשר תאימות מסמכים בין פלטפורמות חשובה.
+
+* **המרת גיליון אל טקסט**
+  ארגן מחדש נתונים טבלאיים לתוך פורמטים של מסמכים נרטיביים או משולבי פריסה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה של זרימת עבודה פתוחה**
+  יצירת קבצי ODT באופן אוטומטי מהגשות גיליונות במערכות מבוססות תקנים.
+
+* **המרת מסמכים בכמות גדולה**
+  השתמש ב‑API של Python כדי להמיר קבוצות גדולות של קבצי XLS למסמכי טקסט פתוחים וניתנים לעריכה.
+
+* **עיבוד מסמכים משולב**
+  הוסף המרת XLS ל‑ODT לתהליכי סקירה, אחסון ופרסום אוטומטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

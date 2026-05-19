@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑SXC ממירה תבניות עיבוד תמלילים לקבצי גיליון אלקטרוני המתאימים לטיפול במבני נתונים בתהליכי עבודה של OpenOffice ישנים. זה שימושי במקרים שבהם נדרשת תאימות לסביבות גיליון אלקטרוני מדור קודם.
+
+באמצעות ממשקי API של Python, צוותים יכולים לאוטומט את המרת DOT ל‑SXC כדי להפחית עיצוב ידני ולשמור על חילופי נתונים תואמי‑מורשת יעילים וניתנים לחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **תאימות לגיליון אלקטרוני מדור קודם**
+  המרת קבצי DOT ל‑SXC עבור סביבות התלויות בתקני גיליון אלקטרוני ישנים.
+
+* **ייצוא נתונים מובנה**
+  העברת תוכן המסמך לפורמט מבוסס רשת למעקב וניתוח.
+
+* **תמיכה במעבר מערכת**
+  גשר בין תבניות מסמכים מודרניות לתהליכי עבודה מבוססי גיליון אלקטרוני ישנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת פורמט מדור קודם אוטומטית**
+  תהליכי עבודה ב‑Python יכולים ליצור פלטי SXC מתבניות DOT לצרכים חוזרים.
+
+* **צינוריות נתונים תואמות‑לאחור**
+  ההמרה תומכת במערכות שעדיין דורשות חילופי קבצי גיליון אלקטרוני מדור קודם.
+
+* **עיבוד ייצוא מדור קודם בכמות גדולה**
+  אוטומציה תכנותית מסייעת לייצר באופן עקבי מספר רב של קבצי SXC ממסמכי מקור.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

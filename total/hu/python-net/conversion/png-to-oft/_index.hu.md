@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál PNG-t hozzáadni OFT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PNG‑ről OFT‑re konvertálás lehetővé teszi a képalapú tartalom átalakítását újrahasználható e‑mail sablonfájlokká, segítve a szervezeteket a vizuális bemenetek köré épülő kommunikáció szabványosításában. Ez akkor értékes, amikor az ismétlődő üzeneteknek konzisztens felépítésre van szükségük, miközben PNG‑alapú grafikákat, értesítéseket vagy képalapú információkat tartalmaznak.
+
+Python API‑kkal az OFT‑generálás automatizálható, hogy nagyméretű sablonkészítést támogasson, javítsa a konzisztenciát az üzenetküldési munkafolyamatokban, és egyszerűsítse az ismételhető kommunikációs formátumokra támaszkodó rendszereket.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Újrahasználható e‑mail sablonkészítés**  
+  PNG‑tartalmat konvertál OFT‑alapú sablonokká az ismétlődő kommunikációhoz.
+
+* **Szabványosított vizuális üzenetküldés**  
+  Segíti a csapatokat ismételhető e‑mail formátumok létrehozásában, amelyek képalapú információkat tartalmaznak.
+
+* **Működési kommunikációs tervezés**  
+  Támogatja azokat a munkafolyamatokat, amelyeknek strukturált sablonokra van szükségük PNG‑eszközökből generálva.
+
+* **Sablon‑vezérelt megkeresés**  
+  Lehetővé teszi a vizuálisan informált e‑mail sablonok előkészítését a jövőbeni küldéshez vagy szerkesztéshez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Dinamikus sablon generálás**  
+  Python API‑k képesek OFT sablonokat létrehozni PNG‑bemenetekből automatizált kommunikációs rendszerekhez.
+
+* **Kötegelt sablon előkészítés**  
+  Több PNG‑alapú üzenetelrendezés konvertálható OFT fájlokká a méretezett műveletekhez.
+
+* **Munkafolyamat szabványosítás**  
+  A rendszerek automatikusan előállíthatnak konzisztens vizuális e‑mail sablonokat a részlegek vagy folyamatok között.
+
+* **Kiváltott kommunikációs csővezetékek**  
+  Az alkalmazások igény szerint generálhatnak OFT sablonokat, amikor új PNG‑alapú eszközök lépnek be a munkafolyamatba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

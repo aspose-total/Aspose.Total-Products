@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑Word משנה תוכן מבוסס גיליון אל פורמט עיבוד תמלילים המתאים לתיעוד קריא, דיווח ותקשורת פורמלית. היא חשובה כאשר יש צורך להתאים נתוני גיליון מובנים למסמכי טקסט ראשוניים שקל יותר לסקור ולפזר.
+
+במערכות המתמקדות באוטומציה, המרת SXC ל‑Word באמצעות API‑ים של Python מסייעת לייעל את שינוי התוכן, לשפר את עקביות הפלט ולחבר מקורות גיליון עבודה עם זרימות עבודה רחבות יותר של ניהול מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת מסמכי עסקים**  
+  ממיר נתוני גיליון למסמכי עיבוד תמלילים עבור דוחות, סיכומים ותקשורת פורמלית.
+
+* **מסירת תוכן קריא**  
+  הופך נתונים מובנים לקלים יותר לצריכה על ידי קהלים לא‑טכניים בצורה של מסמך.
+
+* **תאימות זרימת עבודה**  
+  תומך בסביבות ממוקדות מסמך המתבססות על פורמטים של עיבוד תמלילים לשיתוף פעולה ובדיקה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות דיווח אוטומטיים**  
+  משתמש ב‑API‑ים של Python ליצירת מסמכי Word מנתוני SXC על בסיס מחזורי או מבוסס אירועים.
+
+* **שילוב ניהול מסמכים**  
+  מזין את הפלט המומר למערכות סקירה, אישור או ארכיב ללא צורך בעבודה ידנית.
+
+* **המרת תוכן בקנה מידה**  
+  מאפשר יצירה תכנותית של כמויות גדולות של מסמכי Word תואמים מקלטי גיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

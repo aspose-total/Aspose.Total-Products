@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF ל‑SXC ממיר מסמכי טקסט עשיר לקבצי גיליון אלקטרוני המתאימים לתהליכי עבודה של גיליונות אלקטרוניים פתוחים מדור קודם. זה שימושי כאשר יש צורך לארגן את תוכן המסמך בצורה טבלאית לצורך ניתוח, דיווח או תאימות לסביבות משרד פתוח מדור קודם.
+
+בהקשרים של אוטומציה, RTF ל‑SXC תומך בהמרה מובנית של מידע כתוב לנכסי גיליון אלקטרוני שיכולים להשתתף בצינורות עיבוד נתונים היסטוריים או ממוקדי תאימות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת גיליון אלקטרוני פתוח מדור קודם**  
+  ממירה את תוכן המסמך לקבצים טבלאיים המתאימים לסביבות גיליון אלקטרוני פתוח מדור קודם.
+
+* **ארגון מחדש של נתונים מובנים**  
+  עוזרת לעצב מחדש מידע נרטיבי לשורות ועמודות לצורך סקירה ומעקב.
+
+* **החלפת נתונים ממוקדת תאימות**  
+  תומכת בתהליכי עבודה התלויים בתמיכה בקבצי גיליון אלקטרוני מדור קודם.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פלט גיליון אלקטרוני מדור קודם אוטומטי**  
+  מערכות יכולות להמיר מקורות RTF לקבצי SXC עבור תהליכי עבודה מונעי תאימות.
+
+* **תהליכי ארגון נתונים במאצור**  
+  המרה תכנותית מסייעת לתקנן קבוצות מסמכים גדולות לפורמטים מוכנים לגיליון אלקטרוני.
+
+* **אינטגרציה עם מערכות היסטוריות**  
+  תהליכי עבודה דינאמיים יכולים להזין סביבות טבלאיות מדור קודם באמצעות תוכן מסמך שהומר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

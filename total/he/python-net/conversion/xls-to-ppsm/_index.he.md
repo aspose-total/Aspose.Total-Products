@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑PPSM ממירה מידע גיליון אלקטרוני לקבצי מצגת שקופיות עם מקרו לשימוש ישיר במצגת. פורמט זה שימושי כאשר זרימות עבודה של הצגת מצגות דורשות התנהגות של שקופיות יחד עם תאימות לסביבות עם מקרו.
+
+שימוש ב‑APIs של Python להמרת XLS ל‑PPSM מסייע באוטומציה של יצירת מצגות מתמחות ותומך בהמרה בקנה מידה של מידע מבוסס גיליון אלקטרוני לנכסים מוכנים לתצוגה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **שקופיות עם מקרו**
+  המרת נתוני XLS לקבצי PPSM עבור זרימות עבודה מתקדמות של מצגות.
+
+* **פלט מצגת ישיר**
+  הכנת קבצים שמקורם בגיליון אלקטרוני המוכנים לפתיחה במצב שקופיות.
+
+* **חומרי מסירה מובנים**
+  שימוש בתוכן הגיליון ליצירת פלטים חזותיים מודרכים לצרכים תפעוליים או דיווחיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הכנת שקופיות אוטומטית**
+  יצירת קבצי PPSM מקלטי גיליון אלקטרוני במערכות הדורשות פלט מצגת חוזר.
+
+* **צינורות מצגת מתקדמים**
+  שימוש ב‑APIs של Python לתמיכה ביצירת שקופיות תואמות למקרו בקנה מידה.
+
+* **מערכות דיווח עם תצוגה ראשונה**
+  המרת קבצי XLS לנכסי מצגת בתצוגה ישירה לתקשורת יעילה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

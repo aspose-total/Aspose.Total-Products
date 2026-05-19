@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi MSG sang WordML chuyển các tin nhắn email thành ngôn ngữ đánh dấu xử lý văn bản dựa trên XML để biểu diễn và chuyển đổi tài liệu có cấu trúc. Điều này có giá trị khi nội dung tài liệu phải vẫn có thể đọc được bởi máy và phù hợp cho việc phân tích nâng cao hoặc các nhiệm vụ tương tác.
+
+Đối với tự động hoá, quy trình làm việc MSG sang WordML hỗ trợ xử lý XML, các pipeline chuyển đổi và các kịch bản tích hợp hệ thống. Chúng giúp nối liền nội dung xuất phát từ email với kỹ thuật tài liệu có cấu trúc và việc thao tác lập trình.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Đầu Ra Tài Liệu XML Có Cấu Trúc**  
+  Biểu diễn nội dung tin nhắn trong định dạng xử lý văn bản dựa trên ngôn ngữ đánh dấu.
+
+* **Trao Đổi Nội Dung Tương Thích**  
+  Hỗ trợ các quy trình làm việc dựa trên cấu trúc tài liệu có thể đọc được bởi máy.
+
+* **Hỗ Trợ Chuyển Đổi Nâng Cao**  
+  Cho phép phân tích chi tiết và sửa đổi nội dung email đã chuyển đổi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Pipeline Xử Lý XML**  
+  Chuyển đổi các tệp MSG sang WordML để thực hiện các nhiệm vụ chuyển đổi và xác thực có cấu trúc.
+
+* **Quy Trình Tích Hợp Hệ Thống**  
+  Trao đổi nội dung tài liệu giữa các công cụ tự động hoá bằng các định dạng dựa trên ngôn ngữ đánh dấu.
+
+* **Kỹ Thuật Tài Liệu Lập Trình**  
+  Áp dụng logic kịch bản vào nội dung xuất phát từ tin nhắn trong môi trường dựa trên XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

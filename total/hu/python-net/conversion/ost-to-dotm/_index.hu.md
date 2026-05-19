@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál OST-t hozzáadni DOTM-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OST‑t DOTM‑re konvertálás átalakítja a postafiók adatait makró‑támogatott sablonformátummá, ötvözve az újrahasználható struktúrát az automatizálásra kész dokumentumviselkedéssel. Ez értékes azok számára, akiknek e‑mailből származó tartalmat kell beilleszteniük szabványosított sablonokba, amelyek egyúttal támogatják az automatizált dokumentumműveleteket.
+
+A Python API‑k lehetővé teszik, hogy az OST‑t DOTM‑re konvertálás nagy léptékű műveletekhez is gyakorlati legyen, mivel konzisztens, szkriptelhető módon állítanak elő makró‑támogatott sablonokat a postafiókarchívumokból. Ez növeli a dokumentum‑automatizálás, az üzleti munkafolyamat‑orchesztráció és a szabályozott tartalom‑generálás hatékonyságát.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Makró‑támogatott sablon generálás**  
+  Átalakítja a postafiók adatait DOTM fájlokká, újrahasználható sablonokhoz, beágyazott automatizálási támogatással.
+
+* **Automatizált dokumentumkeretek**  
+  Segít a csapatoknak sablon‑vezérelt folyamatokat építeni az archivált e‑mail tartalom köré.
+
+* **Strukturált munkafolyamat‑dokumentumok**  
+  Támogatja az ismételhető kimenet létrehozását, ahol a dokumentum logikáját és elrendezését meg kell őrizni.
+
+* **Működési szabványosítás**  
+  Lehetővé teszi a postafiókból származó tartalom konzisztens kezelését az automatizált dokumentumkörnyezetekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Sablon‑automatizálási csővezetékek**  
+  Python szkriptek DOTM sablonokat hoznak létre OST tartalomból a skálázható dokumentummunkafolyamatokhoz.
+
+* **Makró‑vezérelt tartalomfeldolgozás**  
+  Az automatizált rendszerek feltöltik és kezelik a postafiók adataiból generált sablonfájlokat.
+
+* **Ismételhető vállalati dokumentumáramlások**  
+  A programozott konverzió javítja a konzisztenciát a sablon‑alapú üzleti műveletekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

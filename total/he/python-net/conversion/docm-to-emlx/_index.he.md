@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM ל-EMLX ממיר מסמכים עם מקרו לקבצי הודעות דוא"ל המשמשים במערכות אחסון דואר ספציפיות, ועוזר לשמר תוכן בפורמט תקשורת מובנה. זה שימושי כאשר תוכן המסמך צריך להתאים לתהליכי עבודה של דוא"ל ספציפיים לפלטפורמה או לדרישות ארכיון.
+
+בהקשרים של אוטומציה, המרה מ-DOCM ל-EMLX מאפשרת יצירה, ארגון ושימור שיטתיים של תוכן הודעות מבוסס מסמך בסביבות תקשורת מבוקרות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **פלט הודעה ספציפי לפלטפורמה**
+  יוצר קבצי הודעה המותאמים לסביבות המשתמשות במבני אחסון EMLX.
+
+* **ארכיון תקשורת מסמכים**
+  שומר על תוכן המסמך כפריטי דוא"ל לצורך שמירה או סקירה.
+
+* **תאימות זרימת עבודה**
+  תומך במערכות הדורשות קבלת קבצי הודעה במקום קלט מסמך גולמי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת קבצי דואר אוטומטית**
+  מייצר קבצי EMLX ממקורות DOCM בתהליכי עיבוד חוזרים.
+
+* **תמיכה בזרימת עבודה של שמירה**
+  עוזר לארכיב תקשורת נגזרת ממסמכים במאגרי דואר מובנים.
+
+* **צינורות המרה במקבצים**
+  מגדיל את ההמרה למערכות גדולות של קבצי DOCM העוברים דרך זרימות תקשורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑ODP משנה תוכן Word לקבצי מצגות OpenDocument התומכים בתקשורת מבוססת שקופיות במערכות אקוסיסטם של משרד פתוח. זה בעל ערך כאשר יש צורך להפוך תוכן נרטיבי או דוח למצגות שניתן לערוך.
+
+אוטומציה של API ב‑Python להמרת DOC ל‑ODP מסייעת לייעל את יצירת המצגות, להפחית זמן עיצוב ידני, ולשלב תוכן מונע מסמכים בתהליכי עבודה שיתופיים של שקופיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* **יצירת מצגת**
+  המרת תוכן המסמך לשקופיות ODP לפגישות, הדרכות או תדריכים.
+
+* **שיתוף פעולה בפורמט פתוח**
+  תמיכה בתהליכי מצגות התלויים בפורמטים משרדיים מבוססי תקנים.
+
+* **שימוש חוזר בדוח**
+  שימוש חוזר בחומר המסמך הקיים במבנה מוכן לשקופיות לצורך הצגה ויזואלית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת חבילת שקופיות**
+  המרה אוטומטית של דוחות DOC למצגות ODP לשימוש חוזר.
+
+* **תהליכי עבודה משרדיים חוצי פלטפורמות**
+  שימוש בהמרה מבוססת Python לתמיכה בסביבות משרד פתוח בקנה מידה רחב.
+
+* **פרסום מונחה תבניות**
+  יצירת קבצי מצגות באופן תכנותי ממקורות מסמכים מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

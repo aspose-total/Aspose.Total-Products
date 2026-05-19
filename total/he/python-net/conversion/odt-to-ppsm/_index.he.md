@@ -104,7 +104,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑PPSM ממירה קבצי OpenDocument Text לפורמט מצגת עם מקרו המיועד לשימוש ישיר במצגות. זה בעל ערך כאשר פלטי המצגות דורשים גם התנהגות מצגת וגם פונקציונליות מתקדמת אוטומטית.
+
+באמצעות ממשקי API של Python, המרת ODT ל‑PPSM תומכת ביצירת פלטים מוכנים למצגת בקנה מידה שניתן להרחבה עבור תהליכי דיווח והפצה מיוחדים. היא מסייעת לייעל תהליכי אוטומציה מתקדמים של המרת מסמכים למצגות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגת עם מקרו**  
+  ממירה מסמכים כתובים לפלטי מצגת עם יכולות מתקדמות.
+
+* **אוטומציה של אספקת מצגות**  
+  תומכת בתהליכים שמייצרים קבצי מצגת לצפייה ישירה.
+
+* **פלט תקשורת מובנה**  
+  הופכת תוכן מקור לנכסי מצגת ממוקדי תצוגה.
+
+* **שילוב תהליכים מתקדמים**  
+  מתאימה לתרחישים שבהם נדרש התנהגות מצגת מתוכנתת או משופרת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות מצגת מיוחדים**  
+  סקריפטים של Python יכולים להמיר תוכן ODT ל‑PPSM עבור תהליכי אספקה אוטומטיים.
+
+* **פרסום מצגות במקבץ**  
+  קבצים מרובים יכולים להיות מומרצים לפלטי מצגת עם מינימום עבודה ידנית.
+
+* **יצירת פלט מונעת תבנית**  
+  מסמכים מובנים יכולים להזין תהליכי מצגת מתקדמים באופן אוטומטי.
+
+* **אספקת דיווח תפעולי**  
+  קבצי מצגת יכולים להיווצר תכנותית למחזורי מצגות חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

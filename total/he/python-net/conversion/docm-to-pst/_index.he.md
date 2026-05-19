@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑PST ממירה מסמכים עם מקרו לפלטי אחסון אישיים המשמשים לארגון תוכן מבוסס הודעות בקבצי דואר מאוחדים. היא שימושית כאשר חפצי תקשורת שמקורם במסמכים דורשים אחסון מובנה למטרות ארכיון או הגירה.
+
+במערכות אוטומטיות, המרת DOCM ל‑PST תומכת באריזת תיבות דואר, תהליכי ציות, והעברה ניתנת להרחבה של תוכן המסמכים המומר למאגרי תקשורת מאורגנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **אחסון דואר מאוחד**
+  עוזר לשמר את תוכן המסמך המומר במכולת אחסון אישית מובנית.
+
+* **הכנה לארכיון**
+  תומך בשמירה לטווח ארוך של רשומות תקשורת שמקורן במסמכים.
+
+* **תהליכי הגירה**
+  מאפשר העברת פלטים ממוקדי הודעות למערכי אחסון מאורגנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אריזת תיבת דואר אוטומטית**
+  ממיר קבצי DOCM לפלטים תואמי PST עבור תהליכי שמירה.
+
+* **עיבוד ממוקד ציות**
+  תומך בצינוריות המרה ממסמך לאחסון דואר המשמשות בסביבות מבוקרות.
+
+* **המרה ואחסון ברמת נפח גבוה**
+  מטפל בהמרה גורפת של מסמכים למאגרי דואר מובנים באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

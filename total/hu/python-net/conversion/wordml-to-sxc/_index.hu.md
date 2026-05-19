@@ -65,7 +65,41 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A WordML‑SXC átalakítás a dokumentumalapú strukturált tartalmat olyan táblázatfájlokká konvertálja, amelyek kompatibilisek a régi nyílt táblázatkezelő munkafolyamatokkal. Ez hasznos azok számára, akik a régebbi OpenOffice környezetekkel való kompatibilitást szeretnék megőrizni.
+
+A Python API‑k támogatják a WordML‑SXC átalakítást azzal, hogy kinyerik a táblázatokat, és automatizálják a migrációs és interoperabilitási igényekhez szükséges táblázatorientált formátumokba történő átalakítást.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Régi nyílt táblázatkezelő kimenet**
+  A WordML táblázatokat SXC fájlokká konvertálja a régebbi táblázatkezelő környezetekhez.
+
+* **Dokumentumokból származó adatok újrahasznosítása**
+  Lehetővé teszi a strukturált dokumentumtartalom szerkeszthetőségét a régi táblázatkezelő eszközökben.
+
+* **Kompatibilitás megőrzése**
+  Támogatja a hosszú farokú munkafolyamatokat, amelyek még mindig a régi nyílt formátumokra támaszkodnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Régi export automatizálása**
+  SXC kimeneteket generál WordML fájlokból a kompatibilitásra fókuszáló munkafolyamatokban.
+
+* **Migrációt támogató feladatok**
+  Összekapcsolja a dokumentumtárakat a régebbi táblázatfeldolgozó környezetekkel.
+
+* **Tömeges táblázatkonverzió**
+  Automatizálja a dokumentumadatok kinyerését és csomagolását a régi táblázatfájlokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

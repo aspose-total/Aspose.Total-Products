@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑POT ממירה תבניות מסמכים לקבצי תבנית מצגת שניתן להשתמש בהם מחדש ליצירת שקופיות עקבית. זה שימושי כאשר תוכן כתוב צריך להפוך לבסיס מצגת חוזר במקום פלט חד‑פעמי.
+
+ממשקי API של Python מקלים על אוטומציית יצירת תבניות POT ממקורות DOT, ומסייעים לצוותים לתקנן את ייצור המצגות ולהפחית עבודה ידנית של עיצוב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת תבנית מצגת**
+  המרת קבצי DOT לתבניות POT לפיתוח שקופיות עקבי.
+
+* **שימוש חוזר בתוכן בין מצגות**
+  הפיכת תוכן מסמך מובנה לנקודות התחלה של מצגות שניתן להשתמש בהן מחדש.
+
+* **תקשורת חזותית מתוקננת**
+  תמיכה ביצירת שקופיות אחידה על ידי בניית תבניות מצגת ממקורות המסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום תבנית אוטומטי**
+  תהליכי עבודה ב‑Python יכולים ליצור קבצי POT מתבניות DOT לצוותי המצגות.
+
+* **יצירת מסגרת שקופיות ניתנת להרחבה**
+  ההמרה תומכת בייצור חוזר של מבני שקופיות שניתן להשתמש בהם מחדש מהמסמכים.
+
+* **תקנון נכסים תכנותי**
+  תהליכים דינמיים מסייעים לאכוף עקביות בספריות תבניות המצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

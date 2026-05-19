@@ -65,7 +65,41 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A WordML‑TSV átalakítás átalakítja a strukturált dokumentumtartalmat tabulátorral elválasztott szöveges fájlokká, amelyek egyszerűek, hordozhatóak, és könnyen beilleszthetők az adatfolyamatokba. Hasznos, amikor tiszta oszlopelválasztásra van szükség táblázat‑specifikus formázás nélkül.
+
+A Python API‑k hatékonyabbá teszik a WordML‑TSV átalakítást azáltal, hogy kinyerik a táblázatszerkezeteket, és könnyű, automatizálás‑barát kimenetekké alakítják őket az adatfeldolgozás és -csere céljából.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Elválasztott adatok exportálása**
+  Átalakítja a WordML táblákat TSV fájlokká a tiszta, szövegalapú adatcsere érdekében.
+
+* **Folyamatbarát kimenet**
+  Egyszerű, strukturált fájlokat hoz létre, amelyek alkalmasak a feldolgozásra és az ellenőrzési feladatokra.
+
+* **Dokumentumtáblák kinyerése**
+  Megkönnyíti a dokumentumok táblázatos tartalmának programozott feldolgozását.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Kötegelt táblák konvertálása**
+  Automatikusan átalakítja a dokumentumtáblákat TSV fájlokká az alárendelt munkafolyamatokhoz.
+
+* **ETL munkafolyamat támogatás**
+  A TSV kimeneteket beilleszti az adatbeviteli, leképezési és transzformációs csővezetékekbe.
+
+* **Adatszinkronizációs feladatok**
+  Lehetővé teszi a frissített dokumentumadatok ismételhető exportját szövegalapú strukturált fájlokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

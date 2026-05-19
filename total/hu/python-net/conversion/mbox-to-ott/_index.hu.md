@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MBOX-t hozzáadni OTT-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az MBOX‑ról OTT‑re konvertálás a postafiók‑archívumokat nyílt dokumentumsablonokká alakítja, lehetővé téve, hogy az e‑mailből származó tartalomszerkezetek újra felhasználhatók legyenek szabványos dokumentumkészítési munkafolyamatokban. Ez akkor hasznos, amikor a szervezetek archivált kommunikációk alapján ismételhető tartalomformátumokat szeretnének létrehozni.
+
+A Python API‑k lehetővé teszik az OTT generálás automatizálását MBOX fájlokból, javítva a konzisztenciát, csökkentve a kézi beállítást, és támogatva a skálázható sablon‑orientált műveleteket.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Nyílt sablon generálás**
+  Alakítsa át a postafiók tartalmát újra felhasználható OTT sablonokká a következetes dokumentumkészítéshez.
+
+* **Szabványosított tartalomelrendezések**
+  Őrizze meg az e‑mail alapú szerkezetet egy olyan formátumban, amely az ismételhető formázásra van tervezve.
+
+* **Sablon‑vezérelt dokumentáció**
+  Használja a konvertált postafiók tartalmat a jövőbeli nyílt dokumentum munkafolyamatok támogatásához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált sablonépítés**
+  Generáljon OTT fájlokat a kiválasztott e‑mailekből az ismételhető tartalmi csővezetékek részeként.
+
+* **Nyílt munkafolyamat szabványosítás**
+  Használja a Python automatizálást a postafiók‑archívumokból származó konzisztens sablonstruktúrák fenntartásához.
+
+* **Skálázható dokumentum előkészítés**
+  Integrálja a konvertált sablonokat a szélesebb körű dokumentumgenerálási rendszerekbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT ל‑CSV ממיר תוכן טקסט מובנה או חצי‑מובנה מקבצי OpenDocument Text לפורמט שטוח, מופרד, שקל יותר לנתח, לייבא ולעבד במערכות ממוקדות נתונים. הוא שימושי במיוחד כאשר יש צורך לחלץ מידע מבוסס מסמך לדיווח, סקירה או אינטגרציה במורד.
+
+בתהליכי אוטומציה, המרה מ‑ODT ל‑CSV תומכת בחילוץ נתונים חוזר, נרמול באצוות, וקליטת נתונים בקנה מידה לתוך ניתוחים או צינוריות עיבוד. באמצעות API של Python, צוותים יכולים לייעל טיפול במסמכים תוך הפחתת עיצוב ידני ושיפור עקביות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **חילוץ נתונים טבלאיים**  
+  ממיר טבלאות מבוססות מסמך ל‑CSV לעיבוד ואחסון קלים יותר.
+
+* **הכנת דוחות**  
+  מכין את תוכן המסמך לניתוחים, לוחות מחוונים, ולתהליכי סקירה מובנית.
+
+* **הגירה המונית של נתונים**  
+  מסייע להעביר כמויות גדולות של רשומות מבוססות טקסט לפורמטים נתונים מתאימים.
+
+* **תמיכה באינטגרציה מערכתית**  
+  מאפשר תאימות לכלים ושירותים המקבלים CSV כפורמט קלט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פענוח מסמכים מתוזמן**  
+  אוטומציה יכולה להמיר קבצי ODT נכנסים ל‑CSV במרווחים קבועים לצורכי צינוריות דיווח.
+
+* **צינוריות קליטת נתונים**  
+  תהליכים מבוססי Python יכולים לחלץ ולתקן את תוכן המסמך לפני טעינתו למסדי נתונים.
+
+* **פעולות המרה באצווה**  
+  אוספים גדולים של מסמכי ODT יכולים להיות מומרי תכנותית ללא התערבות ידנית.
+
+* **מבנה רשומות ציות**  
+  המרה אוטומטית מסייעת להכין תוכן שניתן לבדיקה בפורמט קריא למכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

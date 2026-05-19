@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑XLTM ממירה מסמכים עם מקרו למסמכי תבניות גיליון אלקטרוני עם מקרו, ומשלבת מבנה חוברת עבודה שניתן לשימוש חוזר עם התנהגות מתקדמת אוטומטית. זה בעל ערך עבור ארגונים שדורשים גם עקביות וגם לוגיקה משולבת של גיליון אלקטרוני בתבניות שלהם.
+
+לצורך אוטומציה וקנה מידה, המרת DOCM ל‑XLTM תומכת ביצירת חוברות עבודה מבוססות תבנית שניתנות לחזרה, תוך שמירה על היכולות הדינמיות הדרושות לתהליכי עבודה מורכבים של גיליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**
+  מייצרת תבניות גיליון אלקטרוני שניתן להשתמש בהן מחדש, הכוללות התנהגות מוכנה לאוטומציה.
+
+* **תהליכי עבודה מתקדמים לשימוש חוזר**
+  תומכת ביצירת חוברות עבודה חוזרות עם לוגיקה מובנית או פעולות מתוכנתות.
+
+* **סטנדרטיזציה עם גמישות**
+  מסייעת לשמור על תבניות עקביות מבלי לאבד את הפונקציונליות המתקדמת של הגיליון האלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **תמיכה בצינור תבניות אוטומטי**
+  ממירה קבצי DOCM לפלטי XLTM לצורך יצירת חוברות עבודה חוזרות.
+
+* **שימוש חוזר בלוגיקה משולבת**
+  מאפשרת לתהליכי עבודה משניים להשתמש בתבניות עקביות עם התנהגות מתקדמת.
+
+* **אספקת גיליונות אלקטרוניים בקנה מידה**
+  תומכת בהפצה רחבת היקף של תבניות עם מקרו ברחבי הפעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

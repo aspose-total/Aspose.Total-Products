@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi Word sang MBOX bằng các API Python chuyển nội dung tài liệu thành định dạng lưu trữ hộp thư được sử dụng để lưu trữ các bộ sưu tập tin nhắn email. Điều này hữu ích khi các bản ghi giao tiếp dựa trên tài liệu hoặc nội dung dạng tin nhắn cần được đóng gói để lưu trữ, di chuyển hoặc xử lý thư hàng loạt.
+
+Từ góc độ tự động hoá, quá trình chuyển đổi này hỗ trợ các quy trình lưu trữ và giao tiếp có khả năng mở rộng bằng cách biến nội dung được viết bằng Word thành các tài sản tương thích với hộp thư, phù hợp với các quy trình lưu trữ, xuất và chuyển giao.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Chuẩn bị Lưu trữ Hộp thư**
+  Đóng gói nội dung tin nhắn xuất phát từ tài liệu vào định dạng phù hợp cho các hệ thống lưu trữ email.
+
+* **Lưu trữ Giao tiếp Hàng loạt**
+  Hỗ trợ việc giữ lại nhiều tin nhắn được tạo ra trong một tệp hộp thư hợp nhất.
+
+* **Hỗ trợ Quy trình Di chuyển**
+  Giúp chuẩn bị nội dung cho các môi trường sử dụng phương pháp nhập hoặc chuyển giao dựa trên hộp thư.
+
+* **Bảo tồn Hồ sơ**
+  Lưu trữ nội dung hướng giao tiếp trong định dạng được thiết kế cho việc xử lý nhóm tin nhắn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Đường ống Tạo Lưu trữ**
+  Chuyển đổi các lô thông báo dựa trên Word thành các tệp MBOX để lưu trữ lâu dài.
+
+* **Đóng gói Tin nhắn Hàng loạt**
+  Tự động hoá việc tạo ra các lưu trữ hộp thư từ các tài liệu giao tiếp tiêu chuẩn.
+
+* **Quy trình Chuẩn bị Di chuyển**
+  Tạo ra các đầu ra MBOX để chuyển sang lưu trữ email hoặc hệ thống xem xét.
+
+* **Tự động hoá Lưu trữ Tuân thủ**
+  Sử dụng các tệp hộp thư như các container có cấu trúc cho các hồ sơ giao tiếp xuất phát từ tài liệu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

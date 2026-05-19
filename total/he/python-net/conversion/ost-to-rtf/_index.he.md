@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OST ל‑RTF ממירה את תוכן תיבת הדואר לפורמט טקסט עשיר, תוך שמירה על טקסט שניתן לעריכה עם עיצוב בסיסי בתקן מסמך רחב התאמה. היא שימושית לשיתוף, עריכה ושימוש חוזר בתוכן שמקורו במיילים במערכות ויישומים שונים.
+
+מנקודת מבט של אוטומציה, המרת OST ל‑RTF מציעה גשר פרקטי בין נתוני תיבת דואר מאוחסנים לבין זרימות עבודה גמישות מבוססות טקסט. ממשקי API של Python מקלים על אוטומציית ההמרה בקנה מידה, תומכים באינטרופראביליות ומפשטים טיפול במסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **שימור טקסט מעוצב**  
+  ממיר את נתוני תיבת הדואר ל‑RTF תוך שמירה על מבנה טקסט קריא ועיצוב.
+
+* **החלפת מסמכים חוצת פלטפורמות**  
+  תומך בשיתוף תוכן שמקורו במיילים במגוון רחב של כלי מסמכים.
+
+* **הכנת רשומות ניתנות לעריכה**  
+  עוזר להפוך תקשורת מאוחסנת לקבצים שניתן לשנות לצורך סקירה או שימוש חוזר.
+
+* **זרימות עבודה לתיעוד קלות משקל**  
+  מאפשר אחסון פרקטי של תוכן תיבת הדואר בפורמט טקסט פשוט ומעוצב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות המרת טקסט**  
+  סקריפטים ב‑Python מאוטומטים את שינוי OST ל‑RTF עבור זרימות עבודה של מסמכים אינטרופראביליים.
+
+* **אוטומציית שימוש חוזר בתוכן**  
+  מערכות אוטומטיות מכינות רשומות תקשורת ניתנות לעריכה מארכיוני תיבות דואר.
+
+* **תהליכי ייצוא מתוקננים**  
+  המרה תכנותית תומכת במתן פלט של טקסט מעוצב בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑PPS ממירה את תוכן תבנית Word לפורמט מצגת שקופיות המיועד לצפייה ישירה. היא שימושית כאשר יש צורך להפיץ את תוכן המסמך כרצף חזותי מוכן להצגה במקום קובץ שקופיות שניתן לעריכה.
+
+המרה זו תומכת באוטומציה על‑ידי אפשרות ליצירת פלטי מצגות מבוססי Python מתבניות, מה שמסייע לייעל תהליכי פרסום והפצת מצגות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **מצגות מוכנות להצגה**
+  המרת תוכן המסמך לנכסי מצגת המופעלים ישירות.
+
+* **הפצת מצגות**
+  שיתוף פלטים חזותיים ללא צורך בעריכה נוספת.
+
+* **הפצה חזותית מבוססת תבנית**
+  שימוש חוזר במסמכים מובנים כחומרי תקשורת מוכנים למצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **פרסום מצגות אוטומטי**
+  יצירת קבצי PPS מתבניות DOTX לתהליכי צפייה ישירה.
+
+* **הצגות חזותיות חוזרות**
+  הפקת מצגות מוכנות להפעלה מתבניות מסמך חוזרות.
+
+* **תקינה של פלטי מצגות**
+  מסירת נכסי מצגת עקביים דרך צינורות אוטומטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

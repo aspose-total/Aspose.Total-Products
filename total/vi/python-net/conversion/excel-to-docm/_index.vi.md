@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Đầu tiên sử dụng API [Aspose.Cells fo
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi Excel sang DOCM trong Python cho phép nội dung bảng tính được xuất ra các tài liệu xử lý văn bản hỗ trợ macro cho các quy trình công việc nâng cao. Điều này hữu ích khi các tệp đã chuyển đổi cần giữ khả năng chỉnh sửa đồng thời hỗ trợ các hành động dựa trên macro trong môi trường tài liệu.
+
+Quá trình chuyển đổi này có liên quan đến tự động hoá vì nó kết nối dữ liệu bảng tính với hành vi tài liệu có thể lập trình, cho phép tạo ra các tệp tương tác và nhận thức quy trình một cách mở rộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Báo cáo hỗ trợ Macro**  
+  Chuyển đổi các tệp Excel thành tài liệu DOCM có thể hỗ trợ các hành động tự động trong quy trình xử lý văn bản.
+
+* **Tài liệu Quy trình**  
+  Chuẩn bị các tệp có thể chỉnh sửa kết hợp dữ liệu có cấu trúc với khả năng tự động hoá tài liệu được nhúng.
+
+* **Mẫu hoạt động**  
+  Sử dụng dữ liệu bảng tính để điền vào các tài liệu được thiết kế cho các nhiệm vụ lặp lại dựa trên macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hoá" %}}
+
+* **Lắp ráp tài liệu tự động**  
+  Chuyển đổi đầu vào Excel thành đầu ra DOCM cho các quy trình công việc yêu cầu tài liệu có thể chỉnh sửa và sẵn sàng cho script.
+
+* **Tự động hoá quy trình nội bộ**  
+  Hỗ trợ các phòng ban dựa vào các tệp hỗ trợ macro cho việc định dạng, xác thực hoặc hoàn thành có hướng dẫn.
+
+* **Đường ống Dữ liệu‑đến‑Tài liệu**  
+  Sử dụng API Python để tạo các tệp DOCM một cách lập trình từ dữ liệu nguồn dựa trên bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

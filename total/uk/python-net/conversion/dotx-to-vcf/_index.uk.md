@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to VCF conversion transforms Word template content into a contact card format used for storing and sharing personal or organizational contact information. It is useful when templates contain structured contact details that need to be reused in communication systems.
+
+Using Python APIs, this conversion supports automation by enabling contact extraction, digital address book generation, and scalable synchronization of document-based contact records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Витяг контактної інформації**
+  Перетворює структуровані контактні дані з шаблонів у багаторазові цифрові картки.
+
+* **Підготовка довідника**
+  Створює портативні контактні записи на основі інформації з документів.
+
+* **Інтеграція в системи зв’язку**
+  Повторно використовує вміст шаблону в адресних книгах та процесах обміну контактами.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматичне створення контактів**
+  Створює VCF‑файли з шаблонів DOTX для процесів адаптації або довідників.
+
+* **Масовий експорт контактів**
+  Перетворює повторювані записи, що базуються на документах, у придатні до спільного використання візитні картки.
+
+* **Синхронізовані робочі процеси з контактами**
+  Передає перетворені контактні дані в системи зв’язку та CRM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

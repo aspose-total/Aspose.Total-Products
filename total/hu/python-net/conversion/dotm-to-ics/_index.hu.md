@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOTM-t hozzáadni ICS-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOTM‑ról‑ICS konverzió átalakítja a makrókkal ellátott Word‑sablonokat naptár‑kompatibilis fájlokká, amelyek eseményeket, ütemezéseket vagy emlékeztetőket képviselnek szabványos formátumban. Hasznos, ha a dokumentumsablonok olyan időpont‑szerű információkat tartalmaznak, amelyeket a különböző ütemező rendszerek között meg kell osztani.
+
+A Python API‑k használata a DOTM‑ról‑ICS konverzióhoz javítja az automatizálást, mivel lehetővé teszi a naptáresemények közvetlen létrehozását sablonalapú dokumentumokból. Ez csökkenti a kézi ütemezési munkát, támogatja a folyamat‑vezérelt eseménygenerálást, és segít a dokumentum‑munkafolyamatok integrálásában a naptárplatformokkal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Ütemezés kinyerése**
+  Az esemény részleteinek átalakítása DOTM fájlokból ICS‑be a naptár importálásához és megosztásához.
+
+* **Találkozó sablon újrahasználata**
+  A dokumentumalapú napirendek vagy értesítések újrahasznosítása strukturált naptáreseményekké.
+
+* **Keresztplatformos ütemezés**
+  Standard naptárformátum létrehozása, amely számos ütemező eszköz és környezet között működik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált naptárfájl-generálás**
+  A munkafolyamatok képesek dátumokat és találkozó részleteket kinyerni DOTM sablonokból, és automatikusan létrehozni az ICS fájlokat.
+
+* **Folyamat‑vezérelt eseményelosztás**
+  A konverzió lehetővé teszi a rendszerek számára, hogy közvetlenül a dokumentumtartalomból tegyék közzé az ütemezési információkat.
+
+* **Kötegelt ütemezési műveletek**
+  A programozott feldolgozás támogatja a nagyméretű naptárfájlok létrehozását ismétlődő sablonokból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑MHTML ממירה תוכן Word לפורמט ארכיון אינטרנטי עצמאי שמאגד סימון ומשאבים לשיתוף ושימור קלים יותר. היא בעלת ערך לצפייה בדפדפן, ארכוב אינטרנטי והפצת תוכן נייד.
+
+ממשקי API של Python מסייעים לאוטומציה של המרת DOC ל‑MHTML לפרסומים, עמידה בתקנות וזרימות עבודה של אספקת אינטרנט, ומאפשרים פלט עקבי ואריזת מסמכים יעילה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **ייצוא ארכיון אינטרנט**
+  המרת מסמכים ל‑MHTML לצפייה ניידת ידידותית לדפדפן.
+
+* **שיתוף עצמאי**
+  אריזת תוכן המסמך והמשאבים לקובץ ארכיון אינטרנט יחיד.
+
+* **שימור פריסה**
+  שמירת הצגת המסמך בפורמט המתאים לאחסון ממוקד אינטרנט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אריזת אינטרנט אוטומטית**
+  יצירת קבצי MHTML מתוכן DOC להפצה וזרימות עבודה של ארכיון.
+
+* **צינוריות גישה מבוססות דפדפן**
+  המרת מסמכים לארכיונים קריאים באינטרנט עבור פורטלים ומאגרי מסמכים.
+
+* **תקינה של פורמט בקנה מידה**
+  נרמול תוכן Word באופן תכנותי ל‑MHTML נייד על פני מערכי נתונים גדולים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

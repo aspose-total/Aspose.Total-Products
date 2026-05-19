@@ -53,7 +53,41 @@ Chúng tôi sử dụng API [Aspose.Words for Python via .NET](https://products.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi DOT sang hình ảnh chuyển các mẫu tài liệu thành các định dạng trực quan, dễ dàng xem trước, chia sẻ và nhúng vào quy trình làm việc kỹ thuật số. Điều này có giá trị khi tài liệu có thể chỉnh sửa ban đầu phải được phân phối dưới dạng tài sản hình ảnh tĩnh.
+
+Các API Python cho phép tự động render các tệp DOT thành đầu ra hình ảnh, giúp các tổ chức hỗ trợ việc xem trước, lưu trữ, xuất bản nội dung và quy trình xem xét tài liệu ở quy mô lớn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Xem trước tài liệu trực quan**
+  Chuyển đổi các mẫu DOT thành hình ảnh để kiểm tra nhanh và xem trên trình duyệt.
+
+* **Chia sẻ nội dung tĩnh**
+  Phân phối nội dung tài liệu dưới dạng tệp hình ảnh không thể chỉnh sửa để trình bày có kiểm soát.
+
+* **Hỗ trợ xuất bản**
+  Sử dụng các đầu ra đã render trong các cổng thông tin, báo cáo và hệ thống phân phối nội dung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động" %}}
+
+* **Tạo thumbnail và bản xem trước**
+  Các quy trình Python có thể tự động tạo hình ảnh tài liệu cho hệ thống lập chỉ mục và hiển thị.
+
+* **Đường ống xuất bản nội dung**
+  Quá trình chuyển đổi hỗ trợ chuẩn bị tự động các tài sản hình ảnh từ các mẫu có thể tái sử dụng.
+
+* **Hoạt động render hàng loạt**
+  Các quy trình lập trình có thể tạo đầu ra hình ảnh từ bộ sưu tập mẫu lớn một cách nhất quán.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSM ל‑DOCX ממיר תוכן גיליון עם מקרו לפורמט עיבוד תמלילים מודרני המשמש נרחבות לעריכה, ביקורת ותקשורת מובנית. הוא שימושי כאשר יש לשתף נתוני גיליון כתיעוד מלוטש, סיכומים או תוכן עסקי מעוצב.
+
+המרה זו רלוונטית מאוד לאוטומציה מכיוון ש‑DOCX משתלב היטב בתהליכי עבודה דיגיטליים, מערכות יצירת מסמכים ותהליכי ביקורת שיתופיים. באמצעות API‑ים של Python, ארגונים יכולים לאוטומט את שינוי קבצי XLSM לפלטי DOCX עקביים לדיווח בקנה מידה רחב והפצת תוכן.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח עסקי**
+  ממיר את תוכן הגיליון למסמכים מקצועיים המתאימים לביקורת והפצה.
+
+* **תיעוד ניתן לעריכה**
+  הופך מידע מבוסס גיליון לנוח יותר לעריכה והוספת הערות בפורמט מסמך.
+
+* **שיתוף תוכן**
+  תומך בנגישות רחבה יותר כאשר יש צורך לצרוך מידע מהגיליון מחוץ לכלי גיליון.
+
+* **סיכומים מובנים**
+  עוזר ליצור גרסאות מסמך קריאות של נתוני גיליון מורכבים עבור בעלי העניין.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת דוחות אוטומטית**
+  תהליכי עבודה ב‑Python יכולים להמיר קבצי XLSM לדוחות DOCX בלוח זמנים חוזר.
+
+* **צינורות ממוקדי מסמך**
+  פלטי גיליון יכולים להיות מעוצבים מחדש אוטומטית לקבצי DOCX לביקורת וארכיב.
+
+* **המרת תוכן במאצ'ים**
+  כמויות גדולות של גיליונות עם מקרו ניתן לעבד למסמכי DOCX באופן תכנותי.
+
+* **הפצת זרימת עבודה**
+  מערכות אוטומטיות יכולות לייצר קבצי DOCX לאישורים, שיתוף פעולה, ומשימות פרסום במורד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑RTF ממירה ארכיוני תיבת דואר למסמכי טקסט עשיר, תוך שמירה על תוכן אימייל מעוצב בפורמט שניתן לעריכה ונקרא בקלות. זה שימושי כאשר ארגונים זקוקים לאיזון בין שמירת העיצוב, ניידות וגמישות המסמך.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת MBOX ל‑RTF כדי לפשט שימוש חוזר בתוכן, לתמוך בתהליכי דיווח, וליצור פלטי מסמכים נגישים מנתוני אימייל מאוחסנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **שימור אימייל מעוצב**
+  המרת הודעות לקבצי RTF תוך שמירה על מבנה טקסט עשיר קריא.
+
+* **ייצוא מסמך ניתן לעריכה**
+  הפיכת תוכן תיבת הדואר לקל יותר לעריכה, להוספת הערות או לשימוש חוזר בתהליכי מסמכים.
+
+* **שיתוף טקסט נייד**
+  שימוש בפורמט נתמך באופן רחב להחלפת תוכן אימייל מומר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פלט טקסט עשיר אוטומטי**
+  המרת קבצי MBOX למסמכי RTF בצינורות מבוססי אצווה.
+
+* **תהליכי שימוש חוזר בתוכן**
+  הזנת קבצי טקסט עשיר מומר לתהליכי דיווח, עריכה או סקירה.
+
+* **צינורות עיצוב פרוגרמטיים**
+  שימוש ב‑Python להרחבת המרת אימייל למבנה מסמך בצורה יעילה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

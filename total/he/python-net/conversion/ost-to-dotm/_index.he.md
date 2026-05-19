@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OST ל‑DOTM ממירה נתוני תיבת דואר לפורמט תבנית עם מקרו, ומשלבת מבנה שניתן לשימוש חוזר עם התנהגות מסמך מוכנה לאוטומציה. זה בעל ערך עבור ארגונים הזקוקים לתוכן שמקורו במיילים בתוך תבניות סטנדרטיות התומכות גם בפעולות מסמך אוטומטיות.
+
+ממשקי API של Python הופכים את המרת OST ל‑DOTM למעשית עבור פעולות בקנה מידה גדול על‑ידי אפשרות לייצור עקבי וניתן לתכנות של תבניות עם מקרו מארכיוני תיבות דואר. זה משפר את היעילות באוטומציית מסמכים, בתזמור זרימות עבודה עסקיות וביצירת תוכן מבוקר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**  
+  ממירה נתוני תיבת דואר לקבצי DOTM לתבניות שניתן להשתמש בהן מחדש עם תמיכה באוטומציה משולבת.
+
+* **מסגרות מסמך אוטומטיות**  
+  עוזרת לצוותים לבנות תהליכים מונחי תבניות סביב תוכן דוא"ל משומר.
+
+* **מסמכי זרימת עבודה מובנית**  
+  תומכת ביצירת פלט חוזר שבו יש לשמר את הלוגיקה והפריסה של המסמך.
+
+* **תקינה תפעולית**  
+  מאפשרת טיפול עקבי בתוכן שמקורו בתיבת דואר בסביבות מסמכים אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות אוטומציית תבניות**  
+  סקריפטים ב‑Python יוצרים תבניות DOTM מתוכן OST עבור זרימות עבודה מסמכים ניתנות להרחבה.
+
+* **עיבוד תוכן מונע מקרו**  
+  מערכות אוטומטיות ממלאות ומנהלות קבצי תבנית שנוצרו מנתוני תיבת דואר.
+
+* **זרימות מסמכי ארגון חוזרות**  
+  המרה תכנותית משפרת את העקביות בתפעול עסקי מבוסס תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni EMAIL-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑ről e‑mail konverzió Python API‑kban átalakítja az OpenDocument szövegsablonokat e‑mailre kész tartalommá, amely alkalmas üzenetgenerálásra, értesítési munkafolyamatokra és kommunikációs automatizálásra. Segít a szervezeteknek a dokumentumtartalom újrahasználatában strukturált kimenő üzenetként.
+
+Ez a konverzió nagy jelentőséggel bír az automatizálásban, mivel lehetővé teszi az e‑mail szövegtörzsek dinamikus előállítását sablonokból, javítva a kommunikáció következetességét, skálázhatóságát, valamint a tranzakciós vagy esemény‑vezérelt rendszerekkel való integrációt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Sablon‑alapú üzenetküldés**  
+  Átalakítja a dokumentumsablonokat újrahasználható e‑mail tartalommá a megkeresésekhez vagy frissítésekhez.
+
+* **Értesítés generálása**  
+  Formázott szöveget alakít e‑mailre kész üzenetté riasztásokhoz és megerősítésekhez.
+
+* **Tartalom újrahasználata**  
+  Lehetővé teszi, hogy ugyanaz a forrásdokumentum mind dokumentációs, mind kommunikációs igényeket kiszolgáljon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált ügyfél‑frissítések**  
+  E‑mailt generál OTT sablonokból munkafolyamat‑indítók alapján.
+
+* **Tranzakciós üzenet‑csővezetékek**  
+  Dokumentumtartalmat használ olyan rendszerekben, amelyek megerősítéseket vagy emlékeztetőket küldenek.
+
+* **Dinamikus személyre szabás**  
+  Programozottan tölti ki a sablon‑alapú e‑mail tartalmat nagy címzettek csoportjának.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

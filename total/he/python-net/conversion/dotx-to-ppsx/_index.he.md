@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑PPSX ממירה את תוכן תבנית ה‑Word לפורמט מצגת מודרני המיועד להפעלה ישירה של המצגת. היא שימושית עבור ארגונים המעוניינים בחומר מבוסס מסמך המסופק כתוכן שקופיות מוכן לצפייה במבנה מצגת עכשווי.
+
+המרה זו תומכת באוטומציה על‑ידי מתן אפשרות ל‑APIs של Python ליצור פלטי מצגות מוכנים להקרנה בקנה מידה רחב עבור תדריכים, פרסום וזרימות עבודה של תקשורת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **פלט מצגת מודרנית**
+  הפוך תוכן מסמך למצגות שקופיות עם הפעלה ישירה להפצה מהירה.
+
+* **העברה מוכנה למצגת**
+  הסר שלבי עריכה נוספים על ידי יצירת קבצי מצגת ישירות.
+
+* **תקשורת מבוססת תבנית**
+  השתמש מחדש בתבניות Word כנכסי מצגת חזותיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרת מצגת אוטומטית**
+  המרת קבצי DOTX לפלטי PPSX בתהליכי מצגת מתוזמנים.
+
+* **פרסום מצגות בכמות**
+  צור נכסי מצגת מוכנים משימוש מתבניות מסמך חוזרות.
+
+* **צינורות הפצת תוכן חזותי**
+  השתמש בפלטים עם הפעלה ישירה במערכות דיווח ותקשורת אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

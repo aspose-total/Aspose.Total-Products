@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML to XLS conversion chuyển đổi nội dung có cấu trúc dựa trên tài liệu thành các tệp bảng tính phù hợp cho việc chỉnh sửa, báo cáo và quy trình làm việc sổ làm việc kế thừa. Nó hữu ích khi các bảng trong tài liệu cần được tái sử dụng trong các công cụ bảng tính với khả năng tương thích rộng.
+
+Python APIs cho phép chuyển đổi WordML sang XLS bằng cách trích xuất nội dung bảng và tự động đặt chúng vào cấu trúc sổ làm việc để xử lý quy mô lớn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tạo Sổ Làm Việc Kế Thừa**
+  Chuyển đổi các bảng WordML thành tệp XLS cho các quy trình làm việc bảng tính đã được thiết lập.
+
+* **Tái Sử Dụng Dữ Liệu Có Cấu Trúc**
+  Biến dữ liệu bảng lưu trong tài liệu thành có thể chỉnh sửa và phân tích dưới dạng sổ làm việc.
+
+* **Hỗ Trợ Báo Cáo Hoạt Động**
+  Giúp di chuyển nội dung tài liệu vào các quy trình xem xét dựa trên bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Xuất Sổ Làm Việc Tự Động**
+  Tạo các tệp XLS từ các lô tài liệu WordML trong các công việc lặp lại.
+
+* **Tích Hợp Hệ Thống Kế Thừa**
+  Hỗ trợ các môi trường vẫn phụ thuộc vào khả năng tương thích với bảng tính cũ.
+
+* **Đường Ống Chuyển Đổi Tài Liệu Sang Bảng Tính**
+  Chuyển đổi nội dung có cấu trúc thành các đầu ra sổ làm việc cho các hoạt động hạ lưu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

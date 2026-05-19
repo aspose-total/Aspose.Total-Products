@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MBOX-t hozzáadni TEXT-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az MBOX‑TXT átalakítás a postafiók‑archívumokat egyszerű szövegfájlokká alakítja, így az e‑mail tartalom könnyű, kereshető és könnyen feldolgozható számos rendszerben. Ez ideális a nyers tartalomkinyerésre, indexelésre vagy egyszerű hosszú távú tárolásra összpontosító munkafolyamatokhoz.
+
+Python API‑k használatával a szervezetek automatizálhatják az MBOX fájlok szöveggé konvertálását, támogatva az elemzést, keresőcsővezetékeket és nagyszabású tartalomnormalizálási folyamatokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Egyszerű tartalomkinyerés**
+  Az e‑maileket szövegfájlokká alakítja egyszerű olvasás és további feldolgozás céljából.
+
+* **Keresés- és indexelésre való felkészültség**
+  A postafiók adatokat előkészíti az indexeléshez, elemzéshez és szöveganalitikai munkafolyamatokhoz.
+
+* **Könnyű archíválás**
+  Az üzenettartalmat minimális, könnyen tárolható és továbbítható formátumban őrzi meg.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált szövegnormalizálás**
+  A postafiók‑archívumokat egyszerű szöveggé alakítja a konzisztens adatfeldolgozás érdekében.
+
+* **Keresőcsővezeték integráció**
+  A konvertált szövegfájlokat indexelés, visszakeresés vagy osztályozási rendszerekbe táplálja.
+
+* **Tömeges tartalomkinyerés**
+  Python segítségével nagy MBOX gyűjteményeket dolgoz fel strukturált szöveges kimenetekre.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

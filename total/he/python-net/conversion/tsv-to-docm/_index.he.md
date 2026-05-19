@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑DOCM מאפשרת להמיר נתונים טבלאיים למסמכי עיבוד תמלילים עם מקרו, התומכים בתהליכי עבודה עשירים יותר ובצרכי עיבוד מתקדמים. זהו ערך כאשר יש צורך להעביר נתונים מובנים בפורמטים ניתנים לעריכה המתאימים לסביבות תיעוד ארגוניות מבוקרות.
+
+באמצעות ממשקי API של Python, ניתן לשלב המרת TSV ל‑DOCM במערכות אוטומטיות שמייצרות מסמכים ניתנים לשימוש חוזר בקנה מידה גדול, מה שמסייע לייעל את הרכבת המסמכים, תזמור תהליכי העבודה והפצת תוכן מובנה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח עם מקרו**  
+  מכין מסמכים מונחי‑נתונים לסביבות שבהן נדרש התנהגות מסמך מתקדמת.
+
+* **פלט מסמך מובנה**  
+  ממיר תוכן TSV לקבצים ניתנים לעריכה המתאימים לשימוש תפעולי ומנהלי.
+
+* **אריזת תוכן אוטומטית**  
+  תומך בתהליכי יצירת מסמכים הדורשים נתונים בפורמט אינטראקטיבי יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכים מבוססי תבנית**  
+  אוטומציה יכולה למלא פורמטים של מסמכים עם מקרו מתוך מערכי נתוני TSV.
+
+* **שילוב תהליכי עבודה ארגוניים**  
+  ממשקי API של Python יכולים לחבר ייצואי נתונים למערכות עיבוד מסמכים בתהליכים הבאים.
+
+* **צינורות פרסום באצווה**  
+  ניתן להמיר קבצי TSV מרובים למסמכי DOCM בריצות אוטומטיות חוזרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -64,7 +64,41 @@ Nó chủ yếu gồm hai bước. Đầu tiên sử dụng [Aspose.Words for Py
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi DOT sang PPSM biến các mẫu tài liệu thành các tệp trình chiếu có macro, hỗ trợ trình chiếu nâng cao. Điều này có giá trị khi các đầu ra trình chiếu trực tiếp cũng phải hỗ trợ chức năng mở rộng trong các môi trường tương thích.
+
+Với các API Python, việc tạo PPSM có thể được tự động hoá từ nguồn DOT để cải thiện tính lặp lại và hỗ trợ quy trình làm việc trình chiếu mạnh mẽ hơn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tạo Trình Chiếu Có Macro**
+  Chuyển đổi các tệp DOT thành PPSM cho các kịch bản phát trình chiếu nâng cao.
+
+* **Hiển Thị Với Chức Năng Mở Rộng**
+  Sử dụng các đầu ra trình chiếu hỗ trợ tự động hoá nhúng hoặc hành vi tương tác.
+
+* **Cung Cấp Trình Chiếu Tái Sử Dụng**
+  Biến các mẫu tài liệu thành các tệp sẵn sàng cho trình chiếu trong môi trường xem có kiểm soát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động" %}}
+
+* **Tự Động Tạo Trình Chiếu Nâng Cao**
+  Các script Python có thể tạo tệp PPSM từ nội dung DOT cho nhu cầu trình chiếu định kỳ.
+
+* **Quy Trình Hiển Thị Tương Tác**
+  Quá trình chuyển đổi hỗ trợ tạo trình chiếu dựa trên tài liệu với chức năng mở rộng.
+
+* **Phân Phối Trình Chiếu Có Thể Mở Rộng**
+  Các pipeline lập trình giúp triển khai các tệp trình chiếu có macro trên nhiều trường hợp sử dụng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

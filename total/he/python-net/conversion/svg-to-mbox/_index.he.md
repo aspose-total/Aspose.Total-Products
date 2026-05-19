@@ -102,7 +102,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SVG ל‑MBOX מאפשרת להפוך תוכן מבוסס וקטורים לפורמט ארכיון דוא"ל בסגנון תיבת דואר המשמש לאחסון אוספים של הודעות. זה שימושי עבור זרימות עבודה שצריכות לשלב מסמכים חזותיים בארכיוני תקשורת מאוחדים או במאגרי הודעות ניידים.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת SVG ל‑MBOX בסביבות עיבוד תוכן בקנה מידה גדול. היא תומכת ביצירת ארכיונים יעילה, אריזת הודעות מובנית, ושילוב חוזר עם מערכות שמירת מסמכים ודוא"ל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ייצור ארכיון תיבת דואר**  
+  ממיר תוכן מונע SVG לפלטים תואמי MBOX לאחסון דוא"ל מקובץ.
+
+* **תיעוד תקשורת**  
+  מסייע לשמר מידע חזותי בתוך מבני תיבת דואר ידידותיים לארכיון.
+
+* **אריזת הודעות ניידת**  
+  תומך בהעברת תוכן מומר כחלק מזרימות עבודה של ארכיון דוא"ל סטנדרטיות.
+
+* **איחוד מסמכים במאצ'**  
+  מאפשר לשלב מספר נכסי SVG במערכי נתונים של הודעות מאוחסנות רחבות יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות יצירת ארכיון**  
+  כלי Python יכולים להמיר מסמכי SVG לפלטים ממוקדי MBOX עבור זרימות עבודה של שמירה.
+
+* **הרכבת הודעות בכמות גדולה**  
+  מערכות אוטומטיות יכולות לעבד קבצי SVG רבים לתוכן תיבת דואר מוכן לארכיון בקנה מידה גדול.
+
+* **אחסון ממוקד ציות**  
+  המרה תכנותית תומכת בארכיון מובנה של תקשורת חזותית לצורכי ממשל.
+
+* **זרימות עבודה של מיגרציית נתונים**  
+  תוכן SVG ניתן להמרה לארכיונים תואמי תיבת דואר במהלך מעבר מערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

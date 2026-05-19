@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál VCF-t hozzáadni ODT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A VCF‑ról ODT‑re konverzió a névjegykártya‑információkat nyílt dokumentum szövegfájlokká alakítja, amelyek szerkeszthető, szabványos dokumentációt támogatnak. Ez hasznos azoknak a csapatoknak, akik rugalmas névjegy‑nyilvántartás‑kezelést keresnek nyílt és interoperábilis dokumentumkörnyezetekben.
+
+Python API‑k használatával a VCF‑ról ODT‑re konverzió egyszerűsítheti az automatizált dokumentumkészítést úgy, hogy strukturált névjegyfájlokat generál, amelyek szerkesztést, terjesztést és archiválást támogatnak kompatibilis irodai rendszerekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Nyílt dokumentum szerkesztése**  
+  A VCF‑adatok ODT‑fájlokká alakítása szerkeszthető és szabványos használathoz.
+
+* **Interoperábilis névjegyrekordok**  
+  Névjegyinformációk tárolása olyan formátumban, amely alkalmas nyílt dokumentum munkafolyamatokra.
+
+* **Strukturált információmegosztás**  
+  Olvasható névjegydokumentumok biztosítása kompatibilis irodai környezetekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Tömeges ODT konverzió**  
+  ODT‑dokumentumok automatikus létrehozása nagy VCF‑gyűjteményekből.
+
+* **Nyílt munkafolyamat integráció**  
+  A generált névjegyfájlok irányítása automatizált, nyílt szabványokon alapuló rendszerekbe.
+
+* **Hatékony dokumentumkezelés**  
+  Python API‑k használata újrahasználható ODT névjegykimenetek előállításához nagy léptékben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

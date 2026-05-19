@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך לתמונות ממירה דפי Word לקבצי תמונה לתצוגה מקדימה, שיתוף, פרסום וארכוב חזותי. זה שימושי כאשר נדרש רינדור פריסת קבועה, צפייה קלה, או הפצה מבוססת תמונה בסביבות אינטרנט ונייד.
+
+ממשקי API של Python הופכים את המרת DOC לתמונות ליעילה עבור צינורות רינדור בקנה מידה, יצירת תמונות ממוזערות, מערכות תצוגה מקדימה של מסמכים, ותהליכי פרסום אוטומטיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **יצירת תצוגה מקדימה של דפים**
+  המרת דפי המסמך לתמונות לתצוגות מקדימות מהירות בפורטלים ובאפליקציות.
+
+* **ארכוב חזותי**
+  שמירת המראה של המסמך כתמונות סטטיות לצורך סקירה והפניה.
+
+* **תמיכה בפרסום אינטרנטי**
+  השתמש בפלט תמונה כאשר יש צורך לשלב את תוכן המסמך באופן חזותי באינטרנט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות יצירת תמונות ממוזערות**
+  רינדור אוטומטי של קבצי DOC לתמונות דף עבור ממשקי חיפוש ותצוגה מקדימה.
+
+* **תהליכי אספקת תוכן**
+  יצירת תמונות מסמך לאתרים, לוחות מחוונים, או מערכות הודעות.
+
+* **משימות רינדור באצווה**
+  המרה תכנותית של אוספי מסמכים גדולים לתמונות בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

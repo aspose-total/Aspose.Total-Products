@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM ל‑XLT ממירה מסמכים עם מקרו לקבצי תבנית גיליון אלקטרוני, ומאפשרת לתוכן המסמך המובנה להפוך לפריסות חוברת עבודה שניתן להשתמש בהן מחדש לשימוש חוזר. זה שימושי כאשר עקביות חשובה בתהליכי יצירת גיליונות אלקטרוניים חוזרים.
+
+במערכות אוטומטיות, המרת DOCM ל‑XLT תומכת ביצירת חוברות עבודה מתוקננות, חזרתיות בתהליכים, והמרה ניתנת להרחבה של מסמכים לתבניות גיליון אלקטרוני שניתן להשתמש בהן מחדש.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **תבניות חוברת עבודה שניתן להשתמש בהן מחדש**
+  ממירה חומר מסמך לתבניות גיליון אלקטרוני לשימוש תפעולי חוזר.
+
+* **מבנה גיליון אלקטרוני מתוקנן**
+  עוזר לשמור על עקביות בתהליכי יצירת חוברות עבודה חוזרים.
+
+* **שימוש חוזר בתוכן לתבנית**
+  מתאים נתוני מסמך ופריסות לתוכניות גיליון אלקטרוני מובנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת תבנית אוטומטית**
+  מייצר קבצי XLT ממקורות DOCM לתהליכי עבודה של גיליונות אלקטרוניים שניתנים לחזרה.
+
+* **אספקת חוברות עבודה עקבית**
+  תומך ביצירה תכנותית של תבניות גיליון אלקטרוני מתוקננות.
+
+* **הפצת תבניות בקנה מידה**
+  מאפשר שימוש חוזר נרחב בפריסות גיליון אלקטרוני שנוצרו ממסמכי מקור.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

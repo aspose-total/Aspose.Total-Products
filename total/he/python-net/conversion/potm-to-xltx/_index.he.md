@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTM ל‑XLTX ב‑Python מאפשרת המרה של קבצי מצגות עם מקרו לתבניות גיליון אלקטרוני מודרניות לשימוש חוזר וליצירת חוברות עבודה מתוקננות. זה שימושי כאשר צוותים זקוקים למבני גיליון אלקטרוני נקיים, חוזרים ונשנים, המופקים מתוכן המצגת.
+
+בסביבות אוטומטיות, המרת POTM ל‑XLTX תומכת ביצירת תבניות בקנה מידה על‑ידי מתן אפשרות ליישומי Python ליצור יסודות גיליון אלקטרוני עקביים לדיווח, תכנון והזנת נתונים מובנית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט תבנית מודרנית**
+  מייצר תבניות גיליון אלקטרוני ניתנות לשימוש חוזר בפורמט נתמך באופן רחב.
+
+* **מבנה חוברת עבודה עקבי**
+  עוזר לתקנן פריסות גיליון אלקטרוני לשימוש עסקי חוזר.
+
+* **המרת מצגת לתבנית**
+  ממיר חומר מבוסס שקופיות למסגרות חוברת עבודה ניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית גיליון אלקטרוני אוטומטית**
+  יוצר קבצי XLTX ממקורות POTM בעבודות Python ניתנות להרחבה.
+
+* **מערכות דיווח מונעות תבנית**
+  מספק תבניות גיליון אלקטרוני ניתנות לשימוש חוזר לתהליכי דיווח חוזרים.
+
+* **צינוריות איסוף נתונים מתוקננות**
+  תומך ביצירת תבניות חוברת עבודה אוטומטית להזנת נתונים מבוקרת ולשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

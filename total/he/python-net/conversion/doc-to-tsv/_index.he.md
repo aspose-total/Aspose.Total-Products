@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑TSV ממירה תוכן Word לערכי מופרדים בטאבים, פורמט מובנה פשוט אידיאלי להחלפת נתונים מבוססי טקסט נקיים ולתהליכי ייבוא. היא שימושית כאשר טבלאות מסמך או שדות חוזרים דורשים פלט מובנה קל משקל.
+
+ממשקי API של Python מסייעים לאוטומציה של המרת DOC ל‑TSV לצורך חילוץ בר‑קנה, הכנת נתונים, ומשימות אינטגרציה שבהן פורמטים טבלאיים בטקסט פשוט מועדפים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא נתונים קל משקל**
+  המרת טבלאות מסמך ל‑TSV להחלפה מובנית פשוטה.
+
+* **פלט ידידותי לייבוא**
+  הכנת נתונים שמקורם ב‑Word לכלים ולמערכות המקבלות טקסט מופרד.
+
+* **תהליכי ניקוי נתונים**
+  שימוש בפלט TSV לקדם עיבוד מקדים, אימות, וקליטת צינור עבודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **חילוץ נתונים ברמת נפח גבוהה**
+  המרה אוטומטית של קבצי DOC ל‑TSV לעיבוד המשכי.
+
+* **ייצוא טקסט מוכן לצינור עבודה**
+  יצירת קבצים מופרדים מהמסמכים כחלק מתהליכי ETL או ייבוא.
+
+* **משימות שינוי מתוזמנות**
+  תקינה תכנותית של רשומות מבוססות מסמך ל‑TSV על בסיס קבוע.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

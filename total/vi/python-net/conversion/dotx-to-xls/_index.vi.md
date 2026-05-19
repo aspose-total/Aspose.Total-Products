@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi DOTX sang XLS biến nội dung mẫu Word thành định dạng bảng tính truyền thống để chỉnh sửa dạng bảng, xem xét và tương thích với các quy trình làm việc bảng tính cũ. Điều này hữu ích khi dữ liệu xuất phát từ mẫu cần được tái sử dụng trong các môi trường bảng tính được công nhận rộng rãi.
+
+Sử dụng các API Python, quá trình chuyển đổi này cho phép tự động hoá mở rộng cho việc báo cáo, chuyển giao dữ liệu và chuyển đổi nội dung có cấu trúc trong các hệ thống nặng tài liệu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Kết xuất Bảng tính Di sản**
+  Chuyển đổi nội dung tài liệu thành định dạng bảng tính quen thuộc cho các quy trình đã thiết lập.
+
+* **Tái sử dụng Dữ liệu Bảng**
+  Di chuyển thông tin mẫu có cấu trúc vào dạng bảng tính có thể chỉnh sửa.
+
+* **Chuẩn bị Báo cáo**
+  Hỗ trợ việc xem xét vận hành và phân tích bằng các công cụ dựa trên bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Tự động tạo Bảng tính**
+  Tạo các tệp XLS từ mẫu DOTX như một phần của các công việc báo cáo định kỳ.
+
+* **Đường ống Tài liệu‑đến‑Bảng**
+  Chuyển nội dung mẫu vào quy trình làm việc bảng tính một cách lập trình.
+
+* **Giao dữ liệu Tập trung vào Tương thích**
+  Tạo ra các đầu ra phù hợp với môi trường vẫn dựa vào các định dạng bảng tính cũ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

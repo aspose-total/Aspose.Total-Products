@@ -65,7 +65,41 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A dokumentum TSV formátumba konvertálása a Word tartalmat tabulátorral elválasztott értékekké alakítja, egy egyszerű, strukturált formátumot, amely ideális a tiszta szöveges adatcseréhez és import munkafolyamatokhoz. Hasznos, ha a dokumentumtáblák vagy ismétlődő mezők könnyűsúlyú strukturált kimenetet igényelnek.
+
+A Python API‑k segítenek automatizálni a DOC TSV formátumba konvertálását a méretezhető kinyerés, adat‑előkészítés és integrációs feladatok érdekében, ahol az egyszerű szöveges táblázatos formátumok előnyben részesülnek.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Könnyűsúlyú adatexport**
+  Alakítsa át a dokumentumtáblákat TSV formátumba az egyszerű, strukturált cseréhez.
+
+* **Importbarát kimenet**
+  Készítse elő a Word‑ből származó adatokat olyan eszközök és rendszerek számára, amelyek elfogadják a határolt szöveget.
+
+* **Adattisztítási munkafolyamatok**
+  Használja a TSV kimenetet előfeldolgozáshoz, validáláshoz és a pipeline‑ba való betöltéshez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Nagy mennyiségű adatkinyerés**
+  Automatikusan konvertálja a DOC fájlokat TSV formátumba az utófeldolgozáshoz.
+
+* **Pipeline‑kész szövegexportok**
+  Hozzon létre határolt fájlokat a dokumentumokból ETL vagy import munkafolyamatok részeként.
+
+* **Ütemezett átalakítási feladatok**
+  Programozottan szabványosítsa a dokumentumalapú rekordokat TSV formátumba rendszeres időközönként.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

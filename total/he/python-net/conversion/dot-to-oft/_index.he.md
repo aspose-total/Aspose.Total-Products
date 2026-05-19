@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל-OFT ממירה תבניות מסמכים לקבצי תבניות אימייל המשמשים בתהליכי הודעות חוזרות. זה בעל ערך כאשר ארגונים רוצים להפוך תבניות כתובות לנכסי תקשורת ניתנים לשימוש חוזר.
+
+באמצעות ממשקי API של Python, המרת DOT ל-OFT תומכת ביצירת תבניות הודעות באופן אוטומטי המשפרת עקביות, מצמצמת עבודה חוזרת, ומייעלת את הכנת התקשורת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תבנית אימייל ניתנת לשימוש חוזר**
+  המרת קבצי DOT ל-OFT לכתיבת הודעות סטנדרטיות.
+
+* **אחידות תקשורת**
+  השתמש מחדש בפריסות מסמכים כתבניות אימייל חוזרות לצוותים או למערכות.
+
+* **נכסי הודעות מוכנים לתהליכי עבודה**
+  הכן תבניות תקשורת מובנות לשימוש חוזר בתהליכים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבניות אוטומטית**
+  תהליכי עבודה ב-Python יכולים ליצור קבצי OFT ממסמכי DOT למערכות הכנת הודעות.
+
+* **צינורות תקשורת חוזרים**
+  המרה מאפשרת יצירת תבניות אימייל עקביות ממקורות מסמכים מרכזיים.
+
+* **פריסת תבניות בקנה מידה**
+  תהליכים תכנותיים יכולים ליצור ולנהל מספר גדול של תבניות אימייל ניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

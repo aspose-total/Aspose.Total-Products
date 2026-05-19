@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑EML ממירה תבניות עיבוד תמלילים לפורמט קובץ הודעת דוא"ל סטנדרטי המשמש באופן נרחב לאחסון, העברה וארכיון של דוא"ל. זה מועיל כאשר יש צורך לשמר או לשתף תוכן מבוסס מסמך כפריט דוא"ל שלם.
+
+באמצעות ממשקי API של Python, ניתן לשלב המרה זו במערכות אוטומטיות שמייצרות קבצי דוא"ל ניידים מתבניות שניתן להשתמש בהן מחדש, תוך שמירה על עקביות והפחתת זמן ההכנה הידני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת קובץ דוא"ל**
+  המרת תבניות DOT לקבצי EML לאחסון, סקירה או הפצה.
+
+* **ארכיון תקשורת**
+  שימור התכתבות מבוססת תבנית כקבצי הודעת דוא"ל עצמאיים.
+
+* **העברה בין‑מערכות**
+  יצירת פלטי דוא"ל ניידים שיכולים לעבור בין סביבות דוא"ל תואמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אריזת דוא"ל אוטומטית**
+  תהליכי עבודה ב‑Python יכולים להמיר מסמכי DOT ל‑EML לתקשורת שנוצרה על ידי המערכת.
+
+* **תהליכי ארכיב**
+  ההמרה תומכת בשימור אוטומטי של הודעות מבוססות מסמך בצורת קובץ דוא"ל.
+
+* **הכנת הודעות בכמות גדולה**
+  עיבוד תכנותי מאפשר המרה בתבנית‑ל‑EML ברמת נפח גבוה לפעולות ניתנות להרחבה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

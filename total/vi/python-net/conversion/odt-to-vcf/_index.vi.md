@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT to VCF conversion transforms document-based contact or profile information into a standard contact card format suitable for address books and contact management systems. This is useful when documents contain structured personal or organizational contact details.
+
+Python APIs enable ODT to VCF conversion in automated contact extraction, migration, and synchronization workflows. It helps organizations turn static text records into reusable contact data with greater speed and accuracy.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Trích xuất Thông tin Liên hệ**  
+  Chuyển đổi tên, số điện thoại và địa chỉ từ tài liệu thành danh thiếp điện tử.
+
+* **Hỗ trợ Di chuyển Danh bạ**  
+  Giúp chuyển dữ liệu liên hệ từ tài liệu văn bản sang sổ địa chỉ có cấu trúc.
+
+* **Chuẩn hoá Hồ sơ**  
+  Biến danh sách liên hệ không chuẩn thành hồ sơ liên hệ kỹ thuật số có thể tái sử dụng.
+
+* **Chuẩn bị CRM**  
+  Hỗ trợ việc nhập dữ liệu liên hệ vào hệ thống kinh doanh một cách sạch sẽ hơn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động" %}}
+
+* **Phân tích Liên hệ Tự động**  
+  Các script Python có thể xác định các trường liên hệ trong tệp ODT và tạo ra các tệp VCF.
+
+* **Chuyển đổi Danh bạ Hàng loạt**  
+  Danh sách liên hệ lớn có thể được chuyển đổi thành các danh thiếp có thể tái sử dụng trong các công việc batch.
+
+* **Quy trình Đồng bộ**  
+  Các liên hệ đã chuyển đổi có thể cung cấp dữ liệu cho các pipeline nhập khẩu cho sổ địa chỉ và các hệ thống liên quan.
+
+* **Chuẩn bị Tăng cường Dữ liệu**  
+  Các tệp VCF có cấu trúc có thể hỗ trợ quá trình xác thực và tích hợp ở các bước tiếp theo.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

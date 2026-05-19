@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑XLSM ממירה מסמכים עם מקרו לקבצי גיליון אלקטרוני עם מקרו, מה שמאפשר לשמר אוטומציה מתקדמת של גיליונות אלקטרוניים לצד נתוני מסמך מובנים. זה בעל ערך כאשר על התוכן המומר להישאר שמיש בתהליכי עבודה דינמיים של חוברות.
+
+במערכות אוטומציה מודרניות, המרת DOCM ל‑XLSM תומכת בתהליכי גיליון אלקטרוני ניתנים לשימוש חוזר, לוגיקה משובצת, ולהמרה ניתנת להרחבה של תוכן המסמך לנכסי חוברת עבודה ניתנים לפעולה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת חוברת עבודה עם מקרו**
+  ממירה את תוכן המסמך לגיליונות אלקטרוניים התומכים בהתנהגות אוטומטית מתקדמת.
+
+* **עיבוד נתונים דינמי**
+  תומכת בתהליכי עבודה שבהם לוגיקת הגיליון והנתונים המובנים חייבים לעבוד יחד.
+
+* **נכסים תפעוליים ניתנים לשימוש חוזר**
+  מסייעת להפוך מסמכים לגיליונות אלקטרוניים המתאימים לתהליכים עסקיים חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת חוברת עבודה מתקדמת באופן אוטומטי**
+  מייצרת קבצי XLSM מקלטי DOCM עבור תהליכי עבודה של גיליונות אלקטרוניים מונעי לוגיקה.
+
+* **שימור תהליך משובץ**
+  תומכת בשמירת יכולת האוטומציה בתוצרים מבוססי גיליון אלקטרוני.
+
+* **צינוריות דיווח וחישוב ניתנות להרחבה**
+  מאפשרת המרה של מסמכים בכמויות גדולות לחוברות עבודה עם מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

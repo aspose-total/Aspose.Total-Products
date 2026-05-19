@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑PPSM בפייתון ממירה את תוכן הגיליון האלקטרוני לקבצי מצגות עם מקרו למטרות זרימות עבודה מתקדמות של מצגות. זה שימושי כאשר קבצים מוכנים להצגה צריכים גם לתמוך באינטראקציה או בתכונות אוטומציה מבוססות מקרו.
+
+המרה זו רלוונטית לאוטומציה מכיוון שהיא מקשרת בין נתוני הגיליון האלקטרוני לפלטי מצגות שיכולים להשתתף בסביבות מצגות דינמיות ומתכנתות יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **מצגות עם מקרו**  
+  המרת תוכן Excel לקבצי PPSM להצגה ישירה עם תמיכה מורחבת באוטומציה.
+
+* **הצגת מצגות אינטראקטיבית**  
+  הכנת פלטי מצגות שיכולים לשלב התנהגות מתכנתת לפי הצורך.
+
+* **קבצי תדריך תפעוליים**  
+  שימוש בנתוני הגיליון האלקטרוני ליצירת קבצים מוכנים להצגה עם פוטנציאל זרימת עבודה מתקדמת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **מצגות אינטראקטיביות אוטומטיות**  
+  יצירת פלטי PPSM ממקורות Excel לזרימות עבודה הדורשות אוטומציה של מצגות.
+
+* **צינורות מצגות מתכנתים**  
+  שילוב יצירת מצגות עם מקרו במערכות דיווח של פייתון.
+
+* **הכנת מסירה בקנה מידה**  
+  הפקת קבצי מצגות מוכנים להפעלה מנתוני הגיליון האלקטרוני עם מינימום עבודה ידנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

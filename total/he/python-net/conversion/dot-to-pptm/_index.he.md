@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑PPTM ממירה תבניות מסמכים לקבצי מצגות עם מקרו המאפשרים זרימות עבודה של שקופיות ניתנות לעריכה עם פונקציונליות מתקדמת. זה חשוב בתרחישים שבהם קבצי המצגות חייבים להישאר ניתנים לעריכה תוך תמיכה בהתנהגויות משופרות.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת DOT ל‑PPTM כדי לתמוך ביצירת נכסי מצגות מתקדמים בקנה מידה גדול מתוכן מסמך שניתן לשימוש חוזר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגת מתקדמת ניתנת לעריכה**
+  המרת תבניות DOT לקבצי PPTM עבור מצגות עם יכולות מורחבות.
+
+* **כתיבת מצגות מונעת מסמך**
+  שימוש חוזר בתוכן מסמך מובנה בחבילות שקופיות ניתנות לעריכה עם פונקציונליות משופרת.
+
+* **ייצור שקופיות מבוסס זרימת עבודה**
+  תמיכה בתהליכי מצגות הדורשים גם עריכה וגם התנהגות עשירה יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת חבילה עם מקרו באופן אוטומטי**
+  זרימות עבודה של Python יכולות ליצור קבצי PPTM מתבניות DOT לשימושים חוזרים.
+
+* **צינורות מצגות מתקדמים**
+  ההמרה מסייעת לשלב מאגרי מסמכים עם מערכות ייצור שקופיות מתקדמות.
+
+* **יצירת פלט ניתנת לעריכה בקנה מידה**
+  המרה תכנותית תומכת ביצירת קבצי מצגות מתקדמים בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

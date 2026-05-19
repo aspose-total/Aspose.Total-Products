@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOTM-t hozzáadni PST-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOTM‑ról PST‑re konverzió makróval ellátott Word sablonokat alakít át személyes tárolófájlokká, amelyeket e‑mail és üzenetadatok szervezésére használnak. Ez akkor hasznos, ha a dokumentumból származó kommunikációs tartalmat e‑mail archívumra, migrációra vagy tárolás‑központú munkafolyamatokra kell előkészíteni.
+
+A Python API‑k használata a DOTM‑ról PST‑re konverzióhoz automatizálást tesz lehetővé, a sablontartalmat strukturált e‑mail tároló kimenetekké alakítva. Segít egységesíteni az archiválási folyamatokat, csökkenteni a kézi munkát, és integrálni a dokumentumrendszereket a vállalati üzenetküldő ökoszisztémákkal.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **E‑mail archívum generálása**
+  A DOTM‑ből származó kommunikációs tartalmat PST‑be konvertálja hosszú távú tárolási és migrációs felhasználási esetekhez.
+
+* **Strukturált üzenettárolás**
+  A sablonalapú üzenettartalmat egy, a levelezés szervezéséhez megfelelő konténerformátumban őrzi meg.
+
+* **Vállalati munkafolyamat integráció**
+  Összeköti a dokumentum- és üzenetrendszereket az újrahasználható sablonok levelezési tárolóeszközökké alakításával.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált archívumcsomagolás**
+  A munkafolyamatok DOTM sablonokból PST kimeneteket generálhatnak a levelezési tárolási folyamatokhoz.
+
+* **Migrációt támogató csővezetékek**
+  A konverzió segít automatizálni a dokumentumalapú kommunikáció áthelyezését az üzenettárolókba.
+
+* **Nagy mennyiségű e‑mail adat előkészítése**
+  Programozott feladatok támogatják a sok sablonfájl skálázható konverzióját PST‑orientált kimenetekre.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

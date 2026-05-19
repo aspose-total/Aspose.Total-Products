@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑TSV משנה תבניות מסמכים לקבצי נתונים מופרדים בטאבים שהם פשוטים, ניידים וקלים לעיבוד. זה בעל ערך כאשר יש צורך לייצא תוכן תבנית מובנה בפורמט מבוסס מפריד התומך בחילופי נתונים אמינים.
+
+באמצעות API‑ים של Python, ניתן לאוטומט תהליכי המרת DOT ל‑TSV כדי לתמוך בחילוץ נתונים נקי, בתאימות מערכות ובעיבוד מסמכים‑לנתונים בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ייצוא טקסט מובנה**
+  המרת קבצי DOT ל‑TSV לטיפול נקי בנתונים מבוססי מפריד.
+
+* **החלפת נתונים ידידותית למערכת**
+  השתמש בפלט TSV כאשר טאבים מועדפים להפרדת שדות צפויה.
+
+* **חילוץ תוכן תבנית**
+  הפוך מידע מסמכים לפורמט פשוט לשימוש בתסריטים ובכלים תפעוליים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **חילוץ נתונים אוטומטי**
+  סקריפטים ב‑Python יכולים להמיר תבניות DOT לקבצי TSV עבור משימות עיבוד חוזרות.
+
+* **תמיכה בתהליכי ETL**
+  המרה מסייעת להזרים נתונים שמקורם בתבניות לצינורות ולמערכות אינטגרציה.
+
+* **ייצוא מבוסס טקסט בקנה מידה**
+  המרה תכנותית מאפשרת יצירת TSV ברמת נפח גבוהה ממאגרי מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

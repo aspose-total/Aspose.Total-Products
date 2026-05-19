@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל-XLTX ממירה תוכן מסמך מובנה לקבצי תבנית גיליון אלקטרוני מודרניים ליצירת חוברות עבודה שניתן להשתמש בהן מחדש. היא שימושית כאשר פריסות מבוססות מסמך, טפסים או מבני דוחות צריכים להפוך לתבניות גיליון אלקטרוני מתוקנות.
+
+ממשקי ה-API של Python הופכים את המרת WordML ל-XLTX ליעילה על ידי חילוץ מבנה באופן תכנותי ויצירת פלטי גיליון אלקטרוני מוכנים לתבנית עבור זרימות עבודה עסקיות ניתנות להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תבנית גיליון אלקטרוני מודרנית**
+  ממירה תוכן WordML לקבצי XLTX עבור עיצוב חוברות עבודה שניתן להשתמש בהן מחדש.
+
+* **תקינה מחזורית של פריסת נתונים**
+  עוזרת לשמור על מבנה גיליון אלקטרוני עקבי בתהליכים חוזרים.
+
+* **יסודות דיווח ניתנים לשימוש חוזר**
+  הופכת פריסות מסמך לתבניות גיליון אלקטרוני אמינות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של חוברות עבודה מבוססת תבנית**
+  מייצרת באופן אוטומטי תבניות XLTX ממסמכי WordML מובנים.
+
+* **זרימות עבודה של תקינה תפעולית**
+  תומכת ביצירת גיליונות אלקטרוניים חוזרים ממקורות פריסה מאושרים.
+
+* **צינורות מסמך-לתבנית**
+  מאפשרת שינוי בר‑קנה מידה של מבני מסמכים לתבניות חוברות עבודה מודרניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

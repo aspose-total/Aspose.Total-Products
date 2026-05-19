@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל-OST מכינה תוכן שמקורו במסמך עבור זרימות עבודה הקשורות לנתוני תיבת דואר לא מקוונת ולסביבות דואר מסונכרנות. היא שימושית בתרחישים שבהם מידע המסמך חייב להתאים למבני אחסון הודעות של הארגון.
+
+שימוש בממשקי API של Python לעיבוד ממוקד DOC ל-OST משפר את מוכנות האוטומציה, תומך בטיפול סטנדרטי, ומפחית עבודה ידנית בתפעול ארגוני הקשור לדואר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **הכנת נתוני תיבת דואר**
+  המרת תוכן מבוסס מסמך עבור זרימות עבודה המתממשקות עם אחסון דואר לא מקוון.
+
+* **תמיכה בתקשורת ארגונית**
+  התאמת פלטי המסמך עם סביבות ההודעות המשמשות במערכות דואר מסונכרנות.
+
+* **שילוב זרימת עבודה של שמירה**
+  שמירה או עיבוד של תוכן שמקורו במסמך בתוך פעולות ממוקדות תיבת דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציית אחסון דואר**
+  הכנת תוכן מסמך באופן תכנותי עבור זרימות עבודה ארגוניות הקשורות ל-OST.
+
+* **משימות המרה בקנה מידה גדול**
+  אוטומציה של טיפול במסמכים כאשר נדרש עיבוד תואם לתיבת דואר.
+
+* **צינורות ציות ושמירה**
+  שימוש בשלבי המרה מתוכנתים לתמיכה בסביבות נתוני הודעות מבוקרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -44,7 +44,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi MHTML sang DOT bằng Python cho phép biến nội dung web đã lưu trữ thành các tệp mẫu Word để tạo tài liệu lặp lại. Điều này hữu ích khi cần một bố cục nhất quán và nội dung đã chuyển đổi sẽ là điểm khởi đầu cho nhiều tài liệu tương tự.
+
+Từ góc độ tự động hoá, đầu ra DOT hỗ trợ các quy trình làm việc dựa trên mẫu tiêu chuẩn, giảm việc định dạng thủ công và nâng cao tính nhất quán. Điều này có lợi cho các tổ chức tạo ra các tài liệu định kỳ từ tài liệu được thu thập trên web.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Mẫu tài liệu có thể tái sử dụng**  
+  Chuyển đổi nội dung MHTML thành các mẫu DOT có thể tái sử dụng để tạo nhiều tài liệu nhất quán.
+
+* **Định dạng tiêu chuẩn**  
+  Giữ lại cấu trúc cơ bản cho các tài liệu cần phong cách đồng nhất trên các phòng ban hoặc nhóm.
+
+* **Tạo hồ sơ dựa trên mẫu**  
+  Sử dụng nội dung web đã chuyển đổi làm nền tảng cho các biểu mẫu, thông báo hoặc bộ tài liệu có thể lặp lại.
+
+* **Thiết lập tài liệu vận hành**  
+  Chuẩn bị các mẫu Word cũ từ các trang web đã lưu trữ để tạo nội dung có cấu trúc.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Quy trình tạo mẫu**  
+  Tự động chuyển đổi các tệp MHTML thành mẫu DOT để sử dụng lặp lại trong quy trình tài liệu.
+
+* **Sản xuất tài liệu định kỳ**  
+  Xây dựng hệ thống tự động tạo các tệp mới từ nguồn nội dung web dựa trên mẫu.
+
+* **Quy trình đồng nhất định dạng**  
+  Sử dụng API Python để đảm bảo mỗi tài liệu được tạo ra bắt đầu với cấu trúc mẫu đồng nhất.
+
+* **Tích hợp quy trình làm việc cũ**  
+  Chuyển đổi tài liệu web đã lưu trữ thành tệp DOT cho các hệ thống vẫn phụ thuộc vào mẫu Word truyền thống.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

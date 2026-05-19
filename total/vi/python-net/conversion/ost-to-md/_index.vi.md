@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OST sang MD chuyển đổi dữ liệu hộp thư thành định dạng Markdown, tạo ra nội dung văn bản nhẹ, dễ đọc và di động, phù hợp cho tài liệu và quy trình kiến thức. Điều này có giá trị đối với các đội ngũ muốn nội dung xuất phát từ email ở định dạng văn bản thuần có cấu trúc, hoạt động tốt trên mọi nền tảng.
+
+Lợi ích tự động hoá rất mạnh vì việc chuyển đổi OST sang MD tự nhiên tích hợp vào các pipeline nội dung, quy trình làm việc của nhà phát triển và hệ thống tài liệu. Các API Python cho phép chuyển đổi nhanh chóng, mở rộng các kho lưu trữ hộp thư thành các tệp Markdown để lập chỉ mục, xuất bản và tái sử dụng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tài liệu nhẹ**  
+  Chuyển đổi nội dung email thành Markdown để tạo các bản ghi văn bản đơn giản, có cấu trúc.
+
+* **Chuẩn bị kiến thức nền tảng**  
+  Giúp tái sử dụng thông tin quan trọng từ hộp thư trong hệ thống tài liệu nội bộ.
+
+* **Xuất nội dung thân thiện với nhà phát triển**  
+  Hỗ trợ các quy trình làm việc ưu tiên định dạng văn bản thuần di động.
+
+* **Bản ghi được kiểm soát phiên bản**  
+  Làm cho nội dung xuất phát từ email dễ theo dõi và quản lý hơn trong môi trường dựa trên văn bản.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động" %}}
+
+* **Tự động hoá pipeline tài liệu**  
+  Các script Python chuyển đổi nội dung OST thành Markdown cho quy trình xuất bản và lập chỉ mục.
+
+* **Quy trình trích xuất nội dung**  
+  Hệ thống tự động chuẩn bị văn bản hộp thư cho các kho lưu trữ có thể tìm kiếm và ghi chú có cấu trúc.
+
+* **Tạo lưu trữ di động**  
+  Việc chuyển đổi bằng chương trình tạo ra các tài sản văn bản có thể tái sử dụng từ dữ liệu email đã lưu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

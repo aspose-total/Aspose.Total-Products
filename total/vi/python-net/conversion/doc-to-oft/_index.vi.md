@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi tài liệu sang OFT biến nội dung Word thành các tệp mẫu email có thể tái sử dụng trong các quy trình nhắn tin và giao tiếp. Điều này đặc biệt hữu ích khi nội dung tài liệu là cơ sở cho các chiến dịch tiếp cận, thông báo hoặc thư từ chuẩn hoá lặp lại.
+
+Các API Python cho phép chuyển đổi DOC sang OFT như một phần của việc tạo nội dung tự động, giúp các nhóm tạo ra các mẫu tin nhắn nhất quán và nâng cao hiệu quả giao tiếp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Mẫu email có thể tái sử dụng**
+  Chuyển các bản thảo tài liệu thành mẫu OFT cho việc giao tiếp lặp lại.
+
+* **Tin nhắn chuẩn hoá**
+  Đảm bảo cấu trúc và cách diễn đạt nhất quán trong các quy trình email lặp lại.
+
+* **Tiếp cận dựa trên mẫu**
+  Tái sử dụng nội dung tài liệu chính thức thành các khung tin nhắn có thể tái dùng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Sản xuất mẫu tự động**
+  Tạo các tệp OFT từ nội dung DOC cho các hệ thống chiến dịch hoặc thông báo.
+
+* **Đường ống tin nhắn dựa trên tài liệu**
+  Chuyển đổi văn bản tài liệu đã được phê duyệt thành các mẫu sẵn sàng cho việc cá nhân hoá tiếp theo.
+
+* **Hoạt động giao tiếp mở rộng**
+  Duy trì một cách lập trình các thư viện lớn các định dạng tin nhắn có thể tái sử dụng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

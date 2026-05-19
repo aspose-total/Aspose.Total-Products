@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál PST-t hozzáadni PCL-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PST‑ről PCL‑re konvertálás Python API‑kban a postafiók tartalmát nyomtatóvezérlő nyelvre (PCL) alakítja, amely nyomtatás‑orientált munkafolyamatokhoz és eszközre kész kimenet generálásához szükséges. Hasznos, ha az archivált e‑mail tartalmat közvetlen nyomtatáshoz, hardveres munkafolyamatokhoz vagy nyomtatási csővezeték integrációhoz kell konvertálni.
+
+Automatizálás esetén a PST‑ről PCL‑re konvertálás nagy léptékű nyomtatási feldolgozást támogat, és segít összekapcsolni a postafiók‑archívumokat olyan működési környezetekkel, amelyek nyomtatókompatibilis formátumokra támaszkodnak. Javítja a kontrollált kimenet és a dokumentumszállítási rendszerek hatékonyságát.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Nyomtató‑kész kimenet**
+  A PST tartalmát PCL‑re konvertálja közvetlen nyomtatás‑orientált munkafolyamatokhoz.
+
+* **Hardver munkafolyamat támogatás**
+  Segít a postafiókból származó rekordok integrálásában eszköz‑függő kimeneti rendszerekbe.
+
+* **Működési dokumentumnyomtatás**
+  Támogatja az archivált üzenetek és tartalom következetes nyomtatott megjelenítését.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált nyomtatási sor feldolgozás**
+  A rendszerek PST archívumokat PCL‑re konvertálhatják a gördülékeny nyomtatási műveletekhez.
+
+* **Eszközintegrációs csővezetékek**
+  A konvertált kimenet programozottan közvetlenül a nyomtató‑központú környezetekbe áramolhat.
+
+* **Tömeges rekordnyomtatás**
+  A programozott konverzió nagy mennyiségű nyomtatási előkészítést tesz lehetővé a postafiók tartalmából.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

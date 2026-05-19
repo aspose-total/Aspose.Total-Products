@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni EML-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑től‑EML konverzió a Python API‑kban OpenDocument szövegsablonokat alakít át szabványos e‑mail üzenetfájlokká, amelyek megőrzik az üzenet szerkezetét a tárolás, átvitel és az azt követő feldolgozás során. Ez akkor hasznos, amikor a dokumentum tartalmát hordozható e‑mail műtárgyakká kell tenni.
+
+A konverzió támogatja az automatizálást azáltal, hogy dokumentumalapú e‑mail fájlok generálását teszi lehetővé, amelyeket archiválni, felülvizsgálni, importálni vagy e‑mail kompatibilis rendszerek által ismételhető munkafolyamatokban feldolgozni lehet.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **E‑mail fájl generálás**  
+  Szabványos üzenetfájlokat hoz létre újrahasználható dokumentumsablonokból.
+
+* **Archiválási előkészítés**  
+  E‑mail műtárgyakat hoz létre, amelyek alkalmasak nyilvántartásra és átvitelre.
+
+* **Rendszerátadás**  
+  Támogatja azokat a munkafolyamatokat, amelyek üzenetfájlokat igényelnek közvetlen e‑mail küldés helyett.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Kötegelt e‑mail vázlatkészítés**  
+  Sok OTT sablont alakít át EML fájlokká felülvizsgálatra vagy kézbesítési folyamatokhoz.
+
+* **Automatizált rekordgenerálás**  
+  Kommunikációra kész kimeneteket tárol szabványos e‑mail fájlokként.
+
+* **Integráció e‑mail feldolgozó rendszerekkel**  
+  A generált EML fájlokat beilleszti a befogadó, archiváló vagy megfelelőségi munkafolyamatokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

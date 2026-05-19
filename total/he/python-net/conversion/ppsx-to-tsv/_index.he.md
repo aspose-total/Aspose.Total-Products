@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPSX ל-TSV ממירה נתוני מצגת לפלט טקסט בטבלאות מופרדות בטאבים, שהוא פשוט, קל משקל ומתאים להחלפת נתונים מובנית. פורמט זה שימושי כאשר יש צורך לחלץ תוכן שקופיות לצורך עיבוד במערכות שמעדיפות קלט טבלאי בטקסט פשוט.
+
+במקרים של אוטומציה, המרת PPSX ל-TSV תומכת בתנועת נתונים אמינה, מפשטת את הקליטה לסקריפטים וצינורות, ומאפשרת עיבוד יעיל בקנה מידה גדול באמצעות ממשקי API של פייתון.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא נתונים בטבלאות**  
+  ממיר תוכן שקופיות מובנה לפורמט טבלה בטקסט פשוט.
+
+* **החלפת נתונים ידידותית למערכת**  
+  מייצר פלט שקל לייבא לכלים המקבלים קבצים מבוססי מפריד.
+
+* **המרת תוכן קלה**  
+  תומך בחילוץ בעל עומס מינימלי למשימות עיבוד מובנות.
+
+* **הכנת נתונים לצינורות**  
+  עוזר להפוך את נתוני המצגת לשימושיים בסביבות תכנותיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **חילוץ נתוני טקסט אוטומטי**  
+  ממשקי API של פייתון יכולים להמיר קבצי PPSX ל-TSV לתהליכי ניתוח חלקים.
+
+* **תמיכה בקליטת צינורות**  
+  פלטי TSV יכולים לעבור ישירות למערכות ETL או שינוי אוטומטיות.
+
+* **משימות המרה ברמת נפח גבוהה**  
+  אוטומציה מאפשרת המרה חוזרת של תוכן מצגות לטקסט בטבלאות בקנה מידה גדול.
+
+* **העברה מובנית בין כלים שונים**  
+  קבצים מומרצים תומכים בתנועה יעילה בין פלטפורמות הטרוגניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

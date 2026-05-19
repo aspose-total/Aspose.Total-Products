@@ -44,7 +44,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi MHTML sang DOCM bằng Python cho phép các trang web đã lưu trữ được chuyển thành tài liệu Word có macro cho các quy trình công việc tài liệu nâng cao. Điều này hữu ích khi nội dung đã chuyển đổi cần được kết hợp với các hành động kịch bản, mẫu động, hoặc logic tài liệu được kiểm soát.
+
+Trong các môi trường tập trung vào tự động hoá, đầu ra DOCM hỗ trợ các quy trình mở rộng vượt ra ngoài việc chuyển đổi tĩnh bằng cách cho phép tự động hoá sau chuyển đổi ngay trong tài liệu. Nó phù hợp cho các quy trình khối lượng lớn yêu cầu cả nội dung được bảo toàn và hành vi tài liệu có thể lập trình.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Báo Cáo Có Macro**  
+  Chuyển các tệp MHTML thành tài liệu DOCM khi đầu ra cuối cùng cần tự động hoá nhúng hoặc định dạng bằng script.
+
+* **Mẫu Tài Liệu Tương Tác**  
+  Sử dụng nội dung đã chuyển đổi trong các mẫu có macro để hướng dẫn chỉnh sửa và tạo tài liệu có cấu trúc.
+
+* **Quy Trình Kinh Doanh Nâng Cao**  
+  Hỗ trợ các quy trình tài liệu phụ thuộc vào các hành động tự động như kiểm tra, định dạng, hoặc điền dữ liệu.
+
+* **Tài Liệu Vận Hành Tái Sử Dụng**  
+  Biến nội dung web đã thu thập thành các tài liệu có thể tham gia vào các quy trình văn phòng tự động hoá rộng hơn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Hệ Thống Lắp Ráp Tài Liệu**  
+  Chuyển đổi MHTML sang DOCM và kích hoạt định dạng hoặc xử lý dựa trên macro sau khi tạo.
+
+* **Chuẩn Bị Tệp Dựa Trên Quy Trình**  
+  Tự động hoá việc sản xuất các tệp có macro cho các nhóm sử dụng script tài liệu trong quy trình vận hành.
+
+* **Đường Ống Tiêm Mẫu**  
+  Đưa nội dung web đã chuyển đổi vào các mẫu DOCM để tạo ra các sản phẩm có cấu trúc và tự động hoá.
+
+* **Tự Động Hóa Văn Phòng Khối Lượng Lớn**  
+  Sử dụng API Python để xử lý các kho lưu trữ web thành tài liệu có khả năng macro ở quy mô lớn với tối thiểu thao tác thủ công.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

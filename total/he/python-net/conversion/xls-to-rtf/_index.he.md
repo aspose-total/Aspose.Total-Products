@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑RTF מאפשרת לתוכן הגיליון האלקטרוני להיות זמין בפורמט טקסט עשיר התומך בתאימות רחבה של מסמכים ובשימוש חוזר מבוסס טקסט שניתן לעריכה. זה שימושי כאשר יש צורך להעביר מידע מהגיליון האלקטרוני לפורמט מסמך גמיש לשיתוף, ארכוב או עיצוב נוסף.
+
+המרת XLS ל‑RTF מבוססת API של פייתון משפרת את האוטומציה על‑ידי אפשרות ליצירת מסמכי טקסט עקביים מקבצי גיליון אלקטרוני ותמיכה בתהליכי חילופי מסמכים קלים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמך טקסט עשיר**
+  המרת תוכן XLS לקבצי RTF לשימוש במסמכים ניתנים לעריכה וניידים.
+
+* **שיתוף חוצת פלטפורמות**
+  השתמש בפלט RTF כאשר נדרשת תאימות רחבה בסביבות מסמכים שונות.
+
+* **המרת תוכן ממוקדת בטקסט**
+  ארוז מחדש את נתוני הגיליון לפורמט המתאים לעיצוב מעורב והצגת נרטיב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת טקסט עשיר במצב אצווה**
+  השתמש ב‑API של פייתון כדי להמיר מספר קבצי XLS למסמכי RTF באופן אוטומטי.
+
+* **צינוריות מסמכים קלות**
+  הוסף המרת XLS ל‑RTF לתהליכי עבודה המדגישים ניידות ותאימות.
+
+* **הכנה אוטומטית לארכיב**
+  המרת תוכן הגיליון למסמכי טקסט עשיר לאחסון ארוך טווח או לביקורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

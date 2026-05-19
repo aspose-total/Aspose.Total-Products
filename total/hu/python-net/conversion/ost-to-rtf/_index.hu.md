@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál OST-t hozzáadni RTF-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OST‑RFT átalakítás a postafiók tartalmát gazdag szövegformátumba (RTF) konvertálja, megőrizve a szerkeszthető szöveget alapvető formázással egy széles körben kompatibilis dokumentumszabványban. Hasznos a különböző rendszerek és alkalmazások közötti e‑mail‑alapú tartalom megosztásához, szerkesztéséhez és újrahasználatához.
+
+Automatizálási szempontból az OST‑RFT átalakítás gyakorlati hidat képez az archivált postafiók adatok és a rugalmas szövegalapú munkafolyamatok között. A Python API-k egyszerűvé teszik az átalakítás nagyméretű automatizálását, támogatva az interoperabilitást és az egyszerűsített dokumentumkezelést.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Formázott szöveg megőrzése**  
+  Átalakítja a postafiók adatokat RTF-be, miközben megőrzi az olvasható szövegszerkezetet és a stílusokat.
+
+* **Keresztplatformos dokumentumcsere**  
+  Lehetővé teszi az e‑mail‑ből származó tartalom megosztását számos dokumentumeszközön.
+
+* **Szerkeszthető rekord előkészítése**  
+  Segít az archivált kommunikációt módosítható fájlokká alakítani felülvizsgálatra vagy újrahasználatra.
+
+* **Könnyű dokumentációs munkafolyamatok**  
+  Lehetővé teszi a postafiók tartalmának praktikus tárolását egyszerű formázott szövegformátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Szövegkonverziós csővezetékek**  
+  Python szkriptek automatizálják az OST‑RFT átalakítást interoperábilis dokumentummunkafolyamatokhoz.
+
+* **Tartalomújrahasználati automatizálás**  
+  Automatizált rendszerek szerkeszthető kommunikációs rekordokat készítenek a postafiók archívumokból.
+
+* **Standardizált exportfolyamatok**  
+  Programozott konverzió támogatja a skálázható formázott szövegkimenetek szállítását.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

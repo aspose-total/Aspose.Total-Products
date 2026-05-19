@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DIF ל-WordML בפייתון ממירה נתוני DIF מובנים למסמכי עיבוד תמלילים מבוססי XML המתאימים למערכות הדורשות פורמטים של מסמכים הממוקדים בתגיות. זה שימושי לאינטראופרביליות, טיפול במסמכים מובנים, ולזרימות עבודה המרוויחות מייצוג XML.
+
+API של פייתון הופכות את המרת DIF ל-WordML ליעילה עבור מערכות אוטומטיות המעבדות, מאמתות או משנות מסמכים באופן תכנותי. היא תומכת בצינורות קנה-מידה שבהם נתוני מקור מובנים חייבים להפוך לפלט מסמך מובנה עם קריאות מכונה חזקה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמכים מבוססי XML**
+  המרת קבצי DIF ל-WordML עבור זרימות עבודה המתבססות על פורמטים של מסמכי XML מובנים.
+
+* **אינטגרציה והחלפת מערכות**
+  השתמש ב-WordML כאשר מסמכים מומרצים צריכים לתקשר עם מערכות אחרות המודעות ל-XML.
+
+* **ארכיון ממוקד בתגיות**
+  שמר את תוכן המסמך בפורמט המתאים לאחסון ועיבוד מובנים.
+
+* **טיפול תכנותי במסמכים**
+  צור פלטים שקל יותר לבדוק, לשנות או לאמת בזרימות עבודה טכניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות מסמכים קריאים למכונה**
+  אוטומט את המרת DIF ל-WordML עבור מערכות שמעדיפות החלפת מסמכים מובנים.
+
+* **אינטגרציה של זרימת עבודה XML**
+  הטמע המרה בשירותי פייתון המעבדים ומשנים נכסי תגים.
+
+* **פלט מובנה ברמת נפח גבוהה**
+  צור מסמכי WordML בכמות גדולה ממקורות DIF עם שליטה תכנותית עקבית.
+
+* **שרשראות אימות והמרה**
+  השתמש בהמרה אוטומטית כשלב אחד בזרימות עבודה רחבות יותר של עיבוד מסמכים מונעי XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

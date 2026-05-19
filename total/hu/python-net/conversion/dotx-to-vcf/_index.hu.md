@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOTX-t hozzáadni VCF-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to VCF konverzió átalakítja a Word sablon tartalmát egy névjegykártya formátumba, amely személyes vagy szervezeti kapcsolatinformációk tárolására és megosztására szolgál. Hasznos, ha a sablonok strukturált kapcsolati adatokat tartalmaznak, amelyeket újra kell használni a kommunikációs rendszerekben.
+
+Python API‑k használatával ez a konverzió automatizálást támogat, lehetővé téve a kapcsolatinformációk kinyerését, digitális címjegyzék létrehozását és a dokumentumalapú kapcsolati rekordok skálázható szinkronizálását.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Kapcsolatinformációk kinyerése**
+  Alakítsa át a sablonokból származó strukturált kapcsolati adatokat újrahasználható digitális kártyákká.
+
+* **Címtár előkészítése**
+  Hozzon létre hordozható kapcsolati rekordokat dokumentumalapú információkból.
+
+* **Kommunikációs rendszer integrációja**
+  Használja újra a sablon tartalmát címjegyzékekben és a kapcsolatok megosztására szolgáló munkafolyamatokban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált kapcsolati generálás**
+  Hozzon létre VCF fájlokat DOTX sablonokból a bevezetéshez vagy a címtár folyamatokhoz.
+
+* **Tömeges kapcsolati export**
+  Alakítsa át az ismétlődő dokumentumalapú rekordokat megosztható kapcsolati kártyákká.
+
+* **Szinkronizált kapcsolati munkafolyamatok**
+  Adja át a konvertált kapcsolati adatokat kommunikációs és CRM‑rendszerekbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

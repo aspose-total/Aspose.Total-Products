@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi XPS sang OST bằng các API Python giúp biến đổi nội dung tài liệu có bố cục cố định thành định dạng dữ liệu hộp thư liên quan đến quy trình lưu trữ email đồng bộ. Điều này có thể hữu ích trong các kịch bản mà nội dung giao tiếp xuất phát từ tài liệu cần được chuẩn bị cho việc xử lý hộp thư có cấu trúc, hỗ trợ di chuyển, hoặc tích hợp với môi trường nhắn tin doanh nghiệp.
+
+Tự động hoá cải thiện quy trình bằng cách cho phép các chuyển đổi lặp lại, giảm các công việc chuẩn bị hộp thư thủ công, và hỗ trợ các quy trình làm việc quy mô lớn từ tài liệu sang dữ liệu email.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Chuẩn bị dữ liệu hộp thư**
+  Chuyển đổi nội dung giao tiếp xuất phát từ XPS thành các cấu trúc hướng OST để sử dụng trong quy trình làm việc.
+
+* **Hỗ trợ nhắn tin doanh nghiệp**
+  Đồng bộ quá trình chuyển đổi tài liệu với môi trường hộp thư đồng bộ và quy trình lưu trữ.
+
+* **Sẵn sàng di chuyển**
+  Chuẩn bị dữ liệu giao tiếp dựa trên tài liệu cho các quy trình liên quan đến di chuyển hoặc hợp nhất hộp thư.
+
+* **Lưu trữ giao tiếp có cấu trúc**
+  Bảo tồn nội dung xuất phát từ tài liệu trong các chiến lược lưu trữ tập trung vào tin nhắn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Biến đổi dữ liệu thư tự động**
+  Kích hoạt các bước chuyển đổi liên quan đến OST khi tài liệu XPS tham gia vào quy trình nhắn tin.
+
+* **Hoạt động xử lý hàng loạt**
+  Chuyển đổi các bộ sưu tập lớn file XPS một cách lập trình cho việc xử lý doanh nghiệp.
+
+* **Tích hợp quy trình lưu trữ**
+  Định hướng các đầu ra đã chuyển đổi vào lưu trữ được quản lý và các quy trình đồng bộ.
+
+* **Quy trình chuyển đổi hệ thống**
+  Hỗ trợ chuẩn bị tự động dữ liệu giao tiếp cho các thay đổi hạ tầng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

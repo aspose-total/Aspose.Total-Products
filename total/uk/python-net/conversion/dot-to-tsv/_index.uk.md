@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Перетворення DOT у TSV змінює шаблони документів у таблично‑розділені файли, які прості, портативні та легкі у обробці. Це цінно, коли структурований вміст шаблонів потрібно експортувати у формат з роздільниками, що забезпечує надійний обмін даними.
+
+Використовуючи Python‑API, процеси перетворення DOT у TSV можна автоматизувати для забезпечення чистого вилучення даних, взаємодії систем та масштабованої обробки документ‑даних.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Експорт структурованого тексту**
+  Перетворюйте файли DOT у TSV для чистої обробки даних з роздільниками.
+
+* **Системно‑дружній обмін даними**
+  Використовуйте вихід TSV, коли табуляція переважає для передбачуваного розділення полів.
+
+* **Вилучення вмісту шаблону**
+  Перепризначте інформацію документу у простий формат для скриптів та операційних інструментів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизоване вилучення даних**
+  Скрипти Python можуть перетворювати шаблони DOT у TSV‑файли для повторюваних завдань обробки.
+
+* **Підтримка ETL‑процесів**
+  Перетворення допомагає подавати дані, отримані з шаблонів, у конвеєри та системи інтеграції.
+
+* **Масштабовані текстові експорти**
+  Програмне перетворення дозволяє генерувати великі обсяги TSV з репозиторіїв документів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

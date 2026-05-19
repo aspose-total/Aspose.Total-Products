@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑DOT מאפשרת להמיר נתוני גיליון אל קבצי תבנית של Word שיכולים לשמש כבסיסים ניתנים לשימוש חוזר ליצירת מסמכים עתידיים. זה שימושי כאשר תוכן הגיליון צריך להנחות מבנה מסמך חוזר במקום פלט חד‑פעמי.
+
+ממשקי ה‑API של Python הופכים את המרת XLS ל‑DOT ליעילה לאוטומציה על‑ידי מתן אפשרות למערכות ליצור נכסי תבנית מוכנים באופן תכנותי ועקבי בין מחלקות או זרימות עבודה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית**
+  המרת תוכן הגיליון לקבצי DOT המגדירים פריסות ניתנות לשימוש חוזר למסמכים עתידיים.
+
+* **עיצוב מסמך מתוקנן**
+  השתמש בנתוני XLS כדי לעצב תבניות מובנות לצרכי מסמכים חוזרים.
+
+* **מסגרות תוכן ניתנות לשימוש חוזר**
+  בנה זרימות עבודה מבוססות תבנית מחומר מקור המונע מגיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**
+  צור תבניות DOT מקלטי גיליון ללא עבודה ידנית בעיצוב.
+
+* **זרימות עבודה של מפעל מסמכים**
+  השתמש בממשקי API של Python כדי להזין נתוני גיליון מובנים לתוך צינורות תבניות מסמך ניתנים לשימוש חוזר.
+
+* **הכנת פלט סטנדרטי**
+  צור נכסי תבנית באופן דינמי לצוותים המתבססים על יצירת מסמכים אחידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑ICS ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי נתוני לוח שנה המשמשים לתזמון והחלפת אירועים. זה בעל ערך כאשר תוכן המסמך כולל פגישות, מועדים, או מידע מובנה מבוסס תאריך שחייב להפוך למוכן ללוח שנה.
+
+המרה זו ידידותית לאוטומציה מכיוון שהיא מאפשרת ליצור מידע אירוע מתבניות ולדחוף אותו לתהליכי תזמון, תזכורות ותהליכי סינכרון ללא צורך ברישום ידני בלוח השנה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת קובץ אירוע**  
+  הופך תוכן מסמך הקשור ללוח זמנים לקבצים תואמי לוח שנה.
+
+* **הפצת מועדים**  
+  משתף תאריכים חשובים ואבני דרך בפורמט לוח שנה סטנדרטי.
+
+* **תמיכה בתהליך תכנון**  
+  ממיר נתוני אירוע מובנים לנכסי תזמון ניידים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת לוח שנה אוטומטית**  
+  יוצר קבצי ICS מתבניות אירוע מבוססות OTT חוזרות.
+
+* **שילוב תהליך תזכורת**  
+  מזין אירועים שנוצרו למערכות שמפעילות התראות.
+
+* **סינכרון לוח זמנים**  
+  תומך בשיתוף תכנותי של נתוני לוח שנה בין צוותים או כלים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

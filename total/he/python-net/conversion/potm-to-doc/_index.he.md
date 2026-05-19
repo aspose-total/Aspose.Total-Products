@@ -105,7 +105,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTM ל‑DOC בפייתון מאפשרת להפוך תוכן מצגות עם מקרו למסמכי עיבוד תמלילים ניתנים לעריכה לצורך סקירה, הפצה ושימור ארכיוני. זה שימושי כאשר יש צורך לכתוב מחדש, להוסיף הערות או לשתף את חומר המצגת בפורמט ממוקד‑טקסט.
+
+מנקודת מבט של אוטומציה, המרת POTM ל‑DOC משפרת את ניידות התוכן ותומכת בתהליכי עבודה ממוקדי‑מסמך שבהם פייתון משמש ליצירה, שינוי והפצת קבצים בין מערכות עסקיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **המרת מצגת למסמך**
+  ממירה מידע מבוסס שקופיות לתוכן מסמך ניתנת לעריכה לשימוש רחב יותר.
+
+* **תהליכי סקירה ועריכה**
+  מאפשרת לצוותים לעדכן חומר מצגת בפורמט עיבוד תמלילים מוכר.
+
+* **תיעוד ארכיוני**
+  שומרת על תוכן המצגת בפורמט מסמך המתאים לשמירת רשומות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכים בכמות גדולה**
+  ממירה קבצי POTM מרובים למסמכי DOC כחלק מתהליכי פרסום ברמת נפח גבוהה.
+
+* **העברת תוכן מבוססת זרימת עבודה**
+  מעבירה את תוכן המצגת למערכות סקירת מסמכים באופן אוטומטי.
+
+* **הפצת קבצים תכנותית**
+  משתמשת בסקריפטים של פייתון כדי להמיר ולשלוח קבצי DOC שנוצרו לצוותים או מערכות משניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

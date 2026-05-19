@@ -102,7 +102,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑PST ממירה את תוכן המסמך לפורמט אחסון המיועד לתיבות דואר המשמש לתרחישי תקשורת משולבת וארכיון. זה מועיל כאשר יש צורך להשתמש בטקסט המקורי במכולות הקשורות להודעות למטרות הגירה, אחסון או ניהול רשומות.
+
+באמצעות ממשקי API של Python, ניתן לשלב המרת ODT ל‑PST בתהליכי ארכיון אוטומטיים ואריזת תוכן. היא תומכת בהכנה חוזרת של נכסים שמקורם במסמך למאגרי תקשורת ממוקדים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **הכנת מכולת ארכיון**  
+  ממירה את תוכן המסמך לשימוש בתהליכי ארכיון בסגנון תיבת דואר.
+
+* **תמיכה במיגרציית תוכן**  
+  מסייעת להעביר חומר שמקורו במסמך לסביבות אחסון הממוקדות להודעות.
+
+* **איחוד רשומות**  
+  תומכת באיחוד תוכן שהומר למכולות ארכיון מובנות.
+
+* **הפעלת תהליכי שמירה**  
+  מכינה פלטים המתאימים לתהליכי שמירה ארוכי טווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **אריזת ארכיון אוטומטית**  
+  משימות Python יכולות להמיר קבצי ODT לפלטים בפורמט PST לצורכי תהליכי אחסון.
+
+* **המרה גורפת לשמירה**  
+  ניתן לעבד ספריות מסמכים גדולות באופן אוטומטי להכנת ארכיון.
+
+* **שילוב בצינור המיגרציה**  
+  פלטים שהומרו יכולים להיווצר כחלק ממעבר רחב יותר של מערכות תקשורת.
+
+* **טיפול בתוכניות רשומות**  
+  תוכן שמקורו במסמך יכול לעבור תהליכי ארכיון חוזרים בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

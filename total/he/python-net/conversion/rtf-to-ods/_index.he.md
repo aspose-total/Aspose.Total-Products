@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל‑ODS משנה מסמכי טקסט עשיר לקבצי גיליון אלקטרוני פתוחים, מה שמקל על ארגון מידע מבוסס טקסט במבנים טבלאיים לניתוח, מעקב ודיווח. זה בעל ערך כאשר נדרשת תאימות למסמכים פתוחים וזרימות עבודה מבוססות גיליון אלקטרוני.
+
+מנקודת מבט של אוטומציה, המרת RTF ל‑ODS מאפשרת המרה יעילה של תוכן המסמך לנכסי גיליון אלקטרוני מובנים שניתן לעבד, לשתף ולתחזק בסביבות נתונים פתוחות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת נתוני גיליון אלקטרוני פתוח**  
+  ממירה מידע מסמך לגיליונות אלקטרוניים ניתנים לעריכה באמצעות פורמט פתוח.
+
+* **תמיכה במעקב תפעולי**  
+  מסייעת לארגן טקסט שהוצא לשורות ועמודות למעקב ולדיווח.
+
+* **החלפת נתונים בין פלטפורמות**  
+  תומכת בצוותים המשתמשים בתקני מסמכים פתוחים לטיפול במידע מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות אוטומטיים ממסמך לגיליון אלקטרוני**  
+  מערכות יכולות להמיר קבצי RTF למחברות ODS לתהליכים עסקיים רגילים.
+
+* **שילוב זרימת עבודה פתוחה**  
+  המרה תכנותית תומכת בפלטפורמות המתבססות על תקני גיליון אלקטרוני פתוחים.
+
+* **משימות חזרתיות של מבנה נתונים**  
+  המרה במצב אצווה מסייעת לתקנון קבוצות גדולות של מסמכים לנכסי גיליון אלקטרוני מוכנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

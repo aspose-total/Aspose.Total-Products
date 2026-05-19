@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑PPTM ממירה נתונים מופרדים בטאבים לקבצי מצגת עם תמיכה במקרו, המאפשרים יצירת שקופיות ניתנות לעריכה עם התנהגות מצגת מתקדמת. היא בעלת ערך בתהליכי עבודה ארגוניים שבהם מערכי נתונים מובנים מזינים פלטים עשירים מבוססי שקופיות לניתוח, דיווח או אוטומציה מבוקרת.
+
+באמצעות ממשקי API של Python, ניתן לשלב המרת TSV ל‑PPTM בצינורות אוטומטיים שמייצרים נכסי מצגות ביעילות תוך תמיכה בהמרה חוזרת וניתנת להרחבה של נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגת עם מקרו**  
+  ממירה תוכן TSV לקבצי מצגת המתאימים לתהליכים מתקדמים.
+
+* **דיווח שקופיות מובנה**  
+  תומך ביצירת מצגות ניתנות לעריכה מתוך מערכי נתונים טבלאיים גולמיים.
+
+* **תקשורת עסקית אוטומטית**  
+  מסייע בהכנת פלטים מבוססי שקופיות לשימוש תפעולי חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה מתקדמת של מצגות**  
+  ממשקי API של Python יכולים ליצור קבצי PPTM ממקורות TSV מובנים.
+
+* **תהליכי שקופיות חוזרים**  
+  האוטומציה משפרת עקביות בייצור מצגות מונעות נתונים.
+
+* **המרת מצגות במצב אצווה**  
+  ניתן להמיר מספר קבצי TSV לפלטי PPTM ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

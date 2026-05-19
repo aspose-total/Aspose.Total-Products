@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑XLSX ממירה מסמכים עם מקרו לקבצי גיליון אלקטרוני מודרניים, מה שמקל על ניתוח, עריכה ושילוב של תוכן מובנה במערכות עסקיות. זוהי אחת הדרכים המעשיות ביותר להפיכת טבלאות ורשומות מסמך לנתונים תפעוליים שניתן להשתמש בהם מחדש.
+
+בסביבות המתמקדות באוטומציה, המרת DOCM ל‑XLSX תומכת בדיווח ברמת קנה מידה, הכנת אנליטיקה והעברת מידע שמקורו במסמך בצורה חלקה לתוך זרימות עבודה של חוברות מודרניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ניתוח גיליון אלקטרוני מודרני**
+  מעביר נתונים מבוססי מסמך לצורת חוברת עבודה לצורך סינון, חישובים ובדיקה.
+
+* **אינטגרציית תהליכים עסקיים**
+  תומך בשימוש חוזר בתוכן מובנה במערכות דיווח וכלים תפעוליים.
+
+* **זרימות עבודה של שינוי נתונים**
+  עוזר לשימוש חוזר בתוכן DOCM למשימות והחלטות מונעות גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת חוברת עבודה אוטומטית**
+  מייצר קבצי XLSX ממקורות DOCM עבור זרימות עבודה מתוזמנות וחוזרות.
+
+* **צינורות אנליטיקה ודיווח**
+  מזין נתונים מומרצים ללוחות מחוונים, סקירות ותהליכי דיווח תפעוליים.
+
+* **המרת מסמכים ברמת נפח גבוהה**
+  תומך בהמרה קבוצתית של קבצי DOCM רבים לפלטים של גיליונות אלקטרוניים מודרניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

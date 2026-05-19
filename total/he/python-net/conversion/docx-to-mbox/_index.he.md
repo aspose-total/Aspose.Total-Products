@@ -102,7 +102,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCX ל‑MBOX מאפשרת שינוי של תוכן המסמך לקבצי ארכיון תיבת דואר המשמשים לאחסון אוספים של הודעות דוא"ל. תהליך זה מאפשר לשלב מידע המסמך במבני ארכיון דוא"ל.
+
+ממשקי API של Python מאפשרים יצירה אוטומטית של קבצי תיבת דואר מתוכן המסמך, תומכים בארכיוני תקשורת ובזרימות עבודה של הודעות אוטומטיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת ארכיון דוא"ל**  
+  ממיר תוכן DOCX לקבצי ארכיון תיבת דואר.
+
+* **רשומות תקשורת של מסמכים**  
+  אוחסן הודעות מבוססות מסמך בתוך ארכיוני תיבת דואר.
+
+* **זרימות עבודה של הגירת דוא"ל**  
+  מאפשר לכלול תוכן מסמך ביצואי תיבת דואר.
+
+* **אינטגרציה עם מערכת הודעות**  
+  מאפשר לארוז מידע מסמך בתוך ארכיוני דוא"ל.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תיבת דואר אוטומטית**  
+  מערכות יכולות להמיר מסמכים לקבצי ארכיון MBOX.
+
+* **עיבוד אצווה של ארכיוני דוא"ל**  
+  סקריפטים ב‑Python יכולים ליצור ארכיוני תיבת דואר מאוספי מסמכים.
+
+* **צינורות הודעות ארגוניים**  
+  נתוני מסמך יכולים להיות מומרצים לפורמטים של תיבת דואר באופן אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

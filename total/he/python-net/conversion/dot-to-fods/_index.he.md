@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑FODS משנה תבניות מסמכים לקבצי גיליון אלקטרוני פתוח של OpenDocument שטוחים המתאימים להחלפת נתונים פתוחה ומבנית. זה שימושי בסביבות שמעדיפות פורמטים שקופים ואינטרופרטיביות רחבה.
+
+באמצעות API‑ים של Python, צוותים יכולים לאוטומט תהליך המרת DOT ל‑FODS כדי לתמוך בתהליכי עבודה פתוחים, להפחית המרות ידניות ולשפר עקביות בהמרת מסמכים ממוקדי‑נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ייצוא גיליון אלקטרוני פתוח**
+  המרת קבצי DOT ל‑FODS לטיפול במבני נתונים במערכות מסמכים פתוחות.
+
+* **שיתוף נתונים אינטרופרטיבי**
+  השתמש בפלט גיליון אלקטרוני שטוח כדי להחליף מידע מבוסס תבניות בין מערכות.
+
+* **אחסון מובנה קריא**
+  שמר תוכן שהוצא בפורמט גיליון אלקטרוני פתוח מבוסס XML לצורך תחזוקה ושימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **שילוב תהליכי עבודה פתוחים**
+  אוטומציה ב‑Python יכולה ליצור קבצי FODS מתבניות DOT לעיבוד מבוסס תקנים.
+
+* **המרת תבניות מתוזמנת**
+  משימות חוזרות יכולות לייצא תוכן תבנית לקבצי גיליון אלקטרוני שטוחים במאמץ מינימלי.
+
+* **המרת פורמט פתוח בקנה מידה**
+  צינורות דינמיים מסייעים לתקנון פעולות המרת מסמכים ל‑FODS בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

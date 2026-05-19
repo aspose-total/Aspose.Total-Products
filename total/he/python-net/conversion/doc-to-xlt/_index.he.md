@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑XLT משנה את תוכן ה‑Word לקבצי תבנית גיליון אלקטרוני התומכים ביצירת חוברות חוזרות ותקינה. זה שימושי כאשר מבנים שמקורם במסמך צריכים להפוך לתשתיות גיליון אלקטרוני ניתנות לשימוש חוזר.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת DOC ל‑XLT ליצירת תבניות עקביות, שימוש חוזר תפעולי, וייצור גיליון אלקטרוני יעיל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית גיליון אלקטרוני**
+  המרת תוכן מסמך מובנה לתבניות גיליון אלקטרוני ניתנות לשימוש חוזר.
+
+* **עיצוב חוברת תקנית**
+  השתמש בפלט XLT לשמירה על פריסות ומבני נתונים עקביים.
+
+* **טפסים עסקיים ניתנים לשימוש חוזר**
+  הפוך מסמכים לתבניות חוברת לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של ספריית תבניות**
+  יצירת קבצי XLT באופן אוטומטי מחומר מקור מבוסס DOC.
+
+* **הגדרת גיליון אלקטרוני חוזרת**
+  הפקת תבניות חוברת באופן תכנותי ממסמכים תקניים.
+
+* **שימוש חוזר בתוכן תפעולי**
+  המרת טפסים ודוחות חוזרים לנכסי גיליון אלקטרוני מונעי תבנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

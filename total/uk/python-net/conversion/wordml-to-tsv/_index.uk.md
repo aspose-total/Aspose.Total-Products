@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML до TSV перетворення перетворює структурований вміст документів у таблично‑розділені текстові файли, які прості, портативні та легкі для споживання у робочих процесах з даними. Це корисно, коли потрібне чисте розділення колонок без форматування, специфічного для електронних таблиць.
+
+Python API роблять перетворення WordML до TSV ефективним, витягуючи структури таблиць і перетворюючи їх у легкі, зручні для автоматизації результати для обробки та обміну даними.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Експорт даних з розділювачами**
+  Перетворює таблиці WordML у TSV‑файли для чистого обміну даними у текстовому форматі.
+
+* **Вихід, зручний для конвеєрів**
+  Створює прості структуровані файли, придатні для розбору та валідації.
+
+* **Витяг таблиць з документів**
+  Полегшує програмну обробку табличного вмісту документів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Пакетне перетворення таблиць**
+  Автоматично перетворює таблиці документів у TSV‑файли для подальших робочих процесів.
+
+* **Підтримка ETL‑конвеєрів**
+  Передає TSV‑виходи у процеси інжестії, мапінгу та трансформації.
+
+* **Завдання синхронізації даних**
+  Дозволяє повторюваний експорт оновлених даних документів у текстові структуровані файли.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

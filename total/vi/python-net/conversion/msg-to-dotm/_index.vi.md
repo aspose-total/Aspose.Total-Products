@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi MSG sang DOTM chuyển các tin nhắn email thành các tệp mẫu hỗ trợ macro cho tự động hoá tài liệu nâng cao. Nó phù hợp khi nội dung email phải trở thành một phần của các mẫu có thể lặp lại và cũng hỗ trợ hành vi kịch bản hoặc xử lý dựa trên quy tắc.
+
+Trong các môi trường tự động, quy trình MSG sang DOTM giúp kết hợp các cấu trúc có thể tái sử dụng với các hành động hỗ trợ macro. Điều này khiến chúng trở nên phù hợp cho việc lắp ráp tài liệu doanh nghiệp, quy trình được quản lý và các hoạt động dựa trên mẫu.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Phát triển mẫu hỗ trợ macro**  
+  Chuyển nội dung email thành các mẫu có thể tái sử dụng với hỗ trợ logic tự động hoá.
+
+* **Quy trình tài liệu kiểm soát**  
+  Hỗ trợ việc tạo tài liệu tiêu chuẩn trong các môi trường sử dụng các quy tắc xử lý nâng cao.
+
+* **Cấu trúc nội dung có thể lặp lại**  
+  Tái sử dụng các bố cục lấy từ tin nhắn cho các tài liệu vận hành lặp lại.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Hệ thống tự động hoá mẫu**  
+  Chuyển các tệp MSG thành mẫu DOTM để tạo tài liệu hỗ trợ macro.
+
+* **Lắp ráp tài liệu dựa trên quy tắc**  
+  Sử dụng các mẫu đã chuyển đổi trong quy trình tự động áp dụng các quy tắc định dạng hoặc nội dung.
+
+* **Xử lý doanh nghiệp có khả năng mở rộng**  
+  Chuẩn hoá các đầu ra dựa trên email lặp lại bằng các mẫu tương thích macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

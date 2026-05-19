@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑FODS ב‑APIs של Python ממירה תבניות טקסט של OpenDocument למסמכי גיליון אלקטרוני שטוח בפורמט XML שניתנים לקריאה, מובנים ומתאימים לעיבוד ברמת המערכת. זה שימושי עבור זרימות עבודה שמעדיפות ייצוגי גיליון אלקטרוני פתוחים מבוססי טקסט.
+
+ההמרה תומכת באוטומציה על‑ידי הפיכת תוכן המסמך לקל יותר לגרסאות, לבחינה ולשילוב בתהליכים ידידותיים ל‑XML, שבהם שקיפות, מבנה ויכולת אינטר‑אופרביליות חשובות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת גיליון אלקטרוני פתוח**  
+  ממירה תבניות טקסט למסמכי גיליון אלקטרוני שטוח מובנה.
+
+* **סידור נתונים קריא**  
+  מייצרת תוכן גיליון אלקטרוני מבוסס טקסט שקל לבדוק תכנותית.
+
+* **אינטר‑אופרביליות של זרימת עבודה**  
+  מתאימה למערכות המתבססות על תקני מסמכים פתוחים ועיבוד XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות נתונים מבוססי XML**  
+  דוחפת תוכן שמיוצר מתבנית לתוך זרימות עבודה של גיליון אלקטרוני שטוח מובנה.
+
+* **ייצוא ידידותי לבקרת גרסאות**  
+  תומכת ביצירת אוטומטית של מסמכי גיליון אלקטרוני המתאימים להשוואות diff.
+
+* **עיבוד מבוסס תקנים**  
+  מאפשרת טרנספורמציות חוזרות בסביבות פורמט פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑MBOX ממירה תבניות Word עם מקרו לתיקיות תואמות תיבת דואר שיכולות לאחסן תוכן בסגנון הודעה בפורמט מאוחד. זה שימושי כאשר תבניות מסמך משמשות מחדש כרשומות תקשורת או שיש צורך לשלבן בתהליכי ארכיון דואר.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑MBOX מסייע לאוטומציה של תהליכי ארכיבציה והגירה על‑ידי יצירת קבצי מכולת דואר מובנים מתוכן המסמך. זה תומך באחסון בר-קנה מידה, ייצוא תקני, וטיפול יעיל בתהליכים ממוקדי הודעות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת ארכיון דואר**
+  המרת תוכן תקשורת שמקורו ב‑DOTM ל‑MBOX לצורכי ארכיון או תהליכי הגירה.
+
+* **אחסון הודעות מאוחד**
+  אחסון פלטים דמויי‑הודעה מהתבניות בפורמט יחיד המיועד לתיבת דואר.
+
+* **ייצוא דואר מתואם**
+  הפיכת החלפת רשומות תקשורת שנוצרו לקלה יותר בין כלים התומכים ב‑MBOX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת ארכיון דואר אוטומטית**
+  תהליכים יכולים להפוך תבניות מסמך לפלטים תואמי‑MBOX לאחסון ארוך‑טווח.
+
+* **תמיכה בצינור הגירה**
+  ההמרה מסייעת לאוטומציה של העברת תוכן הודעות שנוצרו לארכיוני תיבות דואר.
+
+* **עיבוד רשומות במקבץ**
+  המרה תכנותית מאפשרת לעבד קבצי DOTM בכמות גבוהה למכולות מוכנות לדואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

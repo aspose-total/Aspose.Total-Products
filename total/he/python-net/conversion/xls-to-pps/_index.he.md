@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑PPS ממירה תוכן גיליון אלקטרוני לקבצי מצגת שקופיות המיועדים לתצוגה ישירה. זה שימושי כאשר תובנות מבוססות גיליון אלקטרוני צריכות להיות מופצות כחומר מוכן להצגה במקום קבצים ניתנים לעריכה.
+
+ממשקי API של פייתון תומכים באוטומציה יעילה של המרת XLS ל‑PPS על ידי אפשרות לארגונים ליצור פלטים מוכנים למצגת באופן תכנותי ולשלב אותם בדיווח או בתהליכי שידור.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **שקופיות מוכנות להצגה**
+  המרת תוכן XLS לקבצי PPS הפתוחים ישירות במצב מצגת.
+
+* **נכסי מסירת פגישות**
+  השתמש בנתוני הגיליון האלקטרוני כדי להכין פלטי שקופיות לתדריכים ולסקירות.
+
+* **הפצת מצגות משופרת**
+  שתף מצגות המונעות מגיליון אלקטרוני בפורמט המותאם לתצוגה ישירה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת שקופיות מתוזמנת**
+  צור קבצי PPS באופן אוטומטי מעדכונים חוזרים של גיליון אלקטרוני.
+
+* **אוטומציית מסירת מצגות**
+  השתמש בממשקי API של פייתון כדי להכין שקופיות מוכנות לתצוגה ממקורות XLS.
+
+* **תהליכי אירועים ותדריכים**
+  שלב המרה במערכות המפיצות תוכן שקופיות למפגשים חיים או מרוחקים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

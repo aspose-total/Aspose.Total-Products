@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál OST-t hozzáadni PCL-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OST‑PCL átalakítás a postafiók tartalmát nyomtatóvezérlő nyelvi kimenetté alakítja, így az e‑mailből származó dokumentumok alkalmasak nyomtatásra optimalizált rendszerek és eszközfolyamatok számára. Ez akkor hasznos, amikor a kommunikációs nyilvántartásokat kontrollált nyomtatásra vagy régi nyomtatási környezetekre kell előállítani.
+
+A Python API‑k lehetővé teszik az automatizált OST‑PCL átalakítást olyan szervezetek számára, amelyeknek skálázható nyomtatási adatfolyam‑generálásra van szükségük a postafiók‑archívumokból. Ez támogatja a működési hatékonyságot olyan környezetekben, ahol a szabványosított nyomtatott kimenet továbbra is fontos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Nyomtatási adatfolyam generálása**  
+  Átalakítja a postafiók tartalmát PCL formátumba a nyomtatásra kész munkafolyamat integrációhoz.
+
+* **Régi eszközök kompatibilitása**  
+  Támogatja az olyan környezeteket, amelyek a bevált nyomtatóvezérlő formátumokra támaszkodnak.
+
+* **Működési nyomtatási munkafolyamatok**  
+  Segít előkészíteni az archivált kommunikációs nyilvántartásokat a kontrollált fizikai kimenethez.
+
+* **Dokumentumkimenet szabványosítása**  
+  Lehetővé teszi a postafiók tartalmának következetes megjelenítését a nyomtatási folyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált nyomtatási előkészítés**  
+  A Python munkafolyamatok az OST adatokat PCL formátumba konvertálják nagy mennyiségű nyomtatási műveletekhez.
+
+* **Eszközközpontú feldolgozás**  
+  Az automatizált rendszerek a konvertált postafiók tartalmat a nyomtatási infrastruktúrába irányítják.
+
+* **Régi kimenet integrációja**  
+  A programozott átalakítás támogatja a kompatibilitást a meglévő nyomtatásra optimalizált rendszerekkel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

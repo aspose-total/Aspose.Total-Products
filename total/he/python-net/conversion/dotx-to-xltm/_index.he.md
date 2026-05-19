@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל-XLTM ממירה את תוכן תבנית ה-Word לפורמט תבנית גיליון אלקטרוני עם מקרו, ליצירת חוברות עבודה שניתנות לחזרה ולתמיכה באוטומציה. היא חשובה כאשר גיליונות אלקטרוניים שניתנים לשימוש חוזר חייבים לתמוך הן במבנה והן בהתנהגות מתקדמת של זרימת עבודה.
+
+באמצעות ממשקי API של Python, המרה זו מאפשרת ייצור בר‑קנה מידה של תבניות גיליון אלקטרוני המתאימות לתהליכי תפעול, ניתוח ודיווח ארגוניים חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות חוברת עבודה עם מקרו**
+  הפוך את תוכן המסמך לתבניות גיליון אלקטרוני שניתנות לשימוש חוזר עם תמיכה מתקדמת.
+
+* **נכסים תפעוליים ניתנים לחזרה**
+  אחיד את יצירת חוברות העבודה ממבנים מבוססי מסמך.
+
+* **שימוש חוזר במבנה נתונים**
+  השתמש מחדש בתבניות Word כתבניות גיליון אלקטרוני לזרימות עבודה מתמשכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**
+  צור קבצי XLTM מתבניות DOTX במערכות דיווח מבוקרות.
+
+* **אחידת חוברות עבודה בר‑קנה מידה**
+  ספק תבניות גיליון אלקטרוני עקביות עם יכולות המיועדות לאוטומציה.
+
+* **עיצוב זרימת עבודה ממוקדת בתבנית**
+  שלב המרת מסמכים בצינוריות הכנת חוברות עבודה ניתנות לחזרה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

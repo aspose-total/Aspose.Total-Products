@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑PS ממירה נתוני כרטיסי קשר לפלט PostScript המתאים לתהליכי הדפסה, רינדור מסמכים ועיבוד מכוון למכשירים. זה שימושי כאשר יש צורך להכין מידע קשר למערכות המתבססות על פורמטים של תיאור דף ליצירת פלט עקבי.
+
+בסביבות אוטומציה, המרת VCF ל‑PS מאפשרת ל‑Python APIs לתמוך בתהליכי עבודה ממוקדי הדפסה וארכיון על‑ידי יצירת פלט מובנה המשולב בצינורות רינדור ניתנים להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **פלט תיאור דף**  
+  המרת רשומות VCF לקבצי PS לצורך רינדור מודפס והדפסה מבוקרת.
+
+* **תמיכה בתהליך הדפסה**  
+  השתמש בפלט PostScript כאשר עקביות מסמכי ברמת הדף חשובה.
+
+* **תאימות צינור רינדור**  
+  הכן נתוני קשר למערכות שנבנו סביב עיבוד מוכן להדפסה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת PS אוטומטית**  
+  צור קבצי PostScript מנתוני קשר בתהליכי עבודה מבוססי אצווה.
+
+* **שילוב שרת הדפסה**  
+  הפנה פלטי PS שהומרו לסביבות הדפסה אוטומטיות.
+
+* **רינדור דף בר‑קנה**  
+  השתמש ב‑APIs של Python כדי לתקנן תוצאות קשר ממוקדות הדפסה באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

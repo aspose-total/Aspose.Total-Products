@@ -46,7 +46,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi PDF sang MBOX bằng các API Python cho phép nội dung PDF được chuyển đổi thành định dạng lưu trữ hộp thư, được sử dụng để lưu trữ các bộ sưu tập tin nhắn email. Điều này hữu ích khi thông tin tài liệu cần được tích hợp vào quy trình lưu trữ email hoặc được bảo quản trong các kho lưu trữ tin nhắn hàng loạt.
+
+Tự động hoá quá trình chuyển đổi này hỗ trợ các hoạt động lưu trữ quy mô, quy trình di chuyển và lưu trữ giao tiếp có cấu trúc. Nó giảm bớt công sức thủ công bằng cách cho phép các tài liệu PDF được chuẩn bị một cách lập trình cho các hệ thống dựa vào định dạng dữ liệu hộp thư hợp nhất.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo Lưu trữ Hộp thư**  
+  Chuyển đổi nội dung PDF thành các bản ghi tương thích MBOX để lưu trữ và bảo quản.
+
+* **Đóng gói Giao tiếp Hàng loạt**  
+  Sắp xếp các tin nhắn xuất phát từ tài liệu thành các bộ sưu tập hộp thư để dễ dàng di chuyển hệ thống.
+
+* **Tích hợp Lưu trữ Email**  
+  Sử dụng các đầu ra đã chuyển đổi trong môi trường quản lý dữ liệu qua các container MBOX.
+
+* **Bảo tồn Hồ sơ**  
+  Bảo tồn thông tin dựa trên PDF trong quy trình lưu trữ tin nhắn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động" %}}
+
+* **Tạo Lưu trữ Hàng loạt**  
+  Các quy trình Python có thể tự động xử lý nhiều tệp PDF thành các đầu ra tương thích MBOX.
+
+* **Đường ống Lưu trữ Tuân thủ**  
+  Nội dung đã chuyển đổi có thể được chèn vào các kho lưu trữ để bảo quản lâu dài.
+
+* **Chuẩn bị Di chuyển**  
+  Hệ thống có thể đóng gói nội dung xuất phát từ PDF để chuyển sang các nền tảng dựa trên hộp thư.
+
+* **Cập nhật Kho lưu trữ Tự động**  
+  Các tài liệu PDF đến có thể được liên tục chuyển đổi và thêm vào quy trình lưu trữ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

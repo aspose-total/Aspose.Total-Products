@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑XLSM ממירה את תוכן תבנית ה‑Word לפורמט גיליון אלקטרוני עם מקרו עבור זרימות עבודה מתקדמות של חוברות. היא חשובה כאשר יש צורך להשתמש מחדש בנתוני מסמכים מובנים בגיליונות אלקטרוניים התומכים בהתנהגות מודעת לאוטומציה.
+
+באמצעות ממשקי API של Python, המרה זו מאפשרת יצירה בקנה מידה של פלטי גיליונות אלקטרוניים המתאימים לתהליכים ארגוניים ותפעוליים מורכבים יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **יצירת גיליון אלקטרוני עם מקרו**
+  המרת תוכן המסמך לפורמטים של חוברות המתאימים לזרימות עבודה מתקדמות.
+
+* **שימוש חוזר בנתונים תפעוליים**
+  העברת מידע שנוצר מתבנית לסביבות גיליון אלקטרוני מובנות.
+
+* **תמיכה בדיווח מורכב**
+  הכנת פלטי גיליון אלקטרוני לתרחישי עיבוד מתקדמים יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצור חוברות אוטומטי**
+  יצירת קבצי XLSM מתבניות DOTX במערכות דיווח מחזוריות.
+
+* **צינורות גיליון אלקטרוני מתקדמים**
+  שימוש בפלטים שהומרו בזרימות עבודה הדורשות פורמטים של חוברות עם יכולת אוטומציה.
+
+* **המרת נתונים בקנה מידה**
+  המרה תכנותית של מבני מסמכים חוזרים לנכסי גיליון אלקטרוני מועשרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

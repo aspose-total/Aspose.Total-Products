@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DIF ל‑MOBI בפייתון מאפשרת לתוכן DIF מובנה להיות מומר לפורמט ידידותי לאיבוק המתאים לקריאה ניידת והפצה דיגיטלית. זה שימושי כאשר תוכן מונע נתונים צריך להיות ממושמש מחדש לנכסי פרסום קריאים.
+
+עם API‑ים של פייתון, ניתן לאוטומט את המרת DIF ל‑MOBI לצורכי קווי ייצור תוכן שמייצרים מדריכים דיגיטליים, חומרי ייחוס או פרסומים מובנים. זה משפר את היעילות בעת הכנת פלטים מוכנים לקריאה ממקורות הנתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **פרסום ייחוס דיגיטלי**
+  המרת נתוני DIF לקבצי MOBI לגישה ניידת למידע מובנה.
+
+* **יצירת ספר אלקטרוני מבוסס נתונים**
+  השתמש בתוכן DIF כמקור ליצירת מסמכי ספר אלקטרוני טכניים או אינפורמטיביים.
+
+* **הפצת תוכן לא מקוונת**
+  הפק קבצי MOBI לתרחישים שבהם משתמשים זקוקים לתוכן קריא ללא חיבור קבוע.
+
+* **אספקת חומרי הדרכה**
+  המר קבצים מקוריים מובנים לפורמט ספר אלקטרוני לתוכן חינוכי או למידה פנימית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצור ספר אלקטרוני אוטומטי**
+  הפק קבצי MOBI ממערכי נתוני DIF בתהליכי פרסום תוכן.
+
+* **צינורות מיחזור תוכן**
+  המרת נתוני מקור לפורמטים דיגיטליים לקריאה באופן אוטומטי לשימוש חוזר רחב יותר.
+
+* **יצירת פרסומים בכמות גדולה**
+  עבד קבצי DIF רבים לפלטי MOBI באופן תכנותי עבור ספריות תוכן גדולות.
+
+* **אספקת תוכן רב‑ערוצית**
+  שלב המרה במערכות שמפרסמות את אותו חומר מקור במספר פורמטים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

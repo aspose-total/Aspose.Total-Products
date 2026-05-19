@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PST ל‑PS ב‑APIs של Python ממירה את תוכן תיבת הדואר ל‑PostScript עבור זרימות עבודה הממוקדות בהדפסה ותיאור דפים. זה שימושי כאשר יש צורך לשמר או להעביר הודעות דוא"ל מאוחסנות בפורמט המתאים להדפסה בעלת שליטה גבוהה והצגת דפים בלתי תלויה במכשיר.
+
+לצורך אוטומציה, המרת PST ל‑PS תומכת בהדפסה ארגונית, ייצור מסמכים וצינורות פלט דפים מבוקרים. היא מסייעת לנתוני תיבת הדואר להשתלב במערכות התלויות בתיאורי הדפסה אמינים ובתהליכי הצגה מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא תיאור דף**
+  ממירה את תוכן ה‑PST ל‑PS עבור זרימות עבודה מבוקרות של הדפסה והצגה.
+
+* **הדפסה בלתי תלויה במכשיר**
+  מסייעת בהכנת תוכן שמקורו בתיבת הדואר לטיפול הדפסה סטנדרטי.
+
+* **תמיכה בפלט ייצור**
+  תומכת בסביבות המתבססות על פורמטים מובנים של הצגת דפים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הכנה אוטומטית להדפסה**
+  מערכות יכולות להמיר נתוני PST לקבצי PS עבור תהליכי הדפסה במ downstream.
+
+* **שילוב צינור הצגה**
+  פלט PostScript תומך ביצירת דפים מבוקרת בסביבות אוטומטיות.
+
+* **עיבוד מדרגי הממוקד בהדפסה**
+  המרה תכנותית מסייעת לנהל פלט תיבת דואר ברמת נפח גבוהה ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

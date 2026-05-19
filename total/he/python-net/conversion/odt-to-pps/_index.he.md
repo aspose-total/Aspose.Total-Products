@@ -104,7 +104,47 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT ל‑PPS ממיר את תוכן המסמך לפורמט מצגת שקופיות המיועד לתצוגה ישירה. זה שימושי כאשר חומר כתוב צריך להיות ממושמע במהירות לפורמט המותאם לצפייה ולא לעריכה.
+
+Python APIs מאפשרים המרת ODT ל‑PPS בתהליכי עבודה אוטומטיים של משלוח מצגות, ועוזרים לארגונים להכין פלטים מוכנים לתצוגה ממסמכי מקור. זה תומך בתקשורת מהירה יותר ובפרסום שקופיות סטנדרטיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת שקופיות מוכנות לתצוגה**  
+  מייצרת פלטים מותאמי מצגת מתוכן כתוב.
+
+* **תמיכה במשלוח מצגות**  
+  עוזר להפוך דוחות לפורמטים המיועדים לתצוגה ישירה.
+
+* **הכנת תוכן לפגישות**  
+  מאפשר המרה מהירה של מסמכים למצגות שניתן לשתף.
+
+* **יעילות תקשורת**  
+  מפחית את המאמץ הדרוש לשימוש חוזר בחומר כתוב למטרות מצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פרסום מצגות אוטומטי**  
+  תהליכי עבודה ב‑Python יכולים להמיר קבצי ODT לפלטי PPS להפצה.
+
+* **הכנת תדריכים חוזרים**  
+  דוחות מתוזמנים יכולים להפוך למצגות מוכנות לתצוגה באופן אוטומטי.
+
+* **צינורות המרה במקבצים**  
+  ניתן לעבד מספר מסמכים לפורמטים של מצגות בקנה מידה גדול.
+
+* **אוטומציה של סקירה ומשלוח**  
+  מצגות שנוצרו יכולות להיות מנותבות ישירות למערכות שיתוף או מצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑MOBI משנה מידע שמקורו בגיליונות אל פורמט ידידותי לספרים אלקטרוניים המתאים לסביבות קריאה דיגיטליות. זה שימושי כאשר נתונים מובנים, קטלוגים, מדריכים או חומרי ייחוס המתוחזקים בגיליונות צריכים להיות מופצים כתוכן ארוך קריא.
+
+בפרסום מונע אוטומציה, המרת XLSX ל‑MOBI מסייעת להפוך מערכי נתונים מובנים לפרסומים דיגיטליים ניידים, תומכת במתן תוכן בקנה מידה, עיצוב תקני והפצת מסמכים יעילה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **פרסום קטלוג דיגיטלי**  
+  ממיר נתוני מוצר או ייחוס המנוהלים בגיליון אל תוכן נייד מוכן לקריאה.
+
+* **יצירת מדריך ייחוס**  
+  מסייע להמיר מידע מובנה בגיליון למסמכי ספר אלקטרוני קריאים למשתמשי קצה.
+
+* **שימוש חוזר בתוכן**  
+  תומך בשימוש חוזר בנתוני גיליון בעבודות פרסום דיגיטלי ללא צורך בעיצוב ידני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ספר אלקטרוני אוטומטית**  
+  מערכות יכולות להמיר תוכן גיליון מעודכן לקבצי MOBI למחזורי פרסום חוזרים.
+
+* **צינורות הפצת תוכן**  
+  המרה יכולה להיות משולבת בעבודות שמפרסמות מידע מובנה לפלטפורמות קריאה דיגיטליות.
+
+* **פעולות פרסום בקנה מידה גדול**  
+  המרה תכנותית מאפשרת ייצור עקבי של ספרים אלקטרוניים ממקורות תוכן מבוססי גיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

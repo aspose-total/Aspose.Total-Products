@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑SVG ממירה נתוני כרטיסי קשר לגרפיקה וקטורית ניתנת להרחבה שניתן לשנות את גודלה מבלי לאבד איכות חזותית. זה אידיאלי למערכות הדורשות רינדור חד של מידע קשר ברשת, מצגות וסביבות מסמכים.
+
+בזרימות עבודה אוטומטיות, המרת VCF ל‑SVG מאפשרת ל‑APIs של Python ליצור נכסים חזותיים קלים וניתנים להרחבה המשולבים היטב עם פרסום דיגיטלי, רינדור ממשקים וצינורות תוכן מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **גרפיקה ניתנת להרחבה של אנשי קשר**  
+  המרת רשומות VCF לקבצי SVG לתצוגה בלתי תלויה ברזולוציה.
+
+* **אינטגרציה עם רשת וממשק**  
+  השתמש בפלט וקטורי לסביבות דיגיטליות מודרניות ולויזואלים משובצים.
+
+* **הצגה בעלת חדות גבוהה**  
+  שמר מידע קשר בפורמט שנשאר חד בכל גודל.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **רינדור SVG אוטומטי**  
+  צור גרפיקה ניתנת להרחבה של אנשי קשר ממאגרי קבצי VCF.
+
+* **צינורות פרסום דיגיטלי**  
+  הזן פלטי SVG למערכות רשת ומסמכים באופן אוטומטי.
+
+* **יצירת נכסים וקטוריים יעילים**  
+  השתמש ב‑APIs של Python ליצירת ויזואלים של אנשי קשר שניתנים לשימוש חוזר וניתנים להרחבה בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

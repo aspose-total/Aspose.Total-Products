@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑PPTM ממירה תוכן תבנית Word לפורמט מצגת עם מקרו לתהליכי שקופיות מתקדמים. היא שימושית כאשר קבצי מצגת שמקורם במסמכים חייבים לתמוך הן במבנה חזותי והן בהתנהגויות ניתנות לאוטומציה.
+
+תהליך זה משפר את האוטומציה על ידי אפשרות ל‑APIs של Python לייצר נכסי מצגת המתאימים לתהליכי ארגון מורכבים, דיווח מחזורי ויצירת שקופיות תכנותית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **מצגות עם מקרו**
+  המרת תבניות מסמך לקבצי מצגת התומכים בהתנהגויות מתקדמות.
+
+* **תהליכי שקופיות ארגוניים**
+  הכנת נכסי מצגת לתהליכי תקשורת עסקית מובנית.
+
+* **יצירת מצגות מבוססות תבנית**
+  שימוש חוזר בתוכן מסמך מתוקן בייצור שקופיות בר‑קנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הרכבת מצגת אוטומטית**
+  יצירת חבילות PPTM מתבניות DOTX לתהליכי דיווח מתקדמים.
+
+* **יצירת שקופיות עם תמיכת אוטומציה**
+  הפקת פלטי מצגת המתאימים לתהליכים ארגוניים מתקדמים.
+
+* **שימוש חוזר בתבניות בר‑קנה מידה**
+  המרת פריסות מסמך מחזוריות לקבצי מצגת מוכנים לאוטומציה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

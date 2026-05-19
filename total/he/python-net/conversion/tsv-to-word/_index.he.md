@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑Word ממירה נתונים מופרדים בטאבים למסמכי עיבוד תמלילים ניתנים לעריכה שמקלים על סקירה, עיצוב והפצה של מידע מובנה. היא שימושית להפיכת מערכי נתונים גולמיים למסמכים מקצועיים התומכים בתקשורת, תיעוד ודיווח עסקי.
+
+עם API‑ים של Python, ניתן לאוטומט את המרת TSV ל‑Word כדי לשפר את יעילות זרימת העבודה, להפחית הכנת מסמכים ידנית, ולתמוך בהמרה בקנה מידה של נתונים מובנים לפלטים קריאים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמכי עסקים**  
+  ממירה רשומות TSV למסמכי Word ניתנים לעריכה לצורך דיווח ובדיקה.
+
+* **הצגת נתונים מובנים**  
+  מסייעת להפוך תוכן טבלאי לנגיש יותר בתהליכי עבודה מבוססי מסמכים.
+
+* **אספקת תוכן תפעולי**  
+  תומכת בהפצת מסמכים מונעי‑נתונים בין צוותים ומערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכים אוטומטית**  
+  API‑ים של Python יכולים להמיר ייצואי TSV לקבצי Word בתהליכי עבודה חוזרים.
+
+* **אינטגרציית תהליכי עבודה**  
+  האוטומציה מחברת נתוני מקור עם שלבי ייצור מסמכים בתהליך הבא.
+
+* **תהליכי דיווח בכמות גדולה**  
+  קבצי TSV רבים יכולים להיות מומרי למסמכי Word בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

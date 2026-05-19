@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑WordML ממירה תוכן גיליון אלקטרוני לפורמט עיבוד תמלילים מבוסס XML המשמש ליצירת מסמכים מובנים, שינוי והפעלה ברמת המערכת. היא רלוונטית במיוחד כאשר על תוכן המסמך להישאר קריא למכונה וקלה לשילוב בתהליכי עבודה מודעים ל‑XML.
+
+עם ממשקי API של Python, המרת SXC ל‑WordML תומכת באוטומציה ניתנת להרחבה על‑ידי אפשרות ליצירת מסמכים תכנותית, אימות ושינוי בתוך מערכות פרסום מונעות נתונים או עיבוד ארגוני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמכים מבוססי XML**  
+  ממירה נתוני גיליון אלקטרוני לפורמט מובנה המתאים לתהליכי עבודה של מסמכים קריאים למכונה.
+
+* **אינטרופראביליות מערכתית**  
+  מסייעת לשלב את תוכן המסמך בפלטפורמות המעבדות או מחליפות נכסים מבוססי XML.
+
+* **ניהול תוכן מובנה**  
+  תומכת בבקרה מדויקת על הרכבת המסמך בסביבות עם שינוי כבד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הרכבת מסמכים תכנותית**  
+  משתמשת בממשקי API של Python כדי לייצר פלטי WordML המתאימים לצינורות אוטומציה מובנים.
+
+* **שילוב זרימת עבודה מבוססת XML**  
+  מאפשרת לתוכן שמקורו בגיליון אלקטרוני לעבור לאימות, שינוי או מערכות פרסום.
+
+* **עיבוד נתונים-למסמך ניתנת להרחבה**  
+  תומכת ביצירה דינמית של מסמכים קריאים למכונה מתוך קלטי גיליון אלקטרוני משתנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

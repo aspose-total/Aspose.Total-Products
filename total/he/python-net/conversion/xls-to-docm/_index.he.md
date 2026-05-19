@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑DOCM מאפשרת להפוך תוכן גיליון אלקטרוני למסמכי Word עם תמיכה במקרו, התומכים בתיעוד מובנה ובהתנהגות מתקדמת של המסמך. זהו ערך מוסף כאשר מידע המונע מגיליון צריך להימסר בצורת מסמך תוך שמירה על תאימות לתהליכי עבודה המתבססים על תבניות עם מקרו.
+
+המרת XLS ל‑DOCM מבוססת API של פייתון תומכת באוטומציה על‑ידי אפשרות למערכות לייצר פלטי מסמכים תכנותית, מה שמסייע לארגונים לייעל הרכבת מסמכים, תבניתיות והפצת תוכן מבוקרת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת מסמך עם מקרו**
+  המרת נתוני XLS לקבצי DOCM עבור תהליכי עבודה התלויים בפורמטים של מסמכים עם תמיכה במקרו.
+
+* **פלט מבוסס תבנית**
+  השתמש בתוכן הגיליון כדי למלא מסמכי DOCM מובנים המשמשים בתהליכים עסקיים חוזרים.
+
+* **תיעוד תפעולי**
+  המרת רשומות הגיליון למסמכים ניתנים לעריכה המתאימים להליכי פנימיים מודרכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אכלוס תבנית אוטומטי**
+  הזנת נתוני XLS לצינורות יצירת מסמכי DOCM באמצעות API של פייתון.
+
+* **שירותי המרה במקבץ**
+  המרת קבצי גיליון מרובים לפלטי DOCM עבור עיבוד ארגוני סטנדרטי.
+
+* **אספקת מסמכים משולבת**
+  יצירת קבצי DOCM באופן אוטומטי כחלק ממערכות אישור, ארכוב או דיווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

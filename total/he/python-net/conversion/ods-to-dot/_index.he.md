@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑DOT ממירה קבצי גיליון אל פורמטים של תבניות מסמכים המשמשים ליצירת מסמכים מובנים. זה מאפשר לנתונים או למבנים מבוססי גיליון לשמש כבסיס לתבניות מסמכים שניתן להשתמש בהן מחדש.
+
+זרימות עבודה של המרה מבוססות Python מאפשרות יצירת תבניות מסמכים באופן אוטומטי מתוכן גיליון. גישה זו תומכת ביצירת מסמכים בקנה מידה, באחידות תבניות ובאוטומציה יעילה במערכות מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית מנתונים**  
+  המרת מבני גיליון לתבניות מסמכים שניתן להשתמש בהן מחדש.
+
+* **פריסות מסמכים מתוקננות**  
+  השתמש בנתוני גיליון כבסיס לעיצוב מסמכים עקבי.
+
+* **ארגון תוכן**  
+  המרת מידע טבלאי למבני מסמכים מוכנים לתבנית.
+
+* **הכנת זרימת עבודה של מסמכים**  
+  הכנת מסמכי תבנית המופקים ממערכי נתוני גיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות יצירת תבניות**  
+  זרימות עבודה ב‑Python ממירות גיליונות לתבניות מסמכים שניתן להשתמש בהן מחדש.
+
+* **ניהול תבניות אוטומטי**  
+  מערכות מייצרות ומתחזקות תבניות המופקות מנתוני גיליון מובנים.
+
+* **המרת תבניות בכמות גדולה**  
+  שירותים אוטומטיים מעבדים קבצי ODS מרובים ליצירת תבניות מתוקננות.
+
+* **מערכות יצירת מסמכים דינמיות**  
+  תבניות שנוצרו מגיליונות תומכות בייצור מסמכים אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi TIFF sang OST bằng các API Python hỗ trợ việc biến đổi nội dung tài liệu dựa trên hình ảnh thành các cấu trúc dữ liệu kiểu hộp thư, được sử dụng cho truy cập email ngoại tuyến và quy trình đồng bộ hoá. Điều này có thể hữu ích khi các hồ sơ xuất phát từ TIFF cần phù hợp với mô hình lưu trữ email được dùng trong môi trường giao tiếp doanh nghiệp.
+
+Đối với tự động hoá và khả năng mở rộng, việc chuyển đổi TIFF sang OST giúp tập trung tài sản truyền thông dựa trên tài liệu, hỗ trợ xử lý dựa trên hộp thư và cải thiện tính liên tục hoạt động trong các môi trường đã đồng bộ. Nó góp phần tích hợp tốt hơn giữa nội dung quét và các hệ thống nhắn tin được quản lý.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Chuẩn bị dữ liệu thư offline**
+  Chuyển đổi nội dung xuất phát từ TIFF sang các định dạng phù hợp với quy trình làm việc hộp thư ngoại tuyến.
+
+* **Hỗ trợ giao tiếp doanh nghiệp**
+  Giúp tích hợp các hồ sơ dựa trên hình ảnh vào môi trường nhắn tin có cấu trúc.
+
+* **Xử lý hồ sơ đồng bộ**
+  Hỗ trợ các trường hợp mà nội dung hình ảnh phải phù hợp với hệ sinh thái hộp thư được quản lý.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Đường ống đồng bộ hoá hộp thư**
+  Tự động hoá việc chuẩn bị nội dung dựa trên TIFF cho các quy trình làm việc email ngoại tuyến và đồng bộ.
+
+* **Hệ thống truyền thông tập trung vào tài liệu**
+  Cho phép đầu vào đã quét cung cấp dữ liệu cho các quy trình nhắn tin doanh nghiệp có cấu trúc một cách lập trình.
+
+* **Hợp nhất dữ liệu vận hành**
+  Hỗ trợ các luồng chuyển đổi quy mô lớn đưa thông tin xuất phát từ hình ảnh vào các cấu trúc phù hợp với hộp thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

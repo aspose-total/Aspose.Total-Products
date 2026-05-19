@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MSG ל‑PCL ממירה קבצי הודעות דוא"ל לפלט בשפת פקודות מדפסת עבור זרימות עבודה של הדפסה מכוונת למכשירים. היא שימושית כאשר יש צורך להפנות את תוכן ההודעה לצינורות הדפסה, סביבות מבוססות חומרה, או תהליכי פלט התלויים בפורמטים מוכנים למדפסת.
+
+לצורך אוטומציה, המרת MSG ל‑PCL תומכת בהדפסה ברמת נפח גבוהה, הפצה תפעולית, ופלט מסמכים מבוקר מערכת. היא מסייעת לשלב תוכן מבוסס דוא"ל בתהליכי הדפסה ייצור וניהול מכשירים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט דוא"ל מוכן למדפסת**  
+  הכן את תוכן ההודעה לשימוש ישיר בסביבות ממוקדות הדפסה.
+
+* **צינורות הדפסה תפעוליים**  
+  תמוך בתהליכי עבודה המנתבים את התוכן המומר למערכות הדפסה.
+
+* **הצגה תואמת למכשיר**  
+  אפשר פלט הודעה בפורמטים שנועדו לעיבוד פקודות מדפסת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה של הדפסה ברמת נפח גבוהה**  
+  המר קבצי MSG ל‑PCL להדפסה באצווה על פני מערכות תפעוליות.
+
+* **תהליכי ניתוב מכשירים**  
+  שלח משימות הדפסה שמקורן בהודעה דרך צינורות פלט חומרתיים מאוטומטים.
+
+* **תקינה של תור ההדפסה**  
+  נרמל את תוכן הדוא"ל לפלט תואם למדפסת לצורך עיבוד עקבי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

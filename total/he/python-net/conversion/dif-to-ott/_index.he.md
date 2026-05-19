@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DIF ל-OTT בפייתון מאפשרת לתוכן DIF מובנה להיות מומר לתבניות טקסט של מסמכי קוד פתוח ליצירת מסמכים ניתנים לשימוש חוזר וסטנדרטיים. זה בעל ערך כאשר זרימות עבודה של מסמכים דורשות יצירת תבניות מבוססת תבנית בסביבות פורמט פתוח.
+
+שימוש ב-APIs של פייתון להמרת DIF ל-OTT תומך באוטומציה יעילה של תבניות ועוזר לארגונים לבנות מבני מסמכים ניתנים לשימוש חוזר מתוך נתונים מובנים. זה משפר עקביות תוך התאמת זרימות עבודה של תבניות לסטנדרטים של מסמכי קוד פתוח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת תבנית פתוחה**
+  המרת קבצי DIF לתבניות OTT ליצירת מסמכי טקסט ניתנים לשימוש חוזר.
+
+* **מסגרות מסמכים מבוססות תקנים**
+  בניית תבניות פורמט פתוח לארגונים שמעדיפים אינטרופרטביליות.
+
+* **מסמכי תפעול חוזרים**
+  שימוש בתבניות OTT לתמיכה בטפסים, דוחות או מסמכי תהליך חוזרים.
+
+* **פיתוח ספריית תבניות**
+  יצירת נכסי תבניות ממקורות מובנים לניהול מסמכים מרוכז.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**
+  יצירת קבצי OTT באופן תכנותי ממערכי נתוני DIF לייצור תבניות בר-קנה מידה.
+
+* **תקינה של זרימת עבודה פתוחה**
+  שילוב ההמרה במערכות פייתון שמנהלות תבניות מסמכי קוד פתוח.
+
+* **יצירת נכס פלט ניתנת לשימוש חוזר**
+  הפקת קבצים מוכנים לתבנית באופן אוטומטי למשימות יצירת מסמכים חוזרות.
+
+* **הפצת תבניות בין-מערכתית**
+  המרה והפצה של תבניות OTT דרך תשתית מסמכים אוטומטית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

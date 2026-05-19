@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOT-t hozzáadni OST-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOT‑ról OST‑ra konverzió a dokumentumsablonokat egy offline, postafiók‑orientált formátumba alakítja át az üzenetkezelési munkafolyamatok és az archiválási előkészítés céljából. Ez releváns olyan helyzetekben, ahol a sablonból származó tartalmat offline kommunikációs tárolási folyamatokba integrálják.
+
+Python API‑kkal ez a konverzió beépíthető automatizált rendszerekbe, amelyek dokumentumalapú kommunikációs eszközöket készítenek elő postafiók‑szinkronizációhoz vagy archiválási kezeléshez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Offline levél előkészítés**
+  Alakítsa át a DOT‑alapú tartalmat OST‑kompatibilis munkafolyamatokká a postafiók‑kapcsolt feldolgozáshoz.
+
+* **Archiválás és szinkronizálás támogatása**
+  Használja a sablonból származó kommunikációs adatokat olyan környezetekben, amelyek offline tárolási struktúrákat igényelnek.
+
+* **Üzenetmunka‑folyamat csomagolás**
+  Készítsen strukturált kimeneteket a dokumentumsablonokból a postafiók‑központú műveletekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált levél tárolás előkészítése**
+  Python szkriptek támogatják a DOT‑fájlok ismétlődő konvertálását offline levélmunka‑folyamatokhoz.
+
+* **Dokumentum‑vezérelt levél integráció**
+  A konverzió segít összekapcsolni a sablon‑tárakat a szinkronizált kommunikációs folyamatokkal.
+
+* **Tömeges levél eszközkezelés**
+  Programozott csővezetékek egyszerűsítik a nagy mennyiségű postafiók‑orientált kimenetek előkészítését.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

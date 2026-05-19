@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑MD משנה נתוני כרטיסי קשר למסמכי Markdown שקל לקרוא, לערוך ולשלב במערכות ידע מבוססות טקסט. זה במיוחד שימושי בסביבות תיעוד שמעריכות ניידות, פשטות ותוכן ידידותי לגרסאות.
+
+בזרימות עבודה של אוטומציה, המרת VCF ל‑MD מאפשרת ל‑Python APIs לייצר מסמכי קשר קלים שמשתלבים בטבעיות במאגרי תוכן, אתרים סטטיים וצינורות יצירת פתקים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תיעוד טקסט קריא**  
+  המר רשומות VCF ל‑Markdown לתיעוד נקי ונייד.
+
+* **שילוב במאגר ידע**  
+  אחסן מידע קשר בפורמט המתאים למערכות ממוקדות טקסט.
+
+* **ניהול תוכן ידידותי לגרסאות**  
+  נהל נתוני קשר בפורמט טקסט פשוט ומבנה שקל לעקוב אחריו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת Markdown אוטומטית**  
+  צור קבצי MD ממספרים של כרטיסי קשר לתיעוד מאורגן.
+
+* **צינורות תוכן סטטיים**  
+  העבר קבצי קשר מומרי לתהליכי פרסום אוטומטיים ועבודות במאגרי קוד.
+
+* **המרת טקסט בקנה מידה**  
+  השתמש ב‑Python APIs כדי לאחד נתוני קשר בפורמט סימון קל משקל.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

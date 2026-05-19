@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLSX ל‑Word מאפשר להמיר תוכן גיליון אל מסמכי Word קריאים לדיווח, שיתוף פעולה ותיעוד פורמלי. זה בעל ערך כאשר נתונים טבלאיים גולמיים צריכים להיות משוכתבים לפורמט קריא יותר וממוקד מסמך.
+
+במערכות עסקיות אוטומטיות, המרה מ‑XLSX ל‑Word תומכת ביעילות ובקנה מידה על‑ידי הפחתת העתקה ידנית, שיפור עקביות הפלט והאפשרות לייצר מסמכים מונעי‑נתונים בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תיעוד נתונים קריא**  
+  ממיר מידע גיליון אל פורמט מסמך לצורך סקירה ותקשורת קלה יותר.
+
+* **תקשורת עסקית פורמלית**  
+  מסייע בהכנת קבצים קריאים ב‑Word מתוך נתונים מובנים לשימוש תפעולי ומנהלי.
+
+* **שימוש חוזר בתוכן**  
+  תומך בשימוש חוזר בתוכן גיליון בעבודות זרימת מסמכים ללא צורך בבנייה מחדש של העיצוב באופן ידני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **זרימות עבודה אוטומטיות של נתונים למסמך**  
+  מערכות יכולות לייצר קבצים תואמי Word ישירות מעדכוני גיליון.
+
+* **אוטומציה חוזרת של דיווח**  
+  המרה יכולה להיות משולבת בתהליכים מתוזמנים שמפרסמים נתוני גיליון כמסמכים.
+
+* **פלט מסמכים עקבי בקנה מידה**  
+  זרימות עבודה תכנותיות מבטיחות יצירת כמויות גדולות של קבצי Word עם מבנה ואיכות חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

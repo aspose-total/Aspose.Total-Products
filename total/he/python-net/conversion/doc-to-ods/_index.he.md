@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑ODS משנה תוכן Word לקבצי גיליון OpenDocument, מה שמקל על סקירה, חישוב ושיתוף של נתונים מובנים בתהליכי עבודה של משרד פתוח. זה שימושי כאשר טבלאות או רשומות במסמך דורשות פונקציונליות של גיליון אלקטרוני בפורמט פתוח.
+
+עם ממשקי API של Python, המרה מ‑DOC ל‑ODS הופכת למהירה ואמינה יותר, תומכת בחילוץ נתונים חוזר ושילוב במערכות דיווח, אנליטיקה ותפעול.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **המרת גיליון אלקטרוני פתוח**
+  העבר טבלאות מסמך ל‑ODS למיון, חישוב וביקורת מובנית.
+
+* **שיתוף נתונים מתואם**
+  השתמש בפלט ODS כאשר העברת גיליונות בפורמט פתוח מועדפת.
+
+* **חילוץ נתונים תפעוליים**
+  המר תוכן מסמך חוזר לנכסי גיליון אלקטרוני שניתן להשתמש בהם מחדש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא נתונים אוטומטי**
+  צור קבצי ODS מקלטי DOC לצורכי צינוריות דיווח במשרד פתוח.
+
+* **עיבוד מסיבי של גיליונות**
+  המר רשומות מבוססות מסמך לפלטי גיליון אלקטרוני בקנה מידה גדול.
+
+* **זרימות עבודה של אינטגרציית מערכת**
+  חבר באופן תכנותי את חילוץ המסמך עם טיפול בנתונים בפורמט פתוח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

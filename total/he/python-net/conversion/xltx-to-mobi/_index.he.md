@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTX ל‑MOBI ממירה את תוכן תבנית הגיליון האלקטרוני לפורמט ידידותי לספרי אלקטרוני המתאים לחוויות קריאה קלות ומשלוח דיגיטלי נייד. היא שימושית כאשר חומר מבוסס תבנית מובנית צריך להיות ממושמע לתוכן קריא, קומפקטי לשיתוף ידע, מדריכים או מסמכי ייחוס.
+
+במערכות המתמקדות באוטומציה, המרת XLTX ל‑MOBI תומכת בפרסום תוכן בר‑קנה מידה על‑ידי הפיכת תבניות גיליון אלקטרוני מובנות לנכסי קריאה ניידים שניתן ליצור תכנותית ולספק דרך ערוצי הפצה דיגיטליים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת מדריך נייד**  
+  ממירה את תוכן תבנית הגיליון האלקטרוני המובנה לפורמט קריאה ידידותי למובייל.
+
+* **פרסום חומרי ייחוס**  
+  מסייעת להפצת ידע טבלאי או מובנה בפורמט המותאם לקריאה דיגיטלית.
+
+* **תהליכי מיחזור תוכן**  
+  תומכת בהמרת תוכן תבנית תפעולית למשאבים בסגנון ספר אלקטרוני שניתן להשתמש בהם מחדש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת ספר אלקטרוני אוטומטית**  
+  מערכות יכולות להמיר תבניות XLTX לקבצי MOBI עבור משימות פרסום דיגיטלי חוזרות.
+
+* **צינורות הפצת ידע**  
+  הנושא תומך באריזת תוכן מובנה באופן אוטומטי למסירת קורא קל.
+
+* **פעולות פרסום בכמות גדולה**  
+  המרה תכנותית מאפשרת לפרסם קבוצות גדולות של תוכן מבוסס גיליון אלקטרוני כמסמכים ניידים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

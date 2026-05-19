@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑DOT ממירה את תוכן תיבת הדואר לקבצי תבנית Word, מאפשרת למבנים שמקורם במיילים להיות משומשים מחדש כיסודות מסמכים מתוקננים. זה שימושי כאשר הודעות מאוחסנות צריכות להנחות פריסות מסמכים חוזרות או תהליכי דיווח מבוססי תבניות.
+
+באמצעות API‑ים של Python, ארגונים יכולים לאוטומט את יצירת קבצי DOT מארכיוני MBOX כדי לתמוך ביצירת תבניות בקנה מידה, עיצוב עקבי, ואוטומציה של זרימת עבודה של מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית ממיילים**
+  הפוך את תוכן תיבת הדואר לתבניות מסמך שניתן להשתמש בהן מחדש לשימוש חוזר.
+
+* **תהליכי עיצוב מתוקננים**
+  שמר פריסות שמקורן במייל בפורמט המיועד ליצירת מסמכים עקבית.
+
+* **הקמת תיעוד תהליכים**
+  השתמש בתוכן המייל כבסיס מובנה ליצירת מסמכים עתידיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבניות ניתנות לשימוש חוזר**
+  המר מיילים נבחרים לקבצי DOT התומכים בתיעוד מתוקנן.
+
+* **שימור פריסה אוטומטי**
+  צור באופן תכנותי פלטי תבניות מארכיוני תיבת הדואר לתהליכים חוזרים.
+
+* **מבנה תוכן בקנה מידה**
+  השתמש ב‑Python כדי להפוך רשומות מייל לנכסים מוכנים לתבנית לשימוש ארגוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

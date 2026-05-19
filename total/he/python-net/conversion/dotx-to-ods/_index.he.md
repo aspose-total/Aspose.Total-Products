@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑ODS ממירה את תוכן תבנית Word לפורמט גיליון אלקטרוני של OpenDocument לטיפול בנתונים מובנים ולתהליכי עבודה פתוחים. זה מועיל כאשר יש צורך לייצג מידע מסמך בצורה של גיליון אלקטרוני שניתן לעריכה מבלי להסתמך על פורמטים קנייניים.
+
+המרה זו משפרת את האוטומציה על‑ידי אפשרות לייצור קבצי גיליון אלקטרוני פתוחים מבוססי Python שניתן לשלב במערכות דיווח, סקירה ועיבוד נתונים בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **תהליכי עבודה עם גיליון אלקטרוני פתוח**
+  המרת תוכן המסמך לקבצי גיליון אלקטרוני שניתן לעריכה באמצעות תקנים פתוחים.
+
+* **שימוש חוזר בנתונים**
+  העברת מידע מובנה מתבניות לתהליכים עסקיים בטבלאות.
+
+* **דיווח מתואם**
+  תמיכה בשיתוף פעולה בין מערכות המשתמשות בפורמטים פתוחים של גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא חוזר של גיליונות אלקטרוניים**
+  יצירת קבצי ODS באופן אוטומטי מתבניות DOTX למחזורי דיווח.
+
+* **צינורות נתונים פתוחים**
+  הפניית פלט הגיליון המומר למערכות המבוססות על פורמטים מבוססי תקנים.
+
+* **אוטומציה של המרת מסמך לטבלה**
+  הרחבת המרת תוכן תבנית חוזר לנכסי גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

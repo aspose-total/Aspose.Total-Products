@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑ODT ב‑Python מאפשרת להמיר נתוני גיליון אל קבצי טקסט של מסמכים פתוחים לעריכה ולעיבוד תמלילים מבוסס תקנים. זהו כלי בעל ערך בסביבות שמעדיפות אינטראופרביליות, נגישות וזרימות עבודה עם מסמכים פתוחים.
+
+המרה זו תומכת באוטומציה על‑ידי מתן אפשרות ליישומי Python לייצר מסמכי פורמט פתוח ניתנים לעריכה ממקורות גיליון בתהליכי תוכן ניתנים להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח מסמך פתוח**  
+  המרת קבצי Excel למסמכי ODT ליצירת דוחות ועריכה בהתאם לתקנים.
+
+* **תיעוד חוצת פלטפורמות**  
+  השתמשו בפורמטים פתוחים לתמיכה בתאימות רחבה יותר בסביבות משרדיות.
+
+* **הצגת נתונים ניתנת לעריכה**  
+  המרת תוכן גיליון טבלאי למסמכי טקסט קריאים וניתנים לשינוי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא אוטומטי בפורמט פתוח**  
+  יצירת קבצי ODT מנתוני Excel כחלק מתהליכי עבודה של מסמכים מבוססי Python.
+
+* **צינורות תוכן מתאימים**  
+  תמיכה במערכות הדורשות תקני מסמכים פתוחים להחלפה או ארכוב.
+
+* **המרת מסמכים בכמות גדולה**  
+  המרת קבצי גיליון מרובים לפלטי ODT ניתנים לעריכה באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

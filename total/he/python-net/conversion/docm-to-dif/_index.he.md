@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑DIF ממירה מסמכים עם מקרו לפורמט חילופי נתונים המתאים להחלפת טבלאות מובנות בין מערכות מדור קודם ומערכות אנליטיות. זה שימושי כאשר יש צורך לשמר נתונים המוכללים במסמך בפורמט תואם לתהליכי גיליון אלקטרוני ומסדי נתונים ישנים.
+
+מנקודת מבט של אוטומציה, המרת DOCM ל‑DIF תומכת בהעברה חוזרת של תוכן מובנה למערכות המתבססות על פורמטים סטנדרטיים של חילופי טבלאות לייבוא ולתיאום.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **החלפת נתונים מדור קודם**
+  ממירה טבלאות מסמך לפורמט המתאים לגיליונות אלקטרוניים וכלי ארגוניים ישנים.
+
+* **הגירת רשומות מובנות**
+  מסייעת להעברת נתונים ממסמכי DOCM למערכות התלויות בפורמטים המיועדים לחילופי מידע.
+
+* **שימור טבלאי**
+  שומרת על ארגון שורות ועמודות כאשר יש צורך להשתמש בתוכן המסמך במקומות אחרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרה מתוזמנת של נתונים**
+  מממשת ייצוא חוזר מקבצי DOCM ל‑DIF לצורך עקביות תפעולית.
+
+* **שילוב זרימת עבודה מדור קודם**
+  תומכת במעבר אוטומטי לסביבות פיננסיות, מנהלתיות או דיווחיות מדור קודם.
+
+* **נרמול מסמכים בכמות גדולה**
+  ממירה מספר מסמכי מקור לפורמט מובנה משותף לעיבוד המשכי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

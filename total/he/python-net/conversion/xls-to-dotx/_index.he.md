@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑DOTX ממירה תוכן גיליון אלקטרוני לקבצי תבנית Word מודרניים שניתן להשתמש בהם מחדש ליצירת מסמכים עקביים. היא שימושית במיוחד כאשר נתוני הגיליון משמשים כבסיס לפורמטים סטנדרטיים של מסמכים המשמשים באופן חוזר בצוותים או במערכות.
+
+ממשקי API של Python מאפשרים המרת XLS ל‑DOTX להשתלב בתהליכי אוטומציה ניתנים להרחבה, להפחית הכנת תבניות ידנית ולשפר את החזרתיות בפעולות מונעות מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת תבנית מודרנית**
+  המרת נתוני XLS לקבצי DOTX למבנים מסמכים שניתן להשתמש בהם מחדש.
+
+* **עיצוב מסמכים עקבי**
+  תמיכה ביצירת מסמכים אחידה על ידי יצירת תבניות מתוכן הגיליון.
+
+* **תהליכי עבודה ממוקדי תבנית**
+  שימוש בנתוני הגיליון כמקור מובנה לייצור מסמכים עתידי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **הפצת תבניות אוטומטית**
+  יצירת תבניות DOTX מקבצי XLS והפצתן לתהליכי עבודה של מסמכים באופן אוטומטי.
+
+* **יצירת נכסים לשימוש חוזר**
+  שימוש בממשקי API של Python לבניית ספריות תבניות סטנדרטיות מקלטי גיליון.
+
+* **מבנה תוכן נרחב**
+  אינטגרציית ההמרה במערכות שיוצרות תיעוד עקבי בכמויות גדולות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

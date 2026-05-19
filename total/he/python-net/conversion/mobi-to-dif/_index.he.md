@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MOBI ל‑DIF בפייתון מאפשרת את שינוי תוכן הספר האלקטרוני לפורמט חילופי נתונים המשמש בדרך כלל בתהליכי עבודה מבוססי גיליונות אלקטרוניים. זה שימושי כאשר יש צורך להעביר את התוכן לסביבות נתונים תואמות למורשת או למערכות המתבססות על תקני ייבוא מובנים.
+
+בסביבות מונעות אוטומציה, המרת MOBI ל‑DIF תומכת בהמרת תוכן חוזרת, בתאימות נתונים למורשת ובחילוף יעיל בין מאגרי מסמכים לשכבות עיבוד מבוססות גיליונות אלקטרוניים. היא מסייעת לגשר בין קבצי פרסום לתהליכי עבודה עסקיים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **ייבוא גיליון אלקטרוני מדור קודם**
+  המרת תוכן MOBI ל‑DIF כדי שניתן יהיה לייבא אותו לכלי גיליון אלקטרוני ועיבוד נתונים ישנים.
+
+* **שימוש חוזר בתוכן מובנה**
+  השתמש מחדש במידע שהוצא מהספר האלקטרוני במערכות התלויות בפורמטים של נתונים המיועדים להחלפה.
+
+* **המרת ארכיון**
+  שמרו על תוכן שימושי בפורמט מובנה המתאים לעיבוד ארוך טווח או לפרויקטי הגירה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **הזנות מערכת מדור קודם אוטומטיות**
+  הפנה תוכן שמקורו ב‑MOBI לתהליכי עבודה של גיליונות אלקטרוניים מדור קודם דרך יצירת DIF.
+
+* **התאמת פורמט מתוזמנת**
+  אחיד מקורות מסמכים מעורבים על ידי המרת קבצי MOBI ל‑DIF במהלך משימות חוזרות.
+
+* **צינורות תמיכה במעבר**
+  השתמש באוטומציה של פייתון כדי להכין את תוכן הספר האלקטרוני לייבוא גורף למערכות תפעוליות מדור קודם.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

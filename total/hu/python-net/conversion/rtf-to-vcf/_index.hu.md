@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál RTF-t hozzáadni VCF-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az RTF‑ből VCF‑be konvertálás a gazdag szöveges dokumentumokat olyan névjegykártya‑fájlokká alakítja, amelyek képesek neveket, telefonszámokat, címeket és a kapcsolódó elérhetőségi adatokat hordozható formátumban tárolni. Ez akkor hasznos, amikor a kapcsolati adatok be vannak ágyazva a dokumentumokba, és strukturált, megosztható rekordokká kell őket alakítani.
+
+Az automatizálási munkafolyamatokban az RTF‑ből VCF‑be konvertálás hatékony kapcsolati kinyerést, szinkronizálást és terjesztést tesz lehetővé, a szöveges alapú címtárakat vagy listákat szabványosított kapcsolati eszközökké alakítva a rendszerek és csapatok számára.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Kapcsolati rekord létrehozása**  
+  Dokumentum‑alapú kapcsolati adatok átalakítása hordozható digitális névjegykártyákká.
+
+* **Címtár modernizálása**  
+  Segít a kézzel írt kapcsolati listák strukturált, importálható és megosztható rekordokká alakításában.
+
+* **Hordozható kapcsolati csere**  
+  Támogatja a kapcsolati információk átvitelét rendszerek és eszközök között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált kapcsolati kinyerési csővezetékek**  
+  A rendszerek képesek RTF‑dokumentumokat elemezni és VCF‑fájlokat generálni a felismert kapcsolati adatokból.
+
+* **Tömeges címjegyzék előkészítése**  
+  A programozott konvertálás nagy léptékű kapcsolati rekordok létrehozását támogatja szöveges forrásfájlokból.
+
+* **CRM és címtár integráció**  
+  Dinamikus munkafolyamatok képesek a dokumentumban tárolt kapcsolati információkat újrahasználható kapcsolati eszközökké alakítani.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

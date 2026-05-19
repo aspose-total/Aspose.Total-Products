@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑MOBI מאפשרת לתוכן שמקורו בגיליונות אלקטרוניים להיות זמין בפורמט ידידותי לספרים אלקטרוניים, המתאים לקריאה מובנית והפצה דיגיטלית. זה בעל ערך כאשר מידע טבלאי צריך להיות ארוז מחדש לחומר קריאה נייד, מדריכים או תוכן רפרנס.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת XLS ל‑MOBI בתוך מערכות פרסום תוכן, מה שמשפר את היעילות עבור ארגונים שממירים נתוני גיליונות לתכנים דיגיטליים ארוכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת מדריך דיגיטלי**
+  המרת נתוני גיליון אל קבצי MOBI למדריכים ניידים, קטלוגים או מסמכי רפרנס.
+
+* **מיחזור תוכן**
+  המרת מידע XLS לפורמטים דיגיטליים המיועדים לקריאה, למען נגישות רחבה יותר.
+
+* **העברת מידע מובנית**
+  הצגת תוכן מבוסס גיליון בפורמט המתאים לתהליכי עבודה תואמי קוראי‑ספרים אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פרסום ספרים אלקטרוניים אוטומטי**
+  יצירת קבצי MOBI ממקורות XLS כחלק מצינורות פרסום דיגיטלי.
+
+* **המרת תוכן במקבץ**
+  שימוש ב‑API‑ים של Python כדי להמיר מספר גיליונות לקבצים ניידים לקריאה.
+
+* **הפצה רב‑ערוצית**
+  הזנת תוכן גיליון למערכות אוטומטיות שמכינות קבצים לצריכה דיגיטלית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

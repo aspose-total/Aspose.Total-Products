@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT до ODP конвертація у Python API перетворює шаблони текстових документів OpenDocument у презентаційні документи, дозволяючи перепрофілювати письмовий вміст для слайд‑орієнтованої комунікації та структурованої візуальної подачі. Це корисно для перетворення наративного або звітного матеріалу у готовий до презентації контент.
+
+Конвертація підтримує автоматизацію, дозволяючи багаторазово генерувати презентації з шаблонів, зменшуючи ручну підготовку слайдів і підвищуючи послідовність у процесах звітування та комунікації.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **Генерація презентацій**  
+  Перетворює шаблони, орієнтовані на текст, у редаговані слайд‑документи.
+
+* **Перепрофілювання контенту**  
+  Повторно використовує матеріал документу для зустрічей, брифінгів або підсумків.
+
+* **Вивід слайдів у відкритому форматі**  
+  Підтримує робочі процеси презентацій на основі відкритих стандартів документів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **Автоматичне створення набору слайдів**  
+  Створює ODP‑презентації з повторюваного OTT‑контенту.
+
+* **Інтеграція у процес звітування**  
+  Перетворює структурований текст у слайди для запланованих оновлень.
+
+* **Презентація за шаблоном**  
+  Стандартизує генерацію презентацій у командах або процесах.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

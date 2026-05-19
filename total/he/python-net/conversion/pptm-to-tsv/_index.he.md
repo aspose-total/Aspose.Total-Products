@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+PPTM ל-TSV המרה עם API של Python ממירה נתוני מצגות עם מקרו לפורמט טקסט מופרד בטאבים המותאם להחלפת נתונים מובנית פשוטה. זה בעל ערך כאשר טבלאות שקופיות או רשומות שהוצאו חייבות להיות מועברות למערכות שמעדיפות פורמטים של טקסט פשוט מבוססי מפריד.
+
+ההמרה מתאימה היטב לאוטומציה מכיוון שקבצי TSV קלים ליצירה, ניתוח, אימות וייבוא לתוך ניתוחים או זרימות עבודה של ETL. היא מסייעת לפשט את תנועת הנתונים ממקורות מצגות למערכות משנית ללא עומס עיצוב כבד.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא נתונים מובנה**
+  ממירה נתוני שקופיות לפורמט טקסט פשוט מונחה עמודות לעיבוד.
+
+* **החלפת נתונים מערכת-למערכת**
+  עושה את הנתונים המופקים מהמצגת קלים יותר להעברה בין סקריפטים ויישומים.
+
+* **שימור נתונים קל משקל**
+  מאחסנת תוכן טבלאות שהוצאו בצורה קומפקטית וקריאה למכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קלט ETL**
+  מייצרת קבצי TSV מהמצגות לצריכה אוטומטית בצינורות נתונים.
+
+* **המרת נתונים בכמות גדולה**
+  תומכת ביצוא בקנה מידה גדול של נתוני מצגות לפלט טקסט מבוסס מפריד.
+
+* **זרימות עבודה של אימות וניתוח**
+  מאפשרת עיבוד אוטומטי יעיל של רשומות מומרות בין מערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

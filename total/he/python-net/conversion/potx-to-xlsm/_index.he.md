@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTX ל‑XLSM עם ממשקי Python ממירה תוכן תבנית PowerPoint לקבצי גיליון אלקטרוני עם מקרו לצרכי זרימות עבודה מתקדמות של עיבוד נתונים. זה שימושי כאשר פלטי הגיליון המומר צריכים לתמוך באוטומציה משובצת, בנוסחאות או בהתנהגות מותאמת של חוברת העבודה.
+
+בסביבות אוטומטיות, המרת POTX ל‑XLSM מסייעת לחבר תבניות מצגות עם תהליכי גיליון אלקטרוני חכמים. היא תומכת ביצירת פלטי חוברות עבודה בקנה מידה שמאחדים נתונים מובנים עם פונקציונליות מתקדמת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת גיליון אלקטרוני עם מקרו**
+  מייצר פלטי גיליון אלקטרוני שיכולים לתמוך בלוגיקה ופעולות אוטומטיות של חוברת העבודה.
+
+* **תמיכה בתהליכי נתונים מתקדמים**
+  עוזר להרחיב תוכן שמקורו במצגת לסביבות גיליון אלקטרוני ניתנות לתכנות.
+
+* **קבצים תפעוליים ניתנים לשימוש חוזר**
+  תומך בתהליכים עסקיים חוזרים המתבססים על התנהגות חכמה של חוברת העבודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת חוברת עבודה תכנותית**
+  מאפשר אוטומציה של יצירת קבצי XLSM מתבניות POTX למשימות גיליון אלקטרוני מתקדמות.
+
+* **צינורות אוטומציה משולבים**
+  מחבר תהליכי המרה עם שלבי עיבוד של גיליון אלקטרוני עם מקרו.
+
+* **פעולות עסקיות ניתנות לחזרה**
+  תומך ביצירה חוזרת של גיליונות אלקטרוניים פונקציונליים ממקורות מבוססי מצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,47 @@ Chúng tôi sử dụng API [Aspose.Words for Python via .NET](https://products.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi Word sang hình ảnh bằng các API Python biến các trang tài liệu thành các tệp hình ảnh để xem trước, chia sẻ, xuất bản và lưu trữ hình ảnh. Điều này hữu ích khi nội dung tài liệu cần được hiển thị nhất quán trên các nền tảng mà không cần phần mềm chỉnh sửa tài liệu.
+
+Để tự động hoá và mở rộng, quá trình chuyển đổi này hỗ trợ các pipeline render tài liệu tạo ra các hình thu nhỏ, bản xem trước, tài sản web và các bản ghi dựa trên hình ảnh cho hệ thống quản lý nội dung và phân phối.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo bản xem trước tài liệu**
+  Chuyển các trang thành hình ảnh để xem nhanh trong các cổng thông tin, ứng dụng và kho lưu trữ.
+
+* **Lưu trữ hình ảnh**
+  Bảo tồn giao diện nội dung dưới dạng hình ảnh tĩnh để tham khảo và lưu trữ.
+
+* **Xuất bản trên web và di động**
+  Giúp các trang tài liệu dễ dàng hiển thị trong môi trường tối ưu cho hình ảnh.
+
+* **Chia sẻ trình bày và đánh giá**
+  Đơn giản hoá việc phân phối khi người nhận chỉ cần xem, không cần chỉnh sửa, nội dung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Pipeline tạo hình thu nhỏ**
+  Tự động render các trang tài liệu thành hình ảnh xem trước cho giao diện tìm kiếm và duyệt.
+
+* **Render hàng loạt các trang**
+  Chuyển đổi số lượng lớn tệp Word thành các bộ hình ảnh cho quy trình lưu trữ hoặc xuất bản.
+
+* **Ảnh chụp nhanh quy trình phê duyệt**
+  Tạo ra các phiên bản hình ảnh cố định của tài liệu cho các điểm kiểm tra đánh giá và hồ sơ tuân thủ.
+
+* **Tối ưu hoá phân phối nội dung**
+  Sử dụng đầu ra hình ảnh trong các dịch vụ web và pipeline tự động hoá cần truy cập hình ảnh nhanh.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

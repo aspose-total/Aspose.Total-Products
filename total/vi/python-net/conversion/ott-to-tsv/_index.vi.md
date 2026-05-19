@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to TSV conversion in Python APIs converts OpenDocument text templates into tab-separated values for clean, lightweight, structured data exchange. This is useful when template-based content must be moved into systems that prefer simple, text-based tabular output.
+
+The conversion improves automation by enabling easy parsing, transformation, and loading into workflows that value minimal overhead, portability, and reliable delimiter-based structure.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Xuất dữ liệu có dấu phân cách**  
+  Chuyển đổi nội dung tài liệu thành đầu ra tách tab có cấu trúc.
+
+* **Định dạng thân thiện với pipeline**  
+  Hỗ trợ các hệ thống xử lý các bảng dựa trên văn bản nhẹ.
+
+* **Chuẩn bị dữ liệu**  
+  Giúp nội dung đã trích xuất dễ dàng nhập vào các công cụ phân tích hoặc vận hành.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Chuyển đổi bảng hàng loạt**  
+  Tạo các tệp TSV từ các mẫu OTT ở quy mô lớn.
+
+* **Cung cấp cho quy trình ETL**  
+  Gửi dữ liệu xuất phát từ tài liệu vào các pipeline phân tích và chuyển đổi.
+
+* **Xuất dữ liệu có cấu trúc theo lịch**  
+  Hỗ trợ việc tạo định kỳ các bộ dữ liệu máy đọc đơn giản.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

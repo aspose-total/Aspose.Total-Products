@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi PST sang MD trong các API Python chuyển nội dung hộp thư thành Markdown, giúp việc giao tiếp đã lưu trữ dễ dàng hơn trong việc cấu trúc, xuất bản và tái sử dụng trong các quy trình làm việc ưu tiên văn bản. Điều này hữu ích khi các bản ghi email cần được biến đổi thành nội dung nhẹ, dễ đọc cho tài liệu hoặc chia sẻ kiến thức.
+
+Trong các kịch bản tự động, chuyển đổi PST sang MD hỗ trợ các đường ống nội dung, kho lưu trữ thân thiện với nhà phát triển và hệ thống xuất bản tĩnh. Nó giúp dữ liệu hộp thư dễ dàng hơn trong việc quản lý phiên bản, chuyển đổi và tích hợp với các hoạt động nội dung hiện đại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Xuất nội dung nhẹ**
+  Chuyển đổi nội dung PST sang Markdown cho các quy trình làm việc văn bản dễ đọc và di động.
+
+* **Chuẩn bị cơ sở kiến thức**
+  Hỗ trợ tái sử dụng tài liệu xuất phát từ email thành tài liệu có cấu trúc.
+
+* **Lưu trữ thân thiện với phiên bản**
+  Cho phép lưu trữ nội dung hộp thư ở định dạng văn bản phù hợp cho việc theo dõi thay đổi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động hoá" %}}
+
+* **Đường ống nội dung tĩnh**
+  Hệ thống tự động có thể biến dữ liệu hộp thư thành Markdown để xuất bản hoặc lập chỉ mục.
+
+* **Tài liệu dựa trên kho lưu trữ**
+  Nội dung đã chuyển đổi có thể chảy vào môi trường tập trung vào văn bản để cộng tác và tái sử dụng.
+
+* **Biến đổi nội dung theo chương trình**
+  Đầu ra Markdown giúp dễ dàng xử lý, tạo mẫu và phân phối các email đã lưu trữ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

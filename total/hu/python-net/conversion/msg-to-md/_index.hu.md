@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MSG-t hozzáadni MD-konverziós funk
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az MSG‑MD átalakítás e‑mail üzeneteket konvertál Markdown formátumba a tiszta, könnyű és hordozható szöveges dokumentáció érdekében. Különösen hasznos, ha az e‑mail tartalmat újra kell használni tudásbázisokban, fejlesztői dokumentációban vagy tartalomkiadási munkafolyamatokban.
+
+Az automatizálási csővezetékekben az MSG‑MD átalakítás támogatja a verziókezelésű dokumentációt, a tartalom normalizálását és az egyszerűsített szövegfeldolgozást. Segít áthidalni az e‑mail kommunikációt a modern tartalomműveletekkel és kiadási rendszerekkel.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Tudásbázis integráció**  
+  E‑mail üzenetek konvertálása Markdown formátumba a strukturált belső dokumentációhoz.
+
+* **Fejlesztőbarát tartalomújrahasználat**  
+  Az üzenet szövegének megőrzése olyan formátumban, amely alkalmas tárolók és dokumentációs rendszerek számára.
+
+* **Könnyű kiadási előkészítés**  
+  Az e‑mailből származó tartalom előkészítése statikus weboldalak vagy tartalommunka‑folyamatok használatához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Dokumentációs csővezeték automatizálása**  
+  MSG fájlok átalakítása Markdown formátumba automatizált kiadáshoz vagy indexeléshez.
+
+* **Tárolóalapú tartalomkezelés**  
+  A konvertált e‑mail tartalom tárolása verziókezelésű dokumentációs munkafolyamatokban.
+
+* **Szövegnormalizációs folyamatok**  
+  A bejövő kommunikáció szabványosítása könnyű, gépbarát szöveges tartalommá.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

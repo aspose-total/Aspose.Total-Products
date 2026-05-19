@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑MHTML ממירה את תוכן המסמך לפורמט ארכיון אינטרנטי המשלב סימון ומשאבים קשורים לקובץ יחיד. זה שימושי לשימור תוכן המסמך בייצוג ידידותי לדפדפן, עצמאי.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת WordML ל‑MHTML כדי לתמוך בארכוב אינטרנטי, יצירת תצוגות מקדימות, וניידות תוכן בין מערכות מבוססות מסמכים ודפדפנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ייצוא ארכיון אינטרנטי**
+  ממיר מסמכי WordML לקבצי MHTML עצמיים ידידותיים לאינטרנט.
+
+* **שימור תוכן נייד**
+  שומר על תוכן מעוצב ואלמנטים קשורים יחד בפורמט ארכיון יחיד.
+
+* **גישה ממוקדת דפדפן**
+  מקל על סקירת מידע המסמך בסביבות תואמות אינטרנט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אריזת אינטרנט אוטומטית**
+  ממיר קבוצות מסמכים ל‑MHTML לצורכי ארכוב או זרימות עבודה של סקירה.
+
+* **צינורות אספקת תצוגה מקדימה**
+  תומך בגישה למסמכי דפדפן ללא תלות בכלי עריכה מקוריים.
+
+* **משימות ניידות תוכן**
+  מאפשר שיתוף עקבי של תוכן מסמך מעוצב בין מערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PST ל‑WordML ב‑APIs של Python ממירה את תוכן תיבת הדואר לייצוג Word מבוסס XML התומך בעיבוד מובנה ובאינטרופרביליות של מסמכים. היא שימושית בתהליכי עבודה טכניים שבהם יש לשמר תוכן שמקורו במייל בפורמט מבוסס סימון לצורך שינוי או אינטגרציה.
+
+לצורך אוטומציה, המרת PST ל‑WordML מסייעת לחבר ארכיוני תיבות דואר עם מערכות מסמכים מונעות XML וצינורות עיבוד מבוססי כללים. היא תומכת במניפולציה, בדיקה והחלפת תוכן מסמכים מובנה בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **ייצוג מסמך XML**
+  ממירה את תוכן ה‑PST ל‑WordML לטיפול במסמכים מובנים.
+
+* **החלפת תוכן אינטרופרבילית**
+  מסייעת להעביר קבצים שמקורם בתיבת הדואר דרך מערכות ותהליכי עבודה מבוססי סימון.
+
+* **מבנה מסמך ניתן לבחינה**
+  תומכת בתהליכים טכניים המרוויחים מסימון מסמך קריא.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **שילוב זרימת עבודה XML**
+  מערכות אוטומטיות יכולות לעבד את פלט ה‑WordML לאימות או משימות שינוי.
+
+* **צינורות מסמכים מובנים**
+  נתוני תיבת הדואר המומרים יכולים לזרום לתהליכים ארגוניים ממוקדי סימון.
+
+* **מניפולציית תוכן תכנותית**
+  WordML מאפשרת שינוי בקנה מידה של מסמכים שמקורם במייל באמצעות קוד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

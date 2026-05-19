@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLT ל-RTF בפייתון מאפשרת להפוך קבצי תבניות Excel למסמכי טקסט עשיר התואמים באופן רחב וקלים להחלפה בין סביבות מסמך שונות. זה שימושי כאשר תוכן מבוסס גיליון צריך להיות מומר לפורמט טקסט קל משקל המשמר עיצוב בסיסי תוך שמירה על ניידות גבוהה.
+
+במקרים של אוטומציה, המרת XLT ל-RTF תומכת ביצירת מסמכים יעילה ובאינטרופרטיביות רחבה. היא מסייעת למערכות מבוססות פייתון להפוך תבניות גיליון מובנות לפלטי טקסט מעוצבים שניתן לשתף, לארכיב או לעבד על ידי מגוון יישומים משניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמך פורמט נייד**  
+  המרת תבניות XLT לקבצי RTF לשיתוף קל ושימור עיצוב בסיסי.
+
+* **החלפת תוכן קלה**  
+  השתמש בפלטי RTF כאשר התאימות בין מספר כלי מסמכים חשובה.
+
+* **המרת מידע מובנה**  
+  הפוך תוכן תבנית גיליון למסמכי טקסט עשיר קריאים לשימוש תפעולי.
+
+* **תמיכה בארכיון ובסקירה**  
+  הכן קבצי טקסט מעוצבים המתאימים לסקירה, אחסון והחלפת מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **נרמול פורמט אוטומטי**  
+  השתמש ב-APIs של פייתון כדי להמיר קבצי XLT ל-RTF לעיבוד משני מתוקנן.
+
+* **מסירת מסמכים בין-מערכתית**  
+  צור פלטי RTF לתהליכי עבודה שמעבירים מסמכים בין סביבות תוכנה שונות.
+
+* **פעולות המרה במקבץ**  
+  עבד מספר תבניות XLT לקבצי טקסט עשיר ללא עבודה ידנית של עיצוב.
+
+* **צינורות החלפת מסמכים**  
+  שלב המרת RTF במערכות אוטומטיות לסקירה, ייצוא או טיפול בארכיון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

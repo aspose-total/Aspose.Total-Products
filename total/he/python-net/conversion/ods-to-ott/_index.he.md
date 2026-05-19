@@ -104,7 +104,51 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to OTT conversion converts spreadsheet files into OpenDocument text templates. These templates enable reusable document structures that can be used for consistent document generation.
+
+המרת ODS ל‑OTT ממירה קבצי גיליון לתבניות טקסט של OpenDocument. תבניות אלו מאפשרות מבני מסמכים ניתנים לשימוש חוזר שניתן להשתמש בהם ליצירת מסמכים עקבית.
+
+Python APIs allow developers to automate the creation of template documents from spreadsheet content. This supports scalable document workflows and efficient template management across systems.
+
+ממשקי API של Python מאפשרים למפתחים לאוטומט את יצירת מסמכי תבנית מתוכן גיליון. זה תומך בתהליכי עבודה של מסמכים בקנה מידה רחב ובניהול תבניות יעיל במערכות שונות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית ניתנת לשימוש חוזר**  
+  המרת מבני גיליון לתבניות מסמך ניתנות לשימוש חוזר.
+
+* **אחידות מסמכים**  
+  הבטחת פורמט מסמך עקבי באמצעות תהליכי עבודה מבוססי תבניות.
+
+* **מבנה תוכן**  
+  המרת מידע טבלאי מגיליון למסמכים מוכנים לתבנית.
+
+* **ניהול תבניות Open Document**  
+  שמירת תבניות מתוקננות המופקות מנתוני גיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבנית אוטומטית**  
+  תהליכי עבודה ב‑Python יוצרים תבניות מסמך מקלטי גיליון.
+
+* **עיבוד תבניות במקבץ**  
+  מערכות ממירות קבצי ODS מרובים לתבניות מסמך ניתנות לשימוש חוזר.
+
+* **מערכות מסמכים דינמיות**  
+  תהליכי עבודה מבוססי תבניות מייצרים מסמכים באופן תכנותי.
+
+* **שילוב תבניות בתהליכי עבודה**  
+  תבניות המופקות מגיליונות תומכות ביצירת מסמכים אוטומטית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

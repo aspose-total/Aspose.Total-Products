@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑VCF ממירה את תוכן תבנית ה‑Word לפורמט כרטיס קשר המשמש לאחסון ושיתוף של מידע קשר אישי או ארגוני. היא שימושית כאשר תבניות מכילות פרטי קשר מובנים שיש צורך להשתמש בהם מחדש במערכות תקשורת.
+
+באמצעות API‑ים של Python, המרה זו תומכת באוטומציה על‑ידי אפשרות לחילוץ קשרים, יצירת ספר כתובות דיגיטלי, וסינכרון בר‑קנה מידה של רשומות קשר מבוססות מסמך.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ מידע קשר**
+  המרת פרטי קשר מובנים מתבניות לכרטיסים דיגיטליים שניתן להשתמש בהם מחדש.
+
+* **הכנת מדריך**
+  בניית רשומות קשר ניידות ממידע מבוסס מסמך.
+
+* **שילוב במערכת תקשורת**
+  שימוש חוזר בתוכן התבנית בספרי כתובות ובזרימות עבודה של שיתוף קשרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קשרים אוטומטית**
+  יצירת קבצי VCF מתבניות DOTX לתהליכי קבלה או מדריכים.
+
+* **ייצוא קשרים בכמות**
+  המרת רשומות מבוססות מסמך חוזרות לכרטיסי קשר שניתן לשתף.
+
+* **זרימות עבודה של קשרים מסונכרנות**
+  הזנת נתוני קשרים שהומרו למערכות תקשורת ו‑CRM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

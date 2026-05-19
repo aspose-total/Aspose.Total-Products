@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑XLS ממירה תוכן Word לפורמט גיליון אלקטרוני המשמש לביקורת מובנית, חישובים ודיווח תפעולי. היא חשובה כאשר טבלאות ורשומות מבוססות מסמך צריכות להפוך לנתוני גיליון אלקטרוני שניתן לערוך.
+
+שימוש ב‑APIs של Python להמרת DOC ל‑XLS משפר יעילות, תומך בחילוץ חוזר, ועוזר לשלב את תוכן המסמך בתהליכי עבודה עסקיים המתמקדים בגיליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **המרת נתוני גיליון אלקטרוני**
+  הפוך טבלאות מסמך לקבצי XLS לעריכה וניתוח.
+
+* **דיווח וביקורת**
+  הכן תוכן שמקורו במסמך למשימות דיווח מבוססות גיליון אלקטרוני.
+
+* **תאימות לגיליונות אלקטרוניים מדור קודם**
+  השתמש בפלט XLS במקומות שבהם סביבות גיליון אלקטרוני ישנות עדיין פעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא גיליון אלקטרוני אוטומטי**
+  המר קבצי DOC ל‑XLS כחלק מתהליכי עבודה תפעוליים חוזרים.
+
+* **הכנת נתונים במאצ'**
+  חילוץ מובנה של נתונים מהמסמכים לתצורת גיליון אלקטרוני באופן תכנותי.
+
+* **צינורות אינטגרציה מערכתיים**
+  הזנת פלטים תואמי גיליון אלקטרוני לתוך מערכות אנליטיקה, כספים או תכנון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

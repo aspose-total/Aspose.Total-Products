@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑XLTM ממירה תבניות Word עם מקרו לתבניות Excel עם מקרו לקבצי תבנית שניתן להשתמש בהם מחדש וידידותיים לאוטומציה בתהליכי גיליון אלקטרוני. זה בעל ערך כאשר תבניות גיליון אלקטרוני חוזרות נדרשות עם יכולות מתקדמות תוך כדי יצירתן ממקורות מבוססי מסמך.
+
+שימוש בממשקי API של Python להמרת DOTM ל‑XLTM תומך באוטומציה ניתנת להרחבה על‑ידי הפיכת תבניות מסמך מובנות לתבניות חוברת עבודה שניתן להשתמש בהן מחדש עם התנהגות גיליון אלקטרוני מתקדמת. זה מסייע לתקנון תהליכים ולייעול יצירת גיליונות אלקטרוניים חוזרת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **תבניות גיליון אלקטרוני עם מקרו**
+  המרת קבצי DOTM ל‑XLTM לתבניות חוברת עבודה שניתן להשתמש בהן מחדש עם פונקציונליות מתקדמת.
+
+* **עיצוב חוברת עבודה מתקדמת חוזרת**
+  הפיכת מבנה המסמך לתבניות גיליון אלקטרוני המתאימות לפעולות חוזרות.
+
+* **נכסי אוטומציה מתוקננים**
+  יצירת יסודות חוברת עבודה עקביים שניתן להשתמש בהם מחדש מתבניות מסמך מאושרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבנית מתקדמת אוטומטית**
+  תהליכי עבודה יכולים לייצר קבצי XLTM מתבניות DOTM ליצירת גיליונות אלקטרוניים חוזרים.
+
+* **צינורות אוטומציה של גיליון אלקטרוני שניתן להשתמש בהם מחדש**
+  ההמרה תומכת ביצירת תבניות חוברת עבודה מתקדמות בקנה מידה נרחב ממסמכים.
+
+* **ייצור תבניות במצב אצווה**
+  עיבוד תכנותי מאפשר שינוי יעיל של קבצי DOTM רבים לפלטי XLTM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

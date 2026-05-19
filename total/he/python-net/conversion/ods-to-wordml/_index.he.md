@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to WORDML conversion converts spreadsheet files into WordprocessingML, an XML-based document format used for structured document representation. This enables spreadsheet data to be represented in machine-readable document structures.
+
+Python APIs allow automated generation of WordprocessingML documents from spreadsheet inputs. This supports scalable document processing, data transformation pipelines, and integration with structured document workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמכים מובנים**  
+  המרת נתוני גיליון למסמכי XML מבוססי מבנה.
+
+* **תאימות נתונים**  
+  הפיכת פורמטים של מסמכים לקריאה על ידי מכונה שמקורם בגיליונות.
+
+* **צינורות עיבוד מסמכים**  
+  אינטגרציית תוכן הגיליון לתוך זרימות עבודה של מסמכי XML.
+
+* **המרת תוכן**  
+  המרת מידע טבלאי מגיליון לנתוני מסמכים מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמכים תכנותית**  
+  מערכות Python מייצרות מסמכים מובנים ישירות מקלטי גיליון.
+
+* **המרת מסמכי XML במרוכז**  
+  צינורות אוטומטיים ממירים קבוצות גדולות של גיליונות ל‑WordprocessingML.
+
+* **זרימות אינטגרציית נתונים**  
+  מסמכים מובנים שנוצרו מגיליונות משולבים במערכות ארגוניות.
+
+* **המרת תוכן דינמית**  
+  צינורות תכנותיים ממירים מערכי נתוני גיליון לפורמטים של מסמכי XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

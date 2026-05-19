@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל-OTT באמצעות API של פייתון מאפשרת להמיר נתונים טבלאיים מובנים לתבניות טקסט של מסמכים פתוחים התומכות ביצירת מסמכים חוזרת וניתנת לאינטראופרטיביות.  
+המרה זו תומכת באוטומציה על ידי יצירת נכסי תבנית ניתנים לשימוש חוזר ממקורות CSV, משפרת את הסטנדרטיזציה, המהירות והיכולת להרחיב תהליכים בסביבות מסמכים פתוחים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית פתוחה**  
+  המרת נתוני CSV לתבניות OTT עבור מבני מסמכים ניתנים לשימוש חוזר בתהליכי עבודה בפורמט פתוח.
+
+* **מסגרות מסמכים סטנדרטיות**  
+  יצירת תבניות המסייעות לשמור על פריסות עקביות וארגון תוכן אחיד בין צוותים.
+
+* **הפצת תבניות אינטרופרטיביות**  
+  הפקת קבצי OTT לתהליכי עבודה המעריכים תקנים פתוחים ותאימות מסמכים גמישה.
+
+* **נכסי פרסום ניתנים לשימוש חוזר**  
+  המרת קלט CSV מובנה למשאבים מבוססי תבניות ליצירת מסמכים בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת תבניות אוטומטית**  
+  שימוש ב-API של פייתון ליצירת תבניות OTT ממערכי נתוני CSV לתהליכי תיעוד חוזרים.
+
+* **צינורות תוכן בפורמט פתוח**  
+  שילוב המרת CSV ל-OTT במערכות המכינות תבניות ניתנות לשימוש חוזר באופן אוטומטי.
+
+* **עיבוד תבניות בכמות גדולה**  
+  המרת קבצי CSV מרובים לתבניות OTT עם פורמט ומבנה עקביים.
+
+* **הרכבת תבניות דינמית**  
+  הרכבה תכנותית של תבניות OTT מתוכן CSV משתנה לתמיכה באוטומציה בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

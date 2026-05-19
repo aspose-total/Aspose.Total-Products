@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑TSV ממירה את תוכן תבנית Word לערכי מופרדים בטאבים לשיתוף נתונים מובנה וייבוא מפושט לגיליונות אלקטרוניים או כלי עיבוד. היא שימושית כאשר יש צורך לייצא תוכן מסמך טבלאי בפורמט טקסטואלי נקי.
+
+באמצעות ממשקי API של Python, המרה זו משפרת את האוטומציה על ידי אפשרות להחלפת נתונים מבוססת טקסט אמינה, עיבוד קל משקל, והמרה בקנה מידה גדול של תוכן מונע תבניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ייצוא נתונים בטקסט פשוט**
+  המרת תוכן מסמך מובנה לפורמט טבלאי קל משקל.
+
+* **תהליכי ייבוא לגיליון אלקטרוני**
+  הכנת מידע שמופק מתבנית לטעינה מהירה לכלי נתונים.
+
+* **החלפת נתונים ידידותית למערכת**
+  תמיכה בהעברת תוכן מובנה בין צינורות אוטומציה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **חילוץ נתונים מתוזמן**
+  המרת תבניות DOTX לקבצי TSV באופן אוטומטי עבור תהליכים חוזרים.
+
+* **הכנת ETL**
+  שימוש בפלט TSV כשכבת קלט לצינורות המרה אוטומטיים.
+
+* **המרה מבוססת טקסט ברמת נפח גבוהה**
+  עיבוד קבוצות גדולות של תבניות לפלטים מובנים קומפקטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

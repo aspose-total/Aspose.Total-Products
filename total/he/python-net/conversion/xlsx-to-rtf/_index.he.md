@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑RTF ממירה את תוכן הגיליון למסמכי טקסט עשיר המשמרים עיצוב קריא תוך שמירה על תאימות רחבה בין עורכי מסמכים. זה שימושי כאשר יש צורך לשתף נתוני גיליון בפורמט גמיש הממוקד בטקסט.
+
+אוטומציה של המרת XLSX ל‑RTF מסייעת לייעל תהליכי עבודה של מסמכים על ידי אפשרות לעיצוב עקבי, פישוט החלפת תוכן, ותמיכה בהמרה ניתנת להרחבה של נתוני גיליון למסמכי טקסט ניידים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **דיווח טקסט מעוצב**  
+  ממיר נתוני גיליון למסמכים קריאים המשמרים מבנה ועיצוב בסיסי.
+
+* **תאימות חוצת עורכים**  
+  הופך את התוכן המופק מהגיליון לקל יותר לפתיחה במגוון רחב של כלי עיבוד טקסט.
+
+* **פלט תיעוד קל**  
+  תומך ביצירת קבצים ממוקדי טקסט לשיתוף, ביקורת ולמטרות ארכיב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכי טקסט אוטומטית**  
+  מערכות יכולות להמיר קבצי גיליון לפלטי RTF עבור תהליכי דיווח חוזרים.
+
+* **תהליכי עבודה ניידים**  
+  המרה תומכת בתהליכי עבודה הדורשים אספקת מסמכי טקסט עשיר בתאימות רחבה.
+
+* **צינורות המרה במצב אצווה**  
+  המרה תכנותית מאפשרת יצירת קבצים מעוצבי טקסט בכמות גבוהה מקלטי גיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

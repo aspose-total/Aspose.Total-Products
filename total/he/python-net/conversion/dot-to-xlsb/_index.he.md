@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑XLSB ממירה תבניות מסמכים למחברות גיליון אלקטרוני בינאריות שהן יעילות לאחסון וביצועים בתהליכים כבדים בגיליונות אלקטרוניים. זה מועיל כאשר יצירת מחברות גדולות או חוזרות חייבת להישאר קומפקטית ומעשית.
+
+ממשקי API של Python תומכים ביצירת XLSB אוטומטית ממקורות DOT, ומאפשרים צינורות מסמך‑לגיליון אלקטרוני בקנה מידה עם טיפול יעיל בפלט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ייצוא מחברת קומפקטית**
+  המרת קבצי DOT ל‑XLSB לאחסון והפצה יעילים של גיליונות אלקטרוניים.
+
+* **טיפול בנתונים ממוקד ביצועים**
+  השתמשו במחברות בינאריות כאשר נדרשת יצירת גיליונות אלקטרוניים חוזרת או בקנה מידה גדול.
+
+* **מבנה תוכן תבנית**
+  השתמשו מחדש בתוכן המסמך כדי ליצור פלטי מחברות מותאמים לשימוש תפעולי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצור מחברת בינארית אוטומטית**
+  תהליכי עבודה ב‑Python יכולים לייצר קבצי XLSB מתבניות DOT בעבודות חוזרות.
+
+* **צינורות גיליון אלקטרוני בעומס גבוה**
+  ההמרה תומכת ביצירת פלט יעיל למאגרי מסמכים גדולים.
+
+* **אוטומציה של ייצוא נתונים בקנה מידה**
+  מערכות תכנותיות מסייעות לתקנן אספקת גיליונות אלקטרוניים קומפקטיים מתבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML sang VCF chuyển đổi thông tin liên hệ dạng tài liệu thành các tệp vCard có thể nhập vào hệ thống quản lý liên hệ. Điều này hữu ích khi tên, số điện thoại, địa chỉ hoặc các chi tiết liên quan được lưu trong tài liệu cần trở thành các bản ghi liên hệ tiêu chuẩn.
+
+Sử dụng các API Python, việc chuyển đổi WordML sang VCF có thể được tự động hoá để trích xuất các trường liên hệ liên quan và tạo ra các tệp vCard di động cho quy trình CRM, danh bạ và đồng bộ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Trích Xuất Bản Ghi Liên Hệ**
+  Chuyển đổi chi tiết liên hệ từ tài liệu WordML thành các tệp VCF có thể nhập.
+
+* **Hỗ Trợ Danh Bạ và CRM**
+  Giúp di chuyển dữ liệu liên hệ dạng tài liệu vào các hệ thống liên hệ có cấu trúc.
+
+* **Chia Sẻ Liên Hệ Di Động**
+  Cho phép trao đổi thông tin liên hệ tiêu chuẩn qua các nền tảng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Tạo Liên Hệ Hàng Loạt**
+  Tự động tạo VCF từ danh bạ, biểu mẫu hoặc danh sách liên hệ lưu trong WordML.
+
+* **Chuẩn Bị Dữ Liệu CRM**
+  Hỗ trợ nhập các bản ghi liên hệ tiêu chuẩn vào các hệ thống kinh doanh tự động.
+
+* **Kích Hoạt Quy Trình Đồng Bộ**
+  Chuyển đổi chi tiết liên hệ lưu trong tài liệu thành các tệp di động cho việc đồng bộ định kỳ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

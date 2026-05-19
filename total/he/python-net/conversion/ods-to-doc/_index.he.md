@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑DOC מאפשרת להמיר נתוני גיליון אלקטרוני השמורים בקבצי OpenDocument Spreadsheet למסמכי עיבוד תמלילים קלאסיים. תהליך זה מסייע להמיר טבלאות ונתונים מובנים לפורמטים קריאים של מסמכים המתאימים לדיווח, תיעוד והפצת תוכן.
+
+שימוש בממשקי API של Python להמרת ODS ל‑DOC מאפשר למפתחים לשלב המרת מסמכים בצינורות אוטומטיים. זה מאפשר עיבוד בר‑קנה מידה, המרות במרוכז ושילוב חלק עם מערכות ניהול מסמכים ותהליכי עבודה ארגוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח נתוני גיליון**  
+  המרת מערכי נתוני גיליון למסמכי דוח מעוצבים לצורך תיעוד ובדיקה.
+
+* **יצירת תיעוד עסקי**  
+  המרת גיליונות אלקטרוניים פיננסיים או תפעוליים מובנים למסמכי עיבוד תמלילים שניתן לערוך.
+
+* **הכנת מצגות נתונים**  
+  המרת מידע מגיליון לפורמט מסמך המתאים לשיתוף או פרסום.
+
+* **ארכוב תוכן**  
+  שמירת תוכן הגיליון בפורמטים של מסמכים הנתמכים באופן רחב לאחסון ארוך טווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת דוחות אוטומטית**  
+  סקריפטים ב‑Python ממירים מערכי נתוני גיליון לקבצי DOC כחלק מתהליכי דיווח מתוזמנים.
+
+* **עיבוד מסמכים במרוכז**  
+  צינורות אוטומטיים מעבדים קבוצות גדולות של קבצי ODS וממירים אותם למסמכי עיבוד תמלילים.
+
+* **המרת תוכן דינמי**  
+  מערכות תכנותיות ממירות תוכן גיליון למסמכים מובנים באופן אוטומטי.
+
+* **שילוב בתהליכי עבודה של מסמכים**  
+  שירותי המרה משולבים עם מערכות ניהול מסמכים כדי לאחד פורמטים של פלט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

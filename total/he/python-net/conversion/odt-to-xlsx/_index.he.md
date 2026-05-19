@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑XLSX ממירה תוכן של OpenDocument Text לפורמט גיליון אלקטרוני מודרני המשמש נרחבות לבחינת נתונים, דיווח ושיתוף פעולה. היא אידיאלית כאשר תוכן המסמך כולל טבלאות, רשומות או רשימות מובנות שצריך להפוך לעריכות ולניתוח.
+
+בזרימות עבודה של אוטומציה, המרת ODT ל‑XLSX מאפשרת חילוץ יעיל של נתוני מסמכים לפורמט גיליון אלקטרוני רב‑תכליתי. ממשקי API של Python תומכים בהמרה בקנה מידה, באימות ובשילוב במערכות מודרניות מונעות נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא גיליון אלקטרוני מודרני**  
+  ממירה את תוכן המסמך לפורמט חוברת עבודה המשמש נרחבות.
+
+* **מוכנות לניתוח נתונים**  
+  הופכת את המידע המוחלץ לקל יותר למיון, סינון ועיבוד.
+
+* **סקירה שיתופית**  
+  תומכת בעריכה קבוצתית ובבדיקה מובנית של הנתונים המומרים.
+
+* **תאימות זרימת עבודה**  
+  מחברת מאגרי מסמכים עם תהליכים מונעי‑גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרת טבלה לחוברת עבודה באופן אוטומטי**  
+  זרימות עבודה ב‑Python יכולות לחלץ טבלאות מסמך ולייצא אותן כקבצי XLSX.
+
+* **צינורות דיווח באצווה**  
+  ניתן להמיר קבצי ODT מרובים לגיליונות אלקטרוניים לניתוח מחזורי.
+
+* **ניקוי וארגון נתונים**  
+  כללים אוטומטיים יכולים להכין ערכים מוחלצים לפני יצירת חוברת העבודה.
+
+* **אינטגרציה בין‑מערכתית**  
+  פלטי XLSX המומרים יכולים לזרום לאחסון, דיווח או כלי תהליכי עסק.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

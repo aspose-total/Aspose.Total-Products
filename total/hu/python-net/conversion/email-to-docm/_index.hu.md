@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál EMAIL-t hozzáadni DOCM-konverziós 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az e-mail DOCM formátumba történő átalakítása Pythonban lehetővé teszi, hogy üzeneteket makrókkal ellátott Word-dokumentumokká konvertáljunk fejlett dokumentumfolyamatokhoz. Ez a formátum akkor hasznos, amikor a konvertált e-mail tartalmat olyan környezetekbe kell bevinni, amelyek beágyazott automatizációra vagy dokumentum‑szkriptelésre támaszkodnak.
+
+Erősíti az automatizációt azáltal, hogy az e-mailből származó dokumentumok integrálódhatnak a makrók által vezérelt felülvizsgálati, gazdagítási és dokumentumkezelési folyamatokba vállalati rendszerekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Makrókkal ellátott dokumentumfeldolgozás**
+  Konvertálja az e-maileket DOCM fájlokká olyan munkafolyamatokhoz, amelyek automatizált dokumentumműveletektől függenek.
+
+* **Strukturált felülvizsgálati műveletek**
+  Használja a konvertált üzeneteket ellenőrzött környezetekben, ahol a sablonok és makrók támogatják az érvényesítést vagy a formázást.
+
+* **Vállalati dokumentumcsővezetékek**
+  Helyezze be az e-mail tartalmat operatív fájlokba, amelyek lefolyóban szkriptelt viselkedést indítanak el.
+
+* **Folyamatstandardizálás**
+  Tartsa fenn a konzisztenciát, amikor az e-mailből származó dokumentumoknak meg kell egyezniük a makrókkal ellátott irodai munkafolyamatokkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Szkriptelt dokumentumgazdagítás**
+  Konvertálja az e-maileket DOCM formátumba, és alkalmazzon makrókat a metaadatok, fejlécek vagy osztályozások automatikus hozzáadásához.
+
+* **Munkafolyamat-alapú fájl előkészítés**
+  Táplálja az e-mail tartalmat makrókkal ellátott sablonokba belső feldolgozáshoz és irányításhoz.
+
+* **Automatizált rekordformázás**
+  Használjon dokumentum‑szkripteket az e-mailből származó tartalom nagy adattárakban történő szabványosításához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

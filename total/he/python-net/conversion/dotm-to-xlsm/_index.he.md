@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑XLSM ממירה תבניות Word עם מקרו לחוברות Excel עם מקרו לצורך אוטומציה מתקדמת של גיליונות עבודה וזרימות נתונים שניתן להשתמש בהן מחדש. זה שימושי כאשר יש להעביר תוכן מסמך לצורת גיליון תוך שמירה על תמיכה בהתנהגות חוברת עבודה דינמית יותר.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑XLSM מאפשר יצירה אוטומטית של חוברות עבודה מתקדמות מתבניות מובנות. זה משפר עקביות, תומך באוטומציה עסקית בקנה מידה, ועוזר לשלב תהליכים מונעי‑מסמך עם פעולות גיליונות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת חוברת עבודה עם מקרו**
+  המרת תוכן DOTM ל‑XLSM עבור תהליכי עבודה מתקדמים בגיליונות.
+
+* **אוטומציה ממסמך לגיליון**
+  שימוש חוזר בתוכן תבנית מובנית כדי ליצור חוברות עבודה ניתנות לשימוש חוזר לטיפול בנתונים.
+
+* **תמיכה בתהליכי עבודה תפעוליים**
+  הפעלת תהליכים עשירים המונעים על ידי גיליונות מתוך קלטים מבוססי מסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת חוברת עבודה מתקדמת באופן אוטומטי**
+  תהליכי עבודה יכולים ליצור קבצי XLSM מתבניות DOTM לעיבוד גיליונות דינמי.
+
+* **שילוב לוגיקת עסק**
+  ההמרה תומכת בצינורות אוטומטיים שמקשרים מסמכים עם שימוש בחוברות עבודה מתקדמות.
+
+* **ייצור חוברות עבודה במצב אצווה**
+  עיבוד תכנותי מאפשר שינוי בקנה מידה של קבצי DOTM ל‑XLSM באופן עקבי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

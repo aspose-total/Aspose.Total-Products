@@ -65,7 +65,41 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOCM‑TSV átalakítás makróval ellátott dokumentumokat tabulátorral elválasztott értékekké (TSV) konvertál, megkönnyítve a strukturált tartalom elemzését, átvitelét és újrahasznosítását az adatfolyamatok során. Különösen hasznos, ha a dokumentumtábláknak egyszerű, szöveges formátumra van szükségük, egyértelmű mezőelválasztással.
+
+Automatizálási környezetekben a DOCM‑TSV átalakítás megbízható adatcserét, a feldolgozási csővezetékekbe való beolvasást, valamint a dokumentumtartalom skálázható átalakítását könnyűsúlyú strukturált kimenetekké támogatja.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Táblák kinyerése feldolgozáshoz**
+  A dokumentumtáblákat egy adatfolyamatokhoz illeszkedő szöveges struktúrává alakítja.
+
+* **Könnyű adatcsere**
+  Támogatja a strukturált tartalom eszközök közötti átvitelét minimális formázási terheléssel.
+
+* **Import előkészítés**
+  Segít előkészíteni a dokumentumból származó rekordokat olyan rendszerek számára, amelyek elválasztott bemeneteket fogadnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Ismétlődő strukturált exportok**
+  Automatizálja a DOCM‑TSV átalakítást a folyamatos operatív munkafolyamatokhoz.
+
+* **Folyamatbarát adat-előkészítés**
+  Olyan kimeneteket állít elő, amelyeket könnyen lehet szkriptekben és integrációs feladatokban feldolgozni.
+
+* **Kötegelt átalakítási munkafolyamatok**
+  Programozott módon sok DOCM fájlt konvertál egységes TSV kimenetekké.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

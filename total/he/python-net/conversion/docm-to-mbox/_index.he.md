@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑MBOX ממירה מסמכים עם מקרו למוצר אחסון בסגנון תיבת דואר, מה שמקל על קיבוץ, ארכוב או העברה של תקשורת מבוססת מסמכים במערכות ממוקדות דואר. זה בעל ערך כאשר יש צורך לשמר את תוכן המסמך בתוך מאגרי הודעות משולבות.
+
+לצורך אוטומציה וקנה מידה, זרימות עבודה של המרת DOCM ל‑MBOX תומכות בארכוב קבוצתי, אריזת תקשורת והעברת תוכן שמקורו במסמכים למערכות שמירת נתונים ממוקדות תיבת דואר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ארכוב תיבת דואר**
+  שומר על תוכן שמקורו במסמכים בתוך קבצי מכולת תיבת דואר לאחסון ארוך טווח.
+
+* **אריזת איסוף הודעות**
+  תומך בקיבוץ תקשורות מומרות קשורות לקובץ מאוחד.
+
+* **תמיכה במיגרציה**
+  מסייע להעביר תוכן תקשורת מבוסס מסמכים לסביבות ארכיב דוא"ל.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הפקת ארכיב אוטומטית**
+  ממירה קבצי DOCM לפלטי MBOX עבור זרימות עבודה של שמירה מתוזמנות.
+
+* **הכנת מאגר דואר גורף**
+  אורזת תוכן שמקורו במסמכים לקבצי תיבת דואר על פני מערכי נתונים גדולים.
+
+* **צינורות אחסון פרוגרמטיים**
+  משלבת המרת מסמכים עם מערכות ארכיב ועמידה בתקנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML ל‑XLAM ממיר לוגיקה או נתונים מובנים שמקורם במסמך לתהליכי עבודה של גיליון אלקטרוני הקשורים לתוספים, שבהם נדרשת פונקציונליות ניתנת לשימוש חוזר ומשאבים ארוזים. זה בעל ערך במערכות אקוסיסטם של גיליונות אלקטרוניים מתקדמות התלויות בהרחבות מודולריות ונכסי אוטומציה חוזרים.
+
+Python APIs תומך בתהליכי עבודה הקשורים ל‑WordML ל‑XLAM על‑ידי הכנת תוכן מובנה לפתרונות גיליון אלקטרוני ממוקדי אוטומציה ועיבוד מסמכי מדרגי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת תוסף גיליון אלקטרוני**
+  משתמש בתוכן המסמך כקלט לתהליכי הרחבת גיליון אלקטרוני ניתנים לשימוש חוזר.
+
+* **תמיכה מתקדמת באוטומציה**
+  מסייע במבנה נכסי מסמך למערכות גיליון אלקטרוני מונעות פונקציות.
+
+* **אריזת לוגיקה ניתנת לשימוש חוזר**
+  תומך בהמרת תוכן חוזר למשאבים תואמי תוסף.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת נכסי אוטומציה**
+  משלב תוכן שמקורו ב‑WordML בצינורות הכנת תוספים.
+
+* **אריזת זרימת עבודה ניתנת לשימוש חוזר**
+  תומך בתהליכי המרה חוזרים לרכיבי אוטומציה של גיליון אלקטרוני מובנים.
+
+* **הפעלת גיליון אלקטרוני ארגוני**
+  מחבר מאגרי מסמכים עם תהליכי הרחבת גיליון אלקטרוני מתקדמים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

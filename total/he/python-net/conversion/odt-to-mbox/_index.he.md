@@ -102,7 +102,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODT ל-MBOX המרה משנה את תוכן המסמך לפורמט בסגנון תיבת דואר המתאים לאחסון הודעות מקובצות ולתהליכי ארכיון. זה שימושי כאשר יש צורך לארוז את טקסט המסמך לאחסון דומה לדוא"ל, למיגרציה או לאיחוד רשומות.
+
+באמצעות API של פייתון, המרת ODT ל-MBOX יכולה להשתלב בצינורות ארכיון ותקשורת אוטומטיים. היא תומכת בהמרה עקבית של תוכן המסמך למכולות ממוקדות הודעות לעיבוד המשכי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת ארכיון תיבת דואר**  
+  ממיר מסמכים לפורמט המתאים לאחסון הודעות מקובצות.
+
+* **אריזת רשומות תקשורת**  
+  עוזר לארגן תוכן שמקורו במסמך לצד ארכיונים המיועדים לדוא"ל.
+
+* **תמיכה במיגרציה**  
+  מאפשר העברת תוכן למאגרי הודעות.
+
+* **איחוד תוכן בכמות גדולה**  
+  מאפשר אחסון מקובץ של פריטים מרובים שהומרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **תהליכי יצירת ארכיון**  
+  משימות פייתון יכולות להמיר קבצי ODT מרובים לפלטים בסגנון תיבת דואר באופן אוטומטי.
+
+* **תמיכה בצינור שמירת נתונים**  
+  מערכות אוטומטיות יכולות לאחסן הודעות שמקורן במסמך בארכיונים ארוכי טווח.
+
+* **פעולות אריזת בכמות גדולה**  
+  אצוות גדולות של מסמכים יכולות להיות מקובצות לקבצי תיבת דואר ניתנים להעברה.
+
+* **אוטומציה של מיגרציית תוכן**  
+  צינורות המרה יכולים להכין רשומות למערכות המתבססות על מכולות תיבת דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

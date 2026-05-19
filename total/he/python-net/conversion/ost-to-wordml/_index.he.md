@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OST ל‑WordML ממירה את תוכן תיבת הדואר לסימון עיבוד תמלילים מבוסס XML, ומאפשרת ייצוג מובנה וקריא למכונה של מסמכים שמקורם במייל. זה שימושי למערכות הדורשות מבנה מסמך שקוף והתאמה ברמת הסימון.
+
+ממשקי API של Python מאפשרים אוטומציה של המרת OST ל‑WordML לתרחישי עיבוד מתקדמים, כולל שינוי, אימות ושילוב עם מערכות ממוקדות XML. זה משפר את הגמישות והשליטה בתהליכי עבודה של מסמכים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **סימון מסמך מובנה**  
+  ממיר נתוני תיבת דואר ל‑WordML לייצוג מסמך מבוסס XML.
+
+* **טיפול בתוכן קריא למכונה**  
+  תומך בתהליכי עבודה הדורשים סימון מסמך שניתן לבחינה ולהמרה.
+
+* **עיבוד מתואם**  
+  מסייע לשלב תוכן שמקורו במייל עם מערכות וכלים של תוכן מובנה.
+
+* **המרת מסמכים מתקדמת**  
+  מאפשר שליטה מפורטת על תוכן מומר בסביבות מונעות סימון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של זרימת עבודה ב‑XML**  
+  סקריפטים ב‑Python ממירים ארכיוני OST ל‑WordML לצינורות עיבוד מובנים.
+
+* **תהליכי המרת תוכן**  
+  מערכות אוטומטיות משנות סימון שמקורו בתיבת דואר לשילוב ולשימוש חוזר.
+
+* **צינורות אימות והחלפה**  
+  המרה תכנותית תומכת בחילופי מסמכים מובנים בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

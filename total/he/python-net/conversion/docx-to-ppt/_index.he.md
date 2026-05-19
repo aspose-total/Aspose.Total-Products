@@ -104,7 +104,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ל‑PPT ממיר מסמכי עיבוד תמלילים לקבצי מצגות לצורך סיפור חזותי, דיווח ותקשורת שיתופית. המרה זו מסייעת לשימוש חוזר בתוכן טקסטואלי בפורמט המיועד להצגה מבוססת שקופיות.
+
+באמצעות API‑ים של Python, ניתן לשלב המרת DOCX‑ל‑PPT בצינורות תוכן אוטומטיים, במערכות מצגות ארגוניות ובתהליכי פרסום חינוכיים. היא מאפשרת יצירת מצגות עקבית וניתנת להרחבה ממקורות כתובים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פיתוח מצגות ממסמכים**  
+  ממיר קבצי DOCX לחבילות מצגות לשימוש עסקי, הדרכה או חינוך.
+
+* **שימוש חוזר בתוכן לתקשורת חזותית**  
+  עוזר להפוך חומר כתוב למצגות ידידותיות לקהל.
+
+* **תהליכי עבודה של דוח לשקופיות**  
+  מאפשר לדוחות מבוססי מסמך להיות משומשים מחדש בסביבות מצגות.
+
+* **תאימות מצגות מדור קודם**  
+  תומך בתהליכי עבודה הדורשים פורמטים קלאסיים של מצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא אוטומטי של חבילת שקופיות**  
+  מערכות יכולות להמיר דוחות DOCX לקבצי PPT באופן אוטומטי.
+
+* **יצירת מצגות במרוכז**  
+  סקריפטים ב‑Python יכולים ליצור קבצי מצגות מאוספי מסמכים גדולים.
+
+* **המרת תוכן ארגונית**  
+  תוכן המסמך יכול להיות משומש מחדש בתכנות לחומרי מצגות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

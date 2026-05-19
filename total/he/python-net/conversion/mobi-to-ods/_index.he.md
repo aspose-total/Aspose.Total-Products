@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MOBI ל-ODS בפייתון מאפשרת להפוך תוכן שמקורו באיבוק לפורמט גיליון אלקטרוני פתוח המתאים לניתוח, שימוש חוזר ועריכה שיתופית. זה שימושי עבור ארגונים שמעדיפים תקנים פתוחים ועדיין זקוקים לפונקציונליות של גיליון אלקטרוני מובנה.
+
+מנקודת מבט של אוטומציה, המרת MOBI ל-ODS תומכת בתהליכי עבודה פתוחים בקנה מידה, באינטראופרביליות חסכונית ועלויות, ובשגרות ייצוא תכנותיות. היא מסייעת לצוותים להפוך קבצי פרסום מקוריים לנכסים מובנים שמשתלבים בצורה חלקה עם מערכות משרד ונתונים אוטומטיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **פלט גיליון אלקטרוני בתקן פתוח**
+  המרת קבצי MOBI ל-ODS לעריכה וניתוח מובנים בסביבות מסמכים פתוחות.
+
+* **ארגון תוכן לצוותים**
+  הכנת מידע שהוצא מאיבוק בפורמט גיליון אלקטרוני שיתופי לשימוש תפעולי.
+
+* **אריזת נתונים לשימוש חוזר**
+  מסירת תוכן בפורמט שניתן להשתמש בו מחדש בפלטפורמות קוד פתוח ובפלטפורמות מבוססות תקנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא מסמכים פתוחים אוטומטי**
+  יצירת קבצי ODS מקלטי MOBI בתוך משימות עיבוד תוכן מתוזמנות.
+
+* **אינטגרציית תהליכי עבודה חוצי פלטפורמות**
+  הזנת פלטי גיליון אלקטרוני מומר למערכות המתבססות על תקני מסמכי משרד פתוחים.
+
+* **ארגון תוכן חוזר**
+  שימוש באוטומציה של פייתון כדי להפוך באופן עקבי תוכן איבוק לקבצים פתוחים מוכנים לגיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

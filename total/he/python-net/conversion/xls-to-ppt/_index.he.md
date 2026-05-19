@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑PPT ממירה נתוני גיליון אלקטרוני לקבצי מצגת ניתנים לעריכה התומכים בתקשורת חזותית, שיתוף ניתוח והכנת פגישות. זה שימושי כאשר נתוני עסק צריכים לעבור מצורה טבלאית לפורמט מבוסס שקופיות להבנה רחבה יותר.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת XLS ל‑PPT למחזורי דיווח חוזרים, מה שמאפשר יצירת תוכן מהירה יותר וזרימות עבודה של מצגות בקנה מידה גדול יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת חבילת שקופיות ניתנת לעריכה**
+  המרת תוכן XLS לקבצי PPT עבור מצגות שעשויות לדרוש שיפור נוסף.
+
+* **תקשורת מבוססת נתונים**
+  הצגת מידע מגיליון אלקטרוני בפורמט שקופיות המשפר את הבנת הקהל.
+
+* **הכנת פגישות**
+  שימוש בנתוני גיליון אלקטרוני לבניית חומרי מצגת לסקירות, מפגשי תכנון ועדכונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת חבילת שקופיות אוטומטית**
+  יצירת קבצי PPT ממערכי נתוני XLS כחלק מצינורות דיווח מתוזמנים.
+
+* **בניית מצגות מבוססת זרימת עבודה**
+  הפעלת יצירת שקופיות באופן אוטומטי כאשר מקורות הגיליון מתעדכנים.
+
+* **סיפור נתונים בקנה מידה**
+  שימוש ב‑API‑ים של Python כדי להמיר נתוני גיליון מובנים לתוכן מצגת בכמויות גדולות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

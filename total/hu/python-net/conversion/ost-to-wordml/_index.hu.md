@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál OST-t hozzáadni WORDML-konverziós 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OST‑ról WordML‑re konverzió a postafiók tartalmát XML‑alapú szövegszerkesztő jelölőnyelvre alakítja, lehetővé téve a levelekből származó dokumentumok strukturált és géppel olvasható ábrázolását. Ez hasznos olyan rendszerek számára, amelyek átlátható dokumentumszerkezetet és jelölőnyelvi szintű interoperabilitást igényelnek.
+
+A Python API‑k lehetővé teszik az OST‑ról WordML‑re konverzió automatizálását fejlett feldolgozási forgatókönyvekhez, beleértve a transzformációt, validálást és az XML‑központú rendszerekkel való integrációt. Ez növeli a rugalmasságot és az irányítást a strukturált dokumentumfolyamatokban.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Strukturált dokumentumjelölés**  
+  A postafiók adatait WordML‑re konvertálja XML‑alapú dokumentumábrázoláshoz.
+
+* **Géppel olvasható tartalomkezelés**  
+  Támogatja azokat a munkafolyamatokat, amelyek vizsgálható és átalakítható dokumentumjelölést igényelnek.
+
+* **Interoperábilis feldolgozás**  
+  Segít az e‑mailből származó tartalom integrálásában strukturált tartalmi rendszerekkel és eszközökkel.
+
+* **Fejlett dokumentumtranszformáció**  
+  Részletes irányítást tesz lehetővé a konvertált tartalom felett jelölőnyelv‑vezérelt környezetekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **XML munkafolyamat-automatizálás**  
+  Python szkriptek az OST archívumokat WordML‑re konvertálják strukturált feldolgozási csővezetékekhez.
+
+* **Tartalomtranszformációs folyamatok**  
+  Az automatizált rendszerek a postafiókból származó jelölést manipulálják integráció és újrafelhasználás céljából.
+
+* **Validációs és cserecsővezetékek**  
+  A programozott konverzió támogatja a strukturált dokumentumcserét nagy léptékben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

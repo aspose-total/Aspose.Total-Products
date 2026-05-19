@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOT-t hozzáadni MSG-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOT‑ból MSG‑be konverzió újrahasználható dokumentumsablonokat e‑mail üzenetformátummá alakítja, amelyet gyakran használnak asztali üzenetküldő környezetekben. Ez akkor hasznos, amikor a sablon tartalmát strukturált üzenetobjektummá kell alakítani tárolás, átvitel vagy postafiók‑integráció céljából.
+
+Python API‑k használatával a csapatok automatizálhatják az MSG generálást DOT fájlokból, és biztosíthatják a következetes kommunikációs munkafolyamatokat anélkül, hogy manuális üzenetkészítésre támaszkodnának.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Asztali levelező kompatibilitás**
+  Alakítsa át a DOT sablonokat MSG fájlokká a támogatott üzenetküldő rendszerekhez.
+
+* **Strukturált üzenet létrehozása**
+  Használja a dokumentumsablonokat hordozható e‑mail üzenetobjektumok alapjaként.
+
+* **Kommunikációs nyilvántartás**
+  Őrizze meg az újrahasználható tartalmat üzenetfájlokként felülvizsgálatra vagy operatív használatra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált üzenetfájl‑generálás**
+  A Python szkriptek képesek MSG kimeneteket létrehozni DOT sablonokból ismétlődő munkafolyamatokban.
+
+* **Postafiók munkafolyamat integráció**
+  Az átalakítás összekapcsolja a dokumentumtárakat e‑mail‑központú feldolgozó rendszerekkel.
+
+* **Nagy mennyiségű kommunikáció csomagolása**
+  A programozott átalakítás lehetővé teszi a nagyszabású sablon‑MSG generálást.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

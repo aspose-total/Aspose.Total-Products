@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑PPS ממירה תבניות מסמכים לקבצי מצגת שקופיות המיועדים לתצוגה ישירה. זה שימושי כאשר תוכן צריך להיפתח מיידית במצב מצגת במקום בסביבת עריכה.
+
+ממשקי API של Python מאפשרים לצוותים לאוטומט את המרת DOT ל‑PPS עבור סשני אימון, אספקה בסגנון קיוסק, ותהליכי הפצת מצגות מבוקרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **הפצת מצגת ישירה**
+  המרת תבניות DOT לקבצי PPS לצורך הפעלה מיידית של המצגת.
+
+* **חוויות צפייה מבוקרות**
+  שיתוף תוכן בפורמט המותאם לתצוגה ולא לעריכה.
+
+* **תמיכה באירועים והכשרות**
+  הכנת פלטי מצגת מוכנים לשימוש מתבניות כתובות שניתן להשתמש בהן מחדש.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצור מצגת אוטומטי**
+  תהליכי עבודה ב‑Python יכולים ליצור קבצי PPS ממסמכי DOT לשימוש מתוזמן.
+
+* **צינורות תוכן ממוקדי תצוגה**
+  ההמרה מסייעת להעביר את תוכן התבנית ישירות לפלטים במצב מצגת.
+
+* **פריסת מצגות בקנה מידה גדול**
+  תהליכים תכנותיים תומכים ביצירת קבצי מצגת בקנה מידה רחב ממספר רב של תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

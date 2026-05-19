@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTX ל-TSV באמצעות ממשקי API של Python מאפשרת המרה של תוכן תבנית PowerPoint לערכי מופרדים בטאבים עבור זרימות עבודה של נתונים מובנים. זה בעל ערך כאשר יש צורך לחלץ חומר מצגת לפורמט פשוט מבוסס מפריד שעובד היטב בתהליכי חילופי נתונים וייבוא.
+
+מנקודת מבט של אוטומציה, המרת POTX ל-TSV תומכת בהמרה יעילה של תוכן תבנית חזותית לפלט קריא למכונה. היא מתאימה היטב לייצוא במרוכז, אינטגרציות קלות ומשאבות עיבוד ניתנות להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **חילוץ נתונים מופרדים**
+  ממיר מידע תבנית מצגת לרשומות מופרדות בטאבים לטיפול מובנה.
+
+* **הכנת ייבוא למערכת**
+  עוזר להכין תוכן שמקורו בתבנית לכלים המקבלים קלט טקסט טבלאי.
+
+* **החלפת נתונים קלה**
+  תומך בהעברה פשוטה של מידע מובנה בין יישומים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **משימות ייצוא נתונים חוזרות**
+  מאפשר אוטומציה של המרת קבצי POTX לפלטי TSV בתהליכי עבודה מתוזמנים.
+
+* **המרות ידידותיות לצינור עבודה**
+  מאפשר העברת נתונים מבוססת טקסט פשוטה למערכות אימות וקליטה.
+
+* **פעולות המרה בקנה מידה גדול**
+  תומך בחילוץ בקנה מידה גדול של תוכן מצגות לקבצים מופרדים בטאבים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

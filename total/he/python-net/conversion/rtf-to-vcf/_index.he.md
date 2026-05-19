@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+RTF ל‑VCF ממירה מסמכי טקסט עשיר לקבצי כרטיסי קשר שיכולים לאחסן שמות, מספרי טלפון, כתובות ומידע קשר קשור בפורמט נייד. זה שימושי כאשר פרטי קשר משולבים במסמכים וצריך להפוך אותם לרשומות מובנות, ניתנות לשיתוף.
+
+בזרימות עבודה של אוטומציה, RTF ל‑VCF תומכת בחילוץ קשרים יעיל, סינכרון והפצה על‑ידי המרת ספריות או רשימות מבוססות טקסט לרכיבי קשר תקניים למערכות ולצוותים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש" %}}
+
+* **יצירת רשומת קשר**  
+  ממירה פרטי קשר מבוססי מסמך לכרטיסי קשר דיגיטליים ניידים.
+
+* **עדכון ספרייה**  
+  מסייעת להפוך רשימות קשר כתובות לרשומות מובנות המתאימות לייבוא ולשיתוף.
+
+* **החלפת קשר ניידת**  
+  תומכת בתנועת מידע קשר בין מערכות ומכשירים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות חילוץ קשר אוטומטיים**  
+  מערכות יכולות לנתח מסמכי RTF וליצור קבצי VCF מפרטי קשר מזוהים.
+
+* **הכנת ספר כתובות בכמות גדולה**  
+  המרה תכנותית תומכת ביצירת רשומות קשר בקנה מידה רחב מקבצים טקסטואליים.
+
+* **אינטגרציה עם CRM וספרייה**  
+  זרימות עבודה דינמיות יכולות להפוך מידע קשר שמאוחסן במסמכים לנכסי קשר ניתנים לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to MD conversion chuyển đổi các tin nhắn email sang Markdown để tạo tài liệu văn bản dựa trên text sạch, nhẹ và di động. Nó đặc biệt hữu ích khi nội dung email cần được tái sử dụng trong các cơ sở kiến thức, tài liệu dành cho nhà phát triển, hoặc quy trình xuất bản nội dung.
+
+Trong các pipeline tự động, MSG to MD conversion hỗ trợ tài liệu được kiểm soát phiên bản, chuẩn hoá nội dung và xử lý văn bản đơn giản hoá. Nó giúp kết nối giao tiếp email với các hoạt động và hệ thống xuất bản nội dung hiện đại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng" %}}
+
+* **Tích Hợp Cơ Sở Kiến Thức**  
+  Chuyển đổi email sang Markdown cho tài liệu nội bộ có cấu trúc.
+
+* **Tái Sử Dụng Nội Dung Thân Thiện Với Nhà Phát Triển**  
+  Bảo tồn nội dung tin nhắn ở định dạng phù hợp cho kho lưu trữ và hệ thống tài liệu.
+
+* **Chuẩn Bị Xuất Bản Nhẹ**  
+  Chuẩn bị nội dung xuất phát từ email cho việc sử dụng trong trang tĩnh hoặc quy trình công việc nội dung.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Tự Động Hóa Quy Trình Tài Liệu**  
+  Chuyển đổi các tệp MSG sang Markdown để xuất bản hoặc lập chỉ mục tự động.
+
+* **Quản Lý Nội Dung Dựa Trên Kho Lưu Trữ**  
+  Lưu trữ nội dung email đã chuyển đổi trong quy trình tài liệu được kiểm soát phiên bản.
+
+* **Quy Trình Chuẩn Hóa Văn Bản**  
+  Chuẩn hoá giao tiếp đến thành nội dung văn bản nhẹ, thân thiện với máy.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

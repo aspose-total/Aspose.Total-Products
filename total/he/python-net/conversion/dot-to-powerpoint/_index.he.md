@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל-PowerPoint ממירה תבניות מסמכים לקבצי מצגות שקופיות למטרות תקשורת, הדרכה ודיווח. זה שימושי כאשר תוכן כתוב מובנה צריך להיות ממושמש מחדש לפורמט מצגת לצריכה רחבה יותר.
+
+באמצעות API של פייתון, ניתן לאוטומט את ההמרה כדי לזרז את שינוי התוכן, לשפר עקביות ולתמוך ביצירת מצגות בקנה מידה גדול ממאגרי מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **המרת מסמך למצגת**
+  המרת תבניות DOT לשקופיות תואמות PowerPoint לפגישות ותדריכים.
+
+* **הכנת חומרי הדרכה**
+  המרת תוכן מסמך שניתן לשימוש חוזר לנכסי מצגת לשימוש חינוכי.
+
+* **דיווח וסיכום**
+  הצגת מידע שמקורו במסמך בפורמט חזותי המתאים לבעלי עניין.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת חבילת שקופיות אוטומטית**
+  סקריפטים בפייתון יכולים להפוך קבצי DOT לפלט PowerPoint לצרכי תקשורת חוזרים.
+
+* **שילוב זרימת עבודה של מצגות**
+  ההמרה תומכת בצינוריות תוכן שמפרסמות מסמכים כחבילות שקופיות.
+
+* **אספקת תוכן חזותי בקנה מידה**
+  עיבוד תכנותי מאפשר יצירת מצגות בכמות גדולה מספריות תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

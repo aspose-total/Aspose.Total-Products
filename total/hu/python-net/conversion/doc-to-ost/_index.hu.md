@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOC-t hozzáadni OST-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A dokumentum‑OST átalakítás előkészíti a dokumentumból származó tartalmat az offline postafiók‑adatokkal és szinkronizált levelezési környezetekkel kapcsolatos munkafolyamatokhoz. Hasznos olyan helyzetekben, amikor a dokumentuminformációknak össze kell hangolódniuk a vállalati üzenettárolási struktúrákkal.
+
+A Python API‑k használata a DOC‑OST‑orientált feldolgozáshoz javítja az automatizálás készenlétét, támogatja a szabványosított kezelést, és csökkenti a kézi munkát a levelezéssel kapcsolatos vállalati műveletekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Postafiók‑adat előkészítés**
+  Alakítsa át a dokumentumalapú tartalmat olyan munkafolyamatokhoz, amelyek offline levéltárolóval lépnek interakcióba.
+
+* **Vállalati kommunikáció támogatása**
+  Igazítsa a dokumentumkimeneteket a szinkronizált levelezőrendszerekben használt üzenetkörnyezetekhez.
+
+* **Megőrzési munkafolyamat integráció**
+  Őrizze vagy dolgozza fel a dokumentumból származó tartalmat postafiók‑orientált műveletek során.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Levéltároló automatizálás**
+  Programozottan készítse elő a dokumentumtartalmat OST‑hez kapcsolódó vállalati munkafolyamatokhoz.
+
+* **Nagy léptékű átalakítási feladatok**
+  Automatizálja a dokumentumkezelést, ahol postafiók‑kompatibilis feldolgozás szükséges.
+
+* **Megfelelőség és megőrzés csővezetékek**
+  Használjon szkriptelt átalakítási lépéseket a szabályozott üzenet‑adat környezetek támogatásához.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

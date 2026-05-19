@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑MSG יוצרת קבצי הודעות דוא"ל מתוכן המסמך לשימוש בתהליכי דואר שולחני, תהליכי ארכיב והאריזת תקשורת. זה מועיל כאשר יש צורך לשמר מידע מסמך מובנה כרשומות הודעה נפרדות.
+
+ממשקי API של Python תומכים בהמרת WordML ל‑MSG על‑ידי מיפוי טקסט המסמך לרכיבי הודעה ואוטומציה של יצירת הפלט לסביבות תואמות דוא"ל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת קובץ הודעה**
+  ממיר את תוכן ה‑WordML לקבצי MSG לטיפול ברשומות דוא"ל נפרדות.
+
+* **תאימות לדואר שולחני**
+  תומך בתהליכים המתבססים על החלפת קבצי הודעה בסביבות ממוקדות שולחן עבודה.
+
+* **ארכוב תקשורת**
+  שומר על תוכן מבוסס מסמך כאובייקטים נפרדים בסגנון דוא"ל.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת MSG בכמות גדולה**
+  מאפשר אוטומציה של יצירת קבצי הודעה ממספר מסמכי WordML.
+
+* **הכנת ארכיון**
+  ממיר מסמכים מובנים לרשומות MSG לצורכי אחסון ושליפה.
+
+* **אריזת תוכן תפעולית**
+  תומך במשלוח תכנותי של תקשורת נגזרת ממסמכים למערכות הודעה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

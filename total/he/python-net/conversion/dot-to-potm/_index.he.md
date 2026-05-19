@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑POTM ממירה תבניות מסמכים לתבניות מצגת עם מקרו עבור זרימות עבודה מתקדמות של שקופיות שניתן להשתמש בהן מחדש. זה חשוב במקרים שבהם תבניות מצגת חייבות לתמוך בלוגיקה של אוטומציה או בפעולות משובצות בסביבות תואמות.
+
+באמצעות API‑ים של Python, צוותים יכולים לאוטומט את יצירת קבצי POTM ממקורות DOT כדי לשלב שימוש חוזר בתבניות עם התנהגות מצגת מתקדמת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**
+  המרת תוכן DOT לקבצי POTM עבור מצגות שניתן להשתמש בהן מחדש עם פונקציונליות משופרת.
+
+* **זרימות עבודה מתקדמות במצגת**
+  בניית תבניות שקופיות שתומכות בהתנהגות אוטומטית או מונעת כללים במערכות תואמות.
+
+* **הפצת תוכן מבוססת תבנית**
+  שימוש חוזר במבנה שמקורו במסמך בסביבות מצגת הדורשות תמיכה במקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פלט תבנית מוכן למקרו באופן אוטומטי**
+  סקריפטים ב‑Python יכולים ליצור קבצי POTM מתבניות DOT לפרסום חוזר.
+
+* **תמיכה באוטומציה של מצגות**
+  ההמרה מאפשרת יצירת נכסי שקופיות מתקדמים שניתן להשתמש בהם מחדש, מונעים על ידי מסמכים.
+
+* **ניהול ספריית תבניות בקנה מידה**
+  צינורות תכנותיים מסייעים לתקנון תבניות מצגת עם מקרו בקנה מידה רחב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

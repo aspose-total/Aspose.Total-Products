@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑DOCM ממירה תוכן שמקורו בגיליון אל פורמט מסמך עם אפשרות למקרו, המתאים לתהליכי עבודה מתקדמים הדורשים יכולות אוטומציה משובצות. זה בעל ערך כאשר יש להעביר נתוני גיליון למסמכים התומכים בעיצוב מתוכנת, לוגיקה או פעולות חוזרות.
+
+באמצעות ממשקי API של Python, המרת SXC ל‑DOCM משפרת את היעילות התפעולית על‑ידי אפשרות ליצירת מסמכים אינטראקטיביים או מוכנים למקרו באופן אוטומטי בתוך תהליכי עבודה ארגוניים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **דיווח מוכן למקרו**  
+  ממיר תוכן גיליון למסמכים המוכנים לעיצוב או משימות עיבוד מבוססי מקרו.
+
+* **תבניות מסמך ניתנות לשימוש חוזר**  
+  תומך בתהליכי עבודה שבהם נתוני גיליון חייבים למלא מסמכים שנועדו לשימוש אוטומטי חוזר.
+
+* **תיעוד תפעולי**  
+  מסייע ביצירת מסמכים המשלבים תוכן מיובא עם לוגיקה משובצת לביצוע תהליכים פנימיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **אכלוס תבנית אוטומטי**  
+  משתמש בממשקי API של Python כדי להזין נתוני גיליון לתהליכי עבודה של מסמכים עם אפשרות למקרו במאמץ ידני מינימלי.
+
+* **צינורות עיבוד מסמכים**  
+  מאפשר אוטומציה מקצה לקצה שבה קבצי DOCM שנוצרו מועברים למערכות אישור או שינוי.
+
+* **הרכבה מבוססת כללים של תוכן**  
+  תומך ביצירת מסמכים דינאמיים לתרחישים הדורשים התנהגות מתוכנתת לאחר ההמרה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

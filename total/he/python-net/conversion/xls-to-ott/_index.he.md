@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLS ל‑OTT ממירה נתוני גיליון אלקטרוני לתבניות טקסט של מסמכי קוד פתוח שניתן להשתמש בהם מחדש ליצירת מסמכים סטנדרטיים. זה בעל ערך עבור ארגונים שמבנים תהליכי תיעוד חוזרים באמצעות פורמטים של תבניות פתוחות.
+
+שימוש ב‑APIs של Python להמרת XLS ל‑OTT עושה את יצירת התבניות ליעילה יותר ותומך במערכות מסמכים אוטומטיות שמעדיפות תקנים פתוחים ושימוש חוזר בר‑קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית פתוחה**
+  המרת תוכן XLS לתבניות OTT ליצירת מסמכים חוזרים.
+
+* **מבני מסמכים ניתנים לשימוש חוזר**
+  בניית קבצי תבנית השומרים על פורמט עקבי וכללי פריסה.
+
+* **זרימות עבודה מבוססות תקנים**
+  תמיכה באקוסיסטמות מסמכי קוד פתוח עם יצירת תבניות מונעת גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצור תבניות אוטומטי**
+  יצירת קבצי תבנית OTT מנתוני גיליון אלקטרוני ללא הגדרה ידנית.
+
+* **מערכות מסמכי קוד פתוח ניתנות להרחבה**
+  שימוש ב‑APIs של Python ליצירת תבניות ניתנות לשימוש חוזר עבור סביבות עם עומס מסמכים גבוה.
+
+* **בניית ספריית תבניות**
+  הזנת קלטי XLS לתוך זרימות עבודה השומרות על אוספים מובנים של תבניות פתוחות ניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

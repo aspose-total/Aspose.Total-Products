@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑POTM ממירה את תוכן תבנית Word לפורמט תבנית מצגת עם מקרו למקרים מתקדמים של אוטומציה של שקופיות. היא חשובה כאשר מבני מצגת ניתנים לשימוש חוזר חייבים לתמוך בלוגיקה משולבת של אוטומציה בנוסף לעקביות העיצוב.
+
+באמצעות ממשקי API של Python, המרה זו מאפשרת לארגונים לבנות זרימות עבודה של תבניות מצגת בקנה מידה גדול המשולבות בשימוש חוזר במסמכים עם נכסי מצגת מוכנים לאוטומציה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות מצגת עם מקרו**
+  המרת תוכן המסמך לתבניות שקופיות ניתנות לשימוש חוזר עם תמיכה באוטומציה.
+
+* **זרימות עבודה מתקדמות של מצגת**
+  הכנת תבניות שיכולות להשתתף בתהליכי מצגת מורחבים.
+
+* **שימוש חוזר במבנה תוכן**
+  הפיכת חומר תבנית Word לנכסי שקופיות ניתנים לחזרה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פריסת תבנית אוטומטית**
+  יצירת קבצי POTM מתבניות DOTX למערכות מצגת המונעות על ידי זרימות עבודה.
+
+* **ייצור שקופיות בתמיכה במקרו**
+  הפעלת יצירת מצגות בקנה מידה גדול עם תבניות בעלות יכולת אוטומציה.
+
+* **שרשראות אוטומציה ממסמך לשקופית**
+  חיבור המרת תוכן תבנית עם פעולות מצגת מתקדמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

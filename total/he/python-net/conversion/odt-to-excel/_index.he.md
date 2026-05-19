@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑Excel ממירה את תוכן המסמך לפורמטים מוכנים לגיליונות אלקטרוניים המתאימים לביקורת מובנית, ניתוח ושיתוף פעולה. היא חשובה כאשר מסמכי טקסט מכילים טבלאות, רשימות או רשומות שצריך לטפל בהם בסביבה מבוססת רשת.
+
+לצורך אוטומציה, המרת ODT ל‑Excel מאפשרת חילוץ בר‑קנה מידה של נתוני עסקים שימושיים מהמסמכים. ממשקי API של Python תומכים בהמרה קבוצתית, אימות והפניית הפלטים לדיווח או לתהליכי עבודה תפעוליים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **שימור טבלאות**  
+  מעביר נתונים מובנים מהמסמכים לתצורות גיליון אלקטרוני.
+
+* **תמיכה בניתוח עסקי**  
+  הופך מידע מבוסס מסמך לקל יותר למיון, סינון וביקורת.
+
+* **העברת נתונים תפעוליים**  
+  ממיר רשומות לשימוש בתכנון, ביקורת או דיווח.
+
+* **עריכה משותפת**  
+  מאפשר לצוותים לעבוד עם תוכן מחולץ בפורמט גיליון אלקטרוני מוכר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **חילוץ נתונים מבוסס צינור עבודה**  
+  משימות Python יכולות לחלץ טבלאות מקבצי ODT ולשמור אותן בפורמטים תואמי Excel.
+
+* **הכנת דוחות בקבוצות**  
+  ניתן להמיר מספר מסמכים לצורך מחזורי ניתוח חוזרים.
+
+* **אימות והארגון**  
+  כללים אוטומטיים יכולים לנקות ולארגן את הנתונים המחולצים לפני הייצוא.
+
+* **הפצה בין‑מערכתית**  
+  גיליונות אלקטרוניים שהומרו יכולים להיות מנותבים לאחסון, דיווח או מערכות ביקורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

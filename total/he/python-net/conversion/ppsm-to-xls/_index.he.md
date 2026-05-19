@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPSM ל‑XLS בפייתון תומכת בהמרת תוכן מצגת עם מקרו לפורמט גיליון אלקטרוני המשמש לאחסון טבלאי מובנה ולניתוח. זה בעל ערך כאשר מידע מהמצגות צריך להיות נגיש בצורה של גיליון עבודה לטיפול תפעולי או לדיווח.
+
+במסגרות עבודה של אוטומציה, המרת PPSM ל‑XLS מסייעת לגשר בין תוכן המצגת למערכות מבוססות גיליונות אלקטרוניים, ומאפשרת חילוץ חוזר, ארגון טבלאי ועיבוד זרם עבודה משופר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **המרת תוכן טבלאי**  
+  מעבירה מידע משקופיות למבנה גיליון עבודה לצורך ארגון וניתוח קלים יותר.
+
+* **תאימות לגיליונות אלקטרוניים מדור קודם**  
+  תומכת בתהליכי עבודה שעדיין תלויים בפורמטים מסורתיים של גיליונות אלקטרוניים.
+
+* **הכנת דוחות**  
+  מסייעת בהכנת נתונים שמקורם במצגות לחישובים, מעקב וביקורת מובנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא גיליון אלקטרוני אוטומטי**  
+  סקריפטים בפייתון יכולים לייצר קבצי XLS מקבצי PPSM בתהליכי המרה במצב אצווה.
+
+* **צינורות שינוי נתונים**  
+  ההמרה תומכת בניתוב תוכן מחולץ למערכות גיליונות אלקטרוניים אנליטיות או תפעוליות.
+
+* **תמיכה מדור קודם בקנה מידה**  
+  המרה תכנותית מאפשרת אינטגרציה עם סביבות גיליונות אלקטרוניים ישנות בקנה מידה רחב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

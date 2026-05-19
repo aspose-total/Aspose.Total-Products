@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Email ל‑EPUB בפייתון ממירה את תוכן ההודעות לפרסומים דיגיטליים נמתחים שקל יותר לצרוך במכשירי קריאה ובמערכות תוכן ארוכות טווח. זה בעל ערך כאשר אוספי אימיילים, ניוזלטרים או תקשורת סדרתית צריכים להפוך לחומרי קריאה ניידים.
+
+המרה זו תומכת באוטומציה על ידי אפשרות לארוז, להפיץ ולשימוש חוזר בתוכן מבוסס הודעות בתהליכי פרסום דיגיטלי ניתנים להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **אריזת ניוזלטר**
+  המרת סדרת אימיילים לקבצי EPUB לקריאה דיגיטלית מובנית.
+
+* **הפצת ידע ניידת**
+  הפיכת תוכן אימיילים מסודר לפרסומים ניידים לקהלים פנימיים או חיצוניים.
+
+* **שימור תוכן ארוך**
+  שמירת תקשורת חשובה בפורמט ידידותי לקורא לצורך התייחסות.
+
+* **שימוש חוזר בתוכן**
+  שימוש חוזר בארכיוני הודעות כמשאבי eBook לצורכי הדרכה או תיעוד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **הרכבת פרסום אוטומטית**
+  שילוב אימיילים נבחרים לקבצי EPUB להפצת תוכן מתוזמנת.
+
+* **אריזת בסיס ידע**
+  המרת שרשורי אימיילים למדריכים דיגיטליים קריאים דרך צינורות אוטומטיים.
+
+* **הפצת תוכן חוצת פלטפורמות**
+  יצירת קבצי EPUB ממקורות הודעות לשיתוף נרחב על פני מכשירים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

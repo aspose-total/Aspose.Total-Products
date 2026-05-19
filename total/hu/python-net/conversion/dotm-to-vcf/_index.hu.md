@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOTM-t hozzáadni VCF-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOTM‑ról VCF‑re konverzió átalakítja a makrókkal ellátott Word‑sablonokat vCard névjegy fájlokká, megkönnyítve a dokumentum‑alapú kapcsolatinformációk megosztását és importálását címjegyzék‑rendszerekbe. Hasznos, ha a sablonok személy, szervezet vagy kommunikációs adatokat tartalmaznak, amelyeket strukturált kapcsolati rekordokká kell alakítani.
+
+A Python API‑k használata a DOTM‑ról VCF‑re konverzióhoz segít automatizálni a kapcsolatok létrehozását dokumentumforrásokból, csökkentve a kézi újbóli adatbevitel szükségességét és javítva az adatok konzisztenciáját. Ez támogatja a skálázható beilleszkedést, a címtárkezelést és a CRM‑hez kapcsolódó munkafolyamatokat.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Kapcsolati rekord létrehozása**
+  Alakítsa át a kapcsolati adatokat DOTM sablonokból VCF fájlokká a könnyű megosztás és importálás érdekében.
+
+* **Címtáradatok újrahasznosítása**
+  Használja fel a strukturált dokumentuminformációkat szabványos digitális névjegykártyákban.
+
+* **Munkafolyamat‑barát kapcsolati csere**
+  Lehetővé teszi a kapcsolati adatok egyszerű átvitelét dokumentumok és címjegyzék‑rendszerek között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált kapcsolati kinyerés**
+  A munkafolyamatok VCF fájlokat generálhatnak DOTM sablonokból, amelyek személyes vagy szervezeti adatokat tartalmaznak.
+
+* **Címtárszinkronizáció támogatása**
+  A konverzió segíti az automatizált rendszereket importálásra kész kapcsolati rekordok létrehozásában dokumentumokból.
+
+* **Tömeges kapcsolati generálás**
+  A programozott feldolgozás nagy mennyiségű DOTM fájl VCF fájlokká történő átalakítását támogatja.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

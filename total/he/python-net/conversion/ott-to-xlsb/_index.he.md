@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑XLSB ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי גיליון אלקטרוני בינאריים המותאמים לאחסון וטיפול יעילים בתרחישי חוברות עבודה גדולות. זה שימושי כאשר הנתונים המומרים חייבים להישאר מוכנים לגיליון אלקטרוני תוך כדי ניצול ייצוג קובץ קומפקטי.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות ליצירת חוברות עבודה בקנה מידה עבור תהליכים כבדים בנתונים, מה שמסייע לשפר ביצועים ולהפחית עומס אחסון בתהליכי ייצוא חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט גיליון אלקטרוני קומפקטי**  
+  מייצר קבצי חוברת עבודה בינאריים לאחסון וטיפול יעילים.
+
+* **תמיכה בתהליכי עבודה עם נתונים גדולים**  
+  מתאים לתרחישים שבהם גיליונות האלקטרוני שנוצרים עשויים לגדול בגודלם.
+
+* **אספקת תוכן מובנה**  
+  ממיר את תוכן התבנית לנכסי חוברת עבודה בעלי ביצועים גבוהים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת חוברות עבודה ברמת נפח גבוהה**  
+  מאפשר אוטומציה של ייצוא XLSB ממקורות OTT בקנה מידה.
+
+* **דיווח יעיל באחסון**  
+  יוצר פלטי גיליון אלקטרוני קומפקטיים לתהליכים חוזרים.
+
+* **צינורות נתונים ממוקדי ביצועים**  
+  תומך בטיפול מהיר יותר בתהליכי עבודה אוטומטיים של גיליונות אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi MSG sang DOCM chuyển các tệp tin tin nhắn email thành tài liệu xử lý văn bản có hỗ trợ macro, cho phép các hành vi tài liệu nâng cao. Điều này hữu ích khi nội dung tin nhắn cần được bảo tồn ở định dạng có thể chỉnh sửa đồng thời vẫn tương thích với môi trường xử lý dựa trên macro.
+
+Đối với tự động hoá, quy trình MSG sang DOCM có liên quan trong các hệ thống dựa vào các hành động tài liệu được viết script, các quy trình kiểm tra, hoặc các nhiệm vụ định dạng có cấu trúc. Chúng giúp kết nối nội dung xuất phát từ email với các hoạt động tài liệu doanh nghiệp động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tài Liệu Hỗ Trợ Macro**  
+  Chuẩn bị nội dung email đã chuyển đổi cho các môi trường tài liệu sử dụng macro tự động.
+
+* **Xử Lý Nội Dung Có Cấu Trúc**  
+  Hỗ trợ định dạng và thao tác dựa trên quy tắc sau khi chuyển đổi.
+
+* **Lắp Ráp Tài Liệu Vận Hành**  
+  Kết hợp dữ liệu tin nhắn vào các mẫu tài liệu được kiểm soát, sẵn sàng cho tự động hoá.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Kịch Bản Tự Động Hóa" %}}
+
+* **Xử Lý Hậu Định Dạng Dựa Trên Macro**  
+  Chuyển đổi các tệp MSG sang DOCM để các quy trình hạ nguồn có thể áp dụng các bước định dạng hoặc kiểm tra.
+
+* **Quy Trình Tài Liệu Doanh Nghiệp**  
+  Cung cấp các tài liệu đã chuyển đổi cho các hệ thống đánh giá tự động phụ thuộc vào hỗ trợ macro.
+
+* **Xử Lý Nội Dung Động**  
+  Cho phép cập nhật lập trình và các hành động quy trình trên các tài liệu xuất phát từ tin nhắn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

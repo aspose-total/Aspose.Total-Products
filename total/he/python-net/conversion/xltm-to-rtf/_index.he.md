@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTM ל‑RTF בפייתון מאפשרת לתבניות Excel עם מקרו להיות מומרות למסמכי טקסט עשיר שמאזנים תמיכה בעיצוב עם תאימות רחבה. זה שימושי כאשר יש צורך לשתף תוכן מבוסס חוברת עבודה בפורמט מסמך טקסטי השומר על גמישות במגוון יישומים.
+
+בזרימות עבודה אוטומטיות, המרת XLTM ל‑RTF תומכת בניידות תוכן, מפשטת טיפול במסמכים חוצי פלטפורמות, ועוזרת לתקנון יצירת טקסט מעוצב מתבניות גיליון אלקטרוני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט טקסט מעוצב**  
+  ממיר את תוכן תבנית הגיליון למסמכי טקסט עשיר השומרים על מבנה העיצוב הבסיסי.
+
+* **שיתוף בין‑יישומי**  
+  תומך בחילופי מסמכים בין מערכות הדורשות פורמט טקסט גמיש ונקרא ברוב הסביבות.
+
+* **תיעוד מבוסס תבניות**  
+  מסייע ביצירת מסמכי טקסט קריאים מתבניות חוברות עבודה מובנות לצרכי ארכיב או עריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת טקסט עשיר אוטומטית**  
+  מייצר קבצי RTF מתבניות XLTM בתהליכי יצירת מסמכים חוזרים.
+
+* **צינוריות מסמכים תואמות למורשת**  
+  תומך בסביבות המסתמכות על פלטי טקסט מעוצב תואמים למערכות ישנות.
+
+* **המרת מסמכי טקסט בכמות גדולה**  
+  מאפשר שינוי בקנה מידה של תבניות חוברות עבודה לקבצי טקסט עשיר לשימושים נוספים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

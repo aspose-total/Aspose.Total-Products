@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ל-XLTX מאפשר המרה של מסמכי עיבוד תמלילים לקבצי תבנית גיליון אלקטרוני מודרניים המשמשים ליצירת גיליונות עבודה מתוקננים. תהליך זה תומך בעיצוב עקבי של גיליונות אלקטרוניים ובשימוש חוזר בתוכן מסמך מובנה.
+
+באמצעות API‑ים של Python, ניתן לשלב המרה מ‑DOCX ל‑XLTX בפלטפורמות דיווח, מערכות הפצת תבניות, וצינורות יצירת גיליונות אלקטרוניים אוטומטיים. זה מסייע לארגונים ליצור נכסי גיליון אלקטרוני חוזרים ממקורות מבוססי מסמך ביעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית גיליון אלקטרוני מודרנית**  
+  ממירה תוכן DOCX לתבניות שניתן להשתמש בהן מחדש עבור סביבות גיליון אלקטרוני עדכניות.
+
+* **אחידות תקן גיליון**  
+  תומכת ביצירת גיליונות אלקטרוניים חוזרים עם מבנה ועיצוב אחידים.
+
+* **שימוש חוזר ממסמך לתבנית**  
+  מסייעת להמיר תוכן כתוב ומובנה לנכסי גיליון אלקטרוני מונעי תבנית.
+
+* **הכנת נכסי דיווח ברמת סקלאביליות**  
+  מאפשרת ייצור תבניות למשימות ניתוח ודיווח חוזרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא XLTX אוטומטי**  
+  מערכות יכולות להמיר קבצי DOCX לתבניות גיליון אלקטרוני מודרניות באופן תכנותי.
+
+* **זרימות עבודה ליצירת תבניות במצב אצווה**  
+  סקריפטים ב-Python יכולים לייצר תבניות גיליון אלקטרוני שניתן להשתמש בהן מחדש מתוך אוספי מסמכים גדולים.
+
+* **תקנון דיווח ארגוני**  
+  תוכן המסמך יכול להיות מומר לקבצי XLTX לצורך פעולות גיליון אלקטרוני עקביות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

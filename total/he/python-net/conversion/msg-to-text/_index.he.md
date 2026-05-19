@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MSG ל‑TEXT מחלצת את תוכן הודעת האימייל לטקסט פשוט לצורך אחסון, חיפוש ועיבוד פשוטים. זה בעל ערך כאשר גישה לתוכן נקי חשובה יותר מהעיצוב וכאשר נדרש פלט קל משקל למטרות אינדקס או ניתוח.
+
+לצורך אוטומציה, זרימות עבודה של MSG ל‑TEXT תומכות בכריית טקסט, צינורות חיפוש וקליטת תוכן מנורמלת. הן מסייעות להמיר נתוני תקשורת לפורמט מינימלי ידידותי למכונה המתאים לעיבוד בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **חילוץ טקסט פשוט**  
+  בידוד תוכן האימייל לקריאה קלה, אחסון או ניתוח במ downstream.
+
+* **תמיכה בחיפוש ואינדקס**  
+  הכנת טקסט ההודעה למיון ולזרימות עבודה של שליפה.
+
+* **עיבוד נתונים קל משקל**  
+  שימוש בפלט מפושט בצינורות שאינם דורשים שמירת העיצוב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות קליטת תוכן**  
+  המרת קבצי MSG לטקסט פשוט לצורך אינדקס ומערכות סיווג.
+
+* **זרימות עבודה של ניתוח טקסט**  
+  הזנת תוכן ההודעה המחולץ לניתוח אוטומטי או תהליכי ניטור.
+
+* **יצירת ארכיון מנורמל**  
+  אחסון רשומות תקשורת בצורה טקסטואלית קומפקטית לשמירה בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

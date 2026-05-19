@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi tài liệu sang OST chuẩn bị nội dung xuất phát từ tài liệu cho các quy trình làm việc liên quan đến dữ liệu hộp thư ngoại tuyến và môi trường thư đồng bộ. Nó hữu ích trong các trường hợp mà thông tin tài liệu phải phù hợp với cấu trúc lưu trữ tin nhắn doanh nghiệp.
+
+Sử dụng các API Python cho quá trình xử lý hướng DOC sang OST cải thiện khả năng sẵn sàng tự động hoá, hỗ trợ xử lý tiêu chuẩn hoá và giảm công việc thủ công trong các hoạt động doanh nghiệp liên quan đến thư.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Chuẩn bị dữ liệu hộp thư**
+  Chuyển đổi nội dung dựa trên tài liệu cho các quy trình làm việc tương tác với lưu trữ thư ngoại tuyến.
+
+* **Hỗ trợ giao tiếp doanh nghiệp**
+  Đồng bộ đầu ra tài liệu với môi trường nhắn tin được sử dụng trong các hệ thống thư đồng bộ.
+
+* **Tích hợp quy trình lưu trữ**
+  Bảo tồn hoặc xử lý nội dung xuất phát từ tài liệu trong các hoạt động hướng hộp thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Tự động hoá lưu trữ thư**
+  Chuẩn bị nội dung tài liệu một cách lập trình cho các quy trình doanh nghiệp liên quan đến OST.
+
+* **Công việc chuyển đổi quy mô lớn**
+  Tự động hoá việc xử lý tài liệu khi cần xử lý tương thích với hộp thư.
+
+* **Đường ống tuân thủ và lưu trữ**
+  Sử dụng các bước chuyển đổi được viết script để hỗ trợ môi trường dữ liệu tin nhắn được kiểm soát.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

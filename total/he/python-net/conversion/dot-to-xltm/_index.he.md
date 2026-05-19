@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑XLTM ממירה תבניות מסמכים לקבצי תבניות גיליון אלקטרוני עם מקרו למטרת יצירת חוברות מתקדמות חוזרות. זה שימושי כאשר תבניות גיליון אלקטרוני ניתנות לשימוש חוזר חייבות לתמוך בפונקציונליות משופרת בתהליכי עבודה תואמים.
+
+ממשקי API של Python מאפשרים יצירת XLTM אוטומטית ממקורות DOT, ומסייעים לארגונים ליצור תבניות גיליון אלקטרוני מתקדמות וסטנדרטיות ביעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **ייצוא תבנית עם מקרו**
+  המרת קבצי DOT לתבניות XLTM עבור תהליכי עבודה מתקדמים של גיליון אלקטרוני ניתנים לשימוש חוזר.
+
+* **עיצוב חוברת מתקדמת ניתנת לשימוש חוזר**
+  השתמש במבני מסמכים כתבניות גיליון אלקטרוני עם יכולות מורחבות.
+
+* **תבניות פונקציונליות סטנדרטיות**
+  תמיכה ביצירת חוברות חוזרות ממקורות תבניות מבוססי מסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבנית מתקדמת אוטומטית**
+  תהליכי עבודה ב‑Python יכולים לייצר קבצי XLTM מתבניות DOT עבור תהליכים עסקיים חוזרים.
+
+* **סטנדרטיזציה של ספריית תבניות**
+  המרה מסייעת לשמור על תבניות גיליון אלקטרוני עם מקרו עקביות בין צוותים.
+
+* **הכנת חוברת פונקציונלית בקנה מידה**
+  מערכות תכנותיות תומכות ביצירת נכסי תבניות גיליון אלקטרוני מתקדמות בכמות גדולה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

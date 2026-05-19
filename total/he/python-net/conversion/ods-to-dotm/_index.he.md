@@ -104,7 +104,51 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+ODS to DOTM conversion enables spreadsheet files to be converted into macro-enabled document templates. These templates allow advanced document automation and reusable document structures driven by embedded macros.
+
+המרת ODS ל‑DOTM מאפשרת להמיר קבצי גיליון אלקטרוני לתבניות מסמכים עם מקרו. תבניות אלו מאפשרות אוטומציה מתקדמת של מסמכים ומבנים חוזרים של מסמכים המונעים על‑ידי מקרו משולב.
+
+Using Python APIs, developers can automate the transformation of spreadsheet datasets into macro-enabled templates. This enables scalable automation systems that produce dynamic documents based on spreadsheet-driven data.
+
+באמצעות ממשקי API של Python, מפתחים יכולים לאוטומט את ההמרה של מערכי נתוני גיליון אלקטרוני לתבניות עם מקרו. זה מאפשר מערכות אוטומציה בקנה מידה רחב שמייצרות מסמכים דינמיים בהתבסס על נתונים המונעים מגיליון אלקטרוני.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש" %}}
+
+* **יצירת תבנית עם מקרו**  
+  המרת מבני נתוני גיליון אלקטרוני לתבניות התומכות במקרו לאוטומציה.
+
+* **מסגרות מסמכים אוטומטיות**  
+  שימוש בקלטי גיליון אלקטרוני לבניית תבניות מסמכים המונעות על‑ידי מקרו.
+
+* **יצירת תבניות דינמיות**  
+  יצירת תבניות חוזרות לשימוש מתוך תוכן גיליון אלקטרוני מובנה.
+
+* **מערכות אוטומציה של מסמכים**  
+  הפעלת זרימות עבודה מתקדמות של מסמכים אוטומטיים באמצעות תבניות עם מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצור תבניות אוטומטי**  
+  תהליכי עבודה ב‑Python מייצרים תבניות עם מקרו מקלטי גיליון אלקטרוני.
+
+* **המרת תבניות במקבץ**  
+  מערכות מעבדות קבצי ODS מרובים ליצירת תבניות עם מקרו.
+
+* **אוטומציה של מסמכים ארגונית**  
+  תבניות המופקות מגיליונות אלקטרוניים מאפשרות ייצור מסמכים אוטומטי בקנה מידה רחב.
+
+* **הרכבת מסמכים דינמית**  
+  תבניות עם מקרו תומכות ביצירת תוכן תכנותית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

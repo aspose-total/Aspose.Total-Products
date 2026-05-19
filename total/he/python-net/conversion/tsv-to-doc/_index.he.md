@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑DOC ממירה נתונים מופרדים בטאבים למסמכי עיבוד תמלילים ניתנים לעריכה, שקל יותר לסקור, לשתף ולעצב לשימוש עסקי או תפעולי. זה שימושי כאשר פלט של מערך נתונים מובנה צריך להפוך לתיעוד קריא בסגנון נרטיב לדיווח, תקשורת או תהליכי ארכיב.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את ההמרה כדי ליצור קבצי DOC עקביים מקלטים טבלאיים גולמיים, לשפר את היעילות בצינור ייצור המסמכים ולתמוך בדיווח, ייצוא ופרסום בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דוחות נתונים קריאים**  
+  ממיר טבלאות TSV גולמיות לתוכן ידידותי למסמך, לקריאה והצגה קלה יותר.
+
+* **תיעוד פנימי**  
+  תומך ביצירת מסמכים תפעוליים או אנליטיים מקבצים מקוריים מובנים.
+
+* **ייצוא ידידותי לתהליכי עבודה**  
+  מסייע לצוותים להעביר נתונים ממערכות אחוריות לפורמטים ניתנים לעריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת דוחות מתוזמנים**  
+  אוטומציה יכולה להמיר ייצואי TSV חוזרים לקבצי DOC לתיעוד שגרתי.
+
+* **תיעוד תהליכים עסקיים**  
+  API‑ים של Python יכולים להפוך רשומות מובנות למסמכים מעוצבים המשמשים באישורים או בביקורות.
+
+* **המרת קבצים בכמות גדולה**  
+  כמויות גדולות של קבצי TSV ניתן להמיר תכנותית לפלטי DOC עם מאמץ ידני מינימלי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

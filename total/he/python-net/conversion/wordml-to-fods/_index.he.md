@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+WordML ל‑FODS מייצא תוכן מובנה מבוסס‑מסמך לפורמט גיליון אלקטרוני פתוח שטוח, שהוא שימושי לתהליכי עבודה של גיליונות אלקטרוניים פתוחים ולעיבוד מבוסס‑XML. הוא תומך בסביבות שמעדיפות פורמטים של נתונים שקופים, ניידים ומכוונים לתקנים.
+
+Python APIs מסייעים באוטומציה של המרת WordML ל‑FODS על‑ידי שינוי טבלאות וטקסט מובנה לייצוגי גיליון אלקטרוני פתוח המתאימים לאינטגרציה בקנה מידה רחב ותהליכי אימות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **המרת גיליון אלקטרוני פתוח**
+  ממירה טבלאות WordML לפורמט גיליון אלקטרוני פתוח שטוח לצורך עיבוד מתוקן.
+
+* **טיפול בנתונים ידידותי ל‑XML**
+  תומך בתהליכי עבודה המרוויחים ממבני XML של גיליונות אלקטרוניים קריאים וניידים.
+
+* **החלפה מבוססת תקנים**
+  מאפשר שיתוף נתונים מובנה במערכות אקולוגיות של מסמכים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות ייצוא בפורמט פתוח**
+  מממשת אוטומטית המרה מ‑WordML ל‑FODS עבור תהליכי עבודה תואמי תקנים.
+
+* **משימות אימות והמרה**
+  משתמשת בפלט גיליון XML שטוח בבדיקות אוטומטיות או בתהליכי המרה.
+
+* **המודרניזציה של מאגרי מידע**
+  מסייעת להעביר נתוני טבלאות מבוססי מסמך לפורמטים פתוחים שניתנים לעיבוד בגיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

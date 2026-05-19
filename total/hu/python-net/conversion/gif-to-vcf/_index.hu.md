@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál VCF-t hozzáadni VCF-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A GIF-ből VCF dokumentummá történő átalakítás Python API-k használatával lehetővé teszi a vizuális tartalom átalakítását olyan kontaktus-orientált dokumentumformátumokká, amelyek támogatják a digitális címjegyzék munkafolyamatait és a strukturált névjegycserét. Ez hasznos lehet, ha a képpel kapcsolt információt hordozható névjegyrekordokban kell megjeleníteni, vagy integrálni kell a kontaktus-kezelési folyamatokba.
+
+Automatizálási szempontból ez az átalakítás támogatja a hatékony kontaktusdokumentum-generálást, az ismételhető feldolgozást, és az olyan rendszerekkel való integrációt, amelyek profil- vagy személyazonosítási adatokat kezelnek. Segíti a modern munkafolyamatokat abban, hogy a statikus eszközöket strukturált, újrahasználható kontaktusinformációs kimenetekkel kapcsolják össze.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Névjegyrekord generálása**
+  Alakítsa át a GIF-alapú bemeneteket VCF dokumentumokká a strukturált névjegymegosztási munkafolyamatokhoz.
+
+* **Profiladat csomagolása**
+  Készítse elő a vizuális vagy kapcsolódó információkat a hordozható névjegyfájl kimenetekbe való beillesztéshez.
+
+* **Névjegycseré támogatása**
+  Lehetővé teszi a konvertált tartalom szabványos megosztását széles körben használt névjegydokumentum-formátumokon keresztül.
+
+* **Rendszerintegráció**
+  Használja a VCF átalakítást olyan alkalmazásokban, amelyek a média-alapú bemeneteket digitális névjegy munkafolyamatokkal kapcsolják össze.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált névjegyfájl létrehozása**
+  Az automatizálás javítja ezt a forgatókönyvet azáltal, hogy ismételhető munkafolyamatokban VCF kimeneteket generál a GIF-hez kapcsolódó bemenetekből.
+
+* **Névjegykezelési integráció**
+  A téma javítja az automatizált munkafolyamatokat azáltal, hogy a forrás médiát összekapcsolja a strukturált névjegydokumentum-generálással.
+
+* **Profilfeldolgozási csővezetékek**
+  A programozott átalakítás támogatja a hordozható névjegyfájlok dinamikus előállítását a downstream rendszerek számára.
+
+* **Tömeges névjegy export munkafolyamatok**
+  Nagy adatállományok automatikusan konvertálhatók VCF dokumentumokká a skálázható névjegycserélési folyamatok támogatására.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

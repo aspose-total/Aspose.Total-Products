@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi DOCM sang TSV chuyển các tài liệu có macro thành các giá trị phân tách bằng tab, giúp nội dung có cấu trúc dễ dàng phân tích, chuyển giao và tái sử dụng trong các quy trình dữ liệu. Đặc biệt hữu ích khi các bảng trong tài liệu cần một định dạng văn bản đơn giản với sự phân tách trường rõ ràng.
+
+Trong môi trường tự động hoá, chuyển đổi DOCM sang TSV hỗ trợ trao đổi dữ liệu đáng tin cậy, nhập liệu vào các pipeline xử lý, và chuyển đổi quy mô nội dung tài liệu thành các đầu ra có cấu trúc nhẹ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Trích xuất bảng cho xử lý**
+  Chuyển đổi các bảng tài liệu thành cấu trúc dạng văn bản phù hợp cho các quy trình dữ liệu.
+
+* **Trao đổi dữ liệu nhẹ**
+  Hỗ trợ di chuyển nội dung có cấu trúc giữa các công cụ với tối thiểu chi phí định dạng.
+
+* **Chuẩn bị nhập**
+  Giúp chuẩn bị các bản ghi xuất phát từ tài liệu cho các hệ thống chấp nhận đầu vào có dấu phân cách.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Xuất dữ liệu có cấu trúc định kỳ**
+  Tự động hoá chuyển đổi DOCM sang TSV cho các quy trình vận hành liên tục.
+
+* **Chuẩn bị dữ liệu thân thiện với pipeline**
+  Tạo ra các đầu ra có thể dễ dàng phân tích trong các script và công việc tích hợp.
+
+* **Quy trình chuyển đổi hàng loạt**
+  Chuyển đổi nhiều tệp DOCM thành các đầu ra TSV nhất quán một cách lập trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

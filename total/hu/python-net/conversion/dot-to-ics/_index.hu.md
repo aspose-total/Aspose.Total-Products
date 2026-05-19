@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOT-t hozzáadni ICS-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOT‑ICS átalakítás a dokumentumsablonokat naptár‑kompatibilis adatokra alakítja, amelyeket ütemezésre és eseménycserére lehet használni. Ez akkor fontos, amikor a sablon tartalma dátum‑alapú információkat tartalmaz, amelyeket naptárfolyamatokon keresztül kell megosztani.
+
+Python API‑kkal a DOT‑ICS átalakítás automatizálható, hogy megbízhatóan és ismételhetően támogassa az eseménygenerálást, időpont‑elosztást és az ütemezési rendszerekkel való integrációt.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Esemény létrehozása sablonokból**
+  A DOT‑alapú ütemezési információkat ICS fájlokká konvertálja naptárhasználatra.
+
+* **Találkozók és idővonalak terjesztése**
+  A dokumentumból származó dátumokat és eseményeket szabványos ütemezési formátumban osztja meg.
+
+* **Munkafolyamat‑ütemezés integráció**
+  A strukturált sablontartalmat naptár‑artefaktumokká alakítja operatív tervezéshez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált naptárgenerálás**
+  A Python‑szkriptek a dátum‑orientált DOT sablonokat ICS fájlokká konvertálhatják terjesztésre.
+
+* **Ütemezési csővezeték támogatása**
+  Az átalakítás lehetővé teszi a rendszerek számára, hogy a dokumentum‑definiált eseményeket naptárfolyamatokba juttassák.
+
+* **Kötegelt eseménykiadás**
+  A programozott feldolgozás nagy mennyiségű ICS fájl létrehozását teszi lehetővé több sablonból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

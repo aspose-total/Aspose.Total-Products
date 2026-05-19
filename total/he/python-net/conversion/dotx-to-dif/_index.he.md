@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑DIF ממירה את תוכן תבנית ה‑Word לפורמט חילופי נתונים המתאים למערכות גיליון אלקטרוני מדורגות ולהעברת נתונים מובנית. היא מסייעת לשמר מידע ממוקד‑טבלאות בסביבות שבהן התאימות לכלים ישנים של נתונים נשארת חשובה.
+
+באמצעות ממשקי API של Python, המרה זו משפרת את האוטומציה על‑ידי אפשרות לייצוא ידידותי למדורגות, שינוי נתונים חוזר, ושילוב עם מערכות המתבססות על פורמטים של גיליונות אלקטרוניים המיועדים להחלפה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **החלפת נתונים מדורגת**
+  ייצא תוכן מסמך מובנה לפורמט שמקובל על ידי כלי גיליון אלקטרוני מדורגים.
+
+* **הגירת תוכן טבלאי**
+  העבר מידע מבוסס תבנית למערכות המתבססות על קבצי חילוף מובנים.
+
+* **תהליכי עבודה תואמים**
+  תמוך בסביבות שבהן פורמטים מודרניים של גיליון אלקטרוני אינם האפשרות המועדפת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצוא מדורגת אוטומטי**
+  המרת תבניות DOTX ל‑DIF בעבודות חוזרות עבור תהליכי עבודה תואמים לאחור.
+
+* **צינוריות העברת נתונים**
+  הפנה טבלאות מסמך שהוצאו למערכות הצורכות פורמטים של חילוף.
+
+* **המרת ארכיון**
+  שמר נתוני מסמך מובנים בקבצי חילוף מתוקנים לגישה ארוכת טווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCX ל‑DIF ממירה מידע מובנה שנמצא במסמכי עיבוד תמלילים לפורמט Data Interchange Format, סוג קובץ המשמש להחלפת נתוני גיליונות אלקטרוניים בין יישומים. תהליך זה מאפשר למידע השמור בטבלאות DOCX או בתוכן מובנה להיות מיוצג בפורמט תואם לגיליונות אלקטרוניים ולמערכות נתונים מדור קודם.
+
+באמצעות ממשקי API של Python, ניתן לשלב המרת DOCX ל‑DIF בתהליכי עבודה אוטומטיים של שינוי נתונים. היא תומכת בסביבות עיבוד מסמכים בקנה מידה גדול שבהן נדרשת אינטרופראביליות בין מערכות ניהול מסמכים לכלי גיליונות אלקטרוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **החלפת נתוני גיליונות אלקטרוניים**  
+  ממירה טבלאות DOCX לפורמט DIF לתאימות עם יישומי גיליונות אלקטרוניים ומערכות מדור קודם.
+
+* **שילוב במערכות מדור קודם**  
+  מאפשר ייבוא נתוני מסמכים למערכות ישנות המתבססות על DIF להחלפת נתונים מובנים.
+
+* **תהליכי מיגרציית נתונים**  
+  מקלה על שינוי נתונים מבוססי מסמכים לפורמט המתאים למיגרציות מערכות.
+
+* **העברת נתונים חוצת פלטפורמות**  
+  תומכת בהעברת נתונים מובנים בין סביבות תוכנה שונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא נתוני גיליונות אלקטרוניים אוטומטי**  
+  מערכות יכולות באופן אוטומטי להמיר מסמכי DOCX המכילים טבלאות לקבצי DIF לעיבוד נוסף.
+
+* **צינורות המרה במרוכז**  
+  אוטומציה ב‑Python יכולה לעבד אוספים גדולים של קבצי DOCX ולהמיר אותם לפורמט DIF למטרות אינטגרציה.
+
+* **שינוי נתונים ארגוני**  
+  נתוני מסמכים יכולים להיות מומרי באופן אוטומטי לקבצי DIF כדי להזין יישומים מדור קודם או מערכות גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

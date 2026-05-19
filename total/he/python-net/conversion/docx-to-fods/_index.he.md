@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCX ל‑FODS ממירה מסמכי עיבוד תמלילים לפורמט Flat OpenDocument Spreadsheet, ומאפשרת לנתוני מסמכים מובנים להיות מיוצגים בפורמט גיליון אלקטרוני פתוח. פורמט זה מתאים להחלפת נתונים ולתהליכי עבודה עם מסמכים פתוחים.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת DOCX ל‑FODS במערכות הדורשות תקנים פתוחים לעיבוד מסמכים, אינטראופרטיביות והחלפת נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא נתוני גיליון אלקטרוני פתוח**  
+  ממירה נתוני מסמך DOCX לפורמטים של גיליונות אלקטרוניים פתוחים.
+
+* **עיבוד מסמכים אינטראופרטיבי**  
+  מאפשרת תאימות עם מערכות אקולוגיות של מסמכים פתוחים.
+
+* **המרת נתונים מובנית**  
+  מאפשרת חילוץ מידע מבוסס מסמך לקבצי גיליון אלקטרוני.
+
+* **הגירת נתונים לפורמטים פתוחים**  
+  תומכת בהגירה מפורמטים קנייניים של מסמכים לתקנים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות עיבוד נתונים פתוחים**  
+  מסמכי DOCX יכולים להיות מומרי אוטומטית לגיליונות FODS.
+
+* **המרת פורמט פתוח במאצ'**  
+  סקריפטים ב‑Python יכולים להמיר אוספי מסמכים לקבצי גיליון אלקטרוני פתוחים.
+
+* **תהליכי עבודה ארגוניים אינטראופרטיביים**  
+  מערכות אוטומטיות יכולות לייצא נתוני מסמכים מובנים לפורמטים של גיליונות אלקטרוניים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

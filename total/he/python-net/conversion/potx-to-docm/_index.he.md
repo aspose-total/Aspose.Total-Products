@@ -105,7 +105,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTX ל‑DOCM באמצעות ממשקי Python מאפשרת להמיר תוכן תבנית PowerPoint למסמכי Word עם תמיכה במקרו עבור זרימות עבודה מתקדמות של מסמכים. זה בעל ערך כאשר על התוכן המומר לתמוך בפעולות מתוכנתות, לוגיקה משולבת או התנהגות אינטראקטיבית של המסמך.
+
+בסביבות המתמקדות באוטומציה, המרת POTX ל‑DOCM מסייעת לגשר בין תבניות מצגות למערכות מסמכים דינמיות. היא תומכת ביצירת מסמכים בקנה מידה שבו כללי אוטומציה, מקרו או שלבי עיבוד חוזרים הם חלק מהזרימה הסופית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמך עם מקרו**
+  ממירה חומר תבנית מצגת למסמכים שיכולים לתמוך בפעולות אוטומטיות ולוגיקה.
+
+* **הרחבת זרימת עבודה**
+  מרחיבה תוכן מבוסס מצגת לסביבות מסמכים מתקדמות עם תכונות ניתנות לתכנות.
+
+* **עיבוד מסמכים תפעוליים**
+  מסייעת בהכנת מסמכים לתהליכים התלויים באוטומציה חוזרת בתוך הקובץ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פלט מסמך מונע על ידי כללים**
+  מאפסת את יצירת קבצי DOCM עבור זרימות עבודה הדורשות תמיכה במקרו משולב.
+
+* **טיפול במסמכי ארגון**
+  ממירה תבניות POTX לקבצים עם מקרו עבור צינורות עיבוד פנימיים מובנים.
+
+* **צינורות תבנית לפעולה**
+  תומכת בזרימות עבודה דינמיות שבהן מסמכים מומרצים מפעילים או תומכים במשימות אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

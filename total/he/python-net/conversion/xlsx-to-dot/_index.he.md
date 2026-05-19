@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑DOT מאפשרת למידע מגיליון אלקטרוני להיות מומר לקבצי תבנית של Word ליצירת מסמכים חוזרים. זה שימושי כאשר נתוני הגיליון משמשים כבסיס לטפסים, מכתבים או תבניות דיווח סטנדרטיים.
+
+בסביבות אוטומציה, המרת XLSX ל‑DOT תומכת במערכות מונעות תבניות על‑ידי הפיכת נתונים מובנים לתכניות מסמך ניתנות לשימוש חוזר המשפרות עקביות, מצמצמות עבודה ידנית ומפשטות יצירת פלט בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית למסמכים חוזרים**  
+  ממיר את תוכן הגיליון לתבניות מסמך ניתנות לשימוש חוזר עבור זרימות עבודה עסקיות חוזרות.
+
+* **הכנת טפסים סטנדרטיים**  
+  מסייע לבנות פריסות מסמך עקביות בהתבסס על מבנה ותוכן המוגדרים בגיליון.
+
+* **תבניות תיעוד תהליכים**  
+  תומך ביצירת מסגרות מסמך שניתן להשתמש בהן מחדש בין צוותים ומחלקות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבניות אוטומטית**  
+  מערכות יכולות ליצור תבניות DOT ממקורות גיליון מתוחזקים לניהול מסמכים מרוכז.
+
+* **נכסי זרימת עבודה ניתנים לשימוש חוזר**  
+  המרה תומכת ביצירת תבניות Word אוטומטית שמזינות תהליכי תוכן בשלבים הבאים.
+
+* **סטנדרטיזציה של מסמכים בקנה מידה**  
+  המרה תכנותית מבטיחה ייצור תבניות עקבי בין יחידות עסקיות מרובות או פרויקטים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

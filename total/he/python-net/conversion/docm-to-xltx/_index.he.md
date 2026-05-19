@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל-XLTX ממירה מסמכי macro-enabled למסגרות גיליון אלקטרוני מודרניות, מה שמקל על שימוש חוזר בתבניות חוברת עבודה מובנות בתהליכי עבודה של גיליונות אלקטרוניים מתוקננים. זה שימושי כאשר ארגונים זקוקים לתבניות נקיות וניתנות לחזרה המבוססות על תוכן שמקורו במסמך.
+
+בסביבות מונעות אוטומציה, המרת DOCM ל-XLTX תומכת באספקת חוברות עבודה יעילה, ניהול תבניות מרוכז, והמרה ניתנת להרחבה של מסמכים לנכסי גיליון אלקטרוני מודרניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **פלט תבנית גיליון אלקטרוני מודרני**
+  ממיר את תוכן המסמך לתבניות חוברת עבודה ניתנות לשימוש חוזר לצורך תפעול עקבי.
+
+* **אחידות תבניות**
+  מסייע לשמור על מבני גיליון אלקטרוני מאוחדים בתהליכים חוזרים.
+
+* **פריסות נתונים ניתנות לשימוש חוזר**
+  מתאים טבלאות ותבניות של המסמך לעיצובים של תבניות מוכנות לחוברת עבודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת תבנית אוטומטית**
+  מייצר קבצי XLTX ממקורות DOCM עבור תהליכי עבודה של גיליונות אלקטרוניים ניתנים לחזרה.
+
+* **ניהול חוברות עבודה מרוכז**
+  תומך בהפצה ניתנת להרחבה של תבניות מתוקננות בין צוותים.
+
+* **אספקת גיליון אלקטרוני דינמית**
+  מאפשר למערכות למלא תבניות חוברת עבודה ניתנות לשימוש חוזר בנתונים מעודכנים באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OST ל‑DOC ממירה את תוכן תיבת הדואר לפורמט מסמך שניתן לעריכה, מאפשרת שימוש חוזר בנתוני האימייל, ארגון ושימור בסביבת עיבוד תמלילים מוכרת. היא בעלת ערך לתיעוד, דיווח עסקי, ולתהליכי עבודה הדורשים תוכן הודעות בצורה ניתנת לשינוי.
+
+למערכות מונעות אוטומציה, המרת OST ל‑DOC תומכת בחילוץ תוכן ברמת סקלאביליות ויצירת מסמכים מארכיוני תיבות הדואר. ממשקי API של Python מסייעים לייעל תהליך זה, ומאפשרים זרימות עבודה חוזרות של המרה לניהול תוכן ארגוני ותפעול דיגיטלי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **תיעוד אימייל ניתן לעריכה**  
+  ממיר הודעות תיבת דואר לקבצי DOC לצורך סקירה, עריכה ושימוש חוזר.
+
+* **איחוד רשומות**  
+  מסייע לשלב תוכן אימייל עם דיווחים מבוססי מסמך רחבים יותר או חומרים למקרים.
+
+* **לכידת ידע פנימי**  
+  שומר מידע חשוב מתיבת הדואר בפורמט המתאים לתיעוד מובנה.
+
+* **קבצי העברת תהליכים**  
+  הופך מידע שמקורו באימייל לקל יותר לשיתוף בין צוותים בצורה ניתנת לעריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמכים אוטומטית**  
+  סקריפטים ב‑Python מייצרים קבצי DOC מתוכן OST לצורך דיווח וזרימות עבודה של רשומות.
+
+* **עיבוד תוכן תיבת דואר**  
+  צינורות המרה מחלץ ומשנים הודעות למסמכים ניתנים לעריכה לשימוש עסקי.
+
+* **אוטומציית ארכיון למסמך**  
+  המרה תכנותית תומכת במעבר ברמת סקלאביליות מאחסון אימייל למערכות מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

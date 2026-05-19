@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑FODS ממירה תבניות Word עם מקרו לקבצי גיליון OpenDocument שטוח, מה שמקל על אחסון תוכן מובנה בצורה פתוחה של גיליון מבוסס XML. זה בעל ערך לאינטרופרביליות, אחסון שקוף, ולתהליכי עבודה שמעדיפים תקני מסמכים פתוחים.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑FODS תומך באוטומציה על‑ידי שינוי תבניות שניתן להשתמש בהן מחדש לפלטי גיליון פתוחים עם מינימום טיפול ידני. זה מסייע לשיפור ניידות, מפשט אינטגרציה עם מערכות מבוססות תקנים, ותומך בצינוריות המרה של מסמכים בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא גיליון פתוח**
+  המרת תוכן DOTM ל‑FODS עבור תהליכי עבודה המתבססים על פורמטים פתוחים וניתנים לבחינה של גיליונות.
+
+* **שיתוף נתונים אינטרופרבילי**
+  מאפשר החלפה קלה יותר של תוכן מסמכים מובנה בין כלים התומכים בתקני OpenDocument.
+
+* **אחסון נתונים שקוף**
+  שומר על נתוני תבנית שהוצאו בפורמט גיליון XML שטוח המתאים לעיבוד מבוקר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציית תהליכי עבודה בפורמט פתוח**
+  המרה אוטומטית מאפשרת לתבניות DOTM להזין מערכות הדורשות פלטי גיליון מבוססי תקנים.
+
+* **צינוריות נתונים ממוקדות XML**
+  ההמרה תומכת בטיפול אוטומטי שבו תוכן הגיליון חייב להישאר מבוסס טקסט וקריא למכונה.
+
+* **עיבוד גורף תואם תקנים**
+  משימות תכנותיות יכולות להמיר מספר רב של קבצי DOTM ל‑FODS באופן עקבי לשילוב בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

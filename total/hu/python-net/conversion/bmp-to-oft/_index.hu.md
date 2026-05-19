@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál BMP-t hozzáadni OFT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A BMP‑ről OFT‑re konvertálás lehetővé teszi, hogy a bitmap képeket beépítsük az OFT formátumú e‑mail sablonfájlokba. Ezeket a sablonokat gyakran használják az e‑mail kommunikációs folyamatok szabványosítására.
+
+Az automatizálási rendszerek a BMP‑ről OFT‑re konvertálásból úgy profitálnak, hogy újrahasználható üzenetsablonokat hoznak létre, amelyek vizuális tartalmat is tartalmaznak. Ez segít a kommunikációs munkafolyamatok egyszerűsítésében és a konzisztencia fenntartásában az automatizált üzenetküldő rendszerekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **E‑mail sablonok létrehozása**  
+  BMP képek beágyazhatók újrahasználható OFT e‑mail sablonokba.
+
+* **Szabványosított kommunikációs munkafolyamatok**  
+  A szervezetek vizuális sablonokat tervezhetnek automatizált üzenetküldéshez.
+
+* **Újrahasználható üzenetelrendezések**  
+  A rendszerek olyan sablonokat készíthetnek, amelyek képelemeket tartalmaznak ismételt felhasználásra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált sablon generálás**  
+  Szkriptek OFT sablonokat generálnak BMP képekből az üzenetküldő rendszerek számára.
+
+* **Munkafolyamat‑alapú üzenetsablonok**  
+  Alkalmazások dinamikus e‑mail sablonokat hoznak létre beágyazott vizuális elemekkel.
+
+* **Sablon elosztó rendszerek**  
+  Automatizált csővezetékek generálják és terjesztik a szabványosított e‑mail sablonokat.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑XLS ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי גיליון אלקטרוני לצורך סקירה מובנית, חישוב ושיתוף. זה בעל ערך כאשר חומר מקור מבוסס טקסט צריך להיות מאורגן מחדש לפורמט חוברת עבודה לשימוש עסקי או תפעולי.
+
+המרה משפרת את האוטומציה על‑ידי אפשרות לתוכן המסמך לזרום ישירות לתהליכים מבוססי גיליון אלקטרוני שבהם ניתן לבצע ניתוח, אימות ודיווח באופן יעיל וחוזר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת חוברת עבודה**  
+  ממירה תבניות מסמך לקבצי גיליון אלקטרוני ניתנים לעריכה.
+
+* **ארגון נתונים**  
+  מארגן תוכן טקסטואלי לשורות ועמודות לצורך טיפול נוח יותר.
+
+* **תמיכה בדיווח**  
+  מכין מידע מקור לסיכומים המונעים על‑ידי גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא גיליונות אלקטרוניים אוטומטי**  
+  מייצר קבצי XLS מתוכן OTT חוזר.
+
+* **עיבוד נתונים תפעולי**  
+  מעביר מידע שמופק מתבניות לתהליכי חוברת עבודה.
+
+* **צינורות דיווח מתוזמנים**  
+  מייצר פלטי גיליון אלקטרוני לסקירות עסקיות קבועות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

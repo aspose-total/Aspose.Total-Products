@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSM ל‑RTF ממירה תוכן גיליון אלקטרוני עם מקרו לפורמט מסמך טקסט עשיר שנועד לתאימות רחבה והחלפת טקסט מעוצב פשוטה. היא שימושית כאשר יש צורך לשתף מידע מבוסס גיליון אלקטרוני כתוכן קל משקל, ניתן לעריכה, במערכות שונות.
+
+בזרימות עבודה של אוטומציה, RTF מציע פורמט פרקטי ליצירת מסמכי טקסט קריאים ממקורות גיליון אלקטרוני ללא צורך בתלותיות מסמך מורכבות. ממשקי API של Python יכולים לאוטומט את המרת XLSM ל‑RTF לדיווח, ארכיון והפצת תוכן מתאימה.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **שיתוף מסמכים קל משקל**
+  ממיר את תוכן הגיליון האלקטרוני לקבצי טקסט מעוצבים שקל להפיץ ולפתוח.
+
+* **החלפת טקסט חוצת פלטפורמות**
+  תומך בתאימות רחבה בעת שיתוף מסמכים שמקורם בגיליון אלקטרוני בין כלים שונים.
+
+* **פלט דוח קריא**
+  מסייע להצגת נתונים מובנים בפורמט מסמך מפושט לבחינה מהירה.
+
+* **עיצוב ידידותי לארכיון**
+  מאפשר שמירת מידע גיליון אלקטרוני מבוסס טקסט בסגנון מסמך נייד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת טקסט עשיר אוטומטית**
+  ממשקי API של Python יכולים להמיר קבצי XLSM למסמכי RTF עבור זרימות עבודה של פלט חוזר.
+
+* **ייצוא מסמכים במרוכז**
+  קבוצות גדולות של גיליונות אלקטרוניים ניתן להפוך לקבצי טקסט עשיר באופן תכנותי.
+
+* **צינורות תוכן מתאימים לאינטראופרביליות**
+  המרה מסייעת להעביר תוכן גיליון אלקטרוני לפורמטים המתאימים לסביבות מערכות משולבות.
+
+* **אוטומציה שגרתית של דיווח**
+  מערכות אוטומטיות יכולות לייצר סיכומי RTF מנתוני XLSM עם מינימום עיצוב ידני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

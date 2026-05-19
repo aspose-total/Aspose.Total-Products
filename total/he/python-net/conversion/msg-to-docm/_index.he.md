@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MSG ל‑DOCM ממירה קבצי הודעות דוא"ל למסמכי עיבוד תמלילים עם תמיכה במקרו, התומכים בהתנהגות מתקדמת של המסמך. זה שימושי כאשר יש צורך לשמר את תוכן ההודעה בפורמט שניתן לעריכה תוך שמירה על תאימות לסביבות עיבוד מבוססות מקרו.
+
+לצורך אוטומציה, זרימות עבודה של MSG ל‑DOCM רלוונטיות במערכות המתבססות על פעולות מסמך מתוכנתות, רוטינות אימות או משימות עיצוב מובנות. הן מסייעות לחבר תוכן שמקורו במייל עם פעולות מסמכי ארגון דינמיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **תיעוד עם תמיכה במקרו**  
+  הכן את תוכן המייל המומר לסביבות מסמך המשתמשות במקרו אוטומציה.
+
+* **עיבוד תוכן מובנה**  
+  תמוך בעיצוב ובמניפולציה מונעי-כללים לאחר ההמרה.
+
+* **הרכבה תפעולית של מסמכים**  
+  הטמע נתוני הודעה בתבניות מסמך מבוקרות ומוכנות לאוטומציה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **עיבוד לאחרי-מקרו**  
+  המר קבצי MSG ל‑DOCM כדי שהרוטינות הבאות בתהליך יוכלו להחיל שלבי עיצוב או אימות.
+
+* **זרימות עבודה של מסמכי ארגון**  
+  הזן מסמכים מומררים למערכות סקירה אוטומטיות התלויות בתמיכה במקרו.
+
+* **טיפול בתוכן דינמי**  
+  אפשר עדכונים תכנותיים ופעולות זרימת עבודה על מסמכים שמקורם בהודעות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

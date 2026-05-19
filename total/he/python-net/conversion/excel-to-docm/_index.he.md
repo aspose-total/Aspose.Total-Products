@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑DOCM בפייתון מאפשרת לייצא תוכן גיליון אלקטרוני למסמכי עיבוד תמלילים עם אפשרות למקרו עבור זרימות עבודה מתקדמות של מסמכים. זה שימושי כאשר הקבצים המומרים חייבים להישאר ניתנים לעריכה תוך תמיכה בפעולות מבוססות מקרו בסביבות מסמכים.
+
+המרה זו רלוונטית לאוטומציה מכיוון שהיא מחברת נתוני גיליון אלקטרוני עם התנהגות מסמך ניתנת לתכנות, ומאפשרת יצירה בקנה מידה של קבצים אינטראקטיביים ומודעים לתהליך.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **דיווח עם אפשרות למקרו**  
+  המרת קבצי Excel למסמכי DOCM שיכולים לתמוך בפעולות אוטומטיות בתוך זרימות עבודה של עיבוד תמלילים.
+
+* **מסמכי תהליך**  
+  הכנת קבצים ניתנים לעריכה המשלבים נתונים מובנים עם יכולות אוטומציה משולבות במסמך.
+
+* **תבניות תפעוליות**  
+  שימוש בנתוני גיליון אלקטרוני למילוי מסמכים שנועדו למשימות חוזרות המונעות על ידי מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הרכבה אוטומטית של מסמכים**  
+  המרת קלטי Excel לפלטי DOCM עבור זרימות עבודה הדורשות מסמכים ניתנים לעריכה ומוכנים לסקריפטים.
+
+* **אוטומציה פנימית של תהליכים**  
+  תמיכה במחלקות המתבססות על קבצים עם אפשרות למקרו עבור עיצוב, אימות או השלמה מודרכת.
+
+* **צינורות נתונים-למסמך**  
+  שימוש ב‑APIs של פייתון ליצירת קבצי DOCM באופן תכנותי ממקורות נתונים מבוססי גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

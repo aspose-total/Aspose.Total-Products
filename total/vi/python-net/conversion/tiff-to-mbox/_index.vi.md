@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi TIFF sang MBOX bằng các API Python giúp chuyển đổi các tài liệu dựa trên hình ảnh thành cấu trúc lưu trữ hộp thư có thể chứa nội dung dạng tin nhắn ở quy mô lớn. Điều này có lợi cho các tổ chức cần bảo tồn hoặc tổ chức các bản ghi giao tiếp xuất phát từ TIFF trong quy trình lưu trữ email hàng loạt.
+
+Trong môi trường dựa trên tự động hoá, việc chuyển đổi TIFF sang MBOX cải thiện hiệu quả lưu trữ và hỗ trợ xử lý quy mô lớn các bản ghi hình ảnh thành các bộ sưu tập tương thích với hộp thư. Điều này đặc biệt quan trọng khi lưu trữ hợp nhất, sẵn sàng cho việc di chuyển, hoặc xuất khẩu có cấu trúc là cần thiết.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo lưu trữ hộp thư**
+  Chuyển đổi nội dung TIFF thành các đầu ra tương thích MBOX cho việc lưu trữ dạng email hợp nhất.
+
+* **Bảo tồn hồ sơ hàng loạt**
+  Giúp tổ chức các tài liệu xuất phát từ hình ảnh trong các cấu trúc hộp thư thân thiện với lưu trữ.
+
+* **Chuẩn bị di chuyển**
+  Hỗ trợ chuẩn bị các bản ghi giao tiếp hình ảnh để chuyển sang các hệ thống thư tương thích.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động hoá" %}}
+
+* **Tự động hoá lưu trữ quy mô lớn**
+  Chuyển đổi các lô tài liệu TIFF thành đầu ra MBOX cho quy trình lưu trữ có thể mở rộng.
+
+* **Hỗ trợ quy trình giữ lại**
+  Cho phép bảo tồn tự động các bản ghi dựa trên hình ảnh trong các định dạng thu thập tin nhắn.
+
+* **Xử lý xuất khẩu và chuyển giao**
+  Hỗ trợ tạo động các lưu trữ hộp thư từ nguồn TIFF cho các nhiệm vụ di chuyển hạ lưu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

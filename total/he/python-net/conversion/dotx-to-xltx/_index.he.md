@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל-XLTX ממירה את תוכן תבנית ה‑Word לפורמט תבנית גיליון אלקטרוני מודרני ליצירת חוברות עבודה שניתן להשתמש בהן מחדש. היא שימושית עבור ארגונים המעוניינים בתפוקות גיליון אלקטרוני עקביות שנוצרות מתבניות מסמכים סטנדרטיות.
+
+המרה זו תומכת באוטומציה על ידי אפשרות ל‑APIs של Python לבנות תבניות גיליון אלקטרוני חוזרות שמפשטות דיווח, הזנת נתונים, ועקביות תפעולית בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **תבניות חוברות עבודה מודרניות**
+  המרת תוכן המסמך לתבניות גיליון אלקטרוני שניתן להשתמש בהן מחדש עבור זרימות עבודה נוכחיות.
+
+* **יצירת גיליון אלקטרוני סטנדרטית**
+  הבטחת מבני חוברות עבודה עקביים לאורך פעולות חוזרות.
+
+* **שימוש חוזר בתבניות בין צוותים**
+  המרת פריסות מסמכים מאושרות לקבצי התחלה של גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבניות בכמות גדולה**
+  יצירת קבצי XLTX מתבניות DOTX בצינורות הכנת תוכן אוטומטיים.
+
+* **הגדרת דוחות חוזרים**
+  שימוש בתבניות שהומרו כדי לייעל יצירת חוברות עבודה מתוזמנות.
+
+* **זרימות עבודה של עקביות תפעולית**
+  הפצה תכנותית של תבניות גיליון אלקטרוני סטנדרטיות ממקורות מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

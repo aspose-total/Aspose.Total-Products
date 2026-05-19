@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑Excel משנה תבניות מסמכים שניתן להשתמש בהן מחדש למחברות ידידותיות לגיליונות אלקטרוניים לחישוב, דיווח וביקורת מובנית. זה בעל ערך כאשר יש צורך לנתח או להשתמש מחדש בתוכן תבנית מבוסס טקסט בפורמט עסקי מבוסס רשת.
+
+ממשקי API של Python הופכים תהליך זה ליעיל על ידי אפשרות לחילוץ והמרה אוטומטיים של תוכן DOT לפלטים תואמי Excel, ותומכים בתהליכי עבודה של נתונים שניתנים להרחבה ולחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת דוחות**
+  המרת קבצי DOT למחברות Excel לצורך ביקורת, חישוב ודיווח מובנה.
+
+* **ארגון מחדש של נתונים**
+  העברת תוכן המסמך לפריסות גיליון אלקטרוני שקל יותר לסנן ולנתח.
+
+* **העברות תפעוליות**
+  שיתוף מידע שמקורו בתבנית בפורמט מוכר לצוותים עסקיים ולמערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של מסמך‑למחברת**
+  סקריפטים ב‑Python יכולים להמיר תבניות DOT לפלטי Excel עבור אספקת נתונים מתוזמנת.
+
+* **דיווח מבוסס צינור**
+  זרימות עבודה אוטומטיות יכולות להמיר את תוכן המסמך למחברות עבור תהליכי מודיעין עסקי.
+
+* **יצירת גיליונות אלקטרוניים ברמת נפח גבוהה**
+  המרה תכנותית תומכת ביצירת פלטי Excel עקביים על פני קבצים מקוריים רבים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

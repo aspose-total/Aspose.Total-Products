@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLTM ל‑WordML ב‑Python תומך בהמרת תבניות Excel עם מקרו ל‑markup של מסמכי Word מבוססי XML לעיבוד מסמכים מובנה וקריא למכונה. זה שימושי כאשר יש צורך לייצג תוכן המונע מגיליונות בתבנית המתאימה למניפולציה מתקדמת של מסמכים ולשילוב במערכות.
+
+בסביבות ממוקדות אוטומציה, המרה מ‑XLTM ל‑WordML משפרת את האינטרופראביליות, תומכת בתהליכי עבודה של מסמכים מובנים, ומאפשרת שליטה עמוקה יותר בתהליכי יצירת מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמכים מבוססי XML**  
+  ממיר תבניות חוברות עבודה למבנה Word מובנה לטיפול במערכת ידידותי.
+
+* **עיבוד תוכן קריא למכונה**  
+  תומך בתהליכי עבודה הדורשים פלט מסמך לניתוח, אימות או שינוי באופן תכנותי.
+
+* **אינטגרציה מתקדמת של מסמכים**  
+  מסייע לחבר נתונים שמקורם בגיליונות אל מערכות מסמכים מובנות וצינורות עיבוד מותאמים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של מסמכים מובנים**  
+  מייצר קבצי WordML מתבניות XLTM לתהליכי פרסום מונחי XML.
+
+* **החלפת תוכן מערכת-למערכת**  
+  מאפשר ליישומי Python לייצר סימון מסמכים המשולב עם כלי עיבוד במ downstream.
+
+* **צינורות שינוי תכנותיים**  
+  תומך בתהליכי המרה ניתנים להרחבה שבהם נדרש פלט מסמך קריא למכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

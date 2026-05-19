@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑PPSM ממירה מסמכים עם מקרו לקבצי מצגות עם מקרו למטרת הצגת מצגת ישירה עם התנהגות אוטומציה משובצת. זה שימושי כאשר מצגות דורשות גם הפעלה מיידית וגם פונקציונליות מתקדמת מתוכנתת.
+
+בזרימות עבודה המתמקדות באוטומציה, המרת DOCM ל‑PPSM תומכת ביצירת מצגות חוזרות תוך שמירה על פעולות אוטומטיות המשפרות חוויות מצגת מבוקרות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **מצגות מקרו מוכנות לנגינה**
+  יוצרת פלטי מצגות שיכולים לכלול התנהגות אינטראקטיבית או אוטומטית מתקדמת.
+
+* **הצגת מצגת אוטומטית**
+  תומכת במצגות לשימוש ישיר שנוצרות מתוכן מסמך מובנה.
+
+* **חוויות תצוגה מבוקרות**
+  עוזרת להכין נכסי שקופיות לסביבות שבהן התנהגות הנגינה חשובה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מצגות תכנותית**
+  ממירה קבצי DOCM לפלטי PPSM כחלק מזרימות עבודה ויזואליות חוזרות.
+
+* **שמירת אוטומציה משובצת**
+  שומרת על התנהגות מצגת נדרשת למסירה מודרכת או מתוכנתת של שקופיות.
+
+* **הפצת מצגות בקנה מידה**
+  תומכת ביצירת קבצים מרובי מצגות עם מקרו מוכנים להפעלה בכמות גדולה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

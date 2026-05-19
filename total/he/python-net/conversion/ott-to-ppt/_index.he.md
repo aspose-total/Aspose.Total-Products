@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑PPT ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי מצגות לשיתוף ותקשורת מבוססי שקופיות. זה שימושי כאשר תוכן מקור עשיר בטקסט צריך להיות ארוז מחדש לפורמט מצגת לנגישות רחבה יותר וסיפור חזותי.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות ליצירת נכסי מצגות חוזרים מתבניות מסמכים סטנדרטיות, משפרת יעילות בדיווח, חינוך וזרימות עבודה של תקשורת ארגונית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש" %}}
+
+* **יצירת חבילת שקופיות**  
+  ממירה מסמכי מקור לקבצי מצגת לשיתוף.
+
+* **שימוש חוזר בתוכן**  
+  ממנף נרטיב או טקסט מובנה בפורמטים של תקשורת חזותית.
+
+* **הכנה לפגישה**  
+  עוזר להפוך תוכן מסמך לחומרי מצגת במהירות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **בניית מצגות אוטומטית**  
+  מייצרת פלטי PPT מתהליכי עבודה מבוססי OTT חוזרים.
+
+* **המרת דוחות בכמות**  
+  ממירה קבוצות מסמכים לפורמט חבילה לעדכונים קבועים.
+
+* **אספקת תוכן תכנותית**  
+  תומכת ביצירת מצגות בקנה מידה מהתבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

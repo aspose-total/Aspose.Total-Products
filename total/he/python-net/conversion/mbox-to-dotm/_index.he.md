@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑DOTM ממירה ארכיוני תיבת דואר לקבצי תבניות Word עם מקרו, מה שמאפשר לשמר מבנים מבוססי דוא"ל בפורמט שניתן לשימוש חוזר וידידותי לאוטומציה. זה בעל ערך עבור סביבות מסמכים המשלבות תבניות חוזרות עם פונקציונליות מקרו מובנית.
+
+באמצעות API‑ים של Python, צוותים יכולים לאוטומט את המרת MBOX ל‑DOTM כדי לתמוך ביצירת תבניות בכמות גבוהה, עקביות בתהליכי העבודה, ותהליכי מסמכים התלויים בהתנהגות מתכנתת.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **ייצוא תבנית עם מקרו**
+  המרת תוכן דוא"ל לתבניות המתאימות לתהליכי עבודה מתקדמים של אוטומציה של מסמכים.
+
+* **מסגרות מסמכים חוזרות**
+  שימוש חוזר במבנים שמקורם בתיבת הדואר כבסיסי תבניות בקרב צוותים ומערכות.
+
+* **הכנת תוכן מונעת זרימת עבודה**
+  הכנת תוכן מבוסס דוא"ל למערכות תבניות הכוללות לוגיקת אוטומציה של מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ספריות תבניות אוטומטיות**
+  בניית אוספי תבניות DOTM מנתוני תיבת הדואר באמצעות זרימות המרה מבוססות Python.
+
+* **יצירת פלט עקבית**
+  אחידות יצירת מסמכים על ידי המרת הודעות דוא"ל משומרות לתבניות עם מקרו שניתן להשתמש בהן מחדש.
+
+* **אוטומציית מסמכים ארגונית**
+  שילוב קבצי תבניות שהומרו לתוך צינורות יצירה וביקורת גדולים יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

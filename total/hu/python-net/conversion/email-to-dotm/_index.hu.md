@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál EMAIL-t hozzáadni DOTM-konverziós 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az e-mail DOTM konverzió Pythonban üzeneteket makróval ellátott Word-sablonokká alakít, amelyek kombinálják az újrahasználható struktúrát a fejlett automatizálási támogatással. Ez akkor értékes, amikor az e-mail alapú tartalommintákat be kell építeni a szkriptelt dokumentumgenerálási munkafolyamatokba.
+
+A formátum javítja az automatizálást, lehetővé téve a szervezetek számára, hogy szabványosítsák az üzenetalapú sablonokat, miközben támogatja a makróalapú logikát a formázáshoz, irányításhoz és a tartalomfejlesztéshez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Makróval ellátott sablon tervezése**
+  Alakítsa át az e-maileket DOTM fájlokká ismételhető sablonmunkafolyamatokhoz beépített automatizálással.
+
+* **Automatizált űrlapkészítés**
+  Használjon e-mailből származó sablonokat olyan környezetekben, ahol a makrók segítenek a tartalom kitöltésében vagy ellenőrzésében.
+
+* **Folyamat‑orientált dokumentáció**
+  Alakítsa át a strukturált üzeneteket újrahasználható sablonokká a belső műveletekhez.
+
+* **Fejlett szabványosítás**
+  Kombinálja a konzisztens elrendezéseket a dokumentumautomatizálási viselkedéssel egy sablonformátumban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Sablon‑alapú munkafolyamat‑automatizálás**
+  Generáljon DOTM fájlokat e-mailekből, és használjon makrókat a végdokumentumok automatikus előkészítéséhez.
+
+* **Kezelt tartalomfeltöltés**
+  Töltse fel az e-mailből származó sablonokat rendszeradatokkal az automatizált dokumentumkészítés során.
+
+* **Skálázható irodai feldolgozás**
+  Szabványosítsa az ismétlődő kommunikáció‑alapú dokumentumokat makróval segített kezelés segítségével.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

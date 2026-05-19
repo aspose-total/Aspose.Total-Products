@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPTM ל‑XLSM באמצעות ממשקי Python ממירה מצגות עם מקרו לקבצי גיליון אלקטרוני עם מקרו עבור זרימות עבודה המשלבות נתונים מובנים עם לוגיקת אוטומציה של גיליונות. זה בעל ערך כאשר על התוכן המומר לתמוך בחישובים, פעולות מתוכנתות, או בפעולות מתקדמות מבוססות גיליון.
+
+המרה זו מתיישרת היטב עם יעדי האוטומציה מכיוון שהיא מאפשרת לנתונים שמקורם במצגות להשתתף בזרימות עבודה של גיליונות אלקטרוניים הכוללות מקרו, כללי עסק, ושלבי עיבוד חוזרים. היא מסייעת להרחיב את השימושיות של תוכן המצגות מעבר לדיווח סטטי.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת גיליון אלקטרוני עם מקרו**
+  ממיר נתוני מצגת לגיליונות אלקטרוניים התומכים בהתנהגות חוברת עבודה אוטומטית.
+
+* **תמיכה בעיבוד נתונים מתקדם**
+  מאפשר תוכן שקופיות מובנה לשימוש חוזר בזרימות עבודה של גיליונות אלקטרוניים מונעות לוגיקה.
+
+* **דיווח ממוקד אוטומציה**
+  מסייע לשלב מידע מצגת עם משימות ושגרות גיליון אלקטרוני חוזרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות אוטומציה של גיליונות**
+  מייצר פלטי XLSM ממקורות PPTM לעיבוד מונע מקרו.
+
+* **שילוב לוגיקת עסק**
+  תומך בזרימות עבודה שבהן נתונים מומרצים מפעילים פעולות אוטומטיות בגיליון אלקטרוני.
+
+* **מערכות דיווח תכנותיות**
+  מאפשר לתוכן מצגת לזרום לתוך סביבות חוברות עבודה דינמיות, מבוססות כללים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑Excel ממירה את תוכן תבנית ה‑Word לפלט תואם גיליון אלקטרוני לצורך חישוב, סקירה וטיפול בנתונים מובנים. היא שימושית כאשר מידע שנוצר בתבניות מסמכים צריך להיות משומש מחדש בסביבות אנליטיות או טבלאיות.
+
+המרה זו משפרת את האוטומציה על‑ידי אפשרות לחילוץ והמרה מונעי‑Python של תוכן המסמך לתהליכי עבודה בגיליונות אלקטרוניים התומכים בקנה מידה, אימות ויעילות תפעולית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת ניתוח נתונים**
+  העברת תוכן מובנה מתבניות מסמכים לסביבות גיליונות אלקטרוניים.
+
+* **דיווח תפעולי**
+  שימוש חוזר בנתונים שמקורם במסמך בתהליכי חישוב וסקירה.
+
+* **עיצוב מחדש של תוכן תבנית**
+  המרת קטעים נרטיביים או טבלאיים למבנים מוכנים לגיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת גיליון אלקטרוני מתוזמן**
+  המרת קבצי DOTX לפלטי Excel באופן אוטומטי בצינורות הדיווח.
+
+* **תהליכי עבודה מסמך‑ל‑אנליטיקה**
+  הזנת נתוני הגיליון המומר למערכות לוחות מחוונים אוטומטיים ומדדים.
+
+* **המרת נתונים ברמת נפח גבוהה**
+  עיבוד קבוצות גדולות של תבניות לנכסי גיליון אלקטרוני במאמץ ידני מינימלי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

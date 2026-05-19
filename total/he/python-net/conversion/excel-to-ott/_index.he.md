@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑OTT בפייתון ממירה תוכן גיליון אלקטרוני לתבניות טקסט של מסמכי פתוח שניתן להשתמש בהם מחדש ליצירת מסמכים עקבית. זה שימושי כאשר נדרשים נתוני גיליון אלקטרוני מובנים כבסיס לתבניות פורמט פתוח מתוקנות.
+
+המרה זו מחזקת את האוטומציה על ידי אפשרות לתהליכי עבודה ממוקדי תבניות שממירים נתוני גיליון אלקטרוני לנכסים שניתן להשתמש בהם מחדש לתהליכי תיעוד חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית פתוחה**  
+  המרת נתוני Excel לקבצי OTT לתבניות מסמכי טקסט שניתן להשתמש בהם מחדש.
+
+* **תהליכי עבודה פתוחים מתוקנים**  
+  בניית נכסי תבניות התומכים בתיעוד עקבי בין צוותים ומערכות.
+
+* **הכנת מסגרת מסמך**  
+  יצירת נקודות התחלה מובנות למסמכי פורמט פתוח חוזרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת תבניות אוטומטית**  
+  שימוש ב‑APIs של פייתון ליצירת תבניות OTT ישירות ממקורות Excel.
+
+* **תהליכי עבודה חוזרים של מסמכים**  
+  הזנת תבניות מומרות למערכות שיוצרות מסמכים בקנה מידה גדול.
+
+* **שילוב תקן פתוח**  
+  תמיכה בסביבות אוטומציה המתבססות על פורמטים פתוחים של תבניות לניידות ולשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

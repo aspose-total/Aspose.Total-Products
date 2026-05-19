@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑MHTML ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי ארכיון אינטרנט שמאגדים תוכן לתוך פורמט נייד דמוי דף יחיד. זה בעל ערך כאשר פלט המסמך חייב להיבדק בדפדפנים או לשמרו כתוכן אינטרנטי עצמאי.
+
+המרה זו משפרת אוטומציה על‑ידי אפשרות לייצר באופן עקבי תוצרים ניתנים לשיתוף, קלים משקל ומוכנים לאינטרנט מתבניות, שניתן לאחסן, להעביר או לשלב בתהליכי עבודה דיגיטליים רחבים יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת ארכיון אינטרנט**  
+  יוצרת פלטי דף עצמאיים מתבניות מסמכים.
+
+* **צפייה ניידת**  
+  מקלה על פתיחת התוכן בסביבות ידידותיות לדפדפן.
+
+* **שמירה בקובץ יחיד**  
+  אורזת פלט מסמך מעוצב לקובץ אחד שניתן להעברה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת צילום רשת אוטומטית**  
+  ממירה קבצי OTT למסמכי רשת משוכנים במרוכז.
+
+* **הפצה מבוססת דפדפן**  
+  תומכת בתהליכי עבודה שמשתפים פלט תבניות כקבצים הניתנים לצפייה ברשת.
+
+* **צינוריות שמירת תוכן**  
+  אוחסנות מצבי מסמך מעוצבים בפורמט נייד קומפקטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

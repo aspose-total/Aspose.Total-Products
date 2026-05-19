@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑EML ממירה מסמכים עם מקרו לקבצי הודעות דוא"ל סטנדרטיים, מה שמקל על אחסון, שליחה או עיבוד של תוכן המסמך בסביבות תואמות דוא"ל. זה שימושי במיוחד כאשר יש צורך לשמר מסמך כפריט הודעה עצמאי.
+
+לצורך אוטומציה ושילוב, זרימות עבודה של DOCM ל‑EML תומכות ביצירת הודעות חוזרת, ארכוב והפנייה במערכות תקשורת המתבססות על מבני קבצי דוא"ל פתוחים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת קובץ הודעה**
+  ממירה את תוכן המסמך לקבצי הודעות דוא"ל ניידים לאחסון או הפצה.
+
+* **ארכוב תקשורת**
+  תומכת בסביבות שבהן יש לשמר התכתבות שנגזרת מהמסמך בפורמט דוא"ל.
+
+* **ניידות בין‑מערכות**
+  מסייעת להעביר תקשורת מבוססת מסמכים בין פלטפורמות דוא"ל תואמות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **אריזת דוא"ל אוטומטית**
+  מייצרת קבצי EML ממסמכי DOCM ללא הרכבת הודעה ידנית.
+
+* **ארכוב מונע זרימת עבודה**
+  מאחסנת תקשורת שנגזרת מהמסמך כקבצי הודעה למערכות ניהול רישומים.
+
+* **פעולות ייצוא בכמות גדולה**
+  ממירה קבצי DOCM מרובים לפלטי EML בצינורות עיבוד ניתנים להרחבה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

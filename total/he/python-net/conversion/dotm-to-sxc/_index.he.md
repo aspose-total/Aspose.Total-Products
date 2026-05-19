@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑SXC ממירה תבניות Word עם מקרו לקבצי גיליון אלקטרוני תואמים לסביבות OpenOffice‑סגנון ישנות. זה שימושי כאשר יש צורך להמיר את תוכן המסמך לפלטים של גיליונות אלקטרוניים מובנים תוך שמירה על תאימות לתהליכי עבודה של OpenOffice מורשת.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑SXC משפר אוטומציה על ידי הפיכת תבניות מסמך ניתנות לשימוש חוזר לנכסי גיליון אלקטרוני למערכות תואמות למורשת. זה תומך בחילוץ נתונים יעיל, באינטרופרטיביות רחבה יותר ובשינוי פורמט בר‑קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **תאימות לגיליון אלקטרוני פתוח מורשת**
+  המרת תוכן DOTM ל‑SXC עבור תהליכי עבודה שעדיין תלויים בפורמטים של גיליונות אלקטרוניים ישנים.
+
+* **שימוש חוזר בנתוני תבנית**
+  חילוץ תוכן מסמך מובנה לצורת גיליון אלקטרוני לצורך סקירה ועיבוד.
+
+* **תמיכה במעבר**
+  השתמש בפלטי SXC בעת מעבר תוכן לתוך או דרך סביבות משרדיות מורשת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא אוטומטי של גיליון אלקטרוני מורשת**
+  מערכות יכולות להמיר תבניות DOTM ל‑SXC כחלק מתהליכי עבודה המתמקדים בתאימות.
+
+* **אוטומציה של מסמך‑לנתונים**
+  ההמרה תומכת בחילוץ מתוזמן של תוכן מובנה לנכסי גיליון אלקטרוני.
+
+* **עיבוד באצ' של פורמט מורשת**
+  משימות תכנותיות מאפשרות שינוי בקנה מידה גדול של קבצי DOTM ל‑SXC ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

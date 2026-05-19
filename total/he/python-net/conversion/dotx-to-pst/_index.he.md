@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑PST ממירה תוכן תבנית Word לפורמט טבלת אחסון אישי הקשור לתהליכי ארכוב תיבות דואר והודעות. היא שימושית כאשר יש צורך לארוז תוכן תקשורת שנוצר למבני אחסון דואר ניידים.
+
+באמצעות ממשקי API של Python, המרה זו תומכת באוטומציה סביב ארכוב דוא"ל, ארגון הודעות, ושימור תקשורת בקנה מידה גדול המופק מתבניות מסמכים מובנות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ארכוב דואר נייד**
+  ארוז תקשורת שמקורה במסמך לפורמט אחסון דואר מובנה.
+
+* **תהליכי שימור הודעות**
+  שמר תקשורת שנוצרה לצורך ביקורת ועמידה בתקנות.
+
+* **אריזת תקשורת**
+  אחד הודעות מבוססות מסמך שניתן לשימוש חוזר לתוצרים ממוקדי ארכיון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ארכיב דואר אוטומטית**
+  צור קבצי PST מתוכן תקשורת מבוסס DOTX בצינורות השימור.
+
+* **אחסון הודעות בכמות גדולה**
+  טפל בכמויות גדולות של תכתובת שנוצרה דרך ארכיונים מובנים.
+
+* **אוטומציה של המרת מסמך לארכיב**
+  המרת פלטים חוזרים של תבניות לנכסי תיבת דואר ניידים באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

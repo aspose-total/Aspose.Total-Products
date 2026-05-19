@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PST ל‑DOCM ב‑APIs של Python מאפשרת לייצא נתוני תיבת דואר למסמכי Word עם מקרו עבור זרימות עבודה מתקדמות של מסמכים. זה שימושי כאשר יש צורך לשלב תוכן דוא"ל משומר עם התנהגות אוטומטית של מסמכים, עיצוב מובנה, או לוגיקה מבוקרת של תבניות.
+
+במערכות אוטומציה מודרניות, המרת PST ל‑DOCM תומכת בתהליכי יצירת מסמכים התלויים בפעולות דינמיות, טפסים ניתנים לשימוש חוזר, או תבניות מוכנות עם מקרו. היא מסייעת לחבר ארכיוני תקשורת עם פעולות מסמכי עסקים מונעות חוקים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים שימוש מרכזיים" %}}
+
+* **פלט מסמך עם מקרו**
+  מייצא את תוכן תיבת הדואר למסמך DOCM עבור זרימות עבודה המתבססות על אוטומציה משולבת במסמך.
+
+* **הרכבת רשומה מובנית**
+  מסייע לשלב נתוני הודעות עם תבניות מתקדמות מבוססות Word ולוגיקה.
+
+* **תקינה של מסמכי תפעול**
+  תומך בעיצוב עקבי של תוכן שמקורו במייל בקבצים עסקיים מבוקרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות אוטומציה של תבניות**
+  נתוני PST יכולים להיות מנותבים לתבניות DOCM ליצירת מסמכים חוזרים.
+
+* **הכנסת תוכן מונעת חוקים**
+  מערכות אוטומטיות יכולות למלא קבצים עם מקרו בתוכן תיבת דואר נבחר.
+
+* **זרימות תיעוד ארגוניות**
+  המרה תכנותית מאפשרת לתקשורת משומרת להזין תהליכי מסמכים מתקדמים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

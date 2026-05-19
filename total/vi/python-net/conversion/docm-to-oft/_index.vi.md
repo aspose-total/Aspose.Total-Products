@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi DOCM sang OFT biến các tài liệu có macro thành các tệp mẫu email có thể tái sử dụng, giúp nội dung dựa trên tài liệu dễ dàng chuẩn hoá cho các nhiệm vụ giao tiếp lặp đi lặp lại. Điều này hữu ích khi cần tạo ra thông điệp nhất quán từ các nguồn tài liệu đã được soạn thảo.
+
+Trong các quy trình tự động, việc chuyển đổi DOCM sang OFT cho phép tiếp cận theo mẫu, giao tiếp dựa trên quy trình, và tái sử dụng nội dung tài liệu một cách mở rộng trong các kịch bản truyền thông lặp lại.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tin nhắn dựa trên mẫu**
+  Chuyển đổi nội dung tài liệu thành các mẫu email có thể tái sử dụng cho giao tiếp chuẩn hoá.
+
+* **Tính nhất quán quy trình**
+  Giúp các nhóm duy trì cấu trúc đồng nhất trong các tin nhắn gửi đi lặp lại.
+
+* **Tái sử dụng nội dung**
+  Tái sử dụng văn bản tài liệu chính thức trong các mẫu giao tiếp mà không cần định dạng lại thủ công.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động" %}}
+
+* **Tự động tạo mẫu**
+  Tạo ra các tệp OFT từ tài liệu DOCM cho các quy trình tin nhắn có thể lặp lại.
+
+* **Giao tiếp kích hoạt bởi quy trình**
+  Sử dụng các mẫu đã chuyển đổi trong các quy trình phê duyệt, thông báo hoặc hỗ trợ.
+
+* **Chuẩn bị tin nhắn mở rộng**
+  Cho phép điền và phân phối nội dung dựa trên mẫu một cách động và quy mô.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

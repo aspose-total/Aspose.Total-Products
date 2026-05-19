@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑SXC ממירה תוכן מובנה מבוסס מסמכים לקבצי גיליון אלקטרוני תואמים עם זרימות עבודה של גיליונות פתוחים ישנים. זה שימושי עבור ארגונים השומרים על תאימות עם סביבות משרד פתוח ישנות.
+
+ממשקי ה‑API של Python תומכים בהמרת WordML ל‑SXC על‑ידי חילוץ טבלאות ואוטומציה של ההמרה לפורמטים ממוקדי גיליון אלקטרוני לצורכי הגירה ויכולת פעולה משותפת.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **פלט גיליון פתוח מדור קודם**
+  ממיר טבלאות WordML לקבצי SXC עבור סביבות גיליון אלקטרוני ישנות.
+
+* **שימוש חוזר בנתונים ממסמכים**
+  הופך תוכן מסמכי מובנה לעריכה בכלי גיליון אלקטרוני מדור קודם.
+
+* **שימור תאימות**
+  תומך בזרימות עבודה ארוכות טווח שעדיין תלויות בפורמטים פתוחים ישנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **אוטומציה של ייצוא מדור קודם**
+  מייצר פלטי SXC מקבצי WordML בזרימות עבודה המתמקדות בתאימות.
+
+* **משימות תמיכת הגירה**
+  מחבר מאגרי מסמכים עם סביבות עיבוד גיליון אלקטרוני ישנות.
+
+* **המרת טבלאות בכמות גדולה**
+  מאוטומט חילוץ ואריזת נתוני מסמכים לקבצי גיליון אלקטרוני מדור קודם.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

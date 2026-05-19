@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑DOT ממירה נתונים מופרדים בטאבים לקבצי תבנית של עיבוד תמלילים שיכולים לתמוך ביצירת מסמכים מתוקננים. זה שימושי כאשר נתונים מובנים חייבים להזין תבניות תיעוד חוזרות ותהליכי פרסום מונחי תבנית.
+
+עם ממשקי API של Python, ניתן לאוטומט את המרת TSV ל‑DOT כדי לייצר פלטים מבוססי תבנית שניתן להשתמש בהם מחדש, משפרים את ההרחבה, העקביות והיעילות בתהליכי יצירת מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת תבנית**  
+  ממירה תוכן TSV לפורמטים המתואמים עם מבני מסמכים ניתנים לשימוש חוזר.
+
+* **תיעוד מתוקנן**  
+  תומכת בעיצוב אחיד לדיווחים חוזרים או משימות יצירת רשומות.
+
+* **תהליכי הפצת תוכן**  
+  מסייעת בהכנת נתונים מובנים למערכות מסמכים ממוקדות תבנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **מסגרות מסמך ניתנות לשימוש חוזר**  
+  אוטומציה יכולה להפוך נתוני TSV לפלטים ממוקדי תבנית לשימוש חוזר.
+
+* **צינורות מסמכים תפעוליים**  
+  ממשקי API של Python יכולים לחבר ייצואי נתונים לצעדי יצירת תבניות מתוקננים.
+
+* **עיבוד ברמת נפח גבוהה**  
+  מספר ערכות נתוני TSV יכולים להיות מומרות לקבצי DOT עם לוגיקה עקבית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

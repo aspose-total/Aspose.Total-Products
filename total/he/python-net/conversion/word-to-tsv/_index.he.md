@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Word ל‑TSV באמצעות API‑ים של Python ממירה תוכן עיבוד תמלילים לערכי מופרדים בטאבים לצורך חילופי נתונים מבוססי טקסט מובנה. זה שימושי כאשר מידע שמופק מהמסמך צריך להיות מיוצא בפורמט פשוט ונייד המשמר הפרדה ללא תלות בפסיקים.
+
+בתרחישי אוטומציה, המרת TSV תומכת בטיפול נתונים בר‑קנה מידה, במיוחד כאשר פלטים מופרדים בטאבים מועדפים לייבוא, סקריפטים, או אינטראופרביליות עם מערכות המעבדות טקסט פשוט מובנה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא טקסט מובנה**
+  ממיר את תוכן המסמך לפלט מופרד בטאבים לחילופי נתונים נקיים.
+
+* **הכנת ייבוא נתונים**
+  הופך מידע שהוצא לקל יותר לטעינה לכלים התומכים בקלט TSV.
+
+* **עיבוד ידידותי לסקריפטים**
+  תומך בתהליכי עבודה קלים מבוססי טקסט לניתוח והמרה.
+
+* **חלופה להפרדת בפסיקים**
+  עוזר לשמור על בהירות כאשר ערכים מיוצאים עשויים להכיל פסיקים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת קבצים מופרדים באופן אוטומטי**
+  מייצר פלטי TSV מקבצי Word למטרות ייבוא ועיבוד שגרתיים.
+
+* **חילוץ נתונים במאצ'**
+  ממיר אוספי מסמכים לקבצים מובנים מופרדים בטאבים בקנה מידה גדול.
+
+* **החלפה ידידותית לצינור עבודה**
+  משתמש בפלטי TSV בסקריפטים, רוטינות אימות, ובאוטומציה במערכות המשנה.
+
+* **תהליכי מודרניזציה של ארכיונים**
+  הופך תוכן מסמכי מורשת לטקסט מובנה נגיש לשימוש חוזר רחב יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

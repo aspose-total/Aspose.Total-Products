@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to XLAM conversion in Python APIs converts OpenDocument text templates into add-in oriented spreadsheet outputs used to extend workbook functionality. This is useful in specialized workflows where converted content contributes to reusable spreadsheet-based automation assets.
+
+The conversion supports automation by aligning document-originated logic or structured content with spreadsheet extension workflows, helping standardize repeatable operations across advanced workbook environments.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Підтримка розширення електронних таблиць**  
+  Поєднує вміст документу з робочими процесами електронних таблиць, орієнтованими на надбудови.
+
+* **Підготовка багаторазових активів автоматизації**  
+  Допомагає упакувати структурований вміст для повторного використання в робочих книгах.
+
+* **Інтеграція розширених робочих процесів**  
+  Поєднує шаблони тексту та сценарії функціональності електронних таблиць.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизована підготовка вмісту надбудови**  
+  Програмно генерує вихідні дані, пов'язані з XLAM, з шаблонів OTT.
+
+* **Конвеєри покращення робочих книг**  
+  Підтримує робочі процеси, які поєднують конвертацію вмісту з автоматизацією електронних таблиць.
+
+* **Розповсюдження багаторазової бізнес-логіки**  
+  Допомагає масштабувати структуровані рішення електронних таблиць у межах команд.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

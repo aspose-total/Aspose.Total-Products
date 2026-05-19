@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑XLSM משנה תבניות מסמכים למחברות גיליון אלקטרוני עם אפשרות למקרו לטיפול במבנה נתונים עם התנהגות מתקדמת של גיליון אלקטרוני. זה בעל ערך כאשר פלטי הגיליון חייבים לתמוך הן בארגון הנתונים והן בפונקציונליות משופרת.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת DOT ל‑XLSM כדי ליצור פלטי מחברות מתקדמים שניתנים לחזרה מתבניות מסמכים שניתן להשתמש בהן מחדש.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **הפקת מחברת עם אפשרות למקרו**
+  המרת קבצי DOT ל‑XLSM עבור זרימות עבודה מתקדמות של גיליון אלקטרוני.
+
+* **שימוש חוזר של מסמך למחברת**
+  הפיכת תוכן התבנית לפלטי גיליון אלקטרוני ניתנים לעריכה ועשירים בתכונות.
+
+* **תמיכה באוטומציה תפעולית**
+  הכנת קבצי מחברת המתאימים לתהליכי עסק מבוססי גיליון אלקטרוני מתקדמים יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מחברת מתקדמת באופן אוטומטי**
+  סקריפטים של Python יכולים להמיר תבניות DOT לקבצי XLSM לשימושים חוזרים.
+
+* **שילוב זרימת עבודה של גיליון אלקטרוני**
+  ההמרה מחברת מאגרי מסמכים עם צינורות עיבוד מחברת משופרים.
+
+* **יצירת פלטים מוכנים למקרו בקנה מידה**
+  מערכות תכנותיות תומכות ביצירה עקבית של נכסי גיליון אלקטרוני מתקדמים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

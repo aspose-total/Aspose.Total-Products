@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OTT sang PST trong các API Python chuyển các mẫu văn bản OpenDocument thành cấu trúc hộp thư lưu trữ cá nhân cho quy trình lưu trữ và vận chuyển tập trung vào email. Điều này hữu ích khi các giao tiếp được tạo từ tài liệu cần được bảo quản dưới dạng hộp thư.
+
+Quá trình chuyển đổi hỗ trợ tự động hoá bằng cách giúp các tổ chức di chuyển nội dung tin nhắn dựa trên mẫu vào các quy trình lưu trữ hỗ trợ lưu trữ, di chuyển và quản lý giao tiếp quy mô lớn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo Lưu trữ Hộp thư**  
+  Đóng gói nội dung giao tiếp được tạo thành định dạng thư lưu trữ hướng tới lưu trữ.
+
+* **Hỗ trợ Lưu trữ và Chuyển giao**  
+  Giúp bảo quản và di chuyển nội dung dựa trên tin nhắn một cách hiệu quả.
+
+* **Lưu trữ Giao tiếp Dựa trên Mẫu**  
+  Tái sử dụng các mẫu tài liệu để tạo đầu ra tương thích với hộp thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Tự động tạo Lưu trữ**  
+  Chuyển đổi nội dung tin nhắn dựa trên OTT thành đầu ra PST hàng loạt.
+
+* **Quy trình Hướng tới Tuân thủ**  
+  Hỗ trợ lưu trữ hồ sơ và quy trình lưu trữ thư có cấu trúc.
+
+* **Đường ống Di chuyển Giao tiếp**  
+  Cung cấp nội dung đã tạo vào các quy trình chuyển giao thư doanh nghiệp.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

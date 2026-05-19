@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál ODT-t hozzáadni ICS-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az ODT‑ról ICS‑re konverzió a dokumentum tartalmát naptár‑kompatibilis adatokra alakítja, így hasznos a menetrendek, eseményleírások vagy időalapú információk újrahasználható naptáreseményekké alakításához. Ez akkor értékes, amikor a szöveges dokumentumok dátumokat, megbeszéléseket vagy strukturált idővonalakat tartalmaznak.
+
+Automatizált környezetekben az ODT‑ról ICS‑re konverzió lehetővé teszi a ütemezési folyamatok, eseményközzététel és naptárszinkronizáció megvalósítását. A Python API‑k hatékonyan ki tudják nyerni a releváns dátumalapú tartalmakat, és gépileg olvasható naptárfájlokat generálni.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Ütemezés kinyerése**  
+  A dokumentumokból származó dátum- és eseményadatokat naptárra kész adatokra alakítja.
+
+* **Találkozók terjesztése**  
+  Segít az eseményinformációk megosztásában olyan formátumban, amely alkalmas a naptáreszközökhöz.
+
+* **Idővonal digitalizálása**  
+  A leírt menetrendeket cselekvőképes naptárelemekké alakítja.
+
+* **Tervezési munkafolyamat támogatása**  
+  A dokumentumalapú tervezési tartalmakat operatívan könnyebben újrahasználhatóvá teszi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált eseménygenerálás**  
+  A Python szkriptek képesek felismerni az eseményadatokat ODT fájlokban, és ICS kimenetet létrehozni.
+
+* **Naptárközzétételi folyamatok**  
+  A dokumentumfrissítések automatikusan elindíthatják a megosztott menetrendi fájlok újragenerálását.
+
+* **Kötegelt ütemezés konverzió**  
+  Több tervezési dokumentumot nagymértékben átalakíthatunk naptáreszközökké.
+
+* **Munkafolyamat‑emlékeztető létrehozása**  
+  A programozott kinyerés automatikusan betáplálhatja az emlékeztetőket és ütemezési rendszereket.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

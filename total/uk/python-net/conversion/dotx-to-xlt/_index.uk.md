@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOTX to XLT conversion transforms Word template content into a legacy spreadsheet template format for reusable workbook creation. It is useful when document-derived tabular structures need to become repeatable spreadsheet foundations in older environments.
+
+This conversion supports automation by helping Python APIs generate template-oriented spreadsheet assets for consistent reporting and operational workflows.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Шаблони застарілих електронних таблиць**
+  Перетворити вміст документа у багаторазові шаблони робочих книг для встановлених систем.
+
+* **Послідовні основи звітності**
+  Стандартизувати повторюване створення електронних таблиць на основі затверджених документних структур.
+
+* **Робочі процеси даних, засновані на шаблонах**
+  Перепризначити контент, керований шаблонами, у стартові файли електронних таблиць.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизований вивід шаблонів**
+  Генерувати файли XLT з шаблонів DOTX для повторюваного створення електронних таблиць.
+
+* **Стандартизовані конвеєри звітності**
+  Використовувати перетворені шаблони для створення послідовних робочих книг у різних командах.
+
+* **Ланцюги шаблонів «Документ‑у‑робочу книгу»**
+  Програмно з’єднувати структуровані документи з багаторазовими основами електронних таблиць.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

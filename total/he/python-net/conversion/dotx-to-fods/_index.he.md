@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑FODS ממירה את תוכן תבנית Word לפורמט גיליון אלקטרוני של OpenDocument שטוח, שנועד להחלפת נתונים פתוחה ומבנית. היא שימושית לתהליכי עבודה שמעדיפים תקנים פתוחים ואחסון גיליון אלקטרוני מבוסס XML קריא.
+
+באמצעות ממשקי API של Python, המרה זו תומכת באוטומציה על‑ידי יצירת מסמכי גיליון אלקטרוני מתאימים לשיתוף שיכולים להיות מיוצרים, מאומתים ומשולבים במערכות עיבוד נתונים בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא גיליון אלקטרוני פתוח**
+  המרת תוכן המסמך לפורמט גיליון אלקטרוני פתוח לתאימות רחבה יותר.
+
+* **תהליכי עבודה מבוססי XML מובנים**
+  שמירת מידע טבלאי בפורמט המתאים לטיפול נתונים שקוף.
+
+* **החלפה מבוססת תקנים**
+  האפשרת העברת תוכן תבנית בין מערכות התומכות בפורמטים פתוחים של מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **דיווח אוטומטי בפורמט פתוח**
+  יצירת קבצי FODS מתבניות DOTX במטלות דיווח חוזרות.
+
+* **צינורות נתונים מתאימים לשיתוף**
+  הזנת פלטי גיליון אלקטרוני פתוח למערכות המתבססות על החלפה מבוססת תקנים.
+
+* **נרמול תבניות בקנה מידה**
+  המרצת מבני מסמכים חוזרים לנכסי גיליון אלקטרוני פתוח באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

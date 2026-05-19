@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi WordML sang MBOX đóng gói nội dung xuất phát từ tài liệu vào định dạng lưu trữ hộp thư, phù hợp cho việc lưu trữ tin nhắn nhóm và quy trình di chuyển. Điều này có giá trị khi cần tổ chức nhiều giao tiếp dựa trên tài liệu thành các kho lưu trữ dạng hộp thư.
+
+Các API Python cho phép chuyển đổi WordML sang MBOX bằng cách chuyển đổi nội dung thành các bản ghi tin nhắn và hợp nhất chúng thành các đầu ra lưu trữ có khả năng mở rộng cho các hệ thống tập trung vào email.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Mailbox Archive Creation**
+  Chuyển đổi nội dung tài liệu thành các bộ sưu tập tin nhắn tương thích MBOX.
+
+* **Bulk Communication Packaging**
+  Nhóm nhiều bản ghi đã chuyển đổi thành một tệp lưu trữ duy nhất để chuyển giao hoặc lưu trữ.
+
+* **Email Migration Support**
+  Giúp chuẩn bị nội dung để nhập vào các môi trường hướng tới hộp thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Batch Archive Generation**
+  Tự động tạo các tệp MBOX từ các nguồn tài liệu WordML định kỳ.
+
+* **Retention Workflow Integration**
+  Hỗ trợ lưu trữ lâu dài các giao tiếp xuất phát từ tài liệu trong các kho lưu trữ hộp thư.
+
+* **Migration Pipeline Enablement**
+  Cung cấp các đầu ra MBOX đã chuyển đổi cho các quy trình nhập khẩu hoặc di chuyển tự động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

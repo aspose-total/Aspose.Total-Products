@@ -65,7 +65,47 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az ODT‑TSV átalakítás a dokumentum tartalmát egy tabulátorral elválasztott szövegformátumba konvertálja, amely alkalmas strukturált adatcserére és könnyű feldolgozásra. Hasznos, amikor a dokumentumalapú táblázatokat vagy rekordokat egyszerű, gépileg olvasható struktúrába kell áthelyezni.
+
+Python API‑k használatával az ODT‑TSV átalakítás támogatja a skálázható adatkinyerést, az adatbeviteli csővezetékeket és az interoperábilis dokumentumfeldolgozást. Egyszerűsíti a strukturált tartalom áthelyezését az elemzési, tárolási és átalakítási munkafolyamatokba.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Egyszerű strukturált export**  
+  A dokumentumtáblákat egy könnyű, tabulátorral elválasztott formátumba konvertálja.
+
+* **Adatcsővezeték előkészítése**  
+  Könnyű adatbevitelt támogat a feldolgozó és elemző rendszerekbe.
+
+* **Rekord normalizálása**  
+  Segít szabványosítani a kinyert tartalmat a további felhasználáshoz.
+
+* **Interoperábilis szöveges csere**  
+  Megkönnyíti a strukturált dokumentumtartalom áthelyezését platformok között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált táblázatkinyerés**  
+  A Python munkafolyamatok képesek az ODT tartalmat TSV‑be konvertálni a csővezetékhez készen álló kimenetekhez.
+
+* **Kötegelt átalakítás elemzéshez**  
+  Nagy dokumentumkészletek automatikusan exportálhatók egyszerű, strukturált szövegbe.
+
+* **Adattisztítási és export munkafolyamatok**  
+  A kinyert értékek validálhatók, mielőtt TSV fájlokba íródnának.
+
+* **Rendszerintegrációs csővezetékek**  
+  Az átalakított TSV kimenetek adatbázisokat, szkripteket vagy jelentési folyamatokat táplálhatnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

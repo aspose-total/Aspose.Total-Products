@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OTT to FODS conversion in Python APIs transforms OpenDocument text templates into flat XML spreadsheet documents that are readable, structured, and suitable for system-level processing. This is useful for workflows that prefer open, text-based spreadsheet representations.
+
+The conversion supports automation by making document content easier to version, inspect, and integrate into XML-friendly processes where transparency, structure, and interoperability are important.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Створення відкритих електронних таблиць**  
+  Перетворює текстові шаблони у структуровані плоскі документи електронних таблиць.
+
+* **Читабельна серіалізація даних**  
+  Створює текстовий вміст електронних таблиць, який легко перевіряти програмно.
+
+* **Взаємодія робочих процесів**  
+  Підходить для систем, які спираються на відкриті стандарти документів та обробку XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **XML‑орієнтовані конвеєри даних**  
+  Передає вміст, отриманий з шаблонів, у плоскі структуровані робочі процеси електронних таблиць.
+
+* **Експорти, зручні для систем контролю версій**  
+  Підтримує автоматичне створення електронних таблиць, зручних для порівняння змін.
+
+* **Обробка на основі стандартів**  
+  Дозволяє повторювані трансформації в середовищах відкритих форматів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

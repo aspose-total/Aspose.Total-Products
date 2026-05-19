@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSM ל‑WordML ממירה תוכן גיליון אלקטרוני עם מקרו לפורמט עיבוד תמלילים מבוסס XML שנועד לייצוג מסמכים מובנים. זה שימושי כאשר ארגונים זקוקים לפלטי מסמכים המתאימים למערכות מבוססות XML, זרימות עבודה של שינוי תוכן, או סביבות ממוקדות אינטגרציה.
+
+מנקודת מבט של אוטומציה, WordML תומך בטיפול תכנותי, ניתוח מובנה, ואינטגרציה קלה יותר עם מערכות המתבססות על חילופי תוכן מבוססי XML. ממשקי API של Python הופכים את המרת XLSM ל‑WordML ליעילה עבור שינוי מסמכים בקנה מידה רחב וצינורות עבודה קריאים למכונה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת מסמכים מבוססי XML**
+  ממיר נתוני גיליון אלקטרוני לפורמט עיבוד תמלילים מובנה המתאים לאינטגרציה מערכתית.
+
+* **זרימות עבודה של תוכן קריא למכונה**
+  עוזר לארגונים לנהל פלטי מסמכים בפורמט שקל יותר לנתח ולהמיר.
+
+* **החלפת תיעוד מובנה**
+  תומך בהעברת תוכן שמקורו בגיליון אלקטרוני לסביבות עיבוד תואמות XML.
+
+* **פרסום ממוקד אינטגרציה**
+  מאפשר יצירת מסמכים עבור זרימות עבודה שמעדיפות מודלים של תוכן מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות מסמכי XML תכנותיים**
+  ממשקי API של Python יכולים להמיר קבצי XLSM לפלטי WordML עבור זרימות עבודה של מסמכים המונעים על ידי מערכת.
+
+* **המרת תוכן מובנה במאצ'**
+  ניתן להמיר באופן תכנותי מספר גיליונות אלקטרוניים למסמכי XML בקנה מידה רחב.
+
+* **תמיכה בזרימת עבודה אינטגרטיבית**
+  פלטי WordML יכולים להזין מערכות משנית הדורשות מסמכים מובנים וניתנים לעיבוד מכונה.
+
+* **החלפת תוכן אוטומטית**
+  המרה מסייעת לגשר בין מקורות גיליון אלקטרוני לפרסומים, אחסון ותהליכי שינוי מבוססי XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

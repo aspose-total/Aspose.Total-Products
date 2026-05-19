@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MOBI ל‑TSV ב‑Python ממירה את תוכן הספר האלקטרוני למבנה מופרד בטאבים שהוא פשוט, קומפקטי ומתאים היטב לעיבוד מכונה. פורמט זה בעל ערך כאשר יש צורך להחליף תוכן בצורה נקייה בין מערכות הצופות לטקסט מובנה עם מינימום עומס עיצובי.
+
+בזרימות עבודה אוטומטיות, פלט TSV מסייע לייעל תהליכי קבלה, ניתוח והמרות בכמות גדולה. המרת MOBI ל‑TSV תומכת בצינורות עבודה ניתנים להרחבה שבהם מהירות, ניידות וטיפול פשוט בנתונים חשובים לאינטגרציה וליעילות תפעולית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ייצוא טקסט מובנה**
+  המרת תוכן MOBI ל‑TSV לצורך ניתוח פשוט ואחסון מובנה קל משקל.
+
+* **העברת נתונים ידידותית לצינור עבודה**
+  השתמש ב‑TSV בעת העברת מידע מחולץ לסקריפטים, כלי ייבוא או מנועי עיבוד.
+
+* **טיפול בתוכן בקנה מידה גדול**
+  יצירת פלטים קומפקטיים המתאימים לעיבוד באצ'ים ולתהליכי שינוי בכמות גדולה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הכנת צינור קבלה**
+  המרה אוטומטית של קבצי MOBI ל‑TSV לפני טעינת הנתונים למערכות עיבוד פנימיות.
+
+* **אוטומציה של ניתוח בכמות גדולה**
+  הזנת פלטי TSV לסקריפטים מתוזמנים לצורך אימות, העשרה או משימות שינוי.
+
+* **החלפת נתונים בעל עומס נמוך**
+  השתמש באוטומציה ב‑Python ליצירת פלטים טבלאיים נקיים לאינטגרציות קלה משקל במערכות המשנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

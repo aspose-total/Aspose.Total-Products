@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑XLT ממירה את תוכן תבנית Word לפורמט תבנית גיליון אלקטרוני מדור קודם ליצירת חוברות עבודה שניתן להשתמש בהן מחדש. היא שימושית כאשר מבנים טבלאיים שמקורם במסמך צריכים להפוך ליסודות גיליון אלקטרוני חוזרים בסביבות ישנות.
+
+המרה זו תומכת באוטומציה על ידי סיוע ל‑APIs של Python ליצור נכסי גיליון אלקטרוני ממוקדי תבנית לדיווח עקבי ולתהליכי עבודה תפעוליים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות גיליון אלקטרוני מדור קודם**
+  המרת תוכן המסמך לתבניות חוברות עבודה שניתן להשתמש בהן מחדש למערכות מבוססות.
+
+* **יסודות דוח עקביים**
+  אחידו יצירת גיליונות אלקטרוניים חוזרת ממבני מסמך מאושרים.
+
+* **תהליכי עבודה מבוססי תבנית לנתונים**
+  השתמשו מחדש בתוכן מונחה תבנית לקבצי התחלה של גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פלט תבנית אוטומטי**
+  יצירת קבצי XLT מתבניות DOTX ליצירת גיליונות אלקטרוניים חוזרים.
+
+* **צינורות דיווח מתוקננים**
+  השתמשו בתבניות שהומרו כדי לייצר חוברות עבודה עקביות בין צוותים.
+
+* **שרשראות תבנית מסמך-לחוברת עבודה**
+  חברו מסמכים מובנים עם יסודות גיליון אלקטרוני שניתן להשתמש בהם מחדש באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑PPTM ממירה מסמכים עם מקרו לקבצי מצגות עם מקרו, ומשלבת תקשורת מבוססת שקופיות עם התנהגויות מתקדמות אוטומטיות. זה שימושי כאשר פלטי המצגות חייבים לשמר אלמנטים אינטראקטיביים או מתוכנתים לצד התוכן המומר.
+
+בזרימות עבודה המתמקדות באוטומציה, המרת DOCM ל‑PPTM תומכת במצגות ניתנות לשימוש חוזר ולעריכה שיכולות להשתתף בדיווח ובצינורות אספקה דינמיים יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגת עם מקרו**
+  ממירה את תוכן המסמך למצגות ניתנות לעריכה עם תמיכה באוטומציה מתקדמת.
+
+* **נכסי דיווח אינטראקטיביים**
+  תומכת בפלטי שקופיות הדורשים לוגיקה משובצת או פעולות אוטומטיות.
+
+* **זרימות עבודה של מצגות לשימוש חוזר**
+  עוזרת לבנות חומרים מצגתיים דינמיים ממקורות מסמכים פורמליים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת שקופיות דינמיות אוטומטית**
+  מייצרת קבצי PPTM מקלטי DOCM לתהליכי מצגות מתקדמים.
+
+* **שימור לוגיקה משובצת**
+  שומרת על יכולות שקופיות ממוקדות אוטומציה בפלטים המומרים.
+
+* **צינורות דיווח ניתנים להרחבה**
+  תומכת בהמרה ברמת נפח גבוהה לנכסי מצגות עם מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

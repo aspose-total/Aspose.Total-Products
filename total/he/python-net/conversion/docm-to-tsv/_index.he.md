@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to TSV conversion ממירה מסמכים עם מקרו לפורמט ערכים מופרדים בטאבים, מה שמקל על ניתוח, העברה ושימוש חוזר בתוכן מובנה בתהליכי נתונים. היא במיוחד מועילה כאשר טבלאות המסמך דורשות פורמט טקסטואלי פשוט עם הפרדת שדות ברורה.
+
+בסביבות אוטומציה, המרת DOCM ל‑TSV תומכת בחילופי נתונים אמינים, קבלה לצינורות עיבוד, והמרה ניתנת להרחבה של תוכן המסמך לתוצרים מובנים קלים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ טבלאות לעיבוד**
+  ממירה טבלאות מסמך למבנה טקסטואלי המתאים לתהליכי נתונים.
+
+* **החלפת נתונים קלה**
+  תומכת בהעברת תוכן מובנה בין כלים עם מינימום עומס עיצוב.
+
+* **הכנת ייבוא**
+  מסייעת בהכנת רשומות שמקורן במסמך למערכות המקבלות קלטים מופרדים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא מובנה חוזר**
+  מממשת אוטומציה של המרת DOCM ל‑TSV עבור תהליכי תפעול מתמשכים.
+
+* **הכנת נתונים ידידותית לצינורות**
+  מייצרת פלטים שניתן לנתח בקלות בסקריפטים ובמשימות אינטגרציה.
+
+* **תהליכי המרה במצב אצווה**
+  ממירה קבצי DOCM רבים לפלטי TSV עקביים באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

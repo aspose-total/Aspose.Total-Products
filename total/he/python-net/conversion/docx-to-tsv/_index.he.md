@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCX ל‑TSV ממירה מסמכי עיבוד תמלילים לפורמט ערכי מופרדים בטאבים, ומאפשרת לחלץ מידע מובנה לקובץ נתונים קל משקל מבוסס טקסט. פורמט זה שימושי להעברת טבלאות מבוססות מסמך ותוכן מאורגן לתהליכי ניתוח או חילוף.
+
+ממשקי API של Python מאפשרים אוטומציה של המרת DOCX ל‑TSV במערכות הכנת נתונים, צינורות חילוץ תוכן, ובתהליכי אינטגרציה ארגונית. הם תומכים בהמרה ניתנת להרחבה של תוכן המסמך לפלטים טבלאיים קריאים למכונה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתונים טבלאיים**  
+  ממיר טבלאות DOCX ומידע מובנה לקבצים טבלאיים מבוססי טקסט.
+
+* **החלפת נתונים בין מערכות**  
+  מאפשר העברה קלה של תוכן מובנה בין פלטפורמות.
+
+* **הכנה לניתוח ועיבוד**  
+  מסייע בהכנת נתונים שמקורם במסמך לכלי ניתוח והמשך עיבוד.
+
+* **אינטגרציית זרימת עבודה מסמך‑לטקסט**  
+  תומך ביצוא של תוכן מאורגן לפורמטים טבלאיים ניידים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות ייצוא נתונים אוטומטיים**  
+  מערכות יכולות להמיר קבצי DOCX לפלטי TSV עבור זרימות עיבוד.
+
+* **חילוץ תוכן מובנה במצב אצווה**  
+  סקריפטים ב‑Python יכולים להמיר מספר מסמכים למערכי נתונים מופרדים בטאבים באופן תכנותי.
+
+* **אוטומציית אינטגרציה ארגונית**  
+  תוכן המסמך יכול להיות מיוצא לפורמט TSV לצורך טעינה במערכות דיווח או מסדי נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

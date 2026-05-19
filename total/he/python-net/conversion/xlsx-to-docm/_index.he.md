@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑DOCM מאפשרת להמיר נתוני גיליון אלקטרוני למסמכי Word עם מקרו, התומכים בהתנהגויות מתקדמות של מסמכים ובתבניות ניתנות לשימוש חוזר. זהו ערך כאשר יש צורך להפוך גיליונות נתונים עשירים למסמכים אינטראקטיביים או מודעים לתהליכים.
+
+במערכות המתמקדות באוטומציה, המרת XLSX ל‑DOCM תומכת בתהליכי עבודה דינמיים על ידי שילוב של חילוץ נתונים מובנה עם יכולות מסמכי עם מקרו, מה שהופך יצירת מסמכים בכמויות גדולות ליעילה וגמישה יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **דיווח עם מקרו**  
+  ממיר את תוכן הגיליון למסמכים שיכולים לכלול פעולות אוטומטיות ולוגיקת עיצוב מתקדמת.
+
+* **מסמכי עסקים אינטראקטיביים**  
+  מסייע ביצירת מסמכים המשלבים נתוני גיליון עם אוטומציה משובצת לתהליכים פנימיים.
+
+* **תבניות תפעוליות ניתנות לשימוש חוזר**  
+  תומך בתהליכי עבודה של מסמכים שבהם הקבצים שנוצרים צריכים לשמר התנהגויות עם מקרו לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קבצי ציות אוטומטיים**  
+  מערכות יכולות להמיר רשומות XLSX לקבצי DOCM עבור קבוצות מסמכים המתבססות על שלבי אוטומציה משובצים.
+
+* **צינורות עיבוד נתונים למסמך**  
+  המרה ניתנת לשילוב בתהליכי עבודה אחוריים שמייצרים פלטים עם מקרו ממקורות גיליון.
+
+* **התאמה אישית של מסמכים בכמויות גבוהות**  
+  המרה תכנותית מאפשרת הוספת נתונים דינמית לקבצי DOCM לייצור מסמכים בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -53,7 +53,44 @@ Chúng tôi sử dụng API [Aspose.Words for Python via .NET](https://products.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to Images conversion transforms word processing documents into image formats that capture the visual layout and formatting of the document pages. This process allows document content to be shared or archived as static visual files.
+
+Using Python APIs, DOCX-to-image conversion can be automated for document preview systems, content publishing platforms, and archival processes.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo xem trước tài liệu**  
+  Chuyển các trang DOCX thành hình ảnh để xem trước nhanh chóng.
+
+* **Lưu trữ tài liệu dưới dạng hình ảnh**  
+  Giữ nguyên giao diện tài liệu ở định dạng hình ảnh.
+
+* **Quy trình xuất bản nội dung**  
+  Cho phép nội dung tài liệu được nhúng dưới dạng hình ảnh.
+
+* **Tạo ảnh chụp nhanh các trang**  
+  Tạo các biểu diễn trực quan của các trang tài liệu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động hoá" %}}
+
+* **Tự động tạo hình thu nhỏ tài liệu**  
+  Hệ thống có thể chuyển các tệp DOCX thành các hình ảnh xem trước.
+
+* **Quy trình xuất khẩu hình ảnh hàng loạt**  
+  Các script Python có thể tạo hình ảnh từ các bộ sưu tập tài liệu lớn.
+
+* **Nền tảng phân phối nội dung**  
+  Tài liệu có thể được chuyển đổi thành hình ảnh cho các quy trình xuất bản hoặc chia sẻ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

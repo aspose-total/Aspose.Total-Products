@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑EML ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי הודעת דוא"ל סטנדרטיים השומרים על מבנה ההודעה לצורך אחסון, העברה וטיפול במ downstream. זה שימושי כאשר תוכן המסמך צריך להפוך לחפצי דוא"ל ניידים.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות ליצירת קבצי דוא"ל מונעי‑מסמך שניתן לארכיב, לסקור, לייבא או לעבד על‑ידי מערכות תואמות דוא"ל בתהליכי עבודה חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת קובץ דוא"ל**  
+  מייצר קבצי הודעה סטנדרטיים מתבניות מסמך שניתן להשתמש בהן מחדש.
+
+* **הכנת ארכיון**  
+  יוצר חפצי דוא"ל המתאימים לשמירת רשומות והעברה.
+
+* **העברת מערכת**  
+  תומך בתהליכי עבודה הדורשים קבצי הודעה במקום שליחת דוא"ל ישירה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת טיוטות דוא"ל במאצ'**  
+  ממיר תבניות OTT רבות לקבצי EML לצורך סקירה או צינורות אספקה.
+
+* **יצירת רשומות אוטומטית**  
+  אוחסן פלטים מוכנים לתקשורת כקבצי דוא"ל סטנדרטיים.
+
+* **אינטגרציה עם מערכות עיבוד דוא"ל**  
+  מזין קבצי EML שנוצרו לתהליכי קבלה, ארכיון או ציות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

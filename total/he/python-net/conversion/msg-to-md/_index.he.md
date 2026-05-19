@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to MD conversion ממירה הודעות דוא"ל ל‑Markdown לתיעוד טקסטואלי נקי, קל משקל ונייד. היא שימושית במיוחד כאשר יש צורך להשתמש מחדש בתוכן הדוא"ל בבסיסי ידע, בתיעוד למפתחים, או בתהליכי פרסום תוכן.
+
+בצינורות אוטומציה, המרת MSG ל‑MD תומכת בתיעוד מבוקר גרסאות, נרמול תוכן, ופשטות בעיבוד טקסט. היא מסייעת לגשר בין תקשורת דוא"ל למערכות תפעול תוכן מודרניות ולמערכות פרסום.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **אינטגרציה עם בסיס ידע**  
+  המרת הודעות דוא"ל ל‑Markdown לתיעוד פנימי מובנה.
+
+* **שימוש חוזר בתוכן ידידותי למפתחים**  
+  שמירת טקסט ההודעה בפורמט המתאים למאגרי קוד ולמערכות תיעוד.
+
+* **הכנה לפרסום קל משקל**  
+  הכנת תוכן שמקורו בדוא"ל לשימוש באתר סטטי או בתהליך עבודה של תוכן.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של צינור תיעוד**  
+  המרת קבצי MSG ל‑Markdown לפרסום אוטומטי או אינדוקס.
+
+* **ניהול תוכן מבוסס מאגר**  
+  אחסון תוכן דוא"ל מומר בתהליכי תיעוד מבוקרי גרסאות.
+
+* **תהליכי נרמול טקסט**  
+  סטנדרטיזציה של תקשורת נכנסת לתוכן טקסטואלי קל משקל וידידותי למכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑RTF משנה תוכן טבלאי מובנה למסמכי טקסט עשיר המאזנים ניידות, קריאות ועיצוב שניתן לעריכה. היא שימושית כאשר יש צורך לשתף נתוני TSV בפורמט מסמך טקסט קל משקל שעדיין משמר את מבנה המסמך ואת ערך ההצגה.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את המרת TSV ל‑RTF כדי לתמוך בדיווח יעיל מבוסס טקסט, בתהליכי ייצוא ניתנים להרחבה ובמעבר חלק של נתונים מובנים למערכות ממוקדות מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא מסמך קל משקל**  
+  ממיר נתוני TSV למסמכי טקסט מעוצבים שקל לשתף ולערוך.
+
+* **תוכן מובנה קריא**  
+  עוזר להציג רשומות טבלאיות גולמיות בצורה מסמכת יותר ידידותית למשתמש.
+
+* **תאימות חוצת סביבות**  
+  תומך בתהליכי עבודה של מסמכים המרוויחים מתבניות טקסט הנתמכות באופן רחב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת דוחות טקסט אוטומטיים**  
+  ממשקי API של Python יכולים ליצור קבצי RTF מקלטי TSV עבור משימות תיעוד חוזרות.
+
+* **המרת נתונים למסמך**  
+  האוטומציה מסייעת להפוך ייצוא מובנה גולמי לפלט טקסטואלי מעוצב.
+
+* **פעולות המרה במצב אצווה**  
+  קבצי TSV בעלי נפח גבוה יכולים להיות מומרי לפורמט RTF ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

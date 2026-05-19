@@ -65,7 +65,41 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT‑ról TSV‑re konvertálás Python API‑kban átalakítja az OpenDocument szövegsablonokat tabulátorral elválasztott értékekké, tiszta, könnyű, strukturált adatcseréhez. Ez akkor hasznos, amikor a sablonalapú tartalmat olyan rendszerekbe kell áthelyezni, amelyek egyszerű, szöveges táblázati kimenetet részesítenek előnyben.
+
+A konverzió javítja az automatizálást azáltal, hogy lehetővé teszi a könnyű elemzést, átalakítást és betöltést olyan munkafolyamatokba, amelyek a minimális terhelést, a hordozhatóságot és a megbízható elválasztó‑alapú struktúrát értékelik.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Elválasztott adat exportálás**  
+  Átalakítja a dokumentum tartalmát strukturált, tabulátorral elválasztott kimenetté.
+
+* **Csővezeték‑barát formázás**  
+  Támogatja azokat a rendszereket, amelyek könnyű, szöveges táblázatokat dolgoznak fel.
+
+* **Adatelőkészítés**  
+  Megkönnyíti a kinyert tartalom importálását elemző vagy operatív eszközökbe.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Kötegelt táblázatos konverzió**  
+  Nagy léptékben TSV fájlokat generál OTT sablonokból.
+
+* **ETL munkafolyamat táplálása**  
+  A dokumentumból származó adatokat küldi elemzési és átalakítási csővezetékekbe.
+
+* **Ütemezett strukturált exportok**  
+  Támogatja az egyszerű, gépileg olvasható adatkészletek rendszeres generálását.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

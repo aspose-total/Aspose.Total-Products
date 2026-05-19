@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑OFT ממירה תוכן של Word לקבצי תבניות אימייל שניתן להשתמש בהם מחדש בתהליכי הודעות ותקשורת. היא שימושית במיוחד כאשר תוכן המסמך משמש כבסיס לפנייה חוזרת, התראות או התכתבות סטנדרטית.
+
+ממשקי API של Python מאפשרים המרת DOC ל‑OFT כחלק מהפקת תוכן אוטומטית, ומסייעים לצוותים ליצור תבניות הודעות עקביות ולשפר את יעילות התקשורת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **תבניות אימייל ניתנות לשימוש חוזר**
+  המרת טיוטות מסמך לתבניות OFT לתקשורת חוזרת.
+
+* **הודעות סטנדרטיות**
+  הבטחת מבנה וניסוח עקביים לאורך תהליכי אימייל חוזרים.
+
+* **פנייה מבוססת תבנית**
+  שימוש חוזר בתוכן מסמך פורמלי במסגרת תבניות הודעות ניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצור תבניות אוטומטי**
+  יצירת קבצי OFT מתוכן DOC למערכות קמפיין או התראות.
+
+* **צינורות הודעות מונעי מסמך**
+  המרת טקסט מסמך מאושר לתבניות מוכנות להתאמה אישית בשלבים הבאים.
+
+* **פעולות תקשורת בקנה מידה**
+  שמירה תכנותית על ספריות גדולות של פורמטים של הודעות ניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

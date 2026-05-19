@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MBOX-t hozzáadni DOC-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az MBOX‑t‑DOC átalakítás a postafiók adatait szerkeszthető, Word‑kompatibilis dokumentumokká alakítja, segítve a csapatokat az e‑mail tartalom újrahasznosításában jelentésekhez, felülvizsgálathoz és strukturált dokumentációhoz. Hasznos, amikor az üzeneteket újra kell formázni, megjegyzésekkel ellátni, vagy szélesebb üzleti nyilvántartásokba beilleszteni.
+
+Python API‑kkal ez az átalakítás automatizálható a dokumentumkészítés javítása, a kézi másolás‑beillesztés csökkentése, valamint a skálázható munkafolyamatok támogatása érdekében, amelyek az e‑mail archívumokat újrahasznosítható, irodai felhasználásra kész tartalommá alakítják.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Szerkeszthető e‑mail dokumentáció**
+  Átalakítja a archivált e‑mail üzeneteket szerkeszthető dokumentumfájlokká a felülvizsgálathoz és formázáshoz.
+
+* **Üzleti nyilvántartás összeállítása**
+  Összevonja az üzenettartalmat olyan dokumentumokba, amelyeket jelentésekhez, jóváhagyásokhoz vagy felülvizsgálatokhoz használnak.
+
+* **Tudás újrahasznosítása**
+  Megkönnyíti a fontos postafiók tartalom újrafelhasználását operatív dokumentumokban.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált jelentés összeállítás**
+  Átalakítja a kiválasztott e‑mail üzeneteket DOC fájlokká, hogy beilleszthetők legyenek ismétlődő üzleti jelentésekbe.
+
+* **Tartalomkinyerő csővezetékek**
+  Átalakítja a postafiók archívumokat szerkeszthető dokumentumokká a downstream felülvizsgálati munkafolyamatokhoz.
+
+* **Tömeges irodai dokumentumkészítés**
+  Szervezett DOC kimeneteket generál nagy e‑mail adathalmazokból Python automatizálással.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tài liệu sang TSV biến nội dung Word thành các giá trị tách bằng tab, một định dạng có cấu trúc đơn giản, lý tưởng cho việc trao đổi dữ liệu dựa trên văn bản sạch và các quy trình nhập khẩu. Nó hữu ích khi các bảng trong tài liệu hoặc các trường lặp lại cần đầu ra có cấu trúc nhẹ.
+
+Các API Python giúp tự động hoá việc chuyển đổi DOC sang TSV cho việc trích xuất quy mô lớn, chuẩn bị dữ liệu và các nhiệm vụ tích hợp nơi các định dạng bảng dạng văn bản thuần được ưa chuộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng" %}}
+
+* **Xuất Dữ Liệu Nhẹ**
+  Chuyển đổi các bảng tài liệu sang TSV để trao đổi cấu trúc đơn giản.
+
+* **Đầu Ra Thân Thiện Với Nhập**
+  Chuẩn bị dữ liệu xuất phát từ Word cho các công cụ và hệ thống chấp nhận văn bản có dấu phân cách.
+
+* **Quy Trình Làm Sạch Dữ Liệu**
+  Sử dụng đầu ra TSV cho tiền xử lý, xác thực và nhập vào pipeline.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Trích Xuất Dữ Liệu Lượng Lớn**
+  Tự động chuyển đổi các tệp DOC sang TSV cho quá trình xử lý tiếp theo.
+
+* **Xuất Văn Bản Sẵn Sàng Cho Pipeline**
+  Tạo các tệp có dấu phân cách từ tài liệu như một phần của quy trình ETL hoặc nhập.
+
+* **Công Việc Biến Đổi Định Kỳ**
+  Chuẩn hoá các bản ghi dựa trên tài liệu thành TSV một cách định kỳ bằng lập trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

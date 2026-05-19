@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑XLT ממירה תבניות מסמכים לקבצי תבניות גיליון אלקטרוני שניתן להשתמש בהם מחדש ליצירת חוברות עבודה עקבית. זה בעל ערך כאשר תוכן מסמך מובנה צריך לשמש כבסיס חוזר לעבודה עם גיליונות אלקטרוניים.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את יצירת תבניות XLT ממקורות DOT כדי לשפר את האחידות ולהפחית את המאמץ החוזר בעיצוב חוברות עבודה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **יצירת תבנית גיליון אלקטרוני לשימוש חוזר**
+  המרת קבצי DOT לתבניות XLT ליצירת חוברות עבודה חוזרות.
+
+* **פריסות נתונים עקביות**
+  הפיכת מבני המסמך לתבניות גיליון אלקטרוני המשמרות את הפורמט והארגון.
+
+* **אחידות תפעולית**
+  תמיכה ביצירת גיליונות אלקטרוני חוזרת מתבניות מסמכים מנוהלות מרכזית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פרסום תבנית אוטומטי**
+  סקריפטים ב‑Python יכולים ליצור קבצי XLT ממסמכי DOT לשימוש תפעולי חוזר.
+
+* **צינורות חוברות עבודה סטנדרטיים**
+  ההמרה תומכת במערכות שזקוקות לתבניות גיליון אלקטרוני עקביות בקנה מידה גדול.
+
+* **יצירת תבניות בכמות גדולה**
+  תהליכים תכנותיים מסייעים לבנות ספריות גדולות של תבניות חוברות עבודה לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

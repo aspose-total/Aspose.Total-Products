@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑ODP ממירה תוכן תבנית Word לפורמט מצגת OpenDocument עבור זרימות עבודה של שקופיות פתוחות. היא שימושית כאשר חומר מבוסס מסמך צריך להיות מותאם לנכסי מצגת לצורך סקירה, תקשורת או פרסום.
+
+באמצעות API‑ים של Python, המרה זו תומכת באוטומציה על‑ידי אפשרות לייצור בר‑קנה מידה של תוכן מוכן לשקופיות מתבניות, תוך שמירה על תאימות למערכות אקולוגיות של מצגות פתוחות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגת פתוחה**
+  המרת תוכן המסמך לקבצי שקופיות בהתבסס על תקנים פתוחים.
+
+* **שימוש חוזר בתוכן**
+  שימוש חוזר בחומר מונחה תבנית בתהליכי מצגות והצגות.
+
+* **שיתוף מצגות חוצות פלטפורמות**
+  תמיכה במשלוח שקופיות בסביבות המעדיפות פורמטים של מסמכים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת שקופיות אוטומטית**
+  המרת קבצי DOTX למצגות ODP בתהליכי דיווח חוזרים.
+
+* **צינורות תבנית-למצגת**
+  הזנת תוכן מסמך בר‑שימוש לתהליכי יצירת שקופיות באופן תכנותי.
+
+* **פרסום בפורמט פתוח**
+  יצירת נכסי מצגת המתאימים למערכות הפצה מבוססות תקנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑EMAIL ממירה תוכן תבנית Word לפלט מוכן לדוא"ל עבור זרימות עבודה של תקשורת, התראות ותרחישי הודעות אוטומטיות. היא שימושית כאשר יש צורך להשתמש מחדש בתוכן מסמך פורמלי כתקשורת דוא"ל מובנית.
+
+תהליך זה תומך באוטומציה על‑ידי אפשרות יצירת תוכן דוא"ל חוזר לשימוש מבוסס Python מתבניות מסמך, מה שמסייע לארגונים להרחיב פנייה, התראות ותקשורת עסקית ביעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הודעות מבוססות תבנית**
+  הפוך תבניות מסמך לתוכן דוא"ל לתקשורת עקבית.
+
+* **הכנת התראות**
+  השתמש בטקסט המסמך המעוצב מחדש בעדכוני סטטוס אוטומטיים או בהתראות.
+
+* **תהליכי עבודה ממסמך לתקשורת**
+  גשר בין יצירת מסמכים פורמליים לתהליכי שליחת הודעות חיצוניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת דוא"ל בכמות גדולה**
+  המר תבניות DOTX מרובות לתוכן מוכן לדוא"ל עבור קמפיינים מתוזמנים.
+
+* **התראות מופעלות**
+  השתמש בפלט המומר בתהליכי עבודה מונעי אירועים ששולחים דוא\"לים אוטומטיים.
+
+* **התכתבות מונעת תהליכים**
+  שלב יצירת דוא"ל מבוססת מסמך במערכות אישור או תמיכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

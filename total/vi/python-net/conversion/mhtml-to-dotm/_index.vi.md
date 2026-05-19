@@ -44,7 +44,47 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX ODT OTT RTF WORDML Images
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi MHTML sang DOTM bằng Python chuyển nội dung web đã lưu trữ thành các mẫu Word hỗ trợ macro, cho phép cả cấu trúc có thể tái sử dụng và tự động hoá nhúng. Điều này hữu ích trong các môi trường tài liệu nơi các mẫu cũng phải thực thi các hành động đã định trước hoặc các bước định dạng động.
+
+Định dạng này đặc biệt phù hợp cho tự động hoá có khả năng mở rộng vì nó kết hợp tính nhất quán của mẫu với hành vi có thể lập trình. Nó cho phép các quy trình công việc tài liệu nâng cao, nơi nội dung xuất phát từ web trở thành một phần của các quy trình kinh doanh lặp lại và tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Tạo Mẫu Hỗ Trợ Macro**  
+  Chuyển đổi tệp MHTML thành các mẫu DOTM khi cần cả bố cục có thể tái sử dụng và tự động hoá tài liệu.
+
+* **Chuẩn Bị Biểu Mẫu Tự Động**  
+  Sử dụng nội dung web đã chuyển đổi trong các mẫu bao gồm các bước kiểm tra hoặc định dạng được viết script.
+
+* **Tài Liệu Kinh Doanh Động**  
+  Hỗ trợ các tài liệu định kỳ cần cả cấu trúc cố định và các hành động tự động.
+
+* **Kết Quả Tài Liệu Kiểm Soát Quy Trình**  
+  Tạo các tệp mẫu phù hợp cho môi trường có yêu cầu hoạt động có cấu trúc và lặp lại.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Thư Viện Mẫu Tự Động**  
+  Tạo các mẫu DOTM từ nguồn MHTML để sử dụng trên toàn bộ các phòng ban với quy trình chuẩn hoá.
+
+* **Quy Trình Tài Liệu Dựa Trên Macro**  
+  Chuyển đổi các lưu trữ web thành mẫu kích hoạt các tác vụ tự động trong quá trình tạo tài liệu.
+
+* **Cung Cấp Mẫu Hàng Loạt**  
+  Sử dụng API Python để tạo tài sản mẫu hỗ trợ macro ở quy mô lớn từ nội dung web đã thu thập.
+
+* **Kiểm Soát Tài Liệu Doanh Nghiệp**  
+  Tích hợp các mẫu DOTM đã chuyển đổi vào hệ thống phụ thuộc vào việc chuẩn bị tài liệu lặp lại và tự động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

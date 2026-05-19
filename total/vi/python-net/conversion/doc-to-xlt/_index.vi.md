@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tài liệu sang XLT biến nội dung Word thành các tệp mẫu bảng tính hỗ trợ việc tạo sổ làm việc lặp lại và tiêu chuẩn hoá. Điều này hữu ích khi các cấu trúc xuất phát từ tài liệu cần trở thành nền tảng bảng tính có thể tái sử dụng.
+
+Với các API Python, việc chuyển đổi DOC sang XLT có thể được tự động hoá để tạo mẫu nhất quán, tái sử dụng trong vận hành và tối ưu hoá quy trình sản xuất bảng tính.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo mẫu bảng tính**
+  Chuyển đổi nội dung tài liệu có cấu trúc thành các mẫu bảng tính có thể tái sử dụng.
+
+* **Thiết kế sổ làm việc chuẩn hoá**
+  Sử dụng đầu ra XLT để duy trì bố cục và cấu trúc dữ liệu nhất quán.
+
+* **Mẫu doanh nghiệp có thể tái sử dụng**
+  Tái sử dụng tài liệu thành các mẫu sổ làm việc cho các lần sử dụng lặp lại.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tự động hoá thư viện mẫu**
+  Tự động tạo các tệp XLT từ tài liệu nguồn dạng DOC.
+
+* **Cài đặt bảng tính có thể lặp lại**
+  Sản xuất mẫu sổ làm việc một cách lập trình từ các tài liệu đã chuẩn hoá.
+
+* **Tái sử dụng nội dung vận hành**
+  Chuyển đổi các biểu mẫu và báo cáo định kỳ thành tài sản bảng tính dựa trên mẫu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

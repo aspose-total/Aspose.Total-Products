@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑XLTM ממירה תוכן מובנה מבוסס מסמך לתבניות גיליון אלקטרוני עם מקרו ליצירת חוברות חוזרות עם תמיכה באוטומציה. היא חשובה כאשר יש צורך בגיליונות אלקטרוניים מתוקננים שגם נושאים התנהגות ניתנת לתכנות.
+
+באמצעות ממשקי API של Python, המרת WordML ל‑XLTM מסייעת לארגונים לאוטומט את יצירת תבניות גיליון אלקטרוני ניתנות לשימוש חוזר המתואמות עם זרימות עבודה מתקדמות של עיבוד.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **פלט תבנית עם מקרו**
+  ממירה תוכן WordML לקבצי XLTM עבור יסודות חוברות אוטומטיות ניתנות לשימוש חוזר.
+
+* **אוטומציה חוזרת של גיליון אלקטרוני**
+  תומכת ביצירת חוברות חוזרות עם יכולות לוגיקה משובצות.
+
+* **תקינה של תבניות מובנות**
+  מסייעת לארוז תוכן מסמך מאושר לתבניות גיליון אלקטרוני מוכנות לתהליך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פרסום תבנית אוטומטי**
+  מייצרת קבצי XLTM מקלטי WordML עבור פעולות גיליון אלקטרוני חוזרות.
+
+* **תמיכה בזרימת עבודה של דיווח מתקדם**
+  מחברת תוכן מונע מסמך עם תבניות חוברות בעלות יכולת מקרו.
+
+* **אריזת תהליך ניתנת להרחבה**
+  מאפשרת יצירה עקבית של תבניות גיליון אלקטרוני מוכנות לאוטומציה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

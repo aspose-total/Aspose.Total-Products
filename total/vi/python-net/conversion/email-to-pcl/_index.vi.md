@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi email sang PCL trong Python chuyển đổi nội dung tin nhắn thành đầu ra ngôn ngữ lệnh máy in, phù hợp cho quy trình in dựa trên thiết bị. Điều này hữu ích khi email cần được hiển thị trực tiếp để in nhất quán trong môi trường vận hành hoặc in kế thừa.
+
+Nó hỗ trợ tự động hoá bằng cách cho phép nội dung tin nhắn di chuyển trực tiếp vào các pipeline in, giảm các bước chuẩn bị và đơn giản hoá việc tạo ra đầu ra quy mô lớn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Hỗ Trợ Quy Trình In Trực Tiếp**
+  Chuyển đổi email sang PCL cho các hệ thống dựa vào đầu ra sẵn sàng in.
+
+* **In Thông Điệp Vận Hành**
+  Sử dụng đầu ra PCL ở những nơi thông tin cần được in theo định dạng tiêu chuẩn.
+
+* **Tương Thích Môi Trường Kế Thừa**
+  Hỗ trợ hạ tầng in cũ hơn bằng việc hiển thị email trực tiếp.
+
+* **Hàng Đợi In Trung Tâm**
+  Cung cấp các tệp email đã chuyển đổi vào quy trình in khối lượng lớn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động" %}}
+
+* **Gửi In Tự Động**
+  Chuyển đổi email đến thành PCL và gửi chúng vào hàng đợi in đã lên lịch.
+
+* **Đầu Ra Vận Hành Hàng Loạt**
+  Tạo ra các bản ghi email sẵn sàng in cho logistics, quản trị hoặc kiểm tra.
+
+* **Giao Tài Liệu Dựa Trên Thiết Bị**
+  Tích hợp chuyển đổi email với các hệ thống quản lý in tự động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál PCL-t hozzáadni OFT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PCL‑ről OFT‑re konvertálás Python API‑k használatával lehetővé teszi a nyomtatásalapú dokumentumok átalakítását e‑mail sablonformátumokká, amelyek támogatják az ismételhető kommunikációs munkafolyamatokat. Ez akkor értékes, amikor a PCL‑ből származó tartalomnak alapul kell szolgálnia a működési vagy ügyfélközpontú folyamatokban használt szabványosított üzenetsablonok számára.
+
+A konverzió automatizálása növeli a hatékonyságot, mivel lehetővé teszi a rendszerek számára, hogy közvetlenül a strukturált nyomtatási kimenetekből újrahasználható OFT sablonokat hozzanak létre. Ez támogatja a skálázható üzenetküldési műveleteket, ahol a konzisztencia, a sablonozás és az ismétlődő kommunikációk gyors előállítása fontos.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **E‑mail sablon létrehozása**  
+  Átalakítja a PCL dokumentumokat OFT fájlokká az újrahasználható üzenetsablon munkafolyamatokhoz.
+
+* **Szabványosított kommunikációs tervezés**  
+  Segít konzisztens e‑mail struktúrák létrehozásában az ismételhető nyomtatott tartalomból.
+
+* **Sablon‑alapú folyamat támogatás**  
+  Lehetővé teszi a működési csapatok számára, hogy újra felhasználják a konvertált tartalmat ismétlődő megkeresésekhez vagy értesítésekhez.
+
+* **Örökölt tartalom újrapakolása**  
+  Átalakítja a nyomtatási adatfolyam információit strukturált e‑mail sablon eszközökké.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Újrahasználható sablon csővezetékek**  
+  A rendszerek automatikusan létrehozhatnak OFT sablonokat az ismétlődő PCL kimenetekből.
+
+* **Munkafolyamat‑vezérelt üzenet szabványosítás**  
+  Az automatizált konverziók segítenek fenntartani a konzisztenciát a sablonos kommunikációkban.
+
+* **Dinamikus tartalom előkészítés**  
+  A PCL‑ből származó anyag átalakítható OFT fájlokká a downstream személyre szabási munkafolyamatokhoz.
+
+* **Skálázható megkeresési műveletek**  
+  A sablonkonverzió támogatja a programozottan generált ismételhető kommunikációs eszközök előállítását.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

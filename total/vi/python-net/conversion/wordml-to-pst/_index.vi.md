@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi WordML sang PST hỗ trợ việc chuyển đổi nội dung xuất phát từ tài liệu thành các quy trình bảng lưu trữ cá nhân được sử dụng cho việc tổ chức và di chuyển dữ liệu hộp thư. Điều này có liên quan khi thông tin tài liệu cần được tích hợp vào các hoạt động lưu trữ email lớn hơn hoặc lưu trữ lâu dài.
+
+Các API Python có thể hỗ trợ quá trình xử lý liên quan đến WordML sang PST bằng cách cấu trúc nội dung cho việc chuẩn bị tin nhắn và lưu trữ có khả năng mở rộng trong môi trường giao tiếp doanh nghiệp.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Chuẩn bị Lưu trữ Hộp thư**
+  Sử dụng nội dung tài liệu làm nguyên liệu nguồn cho các quy trình lưu trữ thư cá nhân.
+
+* **Hỗ trợ Di chuyển và Lưu trữ**
+  Giúp tích hợp văn bản có cấu trúc vào các hệ thống giao tiếp hướng lưu trữ.
+
+* **Hợp nhất Nội dung Doanh nghiệp**
+  Hỗ trợ đóng gói các hồ sơ xuất phát từ tài liệu trong các quy trình tập trung vào hộp thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Các quy trình Chuẩn bị Lưu trữ**
+  Tự động hoá việc chuyển đổi nội dung WordML cho các quy trình lưu trữ quy mô lớn.
+
+* **Hợp nhất Dữ liệu Thư**
+  Hỗ trợ việc tích hợp lặp lại các giao tiếp dựa trên tài liệu vào các hoạt động lưu trữ.
+
+* **Tự động hoá Quy trình Lưu trữ**
+  Giúp chuẩn hoá việc chuẩn bị nội dung tài liệu sang hộp thư trên nhiều hệ thống.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

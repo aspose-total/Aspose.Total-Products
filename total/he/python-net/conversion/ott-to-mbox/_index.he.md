@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑MBOX ב‑API‑ים של פייתון ממירה תבניות טקסט של OpenDocument לפורמט ארכיון תיבת דואר לאחסון אוספים של הודעות בסגנון דוא"ל. זה שימושי כאשר יש צורך לקבץ, להעביר או לשמור תקשורת שנוצרה במבנה תואם לתיבת דואר.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות לייצור הודעות מבוסס מסמך לזרום ישירות לצינורות ארכיון והגירה המתבססים על אחסון בסגנון תיבת דואר למען קנה מידה וארגון.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת ארכיון תיבת דואר**  
+  מייצר תוכן הודעה המתאים לאחסון דוא"ל מקובץ.
+
+* **תיעוד תקשורת**  
+  שומר על תוכן שנוצר בפורמט תיבת דואר נייד.
+
+* **אריזת הודעות בכמות גדולה**  
+  מסייע לארגן הודעות שנוצרו מרובות להעברה או לקליטה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת ארכיון דואר אוטומטית**  
+  ממירה תקשורת מונחית תבנית למכולות MBOX.
+
+* **תמיכה בתהליך הגירה**  
+  מכינה הודעות שמקורן במסמך לתהליכי ייבוא לתיבת דואר.
+
+* **צינורות שמירת אצווה**  
+  אוחסן הודעות שנוצרו באופן חוזר לצורכי ציות או ביקורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

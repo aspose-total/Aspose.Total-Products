@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX XLSB XLTX XLTM XLSM CSV TSV
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת POTM ל‑XLS בפייתון ממירה תוכן מצגת עם מקרו לפורמט גיליון אלקטרוני מדור קודם המתאים למערכות ישנות ולסביבות עסקיות מבוססות. זה שימושי כאשר נדרשת תאימות לתהליכי עבודה של גיליונות אלקטרוניים מסורתיים.
+
+מנקודת מבט של אוטומציה, המרת POTM ל‑XLS מאפשרת למערכות מבוססות פייתון לתמוך בתרחישי פריסה רחבים יותר על ידי יצירת פלטים שעדיין ניתנים לשימוש בדיווח ותשתיות תפעוליות מדור קודם.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תאימות גיליון אלקטרוני מדור קודם**
+  מייצרת פלטים שעובדים עם כלי גיליונות אלקטרוניים ומערכות ישנות.
+
+* **הגירת נתוני מצגת**
+  מעבירה תוכן מובנה מהמצגות לפורמט רשת לשימוש חוזר ובדיקה.
+
+* **המשכיות תפעולית**
+  תומכת בארגונים שעדיין תלויים בתקני גיליונות אלקטרוניים קודמים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצוא תואם לאחור**
+  מממשת באופן אוטומטי יצירת XLS מקבצי POTM לסביבות עסקיות ישנות.
+
+* **שילוב מערכת מדור קודם**
+  מזינה נתוני גיליון אלקטרוני מומר לפלטפורמות תפעוליות וותיקות.
+
+* **תהליכי דיווח באצווה**
+  משתמשת בפייתון ליצירת ייצואי גיליון אלקטרוני חוזרים למשימות דיווח תקופתיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

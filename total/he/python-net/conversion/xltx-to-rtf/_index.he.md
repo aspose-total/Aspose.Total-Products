@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTX ל‑RTF ממירה את תוכן תבנית הגיליון האלקטרוני לפורמט טקסט עשיר שמאזן ניידות, קריאות ותאימות רחבה. היא שימושית כאשר מידע גיליון מובנה צריך להיות משותף כתוכן טקסט ניתן לעריכה בפורמט קל משקל המתאים למערכות רבות ולתהליכי מסמכים.
+
+לצורך אוטומציה, המרת XLTX ל‑RTF תומכת ביצירת מסמכים יעילה, אינטגרציה קלה לצינורות עיבוד טקסט, והמרה ניתנת להרחבה של תוכן גיליון מבוסס תבנית לפלטים קריאים באופן רחב.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת מסמך עריכה קל משקל**  
+  ממירה תבניות גיליון אל מסמכי טקסט עשיר לעריכה וגישה גמישה ולשיתוף.
+
+* **תהליכי עבודה עם תאימות רחבה**  
+  מסייעת להפצת תוכן מובנה בפורמט טקסט הנתמך על ידי יישומים רבים.
+
+* **אריזת תוכן מפושטת**  
+  תומכת בהמרת נתוני תבנית טבלאיים לפלטים קריאים בסגנון מסמך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **פלט מסמך טקסט אוטומטי**  
+  מערכות יכולות ליצור קבצי RTF מתבניות XLTX לצרכי תקשורת חוזרים.
+
+* **צינורות תוכן חוצי‑מערכות**  
+  ההמרה תומכת בתהליכי עבודה הדורשים פלטי מסמכים קלים וניידים.
+
+* **עיבוד טקסט עשיר בכמות גדולה**  
+  המרה תכנותית מאפשרת יצירה מהירה של מספר רב של מסמכי RTF מתבניות גיליון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

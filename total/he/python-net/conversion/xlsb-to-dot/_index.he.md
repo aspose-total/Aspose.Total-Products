@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSB ל‑DOT משנה תוכן גליון אלקטרוני בינארי לפורמט תבנית של Word, ומסייעת לארגונים ליצור מבני מסמכים ניתנים לשימוש חוזר בהתבסס על נתונים שמקורם בגליונות אלקטרוניים. זהו ערך כאשר יש צורך למלא פריסות מסמכים חוזרות ממקורות גליון אלקטרוני.
+
+בסביבות אוטומטיות, המרת XLSB ל‑DOT תומכת ביצירת מסמכים מבוססי תבניות בקנה מידה, משפרת עקביות, מצמצמת עריכה חוזרת, ומאפשרת פלטים סטנדרטיים לאורך תהליכי דיווח ותפעול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית**  
+  ממיר מידע מגיליון אלקטרוני לתבניות מסמך ניתנות לשימוש חוזר לשימוש חוזר.
+
+* **דיווח סטנדרטי**  
+  מסייע לאכוף עיצוב עקבי על פני פלטי מסמכים חוזרים.
+
+* **עיצוב תיעוד תהליכים**  
+  תומך ביצירת מבנים ניתנים לשימוש חוזר לתהליכי תיעוד פנימיים.
+
+* **שימוש חוזר במבנה מסמך**  
+  מאפשר לצוותים ליצור מסמכים מרובים מתוך פריסה משותפת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירה מבוססת תבנית**  
+  אוטומציה יכולה להמיר קלטי XLSB לקבצי DOT ליצירת מסמכים חוזרים.
+
+* **צינורות פלט סטנדרטיים**  
+  מערכות יכולות לאכוף עקביות בפריסה על ידי יצירת פלטים מוכנים לתבנית באופן אוטומטי.
+
+* **הכנת תבניות בכמות**  
+  ניתן ליצור תבניות מרובות המונעות על ידי גליון אלקטרוני בעיבוד אצווה.
+
+* **זרימות תיעוד תפעוליות**  
+  נתוני גליון אלקטרוני יכולים להזין יצירת תבניות מובנות לשימוש בהמשך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

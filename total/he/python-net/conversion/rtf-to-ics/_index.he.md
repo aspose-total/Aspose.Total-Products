@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF ל‑ICS ממירה מסמכי טקסט מעוצבים לקבצים תואמי‑לוח שנה שיכולים לייצג אירועים, לוחות זמנים, תזכורות או נתוני פגישות. זה במיוחד שימושי כאשר תוכן הקשור לתאריך ולזמן המאוחסן במסמכים צריך להפוך לפעיל במערכות לוח שנה.
+
+מנקודת מבט של אוטומציה, המרת RTF ל‑ICS מאפשרת יצירת אירועים, זרימות עבודה של תזמון, והפצה יעילה של מידע מוכן ללוח שנה בין צוותים, מערכות ותהליכים תפעוליים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת אירוע ממסמכים**  
+  ממיר רישומי פגישות או לוחות זמנים לקבצי לוח שנה שניתן לייבא ולשתף.
+
+* **הפצת תזכורות**  
+  עוזר להפוך תוכן מסמכי מבוסס תאריך לרשומות לוח שנה ניתנות לפעולה.
+
+* **אחידות לוחות זמנים**  
+  תומך בעיצוב עקבי של פגישות וקווי זמן לשימוש חוזר רחב יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת פגישות אוטומטית**  
+  מערכות יכולות לחלץ נתוני לוח זמנים מקבצי RTF וליצור רשומות ICS ללא הגדרה ידנית.
+
+* **פרסום לוח שנה מבוסס זרימת עבודה**  
+  המרה תכנותית מאפשרת להפיץ תוכניות, הודעות או לוחות זמנים כקבצי לוח שנה.
+
+* **צינורות תזמון חוזרים**  
+  תהליכים דינמיים יכולים ליצור פלטי לוח שנה ממקורות מסמכים שגרתיים לצוותים ובעלי עניין.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

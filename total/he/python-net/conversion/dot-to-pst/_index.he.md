@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑PST ממירה תבניות מסמכים לתהליכי טבלאות אחסון אישיות עבור ארכיוני דוא"ל והודעות. זה שימושי כאשר תוכן שמופק מתבניות צריך להפוך לחלק מאחסון תקשורת רחב יותר או מתהליכי הגירה.
+
+ממשקי API של Python יכולים לאוטומט תהליכים הקשורים להמרת DOT ל‑PST, כך שהארגונים יכולים לייעל הכנת ארכיונים ולשלב תקשורת מבוססת מסמכים בתזרימי נתוני תיבות הדואר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת חבילת ארכיון**
+  המרת תוכן הודעות מבוסס DOT לתהליכי עבודה ממוקדי PST לאחסון או הגירה.
+
+* **איחוד נתוני תיבת דואר**
+  שילוב חומר תקשורת מונע תבניות במבני ארכיון אישיים.
+
+* **תמיכה בשימור תקשורת**
+  שמירת תוכן שניתן לשימוש חוזר בתוך תהליכי ניהול נתוני דוא"ל רחבים יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **תמיכה בתהליך ארכיון אוטומטי**
+  סקריפטים ב‑Python יכולים להכין תוכן שמופק מ‑DOT לטיפול מבוסס PST ומשימות שימור.
+
+* **שילוב בתהליך ההגירה**
+  ההמרה מסייעת לתבניות המסמכים להזין לתהליכי מעבר של תיבות דואר.
+
+* **ארכוב תקשורת בר‑קנה מידה**
+  מערכות תכנותיות יכולות לתקנן הכנת ארכיונים לכמויות גדולות של תוכן תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

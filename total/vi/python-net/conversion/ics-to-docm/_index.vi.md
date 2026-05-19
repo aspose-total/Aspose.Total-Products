@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi từ định dạng ICS sang DOCM bằng các API Python chuyển đổi dữ liệu sự kiện lịch thành các tài liệu Word hỗ trợ macro. Điều này cho phép thông tin lịch trình được tích hợp vào các tài liệu hỗ trợ tự động hoá nâng cao thông qua các macro nhúng.
+
+Tự động hoá quá trình chuyển đổi này bằng Python giúp các tổ chức tích hợp dữ liệu lịch vào quy trình làm việc dựa trên macro, cho phép lịch sự kiện kích hoạt tự động hoá tài liệu hoặc quy trình báo cáo.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các Trường Hợp Sử Dụng Chính" %}}
+
+* **Mẫu Tài Liệu Tự Động**  
+  Nhúng dữ liệu lịch vào các tài liệu hỗ trợ macro để báo cáo tự động.
+
+* **Tích Hợp Quy Trình**  
+  Sử dụng thông tin sự kiện trong các tài liệu kích hoạt quy trình tự động.
+
+* **Báo Cáo Nâng Cao**  
+  Kết hợp lịch trình với phân tích hoặc định dạng dựa trên macro.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch Bản Tự Động Hóa" %}}
+
+* **Hệ Thống Báo Cáo Dựa Trên Macro**  
+  Tự động tạo các tệp DOCM từ lịch trình ICS.
+
+* **Đường Ống Tự Động Hóa Tài Liệu**  
+  Tích hợp dữ liệu sự kiện với quy trình macro để cập nhật tài liệu tự động.
+
+* **Công Cụ Lịch Trình Doanh Nghiệp**  
+  Chuyển đổi dữ liệu lịch thành các báo cáo hỗ trợ macro ở quy mô lớn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

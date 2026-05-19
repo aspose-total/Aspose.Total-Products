@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל-OTT ממירה ארכיוני תיבת דואר לתבניות מסמך פתוחות, ומאפשרת להשתמש במבני תוכן שמקורם במיילים במערכי יצירת מסמכים מתוקנים. זה שימושי כאשר ארגונים רוצים לבנות פורמטים של תוכן חוזרים על עצמם בהתבסס על תקשורת משומרת.
+
+ממשקי API של Python מאפשרים לאוטומט את יצירת קבצי OTT מקבצי MBOX, משפרים עקביות, מצמצמים הגדרות ידניות, ותומכים בפעולות מבוססות תבניות בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת תבנית פתוחה**
+  המרת תוכן תיבת הדואר לתבניות OTT ניתנות לשימוש חוזר ליצירת מסמכים עקבית.
+
+* **פריסות תוכן מתוקנות**
+  שמירת המבנה המבוסס על אימייל בפורמט המיועד לעיצוב חוזר.
+
+* **תיעוד מונחה תבנית**
+  שימוש בתוכן תיבת הדואר המומר לתמיכה בתהליכי עבודה של מסמכים פתוחים בעתיד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **בניית תבנית אוטומטית**
+  יצירת קבצי OTT מאימיילים נבחרים כחלק מצינורות תוכן חוזרים.
+
+* **תקינה של זרימת עבודה פתוחה**
+  שימוש באוטומציה של Python לשמירה על מבני תבניות עקביים מארכיוני תיבות דואר.
+
+* **הכנת מסמכים בקנה מידה**
+  שילוב תבניות מומרות במערכות יצירת מסמכים רחבות יותר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

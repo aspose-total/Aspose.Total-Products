@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑XLAM ממירה תוכן תבנית Word לפורמט קשור לתוסף Excel המשמש בסביבות גיליון אלקטרוני מתקדמות. זה רלוונטי כאשר לוגיקה מונעת מסמכים או תוכן מובנה תורמים לתהליכי עבודה של כלי גיליון אלקטרוני שניתן להשתמש בהם מחדש.
+
+המרה זו תומכת באוטומציה על ידי סיוע למערכות מבוססות Python להכין נכסים הקשורים לגיליון אלקטרוני המתאימים לסביבות עיבוד נתונים ניתנות להרחבה ולחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תמיכה בכלי גיליון אלקטרוני**
+  התאמת תוכן המסמך לתהליכי עבודה הקשורים לנכסים מבוססי Excel שניתן להשתמש בהם מחדש.
+
+* **סביבות נתונים מתקדמות**
+  תרומה של מידע תבנית מובנה לתהליכי גיליון אלקטרוני ניתנים להרחבה.
+
+* **תאימות פורמט**
+  תמיכה בהמרה לפורמטים הקשורים לגיליון אלקטרוני למקרים מיוחדים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הכנת נכסי גיליון אלקטרוני אוטומטית**
+  המרת תבניות DOTX לפלטים הקשורים ל‑XLAM בתהליכי עבודה מיוחדים.
+
+* **הגדרת עיבוד נתונים לשימוש חוזר**
+  שילוב תוכן מומר במערכות אוטומציה של גיליון אלקטרוני שניתן לחזור עליהן.
+
+* **הרחבות תבנית-ל‑גיליון אלקטרוני**
+  קישור המרת מסמכים לפעולות מתקדמות הממוקדות בגיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

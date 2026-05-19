@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Word ל-ODS באמצעות ממשקי Python ממירה מסמכי עיבוד תמלילים לקבצי גיליון OpenDocument לצורך טיפול במידע מובנה בסביבות פרודוקטיביות פתוחות. זה בעל ערך כאשר יש צורך לארגן מחדש את תוכן המסמך לגיליונות לצורך ניתוח, סקירה או עיבוד תפעולי.
+
+מנקודת מבט של אוטומציה, המרה זו מאפשרת העברה יעילה של מידע מתהליכי עבודה המתמקדים במסמכים למערכות מבוססות גיליונות, תוך תמיכה בתקנים פתוחים ועיבוד אצווה בר‑קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **המרת גיליון פתוח**
+  מעביר נתונים שמקורם ב-Word ל-ODS לצורך סקירה ועריכה מובנית.
+
+* **טיפול בנתונים חוצי פלטפורמות**
+  תומך בסביבות שמעדיפות פורמטים פתוחים של גיליונות מסמכים.
+
+* **מעקב תפעולי**
+  מאורגן מחדש את תוכן המסמך לגיליונות למעקב ושמירת רשומות.
+
+* **שימוש חוזר במידע מובנה**
+  הופך תוכן נרטיבי או טבלאי לקל יותר לעבודה בתהליכי עבודה עם גיליונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה ממסמך לגיליון**
+  ממיר קבצי Word נכנסים ל-ODS לתהליכים עסקיים שגרתיים.
+
+* **יצירת פורמט פתוח באצווה**
+  מייצר פלטים של גיליונות סטנדרטיים ממספר מסמכי מקור.
+
+* **הכנת נתוני זרימת עבודה**
+  מזין פלטי ODS לתוך מערכות OpenOffice וכלי עיבוד אוטומטיים.
+
+* **צינורות ארכיון מובנים**
+  שומר על נתוני המסמך המופקים בקבצי גיליון מאורגנים לשימוש עתידי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת FODS ל-OTT ממירה קבצי גיליון אלקטרוני פתוח (OpenDocument) שטוחים לתבניות טקסט של OpenDocument, ומאפשרת לנתוני מקור מובנים לתמוך בפריסות מסמכים שניתן להשתמש בהן מחדש בסביבות תקן פתוח. זה בעל ערך עבור ארגונים הזקוקים לתבניות מסמכים עקביות מבלי להסתמך על פורמטים קנייניים.
+
+בהקשרים של אוטומציה, המרת FODS ל-OTT מאפשרת יצירת מסמכים חוזרת, ניהול תבניות יעיל, ותהליכי עבודה בקנה מידה של פורמט פתוח. ממשקי API של Python הופכים את האוטומציה של יצירת תבניות מנתונים מובנים למעשית ומשלבים תהליך זה במערכות תוכן רחבות יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית פתוחה**  
+  המרת תוכן FODS לקבצי OTT עבור תבניות מסמכי טקסט שניתן להשתמש בהם מחדש.
+
+* **פריסות מסמכים מתוקננות**  
+  בניית מבני תבניות עקביים למסמכים עסקיים ותפעוליים חוזרים.
+
+* **נכסים פתוחים לשימוש חוזר**  
+  יצירת קבצי תבנית התומכים ביצירת תוכן חוזרת במערכות מסמכים פתוחות.
+
+* **מסגרות תיעוד תהליכים**  
+  השתמש בפלטי OTT כנקודות התחלה שניתן להשתמש בהן מחדש לתהליכי תיעוד מתמשכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות אוטומציה של תבניות**  
+  סקריפטים ב-Python יכולים להמיר קבצי FODS לתבניות OTT ליצירת מסמכים חוזרת.
+
+* **ייצור תבניות בכמות**  
+  מערכות אוטומטיות יכולות ליצור מספר תבניות פתוחות ממקורות גיליון נתונים מובנים.
+
+* **ניהול פלט עקבי**  
+  תהליכי המרה יכולים לאכוף פריסות תקניות על פני משימות תיעוד חוזרות.
+
+* **תהליכי אוטומציה ניידים**  
+  המרת OTT תומכת בפעולות מסמכים ניתנות להרחבה בסביבות המתמקדות בתקנים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

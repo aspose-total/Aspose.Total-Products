@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM ל‑XLS ממיר מסמכים עם מקרו לקבצי גיליון אלקטרוני התומכים בטיפול במבנה נתונים, סקירה ודיווח. זה שימושי כאשר יש להעביר טבלאות ורשומות מתוך קבצי DOCM לתהליכי עבודה של גיליונות מוכרים לשימוש נוסף.
+
+מנקודת מבט של אוטומציה, המרה מ‑DOCM ל‑XLS תומכת בחילוץ נתוני מסמך חוזר, תאימות לגיליונות מדור קודם וצינורות דיווח ניתנים להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **שימוש חוזר בנתוני גיליון**
+  ממיר טבלאות מסמך לצורת גיליון עבור ניתוח ועריכה.
+
+* **תאימות חוברת עבודה מדור קודם**
+  תומך בסביבות שעדיין מסתמכות על פורמטים של גיליונות ישנים.
+
+* **דיווח תפעולי**
+  עוזר לשימוש חוזר בנתונים מבוססי מסמך למשימות חוזרות המונעות על ידי גיליונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצוא חוברת עבודה אוטומטי**
+  מייצר קבצי XLS ממקורות DOCM בעבודות עיבוד שגרתיות.
+
+* **המרת טבלאות בכמות גדולה**
+  ממיר קבוצות מסמכים גדולות לפלטי גיליון עבור פעולות משנית.
+
+* **אינטגרציה עם מערכות מדור קודם**
+  מספק נתונים מובנים לתהליכי עבודה התלויים בפורמטים של חוברות עבודה ישנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

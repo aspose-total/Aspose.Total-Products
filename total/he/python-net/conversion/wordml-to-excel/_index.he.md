@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑Excel מעבירה תוכן מובנה ממסמכי WordprocessingML לפורמטים של גיליונות אלקטרוניים המתאימים לניתוח, דיווח ומעקב תפעולי. זה שימושי במיוחד כאשר המסמכים מכילים טבלאות או מידע חצי‑מובנה שצריך להפוך לנתוני חוברת עבודה שניתן לערוך.
+
+ממשקי API של Python מאפשרים להרחיב את המרת WordML ל‑Excel על‑ידי חילוץ טבלאות המסמך, ארגון תוכן הגיליון ושילוב משימות ההמרה בתהליכים עסקיים ונתונים אוטומטיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **יצירת גיליון אלקטרוני**
+  ממירה טבלאות מסמך לפורמטים מבוססי חוברת עבודה לעריכה ובדיקה.
+
+* **הפעלת דיווח**
+  הופכת את תוכן המסמך המובנה לזמין לנוסחאות, תרשימים וניתוח גיליונות אלקטרוניים.
+
+* **העברת נתונים עסקיים**
+  תומכת בהעברת נתונים תפעוליים מהמסמכים למערכות המונעות על‑ידי גיליונות אלקטרוניים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת חוברת עבודה אוטומטית**
+  יוצרת קבצים תואמי Excel ממספר מסמכי WordML ללא צורך בהעתקה ידנית.
+
+* **שילוב צינור דיווח**
+  מזינה פלטי גיליונות אלקטרוניים מומרות ללוחות מחוונים, ביקורות או תהליכי תכנון.
+
+* **נרמול נתונים מובנים**
+  מאמתת את תוכן המסמך לתבניות גיליון עבודה לשימוש חוזר במערכות המשך.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

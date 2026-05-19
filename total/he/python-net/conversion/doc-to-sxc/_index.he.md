@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑SXC משנה את תוכן ה‑Word לפורמט גיליון אלקטרוני המשויך לתהליכי עבודה של OpenOffice ישנים, מה שהופך אותו לשימושי לאינטראופראביליות מדור קודם ולחילוץ נתונים מובנים. הוא תומך בארגונים המשמרים תאימות לאקוסיסטמות גיליונות אלקטרוניים קודמות.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת DOC ל‑SXC כדי להפחית הקלדה ידנית ולתמוך בתהליכי עבודה של נתונים מדור קודם שניתנים לחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תאימות גיליון אלקטרוני מדור קודם**
+  המרת טבלאות מסמך ל‑SXC עבור סביבות OpenOffice ישנות.
+
+* **שמירת נתונים מובנים**
+  שמירת ערכי המסמך בפורמט גיליון אלקטרוני מדור קודם.
+
+* **תמיכה במעבר**
+  גשר בין מסמכי Word למערכות שעדיין תלויות בתקני גיליונות אלקטרוניים היסטוריים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה של זרימת עבודה מדור קודם**
+  יצירת קבצי SXC באופן אוטומטי ממקורות DOC כאשר כלים ישנים עדיין בשימוש.
+
+* **צינורות המרה במקבצים**
+  המרת מסמכים מרובים לקבצי גיליון אלקטרוני מובנים ללא טיפול ידני.
+
+* **משימות אינטרופראביליות מערכת**
+  חיבור תכנותי של מקורות מסמכים מודרניים עם זרימות עבודה של גיליונות אלקטרוניים מדור קודם.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

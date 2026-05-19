@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSB ל‑RTF ממירה תוכן גיליון אלקטרוני בינארי למסמכי טקסט עשיר, ומאפשרת לשתף נתונים מובנים בפורמט טקסט קל משקל ותומך ברוב המערכות. זה שימושי כאשר תוכן שמקורו בגיליון אלקטרוני דורש תאימות רחבה בסביבות עיבוד מסמכים.
+
+בזרימות עבודה של אוטומציה, המרת XLSB ל‑RTF תומכת ביצירת מסמכים גמישה, מה שמקל על ייצור פלטים ניידים מבוססי טקסט מנתוני גיליון אלקטרוני תוך שמירה על קריאות, עיצוב ועיבוד בר‑קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **פלט טקסט עשיר נייד**  
+  ממיר את תוכן הגיליון למסמך טקסט מעוצב הנתמך באופן רחב.
+
+* **שיתוף בין‑מערכות**  
+  מסייע להפצת מידע שמקורו בגיליון אלקטרוני במגוון סביבות מסמכים.
+
+* **תיעוד קל משקל**  
+  תומך ביצירת מסמכים כאשר תאימות ופשטות חשובות.
+
+* **ייצוא נתונים קריא**  
+  מאפשר למידע מהגיליון להיות ממושמש לפלטים ידידותיים לטקסט.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמכי טקסט אוטומטית**  
+  מערכות יכולות להמיר קבצי XLSB למסמכי RTF עבור זרימות עבודה חוזרות.
+
+* **עיבוד תאימות במאצ'ים**  
+  קבצי גיליון מרובים יכולים להיות מומרצים לפלטים ניידים של טקסט עשיר.
+
+* **צינורות חילופי נתונים**  
+  זרימות עבודה אוטומטיות יכולות לנתב את תוכן הגיליון לפורמטים קריאים באופן רחב.
+
+* **זרמי ארכיב והפצה**  
+  נתוני גיליון מובנים יכולים להיות מוכנים לשיתוף וגיבוי גמישים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

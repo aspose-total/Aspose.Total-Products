@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑WordML ממירה ארכיוני תיבת דואר למבנה XML של מסמך Word, ומאפשרת ייצוג מובנה ועיבוד קריא למכונה של תוכן שמקורו במייל. זה בעל ערך כאשר תהליכי עבודה דורשים שקיפות, התאמה אישית, או אינטראקציה תכנותית עם מבנה המסמך.
+
+ממשקי API של Python הופכים את המרת WordML למעשית בקנה מידה רחב על ידי תמיכה בהמרה אוטומטית, עיבוד ברמת XML, ושילוב עם מערכות המטפלות בנתוני מסמכים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא מסמך Word מבוסס XML**
+  המרת אימיילים ל‑WordML לטיפול במסמכים מובנים וקריאים למכונה.
+
+* **עיבוד מסמכים מותאם אישית**
+  אפשר מניפולציה ברמת נמוכה של תוכן שמקורו במייל באמצעות זרימות עבודה מבוססות סימון.
+
+* **החלפת נתונים מתאימה**
+  שימור נתוני תיבת הדואר בפורמט המתאים למערכות מסמכים מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרה אוטומטית של XML**
+  יצירת פלטי WordML מארכיוני MBOX לצינורות עיבוד מודעים למסמך.
+
+* **זרימות עבודה של נתונים מובנים**
+  השתמש ב‑Python כדי לבדוק, לשנות או לאמת מסמכי תיבת דואר שהומרו באופן תכנותי.
+
+* **שילוב מערכת בקנה מידה**
+  הזנת מסמכי XML שמקורם במייל למערכות תוכן וטרנספורמציה ארגוניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

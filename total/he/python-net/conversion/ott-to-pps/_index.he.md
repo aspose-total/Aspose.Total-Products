@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑PPS ב‑APIs של Python ממירה תבניות טקסט של OpenDocument לקבצי מצגת שמיועדים לתצוגה ישירה ולמסירה. זה בעל ערך כאשר יש צורך לשתף תוכן כמצגת מוכנה להפעלה במקום מצגת ניתנת לעריכה רגילה.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות יצירת מצגות מבוססות מסמך עבור קיוסקים, תדריכים ותרחישי הפצה שבהם ניגון מיידי ועיצוב עקבי הם חשובים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הפצת מצגת**  
+  מייצרת קבצי מצגת מוכנים להצגה מתבניות טקסט.
+
+* **פלט מצגת מבוקר**  
+  תומך בניגון ישיר במקום בתהליכי עריכה מלאים.
+
+* **אריזת תקשורת חזותית**  
+  ממירה תוכן מסמך לנכסי מצגת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **פרסום מצגת אוטומטי**  
+  מייצר קבצי PPS עבור מצגות חוזרות או הודעות.
+
+* **שילוב זרימת עבודה לתצוגה**  
+  תומך בסביבות מצגת ללא השגחה או השקה ישירה.
+
+* **יצירת תדריכים בכמות גדולה**  
+  ממירה קבצי OTT מרובים לפלטים מוכנים להצגה ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

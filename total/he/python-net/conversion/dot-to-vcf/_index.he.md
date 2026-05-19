@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑VCF ממירה תבניות מסמכים לקבצי כרטיסי קשר שניתן להשתמש בהם לייבוא ספר כתובות ולשיתוף אנשי קשר. זה שימושי כאשר רשומות מבוססות מסמך מכילות פרטים של אדם או ארגון שצריך להכניס למערכות תקשורת.
+
+ממשקי API של Python מאפשרים אוטומציה של המרת DOT ל‑VCF, משפרים את ניידות נתוני הקשר ומפחיתים קלט ידני חוזר בתהליכי עבודה עסקיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת רשומות קשר**
+  המרת מידע מבוסס DOT לקבצי VCF לשימוש בספר כתובות.
+
+* **שיתוף קשר נייד**
+  שיתוף נתוני קשר מובנים שהוצאו מתבניות בפורמט תקני.
+
+* **תמיכה בכניסת נתוני תקשורת**
+  הפחתת קלט ידני על ידי שינוי תוכן התבנית לכרטיסי קשר מוכנים לייבוא.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא קשר אוטומטי**
+  תהליכי עבודה ב‑Python יכולים ליצור קבצי VCF מתבניות DOT המכילות מידע קשר.
+
+* **אינטגרציה עם CRM וספריות**
+  ההמרה תומכת בהעברת נתוני קשר מבוססי מסמך למערכות תקשורת.
+
+* **יצירת קבצי קשר בכמות גדולה**
+  עיבוד תכנותי מאפשר יצירה בקנה מידה של פלטי VCF מרבות תבניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

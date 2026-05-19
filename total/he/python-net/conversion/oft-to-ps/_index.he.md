@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+OFT ל-PS המרה באמצעות API של Python ממירה תבניות אימייל של Outlook לקבצי PostScript עבור הדפסה וזרימות עבודה של תיאור דף. זה שימושי כאשר יש צורך להכין תוכן אימייל מעוצב לסביבות הדפסה מתקדמות או לשלב עם מערכות ייצור מסמכים.
+
+בפעולות אוטומטיות, המרה מ-OFT ל-PS תומכת בעיבוד הדפסה אמין, רינדור מבוקר והכנת פלט בקנה מידה. היא מסייעת לחבר תוכן שמקורו באימייל עם זרימות עבודה של הדפסה מדורגת וייצור ברמת מקצועיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת זרימת עבודה להדפסה**  
+  המרת קבצי OFT לפורמט PS עבור סביבות הדפסה מבוססות תיאור דף.
+
+* **פלט מסמכי ייצור**  
+  השתמש בקבצי PostScript כאשר תוכן תבנית האימייל צריך לעבור עיבוד על ידי מערכות ממוקדות הדפסה.
+
+* **שמירת פריסה מובנית**  
+  שמור על עיצוב ברמת העמוד בפורמט המתאים לרינדור ושליטת הדפסה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות המרה אוטומטיים להדפסה**  
+  המרת תבניות OFT לקבצי PS עבור זרימות עבודה של הכנת הדפסה ברמת נפח גבוהה.
+
+* **שילוב מערכת פלט מדורגת**  
+  הזנת הפלטים המומרים לתוך תשתית רינדור והדפסה מבוססת באופן אוטומטי.
+
+* **רינדור עמוד תכנותי**  
+  השתמש ב-APIs של Python כדי ליצור קבצי PostScript עבור מערכות הדורשות עיצוב פלט מבוקר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

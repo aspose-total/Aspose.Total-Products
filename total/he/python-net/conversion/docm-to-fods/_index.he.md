@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to FODS conversion ממירה מסמכים עם מקרו לקבצי גיליון אלקטרוני פתוחים שטוחים, ומאפשרת להשתמש מחדש בנתוני המסמך המובנים בתהליכי עבודה של גיליונות אלקטרוניים פתוחים ומבוססי XML. זה שימושי כאשר שקיפות, ניידות וייצוג נתונים מתוקן הם חשובים.
+
+במערכות אוטומטיות, המרת DOCM ל‑FODS תומכת בחילוץ נתונים חוזר ושילובו בצינורות מסמכים פתוחים המעדיפים פורמטים של גיליונות אלקטרוניים קריאים ומובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **המרה לגיליון אלקטרוני פתוח**
+  מעבירה את נתוני המסמך לפורמט גיליון אלקטרוני שטוח המתאים למערכות פתוחות.
+
+* **ניידות נתונים מבוססת XML**
+  מסייעת לשמור על תוכן מובנה בפורמט שקל לבדוק ולהחליף.
+
+* **תקינה של זרימות עבודה**
+  תומכת בארגונים המשתמשים בתקני מסמכים פתוחים לפעולות גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא אוטומטי בפורמט פתוח**
+  ממירה קבצי DOCM לפלטי FODS לעיבוד מתוקן.
+
+* **שילוב עם צינורות XML**
+  מאפשר לנתוני המסמך לזרום למערכות שעובדות עם גיליונות אלקטרוניים מבוססי סימון מובנה.
+
+* **משימות תקינה בכמות גדולה**
+  מאמתת טבלאות מסמך לקבצי גיליון אלקטרוני שטוחים במאגרי גדלים גדולים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

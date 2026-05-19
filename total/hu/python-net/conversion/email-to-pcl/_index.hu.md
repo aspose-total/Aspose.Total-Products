@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál EMAIL-t hozzáadni PCL-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az e‑mail PCL‑re konvertálása Pythonban átalakítja az üzenettartalmat nyomtatóparancs‑nyelvi kimenetté, amely alkalmas eszközorientált nyomtatási munkafolyamatokhoz. Ez akkor hasznos, amikor az e‑maileket közvetlenül kell megjeleníteni a konzisztens nyomtatáshoz operatív vagy örökölt nyomtatási környezetekben.
+
+Automatizálást támogat azáltal, hogy lehetővé teszi az üzenettartalom közvetlen áramlását a nyomtatási csővezetékekbe, csökkentve az előkészítési lépéseket és egyszerűsítve a nagyszabású kimenet előállítását.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Közvetlen nyomtatási munkafolyamat támogatás**  
+  E‑maileket PCL‑re konvertál, azoknak a rendszereknek, amelyek nyomtatásra kész kimenetet igényelnek.
+
+* **Működési üzenetnyomtatás**  
+  Használja a PCL kimeneteket, ahol a kommunikációt szabványos formátumban kell nyomtatni.
+
+* **Örökölt környezet kompatibilitás**  
+  Támogatja a régebbi nyomtatási infrastruktúrákat közvetlen e‑mail rendereléssel.
+
+* **Központosított nyomtatási sorok**  
+  Adja be a konvertált e‑mail fájlokat nagy mennyiségű nyomtatási folyamatokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált nyomtatási küldés**  
+  Konvertálja a bejövő e‑maileket PCL‑re, és küldje őket ütemezett nyomtatási sorokba.
+
+* **Kötegelt működési kimenet**  
+  Készítsen nyomtatásra kész e‑mail rekordokat logisztikához, adminisztrációhoz vagy felülvizsgálathoz.
+
+* **Eszköz‑vezérelt dokumentum kézbesítés**  
+  Integrálja az e‑mail konverziót automatizált nyomtatáskezelő rendszerekkel.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

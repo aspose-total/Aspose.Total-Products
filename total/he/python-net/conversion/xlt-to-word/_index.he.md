@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+XLT ל-Word המרה ב-Python מאפשרת קבצי תבנית Excel להיות מומרות למסמכי Word תואמים לתקשורת עסקית, דיווח ותיעוד מובנה. המרה זו שימושית כאשר תבניות גיליון האלקטרוני מכילות מידע שחייב להיות מוצג בפורמט יותר נרטיבי, ניתן להדפסה או ממוקד במסמך.
+
+במסגרות אוטומציה, XLT ל-Word המרה משפרת את רציפות התהליך על ידי חיבור קבצי מקור מבוססי גיליון אלקטרוני עם פלטי מסמך מקובלים נרחב. היא מאפשרת המרת תוכן בקנה מידה, שיתוף פעולה חלק יותר, ושילוב קל יותר עם מערכות יצירת וניהול מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **הכנת מסמכי עסקים**  
+  המרת תבניות XLT לקבצים תואמי Word עבור דוחות, סיכומים ורשומות פורמליות.
+
+* **המרת תוכן קריא**  
+  הצגת נתונים ממקור גיליון אלקטרוני בפורמט מסמך שקל יותר לסקור ולהפיץ.
+
+* **הרחבת תאימות זרימת עבודה**  
+  תמיכה בתהליכי עסק המסתמכים על תיעוד מבוסס Word במקום גיליונות אלקטרוניים.
+
+* **שימוש חוזר בתוכן תבנית**  
+  שימוש חוזר בתבניות Excel קיימות כתפוקות מסמך מובנות לשיפור יעילות תפעולית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכים אוטומטית**  
+  שימוש ב-APIs של Python ליצירת פלטים תואמי Word מתבניות XLT בזרימות עבודה חוזרות.
+
+* **מערכות דיווח משולבות**  
+  המרת נתוני תבנית למסמכי Word כחלק מצינורות דיווח ותיעוד רחבים יותר.
+
+* **המרת קבצים בקנה מידה**  
+  המרת מספר תבניות גיליון אלקטרוני לפלטי מסמך במרוכז עם מאמץ ידני מינימלי.
+
+* **פרסום תוכן תכנותי**  
+  העברת מסמכי Word שנוצרו לאחסון, לאישור או למערכות תקשורת באופן אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

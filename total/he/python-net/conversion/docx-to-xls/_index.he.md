@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ל‑XLS ממיר מסמכי עיבוד תמלילים לקבצי גיליון המשמשים לניתוח טבלאי, דיווח וניהול נתונים מובנה. תהליך זה מאפשר לטבלאות ולמידע מאורגן ממסמכים להיות משומשים מחדש בתהליכי עבודה מבוססי גיליון.
+
+Python APIs מאפשרים אוטומציה של המרת DOCX‑ל‑XLS במערכות דיווח, פרויקטי הגירה וצינורות נתונים ארגוניים. הוא תומך בחילוץ עקבי של תוכן מובנה ממסמכים לסביבות גיליון מורשת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתוני גיליון**  
+  ממיר טבלאות DOCX וטקסט מובנה לגיליונות מוכנים לשימוש.
+
+* **תמיכה בדיווח מורשת**  
+  מאפשר נתונים מבוססי מסמך לשימוש חוזר בתהליכי עבודה של גיליונות קיימים.
+
+* **הגירת נתונים ממסמכים**  
+  מסייע להעברת מידע מובנה לסביבות גיליון לניתוח.
+
+* **עיבוד נתונים תפעוליים**  
+  תומך בשימוש בתוכן המסמך בביקורות טבלאיות ובמערכות דיווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא גיליון אוטומטי**  
+  מערכות יכולות להמיר קבצי DOCX לפורמט XLS עבור תהליכי עבודה עסקיים משניים.
+
+* **המרת גיליונות מורשת במרוכז**  
+  סקריפטים ב‑Python יכולים לעבד אוספי מסמכים לפלטי גיליון באופן תכנותי.
+
+* **המרת נתוני ארגון**  
+  תוכן המסמך ניתן לייצא לקבצי XLS עבור מערכות דיווח וארכיון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

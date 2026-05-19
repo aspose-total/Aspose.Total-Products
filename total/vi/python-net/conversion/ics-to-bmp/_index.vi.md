@@ -46,7 +46,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi ICS sang BMP bằng các API Python cho phép dữ liệu sự kiện lịch được chuyển thành hình ảnh bitmap để trực quan hoá, chia sẻ hoặc tài liệu hoá. Cách tiếp cận này giúp chuyển đổi thông tin lập lịch có cấu trúc thành định dạng đồ họa có thể dễ dàng nhúng vào các bài thuyết trình, báo cáo hoặc bảng điều khiển trực quan.
+
+Bằng cách sử dụng các quy trình làm việc tự động bằng Python, các tệp ICS có thể được xử lý một cách có chương trình và xuất ra hình ảnh BMP ở quy mô lớn. Điều này cho phép các nhà phát triển tạo ra các biểu diễn trực quan của dữ liệu lịch trong các pipeline báo cáo, công cụ giám sát hoặc hệ thống tài liệu tự động.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo ảnh chụp nhanh lịch**  
+  Chuyển đổi lịch trình thành hình ảnh bitmap để tham chiếu nhanh trong các báo cáo hoặc bản trình bày.
+
+* **Báo cáo sự kiện tự động**  
+  Tạo các biểu diễn đồ họa của lịch trình sự kiện cho các báo cáo trạng thái hoặc kế hoạch tự động.
+
+* **Tài liệu hoá và lưu trữ**  
+  Lưu trữ nội dung lịch dưới dạng hình ảnh để lưu trữ lâu dài hoặc chèn vào tài liệu.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Pipeline báo cáo theo lịch**  
+  Tự động chuyển đổi các tệp ICS thành hình ảnh BMP như một phần của quy trình báo cáo tự động.
+
+* **Dịch vụ trực quan hoá lịch**  
+  Tạo hình ảnh sự kiện một cách động trong các ứng dụng lập lịch hoặc giám sát.
+
+* **Xử lý lịch hàng loạt**  
+  Chuyển đổi nhiều tệp ICS thành hình ảnh bitmap thông qua các script tự động có khả năng mở rộng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

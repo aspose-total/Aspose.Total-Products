@@ -64,7 +64,41 @@ Nó chủ yếu trong hai bước. Đầu tiên sử dụng API [Aspose.Slides f
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi PPTM sang XLS bằng các API Python cho phép chuyển đổi các bản trình chiếu có macro sang định dạng bảng tính kế thừa, được sử dụng rộng rãi cho việc xử lý dữ liệu dạng bảng và tính tương thích ngược. Điều này hữu ích trong các môi trường mà các hệ thống bảng tính cũ hơn hoặc quy trình đã thiết lập vẫn yêu cầu các định dạng sổ làm việc truyền thống.
+
+Quá trình chuyển đổi này hỗ trợ tự động hoá bằng cách kết nối các tài sản trình chiếu hiện đại với các quy trình dựa trên bảng tính phụ thuộc vào tính tương thích kế thừa. Nó giúp các tổ chức duy trì quyền truy cập, đơn giản hoá việc di chuyển và tích hợp dữ liệu slide đã trích xuất vào các hệ thống vận hành hiện có.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tương thích bảng tính kế thừa**
+  Chuyển đổi dữ liệu trình chiếu sang định dạng phù hợp cho các quy trình bảng tính cũ hơn.
+
+* **Trích xuất nội dung dạng bảng**
+  Biến các bảng dựa trên slide thành có thể sắp xếp, tính toán và xem xét.
+
+* **Tái sử dụng dữ liệu vận hành**
+  Hỗ trợ việc chuyển giao thông tin trình chiếu vào các quy trình phụ thuộc vào bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Các quy trình xuất tương thích ngược**
+  Tự động hoá việc chuyển đổi PPTM sang XLS cho các hệ thống dựa vào định dạng bảng tính cũ hơn.
+
+* **Xử lý tập trung vào bảng tính**
+  Cung cấp dữ liệu trình chiếu đã trích xuất vào các quy trình vận hành và báo cáo đã được thiết lập.
+
+* **Tự động hoá hỗ trợ di chuyển**
+  Giúp kết nối các kho lưu trữ trình chiếu với môi trường bảng tính kế thừa một cách lập trình.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

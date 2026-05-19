@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל-PDF ממירה ארכיוני תיבת דואר למסמכי פריסה קבועה שקל לצפות בהם, לשתף ולשמר על פני פלטפורמות. זהו אחד הפורמטים המעשיים ביותר לארכוב דוא"ל מכיוון שהוא שומר על קריאות תוך תמיכה באחסון ארוך טווח ונגישות רחבה.
+
+עם ממשקי API של Python, ניתן לאוטומט את המרת MBOX ל-PDF לצרכי ציות, דיווח ושימור מסמכים, מה שמסייע לארגונים לעבד ערכות נתוני תיבות דואר גדולות ביעילות ובאופן עקבי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **ארכוב דוא"ל לטווח ארוך**
+  המרת תוכן תיבת הדואר לקבצי PDF לשימור יציב ומקובל נרחב.
+
+* **הכנת רשומה לשיתוף**
+  הפצת תוכן הדוא"ל בפורמט קבוע שקל לפתוח ולסקור.
+
+* **תיעוד ציות**
+  תמיכה בצרכי ממשל וביקורת באמצעות ייצוא מסמכים מובנה מארכיוני דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת PDF בכמות גדולה**
+  המרה אוטומטית של קבצי MBOX ל-PDF לשמירה וסקירה מאורגנת.
+
+* **שילוב בצינור הציות**
+  הכנסת מסמכי דוא"ל מומרי לתהליכי שמירה, ביקורת או משפטיים.
+
+* **הרחבת מסמכים מבוססת Python**
+  טיפול במשימות ייצוא תיבות דואר בנפח גבוה באמצעות המרת PDF תכנותית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

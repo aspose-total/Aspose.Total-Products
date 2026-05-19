@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MOBI ל-XLTM בפייתון מאפשרת להכין תוכן של ספר אלקטרוני כתבנית גיליון אלקטרוני עם מקרו ליצירת חוברות מתקדמות וחוזרות. זה שימושי בסביבות שבהן נדרשת יחד עקביות בתבניות ולוגיקת אוטומציה של גיליונות.
+
+לצורך רלוונטיות האוטומציה, המרת MOBI ל-XLTM משלב חילוץ מובנה עם תבניות חוברות ניתנות לשימוש חוזר והתנהגות מונעת מקרו. היא תומכת ביצירת מסמכים בקנה מידה, עיצוב עקבי, ופעולות אוטומטיות של גיליונות עבודה בתהליכי תוכן ארגוניים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית עם מקרו**
+  המרת תוכן MOBI ל-XLTM ליצירת גיליונות חוזרים עם תמיכת אוטומציה.
+
+* **חוברות מתקדמות עקביות**
+  הפקת פלט מבוסס תבנית המשמר הן את המבנה והן את הפונקציונליות האוטומטית של הגיליון.
+
+* **מודלים תפעוליים ניתנים לשימוש חוזר**
+  תמיכה בתהליכי עבודה עסקיים המתבססים על תבניות גיליון מבוקרות עם לוגיקה מובנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **תהליכי עבודה של תבניות אוטומטיות**
+  יצירת קבצי XLTM באמצעות סקריפטים בפייתון לפעולות מסמכים ודיווח חוזרות.
+
+* **צינורות לוגיקה של גיליונות ניתנים לשימוש חוזר**
+  צירוף תוכן מחולץ עם תבניות תומכות במקרו לתמיכה בתהליכי עבודה מתקדמים חוזרים.
+
+* **אספקת אוטומציה מתוקננת**
+  יצירת תבניות גיליון אחידות שניתן לאתחל תכנותית בין צוותים או מערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑VCF ממירה מידע קשר המאוחסן במסמכי Word לפורמט vCard תקני עבור ספרי כתובות ומערכות קשר. זהו תהליך בעל ערך כאשר כרטיסי ביקור, מדריכים או רשימות קשר צריכים לעבור ממסמכים לתהליכי עבודה דיגיטליים של קשרים.
+
+שימוש ב‑APIs של Python להמרת DOC ל‑VCF משפר את הדיוק, מצמצם הזנת קשרים ידנית, ותומך בסינכרון בר-קנה מידה בין מקורות המסמכים למערכות ניהול קשרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתוני קשר**
+  המרת פרטי קשר ממסמכים לקבצי vCard לשימוש חוזר.
+
+* **ייבוא ספר כתובות**
+  הכנת מידע קשר מבוסס מסמכים לייבוא ישיר למערכות קשר.
+
+* **המודרניזציה של מדריכים**
+  שינוי רשימות קשר סטטיות לרשומות קשר דיגיטליות ניידות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת קשרים אוטומטית**
+  יצירת קבצי VCF מתיקיות DOC, רשימות או טפסים באופן תכנותי.
+
+* **תמיכה בסינכרון CRM וקשר**
+  ניתוב קשרים שהוצאו מהמסמכים לתהליכי ניהול קשרים.
+
+* **עיבוד קבוצתי של קשרים**
+  המרת מסמכי קשר רבים לנכסי vCard לשימוש חוזר בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

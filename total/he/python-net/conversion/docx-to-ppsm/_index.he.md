@@ -104,7 +104,44 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ל‑PPSM ממירה מסמכי עיבוד תמלילים לקבצי מצגת שקופיות עם תמיכה במקרו. פורמט זה תומך בתרחישי הפעלת מצגת שבהם נדרשים התנהגויות מתקדמות או אינטראקציות אוטומטיות של שקופיות.
+
+באמצעות API‑ים של Python, ניתן לשלב המרה מ‑DOCX ל‑PPSM במערכות מצגת אוטומטיות, פלטפורמות דיווח וצינורות אספקת תוכן ארגוניים. היא תומכת ביצירת מצגות חוזרות ממקורות מבוססי מסמך.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מצגת שקופיות עם מקרו**  
+  ממירה תוכן DOCX לקבצי מצגת שקופיות עם תמיכה בפונקציונליות מצגת מתקדמת.
+
+* **נכסי הפעלת מצגת אוטומטית**  
+  מסייעת בהכנת תוכן שמקורו במסמך לסביבות תצוגה ישירה.
+
+* **מצגות דיווח דינמיות**  
+  מאפשרת למסמכים להפוך לפלטי מצגת לשימוש חוזר בתהליכי דיווח.
+
+* **תקשורת חזותית מתקדמת**  
+  תומכת בתרחישי מסירת מצגות הדורשים תמיכה באוטומציה מובנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת PPSM אוטומטית**  
+  מערכות יכולות להמיר מסמכי DOCX לקבצי מצגת לשימוש בתהליכי הפעלה.
+
+* **אוטומציה של מצגות מרובות**  
+  סקריפטים ב‑Python יכולים לעבד מספר מסמכים לפלטי מצגת עם מקרו.
+
+* **צינורות תצוגה ארגוניים**  
+  תוכן המסמך יכול להיות מומר לקבצי PPSM לסביבות מצגת דינמיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

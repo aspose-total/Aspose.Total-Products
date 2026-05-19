@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX לתמונות ממירה את תוכן תבנית ה‑Word לפלט חזותי לצורך תצוגה מקדימה, שיתוף, פרסום ושמירה ארכיבית. היא שימושית כאשר יש לשמר את פריסות המסמך כנכסי תמונה לגישה קלה במגוון פלטפורמות.
+
+המרה זו תומכת באוטומציה על‑ידי מתן אפשרות ל‑APIs של Python לייצר גרסאות מבוססות תמונה של תבניות לצורך אספקת תוכן, תצוגות מקדימות של מסמכים, וזרימות עבודה חזותיות שאינן תלויות בפורמטים ניתנים לעריכה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תצוגה מקדימה של מסמך**
+  המרת תוכן התבנית לתמונות לצפייה מהירה והפצה.
+
+* **ארכוב חזותי**
+  שימור מראה המסמך בפורמט שקל לאחסן ולהתייחס אליו.
+
+* **שיתוף חוצת פלטפורמות**
+  שיתוף תוכן המסמך בצורה חזותית ללא צורך בתוכנת עריכה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות תמונות ממוזערות ותצוגות מקדימות**
+  יצירת תצוגות מקדימות של תמונות באופן אוטומטי מקבצי DOTX עבור פורטלים ומאגרי מידע.
+
+* **תהליכי פרסום**
+  המרת תבניות לתמונות עבור אתרי אינטרנט, דוחות, או מערכות תיעוד חזותיות.
+
+* **משימות רינדור בקנה מידה גדול**
+  עיבוד קבוצות של תבניות למערכי תמונות לצורך אספקת פלט תקנית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

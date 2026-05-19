@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל‑XLSX ב‑APIs של Python ממירה תבניות טקסט של OpenDocument למחברות גיליון אלקטרוני מודרניות לניתוח, דיווח ושימוש חוזר במבנה נתונים. זוהי אחת ההמרות המעשיות ביותר כאשר תוכן המסמך צריך להיות נגיש ונערך בצורה טבלאית.
+
+ההמרה תומכת באוטומציה על‑ידי אפשרות יצירה חוזרת של פלטי מחברת מהתבניות, מה שמקל על שילוב תוכן שמקורו במסמך בצינורות נתונים, ביקורות ופעולות דיווח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת גיליון אלקטרוני מודרני**  
+  מייצרת קבצי מחברת עדכניים מתבניות מבוססות טקסט.
+
+* **מוכנות לניתוח עסקי**  
+  הופכת את המידע לקל יותר למיון, סינון, חישוב ובדיקה.
+
+* **תאימות רחבה לתהליכי עבודה**  
+  תומכת בשיתוף פעולה והחלפת נתונים מונעי גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **ייצור מחברת מתוזמן**  
+  ממירה קבצי OTT לפלטי XLSX במחזורים חוזרים.
+
+* **צינורות תבנית‑לדוח**  
+  מזינה גיליונות אלקטרוניים שנוצרו לתהליכי דיווח וניתוח.
+
+* **אריזת נתונים תכנותית**  
+  יוצרת מסמכי מחברת מובנים לצוותים או למערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

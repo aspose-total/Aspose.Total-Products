@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת VCF ל‑BMP ממירה נתוני כרטיסי קשר דיגיטליים לפלט תמונת ביטמפה שניתן להשתמש בו לארכיון חזותי, תצוגות מוכנות להדפסה ושיתוף רשומות סטטיות. שינוי פורמט זה שימושי כאשר יש לשמר מידע קשר בצורה של תמונה שניתנת לצפייה באופן אוניברסלי לצורכי תיעוד ודיווח.
+
+בסביבות אוטומטיות, המרת VCF ל‑BMP תומכת ברינדור אצווה של רשומות קשר לנכסים חזותיים עקביים שניתן לאנדקס, לייצא ולשלב בצינורות ניהול מסמכים או ציות באמצעות ממשקי API של Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ארכיון חזותי של קשר**  
+  המרת נתוני כרטיסי קשר לתמונות ביטמפה לשמירת רשומות חזותיות בטווח ארוך.
+
+* **הכנת הדפסה**  
+  יצירת גרסאות תמונה סטטיות של מידע קשר לטפסים מודפסים או דוחות.
+
+* **שיתוף תואם למערכת**  
+  השתמש בפלט BMP כאשר נדרשת תאימות תמונה רסטרית פשוטה במערכות ישנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **רינדור קשר באצווה**  
+  עיבוד אוטומטי של קבצי VCF מרובים לתמונות BMP עבור זרימות עבודה של ארכיון בכמות גדולה.
+
+* **צינורות צירוף מסמכים**  
+  הכנסת תצלומי קשר BMP מרונדרים לתוך רשומות אוטומטיות או קבצי מקרה.
+
+* **מסירת פלט ישן**  
+  תמיכה במערכות הדורשות נכסי ביטמפה דרך רוטינות המרה תכנותיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

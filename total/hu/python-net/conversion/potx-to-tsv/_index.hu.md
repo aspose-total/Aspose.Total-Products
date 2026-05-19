@@ -64,7 +64,41 @@ Főleg két lépésben. Először is használja az [Aspose.Slides for Python via
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A Python API-k segítségével végzett POTX → TSV átalakítás lehetővé teszi a PowerPoint sablon tartalmának átalakítását tabulátorral elválasztott értékekké strukturált adatfolyamatokhoz. Ez akkor hasznos, amikor a bemutató anyagot egyszerű, elválasztó karakterekkel dolgozó formátumba kell kinyerni, amely jól működik az adatcserében és importálási folyamatokban.
+
+Automatizálási szempontból a POTX → TSV átalakítás hatékony átalakítást tesz lehetővé a vizuális sablon tartalmából gép által olvasható kimenet felé. Jól alkalmazható kötegelt exportokhoz, könnyű integrációkhoz és skálázható feldolgozási csővezetékekhez.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Elválasztott adatkinyerés**
+  Átalakítja a bemutató sablon információit tabulátorral elválasztott rekordokká a strukturált kezeléshez.
+
+* **Rendszerimport előkészítése**
+  Segít előkészíteni a sablonból származó tartalmat olyan eszközök számára, amelyek táblázatos szövegbemenetet fogadnak.
+
+* **Könnyű adatcsere**
+  Támogatja a strukturált információk egyszerű átvitelét az alkalmazások között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Rendszeres adatexport feladatok**
+  Automatizálja a POTX fájlok TSV kimenetekké alakítását ütemezett munkafolyamatokban.
+
+* **Csővezeték-barát átalakítások**
+  Lehetővé teszi az egyszerű szöveges adatátadást az ellenőrző és befogadó rendszereknek.
+
+* **Tömeges átalakítási műveletek**
+  Támogatja a bemutató tartalom nagyméretű kinyerését tabulátorral elválasztott fájlokba.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

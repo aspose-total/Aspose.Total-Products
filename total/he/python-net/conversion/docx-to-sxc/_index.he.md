@@ -104,7 +104,44 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX ל‑SXC ממירה מסמכי עיבוד תמלילים לקבצי גיליון אלקטרוני התואמים לסביבות גיליון אלקטרוני של OpenOffice ישנות. תהליך זה מסייע להמיר תוכן מסמך מובנה או טבלאי לפורמט ממוקד‑נתונים שניתן להשתמש בו מחדש.
+
+עם ממשקי API של Python, ניתן לשלב המרת DOCX‑to‑SXC בתהליכי תמיכה במערכות מדור קודם, צינורות הגירת מסמכים, ומערכות דיווח אוטומטיות. היא תומכת באינטר‑אופרביליות כאשר תקני גיליון אלקטרוני ישנים נשארים חשובים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ייצוא גיליון אלקטרוני מדור קודם**  
+  ממירה תוכן DOCX לקבצי גיליון אלקטרוני עבור סביבות משרדיות ישנות.
+
+* **הגירת נתונים מובנית**  
+  מסייעת להעביר טבלאות מבוססות מסמך ומידע מאורגן לפורמטים ממוקדי‑נתונים.
+
+* **תאימות למערכות ישנות**  
+  תומכת בתהליכים המתבססים על תקני גיליון אלקטרוני מדור קודם.
+
+* **שימוש חוזר ממסמך לגיליון אלקטרוני**  
+  מאפשר לתמליל מובנה להיות מומר לשימוש אנליטי או ארכיוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרת פורמט מדור קודם אוטומטית**  
+  מערכות יכולות להמיר קבצי DOCX לגיליונות SXC עבור תהליכי תאימות.
+
+* **צינורות ייצוא גיליון אלקטרוני במאצ'**  
+  סקריפטים ב‑Python יכולים להמיר אוספי מסמכים גדולים לפלטי גיליון אלקטרוני מדור קודם.
+
+* **אוטומציית הגירה ואינטר‑אופרביליות**  
+  נתוני מסמך יכולים להיות מומרי תכנות לפורמט SXC עבור פלטפורמות ישנות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

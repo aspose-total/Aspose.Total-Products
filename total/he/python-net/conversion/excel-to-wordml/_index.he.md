@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑WordML בפייתון ממירה את תוכן הגיליון האלקטרוני למסמכי עיבוד תמלילים מבוססי XML המשמשים להחלפת מסמכים מובנית ולעיבוד ברמת המערכת. היא בעלת ערך בתהליכי עבודה הדורשים תוכן מסמך קריא למכונה ובקנה מידה של תקנים.
+
+המרה זו תומכת באוטומציה על ידי אפשרות ליישומי פייתון לייצר פלטי מסמכים מובנים המתאימים לצינורות אינטגרציה מרובה, ממוקדי שינוי, או מונעי אימות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **החלפת מסמכים מובנית**  
+  המרת נתוני Excel ל‑WordML עבור תהליכי עבודה המרוויחים מייצוג מסמכים מבוסס XML.
+
+* **אינטגרציית מערכת**  
+  השתמש בפלטי WordML במקרים שבהם יש צורך לנתח, לאמת או לשנות מסמכים באופן תכנותי.
+
+* **תהליכי עבודה של נתונים לתצורת סימון**  
+  המרת תוכן הגיליון לפורמט מסמך המתאים לעיבוד מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה של מסמכים מבוססי XML**  
+  יצירת קבצי WordML מקלטי Excel לצורך אינטגרציה עם מערכות עיבוד מסמכים.
+
+* **צינורות שינוי**  
+  תמיכה בתהליכי עבודה הממירים נתוני גיליון מובנים לפלטי מסמכים קריאים למכונה.
+
+* **טיפול בתוכן באופן תכנותי**  
+  השתמש ב‑APIs של פייתון כדי לאוטומט את יצירת המסמכים עבור מערכות המתבססות על פורמטים תואמי XML.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

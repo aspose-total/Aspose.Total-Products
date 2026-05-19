@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál EML-t hozzáadni OTT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+EML‑ről OTT‑re konvertálás Python API‑k használatával e‑mail üzeneteket nyílt dokumentum szövegsablonokká alakít, amelyeket későbbi tartalomkészítéshez újra fel lehet használni. Ez akkor hasznos, amikor a kommunikációból származó elrendezéseket vagy struktúrákat ismételhető dokumentumsablonokká kell tenni a nyílt dokumentum munkafolyamatokban.
+
+Az automatizálási csővezetékekben az EML‑ről OTT‑re konvertálás támogatja a konzisztens kimenet előállítását az e‑mail tartalom újrahasználható sabloneszközökké alakításával. Javítja a dokumentumgyártó rendszerek skálázhatóságát, amelyek szabványosított nyílt formátumú sablonokra támaszkodnak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Nyílt sablon létrehozása**  
+  Az e‑mail tartalmat OTT fájlokká alakítja, amelyek újrahasználható, sablonalapú dokumentummunkafolyamatokhoz használhatók.
+
+* **Újrahasználható kommunikációs struktúrák**  
+  Segít megőrizni a hasznos üzenetelrendezéseket ismételhető nyílt formátumú sablonokként.
+
+* **Szabványalapú sablonkönyvtárak**  
+  Támogatja sablonraktárak építését a visszatérő kommunikációs mintákból.
+
+* **Konzisztens dokumentumalapok**  
+  Stabil struktúrát biztosít a jövőbeli nyílt dokumentum generálási folyamatokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Sabloneszköz generálás**  
+  Az automatizálás képes a reprezentatív EML fájlokat újrahasználható OTT sablonokká konvertálni.
+
+* **Nyílt dokumentum munkafolyamat támogatás**  
+  A programozott konvertálás táplálja a sablonvezérelt rendszereket, amelyek nyílt szabványokra támaszkodnak.
+
+* **Skálázható kimenet szabványosítása**  
+  Az e‑mailből származó sablonfájlok segítenek automatizálni a konzisztens dokumentumkészítést csapatok között.
+
+* **Újrahasználható folyamattervezés**  
+  A konvertált OTT eszközök dinamikus generálást tesznek lehetővé strukturált üzleti dokumentumokhoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

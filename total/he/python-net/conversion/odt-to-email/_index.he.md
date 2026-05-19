@@ -102,7 +102,47 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT לדוא"ל משנה את תוכן המסמך לפלט מוכן לדוא"ל, מה שמקל על שיתוף דוחות, הודעות, סיכומים או טקסט מעוצב דרך זרימות עבודה של הודעות. זה שימושי כאשר יש צורך להשתמש מחדש במסמכים פורמליים לתקשורת ישירה.
+
+באמצעות ממשקי API של Python, ניתן לשלב המרת ODT לדוא"ל במערכות הודעה אוטומטיות, זרימות אישור וצינורות תקשורת מבוססי מסמכים. זה משפר את היעילות על ידי הפיכת קבצים סטטיים לתוכן יוצא שניתן לפעול עליו.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **התראות מבוססות מסמך**  
+  ממיר תוכן כתוב לתקשורת ידידותית לדוא"ל.
+
+* **הפצת דוחות**  
+  מאפשר שיתוף מהיר של סיכומים, עדכונים או הודעות מהמסמכים המקוריים.
+
+* **תקשורת בתהליכי עבודה**  
+  תומך בתרחישי אישור, התראה והודעות סטטוס.
+
+* **שימוש חוזר בתוכן**  
+  ממחזר טקסט מסמך לתכתובת חיצונית או פנימית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת דוא"ל מופעלת**  
+  מערכות יכולות באופן אוטומטי להמיר קבצי ODT לתוכן דוא"ל כאשר מגיעים מסמכים חדשים.
+
+* **הודעות זרימת עבודה של אישור**  
+  אוטומציה ב-Python יכולה להפוך סיכומי מסמכים להודעות עבור סוקרים או בעלי עניין.
+
+* **הכנת פנייה בקנה מידה רחב**  
+  ניתן להמיר מספר מסמכים לתוכן מוכן לדוא"ל יוצא בקנה מידה רחב.
+
+* **הודעות מונעות אירוע**  
+  שינויים במאגרי המסמכים יכולים להפעיל המרה והפצה אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

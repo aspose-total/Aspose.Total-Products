@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑PPSM ממירה תבניות מסמך לקבצי מצגת עם מקרו למטרת הצגת מצגות מתקדמת. זה בעל ערך במקרים שבהם פלטי מצגת עם הפעלה ישירה חייבים גם לתמוך בפונקציונליות משופרת בסביבות תואמות.
+
+באמצעות ממשקי API של Python, ניתן לאוטומט את יצירת קבצי PPSM ממקורות DOT כדי לשפר את החזרתיות ולתמוך בתהליכי עבודה של מצגות מתקדמים יותר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **יצירת מצגת עם מקרו**
+  המרת קבצי DOT ל‑PPSM לתרחישי השמעת מצגות מתקדמים.
+
+* **תצוגה עם פונקציונליות משופרת**
+  השתמש בפלטי מצגת התומכים באוטומציה משובצת או בהתנהגות אינטראקטיבית.
+
+* **הפצת מצגות לשימוש חוזר**
+  הפוך תבניות מסמך לקבצים מוכנים למצגת עבור סביבות צפייה מבוקרות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מצגת מתקדמת באופן אוטומטי**
+  סקריפטים ב‑Python יכולים ליצור קבצי PPSM מתוכן DOT לצרכי מצגות חוזרים.
+
+* **תהליכי תצוגה אינטראקטיביים**
+  ההמרה תומכת ביצירת מצגות מונעות מסמך עם פונקציונליות מורחבת.
+
+* **הפצת מצגות בקנה מידה**
+  צינורות תכנותיים מסייעים לפרוס קבצי מצגת עם מקרו במגוון מקרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

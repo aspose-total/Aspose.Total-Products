@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi WordML sang XLT biến nội dung tài liệu có cấu trúc thành các tệp mẫu bảng tính, phục vụ như các điểm khởi đầu có thể tái sử dụng cho sổ làm việc. Điều này hữu ích khi các bố cục dữ liệu dựa trên tài liệu hoặc các báo cáo định kỳ cần các mẫu bảng tính tiêu chuẩn.
+
+Các API Python hỗ trợ việc chuyển đổi WordML sang XLT bằng cách tự động tạo mẫu và cho phép tạo bảng tính lặp lại từ các tài liệu nguồn có cấu trúc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo mẫu sổ làm việc**
+  Chuyển đổi nội dung WordML thành các tệp XLT cho cấu trúc bảng tính có thể tái sử dụng.
+
+* **Tiêu chuẩn hoá báo cáo định kỳ**
+  Giúp xác định bố cục sổ làm việc nhất quán dựa trên các mẫu tài liệu.
+
+* **Tính nhất quán quy trình**
+  Hỗ trợ việc tạo bảng tính lặp lại từ nội dung nguồn đã được phê duyệt.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Quy trình tạo mẫu**
+  Tự động tạo XLT từ các báo cáo, biểu mẫu hoặc bảng có cấu trúc WordML.
+
+* **Tiêu chuẩn hoá sản xuất bảng tính**
+  Hỗ trợ các nhóm tạo sổ làm việc định kỳ từ các mẫu chung.
+
+* **Tự động hoá bố cục dựa trên tài liệu**
+  Chuyển đổi nội dung tài liệu có cấu trúc thành nền tảng bảng tính có thể tái sử dụng.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

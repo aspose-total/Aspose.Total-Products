@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OST sang PCL biến nội dung hộp thư thành đầu ra ngôn ngữ điều khiển máy in, làm cho các tài liệu xuất phát từ email phù hợp với các hệ thống và quy trình làm việc hướng tới việc in. Điều này hữu ích khi các bản ghi liên lạc cần được chuyển đổi để in có kiểm soát hoặc trong môi trường in cổ điển.
+
+Các API Python cho phép tự động chuyển đổi OST sang PCL cho các tổ chức cần tạo luồng in có khả năng mở rộng từ các kho lưu trữ hộp thư. Điều này hỗ trợ hiệu quả hoạt động trong các môi trường mà đầu ra in tiêu chuẩn vẫn quan trọng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo Luồng In**  
+  Chuyển đổi nội dung hộp thư thành PCL để tích hợp vào quy trình làm việc sẵn sàng in.
+
+* **Tương thích với Thiết bị Cổ điển**  
+  Hỗ trợ các môi trường dựa vào các định dạng điều khiển máy in đã được thiết lập.
+
+* **Quy trình In Hoạt động**  
+  Giúp chuẩn bị các bản ghi liên lạc đã lưu trữ cho việc xuất ra vật lý có kiểm soát.
+
+* **Chuẩn hoá Đầu ra Tài liệu**  
+  Đảm bảo việc hiển thị nội dung hộp thư một cách nhất quán cho các quy trình in.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Chuẩn bị In Tự động**  
+  Các quy trình Python chuyển đổi dữ liệu OST thành PCL cho các hoạt động in khối lượng lớn.
+
+* **Xử lý Tập trung vào Thiết bị**  
+  Hệ thống tự động định hướng nội dung hộp thư đã chuyển đổi vào cơ sở hạ tầng in.
+
+* **Tích hợp Đầu ra Cổ điển**  
+  Việc chuyển đổi theo chương trình hỗ trợ khả năng tương thích với các hệ thống hướng tới in hiện có.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

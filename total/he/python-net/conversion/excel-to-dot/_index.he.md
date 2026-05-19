@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑DOT בפייתון מסייעת לשנות תוכן גיליון אל קבצי תבנית עיבוד תמלילים שיכולים לשמש כבסיסי מסמך ניתנים לשימוש חוזר. זה שימושי כאשר יש צורך להמיר נתוני גיליון לתבניות מובנות ליצירת מסמכים חוזרים.
+
+המרה זו תומכת באוטומציה על‑ידי אפשרות זרימות עבודה ממוקדות‑תבנית שבהן הנתונים מ‑Excel הופכים לחלק ממערכות יצירת מסמכים בקנה מידה, ניתנות לחזרה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הכנת תבנית**  
+  המרת נתוני הגיליון לקבצי DOT לשימוש כתבניות עיבוד תמלילים ניתנות לשימוש חוזר.
+
+* **פריסות מסמכים מתוקננות**  
+  יצירת פלט מבוסס תבנית המשמר עקביות במסמכים חוזרים.
+
+* **אתחול זרימת עבודה**  
+  השתמש בקבצים המומרים כנקודות התחלה לצוותים שמייצרים מסמכים דומים בתדירות גבוהה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמכים חוזרים**  
+  אוטומציה של המרת Excel ל‑DOT לתמיכה בדיווח או בהתכתבות מונעי‑תבנית.
+
+* **צינורות הפצת תבניות**  
+  יצירת תבניות מסמך באופן תכנותי מתוכן גיליון מובנה.
+
+* **מסגרות תוכן ניתנות לשימוש חוזר**  
+  שילוב ההמרה במערכות שמכינות נכסי תבנית מתוקננים בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

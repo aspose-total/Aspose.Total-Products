@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת דוא"ל ל‑PCL בפייתון ממירה את תוכן ההודעה לפלט של שפת פקודות מדפסת המתאימה לתהליכי הדפסה ממוקדי מכשיר. זה שימושי כאשר יש צורך להציג דוא"ל ישירות להדפסה עקבית בסביבות הדפסה תפעוליות או מורשת.
+
+המערכת תומכת באוטומציה על‑ידי אפשרות להעביר את תוכן ההודעה ישירות לצינוריות ההדפסה, מה שמפחית שלבי הכנה ומפשט יצירת פלט בקנה מידה גדול.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **תמיכה בתהליך הדפסה ישיר**
+  המרת דוא"ל ל‑PCL עבור מערכות המתבססות על פלט מוכן למדפסת.
+
+* **הדפסת הודעות תפעוליות**
+  השתמש בפלטי PCL כאשר יש צורך להדפיס תקשורת בפורמטים סטנדרטיים.
+
+* **תאימות לסביבות מורשת**
+  תמיכה בתשתיות הדפסה ישנות עם המרת דוא"ל ישירה.
+
+* **תורים מודפסים מרוכזים**
+  הזנת קבצי דוא"ל מומרי לתהליכי הדפסה ברמת נפח גבוהה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **שליחה אוטומטית להדפסה**
+  המרת דוא"ל נכנסים ל‑PCL ושליחתם לתורים מתוזמנים.
+
+* **פלט תפעולי במאצ'**
+  יצירת רשומות דוא"ל מוכנות למדפסת עבור לוגיסטיקה, ניהול או ביקורת.
+
+* **מסירת מסמכים מונעת מכשיר**
+  שילוב המרת דוא"ל עם מערכות ניהול הדפסה אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

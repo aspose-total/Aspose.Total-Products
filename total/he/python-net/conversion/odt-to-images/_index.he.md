@@ -105,7 +105,47 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT לתמונות ממירה דפי מסמך או חלקי תוכן לפורמטים חזותיים שקל יותר להציג, לשתף, לשלב או לארכיב. זה במיוחד שימושי כאשר נאמנות העיצוב ונגישות חזותית חשובות יותר מטקסט שניתן לעריכה.
+
+אוטומציה מבוססת API של Python עושה את המרת ODT לתמונות יעילה לתצוגות מקדימות, פרסום תוכן, ותהליכי ויזואליזציית מסמכים. היא תומכת ביצירת נכסים ברמת דף בקנה מידה, עבור אינטרנט, סקירה ותהליכי אישור.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תצוגה מקדימה של מסמך**  
+  יוצרת ייצוגי תמונה לצפייה מהירה ללא פתיחת קובץ המקור.
+
+* **נכסי פרסום לאינטרנט**  
+  מייצרת תוכן חזותי המתאים לפורטלים, רשימות או תצוגות משולבות.
+
+* **תמונות ארכיון**  
+  שומרת על מראה הדף בצורה חזותית סטטית.
+
+* **תמיכה בסקירה והערות**  
+  הופכת את המסמכים לקלים יותר לבחינה בתהליכי עבודה מבוססי תמונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות יצירת תמונות ממוזערות**  
+  תהליכי עבודה ב-Python יכולים ליצור תמונות תצוגה מקדימה למסמכי ODT שהועלו זה עתה.
+
+* **המרת דפים במצב אצווה**  
+  אוספים גדולים של קבצים יכולים להיות מומרצים לתמונות דף-אחר-דף באופן אוטומטי.
+
+* **אוטומציית פרסום**  
+  פלטי תמונות יכולים להזין אתרי אינטרנט, מערכות ניהול תוכן, או כלי סקירה.
+
+* **תהליכי אישור חזותיים**  
+  דפים מומרצים יכולים לעבור דרך תהליכי הערה ואישור באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

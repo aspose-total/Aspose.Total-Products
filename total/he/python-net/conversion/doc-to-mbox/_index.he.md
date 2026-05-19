@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑MBOX משנה את תוכן ה‑Word לפורמט ארכיון תואם תיבת דואר שיכול לקבץ פלטים בסגנון הודעות לאחסון או להעברה. זה שימושי כאשר יש צורך לשמר או להעביר את תוכן המסמך בתהליכי ארכיון דוא"ל.
+
+באמצעות API‑ים של Python, ניתן לאוטומט את המרת DOC ל‑MBOX עבור פעולות ארכיון בקנה מידה גדול, מה שמשפר את החזרתיות ותומך במערכות שעובדות עם מכולות מבוססות תיבת דואר.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת ארכיון תיבת דואר**
+  המרת הודעות שמקורן במסמך ל‑MBOX לאחסון מקובץ בסגנון דוא"ל.
+
+* **הכנת המיגרציה**
+  השתמש בפלט MBOX כאשר המסמכים חייבים להיכנס לתהליכי ארכיון דוא"ל או העברה.
+
+* **שימור תקשורת**
+  אחסן את תוכן המסמך המומר בפורמט מאוחד ידידותי לתיבת דואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של אריזת ארכיון**
+  צור באופן אוטומטי פלטי MBOX מתוכן DOC לצורך ציות או מיגרציה.
+
+* **המרת מכולות דואר במאצ'**
+  המרת מספר מסמכים לארכיוני תיבת דואר עם מאמץ ידני מינימלי.
+
+* **גשר זרימת עבודה ממסמך לדוא"ל**
+  הכן באופן תכנותי תוכן מבוסס מסמך למערכות אקולוגיות של ארכיון דוא"ל.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

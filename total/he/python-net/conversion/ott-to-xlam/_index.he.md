@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT ל-XLAM ב-APIs של Python ממירה תבניות טקסט של OpenDocument לפלטי גיליון אלקטרוני ממוקדי תוספים המשמשים להרחבת תפקודיות חוברת העבודה. זה שימושי בתהליכי עבודה מיוחדים שבהם תוכן שהומר תורם לנכסי אוטומציה מבוססי גיליון אלקטרוני שניתן להשתמש בהם מחדש.
+
+ההמרה תומכת באוטומציה על ידי יישור הלוגיקה שמקורה במסמך או בתוכן מובנה עם תהליכי עבודה של הרחבת גיליון אלקטרוני, מה שמסייע לתקנון פעולות חוזרות בסביבות חוברות עבודה מתקדמות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **תמיכה בהרחבת גיליון אלקטרוני**  
+  מקשר תוכן מסמך עם תהליכי עבודה של גיליון אלקטרוני ממוקדי תוספים.
+
+* **הכנת נכס אוטומציה לשימוש חוזר**  
+  מסייע לארוז תוכן מובנה לשימוש חוזר בחוברת עבודה.
+
+* **שילוב תהליכי עבודה מתקדמים**  
+  מחבר תבניות טקסט ותרחישי תפקודיות של גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **הכנת תוכן תוספים אוטומטית**  
+  מייצר פלטים הקשורים ל-XLAM מתבניות OTT באופן תכנותי.
+
+* **צינורות שיפור חוברת עבודה**  
+  תומך בתהליכי עבודה המשלבים המרת תוכן עם אוטומציה של גיליון אלקטרוני.
+
+* **הפצת לוגיקה עסקית לשימוש חוזר**  
+  מסייע להרחיב פתרונות גיליון אלקטרוני מובנים על פני צוותים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

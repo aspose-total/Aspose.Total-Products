@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál XPS-t hozzáadni OFT-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az XPS‑ról OFT‑re konvertálás Python API‑kkal lehetővé teszi, hogy a rögzített elrendezésű dokumentumtartalom újrahasználható e‑mail sablonfájlokká alakuljon. Ez akkor hasznos, amikor a szervezetek strukturált dokumentumkimeneteket szeretnének átalakítani ismételhető üzenetsablonokká értesítések, kampányok, jóváhagyások vagy szabványos levelezés céljából.
+
+Az automatizálási munkafolyamatokban ez a konverzió javítja a konzisztenciát, csökkenti az ismétlődő szerkesztést, és támogatja a sablonos kommunikációk skálázható előállítását dokumentumközpontú rendszerekből és üzleti szabályokból.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Újrahasználható e‑mail sablon létrehozása**  
+  Átalakítja az XPS tartalmat OFT sablonokká, amelyeket újra lehet használni ismétlődő kommunikációs helyzetekben.
+
+* **Szabványosított levelezési munkafolyamatok**  
+  Segít fenntartani a konzisztens struktúrát és üzenetküldést a dokumentumalapú e‑mail folyamatok során.
+
+* **Sablonalapú értesítési rendszerek**  
+  Támogatja a dokumentumkimenetek átalakítását ismételhető e‑mail sablonokká az operatív üzenetküldéshez.
+
+* **Folyamatvezérelt kommunikációs tervezés**  
+  Lehetővé teszi, hogy a strukturált dokumentumtartalom közvetlenül a sablonos elérési munkafolyamatokba áramoljon.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Dinamikus sablon generálás**  
+  A rendszerek képesek XPS dokumentumokat OFT sablonokká konvertálni a jövőbeni automatizált üzenetfeltöltéshez.
+
+* **Szabályalapú kommunikációs csővezetékek**  
+  Az automatizált munkafolyamatok kiválaszthatják és generálhatják a sablonokat a dokumentumtípus vagy a munkafolyamat szakasza alapján.
+
+* **Nagy mennyiségű sablon előkészítése**  
+  Kötegelt feladatok több OFT fájlt hozhatnak létre szabványos XPS bemenetekből a skálázható kommunikációs műveletekhez.
+
+* **Integrált értesítési automatizálás**  
+  Az átalakított sablonok használhatók olyan rendszerekben, amelyek programozottan egyesítik az adatokat személyre szabott kimenő üzenetekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

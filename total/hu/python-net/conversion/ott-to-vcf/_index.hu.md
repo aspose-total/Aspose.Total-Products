@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál OTT-t hozzáadni VCF-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az OTT-ből VCF-be konvertálás Python API-kban átalakítja az OpenDocument szövegsablonokat olyan névjegykártya fájlokká, amelyeket személyek és szervezetek adatainak megosztására használnak. Ez akkor hasznos, ha a sablon tartalma strukturált kapcsolati információkat tartalmaz, amelyeknek hordozhatónak és importálásra késznek kell lenniük.
+
+A konverzió támogatja az automatizálást azáltal, hogy a dokumentum által kezelt kapcsolati adatokat szabványos cserefájlokká alakítja, csökkentve a kézi adatbevitel mennyiségét és javítva a szinkronizációt a kommunikációs és címtárfolyamatok között.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Kapcsolati fájl generálása**  
+  Átalakítja a strukturált kapcsolati tartalmat importálható kártyafájlokká.
+
+* **Címtár adatmegosztás**  
+  Megkönnyíti a kapcsolati információk cseréjét a rendszerek között.
+
+* **Sablon-alapú kapcsolati kezelés**  
+  Újra felhasználja a dokumentumsablonokat a szabványosított kapcsolati kimenethez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált kapcsolati export**  
+  VCF fájlokat hoz létre OTT sablonokból, amelyek személy- vagy szervezeti adatokat tartalmaznak.
+
+* **CRM vagy címtár integráció**  
+  A generált kapcsolati fájlokat továbbítja a downstream információs rendszerekbe.
+
+* **Tömeges kapcsolati csomagolás**  
+  Szabványosított kapcsolati kimeneteket állít elő nagy kapcsolathalmazok számára.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

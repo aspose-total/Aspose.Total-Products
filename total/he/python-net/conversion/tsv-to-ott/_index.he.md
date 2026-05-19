@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל-OTT ממירה נתונים טבלאיים לקבצי תבנית מסמך פתוחים המשמשים ליצירת מסמכי טקסט מתוקננים. זה בעל ערך כאשר קלטים מובנים צריכים להיות מיושרים עם זרימות עבודה חוזרות מבוססות תבנית בסביבות פורמט פתוח.
+
+באמצעות ממשקי API של Python, המרת TSV ל-OTT תומכת באוטומציה על ידי אפשרות למבני מסמך ניתנים לשימוש חוזר, הפחתת עבודה פורמטיבית חוזרת, ושיפור העקביות במערכות פרסום בקנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית פתוחה**  
+  ממירה תוכן TSV לתבניות ניתנות לשימוש חוזר עבור מסמכי טקסט מתוקננים.
+
+* **ייצור מסמכים עקבי**  
+  תומכת בזרימות עבודה חוזרות המתבססות על מבני פורמט קבועים.
+
+* **אספקת תוכן מבוססת תבנית**  
+  עוזרת לארגונים להמיר מערכי נתונים מובנים לנכסי תיעוד ניתנים לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **זרימות עבודה תבניתיות אוטומטיות**  
+  ממשקי API של Python יכולים לייצר פלטים תואמי OTT מקבצי TSV מובנים.
+
+* **מערכות תיעוד חוזרות**  
+  האוטומציה משפרת את העקביות בייצור תבניות בפורמט פתוח.
+
+* **המרת תבניות בנפח גבוה**  
+  קבצי TSV בכמות גדולה יכולים להיות מומרצים לפלטי OTT ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

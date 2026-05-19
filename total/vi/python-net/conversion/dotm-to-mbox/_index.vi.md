@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi DOTM sang MBOX chuyển các mẫu Word có macro thành các kho lưu trữ tương thích với hộp thư, có thể lưu trữ nội dung dạng tin nhắn trong một định dạng hợp nhất. Điều này hữu ích khi các mẫu tài liệu được tái sử dụng thành hồ sơ giao tiếp hoặc cần được tích hợp vào quy trình lưu trữ hộp thư.
+
+Sử dụng các API Python cho việc chuyển đổi DOTM sang MBOX giúp tự động hoá các quy trình lưu trữ và di chuyển bằng cách tạo ra các tệp chứa thư có cấu trúc từ nội dung tài liệu. Nó hỗ trợ lưu trữ mở rộng, xuất khẩu tiêu chuẩn và xử lý hiệu quả các quy trình làm việc hướng tin nhắn.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Chuẩn bị Lưu trữ Thư**
+  Chuyển đổi nội dung giao tiếp xuất phát từ DOTM sang MBOX để lưu trữ hoặc di chuyển.
+
+* **Lưu trữ Tin nhắn Hợp nhất**
+  Lưu trữ các đầu ra dạng tin nhắn từ các mẫu trong một định dạng duy nhất hướng tới hộp thư.
+
+* **Xuất Thư Tương Thích**
+  Cho phép trao đổi dễ dàng hơn các hồ sơ giao tiếp được tạo ra giữa các công cụ hỗ trợ MBOX.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản Tự động hoá" %}}
+
+* **Tạo Lưu trữ Thư Tự động**
+  Các quy trình làm việc có thể chuyển đổi các mẫu tài liệu thành các đầu ra tương thích MBOX để lưu trữ lâu dài.
+
+* **Hỗ trợ Đường ống Di chuyển**
+  Việc chuyển đổi giúp tự động hoá việc di chuyển nội dung tin nhắn được tạo ra vào các kho lưu trữ hộp thư.
+
+* **Xử lý Hàng loạt Hồ sơ**
+  Việc chuyển đổi theo chương trình cho phép xử lý số lượng lớn các tệp DOTM thành các container sẵn sàng cho thư.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

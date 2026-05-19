@@ -104,7 +104,45 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+TSV to ODT conversion converts tab-separated data into open document text files that support editable, portable, and standards-based documentation. It is useful for organizations seeking flexible document outputs from structured data sources without locking workflows into a single ecosystem.
+
+З конвертації TSV у ODT перетворює дані, розділені табуляцією, у текстові файли відкритого формату, які підтримують редаговану, портативну та стандартизовану документацію. Це корисно для організацій, які шукають гнучкі вихідні документи зі структурованих джерел даних, не прив’язуючи робочі процеси до однієї екосистеми.
+
+With Python APIs, TSV to ODT conversion can be automated to improve interoperability, reduce manual processing, and support scalable document generation across open-format workflows.
+
+За допомогою Python API конвертація TSV у ODT може бути автоматизована для підвищення взаємодії, зменшення ручної обробки та підтримки масштабованого створення документів у рамках робочих процесів з відкритим форматом.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Звітність у відкритому документі**  
+  Перетворює вміст TSV у редаговані текстові документи на основі відкритих стандартів.
+
+* **Кросплатформна документація**  
+  Полегшує обмін структурованими даними між різними середовищами документів.
+
+* **Доступні бізнес‑записи**  
+  Підтримує створення читабельних вихідних даних з необроблених табличних джерел.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Взаємодіючі конвеєри документів**  
+  Python API можуть автоматизувати створення ODT з повторюваних експорту TSV.
+
+* **Підтримка робочих процесів з відкритим форматом**  
+  Автоматизація дозволяє масштабовано створювати вихідні документи на основі стандартів.
+
+* **Пакетне перетворення даних**  
+  Кілька файлів TSV можна конвертувати у формат ODT у спрощених процесах обробки.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

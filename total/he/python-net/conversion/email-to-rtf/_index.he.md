@@ -102,7 +102,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת דוא"ל ל-RTF בפייתון ממירה את תוכן ההודעה למסמכי טקסט עשיר שמאזנים עריכה עם תאימות רחבה. זה שימושי כאשר ארגונים זקוקים לתוכן דוא"ל מעוצב בפורמט מסמך קל יותר שעובד במגוון רחב של כלי עריכה.
+
+המרה זו משפרת את האוטומציה על ידי יצירת פלטים מובנים וניתנים לשימוש חוזר שניתן לערוך, להחליף ולאחסן ביעילות בסביבות מסמכים מעורבות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **שימור טקסט מעוצב**
+  המרת דוא"ל ל-RTF כדי לשמור על עיצוב בסיסי בפורמט שניתן לעריכה.
+
+* **תאימות בין-כלים**
+  השתמש בפלטי RTF במקרים שבהם יישומי עריכה שונים צריכים לגשת לאותו תוכן.
+
+* **רשומות תקשורת ניתנות לשימוש חוזר**
+  שמר טקסט הודעה חשוב לעריכה נוספת או לשילוב במסמכים.
+
+* **החלפת מסמכים קלים**
+  שתף מסמכים שמקורם בדוא"ל בפורמט פשוט ונייד יחסית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **ייצוא טקסט עשיר אוטומטי**
+  המרת דוא"ל נבחרים לקבצי RTF לאחסון ולתהליכי שיתוף פעולה.
+
+* **ניתוב מסמכים מרובה-מערכות**
+  העבר טקסט עשיר שמקורו בדוא"ל בין יישומים עם חיכוך מינימלי.
+
+* **צינורות שימוש חוזר בתוכן**
+  הכנס פלטי RTF לתקצירים, טיוטות ותיעוד פנימי באופן אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

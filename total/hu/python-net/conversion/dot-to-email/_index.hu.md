@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOT-t hozzáadni EMAIL-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOT‑t‑EMAIL átalakítás a dokumentumsablonokat e‑mailra kész tartalommá alakítja, amely felhasználható üzenetküldési munkafolyamatokban és kommunikációs rendszerekben. Ez akkor fontos, amikor a strukturált sablonoknak újrahasználható kimenő üzenettartalommá kell válniuk.
+
+Python API‑k használatával a szervezetek automatizálhatják a DOT‑fájlok e‑mail kompatibilis kimenetekre történő átalakítását, ezáltal a kommunikációs folyamatok hatékonyabbá, ismételhetővé és könnyebben integrálhatóvá válnak a szélesebb rendszerekbe.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Sablon-alapú üzenetküldés**
+  A DOT tartalmat e‑mail formátumba konvertálja a szabványosított kommunikációs munkafolyamatokhoz.
+
+* **Tartalom újrahasználata csatornák között**
+  A dokumentumsablonokat újrahasznosítja üzenettörzseként értesítésekhez, riasztásokhoz vagy levelezéshez.
+
+* **Munkafolyamat-kommunikáció engedélyezése**
+  E‑mailra kész eszközöket készít a dokumentumsablonokból operatív vagy tranzakciós felhasználáshoz.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált üzenetgenerálás**
+  A Python szkriptek a DOT sablonokat e‑mail tartalommá alakíthatják a kiváltott kommunikációs folyamatokhoz.
+
+* **Dokumentum‑a‑kommunikáció csővezetékek**
+  Az átalakítás segít összekapcsolni a dokumentumtárakat a kimenő e‑mail automatizálási rendszerekkel.
+
+* **Skálázható sablonfeldolgozás**
+  A dinamikus munkafolyamatok tömegesen több DOT fájlt e‑mailra kész kimenetekké konvertálhatnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

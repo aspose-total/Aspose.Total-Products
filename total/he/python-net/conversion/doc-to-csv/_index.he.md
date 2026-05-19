@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑CSV משנה תוכן Word מובנה או חצי‑מובנה לנתונים מופרדים בפסיקים שקל לנתח, להחליף ולעבד במערכות עסקיות. היא בעלת ערך לדיווח, הגירה, ניקוי נתונים וניתוח downstream שבו נדרש פלט טבלאי.
+
+שימוש ב‑APIs של Python לאוטומציה של המרת DOC ל‑CSV מסייע לתקנן את חילוץ המסמכים, להפחית עיצוב ידני, ולתמוך בתהליכי עבודה ניתנים להרחבה שמזינים גיליונות אלקטרוניים, צינורות ETL, לוחות מחוונים ויישומים מונעי‑נתונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ נתונים טבלאיים**
+  המרת טבלאות מסמך ורשומות חוזרות ל‑CSV לניתוח וייבוא קלים יותר.
+
+* **תהליכי הגירת נתונים**
+  הכנת נתוני עסק מבוססי מסמך להעברה לבסיסי נתונים או למערכות קו‑עסק.
+
+* **הכנת דוחות**
+  המרת תוכן המסמך לקבצים שטוחים המתאימים לדיווח, אימות ובחינה ארכיבית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא רשומות בכמות גדולה**
+  אוטומציה של ייצוא קבצי DOC למערכי נתוני CSV לעיבוד תפעולי בעומס גבוה.
+
+* **אינטגרציית צינור**
+  הזנת פלט CSV המומר לניתוחים, CRM, ERP, או תהליכי קליטת מחסן.
+
+* **נרמול נתונים מתוזמן**
+  חילוץ ותיקון תוכן ממקורות מסמכים חוזרים באופן תכנותי ולפי לוח זמנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

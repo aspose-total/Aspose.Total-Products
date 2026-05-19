@@ -53,7 +53,41 @@ Chúng tôi sử dụng API [Aspose.Words for Python via .NET](https://products.
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OTT sang hình ảnh trong các API Python chuyển các mẫu văn bản OpenDocument thành các đầu ra hình ảnh để chia sẻ trực quan, tạo bản xem trước và xuất bản tĩnh. Điều này hữu ích khi nội dung tài liệu phải được hiển thị nhất quán trên các nền tảng mà không phụ thuộc vào định dạng nguồn có thể chỉnh sửa.
+
+Quá trình chuyển đổi hỗ trợ tự động hoá bằng cách cho phép các pipeline render có khả năng mở rộng cho bản xem trước, hình thu nhỏ, tài sản web và ảnh chụp nhanh tài liệu, có thể được tạo ra một cách lập trình và phân phối rộng rãi.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo bản xem trước trực quan**  
+  Tạo các biểu diễn tĩnh của nội dung tài liệu để xem nhanh.
+
+* **Chia sẻ đa nền tảng**  
+  Giúp nội dung dễ dàng hiển thị ở những nơi hỗ trợ tài liệu hạn chế.
+
+* **Hỗ trợ xuất bản**  
+  Tạo ra các tài sản hình ảnh cho web, báo cáo hoặc lưu trữ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Quy trình tạo hình thu nhỏ**  
+  Tạo các hình ảnh xem trước từ các tệp OTT hàng loạt.
+
+* **Quy trình làm việc xuất bản nội dung**  
+  Chuyển đổi các mẫu thành tài sản hình ảnh cho các cổng thông tin hoặc trang tài liệu.
+
+* **Lưu trữ ảnh chụp nhanh tự động**  
+  Bảo tồn trạng thái tài liệu dưới dạng đầu ra hình ảnh không thể chỉnh sửa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

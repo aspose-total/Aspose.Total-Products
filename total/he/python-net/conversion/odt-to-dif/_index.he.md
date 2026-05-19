@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑DIF ממירה תוכן של OpenDocument Text לפורמט חילופי נתונים המיועד להחלפת נתונים בסגנון גיליון אלקטרוני. זה בעל ערך כאשר מידע המוטמע במסמכי טקסט צריך להיות מועבר למערכות המתבססות על ייצוגים מספריים או טבלאיים מובנים.
+
+מנקודת מבט של אוטומציה, המרת ODT ל‑DIF מסייעת לגשר בין תוכן מבוסס מסמכים לבין סביבות עיבוד נתונים ישנות או מתמחות. ממשקי API של Python מאפשרים לאוטומט את ההוצאה, העיצוב והמסירה בקנה מידה רחב עם מאמץ ידני מינימלי.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **העברת נתוני גיליון אלקטרוני**  
+  מעביר טבלאות מסמך לפורמט חילופי המתאים לתהליכי עבודה של נתונים מובנים.
+
+* **תאימות למערכות ישנות**  
+  תומך בסביבות שעדיין מסתמכות על DIF להחלפת נתונים.
+
+* **הגירת תוכן מובנה**  
+  ממיר רשומות מבוססות מסמך לנכסי נתונים שניתן להשתמש בהם מחדש.
+
+* **טיפול נתונים מתואם**  
+  משפר את העברת המידע הטבלאי בין פלטפורמות הטרוגניות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא טבלאות אוטומטי**  
+  סקריפטים של Python יכולים לזהות ולייצא קטעים טבלאיים מקבצי ODT לפורמט DIF.
+
+* **הזנת צינור עבודה ישן**  
+  זרימות עבודה אוטומטיות יכולות להכין נתונים למערכות גיליון אלקטרוני או אנליטיקה ישנות.
+
+* **נרמול מסמכים במאצעים**  
+  ניתן לעבד קבצי ODT מרובים לפלטים עקביים של DIF במטלות מאצעות.
+
+* **תזמון החלפת נתונים**  
+  המרות חוזרות יכולות לתמוך בהעברה שגרתית של תוכן מסמך מובנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

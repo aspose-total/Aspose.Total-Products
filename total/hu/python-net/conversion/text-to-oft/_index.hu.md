@@ -46,7 +46,44 @@ Egy Python fejlesztő számára ki próbál TEXT-t hozzáadni OFT-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A Python API‑k használatával történő szöveg‑OFT átalakítás lehetővé teszi, hogy a egyszerű szöveges tartalom újrahasználható e‑mail sablonfájlokká alakuljon. Ez értékes azok számára, akiknek szabványosított üzenetformátumokra van szükségük az ismétlődő kommunikációhoz, belső munkafolyamatokhoz vagy felhasználó‑vezérelt üzenetvázlatok készítéséhez.
+
+Az átalakítás támogatja az automatizálást azáltal, hogy a szöveget sablonkész állományokká alakítja, amelyeket kampányok, szolgáltatási műveletek és értesítési rendszerek során újra fel lehet használni, miközben javítja a konzisztenciát, hatékonyságot és skálázhatóságot.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Újrahasználható e‑mail sablonkészítés**  
+  Átalakítja a szöveget OFT sablonokká az ismételhető kommunikációs munkafolyamatokhoz.
+
+* **Szabványosított üzenetküldés**  
+  Segít biztosítani a konzisztens szerkezetet és nyelvezetet az ismétlődő e‑mail tartalmakban.
+
+* **Működési vázlat előkészítése**  
+  Támogatja a sablonfájlok létrehozását azoknak a csapatoknak, amelyek a küldés előtt testre szabják az üzeneteket.
+
+* **Folyamat‑vezérelt kommunikációs tervezés**  
+  Lehetővé teszi, hogy a strukturált szövegtartalom újrahasználható eszközzé váljon az üzleti műveletekhez.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Sablon generálási csővezetékek**  
+  Az automatizálás képes a jóváhagyott szöveget OFT sablonokká alakítani az ismétlődő használathoz.
+
+* **Munkafolyamat‑alapú vázlatkészítés**  
+  A rendszerek képesek újrahasználható e‑mail vázlatokat generálni dinamikus szövegforrásokból.
+
+* **Skálázható üzenet‑szabványosítás**  
+  A programozott átalakítás segít fenntartani a sablonkonzisztenciát a részlegek és folyamatok között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

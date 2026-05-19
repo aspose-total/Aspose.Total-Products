@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCM to OFT conversion transforms macro-enabled documents into reusable email template files, making document-based content easier to standardize for repetitive communication tasks. It is helpful when consistent messaging must be generated from authored document sources.
+
+In automation workflows, DOCM to OFT conversion enables templated outreach, process-driven communication, and scalable reuse of document content across repeated messaging scenarios.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Повідомлення на основі шаблонів**
+  Перетворює вміст документу у багаторазові шаблони електронної пошти для стандартизованої комунікації.
+
+* **Послідовність процесу**
+  Допомагає командам підтримувати уніфіковану структуру у повторюваних вихідних повідомленнях.
+
+* **Повторне використання вмісту**
+  Повторно використовує формальний текст документу у шаблонах комунікації без ручного переформатування.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Автоматизоване створення шаблонів**
+  Створює OFT‑файли з DOCM‑документів для повторюваних робочих процесів повідомлень.
+
+* **Комунікації, ініційовані робочим процесом**
+  Використовує конвертовані шаблони у процесах затвердження, сповіщення або підтримки.
+
+* **Масштабна підготовка повідомлень**
+  Дозволяє динамічне заповнення та розповсюдження вмісту на основі шаблонів у великому масштабі.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

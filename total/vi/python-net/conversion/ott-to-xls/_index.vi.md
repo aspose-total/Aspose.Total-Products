@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi OTT sang XLS trong các API Python biến các mẫu văn bản OpenDocument thành tệp bảng tính để xem xét có cấu trúc, tính toán và chia sẻ. Điều này có giá trị khi tài liệu nguồn dạng văn bản cần được sắp xếp lại thành định dạng sổ làm việc cho mục đích kinh doanh hoặc vận hành.
+
+Quá trình chuyển đổi tăng cường tự động hoá bằng cách cho phép nội dung tài liệu chảy trực tiếp vào các quy trình dựa trên bảng tính, nơi việc phân tích, xác thực và báo cáo có thể được lặp lại một cách hiệu quả.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tạo sổ làm việc**  
+  Chuyển các mẫu tài liệu thành các tệp bảng tính có thể chỉnh sửa.
+
+* **Tổ chức dữ liệu**  
+  Sắp xếp nội dung văn bản thành các hàng và cột để dễ xử lý hơn.
+
+* **Hỗ trợ báo cáo**  
+  Chuẩn bị thông tin nguồn cho các bản tóm tắt dựa trên bảng tính.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Xuất bảng tính tự động**  
+  Tạo tệp XLS từ nội dung OTT lặp lại.
+
+* **Xử lý dữ liệu vận hành**  
+  Đưa thông tin lấy từ mẫu vào quy trình làm việc của sổ làm việc.
+
+* **Đường ống báo cáo định kỳ**  
+  Tạo ra các đầu ra bảng tính cho các buổi đánh giá kinh doanh thường xuyên.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

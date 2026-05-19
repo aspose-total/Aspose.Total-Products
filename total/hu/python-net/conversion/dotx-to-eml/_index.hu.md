@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOTX-t hozzáadni EML-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOTX‑ról EML‑re konverzió a Word sablon tartalmát egy szabványos e‑mail üzenetfájl formátummá alakítja, amely tárolható, megosztható vagy kompatibilis levelezőkliensekben megnyitható. Ez értékes a strukturált dokumentumokból származó, e‑mailre kész kommunikáció megőrzéséhez.
+
+Python API‑kkal ez a konverzió lehetővé teszi a hordozható e‑mail fájlok automatizált létrehozását, megkönnyítve az archiválási, megfelelőségi és üzenetküldési munkafolyamatok felépítését újrahasználható dokumentumsablonokból.
+
+{{% blocks/products/pf/agp/feature-section-col title="Fő felhasználási esetek" %}}
+
+* **Hordozható e‑mail létrehozás**
+  Standard e‑mail fájlok generálása dokumentumsablonokból a széles körű kompatibilitás érdekében.
+
+* **E‑mail archiválás**
+  A kommunikáció tartalmának megőrzése olyan formátumban, amely alkalmas a tárolásra és visszakeresésre.
+
+* **Sablon újrahasználat**
+  Formális dokumentumelrendezések átalakítása újrahasználható e‑mail üzenetekké.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált e‑mail fájl generálás**
+  EML üzenetek létrehozása DOTX sablonokból ütemezett dokumentumfolyamatok részeként.
+
+* **Megfelelőségi archiválás**
+  Dokumentumból származó üzenetek tárolása szabványos e‑mail fájl tárolókban.
+
+* **Kereszt‑rendszeres üzenetküldési csővezetékek**
+  Generált EML fájlok átvitele alkalmazások és e‑mail feldolgozó rendszerek között.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

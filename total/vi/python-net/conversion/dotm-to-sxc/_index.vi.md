@@ -65,7 +65,41 @@ Nó chủ yếu trong hai bước. Trước tiên, hãy sử dụng API [Aspose.
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi DOTM sang SXC chuyển đổi các mẫu Word có macro thành các tệp bảng tính tương thích với môi trường kiểu OpenOffice cũ. Điều này hữu ích khi nội dung tài liệu phải được chuyển đổi thành các đầu ra bảng tính có cấu trúc đồng thời duy trì tính tương thích với quy trình làm việc văn phòng mở kế thừa.
+
+Sử dụng các API Python cho việc chuyển đổi DOTM sang SXC cải thiện tự động hoá bằng cách biến các mẫu tài liệu có thể tái sử dụng thành các tài sản bảng tính cho các hệ thống tương thích với môi trường kế thừa. Điều này hỗ trợ việc trích xuất dữ liệu hiệu quả, mở rộng khả năng tương tác, và chuyển đổi định dạng có khả năng mở rộng.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Tương thích bảng tính mở cũ**
+  Chuyển đổi nội dung DOTM sang SXC cho các quy trình làm việc vẫn phụ thuộc vào các định dạng bảng tính cũ.
+
+* **Tái sử dụng dữ liệu mẫu**
+  Trích xuất nội dung tài liệu có cấu trúc thành dạng bảng tính để xem xét và xử lý.
+
+* **Hỗ trợ di chuyển**
+  Sử dụng đầu ra SXC khi chuyển nội dung vào hoặc qua các môi trường văn phòng kế thừa.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Các kịch bản tự động hoá" %}}
+
+* **Xuất bảng tính cũ tự động**
+  Hệ thống có thể chuyển đổi các mẫu DOTM thành SXC như một phần của quy trình làm việc tập trung vào tính tương thích.
+
+* **Tự động hoá tài liệu sang dữ liệu**
+  Việc chuyển đổi hỗ trợ trích xuất định kỳ nội dung có cấu trúc thành các tài sản bảng tính.
+
+* **Xử lý hàng loạt định dạng cũ**
+  Các công việc lập trình cho phép chuyển đổi quy mô lớn các tệp DOTM sang SXC một cách hiệu quả.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

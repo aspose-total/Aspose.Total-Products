@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת OTT לדוא"ל ב-APIs של Python ממירה תבניות טקסט של OpenDocument לתוכן מוכן לדוא"ל המתאים ליצירת הודעות, זרימות עבודה של התראות, ואוטומציה של תקשורת. זה מסייע לארגונים להשתמש מחדש בתוכן המסמכים כהודעות יוצאות מובנות.
+
+המרה זו רלוונטית מאוד לאוטומציה מכיוון שהיא מאפשרת יצירה דינמית של גופי דוא"ל מתבניות, משפרת את עקביות התקשורת, את היכולת להתרחב, ואת האינטגרציה עם מערכות טרנסקציוניות או מונעות אירועים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הודעות מבוססות תבנית**  
+  ממירה תבניות מסמך לתוכן דוא"ל שניתן להשתמש בו מחדש למטרות פנייה או עדכונים.
+
+* **הפקת התראות**  
+  ממירה טקסט מעוצב להודעות מוכנות לדוא"ל עבור התראות ואישורים.
+
+* **שימוש חוזר בתוכן**  
+  מאפשר למסמך המקור לתמוך גם בתיעוד וגם בצרכי תקשורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **עדכונים אוטומטיים ללקוחות**  
+  מייצר דוא"ל מתבניות OTT בהתבסס על טריגרים של זרימת עבודה.
+
+* **צינורות הודעות טרנסקציוניות**  
+  משתמש בתוכן המסמך במערכות ששולחות אישורים או תזכורות.
+
+* **התאמה אישית דינמית**  
+  ממלא תוכן דוא"ל מבוסס תבנית באופן תכנותי עבור קבוצות גדולות של נמענים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

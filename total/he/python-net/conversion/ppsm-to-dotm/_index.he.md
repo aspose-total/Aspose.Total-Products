@@ -105,7 +105,41 @@ otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PPSM ל‑DOTM בפייתון מאפשרת להמיר תוכן מצגות עם מקרו לתבניות מסמכים עם מקרו ליצירה מובנית ואוטומטית של מסמכים. זה בעל ערך כאשר תוכן המצגת חייב להזין תהליכי עבודה מבוססי תבניות התלויים גם בתכונות מתקדמות של אוטומציית מסמכים.
+
+לצורך אוטומציה ניתנת להרחבה, המרת PPSM ל‑DOTM מאפשרת לארגונים לשלב עיצוב תקני עם תבניות מסמכים תומכות מקרו, מה שמשפר חזרתיות, שליטה ויעילות בסביבות ייצור המסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת תבנית עם מקרו**  
+  ממיר את תוכן המצגת לתבניות שניתן להשתמש בהן מחדש, המיועדות לתהליכי עבודה אוטומטיים של מסמכים.
+
+* **הרכבה תקנית של מסמכים**  
+  תומך ביצירת מבני מסמכים מבוקרים מחומר שמקורו במצגת.
+
+* **שימוש חוזר בתוכן מונע תהליכים**  
+  מאפשר למידע להיות ממושמע לתבניות המשמשות באופן חוזר על‑ידי צוותים ומערכות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ספריות תבניות אוטומטיות**  
+  ממשקי API של פייתון יכולים לייצר קבצי DOTM למאגרי תבניות מרוכזים.
+
+* **יצירת מסמכים מכוונת תהליכי עבודה**  
+  ההמרה תומכת בצינורות שמחברים חילוץ מקור עם לוגיקת אוטומציה מבוססת תבניות.
+
+* **הפצת תוכן ניתנת להרחבה**  
+  תהליכים תכנותיים יכולים לספק תבניות עם מקרו לכל המחלקות עם מבנה עקבי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

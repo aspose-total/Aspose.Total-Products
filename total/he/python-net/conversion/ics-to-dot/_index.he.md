@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי ICS ל‑DOT באמצעות ממשקי Python מאפשרת להמיר נתוני לוח שנה לקבצי תבנית Word. גישה זו מאפשרת לשלב מידע תזמון בתבניות מסמכים ניתנות לשימוש חוזר לדיווח מובנה.
+
+תהליכי עבודה אוטומטיים ב‑Python מאפשרים להמיר קבצי ICS לפורמטים של תבניות שניתן להשתמש בהם במגוון תהליכי יצירת מסמכים, מה שמשפר עקביות ויעילות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות תזמון ניתנות לשימוש חוזר**  
+  המרת נתוני לוח שנה לתבניות מסמך לדיווח עקבי.
+
+* **תיעוד מונחה תבניות**  
+  הטמעת מבני אירועים בתבניות Word ניתנות לשימוש חוזר.
+
+* **עיצוב זרימת עבודה מובנית**  
+  יצירת תבניות התומכות ביצירת מסמכים סטנדרטית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות יצירת תבניות**  
+  יצירת תבניות DOT באופן אוטומטי מקבצי ICS.
+
+* **מערכות אוטומציה של מסמכים**  
+  שימוש בתבניות לוח שנה ביצירת מסמכים אוטומטית.
+
+* **תשתית דיווח ניתנת להרחבה**  
+  המרת נפחים גדולים של נתוני לוח שנה לתבניות ניתנות לשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

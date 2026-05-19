@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál ODT-t hozzáadni OST-konverziós fun
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az ODT‑OST átalakítás a dokumentumtartalmat egy olyan formátumba konvertálja, amely az offline postafiók‑adat munkafolyamatokhoz kapcsolódik, ahol a tartalmat tárolásra, migrációra vagy kommunikációval kapcsolatos csomagolásra kell újrahasznosítani. Ez hasznos lehet speciális archiválási vagy vállalati üzenetküldési forgatókönyvekben.
+
+Python API‑k használatával az ODT‑OST átalakítás támogatja az automatizált dokumentumtranszformációt, ahol a postafiók‑stílusú tárolási folyamatok integrációja szükséges. Javítja az ismételhetőséget és csökkenti a kézi előkészítési erőfeszítést az üzenet‑orientált környezetekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Postafiók-orientált csomagolás**  
+  Átalakítja a dokumentumtartalmat offline üzenettárolási munkafolyamatokhoz.
+
+* **Archiválási támogatás**  
+  Segít megőrizni az újrahasznosított szöveget a kommunikációval kapcsolatos tárolási formátumokban.
+
+* **Migrációs előkészítés**  
+  Segít a dokumentumból származó tartalom postafiók‑ökoszisztémákba történő áthelyezésében.
+
+* **Strukturált rekord átalakítás**  
+  Támogatja azokat a vállalati folyamatokat, amelyek a dokumentumokat és az üzenetküldési elemeket egyesítik.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált tartalomcsomagolás**  
+  A Python szkriptek átalakíthatják az ODT fájlokat postafiókhoz kapcsolódó kimenetekké meghatározott munkafolyamatokban.
+
+* **Kötegelt archiválási feldolgozás**  
+  Nagy dokumentumtárak átalakíthatók kommunikáció‑központú tárolási feladatokhoz.
+
+* **Migrációs csővezeték integráció**  
+  Az automatizált feladatok előkészíthetik az átalakított tartalmat a downstream postafiók‑kezeléshez.
+
+* **Megőrzési munkafolyamat támogatás**  
+  A dokumentumból származó kimenetek konzisztensen előállíthatók hosszú távú nyilvántartás céljából.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

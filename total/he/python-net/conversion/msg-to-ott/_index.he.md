@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+MSG to OTT conversion ממירה את תוכן הודעת האימייל לתבניות טקסט של מסמכי פתוח ליצירת מסמכים שניתן להשתמש בהם מחדש ובאופן תקני. זה בעל ערך כאשר יש צורך לבנות תיעוד חוזר ממבנים שמקורם באימייל בפורמט תבנית פתוחה.
+
+בסביבות אוטומציה, זרימות עבודה של MSG ל-OTT תומכות באסמבליה חוזרת של מסמכים, עיצוב עקבי וניהול תבניות בר‑קנה מידה. הן מסייעות להמיר תבניות תקשורת לנכסים תפעוליים שניתן להשתמש בהם מחדש.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **יצירת תבנית פתוחה**  
+  הפוך את תוכן ההודעה לתבניות שניתן להשתמש בהן מחדש ליצירת מסמכים חוזרים.
+
+* **פריסות מסמך עקביות**  
+  תקן את העיצוב בהתבסס על מבני תוכן אימייל חוזרים.
+
+* **פעולות מבוססות תבנית**  
+  תמוך בזרימות עבודה חוזרות שמתחילות בתבניות שמקורן בתקשורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של ספריית תבניות**  
+  צור תבניות OTT מקבצי MSG לצרכי תיעוד חוזרים.
+
+* **תקנון זרימת עבודה פתוחה**  
+  השתמש בתבניות שהומרו במערכות שנבנו סביב עיבוד מסמכי פתוח.
+
+* **הרכבת מסמכים בר‑קנה מידה**  
+  הזן תבניות שניתן להשתמש בהן מחדש לתוך צינורות ייצור תוכן אוטומטיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

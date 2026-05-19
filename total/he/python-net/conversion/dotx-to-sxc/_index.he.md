@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑SXC משנה את תוכן תבנית Word לפורמט גיליון אלקטרוני מדור קודם המשמש בסביבות OpenOffice ישנות. היא רלוונטית כאשר יש לייצא נתוני מסמך מובנים לצורך תאימות למערכות גיליונות אלקטרוניים קודמות.
+
+המרה זו תומכת באוטומציה על ידי אפשרות ל‑APIs של Python להכין פלט גיליון אלקטרוני שמקורו במסמך לצורכי ארכיב, אינטראופרטיביות, ותהליכי תאימות מערכת.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **תאימות לגיליון אלקטרוני מדור קודם**
+  ייצא את תוכן המסמך לפורמט המתאים לכלי גיליון אלקטרוני ישנים.
+
+* **שימוש חוזר בנתונים מובנים**
+  העבר מידע תבנית לתהליכי עבודה טבלאיים שבהם תמיכה מדור קודם חשובה.
+
+* **אינטגרציה של מערכות היסטוריות**
+  תמוך בחילופי נתונים עם סביבות שעדיין תלויות בפורמטים פתוחים ישנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא מדור קודם אוטומטי**
+  צור קבצי SXC מתבניות DOTX בתהליכים המתמקדים בתאימות.
+
+* **צינורות מיגרציית נתונים**
+  השתמש בפלט המומר כדי לגשר על תוכן המסמך למערכות גיליון אלקטרוני ישנות.
+
+* **טיפול בפורמט ארכיון**
+  שמר נתונים מובנים מתבניות בנכסי גיליון אלקטרוני תואמי מדור קודם.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

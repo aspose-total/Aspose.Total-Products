@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת RTF לדוא"ל ממירה מסמכי טקסט מעוצבים לתוכן מוכן לדוא"ל שניתן לשלב בתקשורת יוצאת, בהתראות או בתבניות הודעות. היא שימושית לשימוש חוזר בטקסט של דוחות, הודעות, סיכומים או תוכן המיועד ללקוחות בפורמט ידידותי לתקשורת.
+
+בסביבות אוטומטיות, RTF לדוא"ל תומכת בתהליכי הודעות בקנה מידה על‑ידי המרת תוכן המסמך שנכתב לתוכן דוא"ל שניתן להשתמש בו מחדש עבור התראות, קמפיינים, אישורים ותקשורת עסקית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש עיקריים" %}}
+
+* **טיוטת דוא"ל מבוססת מסמך**  
+  ממירה תוכן טקסט עשיר להודעות דוא"ל שניתן להשתמש בהן מחדש לתקשורת פנימית או חיצונית.
+
+* **הפצת הודעות ועדכונים**  
+  תומכת בשליחת הודעות או סיכומים שנגזרים ממסמכים מוכנים.
+
+* **הודעות מונעות תבנית**  
+  מסייעת להפוך תוכן מסמך סטנדרטי לפלטי דוא"ל עקביים ברחבי הצוותים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת התראות אוטומטיות**  
+  מערכות יכולות להמיר קבצי RTF לתוכן דוא"ל עבור משלוח מתוזמן או מבוסס אירוע.
+
+* **הודעות אישור בתהליכי עבודה**  
+  סיכומי מסמכים יכולים להיות מומרי תכנות לבקשות אישור והודעות סטטוס.
+
+* **תהליכי פנייה המוניים**  
+  צינורות תקשורת ברמת נפח גבוה נהנים מהמרת נכסי טקסט מוכנים לתוכן דוא"ל מוכן בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

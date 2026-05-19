@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת SXC ל‑DOC ממירה תוכן מבוסס גיליון אלקטרוני לפורמט מסמך קלאסי שקל יותר לסקור, לשתף ולארכב בתהליכי עבודה המתמקדים בטקסט. היא שימושית כאשר מידע טבלאי מובנה צריך להיות מוצג כתיעוד עסקי קריא, סיכומים או דוחות לנגישות רחבה יותר.
+
+בסביבות אוטומציה, המרת SXC ל‑DOC מסייעת לאחיד יצירת פלט, להפחית הכנת מסמכים ידנית, ולתמוך בתהליכי פרסום, אישור או ציות בשלבים הבאים באמצעות API‑ים של Python.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת דוחות**  
+  ממירה תוכן גיליון אלקטרוני למסמכים קריאים לדיווח פורמלי ותקשורת עם בעלי עניין.
+
+* **הפצת תוכן**  
+  מקלה על שיתוף תוכן מונע נתונים עם משתמשים שמעדיפים פורמטים מבוססי מסמך על פני גיליונות אלקטרוניים.
+
+* **הכנת ארכיון**  
+  מסייעת לשמר רשומות עסקיות בפורמט המשמש בדרך כלל בתהליכי תיעוד ארוכי טווח.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמכים במרוכז**  
+  מאפשרת המרה אוטומטית של קבצי SXC מרובים למסמכי DOC עבור צינורות דיווח חוזרים.
+
+* **פרסום נתונים למסמך**  
+  מאפשרת זרימות עבודה ב‑Python להפוך נתוני גיליון אלקטרוני למסמכים נרטיביים המתאימים לפרסום או סקירה.
+
+* **שילוב בתהליכי עבודה**  
+  תומכת ביצירת מסמכים בתוך מערכות גדולות יותר כגון אישור, שמירת רשומות והפצת תוכן.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Chuyển đổi tài liệu sang VCF biến thông tin liên hệ được lưu trong các tài liệu Word thành định dạng vCard tiêu chuẩn cho sổ địa chỉ và hệ thống liên lạc. Điều này hữu ích khi danh thiếp, danh bạ hoặc danh sách liên hệ cần được chuyển từ tài liệu sang quy trình làm việc liên lạc kỹ thuật số.
+
+Sử dụng các API Python cho việc chuyển đổi DOC sang VCF cải thiện độ chính xác, giảm việc nhập liệu liên hệ thủ công, và hỗ trợ đồng bộ hoá quy mô lớn giữa các nguồn tài liệu và hệ thống quản lý liên hệ.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Trích xuất dữ liệu liên hệ**
+  Chuyển đổi chi tiết liên hệ từ tài liệu thành các tệp vCard để tái sử dụng.
+
+* **Nhập sổ địa chỉ**
+  Chuẩn bị thông tin liên hệ dựa trên tài liệu để nhập trực tiếp vào các hệ thống liên lạc.
+
+* **Hiện đại hoá danh bạ**
+  Biến đổi danh sách liên hệ tĩnh thành các bản ghi liên hệ kỹ thuật số di động.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tự động tạo liên hệ**
+  Tạo các tệp VCF từ các thư mục DOC, danh sách hoặc biểu mẫu một cách tự động.
+
+* **Hỗ trợ đồng bộ CRM và liên hệ**
+  Chuyển các liên hệ được trích xuất từ tài liệu vào quy trình quản lý liên hệ.
+
+* **Xử lý liên hệ hàng loạt**
+  Chuyển đổi nhiều tài liệu liên quan đến liên hệ thành các tài sản vCard có thể tái sử dụng ở quy mô lớn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

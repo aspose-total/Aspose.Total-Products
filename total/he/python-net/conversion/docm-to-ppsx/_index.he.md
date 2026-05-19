@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑PPSX ממירה מסמכים עם מקרו לקבצי מצגת מודרניים המיועדים לצפייה ישירה ולמסירה חלקה של מצגות. זהו תהליך בעל ערך כאשר יש להציג את תוכן המסמך בצורה חזותית בפורמט נייד, ממוקד השמעה.
+
+בסביבות אוטומציה, המרת DOCM ל‑PPSX תומכת בהפצה בקנה מידה של פלטים מוכנים למצגת ללא צורך בעיצוב או עריכה ידנית לפני ההצגה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **הצגת מצגת מודרנית**
+  ממירה חומר מסמך לקבצי מצגת לצפייה ישירה לשימוש במצגות.
+
+* **תקשורת חזותית ניידת**
+  מסייעת לשתף תובנות מבוססות מסמך בפורמט מצגת קל משקל.
+
+* **פלט ממוקד השמעה**
+  תומכת בתרחישי מצגת שבהם עריכה היא משנית לצפייה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מצגת אוטומטית**
+  מייצרת קבצי PPSX ממקורות DOCM עבור זרימות עבודה של מצגות מתוזמנות.
+
+* **פרסום תוכן מונע זרימת עבודה**
+  מחברת בין עריכת מסמכים למערכות אספקת מצגות.
+
+* **ייצוא מצגות בכמות גדולה**
+  ממירה כמויות גדולות של קבצי DOCM לנכסים מוכנים למצגת באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

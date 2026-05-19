@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+SXC to OTT conversion converts spreadsheet-based content into an open document template format designed for repeatable and structured text document creation. This is useful when spreadsheet information needs to populate reusable templates for reports, notices, summaries, or standardized internal documents.
+
+With Python APIs, SXC to OTT conversion supports efficient automation by enabling template-centered workflows that improve consistency, reduce manual formatting, and simplify large-scale document generation.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Створення відкритих шаблонів**  
+  Turns spreadsheet data into reusable templates for future document generation.
+
+* **Послідовне оформлення документів**  
+  Helps maintain uniform formatting across repeated business documentation tasks.
+
+* **Багаторазові активи процесу**  
+  Supports creation of template files that streamline operational document preparation.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Конвеєри автоматизації шаблонів**  
+  Generates OTT templates from SXC files through Python-based conversion workflows.
+
+* **Стандартизоване генерування результатів**  
+  Enables repeated document creation from a single reusable open-format template.
+
+* **Покращення ефективності процесу**  
+  Reduces manual setup time by preparing structured templates programmatically.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál PST-t hozzáadni TEXT-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A PST‑TEXT átalakítás a Python API‑kban kinyeri a postafiók tartalmát egyszerű szövegként az indexelés, elemzés és könnyűsúlyú archiválás céljából. Értékes, ha a hangsúly az olvasható tartalmon van a formázás helyett, különösen olyan rendszerekben, amelyek a kereshetőséget és a feldolgozási hatékonyságot helyezik előtérbe.
+
+Automatizálás esetén a PST‑TEXT átalakítás támogatja a szövegbányászatot, a tartalomkinyerést, és az egyszerű, strukturált bemenettel legjobban működő csővezetékekkel való integrációt. Segít a postafiók‑archívumok könnyebb feldolgozásában, átalakításában és nagyméretben történő elemzésében.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Egyszerű szöveg kinyerés**
+  Átalakítja a PST tartalmát szöveggé, tiszta, formázásmentes hozzáférést biztosítva az üzenet adatokhoz.
+
+* **Keresés és indexelés támogatása**
+  Segít előkészíteni a postafiók‑archívumokat a visszakereséshez és a tartalom felfedezéséhez szükséges munkafolyamatokhoz.
+
+* **Elemzésre kész kimenet**
+  Támogatja a downstream feldolgozást, ahol az egyszerű szöveg előnyben részesül a formázott dokumentumokkal szemben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Szövegfeldolgozó csővezetékek**
+  Az automatizált rendszerek a PST‑ből származó szöveget beilleszthetik indexelési vagy elemzési munkafolyamatokba.
+
+* **Adatkinyerési munkafolyamatok**
+  Az egyszerű szöveg kimenet segít egyszerűsíteni a feldolgozási, szűrési és átalakítási feladatokat.
+
+* **Skálázható tartalombányászat**
+  A programozott átalakítás lehetővé teszi, hogy a nagy postafiók‑archívumokat hatékonyabban elemezzék.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

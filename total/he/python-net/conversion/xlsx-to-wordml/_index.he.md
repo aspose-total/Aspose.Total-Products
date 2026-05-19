@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLSX ל‑WordML ממירה נתוני גיליון אלקטרוני למסמכי Wordprocessing Markup Language, מה שמקל על ייצוג תוכן המסמך בפורמט מובנה מבוסס XML. זה שימושי לתהליכי עבודה הדורשים אינטראופרטיביות של מסמכים, עיבוד מובנה, או אינטגרציה עם מערכות המתמקדות במסמכים.
+
+לצורכי אוטומציה ואינטגרציה, המרת XLSX ל‑WordML תומכת ביצירת מסמכים קריאים למכונה, משפרת תאימות לצינורות מבוססי XML, ומאפשרת המרה בקנה מידה של תוכן הגיליון למסמכי פלט מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **החלפת מסמכים מובנית**  
+  ממירה את תוכן הגיליון לפורמט מסמך מבוסס XML לעיבוד אינטראופרטיבי.
+
+* **תהליכי אינטגרציה של מערכות**  
+  מסייעת לחבר נתונים שמקורם בגיליון עם יישומים הצורכים סימון מסמכי מובנה.
+
+* **צינורות שינוי מסמכים**  
+  תומכת בתהליכים שבהם פלט מסמך קריא למכונה הוא בעל ערך גבוה יותר מהעריכה הידנית בלבד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **אוטומציה של מסמכים מבוססת XML**  
+  מערכות יכולות להמיר נתוני גיליון ל‑WordML לעיבוד מובנה בשלבים הבאים.
+
+* **אינטגרציה עם מנועי מסמכים**  
+  ההמרה תומכת בתהליכי עבודה אוטומטיים המתבססים על יצירת מסמכים מבוססי סימון והמרתם.
+
+* **יצירת פלט מובנה בקנה מידה**  
+  המרה תכנותית מאפשרת ייצור רחב היקף של קבצי מסמכים קריאים למכונה מגיליונות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

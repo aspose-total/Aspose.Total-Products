@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑RTF ממירה קבצי גיליון לפורמט מסמך טקסט עשיר. זה מאפשר לשתף נתוני גיליון בפורמט מסמך נתמך נרחבות המשמר עיצוב ומבנה טקסט.
+
+באמצעות ממשקי API של Python, ניתן לשלב המרת ODS ל‑RTF בתהליכי עיבוד נתונים אוטומטיים. זה מאפשר שינוי מסמכים בקנה מידה, עיבוד אצווה, ושילוב גמיש עם מערכות שונות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **שיתוף מסמכים מעוצב**  
+  המרת מידע הגיליון למסמכי טקסט מעוצבים בעושר.
+
+* **תאימות חוצת פלטפורמות**  
+  שיתוף תוכן הגיליון בפורמט הנתמך במגוון פלטפורמות.
+
+* **תיעוד דוחות**  
+  המרת נתוני גיליון לדוחות טקסטיים קריאים.
+
+* **הגירת תוכן**  
+  המרת ארכיוני גיליון למסמכי טקסט עשיר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **צינורות המרת מסמכים אוטומטיים**  
+  זרימות עבודה ב‑Python ממירות ערכות נתוני גיליון למסמכי טקסט עשיר.
+
+* **עיבוד נתונים באצווה**  
+  מערכות ממירות מספר גיליונות לפורמט RTF באופן אוטומטי.
+
+* **יצירת דוחות דינאמיים**  
+  קלטי גיליון מייצרים דוחות טקסט מעוצבים בתכנות.
+
+* **שילוב מסמכים ארגוני**  
+  שירותי המרה משולבים עם מערכות עיבוד מסמכים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,46 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת CSV ל-WordML באמצעות API של Python מאפשרת להמיר נתונים טבלאיים מובנים למסמכי עיבוד תמלילים מבוססי XML התומכים בפרסום מובנה ועיבוד מסמכים ידידותי למערכת.  
+המרה זו שימושית במיוחד לאוטומציה מכיוון שהיא יוצרת פלט מסמך קריא למכונה המשולב היטב בצינורות שינוי, שלבי אימות ומערכות תוכן בר-קנה מידה.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **פלט מסמך XML מובנה**  
+  המרת נתוני CSV לקבצי WordML עבור זרימות עבודה המרוויחות ממבנה מסמך מבוסס XML.
+
+* **אינטגרציה מערכת-מסמך**  
+  יצירת פלט WordML כאשר המסמכים צריכים להשתלב בצינורות של שינוי, אימות או עיבוד.
+
+* **זרימות עבודה של פרסום מונעות נתונים**  
+  המרת קלט CSV טבלאי למסמכי WordML מובנים עבור יצירת תוכן חוזרת.
+
+* **עיבוד מסמכים מתחלף**  
+  יצירת קבצי WordML התומכים בטיפול מסמכים מבוקר בסביבות עם אינטגרציה מרובה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת מסמך XML אוטומטית**  
+  שימוש ב-APIs של Python כדי להמיר ערכות נתוני CSV לקבצי WordML עבור זרימות עבודה של פרסום מובנה.
+
+* **המרת תוכן ממוקדת צינור**  
+  שילוב המרת CSV ל-WordML במערכות אוטומטיות הדורשות פלט מסמך קריא למכונה.
+
+* **ייצוא מסמכים מובנים בכמות גדולה**  
+  עיבוד קבצי CSV רבים לפורמט WordML בעקביות ובמינימום התערבות ידנית.
+
+* **הרכבה מבוססת כללים של XML**  
+  בניית מסמכי WordML מתוכן CSV באופן תכנותי לתמיכה בעיבוד אוטומטי בר-קנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

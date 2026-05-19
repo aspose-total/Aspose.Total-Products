@@ -46,7 +46,47 @@ Egy Python fejlesztő számára ki próbál EML-t hozzáadni DOTM-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az EML‑ról DOTM‑re konvertálás Python API‑k használatával e‑mail üzeneteket makróval ellátott dokumentumsablonokká alakít át fejlett, sablonvezérelt üzleti munkafolyamatokhoz. Ez a formátum akkor hasznos, amikor a kommunikációból származó tartalmat be kell építeni újrahasználható sablonokba, amelyek további automatizált viselkedést támogatnak.
+
+Az automatizálási rendszerek számára az EML‑ról DOTM‑re konvertálás segít összekapcsolni a bejövő kommunikációt az ismételhető dokumentumkészítési folyamatokkal. Támogatja a skálázható működést, ahol a makróval ellátott sablonok strukturált, cselekvés‑orientált dokumentáció előállítására szolgálnak.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Makróval ellátott sablonkészítés**  
+  Átalakítja az e‑mail tartalmat újrahasználható DOTM sablonokká fejlett dokumentumfolyamatokhoz.
+
+* **Folyamat‑orientált dokumentumtervezés**  
+  Segít rögzíteni a kommunikációs struktúrákat olyan sablonokban, amelyek támogatják az automatizált műveleteket.
+
+* **Vállalati sablonkönyvtárak**  
+  Támogatja a strukturált sabloneszközök létrehozását ismétlődő e‑mail mintákból.
+
+* **Munkafolyamat‑kész tartalomcsomagolás**  
+  Előkészíti az e‑mailből származó anyagot makróképességű dokumentumkörnyezetekben való felhasználásra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált sablonellátás**  
+  A folyamatok átalakíthatják az EML üzeneteket DOTM sablonokká a szabványosított üzleti kimenethez.
+
+* **Skálázható dokumentumösszeállítás**  
+  Az e‑mailből származó sablonok programozottan újrahasználhatók nagy mennyiségű dokumentum munkafolyamatokban.
+
+* **Strukturált tartalomújrahasználat**  
+  Az automatizálás segít átalakítani az üzenet elrendezéseket makróval ellátott sablonkeretekbe.
+
+* **Működési munkafolyamat integráció**  
+  Az átalakított DOTM fájlok táplálhatják az olyan dokumentumrendszereket, amelyek újrahasználható intelligens sablonokra támaszkodnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

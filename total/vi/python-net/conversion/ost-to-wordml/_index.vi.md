@@ -46,7 +46,44 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi OST sang WordML chuyển đổi nội dung hộp thư thành ngôn ngữ đánh dấu xử lý văn bản dựa trên XML, cho phép biểu diễn có cấu trúc và có thể đọc được bởi máy của các tài liệu xuất phát từ email. Điều này hữu ích cho các hệ thống cần cấu trúc tài liệu minh bạch và khả năng tương tác ở mức độ markup.
+
+Các API Python cho phép tự động hoá việc chuyển đổi OST sang WordML cho các kịch bản xử lý nâng cao, bao gồm chuyển đổi, xác thực và tích hợp với các hệ thống tập trung vào XML. Điều này cải thiện tính linh hoạt và kiểm soát trong quy trình công việc tài liệu có cấu trúc.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Đánh dấu tài liệu có cấu trúc**  
+  Chuyển đổi dữ liệu hộp thư thành WordML để biểu diễn tài liệu dựa trên XML.
+
+* **Xử lý nội dung có thể đọc được bởi máy**  
+  Hỗ trợ các quy trình công việc yêu cầu markup tài liệu có thể kiểm tra và chuyển đổi.
+
+* **Xử lý tương thích**  
+  Giúp tích hợp nội dung xuất phát từ email với các hệ thống và công cụ nội dung có cấu trúc.
+
+* **Chuyển đổi tài liệu nâng cao**  
+  Cho phép kiểm soát chi tiết nội dung đã chuyển đổi trong môi trường dựa trên markup.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tự động hoá quy trình công việc XML**  
+  Các script Python chuyển đổi các kho lưu trữ OST thành WordML cho các pipeline xử lý có cấu trúc.
+
+* **Quá trình chuyển đổi nội dung**  
+  Các hệ thống tự động thao tác với markup xuất phát từ hộp thư để tích hợp và tái sử dụng.
+
+* **Đường ống xác thực và trao đổi**  
+  Việc chuyển đổi bằng chương trình hỗ trợ trao đổi tài liệu có cấu trúc ở quy mô lớn.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

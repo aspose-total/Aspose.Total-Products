@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל‑DOTM ממירה נתונים טבלאיים מובנים לפורמטים של תבניות מסמכים עם מקרו התומכים בתהליכי תיעוד חוזרים ומתקדמים. זה בעל ערך כאשר ארגונים זקוקים לתבניות עקביות עם התנהגות מסמך משופרת לפלטים מובנים.
+
+באמצעות API‑ים של Python, ניתן לשלב המרה זו בצינורות אוטומטיים שמייצרים קבצים מוכנים לתבנית ממקורות TSV, מה שמסייע לשיפור תקן המסמכים ויעילות התהליכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות עם מקרו**  
+  תומך ביצירת תבניות מסמכים מתקדמות שניתן להשתמש בהן מחדש מתוכן TSV.
+
+* **אחידות פלט מובנה**  
+  מסייע לשמור על דפוסי מסמכים אחידים במקרים עסקיים חוזרים.
+
+* **פרסום נתונים מבוסס תבנית**  
+  מאפשר למערכי נתונים מובנים להזין תהליכי יצירת מסמכים מבוקרים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבניות חוזרת**  
+  אוטומציה יכולה ליצור פלטים מוכנים ל‑DOTM מייצואי TSV מתוזמנים.
+
+* **תהליכי עבודה מתקדמי מסמכים**  
+  ממשקי API של Python יכולים לשלב שינוי נתונים עם מערכות תבניות תומכות במקרו.
+
+* **משימות המרה ניתנות להרחבה**  
+  קבצי TSV בכמות גדולה יכולים להיות מומרי ל‑DOTM כחלק מפעולות אוטומטיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

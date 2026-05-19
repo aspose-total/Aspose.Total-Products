@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MBOX-t hozzáadni PCL-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Az MBOX‑ról PCL‑re konverzió a postafiók-archívumokat nyomtatóvezérlő nyelvi kimenetté alakítja, így az e‑mail tartalom alkalmas lesz nyomtatásra optimalizált rendszerekhez és eszközközpontú munkafolyamatokhoz. Ez akkor hasznos, amikor az archivált üzeneteket közvetlenül szabályozott nyomtatási környezetbe kell továbbítani.
+
+Python API‑k használatával a csapatok automatizálhatják az mailbox‑ról PCL‑re konverziót, támogatva a nyomtatási sorokat, a nagy mennyiségű dokumentumkezelést és az vállalati kimeneti rendszerek integrációját.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Nyomtatásra orientált e‑mail export**
+  Üzenetek konvertálása PCL fájlokká a nyomtatásra kész feldolgozáshoz.
+
+* **Eszközmunkafolyamat-kompatibilitás**
+  A postafiók tartalmának előkészítése olyan rendszerekhez, amelyek a szabályozott nyomtatási kimenetre épülnek.
+
+* **Működési nyomtatási archiválás**
+  Az e‑mail rekordok megőrzése olyan formátumokban, amelyek összhangban vannak a gyártási nyomtatási munkafolyamatokkal.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált nyomtatási sor generálás**
+  Postafiók-archívumok átalakítása PCL kimenetekké ütemezett nyomtatási munkafolyamatokhoz.
+
+* **Vállalati kimeneti integráció**
+  A konvertált e‑mail fájlok irányítása eszközkezelő és nyomtatási feldolgozó rendszerekbe.
+
+* **Nagy mennyiségű dokumentum renderelés**
+  Python használata a postafiók konverzió skálázásához nyomtatás‑intenzív működési környezetekben.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

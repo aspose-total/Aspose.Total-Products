@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál MSG-t hozzáadni TEXT-konverziós fu
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A MSG‑TEXT átalakítás kinyeri az e‑mail üzenet tartalmát egyszerű szövegként a könnyű tárolás, keresés és feldolgozás érdekében. Akkor értékes, amikor a tiszta tartalom elérése fontosabb a formázásnál, és amikor könnyűsúlyú kimenetre van szükség a indexeléshez vagy elemzéshez.
+
+Automatizálás esetén a MSG‑TEXT munkafolyamatok támogatják a szövegbányászatot, keresőcsővezetékeket és a normalizált tartalombevitelt. Segítenek a kommunikációs adatokat egy minimális, gépbarát formátumba konvertálni, amely alkalmas a skálázható feldolgozásra.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Egyszerű szöveg kinyerése**  
+  Az e‑mail tartalom elkülönítése a könnyű olvasás, tárolás vagy további elemzés érdekében.
+
+* **Keresés és indexelés támogatása**  
+  Az üzenet szövegének előkészítése a katalogizálási és visszakeresési munkafolyamatokhoz.
+
+* **Könnyűsúlyú adatfeldolgozás**  
+  Egyszerűsített kimenet használata olyan csővezetékekben, amelyek nem igénylik a formázás megőrzését.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Tartalombeviteli csővezetékek**  
+  MSG fájlok átalakítása egyszerű szöveggé indexelési és osztályozási rendszerekhez.
+
+* **Szövegelemzési munkafolyamatok**  
+  A kinyert üzenettartalom betáplálása automatizált elemzési vagy felügyeleti folyamatokba.
+
+* **Normalizált archívum létrehozása**  
+  A kommunikációs rekordok tárolása kompakt szövegformában a skálázható megőrzés érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑MHTML ממירה את תוכן תבנית Word לפורמט ארכיון אינטרנטי המשלב טקסט, פריסה ומשאבים מקושרים בקובץ יחיד. היא שימושית לשימור מראה המסמך במבנה ידידותי לדפדפן ובלתי תלוי.
+
+המרה זו תומכת באוטומציה על‑ידי אפשרות יצירת מסמכי אינטרנט ניידים הניתנים לצפייה באמצעות Python, שניתן לארכוב, לשתף או לשלב בתהליכי עבודה דיגיטליים מבלי להסתמך על כלי העריכה המקוריים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **ארכיון תואם לדפדפן**
+  שימור תוכן המסמך בפורמט קובץ יחיד ידידותי לדפדפן.
+
+* **שיתוף בלתי תלוי**
+  אריזת טקסט ומשאבים יחד להקלת ההעברה והאחסון.
+
+* **שימור פריסה**
+  שמירת הצגת המסמך במבנה ארכיון אינטרנט נייד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ארכיון אינטרנט אוטומטית**
+  המרת תבניות DOTX לקבצי MHTML כחלק מצינורות פרסום או שמירת נתונים.
+
+* **הפצת תוכן נייד**
+  הפצת פלטי מסמכים הניתנים לצפייה באינטרנט במערכות תקשורת אוטומטיות.
+
+* **תקנון ארכיון**
+  נרמול תוכן מבוסס תבניות לקבצים בלתי תלויים לשמירה בקנה מידה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

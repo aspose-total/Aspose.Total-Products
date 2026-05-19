@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת PST ל‑PCL ב‑APIs של Python ממירה את תוכן תיבת הדואר לשפת שליטה של מדפסת עבור זרימות עבודה ממוקדות הדפסה וייצור פלט מוכן למכשיר. זה שימושי כאשר יש צורך להמיר תוכן דוא"ל משוכנע להדפסה ישירה, זרימות עבודה חומרתיות, או אינטגרציה של צינור הדפסה.
+
+לצורך אוטומציה, המרת PST ל‑PCL תומכת בעיבוד הדפסה בקנה מידה גדול ועוזרת לחבר ארכיוני תיבות דואר עם סביבות תפעוליות שתלויות בפורמטים תואמי מדפסת. זה משפר את היעילות במערכות פלט מבוקרות ומערכות אספקת מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **פלט מוכן למדפסת**
+  ממיר את תוכן ה‑PST ל‑PCL עבור זרימות עבודה ממוקדות הדפסה ישירה.
+
+* **תמיכה בזרימת עבודה חומרתית**
+  עוזר לשלב רשומות שמקורן בתיבת הדואר עם מערכות פלט תלויות במכשיר.
+
+* **הדפסת מסמכים תפעוליים**
+  תומך בייצוג מודפס עקבי של הודעות ותוכן משוכנעים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **עיבוד תור הדפסה אוטומטי**
+  מערכות יכולות להמיר ארכיוני PST ל‑PCL עבור פעולות הדפסה יעילות.
+
+* **צינורות אינטגרציה של מכשירים**
+  פלט מומר יכול לעבור ישירות לסביבות ממוקדות מדפסת באופן תכנותי.
+
+* **הדפסת רשומות בכמות גדולה**
+  המרה תכנותית תומכת בהכנת הדפסה בכמות גבוהה מתוכן תיבת הדואר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

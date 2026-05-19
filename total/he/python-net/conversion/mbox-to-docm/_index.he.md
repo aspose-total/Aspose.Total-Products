@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑DOCM ממירה ארכיוני תיבות דואר למסמכי Word עם מקרו, ומאפשרת לשמר את תוכן האימייל בפורמט שיכול לתמוך בתהליכי עבודה מתקדמים של מסמכים. זה מועיל כאשר הקבצים המומרים חייבים להישאר תואמים למערכות מסמכים המתבססות על אוטומציה משובצת או לוגיקה מותאמת.
+
+באמצעות API של Python, צוותים יכולים לאוטומט את המרת MBOX ל‑DOCM כדי לייעל את עיבוד ארכיוני הדואר, לתמוך בתהליכי עבודה מבוססי תבניות, וליצור פלטים מובנים לפעולות ממוקדות מסמכים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תהליכי עבודה של מסמכים עם מקרו**
+  ייצוא תוכן האימייל לקבצי DOCM עבור מערכות המשתמשות בהתנהגות מסמכים אוטומטית.
+
+* **שימוש חוזר במבנה תוכן הדואר**
+  שמירת הודעות בפורמט המתאים לעריכה מתקדמת ולעיבוד מבוקר.
+
+* **אריזת מסמכים תפעולית**
+  הכנת קבצים שמקורם באימייל לסביבות המבוססות על תכונות האוטומציה של Word.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **ייצוא דואר מבוסס תבנית**
+  המרת רשומות תיבת הדואר לפלטי DOCM המתואמים עם תהליכי עבודה פנימיים של מסמכים.
+
+* **עיבוד משרדי אוטומטי**
+  הזנת מסמכי האימייל המומרים לתוך צינורות ביקורת ועיצוב מתוכנתים.
+
+* **המרת ארכיון בקנה מידה**
+  שימוש ב‑Python כדי לבצע המרה קבוצתית של תוכן MBOX לנכסי מסמכים עם מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

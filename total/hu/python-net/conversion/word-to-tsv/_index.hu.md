@@ -65,7 +65,47 @@ Főleg két lépésben. Először is használja az [Aspose.Words for Python via 
 
 </div></div>
 </div></div>
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Word-TSV átalakítás Python API-k használatával a szövegszerkesztő tartalmat tabulátorral elválasztott értékekké (TSV) konvertálja, strukturált szöveges adatcseréhez. Ez hasznos, amikor a dokumentumból származó információkat egyszerű, hordozható formátumban kell exportálni, amely megőrzi a szeparációt anélkül, hogy vesszőkre támaszkodna.
+
+Automatizálási helyzetekben a TSV átalakítás skálázható adatkezelést támogat, különösen akkor, ha a tabulátorral elválasztott kimenetek előnyben részesülnek importálás, szkriptelés vagy a strukturált egyszerű szöveget feldolgozó rendszerek közötti interoperabilitás esetén.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Strukturált szöveg exportálás**
+  A dokumentum tartalmát tabulátorral elválasztott kimenetté konvertálja a tiszta adatcsere érdekében.
+
+* **Adatimport előkészítés**
+  Megkönnyíti a kinyert információ betöltését olyan eszközökbe, amelyek támogatják a TSV bemenetet.
+
+* **Szkriptbarát feldolgozás**
+  Könnyű szövegalapú munkafolyamatokat támogat a feldolgozáshoz és átalakításhoz.
+
+* **Alternatíva a vesszővel történő elválasztásra**
+  Segít megőrizni a tisztaságot, ha az exportált értékek vesszőket tartalmazhatnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált elválasztott fájl létrehozása**
+  TSV kimeneteket generál Word fájlokból rutin import és feldolgozási feladatokhoz.
+
+* **Kötegelt adatkinyerés**
+  Dokumentumgyűjteményeket konvertál strukturált, tabulátorral elválasztott fájlokká nagy léptékben.
+
+* **Csővezeték-barát adatcsere**
+  TSV kimeneteket használ szkriptekben, validációs rutinokban és downstream automatizálásban.
+
+* **Archívum modernizációs munkafolyamatok**
+  Átalakítja a régi dokumentum tartalmat hozzáférhető, strukturált szöveggé a szélesebb körű újrahasználhatóság érdekében.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 <style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
 <div class="col-md-12 tl bg-gray-dark howtolist section">
   <a class="anchor" name="faqpage"></a>

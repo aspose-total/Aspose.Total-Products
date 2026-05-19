@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑CSV ממירה מסמכי עיבוד תמלילים עם מקרו למסמכים פשוטים, מובנים בפורמט ערכים מופרדים בפסיקים, שקל יותר לחלץ, לנתח ולשימוש חוזר במערכות דיווח ותפעול. זה בעל ערך כאשר טקסט, טבלאות או תוכן חוזר מקבצי DOCM צריכים להיות מתוקננים לעיבוד במערכות המשך.
+
+בסביבות המתמקדות באוטומציה, זרימות עבודה של DOCM ל‑CSV מסייעות להמיר תוכן מסמכים חצי‑מובנה למערכי נתונים קלים המשמשים לקליטה, אימות, סינכרון והחלפת נתונים בקנה מידה בין כלי עסקים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **חילוץ נתונים טבלאיים**
+  ממירה טבלאות בתוך קבצי DOCM לשורות ועמודות מובנות לניתוח ושימוש חוזר קלים יותר.
+
+* **צינורות דיווח**
+  מכינה נתונים מבוססי מסמך לדוחות עסקיים, לוחות מחוונים וייצוא מתוזמן.
+
+* **תאימות מערכתית**
+  מאפשרת העברה פשוטה של תוכן המסמך לכלים המקבלים קלט טקסט מופרד.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **עיבוד מסמכים במאצ'**
+  מממשת אוטומטית המרה של אוספי DOCM גדולים לפלטי CSV עבור זרימות עבודה חוזרות של נתונים.
+
+* **הכנת ETL**
+  תומכת בצינורות חילוץ‑המרה‑טעינה (ETL) על ידי הפיכת תוכן המסמך לרשומות קריאות למכונה.
+
+* **אימות וארכוב**
+  מסייעת ביצירת ייצוא מנורמל שניתן לבדוק, לאנדקס ולאחסן באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

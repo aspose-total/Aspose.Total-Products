@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOT to Images conversion renders document templates into visual formats that are easy to preview, share, and embed in digital workflows. This is valuable when the original editable document must be distributed as a static visual asset.
+
+Python APIs enable automated rendering of DOT files into image outputs, helping organizations support previews, archiving, content publishing, and document review processes at scale.
+
+{{% blocks/products/pf/agp/feature-section-col title="Ключові випадки використання" %}}
+
+* **Візуальні попередні перегляди документів**
+  Перетворюйте шаблони DOT у зображення для швидкої перевірки та перегляду в браузері.
+
+* **Статичне поширення контенту**
+  Розповсюджуйте вміст документу у вигляді незмінних файлів зображень для контрольованої презентації.
+
+* **Підтримка публікації**
+  Використовуйте згенеровані результати у порталах, звітах та системах доставки контенту.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Сценарії автоматизації" %}}
+
+* **Створення мініатюр та попередніх переглядів**
+  Python‑робочі процеси можуть автоматично створювати зображення документів для індексації та систем відображення.
+
+* **Конвеєри публікації контенту**
+  Конвертація підтримує автоматичну підготовку візуальних ресурсів з повторно використовуваних шаблонів.
+
+* **Масові операції рендерингу**
+  Програмні процеси можуть послідовно генерувати зображення з великих колекцій шаблонів.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

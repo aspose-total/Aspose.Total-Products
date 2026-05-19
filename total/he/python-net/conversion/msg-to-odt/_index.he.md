@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MSG ל‑ODT משנה קבצי הודעות דוא"ל לפורמט טקסט של מסמך פתוח לטיפול במסמכים ניתנים לעריכה, מבוססי תקנים. היא שימושית כאשר ארגונים זקוקים לגישה גמישה למסמכים ולתאימות בסביבות פרודוקטיביות פתוחות.
+
+במסגרות עבודה של אוטומציה, המרת MSG ל‑ODT תומכת באחידות מסמכים, יצירת ארכיונים ניתנים לעריכה, ובשילוב עם מערכות עיבוד מסמכים פתוחות. היא מאפשרת ניהול מסמכים בר‑קנה מידה ונייד ממקורות דוא"ל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תיעוד תקן פתוח**  
+  שמור את תוכן הדוא"ל בפורמט ניתנת לעריכה המבוסס על תקני מסמכים פתוחים.
+
+* **עריכה חוצת פלטפורמות**  
+  שתף קבצים מומרות במערכות התומכות במסמכי טקסט פתוחים.
+
+* **ניהול רשומות נגיש**  
+  אחסן תוכן שמקורו בהודעות בצורה גמישה וניידת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרה אוטומטית לפורמט פתוח**  
+  המר קבצי MSG למסמכי ODT לעיבוד תקני.
+
+* **זרימות עבודה של ארכיון ניתנת לעריכה**  
+  בנה מאגרי מידע ניתנים לחיפוש ולעריכה מתקשורת דוא"ל.
+
+* **צינורות אינטראופרביליות של מסמכים**  
+  העבר קבצים מומרות דרך מערכות שמעדיפות פורמטים פתוחים וניידות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

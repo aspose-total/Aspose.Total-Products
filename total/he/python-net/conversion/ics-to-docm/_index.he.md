@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת קבצי ICS ל‑DOCM באמצעות ממשקי Python משנה נתוני אירועי לוח שנה למסמכי Word עם תמיכה במקרו. זה מאפשר לשלב מידע תזמון במסמכים התומכים באוטומציה מתקדמת דרך מקרו משובצים.
+
+אוטומציה של המרה זו עם Python מסייעת לארגונים לשלב נתוני לוח שנה בעבודות זרימת עבודה מונעות מקרו, ומאפשרת ללוחות אירועים להפעיל אוטומציה של מסמכים או תהליכי דיווח.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות מסמכים אוטומטיות**  
+  הטמע נתוני לוח שנה במסמכים עם מקרו לצורך דיווח אוטומטי.
+
+* **אינטגרציית זרימת עבודה**  
+  השתמש במידע אירוע בתוך מסמכים שמפעילים תהליכים אוטומטיים.
+
+* **דיווח מתקדם**  
+  שלב לוחות זמנים של לוח שנה עם ניתוח או עיצוב מונעי מקרו.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **מערכות דיווח מונעות מקרו**  
+  צור קבצי DOCM באופן אוטומטי מלוחות זמנים של ICS.
+
+* **צינורות אוטומציית מסמכים**  
+  שלב נתוני אירועים עם זרימות עבודה של מקרו לעדכוני מסמכים אוטומטיים.
+
+* **כלי תזמון ארגוניים**  
+  המר נתוני לוח שנה לדוחות עם מקרו בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

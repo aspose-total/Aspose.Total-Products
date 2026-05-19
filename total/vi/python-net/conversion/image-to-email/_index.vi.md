@@ -46,7 +46,53 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+Việc chuyển đổi hình ảnh sang email bằng các API Python cho phép các đội ngũ chuyển đổi nội dung trực quan như tài liệu đã quét, ảnh chụp màn hình, biểu mẫu và đồ họa thành các tài sản sẵn sàng gửi email, có thể được phân phối, lưu trữ hoặc định tuyến qua các quy trình giao tiếp kỹ thuật số. Điều này có giá trị đối với các tổ chức cần chuyển đổi thông tin dựa trên hình ảnh thành giao tiếp đầu ra có cấu trúc mà không cần tái tạo thủ công.
+
+Trong môi trường tập trung vào tự động hoá, việc chuyển đổi này hỗ trợ việc tạo thông báo nhanh hơn, chia sẻ tài liệu được tinh giản và các đường ống giao tiếp có khả năng mở rộng. Nó giúp các hệ thống hiện đại di chuyển thông tin trực quan vào các kênh email một cách hiệu quả, nâng cao tính nhất quán, khả năng phản hồi và năng suất vận hành.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Giao báo cáo trực quan**
+  Chuyển đổi biểu đồ, bảng điều khiển hoặc báo cáo đã ghi lại thành nội dung sẵn sàng gửi email để phân phối kịp thời.
+
+* **Chia sẻ tài liệu đã quét**
+  Biến các thư, biểu mẫu hoặc thông báo đã quét thành tin nhắn email có thể được xem xét và gửi nhanh chóng.
+
+* **Chuẩn bị giao tiếp khách hàng**
+  Sử dụng nội dung dựa trên hình ảnh để tạo email có cấu trúc cho các cập nhật dịch vụ, xác nhận hoặc theo dõi.
+
+* **Thông báo quy trình nội bộ**
+  Chuyển đổi ảnh chụp màn hình hoạt động hoặc bằng chứng hình ảnh thành giao tiếp email cho các đội ngũ nội bộ.
+
+* **Lưu trữ thư từ kỹ thuật số**
+  Chuẩn bị nội dung email xuất phát từ hình ảnh để lưu trữ trong các hệ thống theo dõi lịch sử giao tiếp.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Phân phối cảnh báo tự động**
+  Hệ thống có thể chuyển đổi các hình ảnh được tạo thành nội dung email và gửi cập nhật mà không cần định dạng thủ công.
+
+* **Đường ống tiếp nhận tài liệu**
+  Các tệp quét đến có thể được chuyển đổi thành tin nhắn sẵn sàng gửi email để xem xét, định tuyến hoặc phê duyệt.
+
+* **Quy trình báo cáo định kỳ**
+  Các báo cáo trực quan định kỳ có thể được chuyển đổi thành email và phân phối tự động tới các bên liên quan.
+
+* **Tự động hoá dịch vụ khách hàng**
+  Các nền tảng hỗ trợ có thể đính kèm hoặc nhúng bằng chứng dựa trên hình ảnh vào các tin nhắn gửi đi có cấu trúc.
+
+* **Quy trình giao tiếp tuân thủ**
+  Các hồ sơ dựa trên hình ảnh có thể được chuyển đổi thành đầu ra email tiêu chuẩn để xử lý giao tiếp có thể truy xuất.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

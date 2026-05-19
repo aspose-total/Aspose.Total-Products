@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTX ל‑MBOX משנה את תוכן תבנית Word לפורמט ארכיון דוא"ל ממוקד תיבת דואר המשמש לאחסון אוספים של הודעות. היא שימושית כאשר יש צורך לשמר תקשורת שנוצרה מתבניות בכמות גדולה לצורכי שמירה או תהליכי הגירה.
+
+באמצעות ממשקי API של Python, המרה זו מסייעת לאוטומציה של אריזת הודעות, פעולות ארכיון ותהליכי אחסון ארוכי טווח שבהם תוכן מסמכים מובנה הופך לחלק מרשומות מבוססות דוא"ל.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים של שימוש" %}}
+
+* **ארכוב הודעות גורפות**
+  המרת תקשורת מונחית תבנית לפורמטים של אחסון בסגנון תיבת דואר.
+
+* **ניהול אוסף דוא"ל**
+  שימור הודעות מרובות שנוצרו במבנה ארכיון יחיד.
+
+* **הכנת הגירה**
+  תמיכה בתהליכים המעבירים תקשורת שמקורה במסמכים לארכיוני דוא"ל.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת ארכיון אוטומטית**
+  יצירת פלטי MBOX מתוכן דוא"ל מבוסס DOTX בעבודות מתוזמנות.
+
+* **תהליכי שמירה**
+  אחסון תקשורת מומרת בארכיונים מרכזיים למטרות ממשל.
+
+* **איחוד מסמך-לדוא"ל**
+  אריזת פלטי תבנית חוזרים לאוספי תיבות דואר באופן תכנותי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

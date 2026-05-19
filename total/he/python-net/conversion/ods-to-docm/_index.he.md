@@ -104,7 +104,47 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODS ל‑DOCM ממירה קבצי גיליון אלקטרוני למסמכי עיבוד תמלילים עם מקרו. זה מאפשר לשלב נתוני גיליון אלקטרוני בתוך מסמכים התומכים בתסריטים אוטומטיים ובתכונות מתקדמות של מסמכים.
+
+עם ממשקי API של Python, ניתן לשלב המרת ODS ל‑DOCM במערכות אוטומטיות שמייצרות תיעוד עם מקרו. זה מאפשר עיבוד מסמכים דינמי, המרות בקנה מידה גדול, ושילוב בסביבות אוטומציה ארגוניות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת מסמך עם מקרו**  
+  המרת תוכן גיליון אלקטרוני למסמכים שיכולים לתמוך במקרו של אוטומציה.
+
+* **תבניות מסמכים אוטומטיות**  
+  המרת נתונים מבוססי גיליון אלקטרוני לתהליכי עבודה של מסמכים מונעי מקרו.
+
+* **תיעוד מונע נתונים**  
+  שילוב מערכי נתונים של גיליון אלקטרוני בדוחות עם תמיכה במקרו.
+
+* **עיבוד מסמכים מתקדם**  
+  תמיכה במשימות אוטומטיות המוטמעות במסמכים שנוצרו ממקורות גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **מסמכי זרימת עבודה אוטומטיים**  
+  מערכות מייצרות קבצי DOCM מגיליונות אלקטרוניים לעיבוד מונע מקרו.
+
+* **אוטומציית דיווח ארגונית**  
+  נתונים מגיליונות אלקטרוניים מומרצים למסמכים עם מקרו לניתוח אוטומטי.
+
+* **יצירת מסמכים דינאמיים**  
+  צינורות Python יוצרים תיעוד עם מקרו בהתבסס על קלטי גיליון אלקטרוני.
+
+* **עיבוד מסמכי מקרו במצב אצווה**  
+  שירותים אוטומטיים ממירים קבוצות גדולות של קבצי ODS למסמכי DOCM.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת מסמך ל‑FODS ממירה תוכן Word לפורמט גלוי של גיליון אלקטרוני XML של OpenDocument, המתאים היטב לתהליכי עבודה פתוחים, אינטרופרטיביות ואחסון נתונים שקוף. היא שימושית לארגונים המעדיפים חילופי גיליונות אלקטרוניים מבוססי XML.
+
+אוטומציה של API ב‑Python להמרת DOC ל‑FODS תומכת בצינוריות פורמט פתוח בקנה מידה, מצמצמת תלות בעיבוד ידני, ועוזרת לשלב מסמכים במערכות נתונים מובנות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תהליכי עבודה של גיליון אלקטרוני פתוח**
+  המרת תוכן המסמך ל‑FODS לטיפול בגיליונות אלקטרוניים מבוססי תקנים.
+
+* **החלפת נתונים מבוססת XML**
+  שמירת הטבלאות המופקות במבנה גלוי של גיליון אלקטרוני XML קריא.
+
+* **דיווח אינטרופרטיבי**
+  תמיכה בהמרת מסמך‑לגיליון אלקטרוני כאשר פורמטים פתוחים מועדפים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אוטומציה של פורמט פתוח**
+  המרה אוטומטית של קבצי DOC ל‑FODS לתהליכי עבודה של נתונים אינטרופרטיביים.
+
+* **ייצוא ידידותי לסכימה**
+  שימוש בהמרה תכנותית ליצירת גיליונות אלקטרוניים XML גלויים מתוכן המסמך.
+
+* **צינוריות דיווח באצוות**
+  המרת דוחות מסמך חוזרים ל‑FODS לשילוב ואוטומציית אחסון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

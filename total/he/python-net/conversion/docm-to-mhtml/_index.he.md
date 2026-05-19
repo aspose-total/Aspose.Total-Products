@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑MHTML ממירה מסמכים עם מקרו לקובץ אינטרנטי יחיד מוכן לשימוש, המשלב סימון ומשאבים מקושרים בחבילה ניידת אחת. היא שימושית כאשר יש צורך לצפות במידע המסמך, לארכוב אותו או להעבירו בפורמט ידידותי לדפדפן.
+
+בסביבות אוטומטיות, המרת DOCM ל‑MHTML תומכת בפרסום נייד, הצגה בטוחה במייל, ואחסון מפושט של ייצוגי מסמכים עצמאיים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ייצוג אינטרנטי בקובץ יחיד**
+  ממירה מסמכים לקבצים אינטרנטיים עצמאיים להפצה קלה.
+
+* **ארכיון נייד**
+  שומרת על תוכן מעוצב והמשאבים הקשורים יחד בפלט אחד.
+
+* **גישה ידידותית לדפדפן**
+  הופכת את תוכן המסמך לקל יותר לצפייה ללא צורך בתוכנת עריכה מלאה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אריזת אינטרנט אוטומטית**
+  מייצרת קבצי MHTML ממקורות DOCM לתהליכי פרסום קלים.
+
+* **צינורות אספקת מסמכים**
+  תומכת בשליחת תוכן מעוצב בפורמט קומפקטי ונייד.
+
+* **המרה קבוצתית לארכיונים**
+  יוצרת צילומי מסמכים עצמאיים באופן תכנותי בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

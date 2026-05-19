@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל-OFT משנה מסמכים עם מקרו לקבצי תבניות אימייל שניתן להשתמש בהם מחדש, מה שמקל על תקינה של תוכן מבוסס מסמכים עבור משימות תקשורת חוזרות. זה מועיל כאשר יש צורך ליצור הודעות עקביות ממקורות מסמכים שנכתבו.
+
+בזרימות עבודה של אוטומציה, המרת DOCM ל-OFT מאפשרת פנייה בתבנית, תקשורת מונעת תהליך, ושימוש חוזר בר‑קנה מידה בתוכן המסמכים במצבי הודעות חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **הודעות מבוססות תבנית**
+  ממיר את תוכן המסמך לתבניות אימייל שניתן להשתמש בהן מחדש לתקשורת תקנית.
+
+* **עקביות בתהליך**
+  עוזר לצוותים לשמור על מבנה אחיד במודעות יוצאות חוזרות.
+
+* **שימוש חוזר בתוכן**
+  ממחזר טקסט מסמך פורמלי בתבניות תקשורת ללא צורך בעיצוב ידני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת תבניות אוטומטית**
+  מייצר קבצי OFT ממסמכי DOCM עבור זרימות הודעות חוזרות.
+
+* **תקשורת מופעלת על ידי זרימת עבודה**
+  משתמש בתבניות שהומרו בתהליכי אישור, הודעה או תמיכה.
+
+* **הכנת הודעות בר‑קנה מידה**
+  מאפשר מילוי דינמי והפצה של תוכן מבוסס תבנית בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

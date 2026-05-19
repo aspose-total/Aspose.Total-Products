@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת XLTM ל‑DOC בפייתון מאפשרת שינוי של קבצי תבנית Excel עם מקרו למסמכי Word ניתנים לעריכה לצורך דיווח, תיעוד ושימוש חוזר בתוכן. זה מסייע לצוותים להמיר מידע מובנה מבוסס גיליון אלקטרוני לפורמט ידידותי לטקסט שקל יותר לסקור, לשתף ולאחסן.
+
+בסביבות אוטומטיות, המרת XLTM ל‑DOC תומכת ביצירת מסמכים בקנה מידה, מצמצמת מאמץ עיצוב ידני ומשפרת את האינטראופרטיביות בין תהליכים מונעי‑גיליון אלקטרוני לבין זרימות עבודה מבוססות מסמך.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **יצירת טיוטת דוח**  
+  ממיר תוכן גיליון אלקטרוני מבוסס תבנית לטיוטות Word ניתנות לעריכה עבור דיווח עסקי ותפעולי.
+
+* **שימוש חוזר בתוכן**  
+  מסייע במימוש חוזר של נתוני תבנית Excel מובנים בפורמטים של מסמכי נרטיב לצרכי תקשורת רחבים יותר.
+
+* **תהליכי תיעוד**  
+  תומך ביצירת מסמכי ייחוס מרשומות מונעות גיליון אלקטרוני ותוכן תבנית מעוצב.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכים מתוזמנת**  
+  מממשת אוטומטית את ייצור קבצי DOC מתבניות XLTM חוזרות המשמשות במחזורי דיווח פנימיים.
+
+* **צינורות תבנית-למסמך**  
+  מחבר תבניות גיליון אלקטרוני עם תהליכי תיעוד כדי לייעל תהליכי פרסום מרובי פורמטים.
+
+* **עיבוד קבצים במקבץ**  
+  מאפשר המרה בכמויות גדולות של קבצי XLTM לפורמט DOC לצורכי ארכיב, סקירה או עריכה נוספת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

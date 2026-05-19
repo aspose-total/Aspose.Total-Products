@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál WORDML-t hozzáadni ICS-konverziós 
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A WordML‑ról‑ICS konverzió a dokumentuminformációkat naptár‑kompatibilis adatokra alakítja, amelyek támogatják a ütemezést, emlékeztetőket és eseményalapú munkafolyamatokat. Ez akkor hasznos, amikor a dokumentumokban tárolt megbeszélés részleteket, ütemterveket vagy napirendi pontokat naptárbejegyzésekké kell átalakítani.
+
+Python API‑k használatával a WordML‑ról‑ICS konverzió automatizálható, hogy kinyerje az eseményinformációkat, és újrahasználható naptárfájlokat generáljon ütemezési rendszerek és időalapú folyamatautomatizálás számára.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Eseménykinyerés**
+  Átalakítja a WordML fájlokban található ütemezéssel kapcsolatos tartalmat naptárkész, ICS adatokká.
+
+* **Találkozó munkafolyamat támogatása**
+  Átalakítja a napirendeket vagy tervezési dokumentumokat importálható eseményrekordokká.
+
+* **Naptárak közötti interoperabilitás**
+  Lehetővé teszi, hogy a dokumentumtartalom szabványos formátum használatával áthelyezhető legyen ütemezési platformokra.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált naptárfájl‑generálás**
+  ICS fájlokat hoz létre WordML‑es találkozó‑ vagy eseménydokumentumokból ismétlődő munkafolyamatokban.
+
+* **Ütemezés szinkronizálása**
+  Integrálja a dokumentumalapú esemény részleteket a naptár import csatornákba.
+
+* **Emlékeztető és tervezés automatizálása**
+  Támogatja a programozott, időhöz kötött rekordok létrehozását strukturált dokumentumtartalomból.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

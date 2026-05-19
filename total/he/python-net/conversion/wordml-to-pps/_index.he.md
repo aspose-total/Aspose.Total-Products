@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑PPS ממירה את תוכן המסמך לקבצי מצגת שקופיות המיועדים לצפייה ישירה. זה שימושי כאשר חומר מבוסס מסמך צריך להימסר כמצגת מוכנה להפעלה במקום חבילה שניתנת לעריכה.
+
+ממשקי API של Python מסייעים לאוטומציה של המרת WordML ל‑PPS על‑ידי יצירת פלטים המיועדים למצגות, התומכים בהפצה יעילה ובזרימות עבודה מבוקרות של מצגות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **הפצת מצגת**
+  ממירה את תוכן ה‑WordML לקבצי PPS לצפייה מיידית במצגת.
+
+* **הפצה ללא עריכה**
+  תומכת בתרחישים שבהם תוכן המצגת צריך להיפתח במצב הצגה.
+
+* **פלט תדריך מבוסס מסמך**
+  ממירה חומר כתוב למצגות מוכנות להצגה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **פרסום מצגת אוטומטי**
+  מייצרת קבצי PPS מעדכונים ותדריכים חוזרים של מסמכים.
+
+* **צינורות הפצת מצגות**
+  מספקת מצגות מוכנות לצפייה לבעלי עניין ללא הכנה ידנית.
+
+* **אוטומציה של תדריכי תפעול**
+  ממירה מסמכים מובנים לנכסי מצגת לתקשורת מתוזמנת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

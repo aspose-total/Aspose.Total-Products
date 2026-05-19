@@ -104,7 +104,41 @@ otherformats: PowerPoint PPT PPTX PPS POT PPSX PPTM PPSM POTX POTM
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑POTM ב‑Python מסייעת להמיר תוכן גיליון אלקטרוני לתבניות מצגות עם תמיכת מקרו עבור זרימות עבודה מתקדמות של אוטומציית שקופיות. זה שימושי כאשר מבני מצגות שניתן להשתמש בהם מחדש דורשים גם פעולות מתכנתות או תמיכה באוטומציה משולבת.
+
+המרה זו משפרת את הרלוונטיות של האוטומציה על‑ידי שילוב יצירת תבניות מונעת גיליון אלקטרוני עם יכולות מצגת עם מקרו.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **תבניות שקופיות עם מקרו**  
+  המרת נתוני Excel לקבצי POTM עבור מצגות שניתן להשתמש בהן מחדש ומוכנות לאוטומציה.
+
+* **זרימות עבודה מתקדמות של מצגות**  
+  תמיכה בקבצי תבנית שיכולים לכלול התנהגות מצגת מונעת לוגיקה או מסייעת.
+
+* **נכסי תקשורת מובנים**  
+  הכנת יסודות מצגת חוזרים על עצמם מתוכן מקור מבוסס גיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **צינורות אוטומציה של תבניות**  
+  יצירת קבצי POTM באופן תכנותי מקלטי Excel עבור ייצור שקופיות חוזר.
+
+* **מערכות מצגות אינטראקטיביות**  
+  הפעלת זרימות עבודה התלויות בתבניות שניתן להשתמש בהן מחדש עם תמיכת מקרו.
+
+* **הכנת מצגות בקנה מידה**  
+  שימוש ב‑APIs של Python כדי לאוטומט את יצירת תבניות שקופיות עם מקרו ממקורות נתונים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

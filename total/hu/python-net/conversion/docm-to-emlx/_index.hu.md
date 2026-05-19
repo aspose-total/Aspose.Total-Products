@@ -46,7 +46,41 @@ Egy Python fejlesztő számára ki próbál DOCM-t hozzáadni EMLX-konverziós f
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+A DOCM‑ról EMLX‑re konverzió makróval ellátott dokumentumokat alakít át e‑mail üzenetfájlokká, amelyeket bizonyos levélraktározási ökoszisztémák használnak, ezáltal segítve a tartalom megőrzését egy strukturált kommunikációs formátumban. Ez akkor hasznos, amikor a dokumentumtartalmat a platformspecifikus e‑mail munkafolyamatokhoz vagy archiválási követelményekhez kell igazítani.
+
+Automatizálási környezetekben a DOCM‑ról EMLX‑re konverzió lehetővé teszi a dokumentumalapú üzenettartalom rendszeres előállítását, szervezését és megőrzését a szabályozott kommunikációs környezetekben.
+
+{{% blocks/products/pf/agp/feature-section-col title="Kulcsfontosságú felhasználási esetek" %}}
+
+* **Platformspecifikus üzenetkimenet**
+  Üzenetfájlokat hoz létre, amelyek a EMLX tárolási struktúrákat használó környezetekhez vannak szabva.
+
+* **Dokumentumkommunikáció archiválása**
+  A dokumentumtartalmat e‑mail műtárgyként őrzi meg a megőrzés vagy felülvizsgálat céljából.
+
+* **Munkafolyamat‑kompatibilitás**
+  Támogatja azokat a rendszereket, amelyek üzenetfájl‑alapú befogadást igényelnek a nyers dokumentumbemenet helyett.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automatizálási forgatókönyvek" %}}
+
+* **Automatizált levélfájl‑generálás**
+  EMLX fájlokat állít elő DOCM forrásokból ismételhető feldolgozási rutinokban.
+
+* **Megőrzési munkafolyamat támogatása**
+  Segít a dokumentumból származó kommunikációk archiválásában strukturált levéltárakban.
+
+* **Kötegelt konverziós csővezetékek**
+  Skálázza a konverziót nagy DOCM fájlkészletek esetén, amelyek a kommunikációs munkafolyamatokon keresztül haladnak.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

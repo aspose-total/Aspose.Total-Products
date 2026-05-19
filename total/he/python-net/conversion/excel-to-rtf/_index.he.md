@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑RTF ב‑Python ממירה את תוכן הגיליון למסמכי טקסט עשיר המאזנים ניידות עם עיצוב שניתן לעריכה. זה שימושי כאשר יש צורך לשנות נתוני גיליון לפורמט ממוקד‑טקסט המשמר מבנה וקריאות.
+
+המרה זו תומכת באוטומציה על‑ידי אפשרות ליצירת זרימות עבודה קלות לייצור מסמכים שממירות נתוני גיליון לטקסט מעוצב שניתן לשתף.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ייצוא טקסט מעוצב**  
+  המרת נתוני Excel למסמכי RTF להפצה קריאה וניתנת לעריכה בפורמט טקסטואלי.
+
+* **תאימות חוצת עורכים**  
+  שימוש ב‑RTF כאשר פלטי המסמך דורשים תמיכה רחבה בסביבות עריכת טקסט שונות.
+
+* **שיתוף תוכן מובנה**  
+  המרת מידע גיליון לפורמט מסמך פשוט המתאים לבחינה ולשימוש חוזר.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **יצירת מסמכי טקסט אוטומטית**  
+  שימוש בממשקי API של Python ליצירת קבצי RTF מקלטי Excel בתוך זרימות עבודה של דיווח או ארכיון.
+
+* **צינורות מסמכים קלים**  
+  תמיכה במערכות הדורשות פלטי טקסט מעוצב ללא מורכבות מסמכים מלאה.
+
+* **המרת תוכן במאצ'**  
+  המרת אוספי גיליונות ל‑RTF באופן תכנותי למתן מהירות אספקה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

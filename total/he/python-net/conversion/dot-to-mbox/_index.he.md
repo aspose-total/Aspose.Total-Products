@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑MBOX ממירה תבניות מסמכים לפורמט אחסון בסגנון תיבת דואר המתאים לטיפול בהודעות דוא"ל מקובצות. זה שימושי כאשר יש צורך לאסוף את תוכן התבנית לארכיון דוא"ל או לתהליכי הגירה.
+
+באמצעות ממשקי API של Python, ארגונים יכולים לאוטומט את יצירת הפלטים התואמים ל‑MBOX מקבצי DOT, מה שמסייע לייעל אריזת הודעות והכנת ארכיונים.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **הכנת ארכיון תיבת דואר**
+  המרת תבניות תקשורת מבוססות DOT למבנים תואמי MBOX.
+
+* **אחסון הודעות מקובצות**
+  השתמש בפלט בפורמט תיבת דואר לאיסוף תקשורת מרובה מבוססת תבניות.
+
+* **תמיכה בתהליכי הגירה**
+  הכן תוכן מבוסס מסמכים להעברת ארכיון דוא"ל ותהליכי שמירה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **הרכבת ארכיון אוטומטית**
+  סקריפטים ב‑Python יכולים להמיר תוכן DOT לפלטים מוכנים ל‑MBOX לתהליכי שמירה.
+
+* **אריזת תקשורת בכמות גדולה**
+  ההמרה תומכת בקיבוץ תכנותי של הודעות שמקורן בתבניות לפורמטים של תיבת דואר.
+
+* **תמיכה במעבר דוא"ל בקנה מידה**
+  תהליכים דינמיים מסייעים להעביר תקשורת שנוצרה ממסמכים למבנים ידידותיים לארכיון.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

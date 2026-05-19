@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MBOX ל‑JPEG ממירה את תוכן תיבת הדואר לקבצי תמונה דחוסים הנתמכים ברוב הפלטפורמות, מה שמאפשר לאחסן, לשתף ולצפות בהודעות דוא"ל בקלות על פני מגוון רחב של מערכות. זה במיוחד שימושי לייצוא חזותי קל משקל שבו התאימות וגודל הקובץ הניתן לניהול הם חשובים.
+
+באמצעות ממשקי API של Python, צוותים יכולים לאוטומט את המרת MBOX ל‑JPEG כדי לזרז עיבוד תיבות דואר בקנה מידה גדול, להפחית עבודה ידנית של רינדור, ולתמוך בארכיון נייד מבוסס תמונות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **תמונות דוא"ל ניידות**
+  ייצא הודעות כקבצי JPEG לתאימות רחבה על פני מכשירים ומערכות.
+
+* **רשומות חזותיות חסכוניות באחסון**
+  שמר את מראה הדוא"ל בצורת תמונה דחוסה להפצה מעשית.
+
+* **נכסי תצוגה מקדימה מהירה**
+  צור חזותי תיבת דואר ללוחות מחוונים, דוחות או ממשקי ביקורת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **רינדור JPEG בכמות גדולה**
+  המרת באופן אוטומטי את תוכן ה‑MBOX לתמונות JPEG לגישה חזותית מהירה.
+
+* **צינורות דיווח ושיתוף**
+  שלב תמונות דוא"ל מרונדרות בתהליכי עבודה תפעוליים והצגתיים.
+
+* **ייצוא ארכיון תכנותי**
+  השתמש בסקריפטים של Python כדי ליצור פלטי תמונה ידידותיים לאחסון מארכיוני דואר גדולים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

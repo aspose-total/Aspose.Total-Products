@@ -102,7 +102,41 @@ otherformats: DOC DOCM DOCX DOT DOTM DOTX EMF EPUB FLATOPC MD ODT OTT PCL PDF PS
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת MSG ל‑DOT ממירה הודעות דוא"ל לקבצי תבניות של עיבוד תמלילים שיכולים לשמש כבסיסי מסמכים ניתנים לשימוש חוזר. זה מועיל כאשר יש צורך להפוך מבנים או פריסות שמקורם בדוא"ל לתבניות מסמכים חוזרות.
+
+במקרי שימוש של אוטומציה, המרת MSG ל‑DOT תומכת ביצירת מסמכים מבוססי תבניות ובתהליכי דיווח מתוקננים. היא מאפשרת לארגונים לבנות תוצרים חוזרים ממקורות תוכן דוא"ל חוזרים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת תבנית מתוכן דוא"ל**  
+  השתמשו בהודעות שהומרו כבסיס למבני מסמכים חוזרים.
+
+* **תיעוד מתוקנן**  
+  צרו תבניות אחידות לשימוש תפעולי או מנהלי חוזר.
+
+* **מסגרות תוכן ניתנות לשימוש חוזר**  
+  שמרו על פריסות הודעות ותבניות תוכן ליצירת מסמכים עתידית.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות יצירת תבניות**  
+  המרوا קבצי MSG לתבניות DOT למשימות יצירת מסמכים חוזרות.
+
+* **זרימות עבודה של דיווח חוזר**  
+  השתמשו בתבניות שמקורן בדוא"ל במערכות דיווח אוטומטיות או תיעוד מקרים.
+
+* **תקנון פורמט**  
+  בנו מבני מסמכים מבוקרים מתוכן תקשורת נכנסת.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

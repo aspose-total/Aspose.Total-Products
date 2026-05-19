@@ -46,7 +46,44 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+DOCX to VCF conversion transforms document-based contact information into digital contact card files used for address book and contact management systems. This process enables names, phone numbers, email addresses, and related contact fields to be extracted from documents into a portable standard format.
+
+Using Python APIs, DOCX-to-VCF conversion can be integrated into customer data workflows, contact migration pipelines, and automated communication systems. It supports scalable transformation of structured contact data from documents into reusable contact records.
+
+{{% blocks/products/pf/agp/feature-section-col title="Các trường hợp sử dụng chính" %}}
+
+* **Trích xuất dữ liệu liên hệ**  
+  Chuyển đổi thông tin liên hệ được lưu trong tệp DOCX thành các thẻ liên hệ kỹ thuật số di động.
+
+* **Di chuyển sổ địa chỉ**  
+  Cho phép danh sách liên hệ dựa trên tài liệu được nhập vào hệ thống quản lý liên hệ.
+
+* **Tái sử dụng thông tin khách hàng**  
+  Hỗ trợ việc chuyển đổi các bản ghi liên hệ có cấu trúc cho các quy trình giao tiếp.
+
+* **Tạo tệp liên hệ di động**  
+  Giúp phân phối và lưu trữ chi tiết liên hệ trong một định dạng được chấp nhận rộng rãi.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Kịch bản tự động hoá" %}}
+
+* **Tạo tệp liên hệ tự động**  
+  Hệ thống có thể trích xuất các trường liên hệ từ tệp DOCX và tự động tạo các bản ghi VCF.
+
+* **Pipeline di chuyển liên hệ hàng loạt**  
+  Các script Python có thể xử lý nhiều tài liệu thành các thẻ liên hệ kỹ thuật số.
+
+* **Tự động hoá CRM và giao tiếp**  
+  Dữ liệu liên hệ lấy từ tài liệu có thể được chuyển đổi thành tệp VCF cho các quy trình tiếp cận đồng bộ.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

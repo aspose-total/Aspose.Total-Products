@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOTM ל‑XLS ממירה תבניות Word עם מקרו לקבצי גיליון Excel קלאסיים לניתוח נתונים מובנה ולתאימות לגיליונות ישנים. זה שימושי כאשר יש צורך להשתמש במידע שמופק מהמסמך בסביבות גיליון ישנות.
+
+שימוש ב‑APIs של Python להמרת DOTM ל‑XLS משפר אוטומציה על ידי חילוץ תוכן מתבניות לקבצי גיליון ללא העתקה ידנית. זה תומך בדיווח בר‑קנה מידה, במיגור נתונים ובתהליכי עבודה עסקיים המתמקדים בתאימות.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **ייצוא גיליון אלקטרוני ישן**
+  המרת תוכן DOTM ל‑XLS עבור תהליכי עבודה שעדיין תלויים בפורמטים ישנים של Excel.
+
+* **המרת טבלאות מובנות**
+  העבר טבלאות מסמך וערכים חוזרים לצורת גיליון עבור ניתוח.
+
+* **שיתוף נתונים ממוקד תאימות**
+  אפשר החלפת נתונים שמופקים מהמסמך עם מערכות הדורשות קבצי גיליון קלאסיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת חוברת עבודה ישנה אוטומטית**
+  תהליכי עבודה יכולים ליצור קבצי XLS מתבניות DOTM לתאימות עם מערכות מבוססות.
+
+* **תמיכה בצינור דיווח**
+  ההמרה מסייעת לאוטומציה של העברת נתונים מובנים מהמסמך לגיליונות לצורך סקירה.
+
+* **עיבוד אצווה ממסמך לחוברת עבודה**
+  משימות תכנותיות תומכות בהמרה בקנה מידה גדול של קבצי DOTM לפלטי XLS.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -102,7 +102,41 @@ otherformats: EMAIL MSG PST OST OFT EML EMLX MBOX ICS VCF
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל-ICS משנה תוכן מסמכים עם מקרו לתוך נתונים תואמי לוח שנה, מה שמאפשר להשתמש מחדש בלוחות זמנים, פרטי אירועים או תוכן מבוסס תאריך בתהליכי תכנון. זה במיוחד מועיל כאשר מסמכים מכילים מידע אירוע מובנה שדורש נגישות רחבה יותר.
+
+מנקודת מבט של אוטומציה, המרת DOCM ל-ICS מחברת לוחות זמנים שנוצרו עם מערכות לוח שנה, ומאפשרת יצירת אירועים אוטומטית, סינכרון ותיאום תהליכי עבודה מבוססי זמן.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ לוח זמנים**
+  ממיר תוכן מסמך הקשור לאירועים לנתונים מוכנים ללוח שנה לשימוש בתכנון.
+
+* **פרסום פגישות ומועדי סיום**
+  מסייע להפיץ לוחות זמן שהוגדרו במסמך דרך קבצי לוח שנה תקניים.
+
+* **תזמון חוצת פלטפורמות**
+  תומך בניידות של מידע מבוסס תאריך לכלים תואמי לוח שנה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת אירוע אוטומטית**
+  מייצר קבצי ICS מתוכן DOCM המכיל פרטי פגישה או מועדי סיום.
+
+* **תהליכי סינכרון לוח שנה**
+  תומך בייבוא אוטומטי של לוחות זמנים שמקורם במסמך למערכות תכנון.
+
+* **תזמון אצווה חוזר**
+  ממיר מספר מסמכי תזמון לפלטי לוח שנה תקניים בקנה מידה גדול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

@@ -104,7 +104,41 @@ otherformats: PowerPoint PPSX PPTX PPT POT POTX POTM PPTM PPSM PPS ODP
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת WordML ל‑ODP ממירה את תוכן המסמך לקבצי מצגות OpenDocument לצורך סקירה ממוקדת מצגת, הפצה ושיתוף פעולה בפורמט פתוח. זה שימושי כאשר נרטיב או תוכן מובנה מהמסמכים צריך להיות משומש מחדש בתקשורת מבוססת שקופיות.
+
+ממשקי API של Python הופכים את המרת WordML ל‑ODP ליעילה על‑ידי זרימה מחודשת של תוכן לתוך מבני מצגת ותמיכה באוטומציה בקנה מידה של מסמך‑לשקופית.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **שימוש חוזר במצגות**
+  ממיר את תוכן המסמך לקבצי מצגות פתוחים לצורך מסירה חזותית.
+
+* **שיתוף פעולה בפורמט פתוח**
+  תומך בתהליכי עבודה של מצגות המבוססים על תקני מסמכים מתאימים.
+
+* **שימוש חוזר בתוכן מובנה**
+  מעביר חומר טקסטואלי ומבוסס מתווה מ‑WordML לצורת שקופיות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **יצירת חבילת שקופיות**
+  מממשת באופן אוטומטי יצירת מצגות ODP מדוחות, תזכירים או מתווים.
+
+* **צינורות פרסום תוכן**
+  משלב המרת מסמך למצגת בתהליכי הפצה.
+
+* **אוטומציה של מצגות מבוססת תקנים**
+  מאפשר יצירה בקנה מידה של שקופיות בפורמט פתוח ממקורות מובנים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

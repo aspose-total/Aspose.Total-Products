@@ -104,7 +104,47 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת ODT ל‑ODS ממירה את תוכן מסמך הטקסט לפורמט גיליון אלקטרוני של OpenDocument לניתוח מובנה, עריכה טבלאית וניהול נתונים. היא שימושית במיוחד כאשר יש צורך לחלץ מידע מהמסמך לשורות, עמודות ומבני גיליון אלקטרוני שניתן להשתמש בהם מחדש.
+
+עם ממשקי API של Python, המרת ODT ל‑ODS תומכת בניתוח מסמכים בקנה מידה, עיבוד בפורמט פתוח ושילוב עם ניתוחים או תהליכי עבודה תפעוליים. היא מאפשרת טיפול יעיל בתוכן טבלאי במערכות אוטומטיות.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **חילוץ גיליון אלקטרוני פתוח**  
+  מעביר טבלאות מבוססות מסמך לפורמט מוכן לגיליון אלקטרוני.
+
+* **סקירת נתונים ועריכה**  
+  הופך את התוכן המוחלץ לקל יותר לבדיקה ולשיפור.
+
+* **טיפול ברשומות מובנות**  
+  תומך בתהליכי עבודה תפעוליים המתבססים על נתוני שורות ועמודות.
+
+* **עיבוד נתונים מתואם**  
+  מסייע לחבר מאגרי מסמכים עם מערכות אקולוגיות של גיליונות אלקטרוניים פתוחים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תרחישי אוטומציה" %}}
+
+* **המרת טבלאות אוטומטית**  
+  תהליכי עבודה ב‑Python יכולים לחלץ חלקים מובנים מקבצי ODT לתוצרים בפורמט ODS.
+
+* **עיבוד פורמט פתוח במאצ'**  
+  ניתן להמיר מספר מסמכים לגיליונות אלקטרוניים בריצה אוטומטית אחת.
+
+* **צינורות הכנת נתונים**  
+  ניתן לאמת ולארגן את התוכן המוחלץ לפני ייצוא לגיליון אלקטרוני.
+
+* **תהליכי דיווח תפעוליים**  
+  קבצי ODS שהומרו יכולים להזין מערכות סקירה, תכנון או ביקורת באופן אוטומטי.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

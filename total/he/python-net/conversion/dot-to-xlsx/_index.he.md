@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑XLSX ממירה תבניות עיבוד תמלילים למחברות גיליון אלקטרוני מודרניות לניתוח, שיתוף ושמירה מובנית של רשומות. זה שימושי כאשר תוכן מבוסס מסמך צריך להפוך לפורמט רשת עריך לעריכה עבור זרימות עבודה עסקיות נוכחיות.
+
+ממשקי API של Python הופכים את המרת DOT ל‑XLSX ליעילה וניתנת לחזרה, ומסייעים לצוותים לאוטומט את הכנת הנתונים ולשפר אינטגרציה בין‑מערכתית.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים לשימוש" %}}
+
+* **ייצוא מחברת מודרנית**
+  המרת קבצי DOT ל‑XLSX לדיווח, סקירה ושיתוף פעולה בגיליונות אלקטרוניים.
+
+* **שימוש חוזר במידע מובנה**
+  העברת תוכן המסמך לגיליונות תומכים בסינון, נוסחאות וארגון.
+
+* **תאימות לזרימות עבודה עסקיות**
+  שיתוף מידע שמקורו בתבנית בפורמט גיליון אלקטרוני מודרני המשמש נרחבות בתפעול.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **יצירת גיליון אלקטרוני אוטומטית**
+  תהליכי עבודה ב‑Python יכולים ליצור קבצי XLSX מתבניות DOT לדיווח מתוזמן.
+
+* **צינורות אינטגרציית נתונים**
+  ההמרה מסייעת להזרים תוכן תבנית לניתוחים ולמערכות תפעוליות.
+
+* **ייצור מחברות בקנה מידה גדול**
+  עיבוד תכנותי תומך ביצירת פלטי XLSX בקנה מידה רחב ממסמכים רבים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

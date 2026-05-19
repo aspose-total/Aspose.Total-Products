@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת TSV ל-WordML ממירה נתונים טבלאיים מובנים לסימון מבוסס XML לעיבוד תמלילים המתאים ליצירת מסמכים, אינטרופרביליות, ולתהליכי עבודה של תוכן מובנה. היא חשובה כאשר מערכות זקוקות לפלט מסמכים ידידותי למכונה ועדיין תואם למקרי שימוש בעיבוד תמלילים.
+
+באמצעות API של פייתון, ניתן לאוטומט את המרת TSV ל-WordML כדי לתמוך בסביבות עם אינטגרציה מרובה, שינוי תוכן בקנה מידה, והרכבת מסמכים תכנותית ממקורות נתונים מובנים.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **יצירת מסמכים מבוססת XML**  
+  ממירה נתוני TSV לסימון מובנה המתאים לתהליכי עבודה של עיבוד תמלילים.
+
+* **החלפת תוכן אינטרופרבילית**  
+  תומכת בפלט מסמכים בסביבות המתבססות על ייצוגי XML מובנים.
+
+* **הרכבת מסמכים תכנותית**  
+  מסייעת להמרת נתוני טבלה גולמיים לפורמטים של מסמכים קריאים למכונה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **צינורות פלט מובנים**  
+  API של פייתון יכולים לייצר מסמכי WordML ממקורות TSV באופן אוטומטי.
+
+* **אינטגרציה מערכת-למערכת**  
+  אוטומציה מאפשרת תנועה חלקה של נתונים מובנים לתוך תהליכי עבודה של מסמכים מבוססי XML.
+
+* **המרת מסמכים בקנה מידה**  
+  קבוצות נתוני TSV גדולות יכולות להיות מומרות ל-WordML כחלק ממערכות עיבוד בעומס גבוה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

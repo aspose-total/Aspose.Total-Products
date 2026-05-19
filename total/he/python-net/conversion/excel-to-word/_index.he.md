@@ -104,7 +104,41 @@ otherformats: WORD DOC DOCX DOCM DOT DOTM DOTX MOBI ODT OTT RTF WORDML
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת Excel ל‑Word ב‑Python מאפשרת להפוך תוכן גיליון אלקטרוני למסמכי עיבוד תמלילים לקריאה, עריכה ותקשורת קלה יותר. זה בעל ערך כאשר יש צורך להתאים נתונים מובנים לתהליכי עבודה ממוקדי מסמך במקום ניתוח גיליונות.
+
+המרה זו תומכת באוטומציה על‑ידי מתן אפשרות למערכות מבוססות Python לייצר מסמכי Word ניתנים לעריכה מקבצי Excel בדיווח, תיעוד וצינורות אספקת תוכן.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרי שימוש מרכזיים" %}}
+
+* **מסמכי עסקים ניתנים לעריכה**  
+  המרת נתוני Excel לקבצי Word עבור דוחות, סיכומים ותיעוד תפעולי.
+
+* **המרת נתונים קריאים**  
+  הצגת תוכן גיליון אלקטרוני מובנה בפורמט שקל יותר לקהל שאינו טכני לעיין בו.
+
+* **פלטים ידידותיים לתהליכי עבודה**  
+  השתמשו בקבצי Word לאישור, שיתוף פעולה ותהליכי הפצה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **המרת דוחות אוטומטית**  
+  יצירת מסמכי Word מקבצי Excel כחלק מתהליכי עבודה חוזרים מבוססי Python.
+
+* **צינורות אספקת מסמכים**  
+  המרת גיליונות אלקטרוניים לפלטים ניתנים לעריכה לצוותים, לקוחות או מערכות ארכיון.
+
+* **הכנת תוכן בקנה מידה**  
+  השתמשו בהמרה תכנותית כדי לאחד יצירת מסמכים מנתונים טבלאיים.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

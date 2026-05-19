@@ -105,7 +105,41 @@ otherformats: {OTHERFORMATS}
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOT ל‑MHTML ממירה תבניות עיבוד תמלילים לקבצי ארכיון אינטרנט שמאגדים תוכן למשאב נייד יחיד. זה שימושי לשימור הפריסה, לשיתוף תוכן המסמך בפורמטים תואמי אינטרנט, ולהפשטה של הפצה עצמאית.
+
+ממשקי API של Python הופכים את המרת DOT ל‑MHTML למעשית בסביבות אוטומטיות שבהן יש צורך לפרסם, לארכב או להעביר מסמכים כקבצים קומפקטיים מוכנים לאינטרנט.
+
+{{% blocks/products/pf/agp/feature-section-col title="מקרים מרכזיים" %}}
+
+* **ייצוא ארכיון אינטרנט**
+  המרת קבצי DOT ל‑MHTML לשיתוף מסמכים נייד, ידידותי לדפדפן.
+
+* **שימור קובץ יחיד**
+  אחסון תוכן המסמך בפורמט עצמאי שמפשט העברה וגישה.
+
+* **הפצה ממוקדת פריסה**
+  שמירת הצגת המסמך בארכיון תואם אינטרנט לצורך סקירה או פרסום.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="תסריטי אוטומציה" %}}
+
+* **אריזת אינטרנט אוטומטית**
+  תהליכי עבודה ב‑Python יכולים ליצור קבצי MHTML מתבניות DOT לצורכי צינורות פרסום.
+
+* **יצירת תוכן ארכיוני**
+  ההמרה תומכת ביצירה חוזרת של ארכיוני אינטרנט ניידים ממקורות המסמך.
+
+* **פרסום מסמכים בכמות גדולה**
+  תהליכים תכנותיים יכולים לייצר פלטי MHTML מרבות תבניות ביעילות.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 

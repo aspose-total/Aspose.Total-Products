@@ -104,7 +104,41 @@ otherformats: Excel XLS XLSX CSV DIF FODS ODS SXC TSV XLAM XLSB XLT XLTM XLSM XL
 {{% /blocks/products/pf/agp/feature-section-col %}}
 {{< /blocks/products/pf/agp/feature-section >}}
 
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+{{< blocks/products/pf/agp/feature-section >}}
+
+המרת DOCM ל‑XLAM ממירה מסמכים עם מקרו לפלטי גיליון אלקטרוני בסגנון תוסף, המיועדים לתמוך בפונקציונליות גיליון אלקטרוני ניתנת לשימוש חוזר. היא שימושית כאשר לוגיקה מונעת מסמך או תוכן מובנה צריכים לתרום לתהליכי עבודה של גיליון אלקטרוני שניתן להרחבה.
+
+במערכות אוטומטיות, המרת DOCM ל‑XLAM מסייעת לארוז יכולות ניתנות לשימוש חוזר, לתקן פונקציות גיליון אלקטרוני מתקדמות, ולחבר תהליכים מבוססי מסמך עם סביבות חוברת עבודה ניתנות להרחבה.
+
+{{% blocks/products/pf/agp/feature-section-col title="Key Use Cases" %}}
+
+* **הרחבות גיליון אלקטרוני ניתנות לשימוש חוזר**
+  תומך ביצירת פלטים בסגנון תוסף מתוך לוגיקה מבוססת מסמך או תוכן מובנה.
+
+* **תקינה של תהליכי עבודה**
+  מסייע לרכז התנהגות גיליון אלקטרוני ניתנת לשימוש חוזר על פני פעולות חוזרות.
+
+* **הפעלת גיליון אלקטרוני מתקדמת**
+  מחבר תוכן מסמך שנכתב עם מקרים מתקדמים יותר של שימוש בגיליון אלקטרוני.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{% blocks/products/pf/agp/feature-section-col title="Automation Scenarios" %}}
+
+* **הכנת תוסף אוטומטית**
+  ממירה מקורות DOCM לפלטים תואמי XLAM עבור תהליכי עבודה של גיליון אלקטרוני מתוקנים.
+
+* **הפצת לוגיקה ניתנת לשימוש חוזר**
+  תומך במתן יכולות גיליון אלקטרוני חוזרות בקנה מידה רחב בין צוותים.
+
+* **אינטגרציה תכנותית של גיליון אלקטרוני**
+  מחברת המרת מסמכים עם תהליכי אוטומציה מתקדמים מבוססי חוברת עבודה.
+
+{{% /blocks/products/pf/agp/feature-section-col %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
+
 
 {{< blocks/products/pf/agp/other-autogen-total >}}
 
