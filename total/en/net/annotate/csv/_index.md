@@ -11,9 +11,10 @@ page_type: generated_detail
 hero:
   h1: Clear Comments from CSV Document Online or Manage via .NET
   h2: Develop powerful .NET based CSV document annotation utility application. Code listed for managing comments of CSV file through .NET.
-autogen:
-  other_total: true
+
 sections:
+
+
   - layout: columns
     columns:
       - width: 6
@@ -38,16 +39,6 @@ sections:
               - Select the specific Worksheet
               - Use Comments.RemoveAt with the specific column as index
               - Call the Save method to save the file
-  - layout: columns
-    columns:
-      - width: 12
-        blocks:
-          - type: code
-            title: '.NET Code: Delete Comments from CSV File'
-            gist:
-              user: aspose-com-gists
-              id: e3dcb9c341b81d4db3a404ca7cd6e4cf
-              file: delete-annotations-from-xls.cs
   - layout: columns
     columns:
       - width: 12
@@ -89,7 +80,7 @@ sections:
         blocks:
           - type: markdown
             markdown: |-
-              Develop CSV Document Annotation Application via .NET
+              # Develop CSV Document Annotation Application via .NET
 
               Need to develop a CSV annotation app or utility to provide feedback, make suggestions, or collaborate with others on the document? With [Aspose.Cells for .NET](https://products.aspose.com/cells/net/) a child API of [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code within its document annotation application. Powerful .NET library allows programming any document annotation solution. Moreover it can support many popular formats including CSV format.
             role: summary
