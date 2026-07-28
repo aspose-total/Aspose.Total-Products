@@ -52,16 +52,6 @@ sections:
               file: remove-comments-of-a-specific-author-from-word-documents.cs
   - layout: columns
     columns:
-      - width: 12
-        blocks:
-          - type: code
-            title: 'C# Code: Delete Specific Author Comments from Word File'
-            gist:
-              user: aspose-com-gists
-              id: 8705a5d67f7352e82188cb2dbe511bc6
-              file: remove-comments-of-a-specific-author-from-word-documents.cs
-  - layout: columns
-    columns:
       - width: 6
         blocks:
           - type: steps
