@@ -1,171 +1,119 @@
 ---
 title: Compress DOTM Files Online or via .NET
-description: Free online app to compress different DOTM files. C# .NET compression library code for DOTM documents. 
-
+description: Free online app to compress different DOTM files. C# .NET compression library code for DOTM documents.
 family: total
 platformtag: net
 feature: Compress
 informat: DOTM
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV ODS Image BMP GIF JPEG JPG PNG APNG TIFF
+semantic: true
+page_type: generated_detail
+hero:
+  h1: Compress DOTM File Online via Compression App or using .NET
+  h2: Develop powerful .NET based DOTM document compression applications. Freely compress various documents including DOTM files online via app with instant download.
+sections:
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: steps
+      role: online
+      title: Compress and Optimize DOTM Files Online using App
+      items:
+      - Upload DOTM files to compress and optimize.
+      - Choose the Compression Level (Low, Medium or High)
+      - Click the "Compress" button.
+      - Download the compressed DOTM file.
+      - View and get the result of compression by checking its size and content quality.
+  - width: 6
+    blocks:
+    - type: steps
+      role: api
+      title: Compress DOTM File via .NET
+      items:
+      - Reference .NET library into your project
+      - Load the document
+      - Call Cleanup() method
+      - Use GetChildNodes and then iterate through shapes to compress
+      - Use the Save Options and set CompressionLevel.Maximum
+      - Call Save method and get the compressed DOTM file
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: '.NET Code : Compress DOTM Files'
+      gist:
+        user: aspose-com-gists
+        id: 92bf466e94a5f17f78162a323c7e5e4e
+        file: compress-microsoft-word-documents.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: "DOTM (Macro-Enabled Word Template) files contain scripts and formatting that increase file size. Compressing DOTM files ensures faster access and easier management of automated templates.\n\n#### Use Cases: Compress DOTM Files for Macro-Enabled Word Template Efficiency\n\n- **Macro Template Distribution**  \n  Share DOTM templates organization-wide with reduced file size for faster deployment.\n\n- **Efficient Macro Storage**  \n  Archive a collection of DOTM templates without wasting disk space.\n\n- **Cross-System Deployment**  \n  Compress DOTM files for compatibility and reduced lag during template execution on various machines.\n\n- **Template Library Optimization**  \n  Keep template repositories lightweight and manageable with compressed macro-enabled files."
+      role: summary
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: 'Develop DOTM File Compression Application using .NET
+
+
+        Need to develop .NET script or utility app to easily compress multiple DOTM files? With [Aspose.Words for .NET](https://products.aspose.com/words/net/) child APIs of [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program compression app across documents. Powerful .NET library for document compression supports many popular formats including DOTM format.'
+      role: summary
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: markdown
+      title: .NET Compression Library for DOTM Files
+      markdown: 'There are three alternative options to install "Aspose.Words for .NET" or "Aspose.Total for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+
+        - Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). See [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+
+        - Install the library using [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) within Visual Studio IDE
+
+        - Install the library by hand using [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)'
+  - width: 6
+    blocks:
+    - type: markdown
+      title: System Requirements
+      markdown: 'Our product is fully cross-platform and supports all major .NET implementations following ''.NET Standard 2.0'' specification:
+
+
+        - Microsoft .NET Framework, starting from the earliest 2.0 version, and ending with the latest ''.NET Framework 4.8''
+
+        - .NET Core, starting from the earliest 2.0, and ending with the latest ''.NET 6''
+
+        - Mono >= 2.6.7
+
+
+        As .NET code doesn''t rely on the underlying hardware or operating system, but only on a Virtual Machine, so you are free to develop any kind of software for Windows, macOS, Android, iOS and Linux. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.
+
+
+        We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
+
+
+        For more details please refer to [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).'
+- type: faq
+  title: FAQs
+  items:
+  - question: Can I use above .NET code in my application?
+    answer: Yes, you are welcome to download this code. One can easily develop a professional solution to compress DOTM file using .NET. Use Aspose DOTM compression API to develop high-level, platform independent software in .NET.
+  - question: Is this document compression App work only on Windows?
+    answer: You have the flexibility to initiate document compression from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.
+  - question: Is it safe to use the online app to compress multiple DOTM documents?
+    answer: Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.
+  - question: What browser should to use App?
+    answer: You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online DOTM document compression.
+  - question: How can I compress multiple DOTM files?
+    answer: Start by uploading one or more files you want to compress. You can either drag and drop your DOTM files or simply click inside the white area. Afterward, click the 'Compress' button, and our online compression app will quickly process the uploaded files.
+  - question: How long does it take to compress the DOTM files?
+    answer: This compression application operates quickly, It may take a few seconds to upload the files and compress them.
+- type: autogen_total
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="Compress DOTM File Online via Compression App or using .NET" h2="Develop powerful .NET based DOTM document compression applications. Freely compress various documents including DOTM files online via app with instant download." >}}
 
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Compress and Optimize DOTM Files Online using App" %}}
-
-1. Upload DOTM files to compress and optimize.
-1. Choose the Compression Level (Low, Medium or High)
-1. Click the "Compress" button.
-1. Download the compressed DOTM file.
-1. View and get the result of compression by checking its size and content quality.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Compress DOTM File via .NET" %}}
-
-1. Reference .NET library into your project
-1. Load the document
-1. Call Cleanup() method
-1. Use GetChildNodes and then iterate through shapes to compress
-1. Use the Save Options and set CompressionLevel.Maximum
-1. Call Save method and get the compressed DOTM file
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title=".NET Code : Compress DOTM Files" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-microsoft-word-documents.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-DOTM (Macro-Enabled Word Template) files contain scripts and formatting that increase file size. Compressing DOTM files ensures faster access and easier management of automated templates.
-
-#### Use Cases: Compress DOTM Files for Macro-Enabled Word Template Efficiency
-
-- **Macro Template Distribution**  
-  Share DOTM templates organization-wide with reduced file size for faster deployment.
-
-- **Efficient Macro Storage**  
-  Archive a collection of DOTM templates without wasting disk space.
-
-- **Cross-System Deployment**  
-  Compress DOTM files for compatibility and reduced lag during template execution on various machines.
-
-- **Template Library Optimization**  
-  Keep template repositories lightweight and manageable with compressed macro-enabled files.
-
-{{% /blocks/products/pf/feature-page-summary %}}
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-
-<h2>Develop DOTM File Compression Application using .NET</h2>
-
-Need to develop .NET script or utility app to easily compress multiple DOTM files? With [Aspose.Words for .NET](https://products.aspose.com/words/net/) child APIs of [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program compression app across documents. Powerful .NET library for document compression supports many popular formats including DOTM format.<br />
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET Compression Library for DOTM Files" %}}
-
-There are three alternative options to install "Aspose.Words for .NET" or "Aspose.Total for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
-
-- Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). See [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Install the library using [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) within Visual Studio IDE
-- Install the library by hand using [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
-Our product is fully cross-platform and supports all major .NET implementations following '.NET Standard 2.0' specification:<br /><br />
-
-- Microsoft .NET Framework, starting from the earliest 2.0 version, and ending with the latest '.NET Framework 4.8'
-- .NET Core, starting from the earliest 2.0, and ending with the latest '.NET 6'
-- Mono >= 2.6.7
-<br /><br />
-As .NET code doesn't rely on the underlying hardware or operating system, but only on a Virtual Machine, so you are free to develop any kind of software for Windows, macOS, Android, iOS and Linux. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
-We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
-<br /><br />
-For more details please refer to [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
-<div class="col-md-12 tl bg-gray-dark howtolist section">
-  <a class="anchor" name="faqpage"></a>
-  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
-      <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
-      </div>
-      <div class="howtosection col-md-8">
-          <div>
-              <h2>FAQs</h2>
-               <ul>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Can I use above .NET code in my application?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to compress DOTM file using .NET. Use Aspose DOTM compression API to develop high-level, platform independent software in .NET.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is this document compression App work only on Windows?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to initiate document compression from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is it safe to use the online app to compress multiple DOTM documents?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
-                      </div>
-                  </li>                 
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>What browser should to use App?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online DOTM document compression.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How can I compress multiple DOTM files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Start by uploading one or more files you want to compress. You can either drag and drop your DOTM files or simply click inside the white area. Afterward, click the 'Compress' button, and our online compression app will quickly process the uploaded files.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How long does it take to compress the DOTM files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This compression application operates quickly, It may take a few seconds to upload the files and compress them.</span>
-                      </div>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </div>
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

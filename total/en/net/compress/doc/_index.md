@@ -1,172 +1,119 @@
 ---
 title: Compress DOC Files Online or via .NET
-description: Free online app to compress different DOC files. C# .NET compression library code for DOC documents. 
-
+description: Free online app to compress different DOC files. C# .NET compression library code for DOC documents.
 family: total
 platformtag: net
 feature: Compress
 informat: DOC
 otherformats: Word DOC DOT DOCX DOCM DOTX DOTM RTF ODT OTT TXT PDF Excel XLS XLSX XLSB XLSM XLT XLTX XLTM CSV TSV ODS Image BMP GIF JPEG JPG PNG APNG TIFF
+semantic: true
+page_type: generated_detail
+hero:
+  h1: Compress DOC File Online via Compression App or using .NET
+  h2: Develop powerful .NET based DOC document compression applications. Freely compress various documents including DOC files online via app with instant download.
+sections:
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: steps
+      role: online
+      title: Compress and Optimize DOC Files Online using App
+      items:
+      - Upload DOC files to compress and optimize.
+      - Choose the Compression Level (Low, Medium or High)
+      - Click the "Compress" button.
+      - Download the compressed DOC file.
+      - View and get the result of compression by checking its size and content quality.
+  - width: 6
+    blocks:
+    - type: steps
+      role: api
+      title: Compress DOC File via .NET
+      items:
+      - Reference .NET library into your project
+      - Load the document
+      - Call Cleanup() method
+      - Use GetChildNodes and then iterate through shapes to compress
+      - Use the Save Options and set CompressionLevel.Maximum
+      - Call Save method and get the compressed DOC file
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: '.NET Code : Compress DOC Files'
+      gist:
+        user: aspose-com-gists
+        id: 92bf466e94a5f17f78162a323c7e5e4e
+        file: compress-microsoft-word-documents.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: "DOC (Microsoft Word 97–2003 Document) files can become bulky over time, especially with embedded images or extensive formatting. Compressing DOC files helps improve compatibility, transferability, and storage efficiency.\n\n#### Use Cases: Compress DOC Files for Efficient Legacy Word Document Handling\n\n- **Legacy Document Optimization**  \n  Reduce DOC file sizes for faster access and sharing across older systems.\n\n- **Email Attachment Compliance**  \n  Compress DOCs to meet size limits for enterprise email systems.\n\n- **Archival Storage**  \n  Minimize space used by large volumes of archived DOC files from previous documentation cycles.\n\n- **Improved Loading Times**  \n  Ensure quicker access to older DOC files on low-bandwidth or low-performance environments."
+      role: summary
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: 'Develop DOC File Compression Application using .NET
+
+
+        Need to develop .NET script or utility app to easily compress multiple DOC files? With [Aspose.Words for .NET](https://products.aspose.com/words/net/) child APIs of [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program compression app across documents. Powerful .NET library for document compression supports many popular formats including DOC format.'
+      role: summary
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: markdown
+      title: .NET Compression Library for DOC Files
+      markdown: 'There are three alternative options to install "Aspose.Words for .NET" or "Aspose.Total for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+
+        - Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). See [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
+
+        - Install the library using [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) within Visual Studio IDE
+
+        - Install the library by hand using [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)'
+  - width: 6
+    blocks:
+    - type: markdown
+      title: System Requirements
+      markdown: 'Our product is fully cross-platform and supports all major .NET implementations following ''.NET Standard 2.0'' specification:
+
+
+        - Microsoft .NET Framework, starting from the earliest 2.0 version, and ending with the latest ''.NET Framework 4.8''
+
+        - .NET Core, starting from the earliest 2.0, and ending with the latest ''.NET 6''
+
+        - Mono >= 2.6.7
+
+
+        As .NET code doesn''t rely on the underlying hardware or operating system, but only on a Virtual Machine, so you are free to develop any kind of software for Windows, macOS, Android, iOS and Linux. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.
+
+
+        We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
+
+
+        For more details please refer to [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).'
+- type: faq
+  title: FAQs
+  items:
+  - question: Can I use above .NET code in my application?
+    answer: Yes, you are welcome to download this code. One can easily develop a professional solution to compress DOC file using .NET. Use Aspose DOC compression API to develop high-level, platform independent software in .NET.
+  - question: Is this document compression App work only on Windows?
+    answer: You have the flexibility to initiate document compression from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.
+  - question: Is it safe to use the online app to compress multiple DOC documents?
+    answer: Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.
+  - question: What browser should to use App?
+    answer: You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online DOC document compression.
+  - question: How can I compress multiple DOC files?
+    answer: Start by uploading one or more files you want to compress. You can either drag and drop your DOC files or simply click inside the white area. Afterward, click the 'Compress' button, and our online compression app will quickly process the uploaded files.
+  - question: How long does it take to compress the DOC files?
+    answer: This compression application operates quickly, It may take a few seconds to upload the files and compress them.
+- type: autogen_total
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header-widget h1="Compress DOC File Online via Compression App or using .NET" h2="Develop powerful .NET based DOC document compression applications. Freely compress various documents including DOC files online via app with instant download." >}}
 
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Compress and Optimize DOC Files Online using App" %}}
-
-1. Upload DOC files to compress and optimize.
-1. Choose the Compression Level (Low, Medium or High)
-1. Click the "Compress" button.
-1. Download the compressed DOC file.
-1. View and get the result of compression by checking its size and content quality.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Compress DOC File via .NET" %}}
-
-1. Reference .NET library into your project
-1. Load the document
-1. Call Cleanup() method
-1. Use GetChildNodes and then iterate through shapes to compress
-1. Use the Save Options and set CompressionLevel.Maximum
-1. Call Save method and get the compressed DOC file
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title=".NET Code : Compress DOC Files" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "92bf466e94a5f17f78162a323c7e5e4e" "compress-microsoft-word-documents.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-DOC (Microsoft Word 97–2003 Document) files can become bulky over time, especially with embedded images or extensive formatting. Compressing DOC files helps improve compatibility, transferability, and storage efficiency.
-
-#### Use Cases: Compress DOC Files for Efficient Legacy Word Document Handling
-
-- **Legacy Document Optimization**  
-  Reduce DOC file sizes for faster access and sharing across older systems.
-
-- **Email Attachment Compliance**  
-  Compress DOCs to meet size limits for enterprise email systems.
-
-- **Archival Storage**  
-  Minimize space used by large volumes of archived DOC files from previous documentation cycles.
-
-- **Improved Loading Times**  
-  Ensure quicker access to older DOC files on low-bandwidth or low-performance environments.
-
-{{% /blocks/products/pf/feature-page-summary %}}
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-
-<h2>Develop DOC File Compression Application using .NET</h2>
-
-Need to develop .NET script or utility app to easily compress multiple DOC files? With [Aspose.Words for .NET](https://products.aspose.com/words/net/) child APIs of [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program compression app across documents. Powerful .NET library for document compression supports many popular formats including DOC format.<br />
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET Compression Library for DOC Files" %}}
-
-There are three alternative options to install "Aspose.Words for .NET" or "Aspose.Total for .NET" onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
-
-- Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Words/). See [Documentation](https://docs.aspose.com/words/net/installation/#install-or-update-aspose-words-for-net-using-nuget)
-- Install the library using [Package Manager Console](https://docs.aspose.com/words/net/installation/#install-or-update-asposewords-using-package-manager-console) within Visual Studio IDE
-- Install the library by hand using [Windows Installer](https://docs.aspose.com/words/net/installation/#install-asposewords-for-net-using-installer)
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
-Our product is fully cross-platform and supports all major .NET implementations following '.NET Standard 2.0' specification:<br /><br />
-
-- Microsoft .NET Framework, starting from the earliest 2.0 version, and ending with the latest '.NET Framework 4.8'
-- .NET Core, starting from the earliest 2.0, and ending with the latest '.NET 6'
-- Mono >= 2.6.7
-<br /><br />
-As .NET code doesn't rely on the underlying hardware or operating system, but only on a Virtual Machine, so you are free to develop any kind of software for Windows, macOS, Android, iOS and Linux. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br /><br />
-We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
-<br /><br />
-For more details please refer to [Product Documentation](https://docs.aspose.com/words/net/system-requirements/).
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
-<div class="col-md-12 tl bg-gray-dark howtolist section">
-  <a class="anchor" name="faqpage"></a>
-  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
-      <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
-      </div>
-      <div class="howtosection col-md-8">
-          <div>
-              <h2>FAQs</h2>
-               <ul>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Can I use above .NET code in my application?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to compress DOC file using .NET. Use Aspose DOC compression API to develop high-level, platform independent software in .NET.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is this document compression App work only on Windows?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to initiate document compression from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is it safe to use the online app to compress multiple DOC documents?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
-                      </div>
-                  </li>                 
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>What browser should to use App?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online DOC document compression.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How can I compress multiple DOC files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Start by uploading one or more files you want to compress. You can either drag and drop your DOC files or simply click inside the white area. Afterward, click the 'Compress' button, and our online compression app will quickly process the uploaded files.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How long does it take to compress the DOC files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This compression application operates quickly, It may take a few seconds to upload the files and compress them.</span>
-                      </div>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </div>
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

@@ -1,191 +1,168 @@
 ---
 title: Online DOTX to JSON Conversion or Build .NET based Application to Convert DOTX Files
-description: Free online app to convert DOTX to JSON files. .NET C# conversion library code for DOTX documents. 
-
+description: Free online app to convert DOTX to JSON files. .NET C# conversion library code for DOTX documents.
 family: total
 platformtag: net
 feature: conversion
 informat: DOTX
 outformat: JSON
 otherformats: XLT EXCEL ODS XLTM TSV XLAM SXC DIF XLS XLSB XLTX XLSX CSV FODS
+semantic: true
+page_type: generated_detail
+hero:
+  h1: Online DOTX to JSON Conversion App and .NET Code to Convert DOTX Files
+  h2: Develop powerful .NET based DOTX conversion and exporting application. Convert single or multiple DOTX files to JSON and other formats via .NET automation API. Freely convert DOTX files online via app with instant download.
+sections:
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: app
+      src: https://widgets.aspose.cloud/total-conversion/?to=json&from=dotx
+      title: Free Online DOTX to JSON Conversion App
+      style: 'border: none; height: 426px;'
+      scrolling: 'no'
+      id: child-iframe
+      width: 80%
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: steps
+      role: online
+      title: Convert DOTX to JSON Files Online using App
+      items:
+      - Upload DOTX files to convert
+      - Wait for few seconds or more depending on DOTX size
+      - Keep an eye on uploading status bar
+      - Click the "Convert" button
+      - DOTX will be converted into JSON document
+      - Download the converted JSON file
+  - width: 6
+    blocks:
+    - type: steps
+      role: api
+      title: Convert DOTX to JSON via .NET Automation API
+      items:
+      - Open DOTX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
+      - Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
+      - Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class
+      - Save the document to JSON format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Convert DOTX to JSON via C# .NET
+      gist:
+        user: aspose-com-gists
+        id: 3320154ab7b06def2475ce90c7703f13
+        file: convert-word-to-json.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: Few more cases for saving DOTX to JSON with other features like Convert Protected DOTX to JSON Format via C#, Convert DOTX to JSON in Range via C#.
+      role: summary
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      gist:
+        user: aspose-com-gists
+        id: 3320154ab7b06def2475ce90c7703f13
+        file: convert-protected-word-to-json.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      gist:
+        user: aspose-com-gists
+        id: 3320154ab7b06def2475ce90c7703f13
+        file: convert-word-to-json-range.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: 'Develop DOTX File Conversion Application using .NET
+
+
+        Need to develop .NET based software application to easily save and export DOTX files to JSON document ? With [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program the conversion application across variety of formats including Microsoft Word, Excel, Powerpoint, PDF, Email files, Images and other formats. Powerful .NET library for document conversion, supports many popular formats including DOTX format. Exporting documents to other formats, programmers can use Aspose.Total for .NET child APIs inlcluding [Aspose.Words for .NET](https://products.aspose.com/words/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) and more.'
+      role: summary
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: markdown
+      title: DOTX Conversion Library for .NET
+      markdown: 'There are three alternative options to install Aspose.Total for .NET onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:
+
+
+        - Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). See [Documentation](https://docs.aspose.com/total/net/)
+
+        - Install the library using Package Manager Console as of its child API selection within Visual Studio IDE like [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc
+
+        - Install the library manually using Windows Installer'
+  - width: 6
+    blocks:
+    - type: markdown
+      title: Saving DOTX to JSON App Requirements
+      markdown: 'Our product is fully cross-platform and supports all major .NET implementations following ''.NET Standard 2.0'' specification:
+
+
+        - Microsoft .NET Framework, starting from the earliest 2.0 version, and ending with the latest ''.NET Framework 4.8''
+
+        - .NET Core, starting from the earliest 2.0, and ending with the latest ''.NET 6''
+
+        - Mono >= 2.6.7
+
+
+        As .NET code doesn''t rely on the underlying hardware or operating system, but only on a Virtual Machine, so you are free to develop any kind of software for Windows, macOS, Android, iOS and Linux. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.
+
+
+        We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.'
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: 'The conversion of .dotx files into JSON formats is necessary to unlock the full potential of your data sharing and collaboration capabilities. This conversion enables you to:
+
+
+        **Use Cases:**
+
+
+        *   **Collaborative Document Sharing**: Convert .dotx files to JSON, making it easier for teams to share and collaborate on documents in real-time.
+
+        *   **Data Exchange and Integration**: Use JSON to exchange and integrate data between different applications and platforms, ensuring seamless communication between systems.
+
+        *   **Dynamic Document Generation**: Convert .dotx files to JSON, enabling the creation of dynamic documents that can be easily edited and updated.
+
+        *   **Automated Reporting and Analytics**: Use JSON to generate automated reports and analytics, providing insights into key performance indicators (KPIs) and metrics.
+
+        *   **API Integration and Microservices**: Convert .dotx files to JSON, facilitating API integration and microservices development for scalable and modular applications.'
+      title: 'Transforming DOTX File to JSON Programmatically : Use Cases'
+- type: faq
+  title: FAQs
+  items:
+  - question: Can I use above .NET code in my application?
+    answer: Yes, you are welcome to download this code. One can easily develop a professional solution to export and save DOTX to JSON file using .NET. Use Aspose DOTX to JSON conversion API to develop high-level, platform independent software in .NET.
+  - question: Is this document exporting App work only on Windows?
+    answer: You have the flexibility to initiate exporting document from DOTX to JSON from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.
+  - question: Is it safe to use the online app to convert multiple DOTX documents?
+    answer: Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.
+  - question: What browser should to use App?
+    answer: You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online DOTX document conversion.
+  - question: How can I export multiple DOTX files?
+    answer: Start by uploading one or more files you want to convert. You can either drag and drop your DOTX files or simply click inside the white area. Afterward, click the 'Convert' button, and our online conversion app will quickly process the uploaded files.
+  - question: How long does it take to convert the DOTX files?
+    answer: This conversion application operates quickly, It may take a few seconds or more depending on the document size to upload and save them to required format.
+- type: autogen_total
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Online DOTX to JSON Conversion App and .NET Code to Convert DOTX Files" h2="Develop powerful .NET based DOTX conversion and exporting application. Convert single or multiple DOTX files to JSON and other formats via .NET automation API. Freely convert DOTX files online via app with instant download." >}}
 
-
-{{< blocks/products/pf/agp/feature-section >}}
-
-<div class="container-fluid agp-content bg-white aboutfile box-1 vh100 section nopbtm">
-<div class=container>
-<div class=row>
-<div class="demobox tc col-md-12 padding-0" align="center">
-
-<iframe title="Free Online DOTX to JSON Conversion App" style="border: none; height: 426px;" scrolling="no" src="https://widgets.aspose.cloud/total-conversion/?to=json&from=dotx" id="child-iframe" width="80%"></iframe>
-
-</div></div>
-</div></div>
-{{< /blocks/products/pf/agp/feature-section >}}
-
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to JSON Files Online using App" %}}
-
-1. Upload DOTX files to convert
-1. Wait for few seconds or more depending on DOTX size
-1. Keep an eye on uploading status bar
-1. Click the "Convert" button
-1. DOTX will be converted into JSON document
-1. Download the converted JSON file
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Convert DOTX to JSON via .NET Automation API" %}}
-
-
-1. Open DOTX file using [Document](https://reference.aspose.com/words/net/aspose.words/document) class
-2. Convert DOTX to HTML by using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method
-3. Load HTML document by using [Workbook](https://reference.aspose.com/cells/net/aspose.cells/workbook) class 
-4. Save the document to JSON format using [Save](https://reference.aspose.com/cells/net/aspose.cells.workbook/save/methods/4) method
-
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="Convert DOTX to JSON via C# .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-Few more cases for saving DOTX to JSON with other features like Convert Protected DOTX to JSON Format via C#, Convert DOTX to JSON in Range via C#.
-
-{{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-protected-word-to-json.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "3320154ab7b06def2475ce90c7703f13" "convert-word-to-json-range.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{% blocks/products/pf/feature-page-summary %}}
-
-<h2>Develop DOTX File Conversion Application using .NET</h2>
-
-Need to develop .NET based software application to easily save and export DOTX files to JSON document ? With [Aspose.Total for .NET](https://products.aspose.com/total/net/), any .NET developer can integrate the above API code to program the conversion application across variety of formats including Microsoft Word, Excel, Powerpoint, PDF, Email files, Images and other formats. Powerful .NET library for document conversion, supports many popular formats including DOTX format. Exporting documents to other formats, programmers can use Aspose.Total for .NET child APIs inlcluding [Aspose.Words for .NET](https://products.aspose.com/words/net/), [Aspose.Cells for .NET](https://products.aspose.com/cells/net/), [Aspose.Slides for .NET](https://products.aspose.com/slides/net/), [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/), [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net/) and more.<br /><br />
-
-{{% /blocks/products/pf/feature-page-summary %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="DOTX Conversion Library for .NET" %}}
-
-There are three alternative options to install Aspose.Total for .NET onto your system. Please choose one that resembles your needs and follow the step-by-step instructions:<br /><br />
-
-- Install a [NuGet Package](https://www.nuget.org/packages/Aspose.Total/). See [Documentation](https://docs.aspose.com/total/net/)
-- Install the library using Package Manager Console as of its child API selection within Visual Studio IDE like [Aspose.Wrods](https://docs.aspose.com/words/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.Cells](https://docs.aspose.com/cells/net/installation/#install-asposecells-using-package-manager-gui), [Aspose.PDF](https://docs.aspose.com/pdf/net/installation/#install-asposecells-using-package-manager-gui) etc
-- Install the library manually using Windows Installer
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Saving DOTX to JSON App Requirements" %}}
-
-Our product is fully cross-platform and supports all major .NET implementations following '.NET Standard 2.0' specification:<br /><br />
-
-- Microsoft .NET Framework, starting from the earliest 2.0 version, and ending with the latest '.NET Framework 4.8'
-- .NET Core, starting from the earliest 2.0, and ending with the latest '.NET 6'
-- Mono >= 2.6.7
-<br />
-As .NET code doesn't rely on the underlying hardware or operating system, but only on a Virtual Machine, so you are free to develop any kind of software for Windows, macOS, Android, iOS and Linux. Just make sure you have installed the corresponding version of .NET Framework, .NET Core, Windows Azure, Mono or Xamarin.<br />
-We recommend using Microsoft Visual Studio, Xamarin, and MonoDevelop IDE to create C#, F#, VB.NET applications.
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-
-
-{{% blocks/products/pf/feature-page-section  h2="Transforming DOTX File to JSON Programmatically : Use Cases" %}}
-The conversion of .dotx files into JSON formats is necessary to unlock the full potential of your data sharing and collaboration capabilities. This conversion enables you to:
-
-**Use Cases:**
-
-*   **Collaborative Document Sharing**: Convert .dotx files to JSON, making it easier for teams to share and collaborate on documents in real-time.
-*   **Data Exchange and Integration**: Use JSON to exchange and integrate data between different applications and platforms, ensuring seamless communication between systems.
-*   **Dynamic Document Generation**: Convert .dotx files to JSON, enabling the creation of dynamic documents that can be easily edited and updated.
-*   **Automated Reporting and Analytics**: Use JSON to generate automated reports and analytics, providing insights into key performance indicators (KPIs) and metrics.
-*   **API Integration and Microservices**: Convert .dotx files to JSON, facilitating API integration and microservices development for scalable and modular applications.
-{{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-<style>.howtolist li{margin-right: 0!important;line-height: 26px;position: relative;margin-bottom: 10px;font-size: 13px;list-style-type: none;}</style>
-<div class="col-md-12 tl bg-gray-dark howtolist section">
-  <a class="anchor" name="faqpage"></a>
-  <div class="container tl dflex" itemscope="" itemtype="https://schema.org/FAQPage">
-      <div class="col-md-4 howtosectiongfx">
-          <img class="social-panel-hide-on-mobile" src="https://www.groupdocs.cloud/templates/brand/images/groupdocs/conversion/groupdocs_conversion-brand.png" alt="FAQs" width="335" height="283">
-      </div>
-      <div class="howtosection col-md-8">
-          <div>
-              <h2>FAQs</h2>
-               <ul>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Can I use above .NET code in my application?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Yes, you are welcome to download this code. One can easily develop a professional solution to export and save DOTX to JSON file using .NET. Use Aspose DOTX to JSON conversion API to develop high-level, platform independent software in .NET.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is this document exporting App work only on Windows?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You have the flexibility to initiate exporting document from DOTX to JSON from any device, irrespective of the operating system it runs on, whether it be Windows, Linux, Mac OS, or Android. All that's required is a contemporary web browser and an active internet connection.</span>
-                      </div>
-                  </li>
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>Is it safe to use the online app to convert multiple DOTX documents?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Of course! The output files generated through our service will be securely and automatically removed from our servers within a 24-hour timeframe. As a result, the download links associated with these files will cease to be functional after this period.</span>
-                      </div>
-                  </li>                 
-                  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>What browser should to use App?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">You can use any modern web browser like Google Chrome, Firefox, Opera, or Safari for online DOTX document conversion.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How can I export multiple DOTX files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">Start by uploading one or more files you want to convert. You can either drag and drop your DOTX files or simply click inside the white area. Afterward, click the 'Convert' button, and our online conversion app will quickly process the uploaded files.</span>
-                      </div>
-                  </li>
- 		  <li itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-                      <div>
-                          <span itemprop="name"><b>How long does it take to convert the DOTX files?</b></span>
-                      </div>
-                      <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                          <span itemprop="text">This conversion application operates quickly, It may take a few seconds or more depending on the document size to upload and save them to required format.</span>
-                      </div>
-                  </li>
-              </ul>
-          </div>
-      </div>
-  </div>
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

@@ -8,75 +8,116 @@ feature: conversion
 informat: CGM
 outformat: PPTM
 otherformats: POT OTP PPS POTX POWERPOINT XAML POTM PPT PPSM PPSX SWF ODP
+semantic: true
+page_type: generated_detail
+hero:
+  h1: Render CGM to PPTM via .NET
+  h2: .NET API to Export CGM to PPTM on Windows, macOS, and Linux without using Microsoft<sup>&reg;</sup> PowerPoint
+sections:
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: 'Aspose.Total for .NET is a powerful package of File Format Automation APIs that can be used to easily convert CGM to PPTM in two simple steps. The first step is to use the PDF Processing API, Aspose.PDF for .NET, to transform the CGM file format into PPTX. Once the CGM file has been converted to PPTX, the Presentation Processing API, Aspose.Slides for .NET, can be used to convert the PPTX to PPTM.
+
+
+        The Aspose.Total for .NET package provides a comprehensive set of APIs that can be used to automate the process of converting CGM to PPTM. The PDF Processing API, Aspose.PDF for .NET, provides a range of features that can be used to convert CGM files to PPTX. This includes the ability to convert CGM files to PDF, as well as the ability to convert PDF files to PPTX. The Presentation Processing API, Aspose.Slides for .NET, provides a range of features that can be used to convert PPTX to PPTM. This includes the ability to convert PPTX to PPTM, as well as the ability to convert PPTM to other file formats.
+
+
+        The Aspose.Total for .NET package is a powerful and easy to use solution for automating the process of converting CGM to PPTM. The PDF Processing API, Aspose.PDF for .NET, provides a range of features that can be used to convert CGM files to PPTX. The Presentation Processing API, Aspose.Slides for .NET, provides a range of features that can be used to convert PPTX to PPTM. With the help of these APIs, the process of converting CGM to PPTM can be automated in two simple steps.'
+      role: summary
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: steps
+      role: api
+      title: .NET API to Convert CGM to PPTM
+      items:
+      - Open CGM file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+      - Convert CGM to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+      - Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class
+      - Save the document to PPTM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pptm` as SaveFormat
+  - width: 6
+    blocks:
+    - type: markdown
+      title: Conversion Requirements
+      markdown: 'Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
+
+
+        Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).'
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      gist:
+        user: aspose-com-gists
+        id: 96edf7f9c1335b3ced21f24a1efa17cc
+        file: convert-cgm-to-powerpoint.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: While converting CGM to PPTM, you might need extra XMP metadata information to prioritize your batch conversion process. For example you can get and sort your conversion documents based on creation date and process the documents accordingly. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) allows you to access a CGM file’s XMP metadata. To get a CGM file’s metadata, you can create a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) object and open the input CGM file. After that, you can get the file’s metadata using the [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) property.
+      title: Get XMP Metadata from CGM File via .NET
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      gist:
+        user: aspose-com-gists
+        id: 96edf7f9c1335b3ced21f24a1efa17cc
+        file: decrypt-cgm-file.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: By using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API, you can further enhance the features of your conversion application. One of the feature can be to create your output file read only to increase security. The API allows you to set your PPTM file to Read-Only, which means users (after they open the presentation) see the Read-Only recommendation.
+      title: Create Read Only PPTM File via .NET
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      language: cs// load pptx with an instance of presentation
+      code: 'Presentation presentation = new Presentation("PptxOutput.pptx");
+
+        // make PPTM read only
+
+        presentation.ProtectionManager.ReadOnlyRecommended = true;
+
+        // call save method while passing SaveFormat.Pptm
+
+        presentation.Save("output.pptm", SaveFormat.Pptm);'
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: 'The conversion of CGM (Computer Graphics Metafile) files into PPTM (Microsoft PowerPoint Macro-Enabled Template) formats is necessary to unlock the full potential of your presentation visualization and analysis capabilities. This conversion enables you to:
+
+
+        **Use Cases:**
+
+
+        *   **Presentation Development**: Convert CGM files to create engaging presentations, animations, and interactions, making it ideal for corporate training, marketing materials, and sales pitches.
+
+        *   **Infographic Creation**: Use PPTM to design and visualize data-driven infographics, highlighting key trends and insights in a concise and compelling manner.
+
+        *   **Interactive Storytelling**: Convert CGM files to create immersive presentations that incorporate multimedia elements, such as audio, video, and animations, to captivate audiences and convey complex information in an engaging way.
+
+        *   **Business Intelligence Reporting**: Use PPTM to visualize business data, track key performance indicators (KPIs), and identify trends, enabling better decision-making and strategic planning.
+
+        *   **E-learning Development**: Convert CGM files to create interactive e-learning modules, simulations, and games that enhance knowledge retention, engagement, and overall learning experience.'
+      title: 'Transforming CGM File to PPTM Programmatically : Use Cases'
+- type: autogen_total
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render CGM to PPTM via .NET" h2=".NET API to Export CGM to PPTM on Windows, macOS, and Linux without using Microsoft<sup>&reg;</sup> PowerPoint" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-
-Aspose.Total for .NET is a powerful package of File Format Automation APIs that can be used to easily convert CGM to PPTM in two simple steps. The first step is to use the PDF Processing API, Aspose.PDF for .NET, to transform the CGM file format into PPTX. Once the CGM file has been converted to PPTX, the Presentation Processing API, Aspose.Slides for .NET, can be used to convert the PPTX to PPTM.
-
-The Aspose.Total for .NET package provides a comprehensive set of APIs that can be used to automate the process of converting CGM to PPTM. The PDF Processing API, Aspose.PDF for .NET, provides a range of features that can be used to convert CGM files to PPTX. This includes the ability to convert CGM files to PDF, as well as the ability to convert PDF files to PPTX. The Presentation Processing API, Aspose.Slides for .NET, provides a range of features that can be used to convert PPTX to PPTM. This includes the ability to convert PPTX to PPTM, as well as the ability to convert PPTM to other file formats.
-
-The Aspose.Total for .NET package is a powerful and easy to use solution for automating the process of converting CGM to PPTM. The PDF Processing API, Aspose.PDF for .NET, provides a range of features that can be used to convert CGM files to PPTX. The Presentation Processing API, Aspose.Slides for .NET, provides a range of features that can be used to convert PPTX to PPTM. With the help of these APIs, the process of converting CGM to PPTM can be automated in two simple steps.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title=".NET API to Convert CGM to PPTM" %}}
-1. Open CGM file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Convert CGM to PPTX by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load PPTX file by using [Presentation](https://reference.aspose.com/slides/net/aspose.slides/presentation) class 
-4. Save the document to PPTM format using [Save](https://reference.aspose.com/slides/net/aspose.slides.presentation/save/methods/5) method and set `Pptm` as SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "96edf7f9c1335b3ced21f24a1efa17cc" "convert-cgm-to-powerpoint.cs" >}}
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-section  h2="Get XMP Metadata from CGM File via .NET" %}}
-While converting CGM to PPTM, you might need extra XMP metadata information to prioritize your batch conversion process. For example you can get and sort your conversion documents based on creation date and process the documents accordingly. [Aspose.PDF for .NET](https://products.aspose.com/pdf/net/) allows you to access a CGM file’s XMP metadata. To get a CGM file’s metadata, you can create a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) object and open the input CGM file. After that, you can get the file’s metadata using the [Metadata](https://reference.aspose.com/pdf/net/aspose.pdf/document/properties/metadata) property.
-{{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "96edf7f9c1335b3ced21f24a1efa17cc" "decrypt-cgm-file.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Create Read Only PPTM File via .NET" %}}
- By using [Aspose.Slides for .NET](https://products.aspose.com/slides/net/) API, you can further enhance the features of your conversion application. One of the feature can be to create your output file read only to increase security. The API allows you to set your PPTM file to Read-Only, which means users (after they open the presentation) see the Read-Only recommendation.
-{{% blocks/products/pf/feature-page-code %}}
-```cs// load PPTX with an instance of Presentation
-Presentation presentation = new Presentation("PptxOutput.pptx");
-// make PPTM read only
-presentation.ProtectionManager.ReadOnlyRecommended = true;
-// call save method while passing SaveFormat.Pptm
-presentation.Save("output.pptm", SaveFormat.Pptm);     
-```
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Transforming CGM File to PPTM Programmatically : Use Cases" %}}
-The conversion of CGM (Computer Graphics Metafile) files into PPTM (Microsoft PowerPoint Macro-Enabled Template) formats is necessary to unlock the full potential of your presentation visualization and analysis capabilities. This conversion enables you to:
-
-**Use Cases:**
-
-*   **Presentation Development**: Convert CGM files to create engaging presentations, animations, and interactions, making it ideal for corporate training, marketing materials, and sales pitches.
-*   **Infographic Creation**: Use PPTM to design and visualize data-driven infographics, highlighting key trends and insights in a concise and compelling manner.
-*   **Interactive Storytelling**: Convert CGM files to create immersive presentations that incorporate multimedia elements, such as audio, video, and animations, to captivate audiences and convey complex information in an engaging way.
-*   **Business Intelligence Reporting**: Use PPTM to visualize business data, track key performance indicators (KPIs), and identify trends, enabling better decision-making and strategic planning.
-*   **E-learning Development**: Convert CGM files to create interactive e-learning modules, simulations, and games that enhance knowledge retention, engagement, and overall learning experience.
-{{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}

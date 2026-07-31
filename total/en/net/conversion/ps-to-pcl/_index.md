@@ -8,78 +8,114 @@ feature: conversion
 informat: PS
 outformat: PCL
 otherformats: MHTML WORDML MARKDOWN DOTM FLATOPC XAMLFLOW ODT DOTX RTF DOCM OTT DOT
+semantic: true
+page_type: generated_detail
+hero:
+  h1: Render PS to PCL via .NET
+  h2: .NET API to Export PS to PCL on Windows, macOS, and Linux without using Microsoft Word
+sections:
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: "Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to add powerful document manipulation and conversion features to their .NET applications. It includes the Aspose.PDF for .NET API, which provides advanced PDF processing capabilities, allowing developers to convert PS file formats to DOC. Additionally, the Aspose.Words for .NET API provides powerful document processing capabilities, allowing developers to render DOC files to PCL. \n\nThe Aspose.Total for .NET suite also includes APIs for manipulating and converting other popular document formats, such as Excel, PowerPoint, and Outlook. It also includes APIs for manipulating images, barcodes, and email messages. With Aspose.Total for .NET, developers can easily add document manipulation and conversion features to their .NET applications. \n\nThe Aspose.Total for .NET suite is easy to use and provides a comprehensive set of features for manipulating and converting documents. It is also highly scalable\
+        \ and can be used in both small and large-scale applications. Additionally, Aspose.Total for .NET is backed by a team of dedicated support professionals who are available to help developers with any issues they may encounter. \n\nOverall, Aspose.Total for .NET is an excellent choice for developers who need to add document manipulation and conversion features to their .NET applications. With its comprehensive set of features, scalability, and excellent customer support, Aspose.Total for .NET is the perfect choice for any .NET developer."
+      role: summary
+- layout: columns
+  columns:
+  - width: 6
+    blocks:
+    - type: steps
+      role: api
+      title: C# API to Convert PS to PCL
+      items:
+      - Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
+      - Convert PS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
+      - Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words
+      - Save the document to PCL format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pcl as SaveFormat
+  - width: 6
+    blocks:
+    - type: markdown
+      title: Conversion Requirements
+      markdown: 'Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
+
+
+        Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).'
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      gist:
+        user: aspose-com-gists
+        id: 03ca9b446f7a7fc78d49a01c742a2540
+        file: convert-ps-to-docm.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: Before converting PS to PCL, if you want to decrypt your document you can do it by using the API. In order to decrypt the PDF file, you first need to create a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) object and open the PS using the owner’s password. After that, you need to call [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) method of the Document object. Finally, save the updated file using Save method of the Document object.
+      title: Decrypt PS File using Owner Password via .NET
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      gist:
+        user: aspose-com-gists
+        id: 03ca9b446f7a7fc78d49a01c742a2540
+        file: decrypt-ps-file.cs
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: In order to protect your PCL from editing and to prevent other people from editing sensitive and confidential information in your document, you can also set the protection of the document using the API. You can limit the ability to edit a document and only allow certain actions with it. This can be done using [Aspose.Words for .NET](https://products.aspose.com/words/net/) API. It enables you to control the way you restrict the content using the [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code.
+      title: Create ReadOnly PCL- File via .NET
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: code
+      title: Code example
+      language: cs// load doc with an instance of document
+      code: 'Document document = new Document("input.doc");
+
+        // apply document protection and set protection password
+
+        doc.Protect(ProtectionType.ReadOnly, "password");
+
+        // call save method while passing SaveFormat.Pcl
+
+        document.Save("output.pcl", SaveFormat.Pcl);'
+- layout: columns
+  columns:
+  - width: 12
+    blocks:
+    - type: markdown
+      markdown: 'PS (PostScript) files are used to store raster graphics information, making them ideal for creating complex images and illustrations. However, when working with vector graphics data, EPS (Encapsulated PostScript) files become essential for precise control over layout and design.
+
+
+        The conversion of PS files into EPS formats is necessary to unlock the full potential of your design capabilities. This conversion enables you to:
+
+
+        **Use Cases:**
+
+
+        *   **Logo Design and Branding**: Convert PS files to create vector logos, maintain scalability, and ensure consistency across various mediums.
+
+        *   **Technical Illustration and Documentation**: Use EPS to create detailed illustrations, annotate complex designs, and provide accurate technical information.
+
+        *   **Graphic Design and Publishing**: Convert PS files to create high-quality graphics, produce professional-looking publications, and meet design standards.
+
+        *   **Engineering and Architecture Visualization**: Use EPS to visualize complex models, simulate real-world scenarios, and communicate design concepts effectively.
+
+        *   **Data Visualization and Presentation**: Convert PS files to create dynamic visualizations, present complex data in an engaging manner, and facilitate better understanding of technical information.'
+      title: 'Transforming PS File to PCL Programmatically : Use Cases'
+- type: autogen_total
 ---
-{{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Render PS to PCL via .NET" h2=".NET API to Export PS to PCL on Windows, macOS, and Linux without using Microsoft Word" >}}
 
-{{% blocks/products/pf/feature-page-summary %}}
-
-Aspose.Total for .NET is a comprehensive suite of APIs that enables developers to add powerful document manipulation and conversion features to their .NET applications. It includes the Aspose.PDF for .NET API, which provides advanced PDF processing capabilities, allowing developers to convert PS file formats to DOC. Additionally, the Aspose.Words for .NET API provides powerful document processing capabilities, allowing developers to render DOC files to PCL. 
-
-The Aspose.Total for .NET suite also includes APIs for manipulating and converting other popular document formats, such as Excel, PowerPoint, and Outlook. It also includes APIs for manipulating images, barcodes, and email messages. With Aspose.Total for .NET, developers can easily add document manipulation and conversion features to their .NET applications. 
-
-The Aspose.Total for .NET suite is easy to use and provides a comprehensive set of features for manipulating and converting documents. It is also highly scalable and can be used in both small and large-scale applications. Additionally, Aspose.Total for .NET is backed by a team of dedicated support professionals who are available to help developers with any issues they may encounter. 
-
-Overall, Aspose.Total for .NET is an excellent choice for developers who need to add document manipulation and conversion features to their .NET applications. With its comprehensive set of features, scalability, and excellent customer support, Aspose.Total for .NET is the perfect choice for any .NET developer.
-
-{{% /blocks/products/pf/feature-page-summary  %}}
-
-{{< blocks/products/pf/agp/feature-section >}}
-{{% blocks/products/pf/agp/feature-section-col title="C# API to Convert PS to PCL" %}}
-1. Open PS file using [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) class
-2. Convert PS to Doc by using [Save](https://reference.aspose.com/pdf/net/aspose.pdf.document/save/methods/5) method
-3. Load Doc file by using [Document](https://reference.aspose.com/words/net/aspose.words/document) class of Aspose.Words 
-4. Save the document to PCL format using [Save](https://reference.aspose.com/words/net/aspose.words.document/save/methods/4) method and set Pcl as SaveFormat
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="Conversion Requirements" %}}
-Install from command line as ```nuget install Aspose.Total``` or via Package Manager Console of Visual Studio with ```Install-Package Aspose.Total```.
-
-Alternatively, get the offline MSI installer or DLLs in a ZIP file from [downloads](https://releases.aspose.com/total/net).
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "03ca9b446f7a7fc78d49a01c742a2540" "convert-ps-to-docm.cs" >}}
-{{% /blocks/products/pf/feature-page-code %}}
-{{< /blocks/products/pf/agp/feature-section >}}
-
-{{% blocks/products/pf/feature-page-section  h2="Decrypt PS File using Owner Password via .NET" %}}
-Before converting PS to PCL, if you want to decrypt your document you can do it by using the API. In order to decrypt the PDF file, you first need to create a [Document](https://reference.aspose.com/pdf/net/aspose.pdf/document) object and open the PS using the owner’s password. After that, you need to call [Decrypt](https://reference.aspose.com/pdf/net/aspose.pdf/document/methods/decrypt) method of the Document object. Finally, save the updated file using Save method of the Document object. 
-{{% blocks/products/pf/feature-page-code %}}
-{{< gist "aspose-com-gists" "03ca9b446f7a7fc78d49a01c742a2540" "decrypt-ps-file.cs" >}}
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Create ReadOnly PCL- File via .NET" %}}
-In order to protect your PCL from editing and to prevent other people from editing sensitive and confidential information in your document, you can also set the protection of the document using the API. You can limit the ability to edit a document and only allow certain actions with it. This can be done using [Aspose.Words for .NET](https://products.aspose.com/words/net/) API. It enables you to control the way you restrict the content using the [ProtectionType](https://reference.aspose.com/words/net/aspose.words/protectiontype) enumeration parameter. You can set your document to read-only by using the following lines of code. 
-{{% blocks/products/pf/feature-page-code %}}
-```cs// load Doc with an instance of Document
-Document document = new Document("input.doc");
-// apply document protection and set protection password
-doc.Protect(ProtectionType.ReadOnly, "password");
-// call save method while passing SaveFormat.Pcl
-document.Save("output.pcl", SaveFormat.Pcl);    
-```
-{{% /blocks/products/pf/feature-page-code  %}}
-{{% /blocks/products/pf/feature-page-section %}}
-
-{{% blocks/products/pf/feature-page-section  h2="Transforming PS File to PCL Programmatically : Use Cases" %}}
-PS (PostScript) files are used to store raster graphics information, making them ideal for creating complex images and illustrations. However, when working with vector graphics data, EPS (Encapsulated PostScript) files become essential for precise control over layout and design.
-
-The conversion of PS files into EPS formats is necessary to unlock the full potential of your design capabilities. This conversion enables you to:
-
-**Use Cases:**
-
-*   **Logo Design and Branding**: Convert PS files to create vector logos, maintain scalability, and ensure consistency across various mediums.
-*   **Technical Illustration and Documentation**: Use EPS to create detailed illustrations, annotate complex designs, and provide accurate technical information.
-*   **Graphic Design and Publishing**: Convert PS files to create high-quality graphics, produce professional-looking publications, and meet design standards.
-*   **Engineering and Architecture Visualization**: Use EPS to visualize complex models, simulate real-world scenarios, and communicate design concepts effectively.
-*   **Data Visualization and Presentation**: Convert PS files to create dynamic visualizations, present complex data in an engaging manner, and facilitate better understanding of technical information.
-{{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
-
-{{< blocks/products/pf/agp/other-autogen-total >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
-
-{{< /blocks/products/pf/feature-page-wrap >}}
